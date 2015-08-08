@@ -30,5 +30,32 @@ OL,20,
 OL,21,  The free family festival that takes   
 OL,22,  over the town of Stroud               
 OL,23,                                        
-OL,24, AScheduleBNewsCFood and DrinkFLinks    
-FL,100,100,100,100,100,100
+OL,24, AIndex   BNewsCFood and DrinkFLinks    
+PN,1ff00
+SC,0001
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
+OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
+OL,3,Q]S >!j7# 7k555ojzjpj j 55j "m
+OL,4,Q#######################################
+OL,5,CFringefax is teletext for Stroud       
+OL,6, also online at teastop.plus.com        
+OL,7,                                        
+OL,8,                                        
+OL,9,AMGPages from Fringefax.............110
+OL,10,CBANK GARDENS  G201CPRINCE ALBERT   G301
+OL,11,                                        
+OL,12,BMGMain index.......................101
+OL,13,CSTAR ANISE   ...     NSDOWN HALL   G304
+OL,14,                                        
+OL,15,CMGWhat's on where..................200
+OL,16,CLANSDOWN HALL G207CLOCAL NEWS      G150
+OL,17,                                        
+OL,18,FMGBamboozle........................150
+OL,19,CECOTRICITY    G502CNOW AND NEXT    G140
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,A]CWant this on your phone or tablet?700
+OL,24,ACarousel  BIndexC What's on FBamboozle 
+FL,110,102,200,150,100,100
