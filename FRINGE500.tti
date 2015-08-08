@@ -1,0 +1,34 @@
+DE,Description goes here
+DS,inserter
+SP,E:\peterstuff\fringe15\teletext\FRINGE500.tti
+CT,8,T
+PS,8000
+RE,0
+PN,10100
+SC,0000
+OL,0,XXXXXXXXFRINGEFAX  DAY dd MTH C hh:nn.ss
+OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
+OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
+OL,3,Q]S >!j7# 7k555ojzjpj j 55j "m
+OL,4,Q#######################################
+OL,5,CNews                                   
+OL,6,MNEWS ITEM WILL GO HERE            C 210
+OL,7,                                        
+OL,8,D```````````````````````````````````````
+OL,9, VENUES         200 OUTER FRINGE     300
+OL,10,CBANK GARDENS  G201CPRINCE ALBERT   G301
+OL,11,CSUB ROOMS     G202CCROWN & SCEPTRE G302
+OL,12,CCORNHILL      G203CBLACK BOOK CAFE G303
+OL,13,CSTAR ANISE    G204CLANSDOWN HALL   G304
+OL,14,CTWITCHETTS    G205C                    
+OL,15,CBAR GREYHOUND G206GGENERAL INFORMATION 
+OL,16,CLANSDOWN HALL G207CLOCAL NEWS      G150
+OL,17,                   CSTROUD WEATHER  G400
+OL,18, SPONSORS       500CBBC NEWS INDEX  G600
+OL,19,CECOTRICITY    G502CNOW AND NEXT    G140
+OL,20,CSTROUD BREWERYG503CFOR TOURISTS    G102
+OL,21,CECYCLE        G504CMADE IN STROUD  G160
+OL,22,CBOTTLE GREEN  G505CSHOPPING        G180
+OL,23,D]CWant this on your phone or tablet?700
+OL,24,AHeadlines  BMusic CShopping FKids      
+FL,100,100,100,100,100,100
