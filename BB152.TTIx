@@ -1,10 +1,12 @@
-SP,c:\minited\Inserter\onair\P152.tti
 DE,Read back page  14/12/01
-PN,15200
+DS,inserter
+SP,E:\peterstuff\fringe15\teletext\BB152.TTIx
 CT,99,C
-SC,0000
 PS,8040
-MS,0
+RE,0
+PN,15200
+SC,0000
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Sjk5pp0pppp0up`pp0ppp`pp05ppp 5     
 OL,2,Sjk4s57k57jk57bs55w 5     
 OL,3,Sj~5}55j5}j~5}j|45}| |4     
@@ -15,19 +17,18 @@ OL,7,Gyour fastext keys press the colour
 OL,8,Gallocated to your chosen answer. Get   
 OL,9,Gone wrong and you have to try again.   
 OL,10,CCan you answer all 12 in one attempt?  
-OL,11,G]DHello. Thanks again for\             
-OL,12,G]Dall your letters this  \  W`,####)p  
-OL,13,G]Dyear. Bambette's still \ W6!  Sp~0Wk 
-OL,14,G]Dwading through them as \  S<|~3oW"5
-OL,15,G]Dwe speak. Don't forget \ Sjzjojz4ht
-OL,16,G]Dwe still don't broadcast\Sb?'~7/w)w>
-OL,17,G]Dbirthday messages, but \ S?(}rsx=jnw 
-OL,18,G]Dthat issue will be under\Sm}tsssx}?j 
-OL,19,G]Dreview next year. Press\  S+/}|/a'T
-OL,20,G]Dred to start.\    W#/lpTx}Wlp  px,T~
+OL,11,G]DSurprise! I bet you    \             
+OL,12,G]Ddidn't think that I'd  \  W`,####)p  
+OL,13,G]Dbe making an appearance\ W6!  Sp~0Wk 
+OL,14,G]Dat Stroud Fringe.      \  S<|~3oW"5
+OL,15,G]Dwe speak. While waiting\ Sjzjojz4ht
+OL,16,G]Dbetween bands why not  \\Sb?'~7/w)w>
+OL,17,G]Dtry my Stroud themed   \ S?(}rsx=jnw 
+OL,18,G]Dquiz.                  \\Sm}tsssx}?j 
+OL,19,G]DPress Red to start     \  S+/}|/a'T
+OL,20,                     W#/lpTx}Wlp  px,T~
 OL,21,A```````````````````````````````````````
-OL,22,A]GHRECEIVE A LETTER FROM SANTA THIS    
-OL,23,A]GH     CHRISTMAS SEE ITV1 p352        
-OL,24,AQuestion 1  BChess  CBridge FFun&Games 
-FL,12B,153,154,150,101,F
-@
+OL,22,A]GHTry the special Festivale           
+OL,23,A]GHFRINGE FEVER! From Stroud Brewery   
+OL,24,AQuestion 1 BIndex CWhats On FSponsors  
+FL,12b,153,154,150,101,f
