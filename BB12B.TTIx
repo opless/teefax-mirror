@@ -1,33 +1,34 @@
-SP,c:\minited\Inserter\onair\P12B.tti
 DE,Read back page  14/12/01
-PN,12B00
+DS,inserter
+SP,E:\peterstuff\fringe15\teletext\BB12B.TTIx
 CT,99,C
-SC,0000
 PS,8040
-MS,0
+RE,0
+PN,12b00
+SC,0000
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                            W6!  Sp~0Wi 
 OL,2,G]DQuestion 1.           \   S<|~3oW"5
-OL,3,G]DThe character John    \  Sjzjojz4ht
-OL,4,G]DMcClane was the star  \  Sb?'~7/w)w>
-OL,5,G]Dof which film?        \ \S?(}rsx="}w 
-OL,6,                W#/|ppppp   Sm}tsssx}?j 
+OL,3,G]DIn 1894, Stroud Hs in \  Sjzjojz4ht
+OL,4,G]DRussell St was built  \  Sb?'~7/w)w>
+OL,5,G]Dfor which political   \ \S?(}rsx="}w 
+OL,6,G]Dparty? \     W#/|ppppp   Sm}tsssx}?j 
 OL,7,                             S+/}|/a'T
 OL,8,                         T x}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GTrue Grit                     
+OL,10, M  A]G \GLiberals                      
 OL,11,                                        
 OL,12,                                        
-OL,13, M  B]D \GDie Hard                      
+OL,13, M  B]D \GConservatives                 
 OL,14,                                        
 OL,15,                                        
-OL,16, M  C]D \GSpeed                         
+OL,16, M  C]D \GLabour                        
 OL,17,                                        
 OL,18,                                        
-OL,19, M  F]D \GThe Usual Suspects            
+OL,19, M  F]D \GSocial Democratic Federation  
 OL,20,                                        
 OL,21,                                        
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A?????    B?????    C?????    F?????    
-FL,12E,12C,12E,12E,F,F
-@
+FL,12e,12c,12e,12e,f,f
