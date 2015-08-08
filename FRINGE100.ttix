@@ -3,7 +3,6 @@ DS,inserter
 SP,E:\peterstuff\fringe15\teletext\FRINGE100.ttix
 CT,8,T
 PS,8000
-RE,0
 PN,10000
 SC,0000
 OL,0,XXXXXXXXSFRINGEFAXGDAY MTH dd   hh:nn.ss
@@ -31,7 +30,7 @@ OL,21,  The free family festival that takes
 OL,22,  over the town of Stroud               
 OL,23,                                        
 OL,24, AIndex   BNewsCFood and DrinkFLinks    
-PN,1ff00
+PN,10001
 SC,0001
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
