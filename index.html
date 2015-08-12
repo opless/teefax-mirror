@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Teletext - Droidfax</title>
+</head>
+<body style="background-color: #6080A0">
+	<script src="processing.min.js"></script>
+	<div style="display:inline-block">
+	<div style="display:inline-block;background-color:#803030;">
+		<canvas data-processing-sources="teletext.pde"></canvas><br/>
+		<a href="howto.html">How to make your own teletext service<a/><br/>
+	</div>
+	<!-- Some text about other facilities for making teletext below-->
+	<div style="display:inline-block;background-color:#7070AA;width:400px;">
+		<h1>Getting started with teletext</h1>
+		First design some pages in an editor. An editor lets you
+		enter text and graphics within the limitations of the teletext system<br/>
+		These editors will run on modern computers:<br/>
+		The <a href="http://teletext40.com">teletext40</a> editor is the least fuss and will run
+		in any browser. <br/>
+		<a href="http://teastop.co.uk/teletext/wxted/">wxTED</a> is a Windows application.
+		It has transmission features such as page numbering, carousel subpage sequences, C-flags
+		for subtitles, newsflashes etc. It also has a publish feature so you can send your page to an inserter with a click of the mouse.
+		</p>
+		<p>
+		When you have made some pages you will want to show them off. 
+		If you have a Raspberry Pi then <a href="http://teastop.co.uk/teletext/vbit/">VBIT-Pi</a> is the cheapest option for real teletext.
+		</p>
+		<p>
+		Droidfax is a handy javascript viewer that you can embed on a web page. Oh look, there is Droidfax running on your left!
+		</p>
+		<p>
+		You can also export/import between teletext40 and wxTED but this seems to be broken. I'll get on with fixing that now.
+		</p>
+		
+		An older project is <a href="http://teastop.co.uk/vbit-pi/">VBIT-Pi</a> with custom hardware. The big advantage of this design is that
+		it generates genlocked teletext so you can overlay teletext on any video source. This is
+		especially useful for any mixed video/text effect such as in subtitles and newsflashes.
+		The CAD and code are freely available but units are not easy to make.
+		</p>
+		<p>
+		Much easier to make is Alistair Buxton's remarkably economical design.
+		Again I don't think that there are any ready made units so you will need to build it yourself.
+		</p>
+		
+	</div>
+	</div>
+</body>
+</html>
