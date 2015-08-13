@@ -424,7 +424,7 @@ void mouseKeypad(int x, int y)
   switch (link)
   {
     case 0x01:  // Main Droidfax menu
-      SetChannel("MENU",0x100,".ttix","    DR01DFAX      ");
+      SetChannel("P",0x100,".ttix","    FRINGEFAX     ");
       break;
     case 0x0a: // BBC
       SetChannel("BBC",0x100,".ttix","  CEEFAX 1        ");
@@ -577,7 +577,7 @@ class TTX
   // Returns true if the page number is invalid
   Boolean parseMeta(String filename)
   {
-    Boolean debugmeta=true;
+    Boolean debugmeta=false;
     String[] pg=loadStrings(filename);
     m_PageNumber=-1;
     for (int i=0;i<pg.length;i++)
