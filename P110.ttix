@@ -1,6 +1,6 @@
 DE,Carousel - Pages from Fringefax
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P110.ttix
+SP,C:\Users\Peter\Documents\teletext\teletext\P110.ttix
 CT,8,T
 PS,8000
 RE,0
@@ -11,10 +11,37 @@ OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
 OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
 OL,3,Q]S >!j7# 7k555ojzjpj j 55j "m
 OL,4,Q#######################################
-OL,5,CThis will be a Pages from Fringefax    
+OL,5,CPages from Fringefax 2015              
 OL,6,                                        
-OL,7, Please type 100 or click the Index     
-OL,8, button to start again.                 
+OL,7,                                        
+OL,8,M   THE TOP STORIES FROM THE            
+OL,9,                                        
+OL,10,                                        
+OL,11,M STROUD AREA AND AS FAR AWAY AS        
+OL,12,                                        
+OL,13,                                        
+OL,14,M  RODBOROUGH, THRUPP AND EBLEY         
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,MCFRINGEFAX NEWSREEL                    
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,A]CSupport the Fringe. Buy a programme! 
+OL,24,ANext stageBOuter FringeC.........FIndex
+PN,1ff00
+SC,0001
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
+OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
+OL,3,Q]S >!j7# 7k555ojzjpj j 55j "m
+OL,4,Q#######################################
+OL,5,CNews 1                                 
+OL,6,                                        
+OL,7,                                        
+OL,8,                                        
 OL,9,                                        
 OL,10,                                        
 OL,11,                                        
@@ -31,4 +58,112 @@ OL,21,
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext stageBOuter FringeC.........FIndex
+PN,1ff00
+SC,0002
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
+OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
+OL,3,Q]S >!j7# 7k555ojzjpj j 55j "m
+OL,4,Q#######################################
+OL,5,CNews 2                                 
+OL,6,                                        
+OL,7,                                        
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,A]CSupport the Fringe. Buy a programme! 
+OL,24,ANext stageBOuter FringeC.........FIndex
+PN,1ff00
+SC,0003
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,R|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
+OL,2,R]T m0jws!w{ 5}jj#jsjshs4ouz? `>
+OL,3,R]T >!j7# 7k555ojzjpj j 55j "m
+OL,4,R#######################################
+OL,5,CSport 1                                
+OL,6,                                        
+OL,7,                                        
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,A]CSupport the Fringe. Buy a programme! 
+OL,24,ANext stageBOuter FringeC.........FIndex
+PN,1ff00
+SC,0004
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Weather                                 
+OL,2,                                        
+OL,3,                                        
+OL,4,                                        
+OL,5,                                        
+OL,6,                                        
+OL,7,                                        
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
+PN,1ff00
+SC,0005
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q
+OL,2,Q
+OL,3,Q
+OL,4,Q#################
+OL,5,QVj5jQ
+OL,6,QV|||||h|||4h||||Q
+OL,7,QRj5jQ
+OL,8,QRj5jQ
+OL,9,QRj5jQ
+OL,10,QR/////*///%*//##Q#########k
+OL,11,Q||||||||||||||V'o5Qj
+OL,12,QV}5}/+o5Qj
+OL,13,ST5}|~5Sj
+OL,14,S u5Sj
+OL,15,S #########!Sj
+OL,16,Sjjjj
+OL,17,Sjjjj
+OL,18,Sjzzj
+OL,19,S~~
+OL,20,S
+OL,21,MS]\GTV details in a momentS
+OL,22,S
+OL,23,S
+OL,24,S
 FL,100,100,100,100,100,100
