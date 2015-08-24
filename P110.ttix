@@ -4,8 +4,8 @@ SP,C:\Users\Peter\Documents\teletext\teletext\P110.ttix
 CT,8,T
 PS,8000
 RE,0
-PN,11000
-SC,0000
+PN,11001
+SC,0001
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
 OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
@@ -31,8 +31,8 @@ OL,21,
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext stageBOuter FringeC.........FIndex
-PN,1ff00
-SC,0001
+PN,11002
+SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
 OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
