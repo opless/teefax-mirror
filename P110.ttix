@@ -1,6 +1,6 @@
 DE,Carousel - Pages from Fringefax
 DS,inserter
-SP,C:\Users\Peter\Documents\teletext\teletext\P110.ttix
+SP,E:\peterstuff\fringe15\teletext\P110.ttix
 CT,8,T
 PS,8000
 RE,0
@@ -162,8 +162,35 @@ OL,17,Sjjjj
 OL,18,Sjzzj
 OL,19,S~~
 OL,20,S
-OL,21,MS]\GTV details in a momentS
+OL,21,MS\GFringe details in a momentS
 OL,22,S
 OL,23,S
 OL,24,S
+PN,1ff00
+SC,0007
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Vh<,,,,,,||F````````````````````````````
+OL,2,Vj5k7j5 nS{%{%+%bsG     GTUE/WED  
+OL,3,Vj5j5"m' Sz5z5x4jupG     G2100-0600
+OL,4,V*-,,,,,,/.F``````````````````````G 3/3 
+OL,5,C2100GEARTH: THE POWER OF THE PLANETCS/W
+OL,6,   CFCNew seriesFThe powerful natural   
+OL,7,     Fforces that shaped the world,     
+OL,8,     Fbeginning with volcanoes, believed
+OL,9,     Fto have ended the ice age         
+OL,10,C2200GTHE 800 MILLION POUND RAILWAY     
+OL,11,      STATIONCS/WF                      
+OL,12,F     Engineers race to finish the      
+OL,13,     Fstation before inspection         
+OL,14,C2230GNEWSNIGHTCS/W;GWEATHERF           
+OL,15,F     Round-up of the day's events      
+OL,16,C2320GLONG WAY DOWNCS/R/WF              
+OL,17,F     The team are forced to set up camp
+OL,18,     Fin Kenya's infamous bandit country
+OL,19,C0020GBBC NEWS 24CS/WF                  
+OL,20,C0200-0600GBBC LEARNING ZONECSF         
+OL,21,                                        
+OL,22,F]DS=Subtitles  R=Repeat  W=Widescreen  
+OL,23,F]DBBC1 601  ITV1 603  Ch4 604  Now 606 
+OL,24,AITV1   BCh 4   CNow & Next  FTV Links  
 FL,100,100,100,100,100,100
