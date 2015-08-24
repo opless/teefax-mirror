@@ -58,8 +58,8 @@ OL,21,
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext stageBOuter FringeC.........FIndex
-PN,1ff00
-SC,0002
+PN,11003
+SC,0003
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
 OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
@@ -85,8 +85,8 @@ OL,21,
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext stageBOuter FringeC.........FIndex
-PN,1ff00
-SC,0003
+PN,11004
+SC,0004
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
 OL,2,R]T m0jws!w{ 5}jj#jsjshs4ouz? `>
@@ -112,8 +112,8 @@ OL,21,
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext stageBOuter FringeC.........FIndex
-PN,1ff00
-SC,0004
+PN,11005
+SC,0005
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Weather                                 
 OL,2,                                        
@@ -139,8 +139,8 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-PN,1ff00
-SC,0005
+PN,11006
+SC,0006
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q
 OL,2,Q
