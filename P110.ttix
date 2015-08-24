@@ -1,10 +1,10 @@
 DE,Carousel - Pages from Fringefax
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P100.ttix
+SP,E:\peterstuff\fringe15\teletext\P110.ttix
 CT,8,T
 PS,8000
 RE,0
-PN,10001
+PN,11001
 SC,0001
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
@@ -31,7 +31,7 @@ OL,21,
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext stageBOuter FringeC.........FIndex
-PN,10002
+PN,11002
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
@@ -58,7 +58,7 @@ OL,21,FPolice are appealing for witnesses.
 OL,22,                                        
 OL,23,A]Cstroudnewsandjournal.co.uk           
 OL,24,                                        
-PN,10003
+PN,11003
 SC,0003
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
@@ -85,7 +85,7 @@ OL,21,F
 OL,22,F                                       
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext stageBOuter FringeC.........FIndex
-PN,10004
+PN,11004
 SC,0004
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
@@ -112,7 +112,7 @@ OL,21,F
 OL,22,F                                       
 OL,23,A]CStroudnewsandjournal.co.uk           
 OL,24,ANext stageBOuter FringeC.........FIndex
-PN,10005
+PN,11005
 SC,0005
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Wh,,lh,,lh,,lT||,<<|,,|,,|,,<l<l,,<,,l||
@@ -139,7 +139,7 @@ OL,21,B                                 G
 OL,22,D]GWEST    CNewsG160CSportG390CTVG  600 
 OL,23,D]GNATIONALCCityG200CFlashG150CHomeG100 
 OL,24,AOutlook BWestTrav CWarnings FMain Menu 
-PN,10006
+PN,11006
 SC,0006
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q
@@ -166,7 +166,7 @@ OL,21,MS\GFringe details in a momentS
 OL,22,                                        
 OL,23,S
 OL,24,S
-PN,10007
+PN,11007
 SC,0007
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Vh<,,,,,,||F````````````````````````````
@@ -193,7 +193,7 @@ OL,21,
 OL,22,F]DS=Subtitles  R=Repeat  W=Widescreen  
 OL,23,F]DBBC1 601  ITV1 603  Ch4 604  Now 606 
 OL,24,AITV1   BCh 4   CNow & Next  FTV Links  
-PN,10008
+PN,11008
 SC,0008
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R#uzp#
@@ -220,7 +220,7 @@ OL,21,
 OL,22,MB]Decotricity.co.uk                    
 OL,23,    08                                  
 OL,24,A   Next                                
-PN,10009
+PN,11009
 SC,0009
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R   `~}0   
@@ -247,7 +247,7 @@ OL,21,
 OL,22,MB]Dwww.ecycleuk.com    T: @eCycleUK    
 OL,23,                                        
 OL,24,                                        
-PN,1000a
+PN,1100a
 SC,0010
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W?swc?;7;7{k+7wc73wc777{c777{g{goc
@@ -274,7 +274,7 @@ OL,21,Wupppppqquqysppspppqxzrvtruqppx
 OL,22,W /%j // 5(, 5bo 5h| 7#k |tz ,$j| |
 OL,23,Wpuzuzuzuz}pursppsqzpuzp
 OL,24,                                        
-PN,1000b
+PN,1100b
 SC,0011
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
