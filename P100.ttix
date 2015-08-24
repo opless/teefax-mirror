@@ -30,7 +30,7 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
-OL,24,ANext stageBOuter FringeC.........FIndex
+OL,24,APress red button for index             
 PN,10002
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -218,7 +218,7 @@ OL,19,  all customers pay the same tariff so
 OL,20,  everyone gets the best price.         
 OL,21,                                        
 OL,22,MB]Decotricity.co.uk                    
-OL,23,    08                                  
+OL,23,                                        
 OL,24,A   Next                                
 PN,10009
 SC,0009
@@ -300,5 +300,5 @@ OL,20,MTry the editor at teletext40.com
 OL,21,                                        
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
-OL,24,ANext stageBOuter FringeC.........FIndex
-FL,100,100,100,100,100,100
+OL,24,APress red button for interactive index 
+FL,101,100,100,100,100,100
