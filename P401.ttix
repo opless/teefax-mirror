@@ -1,11 +1,11 @@
 DE,Sponsor index
 DS,inserter
-SP,C:\Users\Peter\Documents\teletext\P401.ttix
+SP,E:\peterstuff\fringe15\teletext\P401.ttix
 CT,8,T
 PS,8080
 RE,0
-PN,40100
-SC,0000
+PN,40101
+SC,0001
 OL,0,XXXXXXXXFRINGEFAX  DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
 OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
@@ -28,37 +28,11 @@ OL,18,
 OL,19,  All of this came to an end with the   
 OL,20,  shutdown of analogue TV transmission. 
 OL,21,                                        
-OL,22,                                     1/3
+OL,22,                                     1/2
 OL,23,D]Cmrgsystems.co.uk                     
-OL,24,ANext       BMusic CShopping FKids      
-PN,1ff00
-SC,0001
-OL,0,                                        
-OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
-OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
-OL,3,Q]S >!j7# 7k555ojzjpj j 55j "m
-OL,4,Q#######################################
-OL,5,CMTeletext in Stroud                    
-OL,6,D```````````````````````````````````````
-OL,7,                                        
-OL,8,  Products included decoders for banks  
-OL,9,  and air traffic control and it was    
-OL,10,  still distributing weather data at    
-OL,11,  Farnborough Airport until this year.  
-OL,12,                                        
-OL,13,  Complicated databridges were used at  
-OL,14,  the BBC to merge and route teletext   
-OL,15,  across the many regions.              
-OL,16,                                        
-OL,17,  Teletext inserters made in Stroud were
-OL,18,  at the heart of systems across Europe 
-OL,19,  and as far away as New Zealand.       
-OL,20,                                        
-OL,21,                                        
-OL,22,                                     2/3
-OL,23,D]Cmrgsystems.co.uk                     
-OL,24,ANext       BMusic CShopping FKids      
-PN,1ff00
+OL,24,ANext       B                FIndex     
+FL,500,100,100,101,100,100
+PN,40102
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
@@ -82,7 +56,7 @@ OL,18,
 OL,19,  Teletext is not quite dead at the BBC 
 OL,20,  because although Ceefax has gone,     
 OL,21,  Presfax is still used internally.     
-OL,22,                                     3/3
+OL,22,                                     2/2
 OL,23,D]Cmrgsystems.co.uk                     
 OL,24,ANext       BMusic CShopping FKids      
-FL,503,100,100,100,100,100
+FL,100,100,100,101,100,100
