@@ -4,7 +4,7 @@ SP,E:\peterstuff\fringe15\teletext\P198.ttix
 CT,8,T
 PS,8000
 RE,0
-PN,10001
+PN,19801
 SC,0001
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MWelcome to my test page NUMBER ONE     
@@ -31,7 +31,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,APage 101 indexBCarouselCVenuesFP300    
-PN,10002
+PN,19802
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MWelcome to my test page NUMBER TWO     
