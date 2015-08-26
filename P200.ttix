@@ -14,21 +14,21 @@ OL,4,Q#######################################
 OL,5,CPrincipal stages                       
 OL,6, To find out what is on in the town     
 OL,7, please select a venue:                 
-OL,8,D```````````````````````````````````````
-OL,9,MBANK GARDENS, MAIN STAGE...C201        
+OL,8,D```````````````````````````CFriBSatFSun
+OL,9,MBANK GARDENS, MAIN STAGE...C201B211F212
 OL,10,                                        
-OL,11,MCORNHILL, FARMERS MARKET...C202        
+OL,11,MCORNHILL, FARMERS MARKET...C---B213F214
 OL,12,                                        
-OL,13,MALTERNATIVE, SUB ROOMS.....C203        
+OL,13,MCANAL, WALLBRIDGE..........C203B215F216
 OL,14,                                        
-OL,15,MELECTRONIC, SUB ROOMS......C204        
+OL,15,MALTERNATIVE, SUB ROOMS.....C204B217F218
 OL,16,                                        
-OL,17,MCANAL, WALLBRIDGE..........C205        
+OL,17,MELECTRONIC, SUB ROOMS......C205B219F220
 OL,18,                                        
-OL,19,MBLOCK PARTY, MERRYWALKS....C206        
+OL,19,MBLOCK PARTY, MERRYWALKS....C206B221F222
 OL,20,                                        
 OL,21,                                        
-OL,22,BFriday 210CSaturday 211ESunday 212     
+OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext stageBOuter FringeC.........FIndex
 FL,201,202,203,204,100,100
