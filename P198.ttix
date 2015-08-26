@@ -1,0 +1,61 @@
+DE,Test page
+DS,inserter
+SP,E:\peterstuff\fringe15\teletext\P198.ttix
+CT,8,T
+PS,8000
+RE,0
+PN,10001
+SC,0001
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,MWelcome to my test page NUMBER ONE     
+OL,2,                                        
+OL,3,                                        
+OL,4,MAGThis links to page 101              
+OL,5,                                        
+OL,6,                                        
+OL,7,BMGThis links to page 100              
+OL,8,                                        
+OL,9,                                        
+OL,10,MCGThis links to 200                   
+OL,11,                                        
+OL,12,                                        
+OL,13,MFGAnd this links to 300               
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,  This is PAGE 1/2                      
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,APage 101 indexBCarouselCVenuesFP300    
+PN,10002
+SC,0002
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,MWelcome to my test page NUMBER TWO     
+OL,2,                                        
+OL,3,                                        
+OL,4,MAGThis links to page 101              
+OL,5,                                        
+OL,6,                                        
+OL,7,BMGThis links to page 100              
+OL,8,                                        
+OL,9,                                        
+OL,10,MCGThis links to 200                   
+OL,11,                                        
+OL,12,                                        
+OL,13,MFGAnd this links to 300               
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,  This is PAGE 2/2                      
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,APage 101 indexBCarouselCVenuesFP300    
+FL,101,100,200,300,100,100
