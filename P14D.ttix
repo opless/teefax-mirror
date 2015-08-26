@@ -1,33 +1,34 @@
-SP,c:\minited\Inserter\onair\P14D.tti
 DE,Read back page  14/12/01
-PN,14D00
+DS,inserter
+SP,E:\peterstuff\fringe15\teletext\P14D.ttix
 CT,99,C
-SC,0000
 PS,8040
-MS,0
+RE,0
+PN,14d00
+SC,0000
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                            W6!  Sp~0Wi 
 OL,2,G]DQuestion 12.          \   S<|~3oW"5
-OL,3,G]DIn which month does   \  Sjzjojz4ht
-OL,4,G]DThanksgiving Day fall \  Sb?'~7/w)w>
-OL,5,G]Din the US?            \ \S?(}rsx="}w 
+OL,3,G]DWhichAWASN'TDa        \  Sjzjojz4ht
+OL,4,G]Dprevious spelling of  \  Sb?'~7/w)w>
+OL,5,G]DPagenhill?            \ \S?(}rsx="}w 
 OL,6,                W#/|ppppp   Sm}tsssx}?j 
 OL,7,                             S+/}|/a'T
 OL,8,                         T x}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GNovember                      
+OL,10, M  A]G \GPakenhall                     
 OL,11,                                        
 OL,12,                                        
-OL,13, M  B]D \GOctober                       
+OL,13, M  B]D \GPakynhyll                     
 OL,14,                                        
 OL,15,                                        
-OL,16, M  C]D \GJanuary                       
+OL,16, M  C]D \GPakenhill                     
 OL,17,                                        
 OL,18,                                        
-OL,19, M  F]D \GDecember                      
+OL,19, M  F]D \GPaggenhull                    
 OL,20,                                        
 OL,21,                                        
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A?????    B?????    C?????    F?????    
-FL,14F,14E,14E,14E,101,F
-@
+FL,14f,14e,14e,14e,101,f
