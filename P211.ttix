@@ -15,23 +15,23 @@ OL,5,MBank Gardens.               Saturday 29
 OL,6,                                        
 OL,7,CThe park above Lansdown Road           
 OL,8,D```````````````````````````````````G1/2
-OL,9,MSIMMS               RAGA BABAS        
+OL,9,MC1100GSIMMS                            
 OL,10,                                        
-OL,11,C1100-1145           1600-1645         
-OL,12,                                       
-OL,13,MSMALL TALK ROBOT    DOLLHOUSE         
+OL,11,MC1200GSMALL TALK ROBOT                 
+OL,12,                                        
+OL,13,MC1500GSKUNK BOY PROJECT                
 OL,14,                                        
-OL,15,C1200-1245           1700-1745         
-OL,16,                                       
-OL,17,MSKUNK BOY PROJECT   LIONEL LODGE BAND 
+OL,15,MC1600GRAGA BABAS                       
+OL,16,                                        
+OL,17,MC1700GDOLLHOUSE                        
 OL,18,                                        
-OL,19,C1500-1545           1800-1845         
+OL,19,MC1800GLIONEL LODGE BAND                
 OL,20,                                       
-OL,21,                                       
+OL,21,MC1900GGERAINT RHYS & LOST GENERATION   
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext venue  BFriday   CSunday    FIndex
-FL,213,201,212,200,100,100
+FL,201,201,212,200,100,100
 PN,21102
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -43,19 +43,19 @@ OL,5,MBank Gardens.               Saturday 29
 OL,6,                                        
 OL,7,CThe park above Lansdown Road           
 OL,8,D```````````````````````````````````G2/2
-OL,9,MGERRAINT RHYS AND THE                  
+OL,9,MC2000GERROLS KITCHEN                   
 OL,10,                                        
-OL,11,MLOST GENERATION                        
+OL,11,MC2100GMILLIONS                         
 OL,12,                                        
-OL,13,C1900-1945                              
+OL,13,                                        
 OL,14,                                        
-OL,15,MERROLS KITCHEN                         
+OL,15,                                        
 OL,16,                                        
-OL,17,C2000-2045                              
+OL,17,                                        
 OL,18,                                        
-OL,19,MMILLIONS                               
+OL,19,                                        
 OL,20,                                        
-OL,21,C2100-2200                              
+OL,21,                                        
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext venue  BFriday   CSunday    FIndex
