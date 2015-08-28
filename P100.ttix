@@ -96,21 +96,21 @@ OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,GG  STROUD   T//-,,/,,-.-.-.-.-.,,-.-.//
 OL,5,                                        
-OL,6,CMONDAY 1800 UNTIL TUESDAY 0600         
+OL,6,CFRIDAY 0600 UNTIL 1800                 
 OL,7,B                                       
-OL,8,BEvening cloud will S5 GSTATISTICS      
-OL,9,Bbreak up leaving   S5                  
-OL,10,Bclear spells       S5    GMaximumC     
-OL,11,Bovernight. By dawn S5GTemperatureC14C  
-OL,12,Bcloud will once    S5                  
-OL,13,Bagain thicken with S5    GMinimumC     
-OL,14,Ba band of rain.    S5GTemperatureC11C  
+OL,8,BLargely sunny      S5 GSTATISTICS      
+OL,9,Bwith a possible    S5                  
+OL,10,Bshower later in theS5    GMaximumC     
+OL,11,Bafternoon.         S5GTemperatureC19C  
+OL,12,BPleasantly warm in S5                  
+OL,13,Bthe sunshine       S5    GMinimumC     
+OL,14,B                   S5GTemperatureC13C  
 OL,15,B                   S5                  
-OL,16,CTUESDAY OUTLOOK:   S5    G  GWindC     
-OL,17,BVery wet at first, S5  GDirectionCNW   
-OL,18,Bafternoon brighter S5                  
-OL,19,Bwith drizzle.      S5       GWindC     
-OL,20,B                   S5   G   SpeedC 8mph
+OL,16,CSATURDAY OUTLOOK:  S5    G  GWindC     
+OL,17,BDry with plenty of S5  GDirectionCSW   
+OL,18,Bsunshine for the   S5                  
+OL,19,BFringe. YAY!       S5       GWindC     
+OL,20,B                   S5   G   SpeedC12mph
 OL,21,B                                 G     
 OL,22,D]GWEST    CNewsG160CSportG390CTVG  600 
 OL,23,D]GNATIONALCCityG200CFlashG150CHomeG100 
