@@ -1,21 +1,21 @@
 DE,Read back page  20/11/07
 DS,inserter
-SP,C:\Users\carl\Downloads\text_project\may\TTIx\pages for dans pi\index.tti
+SP,I:\peter\TeletextFest2016\P100.ttix
 CT,8,T
 PS,8000
 RE,0
 PN,10001
-SC,0001
+SC,0000
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
 OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,‘ 5|j’5|j”5|j’‘//jsj{jshs4ouz?   
 OL,3,‘ 5/j’5/j”5/j’‘  jpjjj j 55j   
 OL,4,‘ ###’###”###’##########################
 OL,5,ƒNews                                   
-OL,6,WELCOME TO THE WORLDS NEWEST TELETEXT
+OL,6,WELCOME TO THE WORLDS NEWEST TELETEXT 
 OL,7,                                        
 OL,8,†```````````````````````````````````````
-OL,9,‚Carlos   ‡ 777&501†BAMBOOZLE       ‡512
+OL,9,‚Carlos   ‡ 777&501†STROUD BAMBOOZLE‡152
 OL,10,‚==============‡???†TEST CARDS  ‡506&507
 OL,11,‚--------------‡???†================‡???
 OL,12,‚==============‡???†----------------‡???
@@ -28,7 +28,7 @@ OL,18,--------------‡???ƒ================‡???
 OL,19,==============‡???ƒ----------------‡???
 OL,20,--------------‡???ƒ================‡???
 OL,21,==============‡???ƒ----------------‡???
-OL,22,                                        
-OL,23,–…lots of fun at you finger tips ;-)   
+OL,22,–…lots of fun at you finger tips ;-)   
+OL,23, Index  ‚Carlos ArtƒStroud †Bamboozle  
 OL,24,                                       
-FL,300,300,160,199,f,100
+FL,101,501,401,152,f,100
