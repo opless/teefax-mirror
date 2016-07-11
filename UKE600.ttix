@@ -1,34 +1,34 @@
 DE,Ukulele - P100 index
 DS,Wales
-SP,C:\xampp\htdocs\teletext\ukefax\UKE100.ttix
+SP,I:\peter\TeletextFest2016\UKE600.ttix
 CT,15,C
 PS,8040
 RE,0
 PN,60000
 SC,0000
-OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,D]W<l <lS<l `lV<,,4U<,lW`,,0S<d `,4     
-OL,2,D]W5j 5jS5j8a&V5js1U5wsW5xtjS"d)a&      
-OL,3,D]W5jp5jS5 0)0V5h,%U5<.W5<ljS`&82d      
-OL,4,D]W)ppp&Suz"dzVurs5Uu5 Wu5jzSu6 "t5     
-OL,5,Q   ###  ## "# ###! #!  #!"# #!  #!     
-OL,6,D]GYour ukulele resource                
-OL,7,MG101 News and events                   
-OL,8,D]G : : : :     : :  :     : : : :     
-OL,9,MG110 Choosing a ukulele to suit you    
-OL,10,D]G : : : :      : : :     :  :      
-OL,11,MG120 Tuning                            
-OL,12,D]G : : :      : : : :     : :  :     
-OL,13,MG130 Modding your ukulele              
-OL,14,D]G : : : :     : : : :     : : : :     
-OL,15,MG140 Chords index                      
-OL,16,D G : : : :     : : : :     : : : :     
-OL,17,MG150 Play-along songs index            
-OL,18,D]G                                     
-OL,19,MG190 Another topic goes here           
-OL,20,D]G                                     
-OL,21,D]CWhy do strings make a difference? 404
-OL,22,MB]DTanglewood also make ukuleles!...520
-OL,23,D]G                         a band      
-OL,24, ATuning  BChords  C  Songs F  Events   
-FL,120,140,150,101,0,0
+OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,„—<l <l“<l `l–<,,4•<,l—`,,0“<d `,4     
+OL,2,„—5j 5j“5j8a&–5js1•5ws—5xtj“"d)a&      
+OL,3,„—5jp5j“5 0)0–5h,%•5<.—5<lj“`&82d      
+OL,4,„—)ppp&“uz"dz–urs5•u5 —u5jz“u6 "t5     
+OL,5,‘   ###  ## "# ###! #!  #!"# #!  #!     
+OL,6,„‡Your ukulele resource                
+OL,7,‡601 News and events                   
+OL,8,„‡ : : : :     : :  :     : : : :     
+OL,9,‡610 Choosing a ukulele to suit you    
+OL,10,„‡ : : : :      : : :     :  :      
+OL,11,‡620 Tuning                            
+OL,12,„‡ : : :      : : : :     : :  :     
+OL,13,‡630 Modding your ukulele              
+OL,14,„‡ : : : :     : : : :     : : : :     
+OL,15,‡640 Chords index                      
+OL,16,„ ‡ : : : :     : : : :     : : : :     
+OL,17,‡650 Play-along songs index            
+OL,18,„‡                                     
+OL,19,‡690 Another topic goes here           
+OL,20,„‡                                     
+OL,21,„ƒWhy do strings make a difference? 404
+OL,22,‚„Tanglewood also make ukuleles!...520
+OL,23,„‡                         a band      
+OL,24, Tuning  ‚Chords  ƒ  Songs †  Events   
+FL,620,640,650,601,0,0

@@ -1,34 +1,34 @@
 DE,Ukulele - buyer's guide
 DS,Wales
-SP,C:\xampp\htdocs\teletext\ukefax\UKE112.ttix
+SP,I:\peter\TeletextFest2016\UKE612.ttix
 CT,15,C
 PS,8040
 RE,0
 PN,61200
 SC,0000
-OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,MD]CChoosing a Ukulele-2                
+OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH É hh:nn.ss
+OL,1,çÑùÉChoosing a Ukulele-2                
 OL,2,                                        
 OL,3,                                        
 OL,4,  How do you know if you are holding a  
 OL,5,  decent instrument or a piece of junk? 
 OL,6,                                        
-OL,7,F Is the ukulele set up correctly? The  
-OL,8,F neck should be flat. There should be  
-OL,9,F no warp or curve to it. The strings   
-OL,10,F should be close over the frets so you 
-OL,11,F can press them easily but not so close
-OL,12,F that notes buzz.                      
+OL,7,Ü Is the ukulele set up correctly? The  
+OL,8,Ü neck should be flat. There should be  
+OL,9,Ü no warp or curve to it. The strings   
+OL,10,Ü should be close over the frets so you 
+OL,11,Ü can press them easily but not so close
+OL,12,Ü that notes buzz.                      
 OL,13,                                        
-OL,14,F Try playing the open strings then bend
-OL,15,F the neck up and down. If tunings go up
-OL,16,F and down at the same time then there  
-OL,17,F may be a problem.                     
-OL,18,F G                                     
-OL,19,F Beware of cracks and splits especially
-OL,20,F on the neck joint and the bridge.     
-OL,21,F A geared machine head will keep tune  
-OL,22,F better than friction pegs.G      113->
-OL,23,D]GDo basic checks                      
-OL,24, ANext BPrev    C.         F.           
-FL,113,111,100,100,0,0
+OL,14,Ü Try playing the open strings then bend
+OL,15,Ü the neck up and down. If tunings go up
+OL,16,Ü and down at the same time then there  
+OL,17,Ü may be a problem.                     
+OL,18,Ü á                                     
+OL,19,Ü Beware of cracks and splits especially
+OL,20,Ü on the neck joint and the bridge.     
+OL,21,Ü A geared machine head will keep tune  
+OL,22,Ü better than friction pegs.á      613->
+OL,23,ÑùáDo basic checks                      
+OL,24, ÅNext ÇPrev    É.         Ü.           
+FL,613,611,600,600,0,0

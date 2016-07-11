@@ -1,19 +1,19 @@
 DE,Ukulele - blank page
 DS,Wales
-SP,C:\xampp\htdocs\teletext\ukefax\UKE190.ttix
+SP,I:\peter\TeletextFest2016\UKE690.ttix
 CT,15,C
 PS,8040
 RE,0
 PN,69000
 SC,0000
-OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,MD]CAnother topic goes here             
+OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH É hh:nn.ss
+OL,1,çÑùÉAnother topic goes here             
 OL,2,                                        
 OL,3,                                        
 OL,4,  Another interesting article could go  
 OL,5,  here when I think of one.             
 OL,6,                                        
-OL,7,F The rest of the article goes here.    
+OL,7,Ü The rest of the article goes here.    
 OL,8,                                        
 OL,9,                                        
 OL,10,                                        
@@ -29,6 +29,6 @@ OL,19,
 OL,20,                                        
 OL,21,                                        
 OL,22,                                        
-OL,23,D]GPertinent comment goes here          
-OL,24, AHome B.       C.         F.           
-FL,100,100,100,100,0,0
+OL,23,ÑùáPertinent comment goes here          
+OL,24, ÅHome Ç.       É.         Ü.           
+FL,600,600,600,600,0,0
