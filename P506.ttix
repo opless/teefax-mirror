@@ -1,34 +1,32 @@
-DE,teletext-editor
-DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P506.ttix
+PN,10000
+DE,Test pages index
 CT,1,C
 PS,8000
 RE,0
 PN,50600
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,W^OsSZV^_XDM]CENGINEERING R\L^sUNQOTOG02
-OL,3,W^OsSZV^_XDM]CENGINEERING R\L^sUNQOTOG02
-OL,4,~~~~~~~~~~~~~~~~~~~04
-OL,5,TZ^sQYU?UAM E]BTest Page  \L^RsVXS?WXA05
-OL,6,TZ^sQYU?UAM E]BTest Page  \L^RsVXS?WXA05
-OL,7,A?A ? A^ ^ W,SSVVRRRUUQQTTT  T?A?A?A?A07
-OL,8,~~~~~~~~~~~~~~~~~~~08
-OL,9,A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?09
-OL,10,~~~~~~~~~~~~~~~~~~~10
-OL,11,A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?11
-OL,12,~~~~~~~~~~~~~~~~~~~12
-OL,13,A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?13
-OL,14,~~~~~~~~~~~~~~~~~~~14
-OL,15,A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?15
-OL,16,~~~~~~~~~~~~~~~~~~~16
-OL,17,WhiteCYellowFCyanBGreenEMagentaARedDBlue
-OL,18,WZ!"#S$%&'V()*+R,-./Y0123U4567Q89:;T<=>?
-OL,19,  !"# $%&' ()*+ ,-./ 0123 4567 89:; <=>?
-OL,20, @ABC DEFG HIJK LMNO PQRS TUVW XYZ[ \]^_
-OL,21, `abc defg hijk lmno pqrs tuvw xyz{ |}~
-OL,22,T`abcQdefgUhijkRlmnoZpqrsVtuvwSxyz{W|}~
-OL,23,CXConcealHFlashC*KKBoxISteadyXGoneJJ?V^
-OL,24,BEngineering ???????????????????????????
-FL,0,0,0,0,0,0
+OL,1,ë||||||||||||||||||||||||||||||||||||||ú
+OL,2,Åùì *o?%//h?/%//h?/%~/}j?o4/}h?/%   ú
+OL,3,Åùì  j5 ,,*-l4  j5  ,j=n1 *-l4   ú
+OL,4,Åùì  j5 ||h|~%  *}|4 j5j5|?h|~%   ú
+OL,5,Åùì (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   ú
+OL,6,ë###################################### 
+OL,7,  çìùÅEngineering test pages index  ú   
+OL,8,                                        
+OL,9,ì   ################################    
+OL,10, ~~~~~~~~~~~~~~~~~~~ 
+OL,11, ~                                   á 
+OL,12,  ÇP507 - A recreated BBC test page á~ 
+OL,13, ~ Ç                                 á 
+OL,14,  ÇP508 - A BBC test page from 1978 á~ 
+OL,15, ~ Ç                                 á 
+OL,16,  Ç                                 á~ 
+OL,17, ~ Ç                                 á 
+OL,18,  Ç                                 á~ 
+OL,19, ~ Ç                                 á 
+OL,20,  Ç                                 á~ 
+OL,21, ~                                     
+OL,22, ~~~~~~~~~~~~~~~~~~~ 
+OL,23,                                        
+OL,24,Åtest page Ç1978 test                   
+FL,507,508,0,0,0,100
