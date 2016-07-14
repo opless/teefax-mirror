@@ -1,0 +1,86 @@
+PS,8000
+CT,16,T
+DE,approximated recreation of ORACLE character ROM test from 1976 http://www.pembers.freeserve.co.uk/Teletext/Photographs.html
+PN,50901
+SC,0001
+OL,1,                                        
+OL,2,Å          TEXAS INSTRUMENTS            
+OL,3,                                        
+OL,4,Å TIFAX ROW OUTPUT CHARACTER GENERATOR  
+OL,5,                                        
+OL,6,ÜABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+~
+OL,7,Ü             <>?:"}|]                 
+OL,8,Öabcdefghijklmnopqrstuvwxyz1234567890-=`
+OL,9,Ö             ,./;'{[\                 
+OL,10,Ç     ABCDEFGHIJKLMNOPQRSTUVWXYZ        
+OL,11,ì1234567890-=`qwertyuiopasdfghjkl;'{zxcv
+OL,12,ì      bnm,./!#$%&*()+~|:"}<>?        
+OL,13,                                        
+OL,14,ÑTHE NEW CHARACTERS ARE                 
+OL,15, A QUARTER                { { { { { { { 
+OL,16, A HALF                   \ \ \ \ \ \ \ 
+OL,17, THREE-QUARTERS           } } } } } } } 
+OL,18, ARROW POINTING LEFT      [ [ [ [ [ [ [ 
+OL,19, ARROW POINTING RIGHT     ] ] ] ] ] ] ] 
+OL,20, TWO VERTICAL LINES       | | | | | | | 
+OL,21, A WIDE BAR               ` ` ` ` ` ` ` 
+OL,22, THE "DIVIDE" SYMBOL      ~ ~ ~ ~ ~ ~ ~ 
+OL,23, CHARACTER "WHITE" SYMBOL        
+OL,24,                                        
+FL,0,0,0,0,0,506
+DE,approximated recreation of ORACLE control code test from 1977 http://www.pembers.freeserve.co.uk/Teletext/Photographs.html
+PN,50902
+SC,0002
+OL,1,Ç       ORACLE CONTROL TEST PAGE     451
+OL,2,Ç       --------------------------------
+OL,3,abcdefghijklmnopqrstuvwxyz1234567890-=`+
+OL,4,\;'{,./!@#$%^&*()_[~]|:"}<>?           
+OL,5,ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-=`+
+OL,6,\;'{,./!@#$%^&*()_[~]|:"}<>?           
+OL,7,                                        
+OL,8,whiteÅredÇgreenÑblueÜcyanÖmagentaÉyellow
+OL,9,                                        
+OL,10,ó  ë  í   î  ñ  ï   ì  
+OL,11,                                        
+OL,12,Éàflashâsteady ããBOXää  UNBOX òCONCEAL  
+OL,13,                                        
+OL,14, ëûíí`ìî,.óïìHOLD üUNHOLDíî     
+OL,15,                                        
+OL,16,                                        
+OL,17,É  SINGLEñçDOUBLE HEIGHTåìSINGLE        
+OL,18, THIS IS NOT A D/H DECODER              
+OL,19,                                        
+OL,20, DISCRETEíöp x |óCONTIGUOUSíôp x |      
+OL,21,                                        
+OL,22,ÅùÇFIX BACKGROUND      úUNFIXçD/HàFLASH 
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,0,506
+DE,approximated recreation of ORACLE held graphics demo from 1977 http://www.pembers.freeserve.co.uk/Teletext/Photographs.html
+PN,50903
+SC,0003
+OL,1,                                        
+OL,2,                                        
+OL,3,ÉNEW FACILITIES - "HOLD"                
+OL,4,É-----------------------                
+OL,5,                                        
+OL,6,ÜThis allows transition from colour     
+OL,7,Üto colour in the graphics mode         
+OL,8,Üwithout any gap                        
+OL,9,                                        
+OL,10, Without HOLD:                          
+OL,11, -------------                          
+OL,12,                                        
+OL,13, ëíîìïñó    
+OL,14, ëíîìïñó    
+OL,15, ëíîìïñó    
+OL,16,                                        
+OL,17, With HOLD:                             
+OL,18, ----------                             
+OL,19,                                        
+OL,20, ëûíîìïñóá    
+OL,21, ëûíîìïñóá    
+OL,22, ëûíîìïñóá    
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,0,506
