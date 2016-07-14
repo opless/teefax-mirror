@@ -1,7 +1,6 @@
 DE,About the 1978 Engineering test page
 DS,inserter
-SP,d:\Users\Alistair\Teletext-Stuff\vbit\vbit-pi\teletext\P507.ttix
-CT,24,T
+CT,20,T
 PS,8000
 RE,0
 PN,50801
@@ -18,7 +17,7 @@ OL,10,ÇThis engineering test page was copied
 OL,11,Çbyte by byte from a photograph in Alan 
 OL,12,ÇPemberton's collection.                
 OL,13,Ç(pembers.freeserve.co.uk/teletext/)    
-OL,14,ÇA photograph from a Tifax decoder with 
+OL,14,ÇA photograph from a decoder displaying 
 OL,15,Çvisible control codes allowed an exact 
 OL,16,Çcopy of the page to be transcribed.    
 OL,17,Ç                                       
@@ -27,8 +26,8 @@ OL,19,Çlater defined for black text therefore
 OL,20,Çmost TV sets will render the page in-  
 OL,21,Çcorrectly and VBIT-pi currently does   
 OL,22,Çnot transmit the codes anyway.  á(1/2) 
-OL,24,Åview the testcard    Çtest cards index
-FL,50a,506,0,0,0,100
+OL,24,Åview the testcard                     
+FL,50a,8FF,8FF,8FF,8FF,506
 PN,50802
 SC,0002
 OL,1,ë||||||||||||||||||||||||||||||||||||||ú
@@ -44,13 +43,13 @@ OL,11,Çgenerator ROM was part of their Tifax
 OL,12,Çteletext decoding chipset. It included 
 OL,13,Çspecial glyphs for each of the usually 
 OL,14,Çblank control code characters.         
-OL,15,ÇThe Tifax decoder could be altered to  
-OL,16,Çshow these glyphs thus displaying all  
+OL,15,ÇA teletext decoder could be altered to 
+OL,16,Çshow these glyphs, thus displaying all 
 OL,17,Çthe normally hidden details of a page. 
 OL,18,Ç                                       
 OL,19,ÇThe photograph was taken on Friday the 
 OL,20,Ç25th of August, 1978. The page was 152 
 OL,21,Ç                                       
 OL,22,ÇPressÅREDÇto see the testcard.  á(2/2) 
-OL,24,Åview the testcard    Çtest cards index
-FL,50a,506,0,0,0,100
+OL,24,Åview the testcard                     
+FL,50a,8FF,8FF,8FF,8FF,506

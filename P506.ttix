@@ -1,5 +1,6 @@
-PN,10000
 DE,Test pages index
+DS,inserter
+SP,d:\Users\Alistair\Teletext-Stuff\vbit\vbit-pi\teletext\P506.ttix
 CT,1,C
 PS,8000
 RE,0
@@ -28,5 +29,5 @@ OL,20,  Ç                                 á~
 OL,21, ~                                     
 OL,22, ~~~~~~~~~~~~~~~~~~~ 
 OL,23,                                        
-OL,24,Åtest page Ç1978 test                   
-FL,507,508,0,0,0,100
+OL,24,ÅBBC testÇBBC 1978ÉORACLE               
+FL,507,508,509,8FF,8FF,100

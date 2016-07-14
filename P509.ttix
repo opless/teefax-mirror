@@ -1,8 +1,36 @@
 PS,8000
 CT,16,T
-DE,approximated recreation of ORACLE character ROM test from 1976
+DE,about the early ORACLE test pages
 PN,50901
 SC,0001
+OL,1,ë||||||||||||||||||||||||||||||||||||||ú
+OL,2,Åùì *o?%//h?/%//h?/%~/}j?o4/}h?/%   ú
+OL,3,Åùì  j5 ,,*-l4  j5  ,j=n1 *-l4   ú
+OL,4,Åùì  j5 ||h|~%  *}|4 j5j5|?h|~%   ú
+OL,5,Åùì (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   ú
+OL,6,ë###################################### 
+OL,7,    ìùÅEarly ORACLE Decoder Tests  ú    
+OL,8,                                        
+OL,9,ÇThe following pages are recreations of 
+OL,10,Çpages broadcast on ORACLE in the mid-  
+OL,11,Çseventies, based on photographs from   
+OL,12,ÇAlan Pemberton's collection.           
+OL,13,Ç                                       
+OL,14,ÇThe first demonstrates some characters 
+OL,15,Çintroduced in the 1976 teletext speci- 
+OL,16,Çfication for decoders with Tifax ROMs. 
+OL,17,                                        
+OL,18,ÇThe second tests all the features of   
+OL,19,Çthe 1976 specification.                
+OL,20,Ç                                       
+OL,21,ÇThe third demonstrates the use of held 
+OL,22,Çmosaic graphics.                á(1/4) 
+OL,23,                                        
+OL,24,                                        
+FL,8ff,8ff,8ff,8ff,8ff,506
+DE,approximated recreation of ORACLE character ROM test
+PN,50902
+SC,0002
 OL,1,                                        
 OL,2,Å          TEXAS INSTRUMENTS            
 OL,3,                                        
@@ -27,10 +55,10 @@ OL,21, A WIDE BAR               ` ` ` ` ` ` `
 OL,22, THE "DIVIDE" SYMBOL      ~ ~ ~ ~ ~ ~ ~ 
 OL,23, CHARACTER "WHITE" SYMBOL        
 OL,24,                                        
-FL,0,0,0,0,0,506
-DE,approximated recreation of ORACLE control code test from 1977
-PN,50902
-SC,0002
+FL,8ff,8ff,8ff,8ff,8ff,506
+DE,approximated recreation of ORACLE control code test
+PN,50903
+SC,0003
 OL,1,Ç       ORACLE CONTROL TEST PAGE     451
 OL,2,Ç       --------------------------------
 OL,3,abcdefghijklmnopqrstuvwxyz1234567890-=`+
@@ -48,17 +76,17 @@ OL,14, ëûíí`ìî,.óïìHOLD üUNHOLDíî
 OL,15,                                        
 OL,16,                                        
 OL,17,É  SINGLEñçDOUBLE HEIGHTåìSINGLE        
-OL,18, THIS IS NOT A D/H DECODER              
+OL,18, THIS IS NOT A D/H DECODER              gener
 OL,19,                                        
 OL,20, DISCRETEíöp x |óCONTIGUOUSíôp x |      
 OL,21,                                        
 OL,22,ÅùÇFIX BACKGROUND      úUNFIXçD/HàFLASH 
 OL,23,                                        
 OL,24,                                        
-FL,0,0,0,0,0,506
-DE,approximated recreation of ORACLE held graphics demo from 1977
-PN,50903
-SC,0003
+FL,8ff,8ff,8ff,8ff,8ff,506
+DE,approximated recreation of ORACLE held graphics demo
+PN,50904
+SC,0004
 OL,1,                                        
 OL,2,                                        
 OL,3,ÉNEW FACILITIES - "HOLD"                
@@ -83,4 +111,4 @@ OL,21, ëûíîìïñóá
 OL,22, ëûíîìïñóá    
 OL,23,                                        
 OL,24,                                        
-FL,0,0,0,0,0,506
+FL,8ff,8ff,8ff,8ff,8ff,506
