@@ -1,6 +1,6 @@
 PS,8000
 CT,16,T
-DE,approximated recreation of ORACLE character ROM test from 1976 http://www.pembers.freeserve.co.uk/Teletext/Photographs.html
+DE,approximated recreation of ORACLE character ROM test from 1976
 PN,50901
 SC,0001
 OL,1,                                        
@@ -28,7 +28,7 @@ OL,22, THE "DIVIDE" SYMBOL      ~ ~ ~ ~ ~ ~ ~
 OL,23, CHARACTER "WHITE" SYMBOL        
 OL,24,                                        
 FL,0,0,0,0,0,506
-DE,approximated recreation of ORACLE control code test from 1977 http://www.pembers.freeserve.co.uk/Teletext/Photographs.html
+DE,approximated recreation of ORACLE control code test from 1977
 PN,50902
 SC,0002
 OL,1,Ç       ORACLE CONTROL TEST PAGE     451
@@ -56,7 +56,7 @@ OL,22,ÅùÇFIX BACKGROUND      úUNFIXçD/HàFLASH
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,0,506
-DE,approximated recreation of ORACLE held graphics demo from 1977 http://www.pembers.freeserve.co.uk/Teletext/Photographs.html
+DE,approximated recreation of ORACLE held graphics demo from 1977
 PN,50903
 SC,0003
 OL,1,                                        
