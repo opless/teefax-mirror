@@ -1,8 +1,8 @@
-DE,Read back page  20/11/07 BBC
-DS,inserter
+DE,BBC Newsflash  20/11/07
+DS,Inserter
 SP,I:\peter\TeletextFest2016\P510.ttix
 CT,99,C
-PS,8000
+PS,8001
 RE,0
 PN,51000
 SC,0000
@@ -26,15 +26,9 @@ OL,16,
 OL,17,                                        
 OL,18,                                        
 OL,19,                                        
-OL,20,DKK]GLATEST \D````````````````````````
-
-
-OL,21,FKKThis is an example of a Newsflash  
-
-
-OL,22,FKKIt is very similar to subtitles.   
-
-
-OL,23,DKK```````````````````````````` D]G110
-@
-FL,100,100,100,100,100,100
+OL,20,„‹‹‡LATEST œ„````````````````````````Š 
+OL,21,†‹‹Gamer loses fight for life on the  Š 
+OL,22,†‹‹Oregon trail...............        Š 
+OL,23,„‹‹```````````````````````````` „‡551Š€
+OL,24,‹‹Ticker ‚Latest ƒHeadlines†Main MenuŠ 
+FL,151,110,101,100,f,f
