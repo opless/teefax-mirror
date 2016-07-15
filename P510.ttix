@@ -35,7 +35,7 @@ FL,151,110,101,100,f,f
 PN,51002
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,                                        
 OL,2,…                                       
 OL,3,                                        
 OL,4,                                        
@@ -54,9 +54,9 @@ OL,16,
 OL,17,                                        
 OL,18,                                        
 OL,19,                                        
-OL,20,                                        
-OL,21,„‹‹‡LATEST œ„````````````````````````Š 
-OL,22,†‹‹Bruce Lee like you've never seen   Š 
-OL,23,†‹‹him before...pixellated....        Š 
-OL,24,„‹‹```````````````````````````` „‡550Š 
+OL,20,„‹‹‡LATEST œ„````````````````````````Š 
+OL,21,†‹‹Bruce Lee like you've never seen   Š 
+OL,22,†‹‹him before...pixellated....        Š 
+OL,23,„‹‹```````````````````````````` „‡550Š 
+OL,24,‹‹Ticker ‚Latest ƒHeadlines†Main MenuŠ 
 FL,110,110,101,100,f,f
