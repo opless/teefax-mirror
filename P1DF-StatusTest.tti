@@ -11,13 +11,13 @@ OL,1,
 OL,2, This is a test page for system         
 OL,3, status                                 
 OL,4,                                        
-OL,5, Temperature: %%%t                      
+OL,5, Temperature: %%%T                      
 OL,6,                                        
 OL,7, Get here by going to page 551 and      
 OL,8, pressing Green.                        
 OL,9,                                        
 OL,10, If you just get a code that looks like 
-OL,11, % % % t                                
+OL,11, % % % T                                
 OL,12, then your VBIT is not up to date       
 OL,13, or it simply isn't working yet.        
 OL,14,                                        
