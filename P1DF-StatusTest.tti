@@ -12,7 +12,7 @@ OL,2, This is a test page for system
 OL,3, status                                 
 OL,4,                                        
 OL,5, Temperature: %%%T                      
-OL,6,                                        
+OL,6, Time/date:   %%%%%%%%%%%%timedate      
 OL,7, Get here by going to page 551 and      
 OL,8, pressing Green.                        
 OL,9,                                        
