@@ -1,34 +1,83 @@
-DE,teletext-editor
+DE,About the BBC Engineering test pages
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P506.ttix
-CT,1,C
+CT,20,T
 PS,8000
 RE,0
-PN,50700
-SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,W^OsSZV^_XDM]CENGINEERING R\L^sUNQOTOG02
-OL,3,W^OsSZV^_XDM]CENGINEERING R\L^sUNQOTOG02
-OL,4,~~~~~~~~~~~~~~~~~~~04
-OL,5,TZ^sQYU?UAM E]BTest Page  \L^RsVXS?WXA05
-OL,6,TZ^sQYU?UAM E]BTest Page  \L^RsVXS?WXA05
-OL,7,A?A ? A^ ^ W,SSVVRRRUUQQTTT  T?A?A?A?A07
-OL,8,~~~~~~~~~~~~~~~~~~~08
-OL,9,A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?09
-OL,10,~~~~~~~~~~~~~~~~~~~10
-OL,11,A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?11
-OL,12,~~~~~~~~~~~~~~~~~~~12
-OL,13,A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?13
-OL,14,~~~~~~~~~~~~~~~~~~~14
-OL,15,A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?A?15
-OL,16,~~~~~~~~~~~~~~~~~~~16
-OL,17,WhiteCYellowFCyanBGreenEMagentaARedDBlue
-OL,18,WZ!"#S$%&'V()*+R,-./Y0123U4567Q89:;T<=>?
-OL,19,  !"# $%&' ()*+ ,-./ 0123 4567 89:; <=>?
-OL,20, @ABC DEFG HIJK LMNO PQRS TUVW XYZ[ \]^_
-OL,21, `abc defg hijk lmno pqrs tuvw xyz{ |}~
-OL,22,T`abcQdefgUhijkRlmnoZpqrsVtuvwSxyz{W|}~
-OL,23,CXConcealHFlashC*KKBoxISteadyXGoneJJ?V^
-OL,24,BEngineering ???????????????????????????
-FL,0,0,0,0,0,506
+PN,50701
+SC,0001
+OL,1,ë||||||||||||||||||||||||||||||||||||||ú
+OL,2,Åùì *o?%//h?/%//h?/%~/}j?o4/}h?/%   ú
+OL,3,Åùì  j5 ,,*-l4  j5  ,j=n1 *-l4   ú
+OL,4,Åùì  j5 ||h|~%  *}|4 j5j5|?h|~%   ú
+OL,5,Åùì (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   ú
+OL,6,ë###################################### 
+OL,7,     çÉùÅThe 1978 BBC Test Page  ú      
+OL,9,ì      ##########################       
+OL,10,ÇThis engineering test page was copied  
+OL,11,Çbyte by byte from a photograph in Alan 
+OL,12,ÇPemberton's collection.                
+OL,13,Ç(pembers.freeserve.co.uk/teletext/)    
+OL,14,                                        
+OL,15,ÇA photograph from a decoder displaying 
+OL,16,Çvisible control codes allowed an exact 
+OL,17,Çcopy of the page to be transcribed.    
+OL,18,Ç                                       
+OL,19,ÇThe clock cracker uses a control code  
+OL,20,Çlater defined for black text therefore 
+OL,21,Çmany newer televisions will render the 
+OL,22,Çpage incorrectly.               á(1/3) 
+OL,23,                                        
+OL,24,Å1978 version Ç"colour stripes" version                  
+FL,50A,50B,8FF,8FF,8FF,506
+PN,50702
+SC,0002
+OL,1,ë||||||||||||||||||||||||||||||||||||||ú
+OL,2,Åùì *o?%//h?/%//h?/%~/}j?o4/}h?/%   ú
+OL,3,Åùì  j5 ,,*-l4  j5  ,j=n1 *-l4   ú
+OL,4,Åùì  j5 ||h|~%  *}|4 j5j5|?h|~%   ú
+OL,5,Åùì (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   ú
+OL,6,ë###################################### 
+OL,7,     çÉùÅThe 1978 BBC Test Page  ú      
+OL,9,ì      ##########################       
+OL,10,ÇThe Texas Instruments Tifax character  
+OL,11,Çgenerator ROM chip contained all the   
+OL,12,Çglyphs for rendering teletext. It also 
+OL,13,Çcontained extra glyphs for the control
+OL,14,Çcodes that are usually not displayed.  
+OL,15,ÇA teletext decoder could be altered to 
+OL,16,Çshow these glyphs, thus displaying all 
+OL,17,Çthe normally hidden details of a page. 
+OL,18,Ç                                       
+OL,19,ÇThe photograph was taken on Friday the 
+OL,20,Ç25th of August, 1978.                  
+OL,21,Ç                                       
+OL,22, PressÅREDáto see this testcard. á(2/3) 
+OL,24,Å1978 version Ç"colour stripes" version                   
+FL,50A,50B,8FF,8FF,8FF,506
+PN,50703
+SC,0003
+OL,1,ë||||||||||||||||||||||||||||||||||||||ú
+OL,2,Åùì *o?%//h?/%//h?/%~/}j?o4/}h?/%   ú
+OL,3,Åùì  j5 ,,*-l4  j5  ,j=n1 *-l4   ú
+OL,4,Åùì  j5 ||h|~%  *}|4 j5j5|?h|~%   ú
+OL,5,Åùì (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   ú
+OL,6,ë###################################### 
+OL,7,   çÉùÅ"Colour stripes" Test Page  ú    
+OL,8,                                        
+OL,9,ì    ##############################     
+OL,10,ÇLater the test page was modified with  
+OL,11,Çthe incorporation of a row of coloured 
+OL,12,Çpatches below theïùÇTest Page  úlabel. 
+OL,13,                                        
+OL,14,ÇVariations of this card were used for  
+OL,15,Çmany years. The card was often used on 
+OL,16,Çthe in-vision "pages from ceefax" and  
+OL,17,Ça version was included on the "British 
+OL,18,ÇGarden Birds" BBC Laserdisc.           
+OL,19,Ç                                       
+OL,20, PressÇGREENáto see an approximation of 
+OL,21, this testcard, based on captured data, 
+OL,22, the 1978 page, and screen grabs.á(3/3) 
+OL,23,                                        
+OL,24,Å1978 version Ç"colour stripes" version 
+FL,50A,50B,8FF,8FF,8FF,506

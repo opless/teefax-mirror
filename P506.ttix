@@ -1,6 +1,5 @@
 DE,Test pages index
 DS,inserter
-SP,d:\Users\Alistair\Teletext-Stuff\vbit\vbit-pi\teletext\P506.ttix
 CT,1,C
 PS,8000
 RE,0
@@ -17,11 +16,11 @@ OL,8,
 OL,9,ì   ################################    
 OL,10, ~~~~~~~~~~~~~~~~~~~ 
 OL,11, ~                                   á 
-OL,12,  ÇP507 - A recreated BBC test page á~ 
+OL,12,  ÇP507 - BBC engineering test page á~ 
 OL,13, ~ Ç                                 á 
-OL,14,  ÇP508 - A BBC test page from 1978 á~ 
+OL,14,  ÇP508 - ORACLE decoder test pages á~ 
 OL,15, ~ Ç                                 á 
-OL,16,  ÇP509 - ORACLE decoder test pages á~ 
+OL,16,  Ç                                 á~ 
 OL,17, ~ Ç                                 á 
 OL,18,  Ç                                 á~ 
 OL,19, ~ Ç                                 á 
@@ -29,5 +28,5 @@ OL,20,  Ç                                 á~
 OL,21, ~                                     
 OL,22, ~~~~~~~~~~~~~~~~~~~ 
 OL,23,                                        
-OL,24,ÅBBC testÇBBC 1978ÉORACLE               
-FL,507,508,509,8FF,8FF,100
+OL,24,Å  BBC   Ç ORACLE                       
+FL,507,508,8FF,8FF,8FF,100
