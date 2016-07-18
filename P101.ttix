@@ -1,34 +1,34 @@
-DE,Description goes here
+DE,Read back page  14/12/01
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P101.ttix
-CT,8,T
-PS,8000
+SP,C:\Users\carl\Documents\TeletextFest2016\P101.ttix
+CT,99,C
+PS,8040
 RE,0
 PN,10100
 SC,0000
-OL,0,XXXXXXXXFRINGEFAX  DAY dd MTH C hh:nn.ss
-OL,1,Q|||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,|||
-OL,2,Q]S m0jws!w{ 5}jj#jsjshs4ouz? `>
-OL,3,Q]S >!j7# 7k555ojzjpj j 55j "m
-OL,4,Q#######################################
-OL,5,CNews                                   
-OL,6,MNEWS ITEM WILL GO HERE            C 210
-OL,7,                                        
-OL,8,D```````````````````````````````````````
-OL,9, VENUES         200 OUTER FRINGE     300
-OL,10,CBANK GARDENS  G201CPRINCE ALBERT   G301
-OL,11,CCORNHILL      G202CCROWN & SCEPTRE G302
-OL,12,CALT. SUBROOMS G203CBLACK BOOK CAFE G303
-OL,13,CELEC. SUBROOMSG204CLANSDOWN HALL   G304
-OL,14,CCANAL, WALLBR.G205C                    
-OL,15,CBLOCK PARTY   G206GGENERAL INFORMATION 
-OL,16,                   CLOCAL NEWS      G150
-OL,17,                   CSTROUD WEATHER  G400
-OL,18, SPONSORS       500CBAMBOOZLE!      G152
-OL,19,CBOTTLE GREEN  G502CNOW AND NEXT    G140
-OL,20,CECOTRICITY    G503CTWITFAX         G153
-OL,21,CSTROUD BREWERYG504CMADE IN STROUD  G160
-OL,22,CADAM CLAYTON  G505CSHOPPING        G180
-OL,23,D]CCycle with the Stonehouse Wheelers   
-OL,24,AHeadlines  BMusic CShopping FKids      
-FL,100,100,100,100,100,100
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
+OL,1,                            ó6!  ìp~0ói 
+OL,2,áùÑHere is a list of     ú   ì<|~3oó"5
+OL,3,áùÑusers who have        ú  ìjzjojz4ht
+OL,4,áùÑcontributed to        ú  ìb?'~7/w)w>
+OL,5,áùÑTEEFAX so far...      ú úì?(}rsx="}w 
+OL,6,                ó#/|ppppp   ìm}tsssx}?j 
+OL,7,                             ì+/}|/a'î
+OL,8,                         î x}ólp  px,î~
+OL,9,ÅÅ``````````````````````````````````````
+OL,10, çPeter Kwan--Carl Attrill              
+OL,11,                                        
+OL,12,                                        
+OL,13, çDan Farimond--                        
+OL,14,                                        
+OL,15,                                        
+OL,16, çAlistair Cree--                       
+OL,17,                                        
+OL,18,                                        
+OL,19, çRob O'Donnel--                        
+OL,20,                                        
+OL,21,                                        
+OL,22,ú  ÑùáThank you one and all :-)       ú 
+OL,23,ÅÅ``````````````````````````````````````
+OL,24,ÅINDEX    Ç1st Page ÉBack     ÜP100     
+FL,100,100,100,100,f,100
