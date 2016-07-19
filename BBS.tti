@@ -104,16 +104,16 @@ OL,10,†I'm pondering the best way of doing it.
 OL,11,†BeebEm can get at everything as it can 
 OL,12,†see the Econet fileserver, so can even 
 OL,13,†copy pages off disc via a real Beeb... 
-OL,14,†                                       
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
+OL,14,========================================
+OL,15,Alistair.ƒ2016-07-19 21:38              
+OL,16,Having looked again at beebem, it isn't 
+OL,17,able to export blocks of memory the way 
+OL,18,I was thinking it could. I now remember 
+OL,19,it was a painful process of copying data
+OL,20,from the debugger for the screens I did.
+OL,21,A better answer would be to write it out
+OL,22,into .tti format by setting the printer 
+OL,23,output to file.                         
 OL,24,                                        
 FL,100,100,100,503,100,100
 PN,50305
