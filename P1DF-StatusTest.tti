@@ -1,4 +1,4 @@
-DE,Description goes here
+DE,System status for VBIT
 DS,inserter
 SP,I:\peter\TeletextFest2016\P1DF-StatusTest.tti
 CT,8,T
@@ -21,9 +21,9 @@ OL,11, % % % T
 OL,12, then your VBIT is not up to date       
 OL,13, or it simply isn't working yet.        
 OL,14,                                        
-OL,15,                                        
+OL,15, See if you need heatsinks.                                        
 OL,16,                                        
-OL,17,                                        
+OL,17, I aim to recreate the World Time page                                        
 OL,18,                                        
 OL,19,                                        
 OL,20,                                        
