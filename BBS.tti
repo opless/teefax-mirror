@@ -119,11 +119,11 @@ FL,100,100,100,503,100,100
 PN,50305
 SC,0005
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,BBS subpage inserted 5/5                
-OL,2,                                        
-OL,3,                                        
-OL,4,                                        
-OL,5,                                        
+OL,1,ÉRob 19Jul2016 21:50                    
+OL,2,ÜIf you save it to a local .ssd file,   
+OL,3,Üthen BeebEm can export it out to the   
+OL,4,Ühost FS.  Option on the Edit menu.     
+OL,5,Ü(And yes, it took me ages to spot it!) 
 OL,6,                                        
 OL,7,                                        
 OL,8,                                        
