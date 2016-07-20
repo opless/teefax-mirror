@@ -137,10 +137,10 @@ OL,15,remembering enough BBC basic and/or 6502
 OL,16,to take MODE 7 screens and convert them 
 OL,17,to .tti files :)                        
 OL,18,========================================
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
+OL,19,ÉRob. 20Jul2016 12:45                   
+OL,20,ÜScreen dump - *SAVE file FFFF7C00+400  
+OL,21,ÜTTI files shouldn't take much work,    
+OL,22,Üthey are fairly simple in structore.   
 OL,23,                                        
 OL,24,                                        
 FL,100,100,100,503,100,100
