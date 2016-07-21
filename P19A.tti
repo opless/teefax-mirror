@@ -6,22 +6,22 @@ SC,0001
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0001               
 OL,24, Back    ‚S0002   ƒS0003   †S0004      
-OL,27,/Ηκ/κ^ΗIΗ^Ηdκκκ/κ^κ/κ^
+OL,27,/Ηκ/κ^ΗIΗ^Ηdκκκ/κ^κ/κ^κ
 PN,19A02
 SC,0002
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0002               
 OL,24, S0001   ‚Back    ƒS0003   †S0004      
-OL,27,Η/Ηκ/κ^Η^Ηdκκκ/κ^κ/κ^
+OL,27,Η/Ηκ/κ^Η^Ηdκκκ/κ^κ/κ^κ
 PN,19A03
 SC,0003
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0003               
 OL,24, S0001   ‚S0002   ƒBack    †S0004      
-OL,27,ΗΗI/Ηκ/κ^Ηdκκκ/κ^κ/κ^
+OL,27,ΗΗI/Ηκ/κ^Ηdκκκ/κ^κ/κ^κ
 PN,19A04
 SC,0004
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0004               
 OL,24, S0001   ‚S0002   ƒS0003   †Back       
-OL,27,ΗΗIΗ^/Ηκ/κ^κκκ/κ^κ/κ^
+OL,27,ΗΗIΗ^/Ηκ/κ^κκκ/κ^κ/κ^κ
