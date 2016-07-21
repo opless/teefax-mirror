@@ -1,0 +1,10 @@
+DE,page subcode linking test
+CT,8,T
+PS,8000
+PN,19700
+SC,0000
+OL,7,     This is a test of subcode links    
+OL,8,     Each link goes to a different      
+OL,9,     subpage on page 19A.               
+OL,24, S0001   ‚S0002   ƒS0003   †S0004      
+OL,27,ΗΗIΗ^Ηdκκκ/κ^κ/κ^
