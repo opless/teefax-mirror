@@ -1,6 +1,5 @@
 DE,Description goes here
 DS,inserter
-SP,I:\peter\TeletextFest2016\P700.tti
 CT,8,T
 PS,8000
 RE,0
@@ -31,4 +30,4 @@ OL,21,áùÅçBRUCE LEE ë,,,,,,,,,,,,,,,,,,-, j j
 OL,22,áùù %                      * *   %  * * 
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,100,100,100
+FL,8FF,8FF,8FF,8FF,8FF,100
