@@ -31,7 +31,7 @@ OL,21,MC1645GSINNOBER
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext venue  BFriday    CSaturday FIndex
-FL,204,203,215,200,100,100
+FL,204,203,215,200,8FF,200
 PN,21602
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -59,4 +59,4 @@ OL,21,
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext venue  BFriday    CSaturday FIndex
-FL,203,203,215,200,100,100
+FL,203,203,215,200,8FF,200

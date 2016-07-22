@@ -31,7 +31,7 @@ OL,21,MC1815GJ FLETCH (MSTF)
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext venue  B  Friday CSunday    FIndex
-FL,222,205,219,200,100,100
+FL,222,205,219,200,8FF,200
 PN,22002
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -59,4 +59,4 @@ OL,21,
 OL,22,                                        
 OL,23,A]CSupport the Fringe. Buy a programme! 
 OL,24,ANext venue  B  Friday CSunday    FIndex
-FL,205,205,219,200,100,100
+FL,205,205,219,200,8FF,200
