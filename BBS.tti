@@ -31,7 +31,7 @@ OL,21,But great forÅRÇAÉIÑNÖBÜOáWÅS
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50302
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -59,7 +59,7 @@ OL,21,all beat my previous method hand editing
 OL,22,binary files or files of comma separated
 OL,23,hex values! :-)                         
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50303
 SC,0003
 OL,0,                                        
@@ -87,7 +87,7 @@ OL,21,Ühard. I've got real editing keyboards,
 OL,22,Üboth a Softel CEEFAX unit, but also    
 OL,23,Üsome bare Cherry units that need TLC...
 OL,24,ÜThey would definitely make it easier!  
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50304
 SC,0004
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -115,7 +115,7 @@ OL,21,A better answer would be to write it out
 OL,22,into .tti format by setting the printer 
 OL,23,output to file.                         
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50305
 SC,0005
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -143,7 +143,7 @@ OL,21,ÜTTI files shouldn't take much work,
 OL,22,Üthey are fairly simple in structore.   
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50306
 SC,0006
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -171,7 +171,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50307
 SC,0007
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -199,7 +199,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50308
 SC,0008
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -227,7 +227,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50309
 SC,0009
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -255,7 +255,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50310
 SC,0010
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -283,7 +283,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50311
 SC,0011
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -311,7 +311,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50312
 SC,0012
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -339,7 +339,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50313
 SC,0013
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -367,7 +367,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50314
 SC,0014
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -395,7 +395,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
 PN,50315
 SC,0015
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
@@ -423,4 +423,4 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,503,100,100
+FL,100,100,100,503,8FF,100
