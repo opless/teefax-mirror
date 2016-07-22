@@ -1,6 +1,6 @@
 DE,Read back page  14/12/01
 DS,inserter
-SP,L:\dev\TeletextFestivalPages\P101.ttix
+SP,I:\peter\TeletextFest2016\P101.ttix
 CT,99,C
 PS,8040
 RE,0
@@ -16,10 +16,10 @@ OL,6,                ó#/|ppppp   ìm}tsssx}?j
 OL,7,                             ì+/}|/a'î
 OL,8,                         î x}ólp  px,î~
 OL,9,ÅÅ``````````````````````````````````````
-OL,10, çPeter Kwan--Carl Attrill              
+OL,10, çPeter Kwan   --Carl Attrill           
 OL,11,                                        
 OL,12,                                        
-OL,13, çDan Farrimond--                       
+OL,13, çDan Farrimond--Chris Tsangari         
 OL,14,                                        
 OL,15,                                        
 OL,16, çAlistair Cree--                       
@@ -31,4 +31,4 @@ OL,21,
 OL,22,ú  ÑùáThank you one and all :-)       ú 
 OL,23,ÅÅ``````````````````````````````````````
 OL,24,ÅINDEX    Ç1st Page ÉBack     ÜP100     
-FL,100,100,100,100,8FF,100
+FL,100,100,100,100,8ff,100
