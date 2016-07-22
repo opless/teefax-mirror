@@ -30,8 +30,8 @@ OL,20,
 OL,21,                                        
 OL,22,                                     1/2
 OL,23,D]CMet Office                           
-OL,24,ANext       B                FIndex     
-FL,401,100,100,101,100,100
+OL,24,ATeletext in Stroud          FIndex     
+FL,401,8FF,8FF,100,8FF,100
 PN,40002
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -59,4 +59,4 @@ OL,21,
 OL,22,                                     2/2
 OL,23,D]CMet Office                           
 OL,24,ATeletext in Stroud          FIndex     
-FL,100,100,100,101,100,100
+FL,401,8FF,8FF,100,8FF,100

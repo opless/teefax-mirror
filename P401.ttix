@@ -31,7 +31,7 @@ OL,21,
 OL,22,                                     1/2
 OL,23,D]Cmrgsystems.co.uk                     
 OL,24,ANext       B                FIndex     
-FL,500,100,100,101,100,100
+FL,500,100,100,101,8FF,100
 PN,40102
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -59,4 +59,4 @@ OL,21,  Presfax is still used internally.
 OL,22,                                     2/2
 OL,23,D]Cmrgsystems.co.uk                     
 OL,24,ANext       BMusic CShopping FKids      
-FL,100,100,100,101,100,100
+FL,500,100,100,101,8FF,100

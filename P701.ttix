@@ -31,7 +31,7 @@ OL,21,‘,—jhnjj0 ‘,,,,,,,,,—`5557 ‘,,,,,,,,,
 OL,22,‘s—poufum ‘sssssssss—j*')%5 ‘sssssssss
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,100,100,100
+FL,8FF,8FF,8FF,8FF,8FF,100
 PN,70102
 SC,0002
 OL,0,         wxTED mpp DAY dd MTH ƒ hh:nn.ss
@@ -59,7 +59,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,100,100,100
+FL,8FF,8FF,8FF,8FF,8FF,100
 PN,70103
 SC,0003
 OL,0,         wxTED mpp DAY dd MTH ƒ hh:nn.ss
@@ -87,7 +87,7 @@ OL,21,•,,"–“",.&)=/#i&&:’' !/%("“*,)! #•"*'%.3
 OL,22,•&,(+–“/og8$+<|>’#.+).3)(**>(“-%+!/'(-30
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,100,100,100
+FL,8FF,8FF,8FF,8FF,8FF,100
 PN,70104
 SC,0004
 OL,0,         wxTED mpp DAY dd MTH ƒ hh:nn.ss
@@ -115,7 +115,7 @@ OL,21,      ‘j~uk
 OL,22,      ‘j7o      
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,100,100,100
+FL,8FF,8FF,8FF,8FF,8FF,100
 PN,70105
 SC,0005
 OL,0,         wxTED mpp DAY dd MTH ƒ hh:nn.ss
@@ -143,7 +143,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,100,100,100
+FL,8FF,8FF,8FF,8FF,8FF,100
 PN,70106
 SC,0006
 OL,0,         wxTED mpp DAY dd MTH ƒ hh:nn.ss
@@ -171,4 +171,4 @@ OL,21,—  ‘wppppp>—  ‘"-,,,. —  5}ppp~
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,100,100,100,100,100,100
+FL,8FF,8FF,8FF,8FF,8FF,100
