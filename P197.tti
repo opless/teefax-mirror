@@ -1,10 +1,31 @@
 DE,page subcode linking test
 CT,8,T
 PS,8000
+RE,0
 PN,19700
 SC,0000
 OL,27,å«å«Iå«^å«dÍÍÍ/Í^Í/Í^Í
+OL,1,                                        
+OL,2,                                        
+OL,3,                                        
+OL,4,                                        
+OL,5,                                        
+OL,6,                                        
 OL,7,     This is a test of subcode links    
 OL,8,     Each link goes to a different      
 OL,9,     subpage on page 19A.               
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
 OL,24,Å S0001   ÇS0002   ÉS0003   ÜS0004      
