@@ -1,34 +1,118 @@
 DE,CTS Main Index
 DS,inserter
 SP,C:\Users\Chace\Desktop\Teletext-CTS\P545-CTS-01.tti
-CT,15,C
+CT,6,C
 PS,8000
 RE,0
-PN,54500
-SC,0000
+PN,54501
+SC,0001
 OL,0,XXXXXXXXORACLE mpp DAY dd MTH É hh:nn.ss
-OL,1,ëë?c+3c?ckí*o?c+7c+?c+?c+7k7c?ëz7k3c7k7k
-OL,2, ë5j|5ju*,íj5j 5b(5b 5j|5j5b5ë5j5j5j5j
-OL,3, ëu*`5jw+`/íju*`5j 5j u*`5*5*5ëo5j5j}2a~
-OL,4, ë########í"##################ë"########
-OL,5,                                        
-OL,6,    THIS IS AN ENGINEERING TEST PAGE    
-OL,7,                                        
-OL,8,                                        
-OL,9,       çCrispy Tango ...... 546         
-OL,10,                                        
-OL,11,    ç   Nothing yet ....... 547         
-OL,12,                                        
-OL,13,     ç  Still nothing ..... 548         
-OL,14,                                        
-OL,15,     ç  You guessed it .... 549         
+OL,1,ë|<,<,l,l|í|<,l,,<,l,,|,l<l,||ñ|<,<,l,l|
+OL,2,ë uz 5jtí  /5*o o5* u*`ñ uz 5jt
+OL,3,ë 'k ?l4kí  5j 5j 7h"ñ 7k ?l4k
+OL,4,ë/-,/,/,,/í//,/,,-,.,/-.,-.,//ñ/-,/,/,,/
+OL,5,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,6,ç   Yet another set of tribute pages    
+OL,7, --   ------------                      
+OL,8,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, çü         Reflection ..Ç546           
+OL,10,    ç   Not   ç   Nothing yet           
+OL,11, ç          Headers .....Ç547           
+OL,12,     ç  Sti    ç  Still nothi           
+OL,13, ç          Mug shot ....Ç548           
+OL,14,     ç  You    ç  You guessed           
+OL,15, ç          Nothing yet .Ç549           
 OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
+OL,17,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,18,    ÜReflection:áAn abridged account    
+OL,19,     about my experience of teletext    
+OL,20,     first published on FabebookÜp546   
+OL,21,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,22, ÅùçÉ  FRINGEFAX MAIN INDEX 101         
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
+PN,54502
+SC,0002
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
+OL,1,ë|<l,,<l<lí|<,l,,<,l,,|,l<l,||ñ|<,|,||||
+OL,2,ë5j5j5j5jí  /5*o o5* u*`ñ uz 7k
+OL,3,ë5j5ju*%zí  5j 5j 7h"ñ 7kp1b
+OL,4,ë/-.-./-./í//,/,,-,.,/-.,-.,//ñ/-,//-.//
+OL,5,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,6,ç   Yet another set of tribute pages    
+OL,7, --   ------------                      
+OL,8,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, çü         Reflection ..Ç546           
+OL,10,    ç   Not   ç   Nothing yet           
+OL,11, ç          Headers .....Ç547           
+OL,12,     ç  Sti    ç  Still nothi           
+OL,13, ç          Mug shot ....Ç548           
+OL,14,     ç  You    ç  You guessed           
+OL,15, ç          Nothing yet .Ç549           
+OL,16,                                        
+OL,17,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,18,    ÜHeaders:áI'm going to recreate     
+OL,19,     some graphics on this page. Took   
+OL,20,     me ages to rip Oracle!     Üp547   
+OL,21,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,22, ÅùçÉ  FRINGEFAX MAIN INDEX 101         
+OL,23,                                        
+OL,24,                                        
+FL,8ff,8ff,8ff,8ff,8ff,100
+PN,54503
+SC,0003
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
+OL,1,ë|<l,,<l<lí|<,l,,<,l,,|,l<l,||ñ|<,|,||||
+OL,2,ë5j5j5j5jí  /5*o o5* u*`ñ uz 7k
+OL,3,ë5j5ju*%zí  5j 5j 7h"ñ 7kp1b
+OL,4,ë/-.-./-./í//,/,,-,.,/-.,-.,//ñ/-,//-.//
+OL,5,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,6,ç   Yet another set of tribute pages    
+OL,7, --   ------------                      
+OL,8,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, çü         Reflection ..Ç546           
+OL,10,    ç   Not   ç   Nothing yet           
+OL,11, ç          Headers .....Ç547           
+OL,12,     ç  Sti    ç  Still nothi           
+OL,13, ç          Mug shot ....Ç548           
+OL,14,     ç  You    ç  You guessed           
+OL,15, ç          Nothing yet .Ç549           
+OL,16,                                        
+OL,17,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,18,    ÜMug shot:áYes, that is me in a     
+OL,19,     vest! I must shave!                
+OL,20,                                Üp548   
+OL,21,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,22, ÅùçÉ  FRINGEFAX MAIN INDEX 101         
+OL,23,                                        
+OL,24,                                        
+FL,8ff,8ff,8ff,8ff,8ff,100
+PN,54504
+SC,0004
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
+OL,1,ë|<l,,<l<lí|<,l,,<,l,,|,l<l,||ñ|<,|,||||
+OL,2,ë5j5j5j5jí  /5*o o5* u*`ñ uz 7k
+OL,3,ë5j5ju*%zí  5j 5j 7h"ñ 7kp1b
+OL,4,ë/-.-./-./í//,/,,-,.,/-.,-.,//ñ/-,//-.//
+OL,5,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,6,ç   Yet another set of tribute pages    
+OL,7, --   ------------                      
+OL,8,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, çü         Reflection ..Ç546           
+OL,10,    ç   Not   ç   Nothing yet           
+OL,11, ç          Headers .....Ç547           
+OL,12,     ç  Sti    ç  Still nothi           
+OL,13, ç          Mug shot ....Ç548           
+OL,14,     ç  You    ç  You guessed           
+OL,15, ç          Nothing yet .Ç549           
+OL,16,                                        
+OL,17,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,18,    ÜNothing yet:áYes, this page is     
+OL,19,     stuck at WHSmith's at the moment   
+OL,20,     as they ran out of pens    Üp549   
+OL,21,öë,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,22, ÅùçÉ  FRINGEFAX MAIN INDEX 101         
+OL,23,                                        
+OL,24,                                        
+FL,8ff,8ff,8ff,8ff,8ff,100
