@@ -1,7 +1,8 @@
 DE,Read back page  14/12/01
 DS,inserter
-SP,I:\peter\TeletextFest2016\P101.ttix
-CT,99,C
+<<<<<<< .mineSP,C:\Users\carl\Documents\TeletextFest2016\P101.ttix
+=======SP,I:\peter\TeletextFest2016\P101.ttix
+>>>>>>> .theirsCT,99,C
 PS,8040
 RE,0
 PN,10100
@@ -22,7 +23,7 @@ OL,12,
 OL,13, çDan Farrimond--Chris Tsangari         
 OL,14,                                        
 OL,15,                                        
-OL,16, çAlistair Cree--                       
+OL,16, çAlistair Cree--Paul Rose              
 OL,17,                                        
 OL,18,                                        
 OL,19, çRob O'Donnell--                       
