@@ -6,209 +6,217 @@ PS,8000
 RE,0
 PN,10001
 SC,0001
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
-OL,4,Q ###R###T###R##########################
-OL,5,CNews                                   
-OL,6,AMWELCOME TO THE WORLD'S NEWEST TELETEXT
-OL,8,F```````````````````````````````````````
-OL,9,BCARLOS....G777&501FSTROUD BAMBOOZLEG152
-OL,10,BTEEFAX BBS....G503FTESTCARDS INDEX.G506
-OL,11,BBBS HOW TO....G502FUKEFAX..........G600
-OL,12,BChris.T.......G545F----------------G???
-OL,13,B--------------G???FMR BIFFO........G519
-OL,14,C                                       
-OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
-OL,17,A==============G???C----------------G???
-OL,18,A--------------G???C================G???
-OL,19,A==============G???C----------------G???
-OL,20,A--------------G???C================G???
-OL,21,AJOKETITLES....G888COREGON TRAIL....G551
-OL,23,V]ELots of fun at your finger tips ;-)  
-OL,24,A Index  BCarlos ArtCBunker FBamboozle  
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,‘ 5|j’5|j”5|j’‘//jsjsjshs4ouz?   
+OL,3,‘ 5/j’5/j”5/j’‘  jpjpj j 55j   
+OL,4,‘ ###’###”###’##########################
+OL,5,ƒNews                                   
+OL,6,WELCOME TO THE WORLD'S NEWEST TELETEXT
+OL,8,†```````````````````````````````````````
+OL,9,‚CARLOS....‡777&501†STROUD BAMBOOZLE‡152
+OL,10,‚TEEFAX BBS....‡503†TESTCARDS INDEX.‡506
+OL,11,‚BBS HOW TO....‡502†UKEFAX..........‡600
+OL,12,‚Chris.T.......‡545†----------------‡???
+OL,13,‚BBC NEWS......‡104†MR BIFFO........‡519
+OL,14,ƒ                                       
+OL,15,TWITFAX.......‡153ƒAnt nest map....‡899
+OL,16,--------------‡???ƒ================‡???
+OL,17,==============‡???ƒ----------------‡???
+OL,18,--------------‡???ƒ================‡???
+OL,19,==============‡???ƒ----------------‡???
+OL,20,--------------‡???ƒ================‡???
+OL,21,JOKETITLES....‡888ƒOREGON TRAIL....‡551
+OL,22,                                        
+OL,23,–…Lots of fun at your finger tips ;-)  
+OL,24, Index  ‚Carlos ArtƒBunker †Bamboozle  
 FL,501,501,899,152,8ff,100
 PN,10002
 SC,0002
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
-OL,4,Q ###R###T###R##########################
-OL,5,CNews                                   
-OL,6,AMA VERY QUICK GAME OF OREGON TRAIL P551
-OL,8,F```````````````````````````````````````
-OL,9,BCARLOS....G777&501FSTROUD BAMBOOZLEG152
-OL,10,BTEEFAX BBS....G503FTESTCARDS INDEX.G506
-OL,11,BBBS HOW TO....G502FUKEFAX..........G600
-OL,12,BChris.T.......G545F----------------G???
-OL,13,B--------------G???FMR BIFFO........G519
-OL,14,C                                       
-OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
-OL,17,A==============G???C----------------G???
-OL,18,A--------------G???C================G???
-OL,19,A==============G???C----------------G???
-OL,20,A--------------G???C================G???
-OL,21,AJOKETITLES....G888COREGON TRAIL....G551
-OL,23,V]EWHO WILL WRITE US A BAMBOOZLE??????  
-OL,24,A Index  BCarlos ArtCBunker FBamboozle  
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,‘ 5|j’5|j”5|j’‘//jsjsjshs4ouz?   
+OL,3,‘ 5/j’5/j”5/j’‘  jpjpj j 55j   
+OL,4,‘ ###’###”###’##########################
+OL,5,ƒNews                                   
+OL,6,A VERY QUICK GAME OF OREGON TRAIL P551
+OL,8,†```````````````````````````````````````
+OL,9,‚CARLOS....‡777&501†STROUD BAMBOOZLE‡152
+OL,10,‚TEEFAX BBS....‡503†TESTCARDS INDEX.‡506
+OL,11,‚BBS HOW TO....‡502†UKEFAX..........‡600
+OL,12,‚Chris.T.......‡545†----------------‡???
+OL,13,‚BBC NEWS......‡104†MR BIFFO........‡519
+OL,14,ƒ                                       
+OL,15,TWITFAX.......‡153ƒAnt nest map....‡899
+OL,16,--------------‡???ƒ================‡???
+OL,17,==============‡???ƒ----------------‡???
+OL,18,--------------‡???ƒ================‡???
+OL,19,==============‡???ƒ----------------‡???
+OL,20,--------------‡???ƒ================‡???
+OL,21,JOKETITLES....‡888ƒOREGON TRAIL....‡551
+OL,22,                                        
+OL,23,–…WHO WILL WRITE US A BAMBOOZLE??????  
+OL,24, Index  ‚Carlos ArtƒBunker †Bamboozle  
 FL,501,501,899,152,8ff,100
 PN,10003
 SC,0003
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
-OL,4,Q ###R###T###R##########################
-OL,5,CNews                                   
-OL,6,AMTEXT TESTCARDS TEEFAX TIME TUNNEL P506
-OL,8,F```````````````````````````````````````
-OL,9,BCARLOS....G777&501FSTROUD BAMBOOZLEG152
-OL,10,BTEEFAX BBS....G503FTESTCARDS INDEX.G506
-OL,11,BBBS HOW TO....G502FUKEFAX..........G600
-OL,12,BChris.T.......G545F----------------G???
-OL,13,B--------------G???FMR BIFFO........G519
-OL,14,C                                       
-OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
-OL,17,A==============G???C----------------G???
-OL,18,A--------------G???C================G???
-OL,19,A==============G???C----------------G???
-OL,20,A--------------G???C================G???
-OL,21,AJOKETITLES....G888COREGON TRAIL....G551
-OL,23,V]EREMEMBER TO ./updatepages.sh in SSH  
-OL,24,A Index  BCarlos ArtCBunker FBamboozle  
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,‘ 5|j’5|j”5|j’‘//jsjsjshs4ouz?   
+OL,3,‘ 5/j’5/j”5/j’‘  jpjpj j 55j   
+OL,4,‘ ###’###”###’##########################
+OL,5,ƒNews                                   
+OL,6,TEXT TESTCARDS TEEFAX TIME TUNNEL P506
+OL,8,†```````````````````````````````````````
+OL,9,‚CARLOS....‡777&501†STROUD BAMBOOZLE‡152
+OL,10,‚TEEFAX BBS....‡503†TESTCARDS INDEX.‡506
+OL,11,‚BBS HOW TO....‡502†UKEFAX..........‡600
+OL,12,‚Chris.T.......‡545†----------------‡???
+OL,13,‚BBC NEWS......‡104†MR BIFFO........‡519
+OL,14,ƒ                                       
+OL,15,TWITFAX.......‡153ƒAnt nest map....‡899
+OL,16,--------------‡???ƒ================‡???
+OL,17,==============‡???ƒ----------------‡???
+OL,18,--------------‡???ƒ================‡???
+OL,19,==============‡???ƒ----------------‡???
+OL,20,--------------‡???ƒ================‡???
+OL,21,JOKETITLES....‡888ƒOREGON TRAIL....‡551
+OL,22,                                        
+OL,23,–…REMEMBER TO ./updatepages.sh in SSH  
+OL,24, Index  ‚Carlos ArtƒBunker †Bamboozle  
 FL,501,501,899,152,8ff,100
 PN,10004
 SC,0004
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
-OL,4,Q ###R###T###R##########################
-OL,5,CNews                                   
-OL,6,AMTRY OUR BBS - IT'S THE CATS WHISKERS!!
-OL,8,F```````````````````````````````````````
-OL,9,BCARLOS....G777&501FSTROUD BAMBOOZLEG152
-OL,10,BTEEFAX BBS....G503FTESTCARDS INDEX.G506
-OL,11,BBBS HOW TO....G502FUKEFAX..........G600
-OL,12,BChris.T.......G545F----------------G???
-OL,13,B--------------G???FMR BIFFO........G519
-OL,14,C                                       
-OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
-OL,17,A==============G???C----------------G???
-OL,18,A--------------G???C================G???
-OL,19,A==============G???C----------------G???
-OL,20,A--------------G???C================G???
-OL,21,AJOKETITLES....G888COREGON TRAIL....G551
-OL,23,V]EUPDATES @teefaxText on FACEBOOK ;-)  
-OL,24,A Index  BCarlos ArtCBunker FBamboozle  
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,‘ 5|j’5|j”5|j’‘//jsjsjshs4ouz?   
+OL,3,‘ 5/j’5/j”5/j’‘  jpjpj j 55j   
+OL,4,‘ ###’###”###’##########################
+OL,5,ƒNews                                   
+OL,6,TRY OUR BBS - IT'S THE CATS WHISKERS!!
+OL,8,†```````````````````````````````````````
+OL,9,‚CARLOS....‡777&501†STROUD BAMBOOZLE‡152
+OL,10,‚TEEFAX BBS....‡503†TESTCARDS INDEX.‡506
+OL,11,‚BBS HOW TO....‡502†UKEFAX..........‡600
+OL,12,‚Chris.T.......‡545†----------------‡???
+OL,13,‚BBC NEWS......‡104†MR BIFFO........‡519
+OL,14,ƒ                                       
+OL,15,TWITFAX.......‡153ƒAnt nest map....‡899
+OL,16,--------------‡???ƒ================‡???
+OL,17,==============‡???ƒ----------------‡???
+OL,18,--------------‡???ƒ================‡???
+OL,19,==============‡???ƒ----------------‡???
+OL,20,--------------‡???ƒ================‡???
+OL,21,JOKETITLES....‡888ƒOREGON TRAIL....‡551
+OL,22,                                        
+OL,23,–…UPDATES @teefaxText on FACEBOOK ;-)  
+OL,24, Index  ‚Carlos ArtƒBunker †Bamboozle  
 FL,501,501,899,152,8ff,100
 PN,10005
 SC,0005
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
-OL,4,Q ###R###T###R##########################
-OL,5,CNews                                   
-OL,6,AMUKEFAX- STRUM THE UKE IN STYLE  P600  
-OL,8,F```````````````````````````````````````
-OL,9,BCARLOS....G777&501FSTROUD BAMBOOZLEG152
-OL,10,BTEEFAX BBS....G503FTESTCARDS INDEX.G506
-OL,11,BBBS HOW TO....G502FUKEFAX..........G600
-OL,12,BChris.T.......G545F----------------G???
-OL,13,B--------------G???FMR BIFFO........G519
-OL,14,C                                       
-OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
-OL,17,A==============G???C----------------G???
-OL,18,A--------------G???C================G???
-OL,19,A==============G???C----------------G???
-OL,20,A--------------G???C================G???
-OL,21,AJOKETITLES....G888COREGON TRAIL....G551
-OL,23,V]EHOPE TO SEE YOU ALL AT BLOCK PARTY!  
-OL,24,A Index  BCarlos ArtCBunker FBamboozle  
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,‘ 5|j’5|j”5|j’‘//jsjsjshs4ouz?   
+OL,3,‘ 5/j’5/j”5/j’‘  jpjpj j 55j   
+OL,4,‘ ###’###”###’##########################
+OL,5,ƒNews                                   
+OL,6,UKEFAX- STRUM THE UKE IN STYLE  P600  
+OL,8,†```````````````````````````````````````
+OL,9,‚CARLOS....‡777&501†STROUD BAMBOOZLE‡152
+OL,10,‚TEEFAX BBS....‡503†TESTCARDS INDEX.‡506
+OL,11,‚BBS HOW TO....‡502†UKEFAX..........‡600
+OL,12,‚Chris.T.......‡545†----------------‡???
+OL,13,‚BBC NEWS......‡104†MR BIFFO........‡519
+OL,14,ƒ                                       
+OL,15,TWITFAX.......‡153ƒAnt nest map....‡899
+OL,16,--------------‡???ƒ================‡???
+OL,17,==============‡???ƒ----------------‡???
+OL,18,--------------‡???ƒ================‡???
+OL,19,==============‡???ƒ----------------‡???
+OL,20,--------------‡???ƒ================‡???
+OL,21,JOKETITLES....‡888ƒOREGON TRAIL....‡551
+OL,22,                                        
+OL,23,–…HOPE TO SEE YOU ALL AT BLOCK PARTY!  
+OL,24, Index  ‚Carlos ArtƒBunker †Bamboozle  
 FL,501,501,899,152,8ff,100
 PN,10006
 SC,0006
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
-OL,4,Q ###R###T###R##########################
-OL,5,CNews                                   
-OL,6,AMDAN'S LEGENDARY ANT NEST MAP   P899   
-OL,8,F```````````````````````````````````````
-OL,9,BCARLOS....G777&501FSTROUD BAMBOOZLEG152
-OL,10,BTEEFAX BBS....G503FTESTCARDS INDEX.G506
-OL,11,BBBS HOW TO....G502FUKEFAX..........G600
-OL,12,BChris.T.......G545F----------------G???
-OL,13,B--------------G???FMR BIFFO........G519
-OL,14,C                                       
-OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
-OL,17,A==============G???C----------------G???
-OL,18,A--------------G???C================G???
-OL,19,A==============G???C----------------G???
-OL,20,A--------------G???C================G???
-OL,21,AJOKETITLES....G888COREGON TRAIL....G551
-OL,23,V]EA  USER LIST IS ON PAGE 101          
-OL,24,A Index  BCarlos ArtCBunker FBamboozle  
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,‘ 5|j’5|j”5|j’‘//jsjsjshs4ouz?   
+OL,3,‘ 5/j’5/j”5/j’‘  jpjpj j 55j   
+OL,4,‘ ###’###”###’##########################
+OL,5,ƒNews                                   
+OL,6,DAN'S LEGENDARY ANT NEST MAP   P899   
+OL,8,†```````````````````````````````````````
+OL,9,‚CARLOS....‡777&501†STROUD BAMBOOZLE‡152
+OL,10,‚TEEFAX BBS....‡503†TESTCARDS INDEX.‡506
+OL,11,‚BBS HOW TO....‡502†UKEFAX..........‡600
+OL,12,‚Chris.T.......‡545†----------------‡???
+OL,13,‚BBC NEWS......‡104†MR BIFFO........‡519
+OL,14,ƒ                                       
+OL,15,TWITFAX.......‡153ƒAnt nest map....‡899
+OL,16,--------------‡???ƒ================‡???
+OL,17,==============‡???ƒ----------------‡???
+OL,18,--------------‡???ƒ================‡???
+OL,19,==============‡???ƒ----------------‡???
+OL,20,--------------‡???ƒ================‡???
+OL,21,JOKETITLES....‡888ƒOREGON TRAIL....‡551
+OL,22,                                        
+OL,23,–…  USER LIST IS ON PAGE 101          
+OL,24, Index  ‚Carlos ArtƒBunker †Bamboozle  
 FL,501,501,899,152,8ff,100
 PN,10007
 SC,0007
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
-OL,4,Q ###R###T###R##########################
-OL,5,CNews                                   
-OL,6,AMBEAT BAMBER WITH STROUD KNOWLEDGE P152
-OL,8,F```````````````````````````````````````
-OL,9,BCARLOS....G777&501FSTROUD BAMBOOZLEG152
-OL,10,BTEEFAX BBS....G503FTESTCARDS INDEX.G506
-OL,11,BBBS HOW TO....G502FUKEFAX..........G600
-OL,12,BChris.T.......G545F----------------G???
-OL,13,B--------------G???FMR BIFFO........G519
-OL,14,C                                       
-OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
-OL,17,A==============G???C----------------G???
-OL,18,A--------------G???C================G???
-OL,19,A==============G???C----------------G???
-OL,20,A--------------G???C================G???
-OL,21,AJOKETITLES....G888COREGON TRAIL....G551
-OL,23,V]ETHE WORLD IN 1024 BYTES or less ;-)  
-OL,24,A Index  BCarlos ArtCBunker FBamboozle  
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,‘ 5|j’5|j”5|j’‘//jsjsjshs4ouz?   
+OL,3,‘ 5/j’5/j”5/j’‘  jpjpj j 55j   
+OL,4,‘ ###’###”###’##########################
+OL,5,ƒNews                                   
+OL,6,BEAT BAMBER WITH STROUD KNOWLEDGE P152
+OL,8,†```````````````````````````````````````
+OL,9,‚CARLOS....‡777&501†STROUD BAMBOOZLE‡152
+OL,10,‚TEEFAX BBS....‡503†TESTCARDS INDEX.‡506
+OL,11,‚BBS HOW TO....‡502†UKEFAX..........‡600
+OL,12,‚Chris.T.......‡545†----------------‡???
+OL,13,‚BBC NEWS......‡104†MR BIFFO........‡519
+OL,14,ƒ                                       
+OL,15,TWITFAX.......‡153ƒAnt nest map....‡899
+OL,16,--------------‡???ƒ================‡???
+OL,17,==============‡???ƒ----------------‡???
+OL,18,--------------‡???ƒ================‡???
+OL,19,==============‡???ƒ----------------‡???
+OL,20,--------------‡???ƒ================‡???
+OL,21,JOKETITLES....‡888ƒOREGON TRAIL....‡551
+OL,22,                                        
+OL,23,–…THE WORLD IN 1024 BYTES or less ;-)  
+OL,24, Index  ‚Carlos ArtƒBunker †Bamboozle  
 FL,501,501,899,152,8ff,100
 PN,10008
 SC,0008
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
-OL,4,Q ###R###T###R##########################
-OL,5,CVisit & join:                          
-OL,6,AMwww.facebook.com/groups/TeletextGroup 
-OL,8,F```````````````````````````````````````
-OL,9,BCARLOS....G777&501FSTROUD BAMBOOZLEG152
-OL,10,BTEEFAX BBS....G503FTESTCARDS INDEX.G506
-OL,11,BBBS HOW TO....G502FUKEFAX..........G600
-OL,12,BChris.T.......G545F----------------G???
-OL,13,B--------------G???FMR BIFFO........G519
-OL,14,C                                       
-OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
-OL,17,A==============G???C----------------G???
-OL,18,A--------------G???C================G???
-OL,19,A==============G???C----------------G???
-OL,20,A--------------G???C================G???
-OL,21,AJOKETITLES....G888COREGON TRAIL....G551
-OL,23,V]A    USER LIST is on PAGE 101         
-OL,24,A Index  BCarlos ArtCBunker FBamboozle  
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
+OL,1,‘ ppp’ppp”ppp’||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,‘ 5|j’5|j”5|j’‘//jsjsjshs4ouz?   
+OL,3,‘ 5/j’5/j”5/j’‘  jpjpj j 55j   
+OL,4,‘ ###’###”###’##########################
+OL,5,ƒVisit & join:                          
+OL,6,www.facebook.com/groups/TeletextGroup 
+OL,8,†```````````````````````````````````````
+OL,9,‚CARLOS....‡777&501†STROUD BAMBOOZLE‡152
+OL,10,‚TEEFAX BBS....‡503†TESTCARDS INDEX.‡506
+OL,11,‚BBS HOW TO....‡502†UKEFAX..........‡600
+OL,12,‚Chris.T.......‡545†----------------‡???
+OL,13,‚BBC NEWS......‡104†MR BIFFO........‡519
+OL,14,ƒ                                       
+OL,15,TWITFAX.......‡153ƒAnt nest map....‡899
+OL,16,--------------‡???ƒ================‡???
+OL,17,==============‡???ƒ----------------‡???
+OL,18,--------------‡???ƒ================‡???
+OL,19,==============‡???ƒ----------------‡???
+OL,20,--------------‡???ƒ================‡???
+OL,21,JOKETITLES....‡888ƒOREGON TRAIL....‡551
+OL,22,                                        
+OL,23,–    USER LIST is on PAGE 101         
+OL,24, Index  ‚Carlos ArtƒBunker †Bamboozle  
 FL,501,501,899,152,8ff,100
