@@ -8,7 +8,7 @@ PN,54101
 SC,0001
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
 OL,1,‘{$11 1~+$k7j5~k4~k4"#############k
-OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*% ˜Part 2     ‘j
+OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*%             ‘j
 OL,3,‘5          ‡By Christopher Tsangari‘  j
 OL,4,‘-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 OL,5,                                  † 1/6 
@@ -36,7 +36,7 @@ PN,54102
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
 OL,1,‘{$11 1~+$k7j5~k4~k4"#############k
-OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*% ˜Part 2     ‘j
+OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*%             ‘j
 OL,3,‘5          ‡By Christopher Tsangari‘  j
 OL,4,‘-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 OL,5,                                  † 2/6 
@@ -64,7 +64,7 @@ PN,54103
 SC,0003
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
 OL,1,‘{$11 1~+$k7j5~k4~k4"#############k
-OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*% ˜Part 2     ‘j
+OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*%             ‘j
 OL,3,‘5          ‡By Christopher Tsangari‘  j
 OL,4,‘-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 OL,5,                                  † 3/6 
@@ -92,7 +92,7 @@ PN,54104
 SC,0004
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
 OL,1,‘{$11 1~+$k7j5~k4~k4"#############k
-OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*% ˜Part 2     ‘j
+OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*%             ‘j
 OL,3,‘5          ‡By Christopher Tsangari‘  j
 OL,4,‘-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 OL,5,                                  † 4/6 
@@ -120,7 +120,7 @@ PN,54105
 SC,0005
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
 OL,1,‘{$11 1~+$k7j5~k4~k4"#############k
-OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*% ˜Part 2     ‘j
+OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*%             ‘j
 OL,3,‘5          ‡By Christopher Tsangari‘  j
 OL,4,‘-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 OL,5,                                  † 5/6 
@@ -148,7 +148,7 @@ PN,54106
 SC,0006
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
 OL,1,‘{$11 1~+$k7j5~k4~k4"#############k
-OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*% ˜Part 2     ‘j
+OL,2,‘/*%/$/ /$/$+.!*%*%+.!/*%             ‘j
 OL,3,‘5          ‡By Christopher Tsangari‘  j
 OL,4,‘-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 OL,5,                                  † 6/6 
