@@ -1,0 +1,16 @@
+DE,bin2tti
+DS,inserter
+SP,N:\temp\teletext\P530.tti
+CT,5,C
+PS,8040
+RE,0
+PN,53000
+SC,0000
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,  Rx,$| |('s=  h4h4`<                  
+OL,3,  R+,$bs?(/,,*%"-.%/+,                  
+OL,7,  FMWeather  G531                       
+OL,10,  FMArchive  G532                       
+OL,23,D]CMore coming soon...                  
+OL,24,AWeather   BArchive   CIndex   FIndex   
+FL,531,532,100,100,100,100
