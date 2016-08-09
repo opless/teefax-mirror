@@ -1,6 +1,6 @@
 DE,Read back page  20/11/07
 DS,inserter
-SP,N:\git-repos\teletext\P100.ttix
+SP,C:\Users\benfa\Documents\teletext\P100.ttix
 CT,8,T
 PS,8000
 RE,0
@@ -21,7 +21,7 @@ OL,12,BChris.T.......G540FCY2.............G530
 OL,13,BBBC NEWS......G104FMR BIFFO........G519
 OL,14,C                                       
 OL,15,ATWITFAX.......G153CAnt nest map....G899
-OL,16,A--------------G???C================G???
+OL,16,A--------------G???CBenFA...........G560
 OL,17,A==============G???C----------------G???
 OL,18,A--------------G???C================G???
 OL,19,A==============G???C----------------G???
