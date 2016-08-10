@@ -16,7 +16,7 @@ OL,6,ç Reflection ...É541á..............Ç545
 OL,7,   ç   Nothing y yet                    
 OL,8,ç ..............Ç542á..............Ç546 
 OL,9,    ç  Still notothi                    
-OL,10,ç ..............Ç543á..............Ç547 
+OL,10,ç ITN News .....Ç543á..............Ç547 
 OL,11,    ç  You guessssed                    
 OL,12,ç ..............Ç544áMugshot of me Ç548 
 OL,13,                                        
@@ -44,7 +44,35 @@ OL,6,ç Reflection ...Ç541á..............Ç545
 OL,7,   ç   Nothing y yet                    
 OL,8,ç ..............Ç542á..............Ç546 
 OL,9,    ç  Still notothi                    
-OL,10,ç ..............Ç543á..............Ç547 
+OL,10,ç ITN News .....É543á..............Ç547 
+OL,11,    ç  You guessssed                    
+OL,12,ç ..............Ç544áMugshot of me Ç548 
+OL,13,                                        
+OL,14,         çáCharacters ...Ç549           
+OL,15,                                        
+OL,16,                                        
+OL,17,í  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,í  5ÜITN:áJust realised I should    íj  
+OL,19,í  5áhave done News at 545! A mock  íj  
+OL,20,í  5áitem celebrating Teefax   Üp543íj  
+OL,21,í  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,22,                                        
+OL,23,îù     áBy Christopher Tsangari         
+OL,24,                                        
+FL,502,502,506,552,8ff,100
+PN,54003
+SC,0003
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
+OL,1,ë|<,<,l,l|í|<,l,,<,l,,|,l<l,||ë|<,<,l,l|
+OL,2,ë uz 5*,í  /5*o o5* u*`ë uz 5*,
+OL,3,ë 7k 7k í  5j 5j 7h"ë 7k 7k 
+OL,4,ë/-,/,/,./í//,/,,-,.,/-.,-.,//ë/-,/,/,./
+OL,5,                                        
+OL,6,ç Reflection ...Ç541á..............Ç545 
+OL,7,   ç   Nothing y yet                    
+OL,8,ç ..............Ç542á..............Ç546 
+OL,9,    ç  Still notothi                    
+OL,10,ç ITN News .....Ç543á..............Ç547 
 OL,11,    ç  You guessssed                    
 OL,12,ç ..............Ç544áMugshot of me É548 
 OL,13,                                        
@@ -60,8 +88,8 @@ OL,22,
 OL,23,îù     áBy Christopher Tsangari         
 OL,24,ÅBamboozle ÇTeefax BBS ÉTestcardsÜwClock
 FL,502,502,506,552,8ff,100
-PN,54003
-SC,0003
+PN,54004
+SC,0004
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
 OL,1,í|<,<,l,l|ë|<,l,,<,l,,|,l<l,||í|<,<,l,l|
 OL,2,í uz 5*,ë  /5*o o5* u*`í uz 5*,
@@ -72,7 +100,7 @@ OL,6,ç Reflection ...Ç541á..............Ç545
 OL,7,   ç   Nothing y yet                    
 OL,8,ç ..............Ç542á..............Ç546 
 OL,9,    ç  Still notothi                    
-OL,10,ç ..............Ç543á..............Ç547 
+OL,10,ç ITN News .....Ç543á..............Ç547 
 OL,11,    ç  You guessssed                    
 OL,12,ç ..............Ç544áMugshot of me Ç548 
 OL,13,                                        
@@ -88,8 +116,8 @@ OL,22,
 OL,23,îù     áBy Christopher Tsangari         
 OL,24,ÅBamboozle ÇTeefax BBS ÉTestcardsÜwClock
 FL,502,502,506,552,8ff,100
-PN,54004
-SC,0004
+PN,54005
+SC,0005
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
 OL,1,í|<,<,l,l|ë|<,l,,<,l,,|,l<l,||í|<,<,l,l|
 OL,2,í uz 5*,ë  /5*o o5* u*`í uz 5*,
@@ -100,7 +128,7 @@ OL,6,ç Reflection ...Ç541á..............É545
 OL,7,   ç   Nothing y yet                    
 OL,8,ç ..............É542á..............É546 
 OL,9,    ç  Still notothi                    
-OL,10,ç ..............É543á..............É547 
+OL,10,ç ITN News .....É543á..............É547 
 OL,11,    ç  You guessssed                    
 OL,12,ç ..............É544áMugshot of me Ç548 
 OL,13,                                        
