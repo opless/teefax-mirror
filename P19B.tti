@@ -1,0 +1,30 @@
+PN,19B00
+DE,edit-tf
+PS,8000
+SC,0000
+OL,1, Enhancement packet 26 feature tests    
+OL,2, Foreground colour from CLUT0 test -> * 
+OL,3, Foreground colour from CLUT1 test -> * 
+OL,4, Foreground colour from CLUT2 test -> * 
+OL,5, Background colour from CLUT0 test -> *œ
+OL,6, Background colour from CLUT1 test -> *œ
+OL,7, Background colour from CLUT2 test -> *œ
+OL,8, Diacritical mark test ------------->   
+OL,9, Flash functions test --------------> * 
+OL,10, G0 character test ----------------->   
+OL,11, G1 mosaic test -------------------->   
+OL,12, G2 character test ----------------->   
+OL,13, G3 mosaic at level 1.5 test ------->   
+OL,14, G3 mosaic at level 2.5/3.5 test --->   
+OL,15,<- Full row colour test using CLUT 0 -->
+OL,16,<- Full row colour test using CLUT 1 -->
+OL,17,<- Full row colour test using CLUT 2 -->
+OL,18, Style regular italic bold proportional 
+OL,19, D i s p l a y   a t t r i b u t e s    
+OL,20,                                        
+OL,21,These tests require a teletext decoder 
+OL,22,with support for level 1.5 or greater. 
+OL,23,ˆ*‰Also an up to date version of VBITˆ* 
+OL,26,€ª„“¦ €«„“¦ „¬„“¦ ˆ­„“¦£€®„“¦£„¯„“¦£ˆ°„“
+OL,26,¦²²±„“¦§ˆ§‡€²„“¦‰•³„“¦¡”´„“¦¯ªµ„“¦¢š¶„“
+OL,26,‚¦«²·¡€¸¡„¹¡ˆº¤‡‚–›®€»„€€¬°¿¿ƒ¿¿ƒ¿¿ƒ
