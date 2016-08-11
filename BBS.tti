@@ -1,6 +1,6 @@
 DE,Description goes here
 DS,inserter
-SP,L:\dev\TeletextFestivalPages\BBS.tti
+SP,C:\Users\carl\Documents\TeletextFest2016\BBS.tti
 CT,8,T
 PS,8000
 RE,0
@@ -31,7 +31,7 @@ OL,21,But great forR‚AƒI„N…B†O‡WS
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50302
 SC,0002
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
@@ -59,7 +59,7 @@ OL,21,all beat my previous method hand editing
 OL,22,binary files or files of comma separated
 OL,23,hex values! :-)                         
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50303
 SC,0003
 OL,0,                                        
@@ -87,7 +87,7 @@ OL,21,†hard. I've got real editing keyboards,
 OL,22,†both a Softel CEEFAX unit, but also    
 OL,23,†some bare Cherry units that need TLC...
 OL,24,†They would definitely make it easier!  
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50304
 SC,0004
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
@@ -115,7 +115,7 @@ OL,21,A better answer would be to write it out
 OL,22,into .tti format by setting the printer 
 OL,23,output to file.                         
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50305
 SC,0005
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
@@ -143,11 +143,11 @@ OL,21,†TTI files shouldn't take much work,
 OL,22,†they are fairly simple in structore.   
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50306
 SC,0006
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage inserted 6/6                
+OL,1,BBS subpage inserted 6/14               
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -171,11 +171,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50307
 SC,0007
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage inserted 7/7                
+OL,1,BBS subpage inserted 7/14               
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -199,11 +199,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50308
 SC,0008
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage inserted 8/8                
+OL,1,BBS subpage inserted 8/14               
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -227,11 +227,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50309
 SC,0009
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage inserted 9/9                
+OL,1,BBS subpage inserted 9/14               
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -255,11 +255,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50310
 SC,0010
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage inserted 10/10              
+OL,1,BBS subpage inserted 10/14              
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -283,11 +283,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50311
 SC,0011
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage inserted 11/11              
+OL,1,BBS subpage inserted 11/14              
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -311,11 +311,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50312
 SC,0012
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage inserted 12/12              
+OL,1,BBS subpage inserted 12/14              
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -339,11 +339,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50313
 SC,0013
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage inserted 13/13              
+OL,1,BBS subpage inserted 13/14              
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -367,11 +367,11 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50314
 SC,0014
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,BBS subpage          14/14              
+OL,1,BBS subpage          13/14              
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -395,32 +395,32 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
 PN,50315
 SC,0015
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,                                        
-OL,2,                                        
-OL,3,                                        
-OL,4,   This page intentionally              
-OL,5,   left blank                           
-OL,6,                                        
-OL,7,                                        
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
+OL,0,                                        
+OL,1,…BLOB•` “BLOBBY…BLOBBSƒBLOBBY•BLOBƒBLOB 
+OL,2,•  `0 } xt                             
+OL,3,•  jth? …BLOB• p|~}|p ƒBLOBBS  
+OL,4,•   o}~    x~  “ ~4 •žtœ!       
+OL,5,•   j%  `~—x||t“o?%  •ž}œ0 BLOB 
+OL,6,•   j!  h— zu “ `|0•žœt  "!!
+OL,7,•   7o!  `~— œ7•“"/! •žœu    
+OL,8,•   5/y   z—  *?!   `~t •ž4œ   
+OL,9,•   5?  h“x|0—###    —~œ•ž5œ   
+OL,10,•  ji5  z“5   ‘x} —• ž5œ   
+OL,11,•  jj   “ "#    ‘ —+'• ž5œ   
+OL,12,•  jj“~œ•j     h4 ‘o/ •“`|t  •ž%œ   
+OL,13,•  jj“/œ•   ‘ 5         “"/'   •kœ   
+OL,14,•  jj`x  ž‘ t        Ÿ‘x> •ž7œ    
+OL,15,•  jj?c/!  ž‘ ——$0    •ž • •ž%œ    
+OL,16,•  :~?z“     ž‘"—+%5h!• ž7œ!    
+OL,17,•  }?z“xt   `?|p‘#//?/!   •ž!œ     
+OL,18,• hog~“j5 `vo1{l             •jœ     
+OL,19,• j7~“  +/! ~st}w{y7=x<l|lt •žœ7u0    
+OL,20,• "~“            *}w'wkr>! •žœ58    
+OL,21,• z“x|t  h4          o|{%`|t•ž5œ5   
+OL,22,•h“z   #  `||||t    "+ j?•žiœ0  
+OL,23,•j“o?     z5   x|0 #•ž#jœ5  
 OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+FL,8ff,8ff,8ff,8ff,8ff,100
