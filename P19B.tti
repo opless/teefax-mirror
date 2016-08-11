@@ -1,7 +1,12 @@
-PN,19B00
 DE,edit-tf
+DS,inserter
+SP,C:\Users\carl\Documents\TeletextFest2016\P19B.tti
+CT,8,T
 PS,8000
+RE,0
+PN,19600
 SC,0000
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
 OL,1, Enhancement packet 26 feature tests    
 OL,2, Foreground colour from CLUT0 test -> * 
 OL,3, Foreground colour from CLUT1 test -> * 
@@ -25,6 +30,5 @@ OL,20,
 OL,21,These tests require a teletext decoder 
 OL,22,with support for level 1.5 or greater. 
 OL,23,ˆ*‰Also an up to date version of VBITˆ* 
-OL,26,€ª„“¦ €«„“¦ „¬„“¦ ˆ­„“¦£€®„“¦£„¯„“¦£ˆ°„“
-OL,26,¦²²±„“¦§ˆ§‡€²„“¦‰•³„“¦¡”´„“¦¯ªµ„“¦¢š¶„“
-OL,26,‚¦«²·¡€¸¡„¹¡ˆº¤‡‚–›®€»„€€¬°¿¿ƒ¿¿ƒ¿¿ƒ
+OL,24,                                        
+FL,100,100,100,100,100,100
