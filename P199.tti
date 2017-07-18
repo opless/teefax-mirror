@@ -1,0 +1,29 @@
+DE,About Peter
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P199-About.tti
+CT,8,T
+PN,19900
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CAbout Teefax                           
+OL,7, Teefax was created by Peter Kwan to    
+OL,8, support the Teletext Festival 2016.    
+OL,10,FIt is a server that maintains a        
+OL,11,Frepository of teletext pages using SVN.
+OL,12,FOnce you are connected to the server   
+OL,13,Fyou can use normal svn commands to     
+OL,14,Fdownload the latest pages.             
+OL,16,FNext edit these pages or make your own 
+OL,17,Fdesigns using the wxTED editor.        
+OL,19,FThen do an svn commit and your pages   
+OL,20,Fwill reach the clients within two      
+OL,21,Fminutes.                               
+OL,23, See github.com/peterkvt80              
+OL,24,A Index B Credits  CEvents  FBamboozle  
+FL,100,198,800,150,100,100

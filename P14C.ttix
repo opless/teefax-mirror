@@ -1,34 +1,26 @@
 DE,Read back page  14/12/01
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P14C.ttix
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P14C.ttix
 CT,99,C
-PS,8040
-RE,0
 PN,14c00
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                            W6!  Sp~0Wi 
 OL,2,G]DQuestion 11.          \\  S<|~3oW"5
-OL,3,G]DThe original purpose  \\ Sjzjojz4ht
-OL,4,G]Dof the Shambles       \  Sb?'~7/w)w>
-OL,5,G]Dmarket was for....?   \ \S?(}rsx="}w 
+OL,3,G]DPacket 27 is used to  \\ Sjzjojz4ht
+OL,4,G]Dtransmit which of the \  Sb?'~7/w)w>
+OL,5,G]Dfollowing?            \ \S?(}rsx="}w 
 OL,6,G             W  #/|ppppp\  Sm}tsssx}?j 
 OL,7,                             S+/}|/a'T
 OL,8,                         T x}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GBakers                        
-OL,11,                                        
-OL,12,                                        
-OL,13, M  B]D \GButchers                      
-OL,14,                                        
-OL,15,                                        
-OL,16, M  C]D \GGreengrocers                  
-OL,17,                                        
-OL,18,                                        
-OL,19, M  F]D \GFishmongers                   
-OL,20,                                        
-OL,21,                                        
+OL,10, M  A]G \GPage enhancement data         
+OL,13, M  B]D \GLinking data                  
+OL,16, M  C]D \GSubtitles                     
+OL,19, M  F]D \GCommercial data               
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A?????    B?????    C?????    F?????    
-FL,14e,14d,14e,14e,8FF,100
+FL,14e,14d,14e,14e,8ff,100

@@ -1,0 +1,312 @@
+DE,Main Menu
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\100-Index.tti
+CT,8,T
+PN,10001
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CNews                                   
+OL,6,AMWELCOME TO THE WORLD'S NEWEST TELETEXT
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]E!!NEW!!    Mr.Biffo!    Pages 571-574
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10002
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CNews                                   
+OL,6,AMPLAY THE 'WIGANBOOZLE' QUIZ       P806
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]ETELETEXT BLOCK PARTY 2017    P801/802
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10003
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CNews                                   
+OL,6,AMTEXT TESTCARDS TEEFAX TIME TUNNEL P790
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]EREMEMBER TO ./updatePages.sh in SSH  
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10004
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CArt                                    
+OL,6,AMSEE YOUR OWN PAGES ON TEEFAX      P200
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]EVisit TELETEXT: THE FACEBOOK GROUP   
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10005
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CNews                                   
+OL,6,AMUKEFAX- STRUM THE UKE IN STYLE  P600  
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]EVisit TELETEXT: THE FACEBOOK GROUP   
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10006
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CNews                                   
+OL,6,AMDAN'S LEGENDARY ANT NEST MAP   P515   
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]E  WHO WILL WRITE US A BAMBOOZLE???   
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10007
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CNews                                   
+OL,6,AMBEAT BAMBER WITH TECHY KNOWLEDGE  P152
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]ETHE WORLD IN 1024 BYTES or less ;-)  
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10008
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CNews                                   
+OL,6,AMDARE YOU ENTER THE LABYRINTH?     P536
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]EYESTERDAY'S TECHNOLOGY, TOMORROW     
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10009
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CArt                                    
+OL,6,AMSEE YOUR OWN PAGES ON TEEFAX      P200
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]ETEEFAX: IT KEEPS US OCCUPIED    ;-)  
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10010
+SC,0010
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CNews                                   
+OL,6,AMWELCOME TO THE WORLD'S NEWEST TELETEXT
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'SQx|||||||||||||||||||||tF....G150
+OL,10,BNEW YQz]W                Q^\_uFS..G200
+OL,11,BTEEFAQ]W h#46) h#$7#j#!ujQ^\_F...G420
+OL,12,BLA ONQ]W j#52i `#47#j#!5kQ^\_F...G570
+OL,13,BBBC NQ]W " !"!  # ##"#!!"Q^\_F...G600
+OL,14,C     Q]W        ON        Q^\        
+OL,15,AARTS Q]W   pppp`0  p`0   Q^\_C...G670
+OL,16,ACarloQ]W   #k7#*u `?j5   Q^\_CNFOG700
+OL,17,ADan'sQ]W    j5  o0z%j5   Q^\_C...G785
+OL,18,ASteveQ]W    j5  *u? b1   Q^\_CEX G790
+OL,19,ACY2..Qk]W    "!   #! "!  Q^\_7CTS G800
+OL,20,AChris Q+/////////////////////'C....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]ELots of fun at your finger tips ;-)  
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100
+PN,10011
+SC,0011
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
+OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
+OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,4,Q ###R###T###R##########################
+OL,5,CVisit & join:                          
+OL,6,AMwww.facebook.com/groups/TeletextGroup 
+OL,8,F```````````````````````````````````````
+OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
+OL,10,BNEW YORK NEWS G130FVIEWERS' PAGES..G200
+OL,11,BTEEFAX BBS....G140FMUSIC REVIEWS...G420
+OL,12,BLA ON THE QT..G160FMr Biffo........G570
+OL,13,BBBC NEWS......G104FUKEFAX..........G600
+OL,14,C                                       
+OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
+OL,16,ACarlos' Art...G501CENGINEERING INFOG700
+OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
+OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
+OL,19,ACY2...........G530CTELETEXT EVENTS G800
+OL,20,AChris TsangariG540CBLOCK PARTY.....G801
+OL,21,ARaquel Meyers G555CJOKETITLES......G888
+OL,23,V]ETEEFAX: IT KEEPS US OCCUPIED    ;-)  
+OL,24,A About BBamboozle CEvents FArt Archive 
+FL,199,150,800,200,8ff,100

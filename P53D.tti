@@ -1,0 +1,30 @@
+DE,Labyrinth
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P53D.tti
+CT,8,T
+PN,53d00
+SC,0000
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2, You can just make out some darker      
+OL,3, areas in the torchlight, which appear  
+OL,4, to be passages twisting every which    
+OL,5, way.                                   
+OL,7, We must press on, which direction?     
+OL,9,                Q0ppp    `ppppppppppp pp
+OL,10,              Qx~S]QkPsQ|}~] S( P"   !  
+OL,11,            Q`p{S] Q+P/Q]   S$    (  `  
+OL,12,        Q0     $|~SwQ7/g]    P`         
+OL,13,    Qh~]    P"\Qk7+,'/]   S#'     %     
+OL,14,    Q"#/] P,.?\ Q!(%  ] Sk'###!j# #   ( 
+OL,15,      Qpo]  Ph\ Q`$)-|] S.,,$  ((,`  $  
+OL,16,      Qpz?] Pz\Q]Wz}S0   p ppp          
+OL,17,    Q(z] P7{wo?S8W] Qj]  Sk##] Q0] P~\*$
+OL,18,     Q"{]  P`sSzW] SjQ] S#/,,/'##P0|vs}\
+OL,19,      Q"k] P\Q]W]   Qj] S`p,,$ P"+g\    
+OL,20,       Q"+/?/#SkW] SbQ] Sx   Pp ~\      
+OL,21,           Q" "SoW]S?Q] Px||||\         
+OL,22,               Q+S#Q!' "#  #            
+OL,24,ANorthB     SouthC     EastF     West   
+FL,53b,53a,53a,53e,0,530

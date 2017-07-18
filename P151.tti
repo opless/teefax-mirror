@@ -1,0 +1,31 @@
+DE,Automotive Quiz
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P151.tti
+CT,15,C
+PN,15100
+SC,0000
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,M       AUTOMOTIVE QUIZ                 
+OL,5,    If this dashboard light comes on....
+OL,6,    what should you do?                 
+OL,7,S          pppppppp                     
+OL,8,S          ss{wss0                    
+OL,9,S         ~########k5                   
+OL,10,S      `|>!         +/ //t            
+OL,11,S    ~                  j5           
+OL,12,S                   ///  j5           
+OL,13,S    {/                   j5           
+OL,14,S                        j5           
+OL,15,S    o opp                 j5           
+OL,16,S       ##}0          /  j5           
+OL,17,S         "mpppppppppp px'            
+OL,18,S           ###########                 
+OL,19,AA.GWind windows when in submarine mode.
+OL,20,BB.GIt is time to get a new car.        
+OL,21,CC.GCover lamp to stop it annoying you. 
+OL,22,FD.GTurn engine on and off again.       
+OL,23,A```````````````````````````````````````
+OL,24,A   ???     B???    C???    F???        
+FL,150,668,536,806,8ff,100

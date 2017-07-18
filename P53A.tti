@@ -1,0 +1,29 @@
+DE,Labyrinth
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P53A.tti
+CT,8,T
+PN,53a00
+SC,0000
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2, You are in a dimly-lit room, with      
+OL,3, winding passages exiting from all      
+OL,4, directions.                            
+OL,6, Which way do you want to go?           
+OL,9,                Q0ppp    `ppppppppppp pp
+OL,10,              Qx~S]QkPsQ|}~] S( P"   !  
+OL,11,            Q`p{S] Q+P/Q]   S$    (  `  
+OL,12,        Q0     $|~SwQ7/g]    P`         
+OL,13,    Qh~]    P"\Qk7+,'/]   S#'     %     
+OL,14,    Q"#/] P,.?\ Q!(%  ] Sk'###!j# #   ( 
+OL,15,      Qpo]  Ph\ Q`$)-|] S.,,$  ((,`  $  
+OL,16,      Qpz?] Pz\Q]Wz}S0   p ppp          
+OL,17,    Q(z] P7{wo?S8W] Qj]  Sk##] Q0] P~\*$
+OL,18,     Q"{]  P`sSzW] SjQ] S#/,,/'##P0|vs}\
+OL,19,      Q"k] P\Q]W]   Qj] S`p,,$ P"+g\    
+OL,20,       Q"+/?/#SkW] SbQ] Sx   Pp ~\      
+OL,21,           Q" "SoW]S?Q] Px||||\         
+OL,22,               Q+S#Q!' "#  #            
+OL,24,ANorthB     SouthC     EastF     West   
+FL,53a,53d,53d,53a,0,530

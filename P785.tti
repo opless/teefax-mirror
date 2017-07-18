@@ -1,0 +1,33 @@
+DE,VBIT-Pi
+DS,Wales
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P785.tti
+CT,45,C
+PN,78500
+SC,0000
+PS,8008
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0    
+OL,2,Q 5|jR5|jT5|jT]W7 55-5555=%=%5 555-5Pj
+OL,3,Q 5/jR5/jT5/jT]W#!!!,%!!!#!#!! !!!,%Pj
+OL,4,Q ###R###T###WG     Information         
+OL,5,G                                       
+OL,6,M VBIT-Pi: Teefax on your Raspberry Pi  
+OL,8,G                                       
+OL,9,  Teefax software can be installed onto 
+OL,10,  any Raspberry Pi. Follow the Wiki     
+OL,11,  instructions on this website:         
+OL,12,C github.com/peterkvt80/vbit2/wiki      
+OL,13,  Install vbit2 then download Teefax.   
+OL,14,G                                       
+OL,15,  For the hardware you need a Pi and a  
+OL,16,  TV with some cables to connect them.  
+OL,17,  To make it simpler to set up, I have  
+OL,18,  put together a kit containing:        
+OL,19, B16GB SD cardGconfigured for Teefax, a 
+OL,20, Bvideo cableGandBSCART adapterGfor #20 
+OL,21,G                                       
+OL,22,  Contact me onCpeterk.vt80@gmail.com   
+OL,23,G                                       
+OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
+FL,700,710,785,790,0,100

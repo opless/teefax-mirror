@@ -1,0 +1,144 @@
+DE,Control codes demo
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P702.tti
+CT,30,C
+PN,70201
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
+OL,1,MB]DControl codes in teletext           
+OL,3,                                    C1/5
+OL,4,  The default colour of text and        
+OL,5,  graphics is white. Change colours by  
+OL,6,  adding invisible control codes.       
+OL,7,G                                       
+OL,8,F wxTED editor allows you to see the    
+OL,9,F codes if you press Alt Gr to toggle.  
+OL,10,A AThis text is redCand this is yellow  
+OL,11,  ^ Alpha red      ^ Alpha yellow       
+OL,12,F The arrows point to the code locations
+OL,13,F                                       
+OL,14,F There are eight possible colours:     
+OL,15,A RedBGreenCYellowDBlueEMagentaFCyan    
+OL,16,  and White.FBlack is also supported in 
+OL,17,F modern systems.                       
+OL,18,F                                       
+OL,19,F Background colour is controlled by    
+OL,20,F New Background and Black Background.  
+OL,21,G                                       
+OL,22,]DNew BackgroundA]Cis used like this    
+OL,23,G                                       
+OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
+FL,700,710,785,790,8ff,100
+PN,70202
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
+OL,1,MB]DControl codes in teletext           
+OL,3,                                    C2/5
+OL,4,  Hold graphic repeats the last graphic 
+OL,5,  character. It lets you make colour    
+OL,6,  changes without gaps.                 
+OL,7,G                                       
+OL,8,F In this example both are multicoloured
+OL,9,F but the lower only shows background.  
+OL,10,T^W]^QRSTUVWDThis row uses hold       
+OL,11,T W] QRSTUVWDThis row without hold    
+OL,12,  ^ hold graphic upper row only         
+OL,13,G                                       
+OL,14,T^Q|4||T  FYou can butt two       
+OL,15,T^Q||4|T  Fcolours by using hold  
+OL,16,T^Q|4||T  Fgraphic to make a      
+OL,17,T^Q||4|T  Fchimney for Santa.     
+OL,18,T^Q|4||T                          
+OL,19,T^Q||4|TG                         
+OL,20,G                                       
+OL,21, L^R$$$$$$S$$S5    FThis VU meter shows 
+OL,22,^RRRRRRRRSSSQQQQWFhow to change colour
+OL,23, R^R$$$$$$S$$$Q$5  Fwithout needing gaps
+OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
+FL,700,710,785,790,8ff,100
+PN,70203
+SC,0003
+PS,8000
+RE,0
+OL,0,       TTEEFAX %%# %%a %d %%b C hh:nn.ss
+OL,1,MB]DControl codes in teletext           
+OL,3,                                    C3/5
+OL,4,  Double height is often used for       
+OL,5,  headings and adverts.                 
+OL,6,G                                       
+OL,7,F To make a banner start off with a     
+OL,8,F double height, then set a colour      
+OL,9,F and make it the new background colour.
+OL,10,F Finally set your text colour.         
+OL,11,G                                       
+OL,12,MD]CTypical double height banner \      
+OL,14,^ Double height                  ^      
+OL,15, ^ Alpha blue          Black background 
+OL,16,  ^ New background    FIf you don't want
+OL,17,   ^ Alpha yellow     Fthe banner to    
+OL,18,                      Fextend to the end
+OL,19,G                                       
+OL,20,MC]BContrasting colours work better     
+OL,22,G                                       
+OL,23,G                                       
+OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
+FL,700,710,785,790,8ff,100
+PN,70204
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
+OL,1,MB]DControl codes in teletext           
+OL,3,                                    C4/5
+OL,4,  Conceal mode is used to hide parts of 
+OL,5,  a page. This is often used for a quiz 
+OL,6,  or the punchline of a joke.           
+OL,7,G                                       
+OL,8,F When you add a conceal code then the  
+OL,9,F text that follows only shows the      
+OL,10,F background colour. When you press     
+OL,11,F Reveal then the text is shown.        
+OL,12,G                                       
+OL,13,G                                       
+OL,14,M"Why Trump Deserves Trust, Respect and 
+OL,16,M Admiration"XNOT                       
+OL,18,             ^ Conceal display          
+OL,19,G                                       
+OL,20,G                                       
+OL,21,G                                       
+OL,22,G                                       
+OL,23,G                                       
+OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
+FL,700,710,785,790,8ff,100
+PN,70205
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
+OL,1,MB]DControl codes in teletext           
+OL,3,                                    C5/5
+OL,4,  It is possible to mix graphics and    
+OL,5,  text without needing any control      
+OL,6,  codes. When in graphic mode you can   
+OL,7,  add upper case text as in this chart: 
+OL,9,D^]G45% V90\G  WITNEY BY-ELECTION       
+OL,10,D^]W    Vf5\G  2016                     
+OL,11,D^]W    V95\G  Share of Vote            
+OL,12,D^]W    Vf5\G                           
+OL,13,D^]W    V95\G                           
+OL,14,D^]W    VfS]D30% T90\G                  
+OL,15,D^]W    V9S]T    Tf5\G                  
+OL,16,D^]W    VfS]T    T95\G                  
+OL,17,D^]W    V9S]T    Tf5\G                  
+OL,18,D^]W    VfS]T    T9Q]G15% S90\G         
+OL,19,D^]W    V9S]T    TfQ]W    Sf5\G         
+OL,20,D^]W    VfS]T    T9Q]W    S95\G         
+OL,21,D^]W    V9S]T    TfQ]W    SfR]D3.5%Tfo\G
+OL,22,D ]WCON V S]TLIBDEMQ]WLAB   R]TGREEN j\G
+OL,23,  Source: Wikipedia                     
+OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
+FL,700,710,785,790,8ff,100

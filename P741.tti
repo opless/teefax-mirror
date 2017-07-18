@@ -1,0 +1,265 @@
+DE,Description goes here
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P741.tti
+CT,8,T
+PN,74101
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 Subpage 00 ~~~~~~
+OL,2,Page 741 Row 02 Subpage 00 ~~~~~~
+OL,3,Page 741 Row 03 Subpage 00 ~~~~~~
+OL,4,Page 741 Row 04 Subpage 00 ~~~~~~
+OL,5,Page 741 Row 05 Subpage 00 ~~~~~~
+OL,6,Page 741 Row 06 Subpage 00 ~~~~~~
+OL,7,Page 741 Row 07 Subpage 00 ~~~~~~
+OL,8,Page 741 Row 08 Subpage 00 ~~~~~~
+OL,9,Page 741 Row 09 Subpage 00 ~~~~~~
+OL,10,Page 741 Row 10 Subpage 00 ~~~~~~
+OL,11,Page 741 Row 11 Subpage 00 ~~~~~~
+OL,12,Page 741 Row 12 Subpage 00 ~~~~~~
+OL,13,Page 741 Row 13 Subpage 00 ~~~~~~
+OL,14,Page 741 Row 14 Subpage 00 ~~~~~~
+OL,15,Page 741 Row 15 Subpage 00 ~~~~~~
+OL,16,Page 741 Row 16 Subpage 00 ~~~~~~
+OL,17,Page 741 Row 17 Subpage 00 ~~~~~~
+OL,18,Page 741 Row 18 Subpage 00 ~~~~~~
+OL,19,Page 741 Row 19 Subpage 00 ~~~~~~
+OL,20,Page 741 Row 20 Subpage 00 ~~~~~~
+OL,21,Page 741 Row 21 Subpage 00 ~~~~~~
+OL,22,Page 741 Row 22 Subpage 00 ~~~~~~
+OL,23,Page 741 Row 23 Subpage 00 ~~~~~~
+OL,24,Page 741 Row 24 Subpage 00 ~~~~~~
+PN,74102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 SubpageA01 ~~~~~~
+OL,2,Page 741 Row 02 SubpageA01 ~~~~~~
+OL,3,Page 741 Row 03 SubpageA01 ~~~~~~
+OL,4,Page 741 Row 04 SubpageA01 ~~~~~~
+OL,5,Page 741 Row 05 SubpageA01 ~~~~~~
+OL,6,Page 741 Row 06 SubpageA01 ~~~~~~
+OL,7,Page 741 Row 07 SubpageA01 ~~~~~~
+OL,8,Page 741 Row 08 SubpageA01 ~~~~~~
+OL,9,Page 741 Row 09 SubpageA01 ~~~~~~
+OL,10,Page 741 Row 10 SubpageA01 ~~~~~~
+OL,11,Page 741 Row 11 SubpageA01 ~~~~~~
+OL,12,Page 741 Row 12 SubpageA01 ~~~~~~
+OL,13,Page 741 Row 13 SubpageA01 ~~~~~~
+OL,14,Page 741 Row 14 SubpageA01 ~~~~~~
+OL,15,Page 741 Row 15 SubpageA01 ~~~~~~
+OL,16,Page 741 Row 16 SubpageA01 ~~~~~~
+OL,17,Page 741 Row 17 SubpageA01 ~~~~~~
+OL,18,Page 741 Row 18 SubpageA01 ~~~~~~
+OL,19,Page 741 Row 19 SubpageA01 ~~~~~~
+OL,20,Page 741 Row 20 SubpageA01 ~~~~~~
+OL,21,Page 741 Row 21 SubpageA01 ~~~~~~
+OL,22,Page 741 Row 22 SubpageA01 ~~~~~~
+OL,23,Page 741 Row 23 SubpageA01 ~~~~~~
+OL,24,Page 741 Row 24 SubpageA01 ~~~~~~
+PN,74103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 SubpageB02 ~~~~~~
+OL,2,Page 741 Row 02 SubpageB02 ~~~~~~
+OL,3,Page 741 Row 03 SubpageB02 ~~~~~~
+OL,4,Page 741 Row 04 SubpageB02 ~~~~~~
+OL,5,Page 741 Row 05 SubpageB02 ~~~~~~
+OL,6,Page 741 Row 06 SubpageB02 ~~~~~~
+OL,7,Page 741 Row 07 SubpageB02 ~~~~~~
+OL,8,Page 741 Row 08 SubpageB02 ~~~~~~
+OL,9,Page 741 Row 09 SubpageB02 ~~~~~~
+OL,10,Page 741 Row 10 SubpageB02 ~~~~~~
+OL,11,Page 741 Row 11 SubpageB02 ~~~~~~
+OL,12,Page 741 Row 12 SubpageB02 ~~~~~~
+OL,13,Page 741 Row 13 SubpageB02 ~~~~~~
+OL,14,Page 741 Row 14 SubpageB02 ~~~~~~
+OL,15,Page 741 Row 15 SubpageB02 ~~~~~~
+OL,16,Page 741 Row 16 SubpageB02 ~~~~~~
+OL,17,Page 741 Row 17 SubpageB02 ~~~~~~
+OL,18,Page 741 Row 18 SubpageB02 ~~~~~~
+OL,19,Page 741 Row 19 SubpageB02 ~~~~~~
+OL,20,Page 741 Row 20 SubpageB02 ~~~~~~
+OL,21,Page 741 Row 21 SubpageB02 ~~~~~~
+OL,22,Page 741 Row 22 SubpageB02 ~~~~~~
+OL,23,Page 741 Row 23 SubpageB02 ~~~~~~
+OL,24,Page 741 Row 24 SubpageB02 ~~~~~~
+PN,74104
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 SubpageC03 ~~~~~~
+OL,2,Page 741 Row 02 SubpageC03 ~~~~~~
+OL,3,Page 741 Row 03 SubpageC03 ~~~~~~
+OL,4,Page 741 Row 04 SubpageC03 ~~~~~~
+OL,5,Page 741 Row 05 SubpageC03 ~~~~~~
+OL,6,Page 741 Row 06 SubpageC03 ~~~~~~
+OL,7,Page 741 Row 07 SubpageC03 ~~~~~~
+OL,8,Page 741 Row 08 SubpageC03 ~~~~~~
+OL,9,Page 741 Row 09 SubpageC03 ~~~~~~
+OL,10,Page 741 Row 10 SubpageC03 ~~~~~~
+OL,11,Page 741 Row 11 SubpageC03 ~~~~~~
+OL,12,Page 741 Row 12 SubpageC03 ~~~~~~
+OL,13,Page 741 Row 13 SubpageC03 ~~~~~~
+OL,14,Page 741 Row 14 SubpageC03 ~~~~~~
+OL,15,Page 741 Row 15 SubpageC03 ~~~~~~
+OL,16,Page 741 Row 16 SubpageC03 ~~~~~~
+OL,17,Page 741 Row 17 SubpageC03 ~~~~~~
+OL,18,Page 741 Row 18 SubpageC03 ~~~~~~
+OL,19,Page 741 Row 19 SubpageC03 ~~~~~~
+OL,20,Page 741 Row 20 SubpageC03 ~~~~~~
+OL,21,Page 741 Row 21 SubpageC03 ~~~~~~
+OL,22,Page 741 Row 22 SubpageC03 ~~~~~~
+OL,23,Page 741 Row 23 SubpageC03 ~~~~~~
+OL,24,Page 741 Row 24 SubpageC03 ~~~~~~
+PN,74105
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 SubpageE04 ~~~~~~
+OL,2,Page 741 Row 02 SubpageE04 ~~~~~~
+OL,3,Page 741 Row 03 SubpageE04 ~~~~~~
+OL,4,Page 741 Row 04 SubpageE04 ~~~~~~
+OL,5,Page 741 Row 05 SubpageE04 ~~~~~~
+OL,6,Page 741 Row 06 SubpageE04 ~~~~~~
+OL,7,Page 741 Row 07 SubpageE04 ~~~~~~
+OL,8,Page 741 Row 08 SubpageE04 ~~~~~~
+OL,9,Page 741 Row 09 SubpageE04 ~~~~~~
+OL,10,Page 741 Row 10 SubpageE04 ~~~~~~
+OL,11,Page 741 Row 11 SubpageE04 ~~~~~~
+OL,12,Page 741 Row 12 SubpageE04 ~~~~~~
+OL,13,Page 741 Row 13 SubpageE04 ~~~~~~
+OL,14,Page 741 Row 14 SubpageE04 ~~~~~~
+OL,15,Page 741 Row 15 SubpageE04 ~~~~~~
+OL,16,Page 741 Row 16 SubpageE04 ~~~~~~
+OL,17,Page 741 Row 17 SubpageE04 ~~~~~~
+OL,18,Page 741 Row 18 SubpageE04 ~~~~~~
+OL,19,Page 741 Row 19 SubpageE04 ~~~~~~
+OL,20,Page 741 Row 20 SubpageE04 ~~~~~~
+OL,21,Page 741 Row 21 SubpageE04 ~~~~~~
+OL,22,Page 741 Row 22 SubpageE04 ~~~~~~
+OL,23,Page 741 Row 23 SubpageE04 ~~~~~~
+OL,24,Page 741 Row 24 SubpageE04 ~~~~~~
+PN,74106
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 SubpageF05 ~~~~~~
+OL,2,Page 741 Row 02 SubpageF05 ~~~~~~
+OL,3,Page 741 Row 03 SubpageF05 ~~~~~~
+OL,4,Page 741 Row 04 SubpageF05 ~~~~~~
+OL,5,Page 741 Row 05 SubpageF05 ~~~~~~
+OL,6,Page 741 Row 06 SubpageF05 ~~~~~~
+OL,7,Page 741 Row 07 SubpageF05 ~~~~~~
+OL,8,Page 741 Row 08 SubpageF05 ~~~~~~
+OL,9,Page 741 Row 09 SubpageF05 ~~~~~~
+OL,10,Page 741 Row 10 SubpageF05 ~~~~~~
+OL,11,Page 741 Row 11 SubpageF05 ~~~~~~
+OL,12,Page 741 Row 12 SubpageF05 ~~~~~~
+OL,13,Page 741 Row 13 SubpageF05 ~~~~~~
+OL,14,Page 741 Row 14 SubpageF05 ~~~~~~
+OL,15,Page 741 Row 15 SubpageF05 ~~~~~~
+OL,16,Page 741 Row 16 SubpageF05 ~~~~~~
+OL,17,Page 741 Row 17 SubpageF05 ~~~~~~
+OL,18,Page 741 Row 18 SubpageF05 ~~~~~~
+OL,19,Page 741 Row 19 SubpageF05 ~~~~~~
+OL,20,Page 741 Row 20 SubpageF05 ~~~~~~
+OL,21,Page 741 Row 21 SubpageF05 ~~~~~~
+OL,22,Page 741 Row 22 SubpageF05 ~~~~~~
+OL,23,Page 741 Row 23 SubpageF05 ~~~~~~
+OL,24,Page 741 Row 24 SubpageF05 ~~~~~~
+PN,74107
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 SubpageA06 ~~~~~~
+OL,2,Page 741 Row 02 SubpageA06 ~~~~~~
+OL,3,Page 741 Row 03 SubpageA06 ~~~~~~
+OL,4,Page 741 Row 04 SubpageA06 ~~~~~~
+OL,5,Page 741 Row 05 SubpageA06 ~~~~~~
+OL,6,Page 741 Row 06 SubpageA06 ~~~~~~
+OL,7,Page 741 Row 07 SubpageA06 ~~~~~~
+OL,8,Page 741 Row 08 SubpageA06 ~~~~~~
+OL,9,Page 741 Row 09 SubpageA06 ~~~~~~
+OL,10,Page 741 Row 10 SubpageA06 ~~~~~~
+OL,11,Page 741 Row 11 SubpageA06 ~~~~~~
+OL,12,Page 741 Row 12 SubpageA06 ~~~~~~
+OL,13,Page 741 Row 13 SubpageA06 ~~~~~~
+OL,14,Page 741 Row 14 SubpageA06 ~~~~~~
+OL,15,Page 741 Row 15 SubpageA06 ~~~~~~
+OL,16,Page 741 Row 16 SubpageA06 ~~~~~~
+OL,17,Page 741 Row 17 SubpageA06 ~~~~~~
+OL,18,Page 741 Row 18 SubpageA06 ~~~~~~
+OL,19,Page 741 Row 19 SubpageA06 ~~~~~~
+OL,20,Page 741 Row 20 SubpageA06 ~~~~~~
+OL,21,Page 741 Row 21 SubpageA06 ~~~~~~
+OL,22,Page 741 Row 22 SubpageA06 ~~~~~~
+OL,23,Page 741 Row 23 SubpageA06 ~~~~~~
+OL,24,Page 741 Row 24 SubpageA06 ~~~~~~
+PN,74108
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 SubpageB07 ~~~~~~
+OL,2,Page 741 Row 02 SubpageB07 ~~~~~~
+OL,3,Page 741 Row 03 SubpageB07 ~~~~~~
+OL,4,Page 741 Row 04 SubpageB07 ~~~~~~
+OL,5,Page 741 Row 05 SubpageB07 ~~~~~~
+OL,6,Page 741 Row 06 SubpageB07 ~~~~~~
+OL,7,Page 741 Row 07 SubpageB07 ~~~~~~
+OL,8,Page 741 Row 08 SubpageB07 ~~~~~~
+OL,9,Page 741 Row 09 SubpageB07 ~~~~~~
+OL,10,Page 741 Row 10 SubpageB07 ~~~~~~
+OL,11,Page 741 Row 11 SubpageB07 ~~~~~~
+OL,12,Page 741 Row 12 SubpageB07 ~~~~~~
+OL,13,Page 741 Row 13 SubpageB07 ~~~~~~
+OL,14,Page 741 Row 14 SubpageB07 ~~~~~~
+OL,15,Page 741 Row 15 SubpageB07 ~~~~~~
+OL,16,Page 741 Row 16 SubpageB07 ~~~~~~
+OL,17,Page 741 Row 17 SubpageB07 ~~~~~~
+OL,18,Page 741 Row 18 SubpageB07 ~~~~~~
+OL,19,Page 741 Row 19 SubpageB07 ~~~~~~
+OL,20,Page 741 Row 20 SubpageB07 ~~~~~~
+OL,21,Page 741 Row 21 SubpageB07 ~~~~~~
+OL,22,Page 741 Row 22 SubpageB07 ~~~~~~
+OL,23,Page 741 Row 23 SubpageB07 ~~~~~~
+OL,24,Page 741 Row 24 SubpageB07 ~~~~~~
+PN,74109
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Page 741 Row 01 SubpageC08 ~~~~~~
+OL,2,Page 741 Row 02 SubpageC08 ~~~~~~
+OL,3,Page 741 Row 03 SubpageC08 ~~~~~~
+OL,4,Page 741 Row 04 SubpageC08 ~~~~~~
+OL,5,Page 741 Row 05 SubpageC08 ~~~~~~
+OL,6,Page 741 Row 06 SubpageC08 ~~~~~~
+OL,7,Page 741 Row 07 SubpageC08 ~~~~~~
+OL,8,Page 741 Row 08 SubpageC08 ~~~~~~
+OL,9,Page 741 Row 09 SubpageC08 ~~~~~~
+OL,10,Page 741 Row 10 SubpageC08 ~~~~~~
+OL,11,Page 741 Row 11 SubpageC08 ~~~~~~
+OL,12,Page 741 Row 12 SubpageC08 ~~~~~~
+OL,13,Page 741 Row 13 SubpageC08 ~~~~~~
+OL,14,Page 741 Row 14 SubpageC08 ~~~~~~
+OL,15,Page 741 Row 15 SubpageC08 ~~~~~~
+OL,16,Page 741 Row 16 SubpageC08 ~~~~~~
+OL,17,Page 741 Row 17 SubpageC08 ~~~~~~
+OL,18,Page 741 Row 18 SubpageC08 ~~~~~~
+OL,19,Page 741 Row 19 SubpageC08 ~~~~~~
+OL,20,Page 741 Row 20 SubpageC08 ~~~~~~
+OL,21,Page 741 Row 21 SubpageC08 ~~~~~~
+OL,22,Page 741 Row 22 SubpageC08 ~~~~~~
+OL,23,Page 741 Row 23 SubpageC08 ~~~~~~
+OL,24,Page 741 Row 24 SubpageC08 ~~~~~~

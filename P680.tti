@@ -1,0 +1,59 @@
+DE,Description goes here
+DS,inserter
+SP,E:\teletext\mnet-recreations\metoffice.tti
+CT,8,T
+PN,68001
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,                                    1/2 
+OL,2,D]                                      
+OL,3,D]A]                                 T
+OL,4,D]A]C IN TOUCH, INFORMED, IN A WORD  T\
+OL,5,Tppppppppppppppppppppppppppppppppppp
+OL,6,D]   l|4                                
+OL,7,D] C            MICRONET                
+OL,8,D] !j7                                  
+OL,10,      BP         Sppppppppppppppppppppp 
+OL,11,                 S5                  Sj 
+OL,12,    BPARFE       S5FMicronet and     Sj 
+OL,13,                 S5FPrestel were     Sj 
+OL,14,  BPARFEDSGT     S5Fpopular Videotex Sj 
+OL,15,                 S5Fservices, like   Sj 
+OL,16,BPARFEDSGTEEFL   S5Fteletext but two-Sj 
+OL,17,                 S5Fway. Here we try Sj 
+OL,18,  FEDSGTEEFL     S5Fto recreate some Sj 
+OL,19,                 S5Fpages.           Sj 
+OL,20,    GTEEFL       S5                  Sj 
+OL,21,                 S5                  Sj 
+OL,22,      FL         S##################### 
+FL,100,100,100,100,8ff,100
+PN,68002
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,                                    2/2 
+OL,2,D]C                                     
+OL,3,D]CMThe Met.Office          24hrs a day 
+OL,5,Tssssssssssssss]S          `~}0      
+OL,6,D]G For weather forecasts,S   {!      
+OL,7,D]G reports, warnings &S      {% ` t   
+OL,8,D]G statistics - please keyS ~4`}  
+OL,9,D]S                          o  
+OL,10,D]G 0 \CWeather HeadlinesD ]S +'jok  
+OL,11,D]G 1CU.K. WeatherS             k7 jj*  
+OL,12,D]G 2CWorld WeatherS            o?C N   
+OL,13,D]G 3CShipping & SailingS       j5C/    
+OL,14,D]G 4CGeneral Aviation      W -Sj5C- E  
+OL,15,D]C   Service                           
+OL,16,D]G 5CServices, contacts,     /         
+OL,17,D]C   comments etc.          S          
+OL,18,D]G 6CStatistics for January            
+OL,19,D]                                      
+OL,20,D]G 7CSkiing forecasts now available.   
+OL,21,D]                                      
+OL,22,D]G 8CMicronet  \F9  Met Office A-ZD]   
+OL,23,G]D All pages are CROWN COPYRIGHT       
+FL,100,100,100,100,8ff,100

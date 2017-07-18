@@ -2,145 +2,128 @@ DE,CTS Main Index
 DS,inserter
 SP,C:\Users\Chace\Desktop\Teletext-CTS\P540-CTS.tti
 CT,6,C
-PS,8000
-RE,0
 PN,54001
 SC,0001
-OL,0,XXXXXXXXORACLE mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,‘|<,<,l,l|’|<,l,,<,l,,|,l<l,||‘|<,<,l,l|
-OL,2,‘ uz 5*,’  /5*o o5* u*`‘ uz 5*,
-OL,3,‘ 7k 7k ’  5j 5j 7h"‘ 7k 7k 
-OL,4,‘/-,/,/,./’//,/,,-,.,/-.,-.,//‘/-,/,/,./
-OL,5,                                        
-OL,6, Reflection ...ƒ541‡..............‚545 
-OL,7,      Nothing y yet                    
-OL,8, ..............‚542‡..............‚546 
-OL,9,      Still notothi                    
-OL,10, ITN News .....‚543‡..............‚547 
-OL,11,      You guessssed                    
-OL,12, ..............‚544‡Mugshot of me ‚548 
-OL,13,                                        
-OL,14,         ‡Characters ...‚549           
-OL,15,                                        
-OL,16,                                        
-OL,17,’  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,’  5†Reflection:‡An abridged account’j  
-OL,19,’  5‡about my experience of teletext’j  
-OL,20,’  5‡(first seen on Facebook)  †p541’j  
-OL,21,’  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
-OL,22,                                        
-OL,23,”     ‡By Christopher Tsangari         
-OL,24,Bamboozle ‚Teefax BBS ƒTestcards†wClock
-FL,502,502,506,552,8ff,100
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
+OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
+OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
+OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
+OL,6, Reflection ...C541C]FA abridged        
+OL,7, Ahh, Teacher .B542  Faccount of when I 
+OL,8, Art ..........B543  Fdiscovered the    
+OL,9, Pages in GreekB544  FTXT button, back  
+OL,10, In the KitchenB545  Fin November 1987. 
+OL,11,                     F                  
+OL,12,                     F                  
+OL,13,                     F                  
+OL,14,                     G                  
+OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,R  5G                               Rj  
+OL,19,R  5G                               Rj  
+OL,20,R  5G                               Rj  
+OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,23,T]     GBy Christopher Tsangari         
+FL,150,140,790,142,8ff,100
 PN,54002
 SC,0002
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,‘|<,<,l,l|’|<,l,,<,l,,|,l<l,||‘|<,<,l,l|
-OL,2,‘ uz 5*,’  /5*o o5* u*`‘ uz 5*,
-OL,3,‘ 7k 7k ’  5j 5j 7h"‘ 7k 7k 
-OL,4,‘/-,/,/,./’//,/,,-,.,/-.,-.,//‘/-,/,/,./
-OL,5,                                        
-OL,6, Reflection ...‚541‡..............‚545 
-OL,7,      Nothing y yet                    
-OL,8, ..............‚542‡..............‚546 
-OL,9,      Still notothi                    
-OL,10, ITN News .....ƒ543‡..............‚547 
-OL,11,      You guessssed                    
-OL,12, ..............‚544‡Mugshot of me ‚548 
-OL,13,                                        
-OL,14,         ‡Characters ...‚549           
-OL,15,                                        
-OL,16,                                        
-OL,17,’  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,’  5†ITN:‡Just realised I should    ’j  
-OL,19,’  5‡have done News at 545! A mock  ’j  
-OL,20,’  5‡item celebrating Teefax   †p543’j  
-OL,21,’  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
-OL,22,                                        
-OL,23,”     ‡By Christopher Tsangari         
-OL,24,                                        
-FL,502,502,506,552,8ff,100
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
+OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
+OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
+OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
+OL,6, Reflection ...B541  B                  
+OL,7, Ahh, Teacher .C542C]BThe world's second
+OL,8, Art ..........B543  Bteletext soap     
+OL,9, Pages in GreekB544  Bopera... except   
+OL,10, In the KitchenB545  Bit's not as well  
+OL,11,                     Bdeveloped as Park 
+OL,12,                     BAvenue was.       
+OL,13,                     B                  
+OL,14,                     G                  
+OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,R  5G                               Rj  
+OL,19,R  5G                               Rj  
+OL,20,R  5G                               Rj  
+OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,23,T]     GBy Christopher Tsangari         
+FL,150,140,790,142,8ff,100
 PN,54003
 SC,0003
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,‘|<,<,l,l|’|<,l,,<,l,,|,l<l,||‘|<,<,l,l|
-OL,2,‘ uz 5*,’  /5*o o5* u*`‘ uz 5*,
-OL,3,‘ 7k 7k ’  5j 5j 7h"‘ 7k 7k 
-OL,4,‘/-,/,/,./’//,/,,-,.,/-.,-.,//‘/-,/,/,./
-OL,5,                                        
-OL,6, Reflection ...‚541‡..............‚545 
-OL,7,      Nothing y yet                    
-OL,8, ..............‚542‡..............‚546 
-OL,9,      Still notothi                    
-OL,10, ITN News .....‚543‡..............‚547 
-OL,11,      You guessssed                    
-OL,12, ..............‚544‡Mugshot of me ƒ548 
-OL,13,                                        
-OL,14,         ‡Characters ...‚549           
-OL,15,                                        
-OL,16,                                        
-OL,17,’  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,’  5†Mug shot:‡Yes, that is me in a ’j  
-OL,19,’  5‡vest! I must shave!            ’j  
-OL,20,’  5‡                          †p548’j  
-OL,21,’  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
-OL,22,                                        
-OL,23,”     ‡By Christopher Tsangari         
-OL,24,Bamboozle ‚Teefax BBS ƒTestcards†wClock
-FL,502,502,506,552,8ff,100
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
+OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
+OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
+OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
+OL,6, Reflection ...B541  E                  
+OL,7, Ahh, Teacher .B542  E                  
+OL,8, Art ..........C543C]EIncludes my       
+OL,9, Pages in GreekB544  ETeletext selfie,  
+OL,10, In the KitchenB545  Eplus an unfinished
+OL,11,                     EEnfield.          
+OL,12,                     E                  
+OL,13,                     E                  
+OL,14,                     G                  
+OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,R  5G                               Rj  
+OL,19,R  5G                               Rj  
+OL,20,R  5G                               Rj  
+OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,23,T]     GBy Christopher Tsangari         
+FL,150,140,790,142,8ff,100
 PN,54004
 SC,0004
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,’|<,<,l,l|‘|<,l,,<,l,,|,l<l,||’|<,<,l,l|
-OL,2,’ uz 5*,‘  /5*o o5* u*`’ uz 5*,
-OL,3,’ 7k 7k ‘  5j 5j 7h"’ 7k 7k 
-OL,4,’/-,/,/,./‘//,/,,-,.,/-.,-.,//’/-,/,/,./
-OL,5, ˜I've changed red. Must be blushing   
-OL,6, Reflection ...‚541‡..............‚545 
-OL,7,      Nothing y yet                    
-OL,8, ..............‚542‡..............‚546 
-OL,9,      Still notothi                    
-OL,10, ITN News .....‚543‡..............‚547 
-OL,11,      You guessssed                    
-OL,12, ..............‚544‡Mugshot of me ‚548 
-OL,13,                                        
-OL,14,         ‡Characters ...ƒ549           
-OL,15,                                        
-OL,16,                                        
-OL,17,’  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,’  5†Characters:‡Sketched the bold  ’j  
-OL,19,’  5‡letters and numbers to use as  ’j  
-OL,20,’  5‡page headers.             †p549’j  
-OL,21,’  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
-OL,22,                                        
-OL,23,”     ‡By Christopher Tsangari         
-OL,24,Bamboozle ‚Teefax BBS ƒTestcards†wClock
-FL,502,502,506,552,8ff,100
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
+OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
+OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
+OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
+OL,6, Reflection ...B541  G                  
+OL,7, Ahh, Teacher .B542  G                  
+OL,8, Art ..........B543  G                  
+OL,9, Pages in GreekC544C]GDoes your TV      
+OL,10, In the KitchenB545  Gsupport this      
+OL,11,                     Gcharacter set?    
+OL,12,                     G                  
+OL,13,                     G                  
+OL,14,                     G                  
+OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,R  5G                               Rj  
+OL,19,R  5G                               Rj  
+OL,20,R  5G                               Rj  
+OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,23,T]     GBy Christopher Tsangari         
+FL,150,140,790,142,8ff,100
 PN,54005
 SC,0005
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,’|<,<,l,l|‘|<,l,,<,l,,|,l<l,||’|<,<,l,l|
-OL,2,’ uz 5*,‘  /5*o o5* u*`’ uz 5*,
-OL,3,’ 7k 7k ‘  5j 5j 7h"’ 7k 7k 
-OL,4,’/-,/,/,./‘//,/,,-,.,/-.,-.,//’/-,/,/,./
-OL,5, ˜I've changed red. Must be blushing   
-OL,6, Reflection ...‚541‡..............ƒ545 
-OL,7,      Nothing y yet                    
-OL,8, ..............ƒ542‡..............ƒ546 
-OL,9,      Still notothi                    
-OL,10, ITN News .....ƒ543‡..............ƒ547 
-OL,11,      You guessssed                    
-OL,12, ..............ƒ544‡Mugshot of me ‚548 
-OL,13,                                        
-OL,14,         ‡Characters ...‚549           
-OL,15,                                        
-OL,16,                                        
-OL,17,’  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,’  5†Blank pages:‡Please disperse.  ’j  
-OL,19,’  5‡There's nothing for you to see ’j  
-OL,20,’  5‡here, keep moving!        †p54*’j  
-OL,21,’  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
-OL,22,                                        
-OL,23,”     ‡By Christopher Tsangari         
-OL,24,Bamboozle ‚Teefax BBS ƒTestcards†wClock
-FL,502,502,506,552,8ff,100
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
+OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
+OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
+OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
+OL,6, Reflection ...B541  G                  
+OL,7, Ahh, Teacher .B542  G                  
+OL,8, Art ..........B543  G                  
+OL,9, Pages in GreekC544C                    
+OL,10, In the KitchenB545C]FThis was what     
+OL,11,                     Fteletext was made 
+OL,12,                     Ffor: to carry     
+OL,13,                     Frecipes           
+OL,14,                     G                  
+OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,R  5G                               Rj C
+OL,19,R  5G                               Rj  
+OL,20,R  5G                               Rj  
+OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,23,T]     GBy Christopher Tsangari         
+FL,150,140,790,142,8ff,100

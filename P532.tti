@@ -2,12 +2,12 @@ DE,edit-tf
 DS,inserter
 SP,N:\git-repos\teletext\P532.tti
 CT,8,T
-PS,8040
-RE,0
 PN,53201
 SC,0001
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,T]S `t 0                          G1/4  
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T]S `t 0                          G1/9  
 OL,2,T]Sx0!"'      CVISIT THE                
 OL,3,T]S"0 x0   CEUROPEAN UNION              
 OL,4,T]S"' "                                 
@@ -30,36 +30,93 @@ OL,20, Ewater and a crucifix.
 OL,21,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,22,D]CCALL TODAY - VISIT TOMORROW - STAY   
 OL,23,D]CFOREVER. OR AT LEAST UNTIL NEXT WEEK.
-OL,24,ASabrinaBUnsatisfactoryCTelevisionFIndex
-FL,533,534,535,100,0,530
+OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
+FL,533,531,536,570,0,100
 PN,53202
 SC,0002
-OL,0,  100  D]CTeletext G\100GJul17C00:00:00 
-OL,1,                                   2/4  
-OL,3,D]C Sppp pp0`0  `pp ppp pp0`0 p`pp0    \
-OL,4,D]S S##jwsj5  s{5##jws"mx'"k7!    \
-OL,5,D]S    jwssjup0ss1  jwssh?+} j5     \
-OL,6,D]S   #  ##!"##!"##  #  ##!"! # "!     \
-OL,7,D]C       ITV1 EAST OF ENGLAND    XHTAC\
-OL,8,A`````````````````````````````````````` 
-OL,10,MTHE END OF THE WORLD IS NIGH       304 
-OL,12,                      CQppppppppppppppp 
-OL,13,CNEWSFApocalypse in   CQ]S pl8;x;|p    \
-OL,14,FDecember, Teletext toCQ]Sfgg~wlkgfg   \
-OL,15,Fclose in January.    CQ]S{?]Wono-Q]  \
-OL,16,F                     CQ]S#/pl~}=&/#   \
-OL,17,CTeletext closing G305CQ] S  o]]A]     \
-OL,18,CFull News Index  G300CA]S ppxp0    \
-OL,19,                      QS###############\
-OL,20,D]F    FULLCTELETEXTFCONTENTSC101      \
-OL,21,A`````````Cwww.teletext.co.ukA````````` 
-OL,22,C]MAHLAST MINUTE HOLIDAY DEALS p200    \
-OL,24,ASabrinaBUnsatisfactoryCTelevisionFIndex
-FL,533,534,535,100,0,530
+PS,8000
+RE,0
+OL,0,XXXXXXXXT]CTeletext G\mppGMTHddChh:nn:ss
+OL,1,                                   2/9  
+OL,2,D]C Sppp pp0`0  `pp ppp pp0`0 p`pp0    \
+OL,3,D]S S##jwsj5  s{5##jws"mx'"k7!    \
+OL,4,D]S    jwssjup0ss1  jwssh?+} j5     \
+OL,5,D]S   #  ##!"##!"##  #  ##!"! # "!     \
+OL,6,D]C       ITV1 EAST OF ENGLAND    XHTAC\
+OL,7,A`````````````````````````````````````` 
+OL,9,MTHE END OF THE WORLD IS NIGH       304 
+OL,11,                      CQppppppppppppppp 
+OL,12,CNEWSFApocalypse in   CQ]S pl8;x;|p    \
+OL,13,FDecember, Teletext toCQ]Sfgg~wlkgfg   \
+OL,14,Fclose in January.    CQ]S{?]Wono-Q]  \
+OL,15,F                     CQ]S#/pl~}=&/#   \
+OL,16,CTeletext closing G305CQ] S  o]]A]     \
+OL,17,CFull News Index  G300CA]S ppxp0    \
+OL,18,                      QS###############\
+OL,19,D]F    FULLCTELETEXTFCONTENTSC101      \
+OL,20,A`````````Cwww.teletext.co.ukA````````` 
+OL,21,C]MAHLAST MINUTE HOLIDAY DEALS p200    \
+OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
+FL,533,531,536,570,0,100
 PN,53203
 SC,0003
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Qx5jtCMR T SAYS:                   3/4  
+PS,8000
+RE,0
+OL,0,XXXXXXXXD]CTeletext G\100GMar17C00:00:00
+OL,1,                                   3/9  
+OL,2,D]C Sppp pp0`0  `pp ppp pp0`0 p`pp0    \
+OL,3,D]S S##jwsj5  s{5##jws"mx'"k7!    \
+OL,4,D]S    jwssjup0ss1  jwssh?+} j5     \
+OL,5,D]S   #  ##!"##!"##  #  ##!"! # "!     \
+OL,6,D]C        C5 EAST OF ENGLAND     XHTAC\
+OL,7,A`````````````````````````````````````` 
+OL,9,MGET AWAY ON A WEEKEND BREAK        300 
+OL,11,                       Vppppppppppppppp 
+OL,12,CBREAKSFWeekend breaks  ]         S`|0 \
+OL,13,Ffrom 2-4 nights for a  ] Rp|sl8S  o? \
+OL,14,Fbargain price.         ]R&9QR+ S  #  \
+OL,15,F                       ]   Qo5        \
+OL,16,CWeekend BreaksG   300 D]   Qj        \
+OL,17,CHoliday Index    G200 D]R`~|0    \
+OL,18,                       T###############\
+OL,19,D]FFULLCTELETEXTFHOLIDAYS CONTENTSC101 \
+OL,20,A`````Cwww.teletext-holidays.co.ukA```` 
+OL,21,C]MAHLAST MINUTE HOLIDAY DEALS p400    \
+OL,24,AHolidays BHolidays CHolidays FHolidays 
+FL,533,531,536,570,0,100
+PN,53204
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXE]GTeletext  \100 Mar20C00:00:00
+OL,1,                                   4/9  
+OL,2,U] Wp        `       `               `  
+OL,3,U]Wz       h      h              j  
+OL,4,U]W ~tj ~4j xt+4 h%j 
+OL,5,U]W  5 jj 5 j?j  5 j k(5 j  
+OL,6,U]Wk|4o}||0j }|| *|4o}||4`' k}0j|4
+OL,7,U] W##!"###!"# "###  ##!"###!##   #! ##!
+OL,8,E]  ckjfGG   on analogue tv             
+OL,10,MDON'T BE BLUE WITH TELETEXT   104      
+OL,12,                           T<,,,,,,,,,,4
+OL,13, Whilst the rest of the    T5      V*T5
+OL,14, world is going green,     T5U`pppp V+T5
+OL,15, we're going purple!       T5Ug{=0jT5
+OL,16,                           T5UvouzT5
+OL,17, Check out our new look on T5Uo?T5
+OL,18, analogue and digital TV   T5U~ j4  T5
+OL,19, and online.               T-,,,,,,,,,,%
+OL,21,E``````Ghttp://www.teletext.co.ukE``````
+OL,22,B]MCURGENT! Hans Blix  10-4 $2.50 245   
+OL,23,B]                                      
+OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
+FL,533,531,536,570,0,100
+PN,53205
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Qx5jtCMR T SAYS:                   5/9  
 OL,2,Qo?                                   
 OL,3,Q?oBCreme eggs can be delicious.      
 OL,4,Qoj55BHowever kids, if you don't like   
@@ -77,12 +134,14 @@ OL,18,     FBINS out.
 OL,20,A]CMMore Mr T at www.Digitiser2000.com \
 OL,21,  B More Mr                             
 OL,23,D]FFrame created by @AwakeInBeds 2015  \
-OL,24,ASabrinaBUnsatisfactoryCTelevisionFIndex
-FL,533,534,535,100,0,530
-PN,53204
-SC,0004
-OL,0,  320  D]CTELETEXT  \G320 Jul30 18:00:00
-OL,1,                                   4/4  
+OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
+FL,533,531,536,570,0,100
+PN,53206
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXT]CTeletext G\mppGMTHddChh:nn:ss
+OL,1,                                   6/9  
 OL,2,      T|4Sx|Rm0`~7   Wj5 
 OL,3, Q`pppT5S#pzR5z7    Wj?/####k/5 
 OL,4,QjwprT7S~!zR?!    Wj?w!  0     +5 
@@ -104,5 +163,91 @@ OL,20, missing.  Not tested but believed to
 OL,21, be working last time it was used in    
 OL,22, 1944 before the building was bombed.   
 OL,23,D]FTo bid text BID+amount to 88888888  \
-OL,24,ASabrinaBUnsatisfactoryCTelevisionFIndex
-FL,533,534,535,100,0,530
+OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
+FL,533,531,536,570,0,100
+PN,53207
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,   W`0                           G 7/9  
+OL,2,T]W"k7!                FChannel 6     
+OL,3,T] W"!  #                FTuesday       
+OL,5,C2000BI Love "I Love The 1980s"         
+OL,6,      A nostalgic look back at the      
+OL,7,      popular nostalgia show, with      
+OL,8,      Stuart Maconie.                   
+OL,9,C2100BThe Man With Three Arms           
+OL,10,      Freak show disguised as a         
+OL,11,      documentary.                      
+OL,12,C2130BAlphabetti Spaghetti              
+OL,13,      A quiz show we've inexplicably    
+OL,14,      scheduled for prime time.         
+OL,15,     Ffollowed by News Update           
+OL,16,C2200BJeremy Corbyn On A Train          
+OL,17,     CNew series.GJeremy braves the     
+OL,18,C    GWest Coast mainline.              
+OL,19,C2300BNaked Scything                    
+OL,20,      With Aidan Turner.                
+OL,22,D]MFPreviously on Channel 6       P538  
+OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
+FL,533,531,536,570,0,100
+PN,53208
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,D]F                                     
+OL,2,D]F  **** COMMODORE 64 BASIC V2 ****    
+OL,3,D]F                                     
+OL,4,D]F  64K RAM SYSTEM  38911 BYTES FREE   
+OL,5,D]F                                     
+OL,6,D]F READY.                              
+OL,7,D]VH                                   
+OL,8,D]F                                     
+OL,9,D]F                                     
+OL,10,D]F                                     
+OL,11,D]F                                     
+OL,12,D]F                                     
+OL,13,D]F                                     
+OL,14,D]F                                     
+OL,15,D]F                                     
+OL,16,D]F                                     
+OL,17,D]F                                     
+OL,18,D]F                                     
+OL,19,D]F                                     
+OL,20,D]F                                     
+OL,21,D]F                                     
+OL,22,D]F                                     
+OL,23,D]F                                8/9  
+OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
+FL,533,531,536,570,0,100
+PN,53209
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,  T] Wppp pppp`p `0pppp`ppp `pp0`0     T
+OL,2,  T]Wj5||4|| j7~5|| j}|~!||j5     T
+OL,3,  T]W"-,.!/,,,*% +%/,,,*%#)$/  /*//    T
+OL,4,  T]Wh<,,$|   h<,,$x,,t(,|<,h4x,l0|t0| T
+OL,5,  T]Wj?/%    j?/%   p  5 j5 j5*o T
+OL,6,  T]W"###!####"###!"##!  #! "!"## #  # T
+OL,8,GYou can now vote in the General        
+OL,9,GElection using yourAFASTEXTGtelevision.
+OL,10,W          z}0  G                       
+OL,11,W         ht  ESimply press the      
+OL,12,W        `}0  Ecoloured button     
+OL,13,W        ~t   Ecorresponding to  
+OL,14,W       zco}0   Ethe party you   
+OL,15,W      he};t    Ewant to vote  
+OL,16,W     `7~5?o6}0    Efor.      T 
+OL,17,W     ~?z?1~?zt                
+OL,18,W    z};~ui}0              
+OL,19,W   hevovoet             
+OL,20,W  `7~};}~}0           
+OL,21,W  ~?z?zt          
+OL,22,W z};i]TRESULTS LATERW^\}0        
+OL,23,WhvoetG 9/9  
+OL,24,ALabour  BGreen  CLib Dem  FConservative
+FL,533,531,536,570,0,100

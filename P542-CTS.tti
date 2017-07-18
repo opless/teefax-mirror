@@ -1,34 +1,57 @@
 DE,CTS - Holding page
 DS,Wales
 SP,C:\Users\Chace\Desktop\Teletext-CTS\P542-CTS.tti
-CT,45,T
-PS,8048
-RE,0
+CT,24,C
 PN,54201
-SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ë7#####################################k
-OL,2,ë5                                     j
-OL,3,ë5                                     j
-OL,4,ë-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
-OL,5,                                        
-OL,6, ÉçHappy birthday, Elena, wishing you   
-OL,7,   a wonderful day.                     
-OL,8,  ç      Éça wonderful day.             
-OL,9,     ts of Lots of la wonder            
-OL,10,                                        
-OL,11,      Å   çLots of love, Chris          
-OL,12,                                        
-OL,13,                                        
-OL,14,      Å çx x x x x x x x x x x x        
-OL,15,                                        
-OL,16,         Üo o o o o o o o o o           
-OL,17,        Å çx x x x x x x x x            
-OL,18,                                        
-OL,19,         Ü  o o o o o o o o             
-OL,20,         Å  çx x x x x x x              
-OL,21,                                        
-OL,22,                                        
-OL,23,ëù                                      
-OL,24,ÅMain indexÇMugshotÉWorld ClockÜUkelele 
-FL,100,548,552,600,0,540
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||||||||||||||||||||||||||||||||||||||
+OL,2,Q]CAh, teacher?  T]G01 The Deadline     
+OL,3,T||||||||||||||||~
+OL,5, In need of some escapism... have a     
+OL,6, deadline to meet at midnight tonight   
+OL,7, (Wed 19 Oct at 2359:59) which means if 
+OL,8, I don't get the data in, armageddon    
+OL,9, will kick in. Bit of a shame really, am
+OL,10, doing really well at the moment.       
+OL,12, In other areas, lessons are just nicer 
+OL,13, to teach, getting on top of marking,   
+OL,14, planning even better lessons, thinking 
+OL,15, how to improve on present best, that   
+OL,16, sort of thing.                         
+OL,18, Mmmm... there might be an audience for 
+OL,19, a new teletext soap-opera, the first   
+OL,20, one since 1988. And why not? There     
+OL,21, might be some interest in it :-)       
+OL,22,                                    1/2 
+OL,23,Q] C@                                   
+OL,24,AMain indexBMugshotCWorld ClockFUkelele 
+FL,540,548,142,600,0,100
+PN,54202
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||||||||||||||||||||||||||||||||||||||
+OL,2,Q]CAh, teacher?  T]G02 \-term reflection
+OL,3,T||||||||||||||||~
+OL,5,COh yeah, Chris, you and your half-term 
+OL,6,Cand your summer AND xmas holidays, AND 
+OL,7,Cyou get paid for it too, what more can 
+OL,8,Cyou ask for?!BThat's where you're wrong
+OL,10,BD'you know that on this Sunday night,  
+OL,11,BI have to format and build 32 SD-cards 
+OL,12,Bwith the latest RasPi operating system 
+OL,13,Bso my students can do controlled       
+OL,14,Bassessment from tomorrow until         
+OL,15,BWednesday. Then I have to spend an hour
+OL,16,Bper person marking them (all 18), and  
+OL,17,Bif I find time, I might spend it with  
+OL,18,BElena. There's only so many flowers I  
+OL,19,Bcan buy to cover up her dismay. Even   
+OL,20,Bchocolates aren't good enough.         
+OL,22,CDo what with an SD card?BOh, forget it!
+OL,23,Q] C                              @     
+FL,540,548,142,600,0,100

@@ -1,30 +1,120 @@
-PN,53900
-CT,5,T
 DE,bin2tti
-PS,8040
-SC,0000
-OL,1,                                        
-OL,2,  ’x,$| |('s=  h4h4`<                  
-OL,3,  ’+,$bs?(/,,*%"-.%/+,                  
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
-OL,7,                                        
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
-FL,540,100,100,100,0,530
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P539.tti
+CT,8,T
+PN,53901
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,WG1/4 
+OL,3,W///'o?o5/# 
+OL,4,W?#`px|7k?   o 
+OL,5,W0 "##+/!j`| 
+OL,6,W|$"'c3+? "#o#'#+?o?+'#+'##o 
+OL,7,W?//##  x!.# `5  # k x j5 x5`5.' ` 
+OL,8,W|ppppp|}|~uz|tx||}~}~}||tz 
+OL,9,W?'!q # ? 
+OL,10,W7h~ j5`}z 
+OL,11,W o? :+'+5j/''#+o?'a#+ 
+OL,12,W4 +/#`~%x%j j7h7 x z1(||| 
+OL,13,W}||~|||~|||p| 
+OL,14,W 
+OL,15,G]A  Aby Eric W Schwartz               \
+OL,16,G]A                                    \
+OL,17,G]A  DEpisode 1                        \
+OL,18,G]A B]G D"Computerfest Special"   G]   \
+OL,19,G]A                                    \
+OL,20,G]A                                    \
+OL,21,G]A                                C   \
+OL,22,C]A    Catch Sabrina on the Web at     \
+OL,23,C]A   http://www.sabrina-online.com    \
+OL,24,AChrisTBTelevisionCUnsatisfactoryFIndex 
+FL,540,538,537,530,100,100
+PN,53902
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,W///o///ws;|/8x]D             G\2/4 
+OL,3,W?m</ook|n} ]D                  \
+OL,4,W{`y~7o:w"c2%| ]DWhere is that     \
+OL,5,Won%ap|||p#~; /]Dbooth Amy told  \
+OL,6,Ws~?q~/s0/o0o"o]Dme about?      \
+OL,7,W///z/gs|,3csq2% *]DI was        \
+OL,8,W?u?s|/o//t`/%   ]]Dwanting to   \
+OL,9,W:7h#3'y|0(v/   `]]D sign up      \
+OL,10,Wss5!%0"! #`ppb#  l0/o]D today!       \
+OL,11,Wss! / $` |"4   "}|$]D            \
+OL,12,W{!     * " w9    j7(]D           \
+OL,13,W5     +'||tsssy5 `4*'(-$"#####k7#///#s 
+OL,14,    W`+p#'3/s &stlw+o?j5j~ 
+OL,15,      Wpp0` .iu nj??|0"#|e~ 
+OL,16,      Wt+o5`; h|~h|<,,,,||}j 
+OL,17,      W}9vsz7 ~6uo(u 
+OL,18,    W4z6|~~t k5 *:/'!*o 
+OL,19,    W`x|||4do }4$x|i4?~x< 
+OL,20,    Wj}j2?'y|'x*u57j75kkw{ 
+OL,21,    W~ }v|?'i~%z? 5kk1"/j 
+OL,22,    W%,z} //! #o`05j>?h||| 
+OL,23,   Wh')/j}    "j}8j0j5 
+OL,24,AChrisTBTelevisionCUnsatisfactoryFIndex 
+FL,540,538,537,530,100,100
+PN,53903
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,Wtpp~|dx~G3/4 
+OL,3,W+]A MAHA!W \//\
+OL,4,Wz]Ao THERE/o?'s\W?a|~\
+OL,5,W{]A  M THERE W{W \+\
+OL,6,W]A~}THERE~|\\\W}r/o 
+OL,7,W//o]AIT IS!W  \##% ppsoj? 
+OL,8,Wp `]AW~yW\//"/|tp{/*///*/jss{l$ 
+OL,9, W(#q#//5| 0hth?/??'{'#g;5m!w`( 
+OL,10,W<dk'z/# l  '`! v;o~u0d0(:ex>x~/ 
+OL,11,Wr/$z'!dju2n/0{5j  #apbss3?,/////gs#<b 
+OL,12,W/a>qxp3k-$& 5|uzy<.cs!u5ju:l<j/~ 
+OL,13,W8a~k/$be}?..ds*k?'q<k75'5?7 c* a #- 
+OL,14,W"#cs3#sy||~//h6+,-#! *!h4 `0 *'p" j 
+OL,15,Wp# $`5>//'`rsj5uht `p07}d"e0 "s` n 
+OL,16,W5{5!&x5($ p j-'*' j}~;%1`"m0!"+ pw 
+OL,17,W?j5'))  o}k  |4" ///-//%  dp0s &pppj7 
+OL,18,W:($h|| ""`p++% !   x~ (p2!!#  |||"| 
+OL,19,W56-j}:!p"!'c#cy|?'!h<,~1bsssss* 
+OL,20,W}k5}|||||0`~?'q0i?ehto=0~j"5// 
+OL,21,W"z/a~? n?'0|6}~}~s}j} 
+OL,22,W?.'#s0h~a5~|k?o?' 
+OL,23,   W"+} 75p|'s|j0 
+OL,24,AChrisTBTelevisionCUnsatisfactoryFIndex 
+FL,540,538,537,530,100,100
+PN,53904
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,W]AI wanna get on      W\wsss|~|jG4/4 
+OL,3,W]Athe Internet        W\j 
+OL,4,W]Awith my Amiga!     W\s}||||||vr;o 
+OL,5,W]A                 W\|]BThey     W\y|w 
+OL,6,W3+ooo/s( rs?gyd~]Bhave     W\ 
+OL,7,Wahu0<`$(x}~77j]B  serial  W\o 
+OL,8,Wt1o5! (?s{52o]B ports?   W\-// 
+OL,9,W?//-   #?~/k55t+?yh~ 
+OL,10,W:u5   8%ko*jw!~iht3ssskcc|~g3/  
+OL,11,Wij:?k!  j?8$bs`jvz5z6z~w2|trg 
+OL,12,Wj 2e1j ppz5a"*v///%rss3 #o|?yr/o= 
+OL,13,Wjh5j?h#q3 th?a}|?dx}j~/?s3e|| 
+OL,14,W6~a~}*h;|>sssrr5~' +c?zj 
+OL,15,Wz!~k4~h|||e?/'s/)hja0o 
+OL,16,W5~j:?o5~7 hjv//~<%&b/}4/ 
+OL,17,W{<h5}j15c0 nno0 ovqp|o=j} 
+OL,18,W?/qg{}ss##! #z/,,,&(-*//%5 o?`o 
+OL,19,W|~'1    #c!"#a~4,l|p j?'|/  "k{ 
+OL,20,W'y~}0    !   "#!p0},fs.pp"     jm 
+OL,21,W"o?j}    p#!  ! |?//'      h} 
+OL,22, W`3+%~5fm4"o}>/$ "o?x|3 #       #  
+OL,23, W% /ot9+6  /g>  ` `//s|||||ppgcss, 
+OL,24,AChrisTBTelevisionCUnsatisfactoryFIndex 
+FL,540,538,537,530,100,100

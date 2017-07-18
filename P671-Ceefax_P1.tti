@@ -1,0 +1,60 @@
+DE,Ceefax replicas
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P671-Ceefax_P1.tti
+CT,8,T
+PN,67101
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX Page 1          Chh:nn.ss
+OL,2,   S                  
+OL,3,   S                           
+OL,4,   S                            
+OL,5,   S                       
+OL,6,   S                         
+OL,7,   S                           
+OL,8,   S                    
+OL,10,     * A new system for broadcasting    
+OL,11,       alphanumeric texts within the    
+OL,12,       normal television signal.        
+OL,14,     * Each TV channel can carry a      
+OL,15,       magazine of 32 pages which       
+OL,16,       may be continuously updated.     
+OL,18,     * Ceefax adaptors fitted to do-    
+OL,19,       mestic TV sets will receive      
+OL,20,       and store the pages, & dis-      
+OL,21,       play them on the home screen     
+OL,22,       at the touch of the selector     
+OL,23,       key.                             
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX Page 10         Chh:nn.ss
+OL,1,                              XX        
+OL,2,        XXX                XXX          
+OL,3,   DRY     XXXXXX       XXX X           
+OL,4,   CLOUDY       XXXXXXXX   X            
+OL,5,   RAIN LATER              X            
+OL,6,                         XX             
+OL,7,   TEMP 12'C        XXXXX               
+OL,8,                  XX     BRISTOL        
+OL,9,                 X                      
+OL,10,   LIGHT WINDS  X                       
+OL,11,   NNW TO NW    X                       
+OL,12,               X                        
+OL,13,              X                         
+OL,14,              X                         
+OL,15,            XXX             XXX  X      
+OL,16,          XX     EXETER   XX   XX       
+OL,17,        XX               X              
+OL,18,      XX       XX       X               
+OL,19,   XXX    XXXXX  XXX   X CReconstructed 
+OL,20,   XXX   X          XXX  Cweather map.  
+OL,21,      XXX                CAlan G3SXC    
+OL,22,G GG                     C1973          
+OL,23,G                                       
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100

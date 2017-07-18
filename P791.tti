@@ -1,0 +1,86 @@
+DE,About the Testcards
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P791.tti
+CT,20,C
+PN,79101
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q||||||||||||||||||||||||||||||||||||||\
+OL,2,A]S *o?%//h?/%//h?/%~/}j?o4/}h?/%   \
+OL,3,A]S  j5 ,,*-l4  j5  ,j=n1 *-l4   \
+OL,4,A]S  j5 ||h|~%  *}|4 j5j5|?h|~%   \
+OL,5,A]S (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   \
+OL,6,Q###################################### 
+OL,7,     MC]AThe 1978 BBC Test Page  \      
+OL,9,S      ##########################       
+OL,10,BThis engineering test page was copied  
+OL,11,Bbyte by byte from a photograph in Alan 
+OL,12,BPemberton's collection.                
+OL,13,B(pembers.freeserve.co.uk/teletext/)    
+OL,15,BA photograph from a decoder displaying 
+OL,16,Bvisible control codes allowed an exact 
+OL,17,Bcopy of the page to be transcribed.    
+OL,18,B                                       
+OL,19,BThe clock cracker uses a control code  
+OL,20,Blater defined for black text therefore 
+OL,21,Bmany newer televisions will render the 
+OL,22,Bpage incorrectly.               G(1/3) 
+OL,24,A1978 version B"colour stripes" version 
+FL,792,793,790,790,8ff,100
+PN,79102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q||||||||||||||||||||||||||||||||||||||\
+OL,2,A]S *o?%//h?/%//h?/%~/}j?o4/}h?/%   \
+OL,3,A]S  j5 ,,*-l4  j5  ,j=n1 *-l4   \
+OL,4,A]S  j5 ||h|~%  *}|4 j5j5|?h|~%   \
+OL,5,A]S (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   \
+OL,6,Q###################################### 
+OL,7,     MC]AThe 1978 BBC Test Page  \      
+OL,9,S      ##########################       
+OL,10,BThe Texas Instruments Tifax character  
+OL,11,Bgenerator ROM chip contained all the   
+OL,12,Bglyphs for rendering teletext. It also 
+OL,13,Bcontained extra glyphs for the control 
+OL,14,Bcodes that are usually not displayed.  
+OL,15,BA teletext decoder could be altered to 
+OL,16,Bshow these glyphs, thus displaying all 
+OL,17,Bthe normally hidden details of a page. 
+OL,18,B                                       
+OL,19,BThe photograph was taken on Friday the 
+OL,20,B25th of August, 1978.                  
+OL,21,B                                       
+OL,22, PressAREDGto see this testcard. G(2/3) 
+OL,24,A1978 version B"colour stripes" version 
+FL,792,793,790,790,8ff,100
+PN,79103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q||||||||||||||||||||||||||||||||||||||\
+OL,2,A]S *o?%//h?/%//h?/%~/}j?o4/}h?/%   \
+OL,3,A]S  j5 ,,*-l4  j5  ,j=n1 *-l4   \
+OL,4,A]S  j5 ||h|~%  *}|4 j5j5|?h|~%   \
+OL,5,A]S (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   \
+OL,6,Q###################################### 
+OL,7,   MC]A"Colour stripes" Test Page  \    
+OL,9,S    ##############################     
+OL,10,BLater the test page was modified with  
+OL,11,Bthe incorporation of a row of coloured 
+OL,12,Bpatches below theU]BTest Page  \label. 
+OL,14,BVariations of this card were used for  
+OL,15,Bmany years. The card was often used on 
+OL,16,Bthe in-vision "Pages from Ceefax" and  
+OL,17,Ba version was included on the "British 
+OL,18,BGarden Birds" BBC Laserdisc.           
+OL,19,B                                       
+OL,20, PressBGREENGto see an approximation of 
+OL,21, this testcard, based on captured data, 
+OL,22, the 1978 page, and screen grabs.G(3/3) 
+OL,24,A1978 version B"colour stripes" version 
+FL,792,793,790,790,8ff,100

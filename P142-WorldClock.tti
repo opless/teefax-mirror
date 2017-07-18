@@ -1,0 +1,34 @@
+DE,BBC World Clock
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P142-WorldClock.tti
+CT,10,C
+PN,14200
+SC,0000
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Wh,,lh,,lh,,lV|lll,,<,|l|,l|<,<|<,l,ll<|
+OL,2,Wj 1nj 1nj =nVjjjj55qkjj$555jjb2
+OL,3,W*,,.*,,.*,,.V/,,.,,-/.,.,./-,-,-,.,..-/
+OL,4,TZgqpp|sp6ppuprtrytppso
+OL,5,TZ?!Z8#  `%   5   e  ")0 +
+OL,6,TZ!Z6    *    5   *    "4 k
+OL,7,CBeijing   ]D%t+16T\5FOttawa    ]D%t-08D
+OL,8,FFrankfurt ]D%t+02T\5CParis     ]D%t+02D
+OL,9,TZ(,n,,,,,=,,,,,=,,,,n,,,,,n,,$
+OL,10,CJo'burg   ]D%t+04T\5FPerth     ]D%t+16D
+OL,11,FL.A.      ]D%t-22T\5CPrague    ]D%t+02D
+OL,12,TZ5,,=,,,,n,,,,,,=,,,,,n,,,,,=,,$
+OL,13,CMoscow    ]D%t+06T\5FRio       ]D%t-04D
+OL,14,FMumbai    ]D%t+11T\5CRome      ]D%t+02D
+OL,15,TZ(,n,,,,,=,,,,,=,,,,,=,,,,n,,$
+OL,16,CNairobi   ]D%t+06T\5FSydney    ]D%t+22D
+OL,17,FNew York  ]D%t-08T\5CTokyo     ]D%t+16D
+OL,18,TZuZ"d    h    5   h    `& `
+OL,19,TZt Z)0  "4   5   6   8! `~
+OL,20,TZ}8,.-l<.l,,=,l.,|,/,,x
+OL,21,D```````````````````````````````````````
+OL,22,D]CTravel G430CFlightsG440CWeather  G400
+OL,23,D]CLettersG145CLotteryG555CMain menuG100
+OL,24,A BBC News  BNew York CL.A. FTeefax BBS 
+FL,104,130,160,140,8ff,100

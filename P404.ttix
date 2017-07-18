@@ -1,34 +1,33 @@
-DE,404 page not found
+DE,404 Page Not Found
 DS,inserter
-SP,I:\peter\TeletextFest2016\P404.ttix
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P404.ttix
 CT,8,T
-PS,8000
-RE,0
 PN,40400
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH ƒ hh:nn.ss
-OL,1,                                        
-OL,2, 404 page not found                     
-OL,3,                                        
-OL,4,                                        
-OL,5, Try again later, it might work.        
-OL,6, (no it won't)                          
-OL,7,                                        
-OL,8, You might as well accept that this page
-OL,9, has gone to Atlanta and isn't coming   
-OL,10, back.                                  
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
-FL,8FF,8FF,8FF,8FF,8FF,100
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T]G                                     
+OL,2,T]GPAGE NOT FOUND                       
+OL,3,T]G                                     
+OL,4,T]GTry again later, it might work       
+OL,5,T]G(no it won't)                        
+OL,6,T]G                                     
+OL,7,T]GYou might as well accept that this   
+OL,8,T]Gpage has gone to Atlanta and isn't   
+OL,9,T]Gcoming back.                         
+OL,10,Tgso
+OL,11,T?# !p0k?# ! k%"o
+OL,12,U . o 5j . o7  j5   
+OL,13,Q|| ~0#!z|| ~7 "  j5   
+OL,14,Qo5  /  j5   
+OL,15,S5 ?//%  //!  /  j#+5   /
+OL,16,S5 '!   //7##!             75    + 
+OL,17,W         2a `ppppp0 ss1``` (,,,$       
+OL,18,W  !4!4! (  $(,,,,,$ ,,$(((   !!! bs  $ 
+OL,19,W  ! ! ! "" 1"#####!    """ "#" d     !,
+OL,20,W  `>m0//j5  x/t t *o?%x/t   d),,   ,
+OL,21,W  ~qr}  j5 hwp{4j4 j5hwp{4  d),,   ,
+OL,22,W  ##  j}|j7#k5 + j5j7#k5   ),,    
+OL,24,A  Index   BNews    CEvents   FArchive  
+FL,100,104,800,200,8ff,100

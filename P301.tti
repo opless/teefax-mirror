@@ -1,32 +1,18 @@
-SP,c:\Minited\inserter\ONAIR\P301.tti
-DE,Read back page  20/11/07
+DE,Sport 301
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P301.tti
+CT,15,C
 PN,30100
-CT,99,C
 SC,0000
 PS,8000
-MS,0
-OL,1,ój#3kj#3kj#3kîùí   h<,h<|h<|h<|(|$      
-OL,2,ój $kj $kj 'kîùí   bsj7#juj7}        
-OL,3,ó"###"###"###î/////-,,-./-,,-.,/,///////
-OL,4, ÇFOOTBALL                              
-OL,5, çMCCLAREN SAYS PRESSURE ON ENGLANDá303 
-OL,6,                                        
-OL,7, ÜEngland boss tight-lipped on teamá304 
-OL,8, ÜPreston to unveil Irvine as boss á305 
-OL,9, ÜJol rejects Birmingham approach  á306 
-OL,10,                                        
-OL,11, ÇCRICKET                               
-OL,12,ÇÜThunderstorm halts England's toilá341 
-OL,13,                                        
-OL,14, ÇR/UNION                               
-OL,15, ÜHenson wins recall to Wales side á371 
-OL,16, Ü                                      
-OL,17, ÇBOXING                                
-OL,18, ÜHatton 'in best ever condition'  á381 
-OL,19,                                        
-OL,20, ÇOLYMPICS 2012                         
-OL,21, ÜWoodward Olympics role questionedá381 
-OL,22,                                        
-OL,23,ÑùÉ   BBC WEBSITE: bbc.co.uk/sport      
-OL,24,ÅFootball ÇTop StoryÉReg SportÜMain Menu
-FL,302,303,300,300,F,300
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q 7skR7skT7skT]R   h<,h<|h<|h<|(|$      
+OL,2,Q 5jR5jT5jT]R   bsj7#juj7}        
+OL,3,Q -,.R-,.T-,.T/////-,,-./-,,-.,/,///////
+OL,16, F                                      
+OL,17, BCRICKETS                              
+OL,18, F... (sound of crickets)               
+OL,23,D]CYour way out: the following choices  
+OL,24,A  Index  BBamboozle CEvents  FArtwork  
+FL,100,150,800,200,f,100

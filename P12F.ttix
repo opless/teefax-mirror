@@ -1,34 +1,26 @@
 DE,Read back paige  14/12/01
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P12F.ttix
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P12F.ttix
 CT,99,C
-PS,8040
-RE,0
 PN,12f00
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                            W6!  Sp~0Wi 
-OL,2,G]DQuestion 4. One flavour \ S<|~3oW"5
-OL,3,G]Dused in Stroud Brewery's\Sjzjojz4ht
-OL,4,G]DFringe Fever beer is   \ Sb?'~7/w)w>
-OL,5,G]Dorange. What is the   \ \S?(}rsx="}w 
-OL,6,G]Dother? \     W#/|ppppp   Sm}tsssx}?j 
+OL,2,G]DQuestion 4.            \\ S<|~3oW"5
+OL,3,G]DThe double height code \\Sjzjojz4ht
+OL,4,G]Dtakes effect in which  \ Sb?'~7/w)w>
+OL,5,G]Dof these conditions?   \\S?(}rsx="}w 
+OL,6,                W#/|ppppp   Sm}tsssx}?j 
 OL,7,                             S+/}|/a'T
 OL,8,                         T x}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GGinger                        
-OL,11,                                        
-OL,12,                                        
-OL,13, M  B]D \GLime                          
-OL,14,                                        
-OL,15,                                        
-OL,16, M  C]D \GPine                          
-OL,17,                                        
-OL,18,                                        
-OL,19, M  F]D \GCardamom                      
-OL,20,                                        
-OL,21,                                        
+OL,10, M  A]G \GThe start of each row         
+OL,13, M  B]D \GThe start of the next row     
+OL,16, M  C]D \GThe next character position   
+OL,19, M  F]D \GImmediately                   
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A?????    B?????    C?????    F?????    
-FL,13a,13c,13c,13c,8FF,100
+FL,13c,13c,13a,13c,8ff,100

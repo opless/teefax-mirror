@@ -1,34 +1,26 @@
 DE,Read back page  14/12/01
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P14B.ttix
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P14B.ttix
 CT,99,C
-PS,8040
-RE,0
 PN,14b00
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                            W6!  Sp~0Wi 
-OL,2,G]DQuestion 10.          \   S<|~3oW"5
-OL,3,G]DWhat was the last use \  Sjzjojz4ht
-OL,4,G]Dof Capel Mill?        \  Sb?'~7/w)w>
-OL,5,G]D                      \ \S?(}rsx="}w 
+OL,2,G]DQuestion 10.            \ S<|~3oW"5
+OL,3,G]DThe ability to extend   \Sjzjojz4ht
+OL,4,G]Dthe width of a teletext \Sb?'~7/w)w>
+OL,5,G]Dpage to 56 columns is.. \S?(}rsx="}w 
 OL,6,                W#/|ppppp   Sm}tsssx}?j 
 OL,7,                             S+/}|/a'T
 OL,8,                         T x}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GDye works                     
-OL,11,                                        
-OL,12,                                        
-OL,13, M  B]D \GGrist mill                    
-OL,14,                                        
-OL,15,                                        
-OL,16, M  C]D \GFulling mill                  
-OL,17,                                        
-OL,18,                                        
-OL,19, M  F]D \GGig mill                      
-OL,20,                                        
-OL,21,                                        
+OL,10, M  A]G \GFirst available at Level 1.5  
+OL,13, M  B]D \GFirst available at Level 2.5  
+OL,16, M  C]D \GFirst available at Level 3.5  
+OL,19, M  F]D \GNot a real teletext feature   
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A?????    B?????    C?????    F?????    
-FL,14c,14e,14e,14e,8FF,100
+FL,14e,14c,14e,14e,8ff,100

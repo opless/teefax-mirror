@@ -1,34 +1,26 @@
 DE,Read back page  Vel 14/12/01
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P13F.ttix
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P13F.ttix
 CT,99,C
-PS,8040
-RE,0
 PN,13f00
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                            W6!  Sp~0Wi 
-OL,2,G]DQuestion 9. In the 1960s\ S<|~3oW"5
-OL,3,G]Danimation studio Halas  \Sjzjojz4ht
-OL,4,G]D& Batchelor made 33     \Sb?'~7/w)w>
-OL,5,G]Dcartoons featuring which\S?(}rsx="}w 
-OL,6,W]Dcharacter?        \      Sm}tsssx}?j 
-OL,7,          W      +}ppppppp   S+/}|/a'T
+OL,2,G]DQuestion 9.             S\S<|~3oW"5
+OL,3,G]DA Broadcast Service DataS\jzjojz4ht
+OL,4,G]DPacket is used to encodeS\b?'~7/w)w>
+OL,5,G]Dwhich of the following? S\?(}rsx="}w 
+OL,6,                W+}pppppp0  Sm}tsssx}?j 
+OL,7,                             S+/}|/a'T
 OL,8,                         T x}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GFranklin                      
-OL,11,                                        
-OL,12,                                        
-OL,13, M  B]D \GNoddy                         
-OL,14,                                        
-OL,15,                                        
-OL,16, M  C]D \GFoo-Foo                       
-OL,17,                                        
-OL,18,                                        
-OL,19, M  F]D \GHong Kong Phooey              
-OL,20,                                        
-OL,21,                                        
+OL,10, M  A]G \GThe time and date             
+OL,13, M  B]D \GThe broadcaster's identity    
+OL,16, M  C]D \GThe initial page number       
+OL,19, M  F]D \GAll of the above              
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A?????    B?????    C?????    F?????    
-FL,14a,14a,14b,14a,8FF,100
+FL,14a,14a,14a,14b,8ff,100

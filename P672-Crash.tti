@@ -1,0 +1,64 @@
+DE,This Is Ceefax Replica
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P672-Crash.tti
+CT,8,T
+PN,67201
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 672 DAY dd MTH C hh:nn.ss
+OL,1,Q                     `p                
+OL,2,Q                     jj                
+OL,3,Q       pu0          
+OL,4,Q      ##3##################3#!         
+OL,5,Q        5 `p    ppp   p0   5           
+OL,6,Q        5 *.    5 j   -%   5           
+OL,7,Q        5       5 j        5           
+OL,8,Q        5       5 j        5           
+OL,9,Q        !       ! "        !           
+OL,10,Wppppppppppppp0     pppppppppppppppppppp
+OL,11,W###########k5     #################
+OL,12,W///////////o5     /////////////////
+OL,13,R                                       
+OL,14,R         7##k          7##k            
+OL,15,R        ///////      ///////           
+OL,16,B         o   o        o   o            
+OL,17,W                                       
+OL,18,W                                       
+OL,19,W                                       
+OL,20,W                                       
+OL,21,W|||||||||||||||||||||||||||||||||||||||
+OL,22,W           j5                      
+OL,23,W///////////o?//////////////////////
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,675,700,800,8ff,100
+PN,67202
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 672 DAY dd MTH C hh:nn.ss
+OL,1,Q                     `p                
+OL,2,Q                     jj                
+OL,3,Q       pu0          
+OL,4,Q      ##3##################3#!         
+OL,5,Q        5 `p    ppp   p0   5           
+OL,6,Q        5 *.    5 j   -%   5           
+OL,7,Q        5       5 j        5           
+OL,8,Q        5       5 j        5           
+OL,9,Q        !       ! "        !           
+OL,10,Wppppppppppppp0     pppppppppppppppppppp
+OL,11,W###########k5     #################
+OL,12,W///////////o5     /////////////////
+OL,13,G         H       X  /                  
+OL,14,R              7##k   7##k              
+OL,15,R             /////-s./////             
+OL,16,B              o   o o   o              
+OL,17,V   Hh4   G       /   X                 
+OL,18, -Q<,,l                                 
+OL,19, -Q}||~|4                               
+OL,20,A   o  o                                
+OL,21,W|||||||||||||||||||||||||||||||||||||||
+OL,22,W           j5                      
+OL,23,W///////////o?//////////////////////
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,675,700,800,8ff,100

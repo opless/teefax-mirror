@@ -1,34 +1,34 @@
 DE,Read back page  14/12/01
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\P14F.ttix
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P14F.ttix
 CT,99,C
-PS,8040
-RE,0
 PN,14f00
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1, ]DWell done!AHow did you get on today? 
-OL,2,G]ACheck your score with our chart below
-OL,3,V    pp0      W4     S 0W(0     W"o'    
-OL,4,V  hk}    S` }$x||3o0W%     W##     
-OL,5,V  j5   S"5zjjzj!             
-OL,6,V  og~%    Sh~?/k7/o}4              
-OL,7,V  "/?' T`|S!ltsx<"T}t0          
-OL,8,T        TxS+~|r3#cq|}'Tt         
-OL,9,A```````T~?jtS#/o?/'TpukuA```````
-OL,10,       Tj?cq3///W/$ (/Ts3/'p3o}Q      
-OL,11,T      Tx?S|~cz|T~5      
-OL,12,T      T+//////%S///,$//T////////!      
-OL,13, Q///////////////////////////////////// 
-OL,14,W`<,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l0
-OL,15,WjhC12...FStroudie                   W45
-OL,16,WjjC10-11FSalient                    W55
-OL,17,WjjC 8-9 FSerious                    W55
-OL,18,WjjC 6-7 FSanguine                   W55
-OL,19,WjjC 3-5 FSallow                     W55
-OL,20,Wj*C 0-2 FSad                        W%5
-OL,21,W"-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.!
-OL,22,A```````````````````````````````````````
-OL,23,D]   GPressCYELLOWGfor Fun and Games    
-OL,24,AIndex        BCarousel                 
-FL,101,100,100,100,8FF,100
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,V  pp0  Wp,,,,,,dp0                     
+OL,2,Vhk}W6!   S`x5W*0G]DLet's see which  
+OL,3,VjS '{3o0W% ]Dof our fabulous  
+OL,4,Vo}|~S5zjjzj!W]Dprizes you won   
+OL,5,V"/?'Sh~?/k7/o}4WW]Dtoday.           
+OL,6,   T`|S!ltsx<"T}t0Wpppppps#       
+OL,7,  TxS+~|r3#cq|}'TtQ               
+OL,8, T~?jtS#/o?/'Tpuku               
+OL,9,Tj?cq3///W/$ (/Ts3/'p3o}Q             
+OL,10,Tx?S|~cz|T~5             
+OL,11,T+//////%S///,$//T////////!             
+OL,12, Q///////////////////////////////////// 
+OL,13,W`<,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l0
+OL,14,WjhC12    - A custom colour palette  W45
+OL,15,WjjC10-11 - Non-spacing attributes   W55
+OL,16,WjjC8-9   - Diacritical marks        W55
+OL,17,WjjC6-7   - Separated mosaics        W55
+OL,18,WjjC3-5   - 7 basic colours of text  W55
+OL,19,Wj*C0-2   - A copy of ETS 300 706    W%5
+OL,20,W"-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.!
+OL,21,A```````````````````````````````````````
+OL,22,D]GSend Bamber your quiz suggestions    
+OL,23,D]Gat teefax.uk@gmail.com               
+OL,24,AIndexB  News   CTeefax BBS F  Events   
+FL,100,104,140,800,8ff,100

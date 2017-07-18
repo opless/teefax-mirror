@@ -1,34 +1,26 @@
 DE,Read back page  14/12/01
 DS,Inserter
-SP,E:\peterstuff\fringe15\teletext\P12C.ttix
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P12C.ttix
 CT,99,C
-PS,8040
-RE,0
 PN,12c00
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                            W6!  Sp~0Wi 
-OL,2,G]DQuestion 2.           \   S<|~3oW"5
-OL,3,G]DIn the Coopers Hill   \  Sjzjojz4ht
-OL,4,G]Dcheese rolling, how   \ \Sb?'~7/w)w>
-OL,5,G]Dheavy is the cheese?  \ \S?(}rsx="}w 
+OL,2,G]DQuestion 2.            \  S<|~3oW"5
+OL,3,G]DIn the transmission of \ Sjzjojz4ht
+OL,4,G]Dteletext, what do the  \\Sb?'~7/w)w>
+OL,5,G]Dletters VBI stand for? \\S?(}rsx="}w 
 OL,6,                W#/|ppppp   Sm}tsssx}?j 
 OL,7,                             S+/}|/a'T
 OL,8,                         T x}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \G6 pounds                      
-OL,11,                                        
-OL,12,                                        
-OL,13, M  B]D \G7 pounds                      
-OL,14,                                        
-OL,15,                                        
-OL,16, M  C]D \G8 pounds                      
-OL,17,                                        
-OL,18,                                        
-OL,19, M  F]D \G9 pounds                      
-OL,20,                                        
-OL,21,                                        
+OL,10, M  A]G \GVideo Baseband Information    
+OL,13, M  B]D \GVariable Bandwidth Internet   
+OL,16, M  C]D \GVisible Binary Interference   
+OL,19, M  F]D \GVertical Blanking Interval    
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A?????    B?????    C?????    F?????    
-FL,12e,12e,12e,12d,8FF,100
+FL,12e,12e,12e,12d,8ff,100

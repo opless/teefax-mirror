@@ -1,34 +1,34 @@
 DE,Read back page  14/12/01
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\BB12E.TTIx
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P12E.ttix
 CT,99,C
-PS,8040
-RE,0
 PN,12e00
 SC,0000
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Wjk5pp0pppp0up`pp0ppp`pp05ppp 5     
-OL,2,Wjk4s57k57jk57bs55w 5     
-OL,3,Wj~5}55j5}j~5}j|45}| |4     
-OL,4,B```````````````````````````````````````
-OL,5,   BAD LUCK ` YOU'VE BEEN BAMBOOZLED!   
-OL,6,                                        
-OL,7,G]DThat wasn't the correct  \\Q~t|p 
-OL,8,G]Danswer, I'm afraid, but  \Qn?///'/0
-OL,9,G]Dhere's your chance to    \\S|,/}tQ
-OL,10,G]Dscore again ` with\W+tp\  S }7k~Q
-OL,11,G]ABambette's Bonus. \       S oivQ
-OL,12,G]DFor an extra point,\      S */'kQ
-OL,13,G]Djust answer this   \    Q m>S+o|/kQo
-OL,14,G]Dquestion correctly.\      U`~|Sl|>'U|
-OL,15,G]DPress reveal for answer.\ U~g|<|~
-OL,16,                                        
-OL,17,CName either of the fashion icons who   
-OL,18,Copened Stroud Farmers Market in 1999   
-OL,19, X   Jasper Conran and Isabella Blow    
-OL,20,                                        
-OL,21,B```````````````````````````````````````
-OL,22,     EPRESS ANY COLOUR TO CONTINUE      
-OL,23,B```````````````````````````````````````
-OL,24,AQuestion BQuestion CQuestion FQuestion 
-FL,12b,12b,12b,12b,8FF,100
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Sjk5pp0pppp0up`pp0ppp`pp05ppp 5     
+OL,2,Sjk4s57k57jk57bs55w 5     
+OL,3,Sj~5}55j5}j~5}j|45}| |4     
+OL,4,A```````````````````````````````````````
+OL,5,G]DBad Luck, you've been    \           
+OL,6,G]DBamboozled - we'll have  \ Q~t|p 
+OL,7,G]Dto send you back to      \Qn?///'/0
+OL,8,G]DQuestion 1.              \ S|,/}tQ
+OL,9,G]D                         \S }7k~Q
+OL,10,                  W+tppp S   S oivQ
+OL,11,F                            S */'kQ
+OL,12,FWhat is the function of non   S+o|/kQo
+OL,13,Fspacing attribute code 07?   U~|Sl|>'U|
+OL,14,XSwitch to white text        U~g|<|~
+OL,15,A```````````````````````````````````````
+OL,16,        PRESS 'REVEAL' FOR ANSWER       
+OL,17,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18, CH BAD LUCK ` YOU'VE BEEN BAMBOOZLED!  
+OL,19,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,20,     FPRESS ANY COLOUR TO CONTINUE      
+OL,21,A```````````````````````````````````````
+OL,22,T]MG   STEVE HORSLEY GALLERY  P520      
+OL,23,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,24,A????     B????     C????     F????     
+FL,12b,12b,12b,12b,8ff,100

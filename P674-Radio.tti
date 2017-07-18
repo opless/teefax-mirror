@@ -1,0 +1,29 @@
+DE,BBC Radio Gloucestershire 15Aug16
+DS,inserter
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P674-Radio.tti
+CT,15,C
+PN,67400
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W    `h CBBC RADIOA`````````````````````
+OL,2,W<,,,,|4S<,h h,44hh,h,$       GTUE/WED  
+OL,3,Qwgggg5Su{jpjp5uzjpbs50      G         
+OL,4,Q-----/%A```````````````````````````````
+OL,5,C0500GJoe Lemer                         
+OL,6,C0600GMark Cummings                     
+OL,7,C0900GVernon Harwood (Anna King)        
+OL,8,C1200GDominic Cotter                    
+OL,9,C1500GNicky Price                       
+OL,10,C1700GSybil Ruscoe (Steve Kitchen)      
+OL,11,C1900BTuesday   Football:               
+OL,12,C    BCarlisle United v Cheltenham      
+OL,13,C    FWednesday:                        
+OL,14,     FMark Forrest                      
+OL,15,C2200GDan Chisholm                      
+OL,16,C0100GAs Radio 5 Live                   
+OL,22,A]D       FMC95.0  95.8  104.7          
+OL,23,A]DR1C641DR2C642DR3C643DR4C644DR5LC645  
+OL,24,AWorldServ BRadioLink CRadio FMain Menu 
+FL,670,675,700,800,f,100

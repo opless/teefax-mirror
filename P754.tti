@@ -1,0 +1,97 @@
+DE,packet 28 colour mapping tests
+CT,8,T
+PS,C000
+PN,75401
+SC,0001
+OL,0,                                        
+FL,753,753,753,753,8ff,750
+OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,2, Packet 28/0 colour mapping tests (1/5) 
+OL,4, Foreground colour bars CLUT 0          
+OL,6,PQRSTUVW
+OL,7,PQRSTUVW
+OL,8,PQRSTUVW
+OL,10, Background colour bars CLUT 0          
+OL,12,    Q]   R]   S]   T]   U]   V]   W]    
+OL,13,    Q]   R]   S]   T]   U]   V]   W]    
+OL,14,    Q]   R]   S]   T]   U]   V]   W]    
+OL,16, Default screen colour 00               
+OL,18, Default row colour 00                  
+PN,75402
+SC,0002
+OL,0,                                        
+FL,753,753,753,753,8ff,750
+OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM~I
+OL,2, Packet 28/0 colour mapping tests (2/5) 
+OL,4, Foreground colour bars CLUT 0          
+OL,6,PQRSTUVW
+OL,7,PQRSTUVW
+OL,8,PQRSTUVW
+OL,10, Background colour bars CLUT 1          
+OL,12,    Q]   R]   S]   T]   U]   V]   W]    
+OL,13,    Q]   R]   S]   T]   U]   V]   W]    
+OL,14,    Q]   R]   S]   T]   U]   V]   W]    
+OL,16, Default screen colour 08               
+OL,18, Default row colour 08                  
+PN,75403
+SC,0003
+OL,0,                                        
+FL,753,753,753,753,8ff,750
+OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM~a
+OL,2, Packet 28/0 colour mapping tests (3/5) 
+OL,4, Foreground colour bars CLUT 1          
+OL,6,PQRSTUVW
+OL,7,PQRSTUVW
+OL,8,PQRSTUVW
+OL,10, Background colour bars CLUT 2          
+OL,12,    Q]   R]   S]   T]   U]   V]   W]    
+OL,13,    Q]   R]   S]   T]   U]   V]   W]    
+OL,14,    Q]   R]   S]   T]   U]   V]   W]    
+OL,16, Default screen colour 17               
+OL,18, Default row colour 0f                  
+PN,75404
+SC,0004
+OL,0,                                        
+FL,753,753,753,753,8ff,750
+OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM~y
+OL,2, Packet 28/0 colour mapping tests (4/5) 
+OL,4, Foreground colour bars CLUT 2          
+OL,6,PQRSTUVW
+OL,7,PQRSTUVW
+OL,8,PQRSTUVW
+OL,10, Background colour bars CLUT 3          
+OL,12,    Q]   R]   S]   T]   U]   V]   W]    
+OL,13,    Q]   R]   S]   T]   U]   V]   W]    
+OL,14,    Q]   R]   S]   T]   U]   V]   W]    
+OL,16, Default screen colour 18               
+OL,18, Default row colour 1f                  
+PN,75405
+SC,0005
+OL,0,                                        
+FL,753,753,753,753,8ff,750
+OL,28,@@@|G@@pC@|peH}cC|x{Wuw]_}_wM@0
+OL,26,@lDFL@LmDIR`LqDFL@LV@LxdIS@MV`JyDIR@MW`J
+OL,26,AzdIS@MV`J
+OL,1,T?/S p<'-43o}r}8t3o|tx||0TkD(5/5)
+OL,2,TS(lpx|~|2/?o+o3o0T
+OL,3,T|$Spr+}~o};tk4T
+OL,4,T?S`~?}|pW#//#"o}jj7x?/!Tk
+OL,5,TSx/cxUpp||||tW#).o?'UptS}Tk
+OL,6,TS`<'stU||pppp~SuTk
+OL,7,TS#x7U/###+k7'##+SuT+
+OL,8,TS:?c{Uj7Sx~tUj5Sx|UkSt+}Tk
+OL,9,T4Sx'US./////Uj}S////-US}2)T
+OL,10,TSh?//Uj}g?/}oj?~/wnSo~<T
+OL,11,TS?!U40x}g~t2#cx~{}t3#a~vm5St+tT
+OL,12,TS>zU5j5St+dTz
+OL,13,TS:cUj/j5o4S+uTn
+OL,14,TS`.5U?*n?j5j4S)T
+OL,15,T}S*Uo%|||}*!T}~
+OL,16,TSj}pUj'x|t+kStT+
+OL,17,TSjkU`kbs s17zSuT+
+OL,18,T5S'zUj4t+'x5S=T/
+OL,19,TS:'hU~uk?=,.o5?S7U454T
+OL,20,T|<Sz7U ?c+j~~5?/a5SoUu%%5T
+OL,21,TSn?WUjts}}0o?`|}z7z!T|Uj$T
+OL,22,T}$W~}Ua<bs+}0#####`~tssT"o=U+'Tz
+OL,23,T/# W~?'qUzxa<$}|||~!W}T%W##T

@@ -1,0 +1,25 @@
+DE,Adventure Game Test
+DS,Wales
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P749.ttix
+CT,42,C
+PN,76900
+SC,0000
+PS,8040
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,G]DYou enter a hexagonal   \ S.//////W"5
+OL,3,G]Droom painted blue, with \S`  `p  `<ht
+OL,4,G]Dexits in four of its    \Sb?'7/w)w>
+OL,5,G]Dsix walls. Which will   \S?(}rsx="}w 
+OL,6,G]Dyou take?  \ W#/|ppppp   Sm}tsssx}?j 
+OL,7,                             S+/}|/a'T
+OL,8,                         T x}Wlp  px,T~
+OL,9,A```````````````````````````````````````
+OL,10, M  A]G \GNorth                         
+OL,13, M  B]D \GNortheast                     
+OL,16, M  C]D \GSouth                         
+OL,19, M  F]D \GSouthwest                     
+OL,22,D]G  Press the colour of your choice.   
+OL,23,A```````````````````````````````````````
+OL,24,AChoice 1 BChoice 2 CChoice 3 FChoice 4 
+FL,76a,76b,76c,76d,0,100

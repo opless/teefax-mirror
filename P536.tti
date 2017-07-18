@@ -1,30 +1,48 @@
-PN,53600
-CT,5,T
 DE,bin2tti
-PS,8040
-SC,0000
-OL,1,                                        
-OL,2,  ’x,$| |('s=  h4h4`<                  
-OL,3,  ’+,$bs?(/,,*%"-.%/+,                  
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
-OL,7,                                        
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
-FL,537,100,100,100,0,530
+DS,inserter
+SP,N:\git-repos\teletext\P536.tti
+CT,8,T
+PN,53601
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,                                     1/2
+OL,2, Q`ppp,                                 
+OL,3,Qj!j jp4`d                              
+OL,4,  Q5 6j`=a                              
+OL,5, Q## !"!#! Tp            p              
+OL,6,    Th&! `06    0 "    8j 0             
+OL,7,    T:  7k`'{%6`'a%"=;"7;k!             
+OL,8,   T,-,&-+*,+,5" *$* -!%%*&             
+OL,9,           T`&                          
+OL,11,C]DCan you escape from The Labyrinth?   
+OL,13, You stand at the entrance to the famous
+OL,14, Labyrinth.  Many have entered, few have
+OL,15, returned.                              
+OL,17, Six rooms interconnected by twisting,  
+OL,18, winding, turning, passages.            
+OL,20, Can you make it back to the entrance?  
+OL,22, PressAREDGif you dare.                 
+OL,23,D]C                     CHall of FameH> 
+OL,24,A**ENTER** BWeather CGallery FBamboozle 
+FL,53a,531,532,150,100,100
+PN,53602
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,                                     2/2
+OL,2, Q`ppp,                                 
+OL,3,Qj!j jp4`d                              
+OL,4,  Q5 6j`=a                              
+OL,5, Q## !"!#! Tp            p              
+OL,6,    Th&! `06    0 "    8j 0             
+OL,7,    T:  7k`'{%6`'a%"=;"7;k!             
+OL,8,   T,-,&-+*,+,5" *$* -!%%*&             
+OL,9,           T`&                          
+OL,11,ME            Hall of Fame              
+OL,14, No heroes have yet returned alive.     
+OL,23,D]C                     C   CEntranceH> 
+OL,24,A**ENTER** BWeather CGallery FBamboozle 
+FL,53a,531,532,150,100,100
