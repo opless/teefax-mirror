@@ -1,13 +1,8 @@
 DE,gradient test
-DS,inserter
-SP,J:\peter\TeletextFest2016\P756.tti
 CT,8,T
-PN,75600
+PN,11400
 SC,0000
 PS,8000
-RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,26,B{aN|AN}aM~AMaLhALM`OCCCCCC
 OL,1,             Gradient Test.             
 OL,2,            FGradient Test.             
 OL,3,             Gradient Test.             
@@ -32,3 +27,7 @@ OL,21,            DGradient Test.
 OL,22,            EGradient Test.             
 OL,23,            FGradient Test.             
 OL,24,            @Gradient Test.             
+OL,28,@@@|G@@B@D@F@H@J@L@~O@A@C@E@G@I@K@M@O@l
+OL,26,@idFM`OjALkAHM@OlaLmaHM`NnAMoAIM@NpaMqaI
+OL,26,AM`MrANsAJM@MtaNuaJM`LvAOwAKM@LxaM@@zAO
+OL,26,B{aN|AN}aM~AMaLhALM`OCCCCCC
