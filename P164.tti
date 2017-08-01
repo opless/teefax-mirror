@@ -1,7 +1,8 @@
-DE,LA on the QT Page 164/0
+DE,LA on the QT Page 164/1
 DS,inserter
-PN,16400
-SC,0000
+CT,20,T
+PN,16401
+SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -28,5 +29,37 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24,AIndexB    SportC     ChartsF    Weather
-FL,160,162,163,165,100,100
+OL,24,                                        
+FL,0,0,0,0,100,100
+DE,LA on the QT Page 164/2
+DS,inserter
+PN,16402
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,S ||4||4|h||h||h4||4||4ht t thh ~t0   
+OL,2,S /l4~5j5j5j5j5h4j55jj |||"~0  
+OL,3,S //%/  /*%/*%/*%/*%//%*' ' '** ?/o5  
+OL,4,C WITH MARC >>>>>>>>>>>>>>>>>>S uuu%   
+OL,5,FLets Go! Give me 3 full turns. Warm up.
+OL,6,FSpin those legs. Get Up! GET UP! Pump  
+OL,7,Fthose legs. 10.. 9.. 8.. 7.. 6.. 5.. 4.
+OL,8,F3. 2. 1! 1st position, 3rd position,   
+OL,9,F1st position, 3rd position,...1st      
+OL,10,Fposition, 3rd position. Have a seat.   
+OL,11,FGive me two turns right. Hydrate. Take 
+OL,12,FInventory. Decrease 3 full             
+OL,13,Fturns. Jack hammer those legs - faster-
+OL,14,FFASTER! Stay right there. Hips are back
+OL,15,Fnow. Have a seat. Push your heels down.
+OL,16,FTempo. Add a quarter turn. Tempo. Add 2
+OL,17,Ffull turns. 10.. 9.. 8.. 7.. 6..       
+OL,18,F5.4.3.2.1 Take a seat...               
+OL,19,F10 up, 9 back, 8 up, 9 back, 7 up, 6   
+OL,20,Fback, 5 up, 4 back, 3 up, 2 back, 1 up,
+OL,21,Fhave a seat. Take inventory. Are you   
+OL,22,Fwith me? Add a full turn, push your    
+OL,23,Fheels down. Up 10.. 9.. 8.. 7.. 6.. 5..
+OL,24,F4.3.2.1 back, 10.. 9.. 8.. 7.. 6.. 5.. 
+FL,0,0,0,0,100,100
