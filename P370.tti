@@ -1,32 +1,32 @@
-SP,c:\Minited\inserter\ONAIR\P370.tti
-DE,Read back page  20/11/07
+DE,Digitiser - 1 Jan 1993
+DS,inserter
 PN,37000
-CT,99,C
 SC,0000
 PS,8000
-MS,0
-OL,1,ój#3kj#3kj#3k Ñù  îùí<4hhh,$<4hh        
-OL,2,ój $kj $kj 'k Ñùù îùí7kjzjr5w{b{        
-OL,3,ó"###"###"### î//////.--,-,.,,-,////////
-OL,4,Ç RUGBY UNION                           
-OL,5, çHENSON WINS WALES STARTING SPOT  á371 
-OL,6,                                        
-OL,7, ÜDavies named 2009 Lions manager  á372 
-OL,8, ÜGatland will boost Wales - White á373 
-OL,9, ÜHobson signs new Bristol contractá374 
-OL,10,                                        
-OL,11, ÜWhite to bide time for next post á375 
-OL,12, ÜClub coaches to lead Scotland A  á376 
-OL,13, ÜLatest fixturesá377ÜFull tables  á378É
-OL,14,                                        
-OL,15, ÇRUGBY LEAGUE                          
-OL,16, çFORMER LIONS SKIPPER GREGORY DIESá367 
-OL,17,                                        
-OL,18, ÜEkoku ends tenure as GB manager  á368 
-OL,19, ÜWidnes to start on negative scoreá369 
-OL,20, ÜLatest results, fixtures & tablesá379 
-OL,21,                                        
-OL,22,                                        
-OL,23,ÑùÉSPORT ON BBCá358ÉLETTERS & TEXTSá359 
-OL,24,ÅNext page  ÇRegional ÉHeadlines ÜSport 
-FL,371,300,301,300,F,100
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,R?4//    */%j5*/%                    
+OL,2,R55joj5j5/%ojT|l||||||
+OL,3,R55jjj5j5j5/o5./jTpp`0"7x,l
+OL,4,R///!//*/o*/%*/%*/%///%////*/T///o 5orz
+OL,5,T|l(,,R*///T#####################+4 {|||
+OL,6,Tbs3jFNEWS                  371T5` th`
+OL,7,Tt+*/%jBVirtual telly?           T(,l2*
+OL,8,T*/'1~FREVIEW                372T4h 45s
+OL,9,Tq~jj!cBChuck Rock - SNES        T5( $5,
+OL,10,Tsq>j jFREVIEW                373T5b 15s
+OL,11,T,,,'0jBKirby's Dreamland - GB   T5 `45|
+OL,12,T#'+#%jFDATABANK              374T5rs15s
+OL,13,Tptxp4jBWe solve those enigmas   T5(l4u(
+OL,14,T,l2ahFTIPS                  375T5/`}rs
+OL,15,T/$5!jjBDecapattack, Turtles     T 1j#7k
+OL,16,T,$5n2*t`ppppppppppppppppppppppp`x%` 0` 
+OL,17,Tsq+,`<,,,,,,(l2a<,,,,,,,,,,,,,,,,,,(l2p
+OL,18,T0kh'  Q`~  T +~R<048$4l$48$4<08$Ql0T%j
+OL,19,Tqrh~Q,,,'j`<,,TsRu%5e55j 5r$555e5Qx'T5j
+OL,20,T4hrj0   Qj' T x'-$,,,,(|<(,,,,,,,,,,.!z
+OL,21,T%*/$+,,,,,,,(.!((,,,,,,((,*(,* ,,*(,(./
+OL,22,D]GMMIND GAMES..CHESS p378, BRIDGE p379 
+OL,23,D]GMMIND GAMES..CHESS p378, BRIDGE p379 
+OL,24,                                        
+FL,0,0,0,0,100,100
