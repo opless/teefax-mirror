@@ -10,27 +10,27 @@ OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
-OL,5,CMDoctor Who                      P181  
-OL,6,CMDoctor Who                      P181  
-OL,7,F Tue 1st August, 2017                  
-OL,8,G A secret message shown in the TV      
-OL,9,G episode 'The Twin Dilemma' in 1984.   
-OL,10,G                                       
-OL,11,CMBarney Bubbles                  P182  
-OL,12,CMBarney Bubbles                  P182  
-OL,13,F Tue 1st August, 2017                  
-OL,14,G The Months from 'Feasts'.             
-OL,15,G                                       
-OL,16,CMMore Biffo Adverts          P575-576  
-OL,17,CMMore Biffo Adverts          P575-576  
-OL,18,F Tue 1st August, 2017                  
-OL,19,G The latest Biffotarge from            
-OL,20,G www.digitiser2000.com.                
+OL,5,CMThe Very First DIGITISER         P370 
+OL,6,CMThe Very First DIGITISER         P370 
+OL,7,F Mon 7th August, 2017                  
+OL,8,G From 1st Jan 1993 - on the first day  
+OL,9,G Teletext Ltd. took over fromBORACLE   
+OL,10,G on ITV.                               
+OL,11,G                                       
+OL,12,CMThe Final DIGITISER              P175 
+OL,13,CMThe Final DIGITISER              P175 
+OL,14,F Mon 7th August, 2017                  
+OL,15,G From 9th March 2003, with a memorable 
+OL,16,G goodbye appearance from none other    
+OL,17,G thanBTurner the Worm.                 
+OL,18,G                                       
+OL,19,G                                       
+OL,20,G                                       
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A Index   BAbout   CEvents  FBamboozle  
-FL,100,199,800,150,100,100
+OL,24, AFirstDigi  BFinalDigi  CIndex  FIndex 
+FL,370,175,100,100,100,100
 DE,What's New
 DS,inserter
 PN,10102
@@ -42,31 +42,63 @@ OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
-OL,5,CMPAUL DUNNING               P180       
-OL,6,CMPAUL DUNNING               P180       
+OL,5,CMDoctor Who                       P181 
+OL,6,CMDoctor Who                       P181 
+OL,7,F Tue 1st August, 2017                  
+OL,8,G A secret message shown in the TV      
+OL,9,G episode 'The Twin Dilemma' in 1984.   
+OL,10,G                                       
+OL,11,CMBarney Bubbles                   P182 
+OL,12,CMBarney Bubbles                   P182 
+OL,13,F Tue 1st August, 2017                  
+OL,14,G The Months from 'Feasts'.             
+OL,15,G                                       
+OL,16,CMMr.Biffo - Adverts           P575-576 
+OL,17,CMMr.Biffo - Adverts           P575-576 
+OL,18,F Tue 1st August, 2017                  
+OL,19,G The latest in Biffotarge from         
+OL,20,B www.digitiser2000.com.                
+OL,21,G                                       
+OL,22,G                                       
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24, ADr.Who BBarneyBubbles CMr.BiffoFIndex 
+FL,181,182,575,100,100,100
+DE,What's New
+DS,inserter
+PN,10103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,4,                                        
+OL,5,CMPaul Dunning                     P180 
+OL,6,CMPaul Dunning                     P180 
 OL,7,F Fri 28th July, 2017                   
 OL,8,G Some pages of teletexual whimsey.     
 OL,9,G                                       
-OL,10,CMSETI                       P808       
-OL,11,CMSETI                       P808       
+OL,10,CMSETI                             P808 
+OL,11,CMSETI                             P808 
 OL,12,F Mon 1st May, 2017                     
 OL,13,G The Search for Extra-Telextual        
 OL,14,G Intelligence.                         
 OL,15,G                                       
-OL,16,CMTHE KETTLE REVIEW          P183       
-OL,17,CMTHE KETTLE REVIEW          P183       
+OL,16,CMThe Kettle Review                P183 
+OL,17,CMThe Kettle Review                P183 
 OL,18,F Sat 29th April, 2017                  
 OL,19,G Kettle buying advice!                 
 OL,20,G                                       
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A Index   BAbout   CEvents  FBamboozle  
-FL,100,199,800,150,100,100
+OL,24, APaulDunning BSETI CKettleReviewFIndex 
+FL,180,808,183,100,100,100
 DE,What's New
 DS,inserter
-PN,10103
-SC,0003
+PN,10104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -93,12 +125,12 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A Index   BAbout   CEvents  FBamboozle  
-FL,100,199,800,150,100,100
+OL,24, ALookAround1BLookAround2CGLITCH!FIndex 
+FL,170,171,807,100,100,100
 DE,What's New
 DS,inserter
-PN,10104
-SC,0004
+PN,10105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -125,5 +157,5 @@ OL,20,F   Replicas C670F EngineeringC 700
 OL,21,F   Events   C800F WiganboozleC 806     
 OL,22,F                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A Index   BAbout   CEvents  FBamboozle  
-FL,100,199,800,150,100,100
+OL,24, AMr.Biffo    BNOW!    CJetFax   FIndex 
+FL,571,421,222,100,100,100
