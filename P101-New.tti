@@ -29,8 +29,8 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AFirstDigi  BFinalDigi  CIndex  FIndex 
-FL,370,175,100,100,100,100
+OL,24, AFirstDigi BFinalDigi CDr.Who FBubbles 
+FL,370,175,181,182,100,100
 DE,What's New
 DS,inserter
 PN,10102
@@ -61,8 +61,8 @@ OL,20,B www.digitiser2000.com.
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, ADr.Who BBarneyBubbles CMr.BiffoFIndex 
-FL,181,182,575,100,100,100
+OL,24, AFirstDigi BFinalDigi CDr.Who FBubbles 
+FL,370,175,181,182,100,100
 DE,What's New
 DS,inserter
 PN,10103
@@ -93,8 +93,8 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, APaulDunning BSETI CKettleReviewFIndex 
-FL,180,808,183,100,100,100
+OL,24, AFirstDigi BFinalDigi CDr.Who FBubbles 
+FL,370,175,181,182,100,100
 DE,What's New
 DS,inserter
 PN,10104
@@ -125,8 +125,8 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, ALookAround1BLookAround2CGLITCH!FIndex 
-FL,170,171,807,100,100,100
+OL,24, AFirstDigi BFinalDigi CDr.Who FBubbles 
+FL,370,175,181,182,100,100
 DE,What's New
 DS,inserter
 PN,10105
@@ -157,5 +157,5 @@ OL,20,F   Replicas C670F EngineeringC 700
 OL,21,F   Events   C800F WiganboozleC 806     
 OL,22,F                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AMr.Biffo    BNOW!    CJetFax   FIndex 
-FL,571,421,222,100,100,100
+OL,24, AFirstDigi BFinalDigi CDr.Who FBubbles 
+FL,370,175,181,182,100,100
