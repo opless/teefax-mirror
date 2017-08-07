@@ -19,7 +19,7 @@ OL,10,BMC  H   O G+F78FO G--> E55ECOG+F52FH O
 OL,11,BMC  H   O G+F78FO G--> E55ECOG+F52FH O 
 OL,12,B  55 104 6      F2          E2     F2  
 OL,13,F                                       
-OL,14,XF  BFAT      FAIR       EGAS    FWATER 
+OL,14,F BXFAT     FXAIR      EXGAS   FXWATER  
 OL,15,                                        
 OL,16,                                        
 OL,17,                                        
