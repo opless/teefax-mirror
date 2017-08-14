@@ -3,10 +3,9 @@ CT,8,T
 PS,C000
 PN,75401
 SC,0001
-OL,0,                                        
 FL,753,753,753,753,8ff,750
 OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
-OL,2, Packet 28/0 colour mapping tests (1/5) 
+OL,2, Packet 28/0 colour mapping tests (1/6) 
 OL,4, Foreground colour bars CLUT 0          
 OL,6,PQRSTUVW
 OL,7,PQRSTUVW
@@ -19,10 +18,9 @@ OL,16, Default screen colour 00
 OL,18, Default row colour 00                  
 PN,75402
 SC,0002
-OL,0,                                        
 FL,753,753,753,753,8ff,750
 OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM~I
-OL,2, Packet 28/0 colour mapping tests (2/5) 
+OL,2, Packet 28/0 colour mapping tests (2/6) 
 OL,4, Foreground colour bars CLUT 0          
 OL,6,PQRSTUVW
 OL,7,PQRSTUVW
@@ -35,10 +33,9 @@ OL,16, Default screen colour 08
 OL,18, Default row colour 08                  
 PN,75403
 SC,0003
-OL,0,                                        
 FL,753,753,753,753,8ff,750
 OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM~a
-OL,2, Packet 28/0 colour mapping tests (3/5) 
+OL,2, Packet 28/0 colour mapping tests (3/6) 
 OL,4, Foreground colour bars CLUT 1          
 OL,6,PQRSTUVW
 OL,7,PQRSTUVW
@@ -54,7 +51,7 @@ SC,0004
 OL,0,                                        
 FL,753,753,753,753,8ff,750
 OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM~y
-OL,2, Packet 28/0 colour mapping tests (4/5) 
+OL,2, Packet 28/0 colour mapping tests (4/6) 
 OL,4, Foreground colour bars CLUT 2          
 OL,6,PQRSTUVW
 OL,7,PQRSTUVW
@@ -67,12 +64,26 @@ OL,16, Default screen colour 18
 OL,18, Default row colour 1f                  
 PN,75405
 SC,0005
-OL,0,                                        
+FL,753,753,753,753,8ff,750
+OL,28,D@@|gpO|@O@{@|pC@@@@@\wAG@w]@\p@`HB@H
+OL,2, Packet 28/4 colour mapping test  (5/6) 
+OL,4, Foreground colour bars CLUT 0          
+OL,6,PQRSTUVW
+OL,7,PQRSTUVW
+OL,8,PQRSTUVW
+OL,10, Background colour bars CLUT 1          
+OL,12,    Q]   R]   S]   T]   U]   V]   W]    
+OL,13,    Q]   R]   S]   T]   U]   V]   W]    
+OL,14,    Q]   R]   S]   T]   U]   V]   W]    
+OL,16, Default screen colour 00               
+OL,18, Default row colour 00                  
+PN,75406
+SC,0006
 FL,753,753,753,753,8ff,750
 OL,28,@@@|G@@pC@|peH}cC|x{Wuw]_}_wM@0
 OL,26,@lDFL@LmDIR`LqDFL@LV@LxdIS@MV`JyDIR@MW`J
 OL,26,AzdIS@MV`J
-OL,1,T?/S p<'-43o}r}8t3o|tx||0TkD(5/5)
+OL,1,T?/S p<'-43o}r}8t3o|tx||0TkD(6/6)
 OL,2,TS(lpx|~|2/?o+o3o0T
 OL,3,T|$Spr+}~o};tk4T
 OL,4,T?S`~?}|pW#//#"o}jj7x?/!Tk
