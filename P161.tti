@@ -6,6 +6,38 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV      h||4|||h| h|h||4|||4|||        
+OL,2,T]V      j| 5 j jjz5}|4}4        
+OL,3,T]S      jp0upjpjj#!pp5up        
+OL,4,T]S      "##!###"##"#"#  ###!###        
+OL,5,G           California, Mon 21 Aug, 2017
+OL,6,G                                       
+OL,7,AMonday morning, the sun over the entire
+OL,8,Acontinental U.S. will dim and, in some 
+OL,9,Aplaces, go dark altogether as a total  
+OL,10,Asolar eclipse traverses the country    
+OL,11,Afrom the Pacific coast to the Atlantic 
+OL,12,AOcean.                                 
+OL,13,C                                       
+OL,14,DEclipses, full or partial, happen with 
+OL,15,Dsome regularity - about twice a year,  
+OL,16,Din fact. What makes Monday's so special
+OL,17,Dis that it is the first time in 99     
+OL,18,Dyears a total eclipse has crossed the  
+OL,19,Dwidth of the United States.            
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+DE,LA on the QT Page 161/2
+DS,inserter
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV  |4|    |4,$ h||4         h|        
 OL,2,T]V  }jo555 j  ?*/5?/jo5      
 OL,3,T]S  7js155 jp05jw5s{jj5      
@@ -29,12 +61,12 @@ OL,20,FBattalion Chief Daniel Curry of the Los
 OL,21,FAngeles Fire Department.               
 OL,22,                                        
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/2
+DE,LA on the QT Page 161/3
 DS,inserter
-PN,16102
-SC,0002
+PN,16103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -61,12 +93,12 @@ OL,20,GPolice Department.
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/3
+DE,LA on the QT Page 161/4
 DS,inserter
-PN,16103
-SC,0003
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -93,12 +125,12 @@ OL,20,Baccording to the Los Angeles Department
 OL,21,Bof Water and Power. It was unknown when
 OL,22,Bpower would be fully restored.         
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/4
+DE,LA on the QT Page 161/5
 DS,inserter
-PN,16104
-SC,0004
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -125,12 +157,12 @@ OL,20,Fparking lot.
 OL,21,F                                       
 OL,22,FPolice eventually arrived to break up  
 OL,23,Fthe fight.                             
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/5
+DE,LA on the QT Page 161/6
 DS,inserter
-PN,16105
-SC,0005
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -157,12 +189,12 @@ OL,20,Cbecause of the fireworks going off in
 OL,21,Cthe area.                              
 OL,22,C                                       
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/6
+DE,LA on the QT Page 161/7
 DS,inserter
-PN,16106
-SC,0006
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -189,12 +221,12 @@ OL,20,Cexplosives.
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/7
+DE,LA on the QT Page 161/8
 DS,inserter
-PN,16107
-SC,0007
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -221,12 +253,12 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/8
+DE,LA on the QT Page 161/9
 DS,inserter
-PN,16108
-SC,0008
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -253,12 +285,12 @@ OL,20,C"Hey, we got a mayday! We got a
 OL,21,Cmayday!" the pilot said.               
 OL,22,                                        
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/9
+DE,LA on the QT Page 161/10
 DS,inserter
-PN,16109
-SC,0009
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -285,12 +317,12 @@ OL,20,Cthe scene showed the aircraft bursting
 OL,21,Cinto flames and a tall plume of black  
 OL,22,Csmoke rising into the air.             
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/10
+DE,LA on the QT Page 161/11
 DS,inserter
-PN,16110
-SC,0010
+PN,16111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -317,12 +349,12 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/11
+DE,LA on the QT Page 161/12
 DS,inserter
-PN,16111
-SC,0011
+PN,16112
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -349,12 +381,12 @@ OL,20,Ftemperatures above 100 degrees, the
 OL,21,Ffire pushed out of control, jumping to 
 OL,22,Fboth sides of the 14 Freeway and       
 OL,23,Fprompting evacuations.                 
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/12
+DE,LA on the QT Page 161/13
 DS,inserter
-PN,16112
-SC,0012
+PN,16113
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -381,5 +413,5 @@ OL,20,Fattorney's office.
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24,AIndexB    SportC     MoviesF    Weather
+OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
