@@ -6,28 +6,28 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV|||          h|h4      |4            
-OL,2,T]V5jo55|j5 j~5/oj%5?jj5?/  
-OL,3,T]S5js1uz5 jk5{j 5wsjz5s{  
-OL,4,T]S#!#"##!####! "#"!###"# #!###bs{5###  
-OL,5,G             DOWNTOWN, Tue 22 Aug, 2017
-OL,6,G                                       
-OL,7,FHarley-Davidson makes biggest changes  
-OL,8,Fto lineup in decades, seeks to         
-OL,9,F'transcend genders'                    
-OL,10,C                                       
-OL,11,CThe motorcycle giant revealed a        
-OL,12,Cgame-changing 2018 lineup - in line    
-OL,13,Cwith its 115th anniversary and quest to
-OL,14,Cadd two million new Harley riders to   
-OL,15,Cthe roughly 8.5 million total U.S      
-OL,16,Cridership by 2027.                     
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
+OL,1,VVV   |||        h|       (,            
+OL,2,T]V   }4*z?j?jjo5?/jjo5?     
+OL,3,T]S   up`oujujjz5s{jjz55     
+OL,4,T]S   ###"#"#j##"#"##!###"#"##!#!#     
+OL,5,G          WEST HILLS, Wed 20 Sept, 2017
+OL,6,B                                       
+OL,7,BFirefighters responded Wednesday to a  
+OL,8,Bhouse explosion in West Hills that     
+OL,9,Bdamaged at least six homes.            
+OL,10,B                                       
+OL,11,FSplintered debris landed on several    
+OL,12,Fhomes in the immediate vicinity of the 
+OL,13,Fblast. At least five homes suffered    
+OL,14,Fsome level of damage because of the    
+OL,15,Fexplosion. Lots of windows were blown  
+OL,16,Fout.                                   
+OL,17,B                                       
+OL,18,FThe explosion was reported in the 7500 
+OL,19,Fblock of Sale Avenue. The home involved
+OL,20,Fappeared to be a back house or guest   
+OL,21,Fhouse.                                 
+OL,22,B                                       
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
@@ -35,6 +35,102 @@ DE,LA on the QT Page 161/2
 DS,inserter
 PN,16102
 SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV   |||        h|       (,            
+OL,2,T]V   }4*z?j?jjo5?/jjo5?     
+OL,3,T]S   up`oujujjz5s{jjz55     
+OL,4,T]S   ###"#"#j##"#"##!###"#"##!#!#     
+OL,5,G          WEST HILLS, Wed 20 Sept, 2017
+OL,6,B                                       
+OL,7,BNo serious injuries were reported. Two 
+OL,8,Bpeople were treated at the scene.      
+OL,9,B                                       
+OL,10,FFirst Responders saved a small dog and 
+OL,11,Freturned it to a distraught homeowner. 
+OL,12,B                                       
+OL,13,FA large piece of plywood could be seen 
+OL,14,Fabout 100 feet above the ground stuck  
+OL,15,Fin a tree.                             
+OL,16,B                                       
+OL,17,FThe cause of the explosion is under    
+OL,18,Finvestigation but a preliminary        
+OL,19,Fexplanation would appear that gas was  
+OL,20,Finvolved.                              
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+DE,LA on the QT Page 161/3
+DS,inserter
+PN,16103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV        h||4h|h4|||h|h4|||           
+OL,2,T]V        jj5jj5uj0}4           
+OL,3,T]S        jzujz57jj5up           
+OL,4,T]S        "###"##!#!#"#"!###           
+OL,5,G            WESTWOOD, Mon 18 Sept, 2017
+OL,6,F                                       
+OL,7,FA 3.6 magnitude earthquake struck just 
+OL,8,Fnorth of Westwood Monday night,        
+OL,9,Faccording to the USGS.                 
+OL,10,C                                       
+OL,11,CThe quake was centered about 4 miles   
+OL,12,Cnorth of Westwood, with a depth of     
+OL,13,Cabout 6 miles. It hit at about 11:20   
+OL,14,Cp.m.                                   
+OL,15,C                                       
+OL,16,CThere were no immediate reports of     
+OL,17,Cdamage, but people throughout the Los  
+OL,18,CAngeles area reported feeling a strong 
+OL,19,Cshaking.                               
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+DE,LA on the QT Page 161/4
+DS,inserter
+PN,16104
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV|||          h|h4      |4            
+OL,2,T]V5jo55|j5 j~5/oj%5?jj5?/  
+OL,3,T]S5js1uz5 jk5{j 5wsjz5s{  
+OL,4,T]S#!#"##!####! "#"!###"# #!###bs{5###  
+OL,5,G DOWNTOWN Los Angeles, Tue 22 Aug, 2017
+OL,6,G                                       
+OL,7,FAt the Harley-Davidson Annual Dealer   
+OL,8,FMeeting, held this year at the         
+OL,9,FConvention Center,  Harley annouced the
+OL,10,Fbiggest change to its lineup of        
+OL,11,FMotorcycles for decades, seeking to    
+OL,12,F'transcend genders'.                   
+OL,13,C                                       
+OL,14,CThe motorcycle giant revealed a        
+OL,15,Cgame-changing 2018 lineup - in line    
+OL,16,Cwith its 115th anniversary and quest to
+OL,17,Cadd two million new Harley riders to   
+OL,18,Cthe roughly 8.5 million total U.S      
+OL,19,Cridership by 2027.                     
+OL,20,C                                       
+OL,21,CThe 2018 models have a new frame and   
+OL,22,Care up to 35 pounds lighter than the   
+OL,23,C2017 models.                           
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+DE,LA on the QT Page 161/5
+DS,inserter
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -63,10 +159,10 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/3
+DE,LA on the QT Page 161/6
 DS,inserter
-PN,16103
-SC,0003
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -95,10 +191,10 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/4
+DE,LA on the QT Page 161/7
 DS,inserter
-PN,16104
-SC,0004
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -127,10 +223,10 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/5
+DE,LA on the QT Page 161/8
 DS,inserter
-PN,16105
-SC,0005
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -159,10 +255,10 @@ OL,22,Bpower would be fully restored.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/6
+DE,LA on the QT Page 161/9
 DS,inserter
-PN,16106
-SC,0006
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -191,10 +287,10 @@ OL,22,FPolice eventually arrived to break up
 OL,23,Fthe fight.                             
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/7
+DE,LA on the QT Page 161/10
 DS,inserter
-PN,16107
-SC,0007
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -223,10 +319,10 @@ OL,22,C
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/8
+DE,LA on the QT Page 161/11
 DS,inserter
-PN,16108
-SC,0008
+PN,16111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -255,10 +351,10 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/9
+DE,LA on the QT Page 161/12
 DS,inserter
-PN,16109
-SC,0009
+PN,16112
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -287,10 +383,10 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/10
+DE,LA on the QT Page 161/13
 DS,inserter
-PN,16110
-SC,0010
+PN,16113
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -319,10 +415,10 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/11
+DE,LA on the QT Page 161/14
 DS,inserter
-PN,16111
-SC,0011
+PN,16114
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -351,10 +447,10 @@ OL,22,Csmoke rising into the air.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/12
+DE,LA on the QT Page 161/15
 DS,inserter
-PN,16112
-SC,0012
+PN,16115
+SC,0015
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -383,10 +479,10 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/13
+DE,LA on the QT Page 161/16
 DS,inserter
-PN,16113
-SC,0013
+PN,16116
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -415,10 +511,10 @@ OL,22,Fboth sides of the 14 Freeway and
 OL,23,Fprompting evacuations.                 
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/14
+DE,LA on the QT Page 161/17
 DS,inserter
-PN,16114
-SC,0014
+PN,16117
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
