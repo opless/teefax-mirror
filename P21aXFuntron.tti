@@ -1,6 +1,6 @@
 DE,This page should not exist
 DS,inserter
-SP,J:\peter\teefax\P21aFuntron.tti
+SP,J:\peter\teefax\P21aXFuntron.tti
 CT,8,T
 PN,21a00
 SC,0000
@@ -17,7 +17,7 @@ OL,7,W                       `~}|3c3### bq {
 OL,8,W                       *///% #-,,'#  //
 OL,10,MThe dragon did not eat your snack,     
 OL,12,Myou must turn back. Yeah, yeah.        
-OL,16, Press any colour to start again        
+OL,16,MPress any colour to start again        
 OL,21,   G                                    
 OL,24,   AXXXX     BXXXX    CXXXX    FXXXX    
 FL,214,214,214,214,8ff,8ff
