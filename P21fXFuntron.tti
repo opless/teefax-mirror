@@ -2,7 +2,7 @@ DE,This page should not exist
 DS,inserter
 SP,J:\peter\teefax\P21fXFuntron.tti
 CT,8,T
-PN,21e00
+PN,21f00
 SC,0000
 PS,8000
 RE,0
@@ -27,4 +27,4 @@ OL,21, or responding to control signals. There
 OL,22, is also evidence that messages are     
 OL,23, being intercepted.                     
 OL,24,A Lollies  BOranges  CChips  FBuns      
-FL,21a,21a,21a,21f,8ff,8ff
+FL,570,570,570,570,8ff,8ff
