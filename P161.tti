@@ -6,6 +6,36 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV|||4        h|||          |4 h|      
+OL,2,T]V x?!?jo5  j j%?jj5?jjo5  
+OL,3,T]S~wp0ujz5  j j ujz5ujjs1  
+OL,4,T]S###!###"##!  "# "# ###"##!###"#"##!  
+OL,5,G                LA ZOO, Sat 7 Oct, 2017
+OL,6,B                                       
+OL,7,CSuspicious package found at Zoo.       
+OL,8,B                                       
+OL,9,FAround 9:30 am Zoo security found a    
+OL,10,Fduct tape-covered box and called the   
+OL,11,FLAPD. Officers found an 18 x 18 x 12   
+OL,12,Fbox with air holes, and they called in 
+OL,13,Fthe bomb squad, zoo officials said.    
+OL,14,B                                       
+OL,15,BZoo visitors and staff were asked to   
+OL,16,Bmove back and relocate their cars to   
+OL,17,Bthe zoo's far north parking lot.       
+OL,18,B                                       
+OL,19,FEventially the bomb squad determined   
+OL,20,Fthe box contained a live adult opossum 
+OL,21,Fwho is now residing at the Zoo's health
+OL,22,Fcenter.                                
+OL,23,                                        
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV|||h|       h|            |||h|h||4  
 OL,2,T]Vuj*/55jo5?jj5   u?jjz5  
 OL,3,T]S7#jjw5ujz5ujz5p`05jj#!  
@@ -31,10 +61,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/2
-DS,inserter
-PN,16102
-SC,0002
+PN,16103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -63,10 +91,8 @@ OL,22,B
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/3
-DS,inserter
-PN,16103
-SC,0003
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -95,10 +121,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/4
-DS,inserter
-PN,16104
-SC,0004
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -127,10 +151,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/5
-DS,inserter
-PN,16105
-SC,0005
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -159,10 +181,8 @@ OL,22,Care up to 35 pounds lighter than the
 OL,23,C2017 models.                           
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/6
-DS,inserter
-PN,16106
-SC,0006
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -191,10 +211,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/7
-DS,inserter
-PN,16107
-SC,0007
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -223,10 +241,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/8
-DS,inserter
-PN,16108
-SC,0008
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -255,10 +271,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/9
-DS,inserter
-PN,16109
-SC,0009
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -287,10 +301,8 @@ OL,22,Bpower would be fully restored.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/10
-DS,inserter
-PN,16110
-SC,0010
+PN,16111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -319,10 +331,8 @@ OL,22,FPolice eventually arrived to break up
 OL,23,Fthe fight.                             
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/11
-DS,inserter
-PN,16111
-SC,0011
+PN,16112
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -351,10 +361,8 @@ OL,22,C
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/12
-DS,inserter
-PN,16112
-SC,0012
+PN,16113
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -383,10 +391,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/13
-DS,inserter
-PN,16113
-SC,0013
+PN,16114
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -415,10 +421,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/14
-DS,inserter
-PN,16114
-SC,0014
+PN,16115
+SC,0015
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -447,10 +451,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/15
-DS,inserter
-PN,16115
-SC,0015
+PN,16116
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -479,10 +481,8 @@ OL,22,Csmoke rising into the air.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/16
-DS,inserter
-PN,16116
-SC,0016
+PN,16117
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -511,10 +511,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/17
-DS,inserter
-PN,16117
-SC,0017
+PN,16118
+SC,0018
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -543,10 +541,8 @@ OL,22,Fboth sides of the 14 Freeway and
 OL,23,Fprompting evacuations.                 
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 161/18
-DS,inserter
-PN,16118
-SC,0018
+PN,16119
+SC,0019
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
