@@ -14,8 +14,9 @@ OL,10, Background colour bars CLUT 0
 OL,12,    Q]   R]   S]   T]   U]   V]   W]    
 OL,13,    Q]   R]   S]   T]   U]   V]   W]    
 OL,14,    Q]   R]   S]   T]   U]   V]   W]    
-OL,16, Default screen colour 00               
-OL,18, Default row colour 00                  
+OL,16, Default screen colour CLUT0:0          
+OL,18, Default row colour CLUT0:0             
+OL,20, Black background substitution off      
 PN,75402
 SC,0002
 FL,753,753,753,753,8ff,750
@@ -29,12 +30,13 @@ OL,10, Background colour bars CLUT 1
 OL,12,    Q]   R]   S]   T]   U]   V]   W]    
 OL,13,    Q]   R]   S]   T]   U]   V]   W]    
 OL,14,    Q]   R]   S]   T]   U]   V]   W]    
-OL,16, Default screen colour 08               
-OL,18, Default row colour 08                  
+OL,16, Default screen colour CLUT1:0          
+OL,18, Default row colour CLUT1:0             
+OL,20, Black background substitution off      
 PN,75403
 SC,0003
 FL,753,753,753,753,8ff,750
-OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM~a
+OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_w}}g
 OL,2, Packet 28/0 colour mapping tests (3/6) 
 OL,4, Foreground colour bars CLUT 1          
 OL,6,PQRSTUVW
@@ -44,13 +46,14 @@ OL,10, Background colour bars CLUT 2
 OL,12,    Q]   R]   S]   T]   U]   V]   W]    
 OL,13,    Q]   R]   S]   T]   U]   V]   W]    
 OL,14,    Q]   R]   S]   T]   U]   V]   W]    
-OL,16, Default screen colour 17               
-OL,18, Default row colour 0f                  
+OL,16, Default screen colour CLUT2:7          
+OL,18, Default row colour CLUT3:7             
+OL,20, Black background substitution on       
 PN,75404
 SC,0004
 OL,0,                                        
 FL,753,753,753,753,8ff,750
-OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_wM~y
+OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_w}{y
 OL,2, Packet 28/0 colour mapping tests (4/6) 
 OL,4, Foreground colour bars CLUT 2          
 OL,6,PQRSTUVW
@@ -60,23 +63,25 @@ OL,10, Background colour bars CLUT 3
 OL,12,    Q]   R]   S]   T]   U]   V]   W]    
 OL,13,    Q]   R]   S]   T]   U]   V]   W]    
 OL,14,    Q]   R]   S]   T]   U]   V]   W]    
-OL,16, Default screen colour 18               
-OL,18, Default row colour 1f                  
+OL,16, Default screen colour CLUT1:7          
+OL,18, Default row colour CLUT1:7             
+OL,20, Black background substitution off      
 PN,75405
 SC,0005
 FL,753,753,753,753,8ff,750
-OL,28,D@@|gpO|@O@{@|pC@@@@@\wAG@w]@\p@`HB@H
-OL,2, Packet 28/4 colour mapping test  (5/6) 
-OL,4, Foreground colour bars CLUT 0          
+OL,28,D@@|gpO|CO@{@|pC@@@@@\wAG@w]@\pAp]G@H
+OL,2, Packet 28/4 level 3.5 remapping  (5/6) 
+OL,4, Foreground colour bars CLUT 0 reversed 
 OL,6,PQRSTUVW
 OL,7,PQRSTUVW
 OL,8,PQRSTUVW
-OL,10, Background colour bars CLUT 1          
+OL,10, Background colour bars CLUT 1 reversed 
 OL,12,    Q]   R]   S]   T]   U]   V]   W]    
 OL,13,    Q]   R]   S]   T]   U]   V]   W]    
 OL,14,    Q]   R]   S]   T]   U]   V]   W]    
 OL,16, Default screen colour 00               
 OL,18, Default row colour 00                  
+OL,20, Black background substitution off      
 PN,75406
 SC,0006
 FL,753,753,753,753,8ff,750
