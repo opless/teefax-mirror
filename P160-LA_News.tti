@@ -1,32 +1,30 @@
-DE,LA on the QT Page 160/0
-DS,inserter
 PN,16000
 SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV|4 |||           |4h|       ||| |||4 
-OL,2,Q]V5 u  ?jo5 *?jo5?  5  5  
-OL,3,Q]Su07  ujj5  5jj5ws  u0 5  
-OL,4,Q]S##!#!#  ###"#"!  #!"#"!###  ###! #!  
+OL,1,VVV|4 x|t           |4h|       x|t |||4 
+OL,2,T]V5 u  ~?}jo4 *?jo4~?}  5  5  
+OL,3,T]Su07  ujj5  5jj5ws  u0 5  
+OL,4,T]S##!#!#  "#!"#"!  #!"#"!"#!  "#"! #!  
 OL,5,GOff the Record, On the QT, Hush Hush...
 OL,6,CFrom Teefax's Los Angeles Correspondent
-OL,7,G                                       
-OL,8,G       Updated: Fri 29th September 2017
+OL,7,B```````````````````````````````````````
+OL,8,G    Updated: Fri 29th September 2017   
 OL,9,B```````````````````````````````````````
-OL,10,C News.............................F161 
-OL,11,B Sport............................A162 
-OL,12,C Movies...........................F163 
-OL,13,B Pop Charts.......................A163 
-OL,14,C TV Guide.........................F163 
-OL,15,B Fitness..........................A164 
-OL,16,C Weather..........................F165 
-OL,17,B Tiki Talk........................A166 
-OL,18,C Storm Eye........................F167 
-OL,19,B Ask Harley.......................A168 
-OL,20,C Quiz.............................F169 
-OL,21,B```````````````````````````````````````
-OL,22,F                                       
-OL,23,                                        
+OL,10,C               News...............E161 
+OL,11,B              FSport..............A162 
+OL,12,C               Movies.............E163 
+OL,13,B              FPop Charts.........A163 
+OL,14,R  `<~''o|p    CTV Guide...........E163 
+OL,15,R  # xl?|r}$  FFitness............A164 
+OL,16,R   ~+"QxR{6oq CWeather............E165 
+OL,17,R  z"Q z%Rn%&} FTiki Talk..........A166 
+OL,18,R    Qh?Rr7 ": CStorm Eye..........E167 
+OL,19,R    Q%R>     FAsk Harley.........A168 
+OL,20,R  Q j        CQuiz...............E169 
+OL,21,C] Q`7V  #####///]W$   , (  $ p $( $ $ 
+OL,22,C] Qz5T ,|p||,  V   ###///////////////#
+OL,23,C]T #^////#{'ot                        
 OL,24, ANews    BSport    CMovies    FWeather 
 FL,161,162,163,165,100,100
