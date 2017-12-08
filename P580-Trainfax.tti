@@ -1,7 +1,7 @@
 PS,C000
 CT,12,T
 DE,APT-E
-PN,50501
+PN,58001
 SC,0001
 OL,28,@@@|gPHt_PYbw@X_AEr^w}Ls_w}ww]_}_wMDv
 OL,1,Vfffffffffffffffffffffffffffffffffffffff
@@ -29,7 +29,7 @@ OL,22,W8888999999999999999999999]D@ APT-EW^\9
 OL,23,Wfffffffffffffffffffffffffgggggggggggggf
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,Deltic
-PN,50502
+PN,58002
 SC,0002
 OL,28,@@@|g@@rF@ap{@PWA@vOs|Ls_w}ww]_}_wMDv
 OL,1,V
@@ -58,7 +58,7 @@ OL,23,W    pp,,&#!      `p,$#      R   p|~
 OL,24,W,,##         `8,#!      R   px~
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,Class 91
-PN,50503
+PN,58003
 SC,0003
 OL,28,@@@|g@@pC`]pw@pZA`vo{~Ls_w}ww]_}_wM@p
 OL,1,V
@@ -87,7 +87,7 @@ OL,23,W       V  #! `0        V            R##
 OL,24,G             V "!(, p0  V              
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,Class 37
-PN,50504
+PN,58004
 SC,0004
 OL,28,@@@|g@@`C@|w{`\[A`Yfn{Ls_w}ww]_}_wM@t
 OL,1,T 
@@ -116,7 +116,7 @@ OL,23,W   Z       "       `
 OL,24,W   Z              "!                   
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,Class 52
-PN,50505
+PN,58005
 SC,0005
 OL,28,@@@|g@DBB`]pw@PYA@rMs|Ls_w}ww]_}_wMDv
 OL,26,@vdDIl@IiXJIaNIZOiZPL@
@@ -146,7 +146,7 @@ OL,23,R?//###W0   <  (    `)& "    Rpx|
 OL,24,W pp,,&#!      pp,,"!    R`p|~
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,A4
-PN,50506
+PN,58006
 SC,0006
 OL,28,@@@|gPDq_`]`jCL^APvOs|Ls_w}ww]_}_wMDv
 OL,1,V
@@ -175,7 +175,7 @@ OL,23,VZp(,$##         WZ"d0V !RY    `p|~
 OL,24,V            Z`p(,"#RY    `p||
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,Class 156
-PN,50507
+PN,58007
 SC,0007
 OL,28,@@@|g@DRB@ep{SHZA`yLs_w}ww]_}_wMDv
 OL,1,V?////////o
@@ -204,7 +204,7 @@ OL,23,WZ    "!       ` Y S"/o~/'#R "##//
 OL,24,WZ            ,!                        
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,Class 105
-PN,50508
+PN,58008
 SC,0008
 OL,28,@@@|g@@pOpTpwRUPA@{ojyLs_w}ww]_}_wM@t
 OL,1,V
@@ -233,7 +233,7 @@ OL,23,T}t0WZ  #  ",  !
 OL,24,T}t0WZ                      
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,Class 08
-PN,50509
+PN,58009
 SC,0009
 OL,28,@@@|g@@pB@|WsBpZA`]wn{Ls_w}ww]_}_wM@p
 OL,1,W
@@ -262,7 +262,7 @@ OL,23,V
 OL,24,V
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,BR Standard Class 9F
-PN,50510
+PN,58010
 SC,0010
 OL,1,WZ                                      
 OL,2,WZ                                      
@@ -290,7 +290,7 @@ OL,23,WZ?//ss||
 OL,24,WZy|~
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,New Measurement Train
-PN,50511
+PN,58011
 SC,0011
 OL,28,@@@|g@@PCPUu{@\_A`z_fyLs_w}ww]_}_wM@p
 OL,1,V
@@ -319,7 +319,7 @@ OL,23,R||ss//||ss;//
 OL,24,R||ss//|
 FL,8ff,8ff,8ff,8ff,8ff,500
 DE,Class 27
-PN,50512
+PN,58012
 SC,0012
 OL,28,@@@|g@@PB@|w{@TZA@rm{~Ls_w}ww]_}_wM@t
 OL,1,V//###+/

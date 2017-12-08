@@ -1,12 +1,8 @@
 DE,Art Index
-DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Art Output\P500-Art.tti
-CT,10,C
+PS,C000
 PN,50000
 SC,0000
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,1,                  Qeuaf.&////}|t3/td"0
 OL,2,Qs5s5k7jws )7`W pp|||p0Tp0Qpppx|
 OL,3,Q/////// %/+$*%(,/ `5hWhTzQj
@@ -29,6 +25,5 @@ OL,19,         BenFAA560    WTzQh7Wz~}zu~
 OL,20,                      Wj7T7Q7Wz
 OL,21,      MR BIFFOA570    W"TjQx7Wz
 OL,22,                       W*?T7Q7Wz/##+'#
-OL,23,                       DsT>Q>Wz'Qp|}~
-OL,24,A        Index 100     Dh Q>W~}tQ(l||||
-FL,100,200,670,800,0,100
+OL,23,    "TRAINFAX"A580     DsT>Q>Wz'Qp|}~
+OL,24,                       Dh Q>W~}tQ(l||||
