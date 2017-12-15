@@ -1,6 +1,8 @@
 DE,Christmas Gallery
-PN,89800
-SC,0000
+DS,inserter
+CT,20,T
+PN,89801
+SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -27,5 +29,185 @@ OL,20,Uv'$S!*|p"+?/V`}S+u  U      `~t
 OL,21,U'! S    "o|'atV+'S~0j?=U       #+?! 
 OL,22,S           #-|?!   ovf +v$U           
 OL,23,S                     #!                
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89802
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T]W  $    4         ($           ,      
+OL,2,T]W      55                (          , 
+OL,3,T]W($    uuuu5               ,      ,   
+OL,4,T]W      55%%%                          
+OL,5,T]W      55    ($                       
+OL,6,T]W       5        Z`p8&###)pp   (      
+OL,7,T]W       5        Z5GCEEFAX W5         
+OL,8,T]W       5        ZeGON BBC2W5         
+OL,9,T]W       5        Z*0G AT   W5         
+OL,10,T]W       5        Z "d0G10amW5         
+OL,11,T]W       %        Z   "d,,,&#          
+OL,12,T]W    `x~t0     Z     5Y   pp0       
+OL,13,T]W   hu    Z     5Y x}0     
+OL,14,T]W  h||4       y|~}     
+OL,15,W pppupppppp|wp{upppp
+OL,16,W 
+OL,17,V]DM     CHRISTMAS GREETINGS FROM       
+OL,18,V]DM     CHRISTMAS GREETINGS FROM       
+OL,19,T]W   |||||4    ,||||    (l||||`pppp    
+OL,20,T]W   5h|z5?//55(lj///j | j//    
+OL,21,T]W   5*/o55bs55*/j s{j | j$s(    
+OL,22,T]W   /////%urs5////jp*////jpp    
+OL,23,T]W        #####!   ######    "#####    
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89803
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T ]W$   0        $  $   T^\_??o~w
+OL,2,T ]W           $      T^\_?/%}aq?
+OL,3,T ]W0    "   (    $    T^\_1!+/o{
+OL,4,T ]W   (    (       $  T^\_?   `xw
+OL,5,T ///o/'  `~?o
+OL,6,T ?!    /'        "cx,/o
+OL,7,T 7pp    "/?//sy0          `p|
+OL,8,T }~}     # z}  `||||||~o
+OL,9,T ?'!b5      ~? p
+OL,10,T }  "i0     "?`~]Wh7}jw=hw}h7-j5jw
+OL,11,T 5    5      +/k%~]W"-'*%/*%/"-'*-*-
+OL,12,T u0   5      `x|
+OL,13,T !-,,.!  `px~]Wjp5w{js5w{jp5  
+OL,14,T ?}tppp|<o]U* %%**  % (,%  
+OL,15,T w~]W7!uzj{05w1k!775w{js1  
+OL,16,T //w]U-$%** %%,%* %%%%*(,%  
+OL,17,T   " "+! "o]W(|||||T^\_?//?///
+OL,18,W "" () `aT~?/]Q|||h|T^\_wW00  ```
+OL,19,W "" ""   T"/}h]Q|4|||T^\_W00  ```
+OL,20,Q                  |||h|                
+OL,21,W t             
+OL,22,W }0           
+OL,23,W t          
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89804
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W   7jzj;jj1k!775w5w  71w%wj1k!57571w   
+OL,2,T]W -*****(%* %%%%%.  -%'%-*$* %%%-%.   
+OL,3,T]G              FROM BBC               
+OL,4,V       |,,|   (l,,|   (l,,|            
+OL,5,V        j#sj {j#sj 1j#7k5       
+OL,6,V       psj ~jpsj ~jpuj!0k5       
+OL,7, Q      `pV(.,,/   (.,//   (.,-.%       
+OL,8, Q     x}                             
+OL,9, Q   `~/                             
+OL,10, Q  h!W5           Sj############k
+OL,11, W  5              Sj            jo
+OL,12, S}|||4 GZZZ          Sj Q|$  S<,,llj
+OL,13, S               SjjW,GzzS5( joj{
+OL,14,S^        V|4    SjjQt  Suppzj
+OL,15,S^Q}t      Q5    Sjj/Q|~ Sj
+OL,16,S^QW5  Vz0    Sjjhj5 55jjj
+OL,17,S^o  k#k!   Sjppppppppppppz
+OL,18,S^j _* *Q` Sj
+OL,19,S^*///////QWQ~ S |||||||||||||||
+OL,20,S^QWQ S 5 4         4 j
+OL,21,S^  h h 5 5 5         5 j
+OL,22,S^  j j 5 % !         ! *
+OL,23,                                        
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89805
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W    ~5`} ~} ~4  }     
+OL,2,W   j5o555} }    
+OL,3,S    5S5 S5    o    
+OL,4,S    pp"%S W"S           
+OL,5,S    W"S WbS           
+OL,6,S    pp  S W S    pp     
+OL,7,S      S W S        
+OL,8,   W  
+OL,9,Q ]Wp0p5  5j5j  j   
+OL,10,Q ]W5555 (bs   
+OL,11,Q ]W5 5  5j5j  j#  
+OL,12,   W  
+OL,13,                                        
+OL,14,                        BBECAUSE THE    
+OL,15,   BWHY HASN'T IT       BSNOWMAN'S      
+OL,16,   BSNOWED TODAY?       BFLAKED OUT!  W0
+OL,17,                        W0     GZZZZZ W5
+OL,18,W             W         W5 pppppppp x`05
+OL,19,W  j{5F      W s5    Wu~*//%5
+OL,20,W  jw1 FI don'tW0s5`   W*///5
+OL,21,V   Fknow  V o?   W5    5
+OL,22,V  o5        V  5    W5             5
+OL,23,V  j0u        Q `5z     W%             %
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89806
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,MFMerry Christmas and a Happy New Year  
+OL,2,MFMerry Christmas and a Happy New Year  
+OL,3,                   *                    
+OL,4,                 !BXG!                  
+OL,5,                !BXXXG!                 
+OL,6,               !BXXXXXG!                
+OL,7,              !BXXXXXXXG!               
+OL,8,             !BXXXXXXXXXG!              
+OL,9,            !BXXXXXXXXXXXG!             
+OL,10,           !BXXXXXXXXXXXXXG!            
+OL,11,          !BXXXXXXXXXXXXXXXG!           
+OL,12,         !BXXXXXXXXXXXXXXXXXG!          
+OL,13,        !BXXXXXXXXXXXXXXXXXXXG!         
+OL,14,       !BXXXXXXXXXXXXXXXXXXXXXG!        
+OL,15,      !BXXXXXXXXXXXXXXXXXXXXXXXG!       
+OL,16,                 A***                   
+OL,17,               A*******                 
+OL,18,                A*****                  
+OL,19,                 A***                   
+OL,20,                 A***                   
+OL,21,                                        
+OL,22,MFMore CEEFAX in vision on BBC2 at 1000 
+OL,23,MFMore CEEFAX in vision on BBC2 at 1000 
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89807
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T]Q                 Q `'`'        
+OL,2,T]Q                 Q "a juppp      
+OL,3,T]V775<4<h$44       Q  *%(////5     
+OL,4,T]R555w15j -5       V    w  wQ"?      
+OL,5,T]Q                 Q     *%   w!      
+OL,6,T]V7!=4<bh,j$<<4,4<$W    3cQ~/a       
+OL,7,T]Ru0555jb{j0555w5s5W    +'Q}0     
+OL,8,T]Q                 W     +'Q     
+OL,9,T]Vz1<hlhll         Q      pu    
+OL,10,T]Rj 5jzjjj         Q      ////    
+OL,11,T]S            j7cs5pprk#s5pppQSpppp  
+OL,12,T]S            j5*/55(~j .55(~QSu*`  
+OL,13,T]S            "###qur{"#cquzQSuzp  
+OL,14,T]Q                      pppp0W       
+OL,15,T]Q                    `~uh4 
+OL,16,T]Q                  `~% 
+OL,17,T]C   CEEFAX . THE BRITISH BROADCASTING 
+OL,18,T]C      CORPORATION'S TELETEXT SERVICE 
+OL,19,T]Q                   `xp~pp0  
+OL,20,T]Q                  `?!  
+OL,21,W]Q                  ~/o?//#/#    
+OL,22,W]Q                 ~/'##/!  ($         
+OL,23,W]Q               (+#                   
 OL,24, A           B           C           F  
 FL,900,900,900,900,100,100
