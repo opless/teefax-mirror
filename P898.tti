@@ -211,3 +211,123 @@ OL,22,W]Q                 ~/'##/!  ($
 OL,23,W]Q               (+#                   
 OL,24, A           B           C           F  
 FL,900,900,900,900,100,100
+PN,89808
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W                              `      h 
+OL,2,W $  `|0  "  !  du$     (=    rnf0      
+OL,3,W    "/!   p   "9=3  `      0 (k)    "  
+OL,4,W x0   `  *%    !    `|||0        ~}  !
+OL,5,W "   0       "  `~t "0  !    n$  "! ` 
+OL,6,W   `9=q        x?+}x5!`              
+OL,7,W $  &7$  n$  `~'  "ou j4     0 "     
+OL,8,W            x?! xt0 +}z5   `9=q      
+OL,9,W  xt  `   `~'  "3#'  "o0"  &7$  4   
+OL,10,W  +'     h?!   `}pt    +}       h=   
+OL,11,W     x0   #0  p0    `x0  "! `t   hgd(0 
+OL,12,W     #!   `5 ,/-l (,n/-4    "#   :zb ! 
+OL,13,W  $ 0  (  j5  <$"   *  ! 0 0    8ef   
+OL,14,W    !     ~5  -$    x`4  u !  0 a~g& 0 
+OL,15,W `  x~}tz5 5  h (////$ 5    `oa' " 
+OL,16,W  p~5 5 `~    p  `0   !!$i 0  
+OL,17,W`~u~}p|}|px~}~||0
+OL,18,W##############c###c###c################
+OL,19,W `|0`|0xt  `|0  x0"x} "xt"`|t`~}0`|0 
+OL,20,Wh?/o?/o?o}>/o?//o?/o?m?o?/m?o///o?/o4
+OL,21,W} ~5(n5j5(n}4h~5(n}0`~} ~5`a  $j5(n}
+OL,22,W 5(n5*o5(n5j5(n?!"o 5j  4j=$j
+OL,23,W|}|~}|~}|~}~}|~}~}~|}~||}~}|~
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89809
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T ttt4        |,4 |llh<$|l |l |hZW pp   
+OL,2,T 5         5 jjj5 j j jZW~}  
+OL,3,T j55ttt4    #5 *jj7!#5#5#kZWo?  
+OL,4,T 5555    / % / **-$/ %/ % *ZW ##   
+OL,5,T j555ttt4  h<$|,h<$|,h<4|h         
+OL,6,T 55555  j5  j5  ju5z         
+OL,7,T j555j55  j5 #j7!#j55|m         
+OL,8,T 55o?5  *-$/,*-$/ *%%/*         
+OL,9,T zu5   `p0p``p0`0pp`p0ppp`p0pp
+OL,10,T 7k5   j5 jj55j5   kkj55 
+OL,11,T =~0  j5 nj=mj5#  *jj75#
+OL,12,T w  ju0jj5jj5p   jj55p
+OL,13,T >                         
+OL,14,V ]T{\      ZS   j~4          
+OL,15,V ]W         s \      ZW   "! Vx|0     
+OL,16,V ]W       (,, \      ZQ   j5 V+'t    
+OL,17,V ]W    pr3#    \     ZQ  `~?'V0`z4   
+OL,18,V ]W  ,,        \     ZQ  j5 V"&k5   
+OL,19,V ]Wps3         \     ZQ x5 V  j5   
+OL,20,V ]W,$            \   ZQ"##k{1 U  `u5   
+OL,21,V ]Wss0        T        00((            
+OL,22,V ]W(,$        T`` $$""00(( !!          
+OL,23,V ]Wcsspp      T  $$""                  
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89810
+SC,0010
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Wh|tQ3,,,lp GNDH*I  Wp0p0p0p0p0 0 01/30 
+OL,2,Wo7QZ}|t3,pF THEYUw1?5?5o%?5 5 5?5?% 
+OL,3,ZQ>?/,"#,d  YUs57555j 75 }4555w0 
+OL,4,ZQ5o?'Wx///o}Q}0 HA.GD, IC* HDN IAN  
+OL,5,ZQjj7Wx?S|}W+}Qm4GN   YWp0p1p0p0 DN  
+OL,6,ZQ5jWy?S>gyW9'QD H*IYQ75w5c5w5 G   
+OL,7,ZQ}"7W?S~?~?WoQyD ,  YQ-%-%,% % CH *
+OL,8,ZQo0oWy!Sv~v~WuQouD  YW`` p0p0p0p0p0  
+OL,9, ZQ4W5S~?Wx|||8o4QG* YQjz073#3737373  
+OL,10,.ZQ~Wn}W~;s+{5QG  YQ * -% %-%-%-%  
+OL,11,  ZQkuW?a~|v{QGH.I D*  HA,  GN IB 
+OL,12,,ZQ f7W}ns???~?Qn5CN HGINHCN  A*      
+OL,13, .ZQ~Wn}{w}=}uQouDD SYI  `xt`|t0GHN  
+OL,14,ZQ ftW?s|QouDH*ISY wp{~qr   \ 
+OL,15,ZQ tW?/w{~w?7Q~t  D]C   ASK     \ 
+OL,16,ZQh?yo4Ww{~s?!Q~|0D]CPERMISSION \ 
+OL,17,ZQv~W//w>//!Q~wx5D]C TO CALL   \ 
+OL,18,W `||l/stpp `|||tx|0p~ws?/w?t
+OL,19,G]MAWin a Christmas Hampfr 0839 407008  
+OL,20,  MAWin a Christmas Hampfr 0839 407008  
+OL,21, Six qufstions/tiebreaker.CLOSES 21 DEC 
+OL,22, Cost:39p/minXcheap)49pXother)N Max #3  
+OL,23,    InfoMedia PO Box 28 Northampton     
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
+PN,89811
+SC,0011
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,B]DUK Holidays 'fst Country             
+OL,2,T  0 ` $  x|l|4l||x||||||,`0`p    0     
+OL,3,T  0$l +t{{?///2;th0  $`! 
+OL,4,T  $ r{}owR`t  z5To4sp $00
+OL,5,T`  3}R+-j?T~{cx~c!$
+OL,6,T  {~o?Q =h4To}~o(
+OL,7,T ,?;~ow7W`~}|||?tTwo~?x0
+OL,8,T >~%!e7####W`}2sT7####u+!o7xo
+OL,9,T"t3HSsIVfs{T7W~?'#o}25 Vfs{THSsIT
+OL,10,Tl?yHS#IVf7z Wj?Qxn}Wouk Vf7zTHS#ITy
+OL,11,T {1WTjV35 Qh|{?tW+'T5V35T5WTlt
+OL,12,Tty5WTjVm%T5Qooom|$TVm%TWTv
+OL,13,T5WTjVfTQ"o~'T~?VfT?WT
+OL,14,T~S(|$ VbTW,,,,,,,,,,,,,TVfTS(|$T
+OL,15,Tw##S`0V`zpT,V"os{'T,V`zp S`0T
+OL,16,T{QR,,|||~||||||||~|,,./$Q|T}
+OL,17,TwQ###scR ####////### Q"##sc###T?
+OL,18,T"oQfTo|||pppppppp|||oQfTw0
+OL,19,T ( !/Q/*T/#!#///'"///////#!#/'/Q/*T'/$ 
+OL,20,A]MCGetaway from it all this ChristmasN 
+OL,21,  MCGetaway from it all this ChristmasN 
+OL,22,A]MC      Seasonal breaks on p244       
+OL,23,  MC      Seasonal breaks on p244       
+OL,24, A           B           C           F  
+FL,900,900,900,900,100,100
