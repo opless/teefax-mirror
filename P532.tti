@@ -7,7 +7,7 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,T]S `t 0                          G1/9  
+OL,1,T]S `t 0                          G1/10 
 OL,2,T]Sx0!"'      CVISIT THE                
 OL,3,T]S"0 x0   CEUROPEAN UNION              
 OL,4,T]S"' "                                 
@@ -37,7 +37,7 @@ SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXT]CTeletext G\mppGMTHddChh:nn:ss
-OL,1,                                   2/9  
+OL,1,                                   2/10 
 OL,2,D]C Sppp pp0`0  `pp ppp pp0`0 p`pp0    \
 OL,3,D]S S##jwsj5  s{5##jws"mx'"k7!    \
 OL,4,D]S    jwssjup0ss1  jwssh?+} j5     \
@@ -63,7 +63,7 @@ SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXD]CTeletext G\100GMar17C00:00:00
-OL,1,                                   3/9  
+OL,1,                                   3/10 
 OL,2,D]C Sppp pp0`0  `pp ppp pp0`0 p`pp0    \
 OL,3,D]S S##jwsj5  s{5##jws"mx'"k7!    \
 OL,4,D]S    jwssjup0ss1  jwssh?+} j5     \
@@ -89,7 +89,7 @@ SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXE]GTeletext  \100 Mar20C00:00:00
-OL,1,                                   4/9  
+OL,1,                                   4/10 
 OL,2,U] Wp        `       `               `  
 OL,3,U]Wz       h      h              j  
 OL,4,U]W ~tj ~4j xt+4 h%j 
@@ -116,7 +116,7 @@ SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Qx5jtCMR T SAYS:                   5/9  
+OL,1,Qx5jtCMR T SAYS:                   5/10 
 OL,2,Qo?                                   
 OL,3,Q?oBCreme eggs can be delicious.      
 OL,4,Qoj55BHowever kids, if you don't like   
@@ -141,7 +141,7 @@ SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXT]CTeletext G\mppGMTHddChh:nn:ss
-OL,1,                                   6/9  
+OL,1,                                   6/10 
 OL,2,      T|4Sx|Rm0`~7   Wj5 
 OL,3, Q`pppT5S#pzR5z7    Wj?/####k/5 
 OL,4,QjwprT7S~!zR?!    Wj?w!  0     +5 
@@ -170,7 +170,7 @@ SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,   W`0                           G 7/9  
+OL,1,   W`0                           G 7/10 
 OL,2,T]W"k7!                FChannel 6     
 OL,3,T] W"!  #                FTuesday       
 OL,5,C2000BI Love "I Love The 1980s"         
@@ -219,7 +219,7 @@ OL,19,D]F
 OL,20,D]F                                     
 OL,21,D]F                                     
 OL,22,D]F                                     
-OL,23,D]F                                8/9  
+OL,23,D]F                                8/10 
 OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
 FL,533,531,536,570,0,100
 PN,53209
@@ -248,6 +248,32 @@ OL,19,W   hevovoet
 OL,20,W  `7~};}~}0           
 OL,21,W  ~?z?zt          
 OL,22,W z};i]TRESULTS LATERW^\}0        
-OL,23,WhvoetG 9/9  
+OL,23,WhvoetG 9/10 
 OL,24,ALabour  BGreen  CLib Dem  FConservative
+FL,533,531,536,570,0,100
+PN,53210
+SC,0010
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Qx5jtCMR T SAYS:                  G10/10
+OL,2,Qo?                                   
+OL,3,Q?oBDancing can be fun, especially    
+OL,4,Qoj5?Bon national TV. However, some     
+OL,5,S55jjBdance moves can be dangerous,     
+OL,6,S)rq&Bso follow these rules and stay    
+OL,7,     Bsafe:                             
+OL,9,   UFDon't tread on your dance         
+OL,10,     Fpartner's toes.                   
+OL,12,   UFWhen lifting your dance partner,  
+OL,13,     Fensure you grip them tight to     
+OL,14,     Favoid dropping them.              
+OL,15,   E                                    
+OL,16,   UFAfter spinning your partner,      
+OL,17,     Fhold them tightly as they will    
+OL,18,     Fbe dizzy and liable to topple.    
+OL,20,   UFDON'T SPY on MR T when he's       
+OL,21,   E Fdoing the HORIZONTAL FOXTROT      
+OL,22,     Fwith the LADY from NUMBER 27.     
+OL,24,ASnowman  BWeather  CLabyrinth  FBiffo  
 FL,533,531,536,570,0,100
