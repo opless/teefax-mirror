@@ -6,10 +6,40 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
-OL,4,                                        
+OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
+OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
+OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
+OL,5,CMChristmas Gallery                P898 
+OL,6,CMChristmas Gallery                P898 
+OL,7,F Sun 17th December, 2017               
+OL,8,G An assortment of Christmas pictures   
+OL,9,G from years past.                      
+OL,10,G                                       
+OL,11,CMA Christmas Card                 P581 
+OL,12,CMA Christmas Card                 P581 
+OL,13,G Wed 13th December, 2017               
+OL,14,F A Snowman for Christmas.              
+OL,15,G                                       
+OL,16,CMAdvent Calendar                  P899 
+OL,17,CMAdvent Calendar                  P899 
+OL,18,F Mon 4th December, 2017                
+OL,19,G First shown in 1992 on Channel 4.     
+OL,20,G Updated Daily!                        
+OL,21,G                                       
+OL,22,G                                       
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24, AGallery  BAdvent  CSnowman  FTrainfax 
+FL,898,899,581,582,100,100
+PN,10102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
+OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
+OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
 OL,5,CMTrainfax                         P582 
 OL,6,CMTrainfax                         P582 
 OL,7,F Fri 8th December, 2017                
@@ -29,17 +59,17 @@ OL,20,G One complete adventure to enjoy!
 OL,21,G Check outBhttp://www.4-tonline.uk/    
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdvent     B4-T     CDragon     FQuiz 
-FL,899,184,521,214,100,100
-PN,10102
-SC,0002
+OL,24, AGallery  BAdvent  CSnowman  FTrainfax 
+FL,898,899,581,582,100,100
+PN,10103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
-OL,4,                                        
+OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
+OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
+OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
 OL,5,CMDragon and Castle                P521 
 OL,6,CMDragon and Castle                P521 
 OL,7,F Sat 7th October, 2017                 
@@ -59,17 +89,17 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdvent     B4-T     CDragon     FQuiz 
-FL,899,184,521,214,100,100
-PN,10103
-SC,0003
+OL,24, AGallery  BAdvent  CSnowman  FTrainfax 
+FL,898,899,581,582,100,100
+PN,10104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
-OL,4,                                        
+OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
+OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
+OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
 OL,5,CMThe Very First DIGITISER         P370 
 OL,6,CMThe Very First DIGITISER         P370 
 OL,7,F Mon 7th August, 2017                  
@@ -89,17 +119,17 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdvent     B4-T     CDragon     FQuiz 
-FL,899,184,521,214,100,100
-PN,10104
-SC,0004
+OL,24, AGallery  BAdvent  CSnowman  FTrainfax 
+FL,898,899,581,582,100,100
+PN,10105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
-OL,4,                                        
+OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
+OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
+OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
 OL,5,CMDoctor Who                       P181 
 OL,6,CMDoctor Who                       P181 
 OL,7,F Tue 1st August, 2017                  
@@ -119,17 +149,17 @@ OL,20,B www.digitiser2000.com.
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdvent     B4-T     CDragon     FQuiz 
-FL,899,184,521,214,100,100
-PN,10105
-SC,0005
+OL,24, AGallery  BAdvent  CSnowman  FTrainfax 
+FL,898,899,581,582,100,100
+PN,10106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
-OL,4,                                        
+OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
+OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
+OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
 OL,5,CMPaul Dunning                     P180 
 OL,6,CMPaul Dunning                     P180 
 OL,7,F Fri 28th July, 2017                   
@@ -149,17 +179,17 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdvent     B4-T     CDragon     FQuiz 
-FL,899,184,521,214,100,100
-PN,10106
-SC,0006
+OL,24, AGallery  BAdvent  CSnowman  FTrainfax 
+FL,898,899,581,582,100,100
+PN,10107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
-OL,4,                                        
+OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
+OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
+OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
 OL,5,CMLOOK AROUND YOU 1&2    P170-171       
 OL,6,CMLOOK AROUND YOU 1&2    P170-171       
 OL,7,F Sat 22nd April, 2017                  
@@ -179,17 +209,17 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdvent     B4-T     CDragon     FQuiz 
-FL,899,184,521,214,100,100
-PN,10107
-SC,0007
+OL,24, AGallery  BAdvent  CSnowman  FTrainfax 
+FL,898,899,581,582,100,100
+PN,10108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
-OL,4,                                        
+OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
+OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
+OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
 OL,5,CMMR.BIFFO         P571-574             
 OL,6,CMMR.BIFFO         P571-574             
 OL,7,G The products you need and the gigs    
@@ -209,5 +239,5 @@ OL,20,F   Replicas C670F EngineeringC 700
 OL,21,F   Events   C800F WiganboozleC 806     
 OL,22,F                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdvent     B4-T     CDragon     FQuiz 
-FL,899,184,521,214,100,100
+OL,24, AGallery  BAdvent  CSnowman  FTrainfax 
+FL,898,899,581,582,100,100
