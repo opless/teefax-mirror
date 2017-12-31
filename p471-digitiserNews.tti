@@ -1,12 +1,12 @@
 DE,Digitiser 2000 News carousel
 DS,inserter
 SP,J:\peter\teefax\p471-digitiserNews.tti
-CT,8,T
+CT,12,T
 PN,47101
 SC,0001
 PS,8000
 RE,0
-OL,0,        D]CDigitextG\%%_ %%b%d C%H:%M:%S
+OL,0,        D]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,R?5|||4|4|4|4||||Qt +t +t +t +t +
 OL,2,R55}5555||Q}0"o}0"o}0"o}0"o}0
 OL,3,R55}|4}?}5||~Qt +t +t +t +
@@ -30,13 +30,13 @@ OL,20,Bfew familiar faeces (faces).
 OL,21,G```````````````````````````````````1/4`
 OL,22,E]CM   TRAPPIST MONK EATS PAN p301      
 OL,23,F                                       
-OL,24,ANext                                   
-FL,472,470,100,100,8ff,100
+OL,24,ANext BIndex      CTips   FCharts       
+FL,472,470,475,476,8ff,100
 PN,47102
 SC,0002
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        D]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,R?5|||4|4|4|4||||Qt +t +t +S}tt
 OL,2,R55}5555||Q}0"o}0"o}0S+'o
 OL,3,R55}|4}?}5||~Qt +t +t  |||~|
@@ -58,12 +58,13 @@ OL,20,Fbeing used to flog tat!!??!!!!!!!!?"
 OL,21,G```````````````````````````````````2/4`
 OL,22,U]CMFBAMBER ARRESTED BY ROZZER p350     
 OL,23,F                                       
-FL,472,470,100,100,8ff,100
+OL,24,ANext BIndex      CTips   FCharts       
+FL,472,470,475,476,8ff,100
 PN,47103
 SC,0003
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        D]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,R?5|||4|4|4|4||||Qt +t +t +S}tt
 OL,2,R55}5555||Q}0"o}0"o}0S+'o
 OL,3,R55}|4}?}5||~Qt +t +t  |||~|
@@ -87,12 +88,13 @@ OL,20,Fsocial event of 2018!!!!!!?!!!!!????"
 OL,21,G```````````````````````````````````2/4`
 OL,22,D]CCMBRODGAR'S HONK = BARRRD! p199      
 OL,23,F                                       
-FL,472,470,100,100,8ff,100
+OL,24,ANext BIndex      CTips   FCharts       
+FL,472,470,475,476,8ff,100
 PN,47104
 SC,0004
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        D]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1, CPLEASE GO AND BUY DEREK ACORAH'S NEW  
 OL,2,Qz5~{4j5k4##jw!k4 zh74k7j74~ih71~3
 OL,3,Qj5j5oz%j5  ju0z% j*u%j5ju%o:*u5r?
@@ -116,4 +118,5 @@ OL,20,EPLEASE NOTE:BPlease do not attempt to
 OL,21,Bexorcise your wiener excessively.      
 OL,22,BExcessive exorcising of your wiener    
 OL,23,Bwill cause it to become languid!       
-FL,472,470,100,100,8ff,100
+OL,24,ANext BIndex      CTips   FCharts       
+FL,472,470,475,476,8ff,100
