@@ -6,7 +6,7 @@ PN,47601
 SC,0001
 PS,8000
 RE,0
-OL,0,        D]CDigitextG\%%_ %%b%d C%H:%M:%S
+OL,0,       DD]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,R?/%}|4|||4||h}h|||Q+t W    ,####+$'
 OL,2,R5  55||55 5j||Q0"o}Wo|||'    j 
 OL,3,R}|555}55 5h|~Qt +Wz*ppp|
@@ -36,7 +36,7 @@ PN,47602
 SC,0002
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        D]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,R?/%}|4|||4||h}h|||Q+t +t +t +t +
 OL,2,R5  55||55 5j||Q0"o}0"o}0"o}0"o}0
 OL,3,R}|555}55 5h|~Qt +t +t +t +
@@ -57,4 +57,5 @@ OL,19,G    Revolver censored by PLEP
 OL,21,G---------------------------------------
 OL,22,A]CM   POP-POP...POPOPOPOPOPOP? p590    
 OL,23,F                                       
+OL,24,AIndex                                  
 FL,470,470,100,100,8ff,100
