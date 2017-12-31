@@ -1,12 +1,12 @@
 DE,Digitiser 2000 - Tips
 DS,inserter
-SP,J:\peter\teletext pages\digitiser2000-2017\p475-digitiserTips.tti
+SP,J:\peter\teefax\p475-digitiserTips.tti
 CT,8,T
 PN,47501
 SC,0001
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        D]CDigitextG\%%_ %%b%d C%H:%M:%S
 OL,1,R/?%s1|||4|||4Qt +t +t +t m//|?/>
 OL,2,R 5 555|4Q}0"o}0"o}0"o}W?}||oS| 
 OL,3,R 5 5}5|~5Qt +t +t +Wo?o?S 
@@ -28,6 +28,7 @@ OL,19,Fensure you do everything!
 OL,21,G```````````````````````````````````````
 OL,22,U]CMF   THE LATEST SOUP NEWS p101       
 OL,23,F                                       
+OL,24,ANext                                   
 FL,476,470,100,100,8ff,100
 PN,47502
 SC,0002

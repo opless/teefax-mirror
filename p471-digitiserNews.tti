@@ -1,12 +1,12 @@
 DE,Digitiser 2000 News carousel
 DS,inserter
-SP,J:\peter\digitiser2k\p471-digitiserNews.tti
+SP,J:\peter\teefax\p471-digitiserNews.tti
 CT,8,T
 PN,47101
 SC,0001
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        D]CDigitextG\%%_ %%b%d C%H:%M:%S
 OL,1,R?5|||4|4|4|4||||Qt +t +t +t +t +
 OL,2,R55}5555||Q}0"o}0"o}0"o}0"o}0
 OL,3,R55}|4}?}5||~Qt +t +t +t +
@@ -30,6 +30,7 @@ OL,20,Bfew familiar faeces (faces).
 OL,21,G```````````````````````````````````1/4`
 OL,22,E]CM   TRAPPIST MONK EATS PAN p301      
 OL,23,F                                       
+OL,24,ANext                                   
 FL,472,470,100,100,8ff,100
 PN,47102
 SC,0002

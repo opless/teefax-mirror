@@ -1,12 +1,12 @@
 DE,Digitiser 2000 - Databank - Letters
 DS,inserter
-SP,J:\peter\teletext pages\digitiser2000-2017\p474-digitiserDatabankLetters.tti
+SP,J:\peter\teefax\p474-digitiserDatabankLetters.tti
 CT,8,T
 PN,47401
 SC,0001
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        D]CDigitextG\%%_ %%b%d C%H:%M:%S
 OL,1,R?4|||4~4|||4}|4|||4|||45x|ELETTERS
 OL,2,R55||5j ||575|~5551 Wv;gy 
 OL,3,R}%}5j }55}5555 W| 
@@ -28,6 +28,7 @@ OL,20,FWhat a massive waste of 15 years.
 OL,21,G```````````````````````````````````1/4`
 OL,22,Q]CM  EMAIL: digitiser2000@gmail.com    
 OL,23,F                                       
+OL,24,ANext                                   
 FL,475,470,100,100,8ff,100
 PN,47402
 SC,0002

@@ -1,12 +1,12 @@
 DE,Digitiser 2000 - Feature
 DS,inserter
-SP,J:\peter\teletext pages\digitiser2000-2017\p473-digitiserFeature.tti
+SP,J:\peter\teefax\p473-digitiserFeature.tti
 CT,8,T
 PN,47301
 SC,0001
 PS,8000
 RE,0
-OL,0,                                        
+OL,0,        D]CDigitextG\%%_ %%b%d C%H:%M:%S
 OL,1,R?/%|||4|||4~}h|h|h|4|||4Q +t +t +t
 OL,2,R?/ }5||5j5jjj }5Q}0"o}0"o}0"o
 OL,3,R5  }|4}5j5j~j }|4Qot +t +t 
@@ -30,6 +30,7 @@ OL,20,Bjust laid a scotch egg!"
 OL,21,G````````````````````````````````````1/6
 OL,22,D]CM  _HOMUNCULUS DEFEATS MING p522     
 OL,23,F                                       
+OL,24,ANext                                   
 FL,474,470,100,100,8ff,100
 PN,47302
 SC,0002
