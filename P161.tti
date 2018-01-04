@@ -6,6 +6,36 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV|||    h|  (,     h|            |4   
+OL,2,T]Vujo5o% jj/% j jo5o*/55   
+OL,3,T]S7#jz5j  jbs5 jpjs1zjw55   
+OL,4,T]S#! "##!"#  "#"##! "##"##!s{"##!#!   
+OL,5,G        WEST HOLLYWOOD, Tue 2 Jan, 2017
+OL,6,B                                       
+OL,7,BAngelenos, tourists flock to West      
+OL,8,BHollywood pot shops as adult sales     
+OL,9,Bbecome legal.                          
+OL,10,B                                       
+OL,11,CCustomers lined up outside shops in Los
+OL,12,CAngeles to purchase legal Marijuana on 
+OL,13,CTuesday.                               
+OL,14,C                                       
+OL,15,CThe California state law legalizing    
+OL,16,CMarijuana went into effect on January  
+OL,17,C1st but no shops were open on that day.
+OL,18,C                                       
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV|||h||4|||h||0 h|||h||4 h|h4|||h| h| 
 OL,2,T]Vu?jj5ujj5  j jj5 j~5}4j j 
 OL,3,T]S5jz57jz5  j jz5 jk5upjpjp
@@ -31,8 +61,8 @@ OL,22,AMoraga Drive, Casiano Road and Linda
 OL,23,AFlora Drive.                           
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16102
-SC,0002
+PN,16103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -61,8 +91,8 @@ OL,22,Fserve as a barricade for cars.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16103
-SC,0003
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -91,8 +121,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16104
-SC,0004
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -121,8 +151,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16105
-SC,0005
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -151,8 +181,8 @@ OL,22,Fcenter.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16106
-SC,0006
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -181,8 +211,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16107
-SC,0007
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -211,8 +241,8 @@ OL,22,B
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16108
-SC,0008
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -241,8 +271,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16109
-SC,0009
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -271,8 +301,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16110
-SC,0010
+PN,16111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -301,8 +331,8 @@ OL,22,Care up to 35 pounds lighter than the
 OL,23,C2017 models.                           
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16111
-SC,0011
+PN,16112
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -331,8 +361,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16112
-SC,0012
+PN,16113
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -361,8 +391,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16113
-SC,0013
+PN,16114
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -391,8 +421,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16114
-SC,0014
+PN,16115
+SC,0015
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -421,8 +451,8 @@ OL,22,Bpower would be fully restored.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16115
-SC,0015
+PN,16116
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -451,8 +481,8 @@ OL,22,FPolice eventually arrived to break up
 OL,23,Fthe fight.                             
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16116
-SC,0016
+PN,16117
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -481,8 +511,8 @@ OL,22,C
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16117
-SC,0017
+PN,16118
+SC,0018
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -511,8 +541,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16118
-SC,0018
+PN,16119
+SC,0019
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -541,8 +571,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16119
-SC,0019
+PN,16120
+SC,0020
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -571,8 +601,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16120
-SC,0020
+PN,16121
+SC,0021
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -601,8 +631,8 @@ OL,22,Csmoke rising into the air.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16121
-SC,0021
+PN,16122
+SC,0022
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -631,8 +661,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16122
-SC,0022
+PN,16123
+SC,0023
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -661,8 +691,8 @@ OL,22,Fboth sides of the 14 Freeway and
 OL,23,Fprompting evacuations.                 
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16123
-SC,0023
+PN,16124
+SC,0024
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
