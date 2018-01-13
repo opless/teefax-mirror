@@ -1,6 +1,4 @@
 DE,World Teletext
-DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P675-World.tti
 CT,10,C
 PN,67501
 SC,0001
@@ -31,7 +29,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67502
 SC,0002
-PS,8000
+PS,8200
 RE,0
 OL,0,        199FARDtextGDo 09.07.15G20:13:40
 OL,1,W,,=,,=,,=,,=l|=,/?//?-,}|,=,,=,,=,,=,, 
@@ -90,7 +88,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67504
 SC,0004
-PS,8000
+PS,8080
 RE,0
 OL,0,        500 FFrance3G Ma 07 JulF11:45 11
 OL,1, ]T6!          j/o                      
@@ -120,9 +118,9 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67505
 SC,0005
-PS,8000
+PS,8100
 RE,0
-OL,0,        FFFFNRKF100GGons 16.marC13.23.48
+OL,26,@idLYo|pdISo|wDKVoxzDKVo|
 OL,1,Th|0h|x}x| x<   FFNRK1GBr|yt i vei      
 OL,2,Tjo~"'jnw    FFNRK2GPingvinanes hemm.
 OL,3,T*/ +/  */ +-   FFNRKSuperGSpionligaen  
@@ -177,7 +175,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67507
 SC,0007
-PS,8000
+PS,8200
 RE,0
 OL,0,        100CZDFtextBDoB09.07.15C20:13:25
 OL,1,D]W`~t                                
@@ -297,37 +295,41 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67511
 SC,0011
-PS,8000
-RE,0
-OL,0,XXXXXXXXFPIK G100 BSun 29-05-16C12:23:19
-OL,1,Sppppppppppppppppppppppppppppppppppppppp
-OL,2,T]C CYPRUS BROADCASTING CORPORATION     
-OL,3,T]S          
-OL,4,T]S k5j5j5 } ~5h~5j |4h |5j 4h
-OL,5,T]S /%j5j7}  5h5j ~5j ~7i"5j
-OL,6,T]S   j5j5  5*o5* /5j /5j 5j
-OL,7,T]S          
-OL,9,S]D          THL: 22862000              
-OL,10,  KAIROS---->  110  151<-KRATIKO LAXEIO 
-OL,11,C KLHRWSEIS-->  150  152<-KRATIKO LAXEIO
-OL,12,            -->  300  153<-LAXEIO RIK   
-OL,13,F OIKONOMIA---->  500  156<-LOTTO       
-OL,14,  XAK----------->  510  157<-PROTO      
-OL,15,C PLIROFORIES---->  600  158<-TZOKER    
-OL,16,  FARMAKEIA------->  640  161<-EXTRA 5  
-OL,17,F CINEMA----------->  700  162<-SUPER 3 
-OL,18,  RIK TV------------>  800   S]T `ppp0  
-OL,19,C RIK RADIO---------->  850  S]T`5   j0 
-OL,20,                             S]TjDRIKT5 
-OL,21,                             S]Tjppppp5 
-OL,22,                             S]T   
-OL,24,AIndex    BNext    CEngineering  FEvents
+PS,8090
+OL,28,@@HA`pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,ZQ    j    Tf,9f,9f,9f,9f,9f,9f,9f,9f,9f
+OL,2,ZW   (w=   W`pp0pp `p`p`p`p`p p`0p`0p p 
+OL,3,ZQ  (9f,9  W"j5!,1jjjjjjj"jjjjjjjjjjjj 
+OL,4,ZT h#d'e&i W *% /,!***#*.* *#*+*******+ 
+OL,5,ZQ"d&d&d&d&T]G   TELEKANALOW NA 2 DNQ   
+OL,6,ZW   `vt    ############################
+OL,7,ZTd,8d,8d,8d,8d,8d,8d,8d,8d,8d,8d,8d,8d,
+OL,9,  107                      PERW_J KANAL 
+OL,10, D--------------------------------------
+OL,11,  113                          ROSSIQ 1 
+OL,12, D--------------------------------------
+OL,13,  119                               NTW 
+OL,14, D--------------------------------------
+OL,15,  125                               TWC 
+OL,16, D--------------------------------------
+OL,17,  131                           MAT^ TW 
+OL,18, D--------------------------------------
+OL,19,  137                          ROSSIQ K 
+OL,20, D--------------------------------------
+OL,21,  145                          DOMA[NIJ 
+OL,23,D]G         Prodolvenie dalee >>        
+OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67512
 SC,0012
-PS,8000
-RE,0
-OL,0,XXXXXXXX tv3                  C hh:nn.ss
+PS,8390
+OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,26,@jDO^O]kDJToXUOXVo\\O]cOQlDJToYUOXVOXmDJ
+OL,26,AToYUoXVOXnDJTOZUOZVo\]o_eoUoDJTOZUo[VOX
+OL,26,BcOVeOQpDO^O_qDJToZUOYVoYcOQrDJTO[UOYVOX
+OL,26,CsDJTo[UO\VoZ`oTaoWeoWtDJTO\UoXVoZuDJTO\
+OL,26,DUoYVoXvdGOoXPoYQo\RoXwdDIO_ydHQo_[OR{DM
+OL,26,EZoU}DCFoYGOXHOXIOXJOXKoYLoXMoYSoUWoXXOX
 OL,26,FYoX_o^aO_CCCCCCCCCC
 OL,1, ]                                     \
 OL,2, ]U` p0$ p04       AXaFM i|axJ ixemQWE*\
@@ -352,13 +354,15 @@ OL,20, ]T`pppppppppppppppp0ppppppppppppppppp0\
 OL,21, ]A           @weFo T5A   @E`SQ a eGOG \
 OL,22, ]T"#################!################!\
 OL,23, ]D  22021955-22021901    @iehzY WHGhQ \
-OL,24,AIndex    BNext    CEngineering  FEvents
+OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67513
 SC,0013
-PS,8000
-RE,0
-OL,0,XXXXXXXX tv3                  C hh:nn.ss
+PS,8390
+OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,26,@mDJTO_UOToDCFO_JoWTORqdFMO_SOTuDEJoWyDF
+OL,26,ALO_YO_`oXaoYbo\cOY{dISoUXoXYOXZOYeo^|DL
+OL,26,BXO\YoZZoZ^oWfoU~DIRO_VO_dGOo^Uo^dO]eO]
 OL,26,CCCCCCCCCCCCCC
 OL,1, ]Th<                               0l4 
 OL,2, ]Tj `z{pxr{hjjh(`wus5455<5555pwuuuu5 5 
@@ -383,5 +387,5 @@ OL,20, ]E[payamnama@tv3.irT5[A   ifF QRFH{Fo
 OL,21, ]T"#################!################# 
 OL,22, ]D 27863000     @ `S  cBT iehzY WHGhQ  
 OL,23, ]A 021-2781 EF fFDSQ T A162 E}FeRFS    
-OL,24,AIndex    BNext    CEngineering  FEvents
+OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
