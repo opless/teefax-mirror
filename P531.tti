@@ -6,15 +6,15 @@ SC,0001
 OL,1,Übedford weather  Çcy2.uk/weatherá   1/2
 OL,2,îù ìh40|x|t`<l0,,j=l0x|t`<,            
 OL,3,îù ì"--'+,$*'+% / *%*%+,$*%             
-OL,5,Fri, 12 Jan at 10:58 GMT
-OL,6,Temperature: 7.0C
-OL,7,Humidity:    93%
-OL,8,Wind: S, 0 mph
+OL,5,Sat, 13 Jan at 10:58 GMT
+OL,6,Temperature: 6.4C
+OL,7,Humidity:    83%
+OL,8,Wind: N, 2 mph
 OL,9,Rain: 0.0 mm
-OL,10,Pressure: 1026 hPa, rising slowly
-OL,11,Cloud base: 132 m
+OL,10,Pressure: 1020 hPa, rising slowly
+OL,11,Cloud base: 334 m
 OL,12,12 hour weather forecast, computed on
-OL,13,Fri, 12 Jan at 08:58 GMT:
+OL,13,Sat, 13 Jan at 08:58 GMT:
 OL,14,Fine weather.
 OL,15,This forecast is highly experimental!
 OL,23,Ñùá                     More followsà>
@@ -36,7 +36,7 @@ OL,11,  18ï
 OL,12,  15ñ                        
 OL,13,  12ñ                        
 OL,14,   9ñ                        
-OL,15,   6ñ,,,,#############,,,,,,,
+OL,15,   6ñ,,,,######,,,,,,,ppppppp
 OL,16,   3î                        
 OL,17,   0î                        
 OL,18,  -3î                        
