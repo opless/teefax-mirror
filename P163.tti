@@ -11,19 +11,19 @@ OL,2,W||||4<,,,4|,,,4|,|,4||,|4|,,,4|,,,4||||
 OL,3,Q55jj 5  50/`5 5 s{5ps#5
 OL,4,W////%-..,%/,,,%//,/%//,/%/,,,%/,,,%////
 OL,5,Qwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-OL,6,G           Weekend Box Office Sept 8-11
+OL,6,G             Weekend Box Office Jan 5-7
 OL,7,F                                       
-OL,8,C1 C-CItC...................$123,100,000
-OL,9,C2 C-CHome AgainC.............$9,028,222
-OL,10,A3 F1BThe Hitman's BodyguardE.$4,850,000
-OL,11,A4 F2BAnnabelle: CreationE....$4,000,000
-OL,12,A5 F3BWind RiverE.............$3,210,200
-OL,13,A6 F4BLeap!E..................$2,500,100
-OL,14,A7 F7BSpider-Man: HomecomingE.$2,015,000
-OL,15,A8 F6BDunkirkE................$1,860,000
-OL,16,A9 F5BLogan LuckyE............$1,826,425
-OL,17,A10F9BThe Emoji MovieE........$1,060,000
-OL,18,A11F8BDespicable Me 3E..........$909,000
+OL,8,A1F2BJumanjiE................$37,233,653
+OL,9,A2FNBInsidious:The Last KeyE.$29,581,355
+OL,10,A3F1BStar Wars:The Last JediE$23,728,944
+OL,11,A4F4BThe Greatest ShowmanE...$13,770,951
+OL,12,A5F3BPitch Perfect 3E........$10,298,345
+OL,13,A6F5BFerdinandE...............$7,697,773
+OL,14,A7F13BMolly's GameE...........$6,856,578
+OL,15,A8F8BDarkest HourE............$6,050,225
+OL,16,A9F6BCocoE....................$5,382,651
+OL,17,A10F7BAll the Money in WorldE.$3,571,226
+OL,18,A11F11BThe Shape of WaterE....$3,139,084
 OL,19,                                        
 OL,20,                                        
 OL,21,                                        
@@ -31,8 +31,6 @@ OL,22,
 OL,23,Qwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 OL,24, AIndex    BSport    CCharts   FWeather 
 FL,160,162,163,165,100,100
-DE,LA on the QT Page 163/2
-DS,inserter
 PN,16302
 SC,0002
 PS,8000
@@ -63,8 +61,6 @@ OL,22,FFFFFFFFrench Montana Featuring Swae Lee
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-DE,LA on the QT Page 163/3
-DS,inserter
 PN,16303
 SC,0003
 PS,8000
