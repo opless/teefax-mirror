@@ -1,0 +1,17 @@
+DE,Object test 1
+CT,8,T
+PS,8000
+PN,75800
+SC,0000
+OL,2,Default object invoked by MOT           
+OL,3,containing ten GDRCS invocations        
+OL,10,This test page requires a level 2.5 TV  
+OL,11,and an up to date version of Vbit2.     
+OL,13,The Magazine Organisation Table at P7FE 
+OL,14,tells the TV that this page requires a  
+OL,15,default object from Global Public Object
+OL,16,Page P7E1 and Global Dynamic Redefibable
+OL,17,Character Set downloading page P7E3.    
+OL,19,The default object prints the text "GPOP
+OL,20,OBJECT" on row 1, and invokes ten DRCS  
+OL,21,characters in a 2x5 image at (5,5).     

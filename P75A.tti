@@ -4,28 +4,28 @@ CT,4,T
 PN,75a01
 SC,0001
 PS,8000
-OL,27,UUsj/j^LsIUUULs^UUULsdUUUjjj/j^UUj/j^j@@
+OL,27,@@EOGOCJEB@@@JEC@@@JED@@@OOOOOO@@OGOOO@@
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0001               
 OL,24,A Back    BS0002   CS0003   FS0004      
 PN,75a02
 SC,0002
 PS,8000
-OL,27,ULsBUUUUsj/j^Ls^UUULsdUUUjjj/j^UUj/j^j@@
+OL,27,@JEA@@@@EOGOCJEC@@@JED@@@OOOOOO@@OGOOO@@
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0002               
 OL,24,A S0001   BBack    CS0003   FS0004      
 PN,75a03
 SC,0003
 PS,8000
-OL,27,ULsBUUULsIUUUUsj/j^LsdUUUjjj/j^UUj/j^j@@
+OL,27,@JEA@@@JEB@@@@EOGOCJED@@@OOOOOO@@OGOOO@@
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0003               
 OL,24,A S0001   BS0002   CBack    FS0004      
 PN,75a04
 SC,0004
 PS,8000
-OL,27,ULsBUUULsIUUULs^UUUUsj/j^jjj/j^UUj/j^j@@
+OL,27,@JEA@@@JEB@@@JEC@@@@EOGOCOOOOOO@@OGOOO@@
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0004               
 OL,24,A S0001   BS0002   CS0003   FBack       
