@@ -6,6 +6,66 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV  |||    h| |4            h|         
+OL,2,T]V  }4*/5o%?jojj5/oj~%?    
+OL,3,T]S  upjw5j 5jzjz5{jj5ws    
+OL,4,T]S  ###"##!"# #!#"#k"##!###"#"!###    
+OL,5,G            SANTA ANA, Thu 25 Jan, 2018
+OL,6,B                                       
+OL,7,BA 4.0-magnitude earthquake struck an   
+OL,8,Barea of the Santa Ana Mountains        
+OL,9,Bstraddling Riverside and Orange        
+OL,10,Bcounties early Thursday, Jan. 25, the  
+OL,11,BU.S. Geological Survey reported.       
+OL,12,F                                       
+OL,13,FThe temblor hit at 2:09 a.m. at a depth
+OL,14,Fof around 6 miles, with the epicenter  
+OL,15,Fdescribed as 10 miles south, southeast 
+OL,16,Fof Corona in Riverside County and 8    
+OL,17,Fmiles northeast of Trabuco Canyon in   
+OL,18,FOrange County, according to a report by
+OL,19,Fthe Southern California Seismic        
+OL,20,FNetwork, a cooperative project of      
+OL,21,FCaltech and the U.S. Geological Survey 
+OL,22,Fto monitor quakes in Southern          
+OL,23,FCalifornia.                            
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV  |||    h| |4            h|         
+OL,2,T]V  }4*/5o%?jojj5/oj~%?    
+OL,3,T]S  upjw5j 5jzjz5{jj5ws    
+OL,4,T]S  ###"##!"# #!#"#k"##!###"#"!###    
+OL,5,F                                       
+OL,6,FThere were no immediate reports of     
+OL,7,Fdamages, but hundreds of tweets flooded
+OL,8,FTwitter after the quake, with people in
+OL,9,FSan Diego, Riverside, San Bernardino,  
+OL,10,FLos Angeles and Orange counties saying 
+OL,11,Fthey felt it or it shook them awake.   
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV|||h|       h|   h||4|4        h|    
 OL,2,T]V}4j*/5?/jo5 j| 5?jo5oj/%
 OL,3,T]S5 jjw5s{jj5 j  5ujz5zbs5
@@ -31,8 +91,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16102
-SC,0002
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -61,8 +121,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16103
-SC,0003
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -91,8 +151,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16104
-SC,0004
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -121,8 +181,8 @@ OL,22,AMoraga Drive, Casiano Road and Linda
 OL,23,AFlora Drive.                           
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16105
-SC,0005
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -151,8 +211,8 @@ OL,22,Fserve as a barricade for cars.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16106
-SC,0006
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -181,8 +241,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16107
-SC,0007
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -211,8 +271,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16108
-SC,0008
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
