@@ -6,6 +6,36 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV|||4  (,    h|     h||||h||4|||h||4| 
+OL,2,T]V 5 ?jj?jjo5 jj5jj55jj5 
+OL,3,T]S 5 5jjujjs1 jj5jz5ujj5s 
+OL,4,T]S #! #!"#j##"#"##! "#  #"##!###"#"!# 
+OL,5,G          LOS ANGELES, Wed 31 Jan, 2018
+OL,6,F                                       
+OL,7,AFor a whole hour this morning from     
+OL,8,A5am-6am the Moon was totally eclipsed  
+OL,9,Aby the Earth. This made is appear as a 
+OL,10,Aglowing orange orb - a 'Blood' moon.   
+OL,11,D                                       
+OL,12,DThis was also a Blue Moon which means  
+OL,13,Dthere have been two full Moons within  
+OL,14,Dthe same month.                        
+OL,15,B                                       
+OL,16,EIt was also a "Supermoon" in that it   
+OL,17,Ewas full and appeared particularly     
+OL,18,Elarge (due to it being closer to the   
+OL,19,EEarth than normal).                    
+OL,20,EThe next Blue Moon, "Supermoon" and    
+OL,21,Etotal lunar eclipse won't coincide     
+OL,22,Euntil 2037.                            
+OL,23,                                        
+OL,24, AIndex    BSport    CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV|||       |4h|             |4        
 OL,2,T]V}4*/5?*?jo5?55*/5}?jo5   
 OL,3,T]Supjw55 5jj5u5ujw55js1   
@@ -31,8 +61,8 @@ OL,22,Fto monitor quakes in Southern
 OL,23,FCalifornia.                            
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16102
-SC,0002
+PN,16103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -61,8 +91,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16103
-SC,0003
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -91,8 +121,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16104
-SC,0004
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -121,8 +151,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16105
-SC,0005
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -151,8 +181,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16106
-SC,0006
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -181,8 +211,8 @@ OL,22,AMoraga Drive, Casiano Road and Linda
 OL,23,AFlora Drive.                           
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16107
-SC,0007
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -211,8 +241,8 @@ OL,22,Fserve as a barricade for cars.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16108
-SC,0008
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -241,8 +271,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16109
-SC,0009
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -271,8 +301,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16110
-SC,0010
+PN,16111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
