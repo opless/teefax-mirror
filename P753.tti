@@ -2,10 +2,10 @@ PN,75300
 DE,edit-tf
 PS,8000
 SC,0000
+FL,754,754,754,754,8ff,750
 OL,26,@i`GGGjDSf`@kDSf`DlDSf`HmDSfc@nDSfcDoDS
 OL,26,AfcHpDSfrrqDSfgGgG@rDSfIUsDSfaTtDSfojuDS
-OL,26,BfbZvDSfkrwa@xaDyaxzdGONBVNA[n@{D@@lpC
-FL,754,754,754,754,8FF,750
+OL,26,BfbZvDSfkrwa@xaDyaxzdGONBVNA[n@{D@@lxC
 OL,1, Enhancement packet 26 feature tests    
 OL,2, Foreground colour from CLUT0 test -> * 
 OL,3, Foreground colour from CLUT1 test -> * 
