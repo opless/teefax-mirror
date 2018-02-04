@@ -14,7 +14,7 @@ OL,5,G          LOS ANGELES, Wed 31 Jan, 2018
 OL,6,F                                       
 OL,7,AFor a whole hour this morning from     
 OL,8,A5am-6am the Moon was totally eclipsed  
-OL,9,Aby the Earth. This made is appear as a 
+OL,9,Aby the Earth. This made it appear as a 
 OL,10,Aglowing orange orb - a 'Blood' moon.   
 OL,11,D                                       
 OL,12,DThis was also a Blue Moon which means  
@@ -29,7 +29,7 @@ OL,20,EThe next Blue Moon, "Supermoon" and
 OL,21,Etotal lunar eclipse won't coincide     
 OL,22,Euntil 2037.                            
 OL,23,                                        
-OL,24, AIndex    BSport    CMovies   FWeather 
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16102
 SC,0002
@@ -59,7 +59,7 @@ OL,20,FNetwork, a cooperative project of
 OL,21,FCaltech and the U.S. Geological Survey 
 OL,22,Fto monitor quakes in Southern          
 OL,23,FCalifornia.                            
-OL,24, AIndex    BSport    CMovies   FWeather 
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16103
 SC,0003
@@ -89,7 +89,7 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24, AIndex    BSport    CMovies   FWeather 
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16104
 SC,0004
@@ -119,7 +119,7 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24, AIndex    BSport    CMovies   FWeather 
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16105
 SC,0005
@@ -149,7 +149,7 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24, AIndex    BSport    CMovies   FWeather 
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16106
 SC,0006
@@ -179,7 +179,7 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24, AIndex    BSport    CMovies   FWeather 
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16107
 SC,0007

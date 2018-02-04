@@ -6,29 +6,29 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,W            Sp<gs-tR`pp                
-OL,2,W           Szi~zR?cw3-t0            
-OL,3,W           S5Ra|t#/,|0     
-OL,4,W           Sk?//'>ouRo7Q|tpR+7S~t0  
-OL,5,W            R8'#mS~'RzQzs+otSz4 
-OL,6,W            Q "R7e RxQ?csSj 
-OL,7,W             R(sy:R*5+'Q"x?{%S~ 
-OL,8,W              Rl0Rxt{t0  Qh~'S`~5 
-OL,9,W              R"ot0c+o<Q(o?!Sx?  
-OL,10,W                SQltR #T`4Sp~?   
-OL,11,W                Wj|||5Th7Sz'    
-OL,12,W                W*?!T?5mSo?'0     
-OL,13,W                Qh<<| TikSn/-&'h&      
-OL,14,W                SQ~5  TSnT~3+0       
-OL,15,W                SQ%    T*,-       
-OL,16,W                Qj      W ,|~u      
-OL,17,W                Q*/5        W"o4t    
-OL,18,        Rp|T`}Rh}Wd+}*%tR
-OL,19,     Rp|7T`~?'R~?'Wx}|<~j+R
-OL,20, R p|T`~g`mRkW~?'(8j"(R
-OL,21,ZR////////////%      ///////$        ,./
-OL,22,Q~ij}x5!i*%~ih74i j7!~ih74k7j74~ij5j5
-OL,23,Wnj555$fj5 ju5j j=$jj55j5j=1nj5j5
+OL,1,TZ'QpT+'Wx! Tk
+OL,2,TZ/'Q||$px~W#+/ T"
+OL,3,TZ!  Qj7(5   W"#T
+OL,4,TZ?!V pQ~5 ?5     T`
+OL,5,TZ5 V s}Qax?  "%     xTo
+OL,6,TZ5 V?Q}0     p|To
+OL,7,TZtV//Qx/o7#   ` +?Tz
+OL,8,TZ}<Qx4*' z  "- ###Th
+OL,9,TZW<Q+k5pp~%`0   +}Tp
+OL,10,TZW~! xQku *a0   Ty
+OL,11,TZW4 oQ+5/T`~}0  `
+OL,12,TZWu *Q2/Tx~||
+OL,13,TZWj0 o}Tk
+OL,14,TZW5 jTj
+OL,15,TZt W"Tj
+OL,16,TZ} W+TjVAMERICANT
+OL,17,TZ?/'#! ^WT"
+OL,18,TZ///##    W j `?TVFOOTBALLT
+OL,19,TZW~         W* */Th
+OL,20,TZW`"T"$h<.!   WdkTT
+OL,21,TZWj$         W*2/T
+OL,22,TZW44    T`pppp|||~
+OL,23,TZWk|0T|~
 OL,24, AIndex    BNews    CMovies    FWeather 
 FL,160,161,163,165,100,100
 PN,16202
@@ -66,28 +66,28 @@ SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,T]R /o4h?/} ~//%j?// /o4h?/}    j5   
-OL,2,T]R /o4j}| +/o4j?/% /o4j}|    j5   
-OL,3,T]R ///!*% / ///!*/// ///!*% / ///%*/// 
+OL,1,RZ  /o4h?/} ~//%j?// /o4h?/}    j5   
+OL,2,RZ  /o4j}| +/o4j?/% /o4j}|    j5   
+OL,3,RZ  ///!*% / ///!*/// ///!*% / ///%*/// 
 OL,4,W p~|0 
 OL,5,Wh#                    +7#########k} 
 OL,6,Wz5                      k0         o4
-OL,7,W                x|0  ou         j5
-OL,8,W               z4 "4        j5
-OL,9,W                 "        j5
-OL,10,W              x   *u       j5
-OL,11,W            `~    k4      j5
-OL,12,W               z5     o}      j5
-OL,13,W              `|||t0j|     j5
-OL,14,W               "4    j5
-OL,15,W               x4   j5
-OL,16,W              z}0  j5
-OL,17,W   `|0       h0 j5
-OL,18,W          z} j5
-OL,19,W   +'        j5
-OL,20,W             ? j5
-OL,21,Wk5            /o///'  ~%
-OL,22,W*0                  x? 
+OL,7,W           T    x|0 Wou        Wj5
+OL,8,W           T   z4W"4       Wj5
+OL,9,W           T    W"       Wj5
+OL,10,W           T  x W *u      Wj5
+OL,11,W           T`~  W k4     Wj5
+OL,12,W          Q    z5   W o}     Wj5
+OL,13,W          Q   `|||tQjt    Wj5
+OL,14,W          Q    "4   Wj5
+OL,15,W          Q    x4  Wj5
+OL,16,W          Q   z}0 Wj5
+OL,17,W  S`|0    Q  h0Wj5
+OL,18,W  S    Q  z}Wj5
+OL,19,W  S+'    Q  Wj5
+OL,20,W  S       Q  ?Wj5
+OL,21,Wk5         Q  /o///' W~%
+OL,22,W*0        Q        Wx? 
 OL,23,W +o/! 
 OL,24, AIndex    BNews    CMovies    FWeather 
 FL,160,161,163,165,100,100
@@ -96,27 +96,27 @@ SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,T]R /o4h?/} ~//%j?// /o4h?/}    j5   
-OL,2,T]R /o4j}| +/o4j?/% /o4j}|    j5   
-OL,3,T]R ///!*% / ///!*/// ///!*% / ///%*/// 
-OL,4,C]S                                     
-OL,5,C                                       
-OL,6,C                                       
+OL,1,RZ  /o4h?/} ~//%j?// /o4h?/}    j5   
+OL,2,RZ  /o4j}| +/o4j?/% /o4j}|    j5   
+OL,3,RZ  ///!*% / ///!*/// ///!*% / ///%*/// 
+OL,4,G S                                     
+OL,5,G                                       
+OL,6,FM         2017 MLB World Series        
 OL,7,FM         2017 MLB World Series        
-OL,8,FM         2017 MLB World Series        
-OL,9,B                                       
+OL,8,B                                       
+OL,9,AM           Astros vs Dodgers          
 OL,10,AM           Astros vs Dodgers          
-OL,11,AM           Astros vs Dodgers          
-OL,12,A                                       
-OL,13,B_ Date    Place              Result    
-OL,14,F                                       
-OL,15,F1BOct 24C Dodger Stadium   B 1 - 3     
-OL,16,F2BOct 25C Dodger Stadium   B 7 - 6     
-OL,17,F3BOct 27F Minute Maid Park B 5 - 3     
-OL,18,F4BOct 28F Minute Maid Park B 2 - 6     
-OL,19,F5BOct 29C Dodger Stadium   B13 - 12    
-OL,20,F6BOct 31C Dodger Stadium   B 1 - 3     
-OL,21,F7BNov 1 C Dodger Stadium   B 5 - 1     
+OL,11,A                                       
+OL,12,B_ Date    Place              Result    
+OL,13,F                                       
+OL,14,F1BOct 24C Dodger Stadium   B 1 - 3     
+OL,15,F2BOct 25C Dodger Stadium   B 7 - 6     
+OL,16,F3BOct 27F Minute Maid Park B 5 - 3     
+OL,17,F4BOct 28F Minute Maid Park B 2 - 6     
+OL,18,F5BOct 29C Dodger Stadium   B13 - 12    
+OL,19,F6BOct 31C Dodger Stadium   B 1 - 3     
+OL,20,F7BNov 1 C Dodger Stadium   B 5 - 1     
+OL,21,                                        
 OL,22,                                        
 OL,23,                                        
 OL,24, AIndex    BNews    CMovies    FWeather 
