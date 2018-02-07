@@ -3,28 +3,28 @@ SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,V]T     h|`0|h||4|||h|||h|h4|||h||4     
-OL,2,V]T     jj5j| u j j~5}4jz%     
-OL,3,V]T     jzujp07 j jk5upjj5     
-OL,4,S]T     "####"##!#!# "# "#"!###"#"!     
-OL,5,C             Oct 23rd - 29th           
-OL,6,FM  Mon    Tue    Wed    Thu    Fri     
-OL,7,FM  Mon    Tue    Wed    Thu    Fri     
-OL,8,CGS 0( 0 S 0( 0 S 0( 0 S 0( 0 S 0( 0    
-OL,9,CGS`h}` S`h}` S`h}` S`h}` S`h}`    
-OL,10,BGS 2/'0 S 2/'0 S 2/'0 S 2/'0 S 2/'0    
-OL,11,BGS  "   S  "   S  "   S  "   S  "      
-OL,12,CM  102F   101F   98F    90F    90F     
-OL,13,CM  102F   101F   98F    90F    90F     
-OL,14,FM            Sat     Sun               
-OL,15,FM            Sat     Sun               
-OL,16,CG          S 0( 0  S 0( 0              
-OL,17,CG          S`h}`  S`h}`              
-OL,18,BG          S 2/'0  S 2/'0              
-OL,19,BG          S  "    S  "                
-OL,20,CM            91F     87F               
-OL,21,CM            91F     87F               
-OL,22,D]GMSee MEGADOPPLER 7000 HD on ABC7     
-OL,23,D]GMSee MEGADOPPLER 7000 HD on ABC7     
-OL,24, AIndexB     SportC      MoviesF     New
-FL,160,162,163,161,100,100
+OL,1,S|hh4||4||4||h4|h||h||Wx}~mtS $r0$V`~}{t
+OL,2,Sjj5,$z5j5j}j=,j}wWoo?S(j(V*o?
+OL,3,S///%//%/+%*%*%/*//*%/F////S  $c!$WG* *W
+OL,4,                                        
+OL,5,A       Wed 7th - Sun 11th Feb 2018     
+OL,6,C                                       
+OL,7,MFToday 7 Sunny 83F                     
+OL,8,MFToday 7 Sunny 83F                     
+OL,9,G                                       
+OL,10,MCThu 8 Sunny 87F                       
+OL,11,MCThu 8 Sunny 87F                       
+OL,12,G                                       
+OL,13,MFFri 9 Sunny 82F                       
+OL,14,MFFri 9 Sunny 82F                       
+OL,15,G                                       
+OL,16,MCSat 10 Partly Cloudy 72F              
+OL,17,MCSat 10 Partly Cloudy 72F              
+OL,18,G                                       
+OL,19,MFSun 11 Mostly Sunny 75F               
+OL,20,MFSun 11 Mostly Sunny 75F               
+OL,21,G                                       
+OL,22,                                        
+OL,23,                                        
+OL,24, AIndex    BSport    CCharts   FWeather 
+FL,160,162,163,165,100,100
