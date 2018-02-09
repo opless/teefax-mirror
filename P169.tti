@@ -1,32 +1,30 @@
-DE,LA on the QT Page 169
-DS,inserter
-CT,8,T
 PN,16900
 SC,0000
 PS,8000
 RE,0
-OL,1,V7##   GA B CHDIE     V5 j5      // 
-OL,2,Q5   j jjs{ s31ss1 5 j5#57k pp 
-OL,3,Vupr{Vpzjpp0ppz5ppz5 u:t: 5sz 1   
-OL,4,BBorn Chicago 1Y01.                     
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V7###  GA B CHDIE     V5 j5      // 
+OL,2,Q5   j jjs{ ss1ss1 5 j5#57k pp 
+OL,3,Vupr{ pzjpp0ppz5ppz5 u:t5 5sz 1   
+OL,4,BBorn Chicago 1901.                     
 OL,5,                                        
-OL,6,FStarted liff as a commercial artist.   
+OL,6,FStarted life as a commercial artist.   
 OL,7,                                        
-OL,8,EMade firsr film in 1920                
+OL,8,EMade first film in 1920                
 OL,9,                                        
 OL,10,BQuote: "I guess I do have a special    
 OL,11,Bfeeling for mice".                     
 OL,12,                                        
-OL,13,FMade over 700 films dWcluding some real
+OL,13,FMade over 700 films including some real
 OL,14,Flife nature films.                     
 OL,15,                                        
-OL,16,EAs Hollywood's most honoured cirizen   
-OL,17,Fwith more rhan 950 citations to his    
-OL,18,EV`lf including 33 Oscars & 3 Elljes    
+OL,16,EAs Hollywood's most honoured citizen   
+OL,17,Fwith more than 950 citations to his    
+OL,18,Ename including 32 Oscars & 5 Emmys.    
 OL,19,                                        
 OL,20,BDied 1966.                             
 OL,21,A          MXWALT DISNEY                
-OL,22,                                        
-OL,23,C       PRESS REVEAL FWR ANSWER         
-OL,24,                                        
-FL,164,168,100,164,100,100
+OL,22,A          MXWALT DISNEY                
+OL,23,C       PRESS REVEAL FOR ANSWER         
+OL,24, AOnTheQT    BNews   CMovies   FWeather 
+FL,160,161,163,165,100,100
