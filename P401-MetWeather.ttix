@@ -1,0 +1,66 @@
+DE,Weather Map
+DS,Inserter
+SP,\192.168.1.9\ceefax\new.tti
+PN,40101
+SC,0001
+PS,8000
+CT,15,T
+RE,0
+OL,0,P401[CCX [E1122 1702[FWeathermap      [AAuto
+OL,1,[T[][G            Today 1000               
+OL,2,           [^[Z[V 4`~|}            [G 1/2 
+OL,3,           [Z[V`?0~[G06[V             [FSunny
+OL,4,           [V[Zj**gppp                 
+OL,5,           [^[Z[V({5                
+OL,6,           [^[Z[V!'~[G 07[V!                
+OL,7,           [^[Z[V ~ow1                 
+OL,8,           [^[Z[V*y?sp                 
+OL,9,           [^[Z[Vj)"[G 06[V}                
+OL,10,       [^[Z[Vp|t [Vx[Vg0               
+OL,11,       [Z[Vn[G08[Vt[V+"[V[G08[V               
+OL,12,       [Z[V+[V`4[V+|0             
+OL,13,        [Z[V+%*o![V" [R *u  [BLight Rain
+OL,14,             [^[Z[R`  [R*[G 08[R}            
+OL,15,[ECloudy      [^[Z[Rk|[V            
+OL,16,             [^[Z[R'o[G 08[U}zt         
+OL,17,               [Z[Rj[^[V[G 08[U         
+OL,18,             [Z[Rx|[^[G 09[U'         
+OL,19,             [^[Z[R! +/'i[Vqp0        
+OL,20,             [^[Z[V  t[G 09[V/!        
+OL,21,             [Z[V z[G10[V[^/s/[V/?           
+OL,22,            [Z[V8?' "'    "               
+OL,23,[D[][G        From the Met Office          
+OL,24,[AN.Ire Weath[BSport[CTrav Head [FMain Menu 
+FL,402,300,430,100,0,199
+PN,40102
+SC,0002
+PS,8000
+CT,15,T
+RE,0
+OL,0,P401[CCX [E1122 1702[FWeathermap      [AAuto
+OL,1,[T[][G           Tonight 0600              
+OL,2,           [^[Z[V 4`~|}            [G 2/2 
+OL,3,           [Z[V`?0~[G07[V            [FCloudy
+OL,4,           [V[Zj**gppp                 
+OL,5,           [^[Z[V({5                
+OL,6,           [^[Z[V!'~[G 04[V!                
+OL,7,           [^[Z[V ~ow1                 
+OL,8,           [^[Z[R*y?sp           [BClear
+OL,9,           [^[Z[Rj)"[G 05[R}                
+OL,10,       [^[Z[Rp|t [Rx[Vg0               
+OL,11,       [Z[Rn[G04[Rt[R+"[V[G07[V               
+OL,12,       [Z[R+[V`4[V+|0             
+OL,13,        [Z[R+%*o![V" [V *u             
+OL,14,             [^[Z[V`  [V*[G 08[V}            
+OL,15,             [^[Z[Vk|[V            
+OL,16,             [^[Z[V'o[G 09[V}zt         
+OL,17,               [Z[Vj[^[V[G 05[V         
+OL,18,             [Z[Vx|[^[G 08[V'         
+OL,19,             [^[Z[V! +/'i[Vqp0        
+OL,20,             [^[Z[V  t[G 06[V/!        
+OL,21,             [Z[V z[G07[V[^/s/[V/?           
+OL,22,            [Z[V8?' "'    "               
+OL,23,[D[][G        From the Met Office          
+OL,24,[AN.Ire Weath[BSport[CTrav Head [FMain Menu 
+FL,402,300,430,100,0,199
+@
