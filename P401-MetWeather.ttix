@@ -6,27 +6,27 @@ SC,0001
 PS,8000
 CT,15,T
 RE,0
-OL,0,P401CCX E0807 2402FWeathermap      AAuto
-OL,1,T]G            Today 0900               
+OL,0,P401CCX E2101 2402FWeathermap      AAuto
+OL,1,T]G  This Evening and Tonight 2100      
 OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G06V             FSunny
+OL,3,           ZV`?0~G07V             FClear
 OL,4,           VZj**gppp                 
 OL,5,           ^ZR({5                
 OL,6,           ^ZR!'~G 05R!         BCloudy
 OL,7,           ^ZR ~ow1                 
 OL,8,           ^ZV*y?sp                 
-OL,9,           ^ZVj)"G 05V}                
-OL,10,       ^ZRp|t VxVg0               
-OL,11,       ZRnG05RtV+"VG05V               
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u             
-OL,14,             ^ZV`  V*G 05V}            
+OL,9,           ^ZVj)"G 06V}                
+OL,10,       ^ZVp|t VxVg0               
+OL,11,       ZVnG05VtV+"VG06V               
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u             
+OL,14,             ^ZV`  V*G 06V}            
 OL,15,             ^ZVk|V            
-OL,16,             ^ZV'oG 04V}zt         
-OL,17,               ZVj^VG 05V         
+OL,16,             ^ZV'oG 05V}zt         
+OL,17,               ZVj^VG 06V         
 OL,18,             ZVx|^G 06V'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,             ^ZV  tG 05V/!        
+OL,20,             ^ZV  tG 06V/!        
 OL,21,             ZV zG06V^/s/V/?           
 OL,22,            ZV8?' "'    "               
 OL,23,D]G        From the Met Office          
@@ -37,20 +37,20 @@ SC,0002
 PS,8000
 CT,15,T
 RE,0
-OL,0,P401CCX E0807 2402FWeathermap      AAuto
-OL,1,T]G           Tonight 0600              
+OL,0,P401CCX E2101 2402FWeathermap      AAuto
+OL,1,T]G           Sunday 0600               
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G-2V             FClear
 OL,4,           VZj**gppp                 
 OL,5,           ^ZV({5                
-OL,6,           ^ZV!'~G -1V!                
+OL,6,           ^ZV!'~G -2V!                
 OL,7,           ^ZV ~ow1                 
 OL,8,           ^ZR*y?sp          BCloudy
 OL,9,           ^ZRj)"G 00R}                
-OL,10,       ^ZRp|t RxVg0               
-OL,11,       ZRnG01RtR+"VG-1V               
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u             
+OL,10,       ^ZRp|t RxRg0               
+OL,11,       ZRnG01RtR+"RG-1R               
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" V *u             
 OL,14,             ^ZR`  V*G -2V}            
 OL,15,             ^ZRk|R            
 OL,16,             ^ZR'oG -2V}zt         
