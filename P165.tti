@@ -3,28 +3,28 @@ SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,S|hh4||4||4||h4|h||h||Wx}~mtS $r0$V`~}{t
-OL,2,Sjj5,$z5j5j}j=,j}wWoo?S(j(V*o?
-OL,3,S///%//%/+%*%*%/*//*%/F////S  $c!$WG* *W
-OL,4,                                        
-OL,5,A      Mon 26th - Fri 30th Mar 2018     
-OL,6,C                                       
-OL,7,MFMon 26 Sunny/Wind    67F              
-OL,8,MFMon 26 Sunny/Wind    67F              
-OL,9,G                                       
-OL,10,MCTue 27 Sunny/Wind    75F              
-OL,11,MCTue 27 Sunny/Wind    75F              
-OL,12,G                                       
-OL,13,MFWed 28 Sunny         80F              
-OL,14,MFWed 28 Sunny         80F              
-OL,15,G                                       
-OL,16,MCThu 29 Sunny         79F              
-OL,17,MCThu 29 Sunny         79F              
-OL,18,G                                       
-OL,19,MFFri 30 Partly Cloudy 78F              
-OL,20,MFFri 30 Partly Cloudy 78F              
-OL,21,G                                       
+OL,1,RZ||0||4h||h||h||  ||4 h||h||h||U`~t
+OL,2,QZj5 j5ju?juj5*%,$/ju?juj5U*}|~h|>
+OL,3,UZ//!//!*%/*%/*%/  //% *%/*%/*%/U /wss{%
+OL,4,C SPIN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+OL,5,                                        
+OL,6,                                        
+OL,7,                                        
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24, AIndex    BSport    CCharts   FWeather 
-FL,160,162,163,165,100,100
+OL,24,                                        
+FL,0,0,0,0,100,100
