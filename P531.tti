@@ -6,16 +6,16 @@ SC,0001
 OL,1,Übedford weather  Çcy2.uk/weatherá   1/2
 OL,2,îù ìh40|x|t`<l0,,j=l0x|t`<,            
 OL,3,îù ì"--'+,$*'+% / *%*%+,$*%             
-OL,5,Mon, 02 Apr at 10:45 BST
-OL,6,Temperature: 9.8C
-OL,7,Humidity:    98%
-OL,8,Wind: S, 1 mph
+OL,5,Tue, 03 Apr at 10:45 BST
+OL,6,Temperature: 13.5C
+OL,7,Humidity:    85%
+OL,8,Wind: ESE, 1 mph
 OL,9,Rain: 0.0 mm
-OL,10,Pressure: 998 hPa, falling
-OL,11,Cloud base: 38 m
+OL,10,Pressure: 992 hPa, rising slowly
+OL,11,Cloud base: 309 m
 OL,12,12 hour weather forecast, computed on
-OL,13,Mon, 02 Apr at 09:45 BST:
-OL,14,Occasional rain, worsening.
+OL,13,Tue, 03 Apr at 09:45 BST:
+OL,14,Rather unsettled clearing later.
 OL,15,This forecast is highly experimental!
 OL,23,Ñùá                     More followsà>
 OL,24,ÅGallery ÇSnowman ÉLabyrinth ÜLA Weather
@@ -34,10 +34,10 @@ OL, 9,  24ï
 OL,10,  21ï                        
 OL,11,  18ï                        
 OL,12,  15ñ                        
-OL,13,  12ñ                        
-OL,14,   9ñ    pp,p,pp             
-OL,15,   6ñ pp,       #,,,pp      p
-OL,16,   3î#                ##,p,# 
+OL,13,  12ñ     pppp pp            
+OL,14,   9ñ  p,#    #  #####,######
+OL,15,   6ñ,#                      
+OL,16,   3î                        
 OL,17,   0î                        
 OL,18,  -3î                        
 OL,19,  -6î                        
