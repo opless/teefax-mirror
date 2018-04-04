@@ -6,7 +6,7 @@ SC,0001
 PS,8000
 CT,15,T
 RE,0
-OL,0,P401CCX E2101 0304FWeathermap      AAuto
+OL,0,P401CCX E0807 0404FWeathermap      AAuto
 OL,1,T]G            Today 1000               
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G04V        FLight Rain
@@ -37,7 +37,7 @@ SC,0002
 PS,8000
 CT,15,T
 RE,0
-OL,0,P401CCX E2101 0304FWeathermap      AAuto
+OL,0,P401CCX E0807 0404FWeathermap      AAuto
 OL,1,T]G           Tonight 0600              
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G01V            FCloudy
