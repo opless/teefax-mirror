@@ -9,7 +9,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,V75755 55EVOL 1, LP 1, SIDE 1, TRACK 1  
-OL,3,V55u5uu51EPhil Collins             F1/3 
+OL,3,V55u5uu51EPhil Collins             F1/5 
 OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,6,EYOU CAN'T HURRY LOVE                   
 OL,7,EPeaked atFNumber 1E(2 weeks, Jan 83)   
@@ -36,7 +36,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,V75755 55EVOL 1, LP 1, SIDE 1, TRACK 1  
-OL,3,V55u5uu51EPhil Collins             F2/3 
+OL,3,V55u5uu51EPhil Collins             F2/5 
 OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,6,EYOU CAN'T HURRY LOVE                   
 OL,7,E                                       
@@ -55,6 +55,7 @@ OL,19,Fcovers go, though, it's thoroughly
 OL,20,Fcompetent, and - whisper it softly -   
 OL,21,Fmaybe even a bit good.                 
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A Index B   About   C Events F Archive  
 FL,400,420,800,200,8ff,100
 PN,42103
 SC,0003
@@ -63,7 +64,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,V75755 55EVOL 1, LP 1, SIDE 1, TRACK 1  
-OL,3,V55u5uu51EPhil Collins             F3/3 
+OL,3,V55u5uu51EPhil Collins             F3/5 
 OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,6,EYOU CAN'T HURRY LOVE                   
 OL,7,E                                       
@@ -82,5 +83,63 @@ OL,19,Fbenchmark, isn't it? Well, as this song
 OL,20,Fis, appropriately enough, just the     
 OL,21,Fright side of the middle of the road...
 OL,22,                        C   SCORE: 6/10 
-OL,23,V,FNEXT TIME: DURAN DURAN!V,,,,,,,,,,,,,
+OL,23,V,FNEXT: QUEEN!V,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A Index B   About   C Events F Archive  
+FL,400,420,800,200,8ff,100
+PN,42104
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,V75755 55EVOL 2, LP 1, SIDE 1, TRACK 1  
+OL,3,V55u5uu51EQueen                    F4/5 
+OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,6,ERADIO GA GA                            
+OL,7,EPeaked atFNumber 2E(2 weeks, Feb 84)   
+OL,9,FOne of the reasons it's taken me ages 
+OL,10,Fto do entry number 2 is that it means 
+OL,11,Fworking out my opinion on Queen.       
+OL,12,F                                       
+OL,13,FI mean, it's Queen, y'know? Excellent
+OL,14,Fmusicians, undoubtedly. A gift for a  
+OL,15,Fgood hook (though not maybe quite as  
+OL,16,Fgreat at a whole tune). Their finest  
+OL,17,Fmoment was when they outsourced most
+OL,18,Fof the heavy lifting to David Bowie.
+OL,19,F                                    
+OL,20,FAnd they're the ultimate critic-proof
+OL,21,Fband. Nothing I say here will change
+OL,22,Fyour opinion of them. Just as well.
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A Index B   About   C Events F Archive  
+FL,400,420,800,200,8ff,100
+PN,42105
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,V75755 55EVOL 2, LP 1, SIDE 1, TRACK 1  
+OL,3,V55u5uu51EQueen                    F5/5 
+OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,6,ERADIO GA GA                            
+OL,7,E                                     
+OL,8,FMaybe it's always a bit cynical to 
+OL,9,Fwrite a song like this. It defines
+OL,10,F'radio-friendly'. You can't imagine a 
+OL,11,FDJ turning it down for any playlist.
+OL,12,F                                       
+OL,13,FIt's still rather over-sincere. Roger
+OL,14,FTaylro makes sure you don't forget 
+OL,15,Fthat he loved the radio. But the   
+OL,16,Fproduction's plodding, the clapping 
+OL,17,Fchorus predictable, and despite the   
+OL,18,Fvideo, it's hard to shake the feeling
+OL,19,Fthat the wisdom of crowds got it     
+OL,20,Fright when it put Frankie'sERelax,
+OL,21,Fand not this, at number one.         
+OL,22,                        C   SCORE: 5/10 
+OL,23,V,FLATER: DURAN DURAN!V,,,,,,,,,,,,,,,,,
+OL,24,A Index B   About   C Events F Archive  
 FL,400,420,800,200,8ff,100
