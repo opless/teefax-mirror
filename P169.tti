@@ -1,5 +1,8 @@
-PN,16900
-SC,0000
+DE,LA on the QT Page 169
+DS,inserter
+CT,20,T
+PN,16901
+SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -28,3 +31,33 @@ OL,22,A          MXWALT DISNEY
 OL,23,C       PRESS REVEAL FOR ANSWER         
 OL,24, AOnTheQT    BNews   CMovies   FWeather 
 FL,160,161,163,165,100,100
+PN,16902
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,S|hh4||4||4||h4|h||h||Wx}~mtS $r0$V`~}{t
+OL,2,Sjj5,$z5j5j}j=,j}wWoo?S(j(V*o?
+OL,3,S///%//%/+%*%*%/*//*%/F////S  $c!$WG* *W
+OL,4,                                        
+OL,5,G    D]G                                
+OL,6,ID]GGasoline Self Serve                 
+OL,7,G    D]G-------------------             
+OL,8,G    D]GRegularM  347                   
+OL,9,G    D]G       M  347                   
+OL,10,G    D]G------------------              
+OL,11,G    D]GPlus   M  356                   
+OL,12,G    D]G       M  356                   
+OL,13,G    D]G------------------              
+OL,14,G    D]GSupremeM  366                   
+OL,15,G    D]GSupremeM  366                   
+OL,16,G    D]G------------------              
+OL,17,G    C]DM         329                   
+OL,18,D    C]DM         329                   
+OL,19,D    D]G------------------              
+OL,20,G    B]GM  ATM                          
+OL,21,G    B]GM  ATM                          
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
