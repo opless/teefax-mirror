@@ -36,28 +36,88 @@ SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,S|hh4||4||4||h4|h||h||Wx}~mtS $r0$V`~}{t
-OL,2,Sjj5,$z5j5j}j=,j}wWoo?S(j(V*o?
-OL,3,S///%//%/+%*%*%/*//*%/F////S  $c!$WG* *W
-OL,4,                                        
-OL,5,G    D]G                                
-OL,6,ID]GGasoline Self Serve                 
-OL,7,G    D]G-------------------             
-OL,8,G    D]GRegularM  347                   
-OL,9,G    D]G       M  347                   
-OL,10,G    D]G------------------              
-OL,11,G    D]GPlus   M  356                   
-OL,12,G    D]G       M  356                   
-OL,13,G    D]G------------------              
-OL,14,G    D]GSupremeM  366                   
-OL,15,G    D]GSupremeM  366                   
-OL,16,G    D]G------------------              
-OL,17,G    C]DM         329                   
-OL,18,D    C]DM         329                   
-OL,19,D    D]G------------------              
-OL,20,G    B]GM  ATM                          
-OL,21,G    B]GM  ATM                          
+OL,1,T]W   `||0 |||0 `||0 `||0Q Q x5}0       
+OL,2,T]W   !"  b !"/ !"Q Q./!+/$      
+OL,3,T]W   // /ou 0`| 0`Q Q+4~?!      
+OL,4,T]W   /  / /  / "//! "//!Q Q "%'        
+OL,5,G                                       
+OL,6,     D]G                        \       
+OL,7,     D]GGasoline Self Serve     \       
+OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,,   \       
+OL,9,G    D]GUnleadedWss5ss5ws1G9/   \       
+OL,10,G    D]G        Wpp5pp5pp5G10   \       
+OL,11,G    D]W,,,,,,,,,,,,,,,,,,,,,   \       
+OL,12,G    D]GPlus    Wss5ws1ws1G9/   \       
+OL,13,G    D]G        Wpp5pp5pp5G10   \       
+OL,14,G    D]W,,,,,,,,,,,,,,,,,,,,,   \       
+OL,15,G    D]GPremium Wss5ws1ws1G9/   \       
+OL,16,G    D]G        Wpp5up5pp5G10   \       
+OL,17,G    D]W,,,,,,,,,,,,,,,,,,,,,   \       
+OL,18,G    D]G             L          \       
+OL,19,G                    L                  
+OL,20,G                                       
+OL,21,G                                       
 OL,22,                                        
 OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,16903
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,StS"o4P      T`ppppppp0P      Sh?!Sx
+OL,2,W}0W+5P      V*7#####k%P      Wj'W`~
+OL,3,WotW"%P       UeP   U:P       W*!Wx?
+OL,4,PW+}0P        QjP   Q5P        W`~'P
+OL,5,StS"o4P        T5P TjP        Sh?!Sx
+OL,6,W}0W+5P     Qp|5P Qj|pP     Wj'W`~
+OL,7,SotS"%P    Qz}|||~uP    S*!Sx?
+OL,8,PV+}0P    U`7+//'k0P    V`~'P
+OL,9,StS"o4P   Uju0PU##PU`z5P   Sh?!Sx
+OL,10,V}0V+5P  Qp"?c0PQ#s#PQ`3o!pP  Vj'V`~
+OL,11,UtU"%P  Qj?q||2j5a||ro5P  U*!Ux
+OL,12,V"o}0P   U2j~}5aP   V`~?!
+OL,13,U0U+4P  Uj/~}/5P  Uh'U`
+OL,14,QtQ"o5P  Qkj5/o?/j57P  Qj?!Qx
+OL,15,U}0U+5P   Q*'P   Q+%!P  Uj'U`~
+OL,16,Q"otP      T"#U`||0T#!P      Qx?!
+OL,17,T0T+}0P       Q///////P       T`~'T`
+OL,18,QtQ"o5P   T1P Q~}P TbP   Qj?!Qx
+OL,19,T}0T+5P   TvP U+'P TyP   Tj'T`~
+OL,20,P           TjP  T"+/'!P  T5P           
+OL,21,T0T+}0P    TeP   T|P   T:P    T`~'T`
+OL,22,QtQ"o5P     T)pP     Tp&P     Qj?!Qx
+OL,23,U}0U+5P       T#),,,&#P       Uj'U`~
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,16904
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,G]Q          h|||<                      
+OL,2,G]Q          j##                       
+OL,3,G]Q         x?!ELECTRONICS            
+OL,4,G]Q          j ?jj*!?'            
+OL,5,G]Q          j 5 jz  c{            
+OL,6,G]Q          "# #! "#k  ###            
+OL,7,G]Q                  *!                 
+OL,8,GM            WEEKLY DEALSL             
+OL,9,GM            WEEKLY DEALSL             
+OL,10,G                                       
+OL,11,GFATYME 43" 4K Ultra HD LED TV.....C$229
+OL,12,G                                       
+OL,13,GFSAMSUNG 40" 4K UHD Smart TV......C$328
+OL,14,G                                       
+OL,15,GFATYME 49" UHD LED TV.............C$249
+OL,16,G                                       
+OL,17,GFPHILIPS 55 Smart 4K HDR LED TV...C$339
+OL,18,G                                       
+OL,19,B Prices good through Sat April 21, 2018
+OL,20,G                                       
+OL,21,G                                       
+OL,22,G]A    CELLPHONE CLEARANCE BLOWOUT      
+OL,23,G]A   Huge savings on MAJOR brands      
 OL,24,                                        
 FL,0,0,0,0,100,100
