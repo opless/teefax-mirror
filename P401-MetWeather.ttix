@@ -6,7 +6,7 @@ SC,0001
 PS,8000
 CT,15,T
 RE,0
-OL,0,P401CCX E0806 2004FWeathermap      AAuto
+OL,0,P401CCX E2102 2004FWeathermap      AAuto
 OL,1,T]G  This Evening and Tonight 2200      
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G17V             FClear
@@ -37,7 +37,7 @@ SC,0002
 PS,8000
 CT,15,T
 RE,0
-OL,0,P401CCX E0806 2004FWeathermap      AAuto
+OL,0,P401CCX E2102 2004FWeathermap      AAuto
 OL,1,T]G           Friday 0600               
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G10V            FCloudy
