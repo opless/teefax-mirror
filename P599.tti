@@ -6,6 +6,36 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T]G  .^ T\T' Wppx<|t Tk]G       .   
+OL,2,T%W8/'#+#! !"(Tj]G.     .    
+OL,3,T%W(#        W`&Tz]G   .       
+OL,4,T7 W!        Wb1Th]G       .   
+OL,5,T      W `px|}To]G .  .      
+OL,6,T5    W`~uT]G  .    .  
+OL,7,Tu    Wbo6?#Tk]G     .   .
+OL,8,T0   Wbvgo'cqr{}(cyT]G .       
+OL,9,T=   Wo}9sxgpdktcxTj]G       . 
+OL,10,T?QWk94+?f$syyg;5k5T]G.        
+OL,11,TTx5Wgbdbe~?a+//'zT://o]G   .  
+OL,12,TT*! WV|W?ky?h//, p1U`~1T+o]G    
+OL,13,T'+#T<   W(2uo9um2*;'+(U{acx-T]G  . 
+OL,14,T'Um2h0 Q`4W)2m{:}l?'5Uo|.aT,//o]G 
+OL,15,T?U+l<tqxQ~U}W"f-m{};|p|QtU~'x.w+T]G 
+OL,16,T5Ur+,rQ~Uju0W3-r;//!Q}$U{|r3T]G.
+OL,17,T7U2+~9Qh}U'#%`VW#V UnQ.'Ux/}4<T>/o
+OL,18,TuU+-|tsQ~?o4U`$Vo}x?U"Q|0Um||wx<'T
+OL,19,T?Uq2s+-dpQ+'xUj7Vn?+$UQtUx"-d+Tn
+OL,20,T'U~/ar#sx&8QzuUo4l tj}Q5U+ot)>T?
+OL,21,Q xU5$s8~'q~Qx2uUo:5jQjU=tr),`p
+OL,22,QzwUlr#x!.'qQ+ov}U+}z~5Q7U|ts++/#
+OL,23,Q?99Uyua|?/c0Qo;}0Um+uQ5U}s-l'7/
+OL,24,QfffeUa~'sxtQ+2o0U}:QUxt+o}6ot
+FL,0,0,0,0,100,100
+PN,59902
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,W|ltt|$W||($`|||(l|4|h4|||||l||lltWl|l||
 OL,2,W=9y7`~?'`|2u1~x}w~u~?j}}}2moo
 OL,3,Ww~?wx?'s~'x5vo}{}t?ot){
@@ -31,8 +61,8 @@ OL,22,Wwm=sm(0"p|~9o9wo}y}tW)9an~uoo
 OL,23,W99W8y{'xo}7owm2-2&8{?9
 OL,24,PQk(u``P R`d`d`d8`P S?`8d`(`S`P Vwh``dP 
 FL,0,0,0,0,100,100
-PN,59902
-SC,0002
+PN,59903
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -61,8 +91,8 @@ OL,22,R
 OL,23,S|||||||||||||GSophie, 7S|||||||||||||||
 OL,24,APen Pals  BWritePit  CTVP FClubP140P   
 FL,0,0,0,0,100,100
-PN,59903
-SC,0003
+PN,59904
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -91,8 +121,8 @@ OL,22,P        FThere was a page here,
 OL,23,P         Fbut the cat atePit.       P  
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59904
-SC,0004
+PN,59905
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -121,8 +151,8 @@ OL,22,W /%j // 5(, 5bo 5h| 7#k |tz ,$j| |
 OL,23,Wpuzuzuzuz}pursppsqzpuzp
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59905
-SC,0005
+PN,59906
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -151,8 +181,8 @@ OL,22,P          S#-|?!P SovfS+v$P
 OL,23,P                    S#!P               
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59906
-SC,0006
+PN,59907
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -181,8 +211,8 @@ OL,22,FServe with a glass of warm, milky
 OL,23,Fwater.                                 
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59907
-SC,0007
+PN,59908
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -211,8 +241,8 @@ OL,22,PZ              Q#-!P Q``p)#+/2P
 OL,23,PZ                      Q!P             
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59908
-SC,0008
+PN,59909
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -241,8 +271,8 @@ OL,22,T                    (]V]          Tj\
 OL,23,R                     T]V]         Tz\  
 OL,24,R                      T]Vo]    ^\T?   
 FL,0,0,0,0,100,100
-PN,59909
-SC,0009
+PN,59910
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -271,8 +301,8 @@ OL,22,U]T]DEAF[
 OL,23,G10% chance disobey/ignore/mischief     
 OL,24,AExit   BStats   CAbilities   FInventory
 FL,0,0,0,0,100,100
-PN,59910
-SC,0010
+PN,59911
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -301,8 +331,8 @@ OL,22,U]       S#"!!!US###!S"""!!U         Pj
 OL,23,U"####################################!P
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59911
-SC,0011
+PN,59912
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -331,8 +361,8 @@ OL,22,W  `}~?{y}~wvtt}t  `|}~)d )d #$
 OL,23,W(/c*+|u )0 "$      
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59912
-SC,0012
+PN,59913
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -361,8 +391,8 @@ OL,22,VtQo?Vx
 OL,23,S|||||||||||||||GNeil, 11S||||||||||||||
 OL,24,APen Pals BTurner CWrite It! FDigitiser 
 FL,0,0,0,0,100,100
-PN,59913
-SC,0013
+PN,59914
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -391,8 +421,8 @@ OL,22,V    00&4"` #f0$b3o}/3$$!!#  `
 OL,23,V(! &b`" ) $.d3  r)3fn}r)lp(f,0 d a
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59914
-SC,0014
+PN,59915
+SC,0015
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -421,8 +451,8 @@ OL,22,W    U           
 OL,23,W    U                
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59915
-SC,0015
+PN,59916
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -451,8 +481,8 @@ OL,22,W9);a091;}939p9;y9p89#9;y;9-:i{9{y?!
 OL,23,D]GTheyBdon'tGlive onBChristmas Island. 
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59916
-SC,0016
+PN,59917
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -481,8 +511,8 @@ OL,22,W5     2w}|*j
 OL,23,W?!     "l]S"DXI'm Blodwyn!Qb,5        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59917
-SC,0017
+PN,59918
+SC,0018
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -511,8 +541,8 @@ OL,22,S           ###//+########!
 OL,23,G                 thomasthurman.org     
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59918
-SC,0018
+PN,59919
+SC,0019
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
