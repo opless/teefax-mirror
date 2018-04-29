@@ -1,6 +1,8 @@
-DE,Christmas Gallery
-PN,89800
-SC,0000
+DE,LA on the QT Page 898
+DS,inserter
+CT,20,T
+PN,89801
+SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -27,5 +29,35 @@ OL,20, T$T$T$+tQ*?Qh?//% Q~}|u*u T`~?!$T$T$
 OL,21,T!T!T!T!"/}p Q/}tp0Qh!Q"o$/T|'T!T!T!T!
 OL,22,         T"/|pQ##/'*%  Tpx~'!         
 OL,23,            T+/}|||||?/#            
-OL,24, A           B           C           F  
-FL,900,900,900,900,100,100
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,89802
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,                                        
+OL,2,QZ        `||t0                       
+OL,3,RZ p| Q  h}0                      
+OL,4,RZ"ou-Qz4  `p||||t0           
+OL,5,RZ"+Q`|t          
+OL,6,RZ0 "+'Q~5         
+OL,7,RZ~tp  Q5         
+OL,8,RZ+! Qj?          
+OL,9,RZ  ~?Q j!          
+OL,10,RZ % Q ?!           
+OL,11,RZk  Q  k?#  Z -4 0    
+OL,12,QZ      Q"'!RQZ -~5?0   
+OL,13,Z        Qk?'R/tj4Qz?g~vk|   
+OL,14,QZ        *?'  R b{}Qu~?:+0  
+OL,15,QZ         o'!     Z Qz5k=odp90 
+OL,16,QZ         "?'Z       0 ~6o'js#fj5u8! 
+OL,17,QZ          #Z        jq~5 x4e%   
+OL,18,                   QZ "/g! :us&    
+OL,19,                      AQZ#  5&5    
+OL,20,                      QZ    "#!o?/#     
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
