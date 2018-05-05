@@ -1,0 +1,100 @@
+DE,Peter's Muttlee testing page
+DS,inserter
+SP,J:\peter\teefax\P795.tti
+CT,8,T
+PN,79501
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q||||||||||||||||||||||||||||||||||||||\
+OL,2,A]S *o?%//h?/%//h?/%~/}j?o4/}h?/%   \
+OL,3,A]S  j5 ,,*-l4  j5  ,j=n1 *-l4   \
+OL,4,A]S  j5 ||h|~%  *}|4 j5j5|?h|~%   \
+OL,5,A]S (,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$   \
+OL,6,Q###################################### 
+OL,7,0123456789012345678901234567890123456B07
+OL,8,|.........|.........|.........|......B08
+OL,9,0123456789012345678901234567890123456B09
+OL,10,|.........|.........|.........|......B10
+OL,11,0123456789012345678901234567890123456B11
+OL,12,|.........|.........|.........|......B12
+OL,13,0123456789012345678901234567890123456B13
+OL,14,|.........|.........|.........|......B14
+OL,15,0123456789012345678901234567890123456B15
+OL,16,|.........|.........|.........|......B16
+OL,17,0123456789012345678901234567890123456B17
+OL,18,|.........|.........|.........|......B18
+OL,19,0123456789012345678901234567890123456B19
+OL,20,|.........|.........|.........|......B20
+OL,21,0123456789012345678901234567890123456B21
+OL,22,|.........|.........|.........|......B22
+OL,23,CPeter's test. Not an historic card. B23
+OL,24,A Test Cards B Specs C VBIT-Pi FIndexB24
+FL,790,797,785,700,8ff,100
+PN,79502
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,A          TEXAS INSTRUMENTS            
+OL,4,A TIFAX ROW OUTPUT CHARACTER GENERATOR  
+OL,6,FABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+~
+OL,7,F             <>?:"}|]                 
+OL,8,Eabcdefghijklmnopqrstuvwxyz1234567890-=`
+OL,9,E             ,./;'{[\                 
+OL,10,B     ABCDEFGHIJKLMNOPQRSTUVWXYZ        
+OL,11,S1234567890-=`qwertyuiopasdfghjkl;'{zxcv
+OL,12,S      bnm,./!#$%&*()+~|:"}<>?        
+OL,14,DTHE NEW CHARACTERS ARE                 
+OL,15, A QUARTER                { { { { { { { 
+OL,16, A HALF                   \ \ \ \ \ \ \ 
+OL,17, THREE-QUARTERS           } } } } } } } 
+OL,18, ARROW POINTING LEFT      [ [ [ [ [ [ [ 
+OL,19, ARROW POINTING RIGHT     ] ] ] ] ] ] ] 
+OL,20, TWO VERTICAL LINES       | | | | | | | 
+OL,21, A WIDE BAR               ` ` ` ` ` ` ` 
+OL,22, THE "DIVIDE" SYMBOL      ~ ~ ~ ~ ~ ~ ~ 
+OL,23, CHARACTER "WHITE" SYMBOL        
+FL,790,797,785,700,8ff,100
+PN,79503
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,B       ORACLE CONTROL TEST PAGE     451
+OL,2,B       --------------------------------
+OL,3,abcdefghijklmnopqrstuvwxyz1234567890-=`+
+OL,4,\;'{,./!@#$%^&*()_[~]|:"}<>?           
+OL,5,ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-=`+
+OL,6,\;'{,./!@#$%^&*()_[~]|:"}<>?           
+OL,8,whiteAredBgreenDblueFcyanEmagentaCyellow
+OL,10,W  Q  R   T  V  U   S  
+OL,12,CHflashIsteady KKBOXJJ  UNBOX XCONCEAL  
+OL,14, Q^RR`ST,.WUSHOLD _UNHOLDRT     
+OL,17,C  SINGLEVMDOUBLE HEIGHTLSSINGLE        
+OL,18, THIS IS NOT A D/H DECODER              
+OL,20, DISCRETERZp x |WCONTIGUOUSRYp x |      
+OL,22,A]BFIX BACKGROUND      \UNFIXMD/HHFLASH 
+FL,790,797,785,700,8ff,100
+PN,79504
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,3,CNEW FACILITIES - "HOLD"                
+OL,4,C-----------------------                
+OL,6,FThis allows transition from colour     
+OL,7,Fto colour in the graphics mode         
+OL,8,Fwithout any gap                        
+OL,10, Without HOLD:                          
+OL,11, -------------                          
+OL,13, QRTSUVW    
+OL,14, QRTSUVW    
+OL,15, QRTSUVW    
+OL,17, With HOLD:                             
+OL,18, ----------                             
+OL,20, Q^RTSUVWG   
+OL,21, Q^RTSUVWG   
+OL,22, Q^RTSUVWG   
+FL,790,797,785,700,8ff,100

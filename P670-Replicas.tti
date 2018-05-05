@@ -1,6 +1,6 @@
 DE,Teletext Replicas
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P670-Replicas.tti
+SP,J:\peter\teefax\P670-Replicas.tti
 CT,15,C
 PN,67000
 SC,0000
@@ -27,5 +27,5 @@ OL,18,Fscreens are also hard to interpret.
 OL,20,FAbove are listed handmade replicas of  
 OL,21,Fappealing and notable pages from those 
 OL,22,Ftricky videos and photos. - BeeblePete 
-OL,24,AIndex    BNext    CEngineering  FEvents
-FL,606,142,700,800,0,100
+OL,24,ANext BWorld Clock CEngineering  FEvents
+FL,671,142,700,800,0,100
