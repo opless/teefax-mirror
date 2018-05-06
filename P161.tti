@@ -6,6 +6,36 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV        |||(,           |            
+OL,2,T]V        5 jjo5?/jo5            
+OL,3,T]S        upjjj5upjz5s            
+OL,4,T]S        ###"#"#"!###"##!#            
+OL,5,G           Downtown LA, Sat 5 May, 2018
+OL,6,F                                       
+OL,7,CCinco de MayoFofficially commemorates  
+OL,8,Fthe Mexican victory over French troops 
+OL,9,Fin 1862 in Puebla, Mexico. In the U.S. 
+OL,10,Fit also is a day to celebrate Mexican  
+OL,11,FAmerican culture. You'll find Cinco de 
+OL,12,FMayo fiestas, an airshow and food      
+OL,13,Ffestivals this coming weekend.         
+OL,14,C                                       
+OL,15,CJoin a festive Cinco de Mayo           
+OL,16,Ccelebration at El Pueblo Historical    
+OL,17,CMonument and Olvera Street. Visitors   
+OL,18,Ccan watch cultural and folklorico      
+OL,19,Cdances, listen to mariachis and other  
+OL,20,Ctraditional music, break pinatas,      
+OL,21,Cexplore exhibits and eat Mexican foods.
+OL,22,                                        
+OL,23,                                        
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,0,0,0,0,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV|||    h|    h|  |||          |4     
 OL,2,T]V}4*/5o%/oj  5 j%/oj/%?    
 OL,3,T]S5 jw5j {j  upj {bs55    
@@ -31,8 +61,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,0,0,0,0,100,100
-PN,16102
-SC,0002
+PN,16103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -61,8 +91,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16103
-SC,0003
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -91,8 +121,8 @@ OL,22,Euntil 2037.
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16104
-SC,0004
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -121,8 +151,8 @@ OL,22,Fto monitor quakes in Southern
 OL,23,FCalifornia.                            
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16105
-SC,0005
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -151,8 +181,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16106
-SC,0006
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -181,8 +211,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16107
-SC,0007
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -211,8 +241,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16108
-SC,0008
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -241,8 +271,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16109
-SC,0009
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -271,8 +301,8 @@ OL,22,AMoraga Drive, Casiano Road and Linda
 OL,23,AFlora Drive.                           
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16110
-SC,0010
+PN,16111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -301,8 +331,8 @@ OL,22,Fserve as a barricade for cars.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16111
-SC,0011
+PN,16112
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -331,8 +361,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16112
-SC,0012
+PN,16113
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -361,8 +391,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16113
-SC,0013
+PN,16114
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
