@@ -1,6 +1,6 @@
 DE,BeeblePete
 DS,inserter
-SP,V:\_ Teefax\P242.tti
+SP,E:\_ Teefax\P242.tti
 CT,15,T
 PN,24201
 SC,0001
@@ -20,8 +20,8 @@ OL,11,C  teletext from    \Gor select pg. 200
 OL,12,C  Ceefax & others                      
 OL,13,                     F````````````````` 
 OL,14,B Beefax       442                     
-OL,15,C  News and promotions for Doctor Who   
-OL,16,C  fan films and other BeebleTV shows   
+OL,15,C  The best promos for my Doctor Who    
+OL,16,C  fan films and other BeebleTV bits    
 OL,18,E Design Info  701/720                 
 OL,19,C  Teletext specifications useful as    
 OL,20,C  guidelines for producing designs     
@@ -52,7 +52,7 @@ OL,17,R]DX   beeble R\||||,,,,,,,,|,,,,,,,,|||
 OL,18,R]DX   pete   R\T###""bRZ###Yf$ 
 OL,19,R]DX   2017   R\////$,,,,,,(/$,,,,,,(///
 OL,20,Rp||||||||||||||||||||||||
-OL,22,T]GM       Ceefax TV room redux...      
+OL,22,T]GM Mobile device details follow...    
 OL,24,A  Index   BBeefax   CTeefax  FArchive  
 FL,200,442,100,200,0,100
 PN,24203
@@ -146,15 +146,15 @@ SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,S]Q|hh<4|lh<4|h h<4|,h404 |hh<$|lh<4h4  
-OL,2,S]Qkj=5.j=%k7 j55qjuu5 k7jw0nj=1b1  
-OL,3,S]T#""!!# "! "! "!!##"##! "!"#!#""!!"!  
-OL,5,C        NEW YEARS' RESOLUTIONS         
-OL,6,         R`ppppp0  W    p0  Vppppppppp  
-OL,7,U ~?/4  Rj7###w5  Wpx~5  V5       j  
-OL,8,U   j5  Rj5   =5  W5555  V5       j  
-OL,9,U mlo5  Rj}|||5  W/}}}5  Vupppppppz  
-OL,10,U./////$ R 5% *j   W`xt3!  V##s{ws##  
+OL,1,S] Dnew   Q|lh<$|,h<4| h44l<h4|lh<4|,   
+OL,2,S] Dyears'Qijw1sju5pju5j5j5zj55s   
+OL,3,S]        T#""#!##"#!##"#!"!"!##"!!##   
+OL,5,ANipkow disk to 4K digital: year by year
+OL,6,         R`ppppp0  W    p0  Vppppppppp0 
+OL,7,U ~?/4  Rj7###w5  Wpx~5  V5        5 
+OL,8,U   j5  Rj5   =5  W5555  V5        5 
+OL,9,U mlo5  Rj}|||5  W/}}}5  Vupppppppp5 
+OL,10,U./////$ R 5% *j   W`xt3!  V##csws##! 
 OL,12,F1909G 8x8 pixelsFRignoux & Fournier    
 OL,13,F1925G  30 lines FJohn Logie Baird      
 OL,14,F1929G  50 lines FVladimir Zworykin     
@@ -162,10 +162,10 @@ OL,15,F1934G 375 lines FPhilo T Farnsworth
 OL,16,F1936G 405 lines FBBC Television        
 OL,17,F1941G 525 lines FRCA Television        
 OL,18,F1964G 625 lines FBBC 2 Television      
-OL,19,F1987G 768 pixelsFIBM Personal System/2 
-OL,20,F1996G1080 pixelsFWRAL-TV Raleigh       
-OL,21,F2014G2160 pixelsFDirecTV / Samsung     
-OL,23,T]Fbeeblepete                     2017  
+OL,19,F1987G 768 rows  FIBM Personal System/2 
+OL,20,F1996G1080 rows  FWRAL-TV Raleigh       
+OL,21,F2014G2160 rows  FDirecTV / Samsung     
+OL,23,Dbeeblepete                        2016 
 OL,24,A  Index   BBeefax   CTeefax  FArchive  
 FL,200,442,100,200,0,100
 PN,24207
@@ -252,7 +252,7 @@ OL,19,TS]Q5555\W]Q55j\W]Q5555\ W]Q555j\T
 OL,20,TS]Q5555\W]Q55j\W]Q5555\ W]Q555j\T 
 OL,21,TS]Q5555\W]Q55j\W]Q5555\ W]Q555j\T 
 OL,22,T]                                     \
-OL,23,T]Cgoo.gl/lUJQHG     Xbeeblepete 2017 T\
+OL,23,T]Fimgur.com/02AjjML Xbeeblepete 2017 T\
 OL,24,A  Index   BBeefax   CTeefax  FArchive  
 FL,200,442,100,200,0,100
 PN,24210
@@ -260,29 +260,28 @@ SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,W    `p0    D      '64 07 Mar           
-OL,2,T]W 8k?;d   \ h,l4<,|h,l4<,|h,l4|l|hll4 
-OL,3,W55)b$jj  jbn 5{5jb 595jb 515jfn  
-OL,4,T]W )0lv&   \ /,.*-,%/,.*-,%/./*--%/..  
-OL,5,W    "#!                        `p      
-OL,6,V0`   `p0              $ $ W8,##! #),0  
-OL,7,V  `x~|4  (w$(w$      W8!        i  
-OL,8,V  z|r{{sx0            Wj           e 
-OL,9,V hk899k7ffd74           W:           "4
-OL,10,V jj}r8!ftq~55     " !  Wh!  x0        j
-OL,11,V  k;}xxg~' n$n$      Wj   khx0      6
-OL,12,V   o~:j*z%      ($($  W"4(-'ap    05
-OL,13,V ((`2//# |4   ``       W!4f~!8dd~}z`5 
-OL,14,V`|`~}$| h5"%t     <4hl   W*'z7"  
-OL,15,V##"#!"#!##"##!    #!"#   Wk)+'54  
-OL,16,G"FIVE HUNDRED EYES"      W"o/,$m>{?z   
-OL,17,F                        W`|i/,`~~' $  
-OL,18,FSusan and her grand-    Wzig>i3!!`py/d 
-OL,19,Ffather explore an      Whef>h?)///cx~
-OL,20,Fornately-carved,XbeebleW"o|5   "+
-OL,21,Fterrifying cave.Xpete  W`j     h?
-OL,22,F                X2017 W ~u/?    hj7
-OL,23,GDR. WHO 5.15 TONIGHT W`~|4  x|4uo
+OL,2,W0 `~3##############################}0 `
+OL,3,W  j k'!#########################!#&Z5  
+OL,4,W "j bS]                        WZ\5 5! 
+OL,5,W` j jS]U  |||0x||tju h|*5px|~5WZ\5 5 0
+OL,6,W  j jS]U  j5o55jj5j  ####!WZ\5 5  
+OL,7,W  j jS]U  j5j55jj7~       WZ\5 5  
+OL,8,W !j jS]U  j5j55jj5*   j   WZ\5 5" 
+OL,9,W `j jS]U  j}?!+'j5 k   */   WZ\5 50 
+OL,10,W0 j jS]U ppp0 p  `0 |4x| x||   WZ\5 5 `
+OL,11,W  j jS]U*o+ 5 j} o5c3h'5  WZ\5 5  
+OL,12,W 0j jS]U jp?j'} j5j55j #!  WZ\5 5` 
+OL,13,W  j jS]U j7#!|0j5z55j     WZ\5 5  
+OL,14,W `j jS]U 5 j7#ouj5o55j 5  WZ\5 50 
+OL,15,W0 j jS]U % /! j?j5j%%"o!  WZ\5 5 `
+OL,16,W  j bS]                        WZ\1 5  
+OL,17,W  bd    RZ`ppppppppppppppppp0YW Z  81  
+OL,18,W !j ###dRZ///YW8###Z5" 
+OL,19,W0 j    jRZ5!j5!j5!jYW5   Z5 `
+OL,20,W `j    jRZ|||YW5   Z50 
+OL,21,W  j ppp&RZ"#################!YW)pppZ5  
+OL,22,W0 `&R   7#####################k   W)1 `
+OL,23,D  beeblepete                     2018  
 OL,24,A  Index   BBeefax   CTeefax  FArchive  
 FL,200,442,100,200,0,100
 PN,24211
@@ -307,7 +306,7 @@ OL,14,W]Q^   j\_W "k]Vlx0`t<W]Ph~\Q]^Wj]
 OL,15,W]Q^  ` \_}0W ++]V+}~'W^\\ Q`~]^Wo]   
 OL,16,W]Q^  *t2+\_4W  "o?o?!  Qh]^Wx>'z]   
 OL,17,W]Q^  `>o\_%W     *%Q     *]^W `2o]   
-OL,18,W]Q   "m0MA   GEEKFEST 2017    LQ`>!    
+OL,18,W]Q   "m0MA      GEEKFEST      LQ`>!    
 OL,19,W]                                  W]  
 OL,20,W]                                      
 OL,21,W]A          nineworlds.co.uk           
