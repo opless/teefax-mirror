@@ -1,0 +1,8 @@
+DE, MOT 1 - POP1 at P1A1 with default pointer P0, DRCS1 at P1B1
+PN,1FE00
+PF,6,3
+PS,8010
+OL,28,@v@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,3,                          AA            
+OL,19, OO       AJA  C     OO        OO       
+OL,21, OO AKA  OO  OO  OO  OO  OO  OO   B A A 
