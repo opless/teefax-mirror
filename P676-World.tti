@@ -58,36 +58,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67603
 SC,0003
-PS,8000
-RE,0
-OL,0,        CEEFAX 200             Chh:nn.ss
-OL,1,Q]    S`ppppp    `ppppp    `ppppp       
-OL,2,Q]SBBCSj#s#h||||j#ssh||||j#s#h||||  
-OL,3,Q]CTWOSj j ,lj ,.j ,lj s j0/`  
-OL,4,Q]    Sj|||jpssjjpj||j    
-OL,5,Q W   S     (.////    (.////    (.////  
-OL,6,CNEW ON TWOG.......201Q5CFEATURESG...251
-OL,7,Q,,,,,,,,,,,,,,,,,,,,,,=,,,,,,,,,,,,,,,,
-OL,8,CNEWS BACKGROUNDG..202Q5CALARM CLOCKG260
-OL,9,Q,,,,,,,,,,,,,,,,,,,,,,=,,,,,,,,,,,,,,,,
-OL,10,CFUN AND GAMESG....210Q5CCONSUMERG...261
-OL,11,Q,,,,,,,,,,,,,,,,,,,,,,=,,,,,,,,,,,,,,,,
-OL,12,CFAMILY FINANCE/      Q5CTV/RADIOG...279
-OL,13,CINVESTMENT GUIDEG.220Q=,,,,,,,,,,,,,,,,
-OL,14,Q,,,,,,,,,,,,,,,,,,,,,,5CREVIEWSG....280
-OL,15,CSPECTRUMG.........230Q=,,,,,,,,,,,,,,,,
-OL,16,Q,,,,,,,,,,,,,,,,,,,,,,5CCONTACTG....290
-OL,17,CSPORT                Q=,,,,,,,,,,,,,,,,
-OL,18,CBACKGROUNDG.......240Q5CFULL INDEXG.296
-OL,19,Q,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,,,,,
-OL,20,BMARGUMENT: THE FALKLAND ISLANDSG252/253
-OL,21,SS######################################
-OL,22,Q,,,,,,,,,,,,,,,,,,,,,,<,,,,,,,,,,,,,,,,
-OL,23,CNEWSFLASH.........250Q5CNEWSREEL....299
-OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
-PN,67604
-SC,0004
 PS,8080
 RE,0
 OL,0,        500 FFrance3G Ma 07 JulF11:45 11
@@ -116,8 +86,8 @@ OL,22,F]D
 OL,23,G]D                                     
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
-PN,67605
-SC,0005
+PN,67604
+SC,0004
 PS,8100
 RE,0
 OL,26,@idLYo|pdISo|wDKVoxzDKVo|
@@ -146,35 +116,8 @@ OL,22, P} radio n}....F580G
 OL,23,D]G    Alfabetisk oversiktF891-899      
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
-PN,67606
-SC,0006
-PS,8000
-RE,0
-OL,0,        T]CTeletext  \          hh:nn:ss
-OL,1,G                                       
-OL,2,D] S  `pp0`p0`0  pp ppp pp p `0ppp      
-OL,3,D] S  "k7!sj5 jw{5##jw{5+t>!##      
-OL,4,D] S   j5 ssjupjws1  jws1~'o4        
-OL,5,D] S   "! "#!"## ##  #  ## # "! #       
-OL,6,D]    C     CCCITV1 SOUTHA    GX     ROW
-OL,8,MEVERY GOAL AND ALL THE LATEST NEWS! 539
-OL,11,CMOBILEFSign up for R7###########W  0|<`
-OL,12,Fyour club's scores R5COTHERV8-,dW z~u 
-OL,13,Fand breaking news. R5CSPORTV5//jWh!"
-OL,14,FYou'll always be   R5CTEXTSV6ssiW*tx'
-OL,15,Fthe first to know! R5G597  V5$(jW kou 
-OL,16,R                   R5C     V51bjW  !//#
-OL,17,C                   R-,,,,,,V),,&R,,,,,.
-OL,18,Qh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4
-OL,19,QjCGreat holiday dealsGFreeview Ch 101Q5
-OL,20,QjC Go toGwww.teletextholidays.co.uk  Q5
-OL,21,Q*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,%
-OL,22,D]C Homeowner over 55? Considering      
-OL,23,C]D equity release? AFind out moreDp383 
-OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
-PN,67607
-SC,0007
+PN,67605
+SC,0005
 PS,8200
 RE,0
 OL,0,        100CZDFtextBDoB09.07.15C20:13:25
@@ -203,98 +146,8 @@ OL,22,D]GProgramm .... 300 Tops & Flops .. 614
 OL,23,D]GService ..... 500 Fonds ...... ab 660
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
-PN,67608
-SC,0008
-PS,8000
-RE,0
-OL,0,        T]CTeletext  \          hh:nn:ss
-OL,1,F]DFRAME^ITU\ `f;s;Qp|4        V o0  
-OL,2,Q?`")U `:d/d]Q*\p|      V  #+/-t
-OL,3,Q'0 ) U /]Q"o\p~  Q     &`t
-OL,4,Q?')0"dU xg;6g<l;5]Q+]P j\   Q &  ~j
-OL,5,Q3 4i )0 U s/}~zu}9]Q"]P'#j7j 
-OL,6,Qm i )  U xq'<rs3////j^]Q+\ p4    zj
-OL,7,Q*      U #/|q1''''? ]Q"o]P~?k?h! 
-OL,8,W       U    "#+////. k]Q+]P ]Rn]Q#
-OL,9,W                    U`j]Q"o\p< R#
-OL,10,W              U x.ss+//z]Q+]Pz?'
-OL,11,W              U xn]Q "o]Pz
-OL,12,W              U (g?/###+/o]Q +]Px
-OL,13,W     Sp|t&i   U  #>!    Q]U"ot  
-OL,14,W   S ~)60&i`0       8i Qj]VU+}0
-OL,15,WS px~vy}t*!j,0     )0uQ o]U "
-OL,16,WSzy/}|q0')8d,8n00 Q+?Ux
-OL,17,WS#csx~/#o|qr0! x}0Q "/U~
-OL,18,WS  ## &s25U h5z6
-OL,19,WS     >s7o%U j55
-OL,20,WS      '   "o?{o7U ,~uk5*
-OL,21,WS            +/zj?' U &ssz?  
-OL,22,WS           n7q?     U  (n'   
-OL,23,V|||||||||||||GNichola,10V||||||||||||||
-OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
-PN,67609
-SC,0009
-PS,8000
-RE,0
-OL,0,        T]CTeletext  \          hh:nn:ss
-OL,1,V  pp0  Wp,,,,,,dp0          G          
-OL,2,Vhk}W6!   S`x5W*0G]DFarewell from the
-OL,3,VjS '{3o0W% ]DBamboozle family 
-OL,4,Vo}|~S5zjjzj!W]Dto all who have  
-OL,5,V"/?'Sh~?/k7/o}4WW]Dplayed our quiz. 
-OL,6,   T`|S!ltsx<"T}t0Wpppppps#       
-OL,7,  TxS+~|r3#cq|}'TtQ               
-OL,8, T~?jtS#/o?/'Tpuku               
-OL,9,Tj?cq3///W/$ (/Ts3/'p3o}Q             
-OL,10,Tx?S|~cz|T~5             
-OL,11,T+//////%S///,$//T////////!             
-OL,12, Q///////////////////////////////////// 
-OL,13,W`<,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l0
-OL,14,Wj Q~t|p   W              \Qkm    W5
-OL,15,WjQn?///'/0    \T~t     U {(=j1  W5
-OL,16,Wj S|,/}tQ   T //////,,   Qh|o~m5  W5
-OL,17,WjS }7k~Q   S <?|    S }<}<}~  W5
-OL,18,WjS oivQ   S%}9y*   S%}9y* W5
-OL,19,WjS */'kQ  \S m2##x?   S\Sm2##x?  W5
-OL,20,W"m S+o|/kQo T`~}S+|~'Tzt U~}S+|~'Uz}W 
-OL,21,A U`~|Sl|>'U| T?/t|pp|/U?/t|pp|?oy 
-OL,22, U~g|<|~                          
-OL,23,   Bambette x     Buster     Bonnie xx  
-OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
-PN,67610
-SC,0010
-PS,8000
-RE,0
-OL,0,        CEEFAX 725  Wed  1 MayC 11:15/35
-OL,1,U]W                                     
-OL,2,E]W                                     
-OL,3,E]W ||||||<,,4  (l,,4  (l,,4            
-OL,4,E]W 5j57c{j {57c{j 157k#   
-OL,5,E]W //////-,,%5(o*,,%5h*,-%7h"   
-OL,6,E]W          ####   ####   ##########   
-OL,7,E]W pp0|p  | h4,`ppphtph4pp0px4pp0pp0   
-OL,8,E]W |n5   jj5j55j5j5.%j5j5j5   
-OL,9,E]W ##!##  ###!#"!!#"##"!##!##!##!#"!   
-OL,10,R]W                          `p0        
-OL,11,R]W<,,,,,,,,,,,,,,,,,l    `x~}t0     
-OL,12,R]W7###k####7###k####k   x};g~t    
-OL,13,R]W5   j    5   j    j  h;g4   
-OL,14,R]W5   j    5   j    j `w{0  
-OL,15,R]W5   j####7###k    j jw{5  
-OL,16,R]W5   j    5   j    j jw{5  
-OL,17,R]W5   j    5   j    j j?{;5  
-OL,18,R]W=,,,.,,,,-,,,.,,,,n  o?{;?   
-OL,19,R]W###################  "ww!   
-OL,20,E]W                      "o?!    
-OL,21,E]W                        "+o?'!      
-OL,22,E]W                                     
-OL,23,E]W                                     
-OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
-PN,67611
-SC,0011
+PN,67606
+SC,0006
 PS,8090
 OL,28,@@HA`pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,1,ZQ    j    Tf,9f,9f,9f,9f,9f,9f,9f,9f,9f
@@ -320,8 +173,8 @@ OL,21,  145                          DOMA[NIJ
 OL,23,D]G         Prodolvenie dalee >>        
 OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
-PN,67612
-SC,0012
+PN,67607
+SC,0007
 PS,8390
 OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,26,@jDO^O]kDJToXUOXVo\\O]cOQlDJToYUOXVOXmDJ
@@ -356,8 +209,8 @@ OL,22, ]T"#################!################!\
 OL,23, ]D  22021955-22021901    @iehzY WHGhQ \
 OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
-PN,67613
-SC,0013
+PN,67608
+SC,0008
 PS,8390
 OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,26,@mDJTO_UOToDCFO_JoWTORqdFMO_SOTuDEJoWyDF
@@ -389,8 +242,8 @@ OL,22, ]D 27863000     @ `S  cBT iehzY WHGhQ
 OL,23, ]A 021-2781 EF fFDSQ T A162 E}FeRFS    
 OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
-PN,67614
-SC,0014
+PN,67609
+SC,0009
 PS,8390
 OL,0,XXXXXXXXChanel 9FNei 02 De\   C hh_nnmss
 OL,1,A]CEl ultimo vidiotext para Repubblica  

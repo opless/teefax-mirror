@@ -1,34 +1,94 @@
-DE,Oracle Santa
+DE,4-Tel X-mas Advent Calendar
 DS,inserter
 SP,\\VBOXSVR\VirtualShare\_ Teefax\P679-Xmas.tti
-CT,10,C
-PN,67900
-SC,0000
+CT,5,C
+PN,67901
+SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXORACLE 123 Sun25 DecCITV hhnn.ss
-OL,1,T]W`         !   0  0    $ T^?\o]W  $` 
-OL,2,T]W     !      0      0T^\/:5u'&o]     
-OL,3,T]W      $   `    0    T^\}|$'.]W0"  
-OL,4,T]W !  0    `       0   `T^\!   `]W  ` 
-OL,5,T//?o/!  x~
-OL,6,T?!   `'####    */cq|{
-OL,7,T' `    +??/s           "#p||{
-OL,8,T2|}0     ' h~u   pppptpx~
-OL,9,T/"k!      x?  z]W           !  
-OL,10,T0  .0      +!x]R~k4{$~{4~+$ 1
-OL,11,T!   k   0   o=j5z]R+.!/*%/*%+.!/$/$
-OL,12,T    j!       `~`]G    wishes you a  
-OL,13,T?kppp>     px~~]W   h 4<lh,4<lh 4  
-OL,14,T}p   `pp|~]          Qj#57kj#!7#bs5  
-OL,15,T]W!  0   $    !  <$4hhl 4<$l$<<4<lh,$  
-OL,16,To]W       `T]Qu07kj#55s5j 5557kbs5  
-OL,17,T  "'#+?##+^Wl||||Tjoo
-OL,18,T $$S20 ( T{o^Q||4|T?!  +!   
-OL,19,S $$T$$ $( /q`^Q|4||ToS(T j(S( 
-OL,20,Q                  ||4||       T(( "((( 
-OL,21,W]V   0h|     t*/    W^\t              
-OL,22,W]V   #   t*/         W^\t             
-OL,23,W]V  p |4              W^\t            
+OL,0,XXXXXXXXTEEFAX 679 DAY dd MTH C hh:nn.ss
+OL,1, T]     \T]     \T]      \T]       \T]  
+OL,2, T]     \T]     \T]      \T]G 17   \T]  
+OL,3, T]G 8  \T]G12  \T]      \T]       \T]  
+OL,4, T]     \T]     \T]G 7   \          T]G5
+OL,5, T]     \T]     \T]      \T]       \T]  
+OL,6, Xby swirv, 1991 T]      \T]G 18   \T]  
+OL,7, T]     \T]     \T]      \T]       \T]  
+OL,8, T]G 2  \T]G14  \              DXreplica
+OL,9, T]     \T]     \        T]G 11  \T]    
+OL,10, T]     \T]     \T p~}p  T]      \T]    
+OL,11,                 Th4           ]G16 
+OL,12, T\T]    \T\T~}  5 j  ]    
+OL,13, T\T]    \T\T]G24  \T5 j  ]    
+OL,14, T\T]G21 \T\T]     \T5 j       
+OL,15, T\T]    \T\T]     \T5 j  ]    
+OL,16, T         G23             22   T]    
+OL,17,  G1 T       ]     \T]      \T]G20 
+OL,18,     T       ]G15  \T]G 10  \T]    
+OL,19,       G19       T]     \T]      \      
+OL,20, Tpppppp  pppp         DXbeeblepete 2016
+OL,21, T]     \T]   \T]    \T]       \T]      
+OL,22, T]G 9  \T]G6 \T]G3  \T]G 4    \T]G 13  
+OL,23, T]     \T]   \T]    \T]       \T]      
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,670,700,800,0,100
+PN,67902
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX 679 DAY dd MTH C hh:nn.ss
+OL,1, T]     \T]     \T]      \T]       \T]  
+OL,2, T]     \T]     \T]      \T]G 17   \T]  
+OL,3, T]G 8  \T]G12  \T]      \T]       \T]  
+OL,4, T]     \T]     \T]G 7   \          T]G5
+OL,5, T]     \T]     \T]      \T]       \T]  
+OL,6, Xby swirv, 1991 T]      \T]G 18   \T]  
+OL,7, T]     \T]     \T]      \T]       \T]  
+OL,8, T]G 2  \T]G14  \              DXreplica
+OL,9, T]     \T]     \        T]G 11  \T]    
+OL,10, T]     \T]     \T p~}p  T]      \T]    
+OL,11,                 Th4           ]G16 
+OL,12, R||\T]    \T\T~}  5 j  ]    
+OL,13, S~}\T]    \T\T]G24  \T5 j  ]    
+OL,14, Q\T]G21 \T\T]     \T5 j       
+OL,15, S\T]    \T\T]     \T5 j  ]    
+OL,16, R~}         G23             22   T]    
+OL,17,     T       ]     \T]      \T]G20 
+OL,18,     T       ]G15  \T]G 10  \T]    
+OL,19,       G19       T]     \T]      \      
+OL,20, Tpppppp  pppp         DXbeeblepete 2016
+OL,21, T]     \T]   \T]    \T]       \T]      
+OL,22, T]G 9  \T]G6 \T]G3  \T]G 4    \T]G 13  
+OL,23, T]     \T]   \T]    \T]       \T]      
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,670,700,800,0,100
+PN,67903
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX 679 DAY dd MTH C hh:nn.ss
+OL,1,X by swirv, 1991W"0$!0`! T]W(z8    \W `p
+OL,2,WQ  x|0    B*   Q  `zu0W$T]Wcog!   \Q j
+OL,3,WS( |h4( R `~t  W"0(w "0T]W *     \W j
+OL,4,WSa |h4`!Rx}0W  0~"0 T]S`  p   \Q j
+OL,5,WQ  ,,$     |4  W"0`0 $T]S+5z}  \W j
+OL,6,                Wj5T]S`;=0\Qo?
+OL,7,WU d)`   Q899`tDXreplica   S" z`b5      
+OL,8,WQ x}0  Qf}z! S   `(`R`p   `p         
+OL,9,WQ 5  Q ko'  S   $  $R+-08/!Ujd Sxd|0
+OL,10,WS+////! Q .$-  S`(`Uo?  Q "   U~ 5hw{|
+OL,11,W               S(U|4?4 Qp`0  U h5 +p?!
+OL,12,WR|| V    jz     U`nt(,%5Q>~||||t Whyyyy
+OL,13,WS~} V`|||?~Q  *|U"*-%?%5Q?55Wj
+OL,14,WQ Ve?/oa3Q `~5U  //%75Q# ?o//5       
+OL,15,WS V*$-*$!Q<.'-U  .(%%%Q (%.((%Q(w}0  
+OL,16,WR~}  W   ` DXbeeblepete 2016    Q +tp
+OL,17,W     W`~?-     S (=   S (08   WppQzk3 
+OL,18,WQ`0  Ww"!#      Qj~~~  Vj5  W "c>###
+OL,19,W h4  W"#S0(`    W(,,,  Vh|4||   Q  `p  
+OL,20,W ~}    S( d $Qd        V"#!##   Q`~m0
+OL,21,W  pp0  V| Q`~v   ` R   p      W~ww4/
+OL,22,WQ o%  V Q"!+7`R|~|     W*vs>  
+OL,23,WQW`u  (|||$Q 'z`b5*sswssw3 Qx]W{?!  
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,670,700,800,0,100

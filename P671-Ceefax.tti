@@ -1,12 +1,13 @@
 DE,Ceefax replicas
 DS,inserter
 SP,\\VBOXSVR\VirtualShare\_ Teefax\P671-Ceefax.tti
-CT,8,T
+CT,20,T
 PN,67101
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXCEEFAX Page 1          Chh:nn.ss
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,                   X                2016
 OL,2,   S                  
 OL,3,   S                           
 OL,4,   S                            
@@ -32,7 +33,7 @@ PN,67102
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXCEEFAX Page 10         Chh:nn.ss
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,                              XX        
 OL,2,        XXX                XXX          
 OL,3,   DRY     XXXXXX       XXX X           
@@ -51,10 +52,378 @@ OL,15,            XXX             XXX  X
 OL,16,          XX     EXETER   XX   XX       
 OL,17,        XX               X              
 OL,18,      XX       XX       X               
-OL,19,   XXX    XXXXX  XXX   X CReconstructed 
-OL,20,   XXX   X          XXX  Cweather map.  
-OL,21,      XXX                CAlan G3SXC    
-OL,22,G GG                     C1973          
-OL,23,G                                       
+OL,19,   XXX    XXXXX  XXX   X C1973 weather  
+OL,20,   XXX   X          XXX  Cmap replica.  
+OL,21,      XXX                C              
+OL,22,                         CAlan G3SXC    
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,S  ppppp ppppp ppppp ppppp ppppp p    p 
+OL,2,S  //// //// //// //// ///      
+OL,3,S       5 5 5     
+OL,4,S  |||| |||| ||||               
+OL,5,S  ##### ##### ##### #     #   # #    # 
+OL,6,W  /////////////////?////////////////// 
+OL,7,F              DialW5F              Dial
+OL,8,  Headlines.....101W5GWEATHER MAP ...115
+OL,9,  Home News.....102W5G                  
+OL,10,  Home News.....103W5FDETAILS OF:       
+OL,11,  Foreign news..104W5GTravel, Weather,  
+OL,12,  News briefs...105W5G  BBC News.....110
+OL,13,  Farm News.....106W5GBusiness and      
+OL,14,  Consumer news.107W5G  Electronics..120
+OL,15,  People........108W5GSport, Events,    
+OL,16,  Charivari.....109W5G  Tourist News.130
+OL,17,                   W5GConsumer Pages,   
+OL,18,A NEWSFLASHES>>>150W5G  Test Designs.140
+OL,19,DX1973 replica     W5DX  beeblepete 2016
+OL,20,Wh,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,,,,,,,l
+OL,21,Wj   G                               W j
+OL,22,Wj   GUpdated between 8am and 6pm.   W j
+OL,23,Wjpppppppppppppppppppppppppppppppppppppz
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67104
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,DX     1974                      replica
+OL,2,SBBC   h|,,l         |l                 
+OL,3,S      j   h<,|h<,|`0h,l4(| |$        
+OL,4,S      j   j7#cj7#c  h<n5 |#|         
+OL,5,S      "####"###"###"#!"###"# #!        
+OL,6,W(,,,,,,,,,,,,,,,,,,<,,,,,,,,,,,,,,,,,,,
+OL,7,  Headlines.....101W5FWEATHER MAP....115
+OL,8,  Home News.....102W5G                  
+OL,9,  Home News.....103W5GDETAILS OF:       
+OL,10,  Foreign.......104W5GTravel, Weather,  
+OL,11,  News in Brief.105W5G  BBC News.....110
+OL,12,  Farm News.....106W5GBusiness and      
+OL,13,  Consumer News.107W5G  Electronics..120
+OL,14,  People........108W5GSport,            
+OL,15,  Charivari.....109W5G  Events.......130
+OL,16,                   W5GConsumer Pages,   
+OL,17,A NEWSFLASH --->150W5G  Gardening....140
+OL,18,                   W5DX  beeblepete 2016
+OL,19,W(,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,,,,,,,,
+OL,20,  CCEEFAXGpages are regularly updated   
+OL,21,   between 8am and 6pm.                 
+OL,22,   A fullCCEEFAXGmagazine would contain 
+OL,23,   100 pages on each BBC-TV Channel.    
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67105
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,Q]    S`ppppp    `ppppp    `ppppp       
+OL,2,Q]SBBCSj#s#h||||j#ssh||||j#s#h||||  
+OL,3,Q]CTWOSj j ,lj ,.j ,lj s j0/`  
+OL,4,Q]    Sj|||jpssjjpj||j    
+OL,5,Q W   S     (.////    (.////    (.////  
+OL,6,CNEW ON TWOG.......201Q5CFEATURESG...251
+OL,7,Q,,,,,,,,,,,,,,,,,,,,,,=,,,,,,,,,,,,,,,,
+OL,8,CNEWS BACKGROUNDG..202Q5CALARM CLOCKG260
+OL,9,Q,,,,,,,,,,,,,,,,,,,,,,=,,,,,,,,,,,,,,,,
+OL,10,CFUN AND GAMESG....210Q5CCONSUMERG...261
+OL,11,Q,,,,,,,,,,,,,,,,,,,,,,=,,,,,,,,,,,,,,,,
+OL,12,CFAMILY FINANCE/      Q5CTV/RADIOG...279
+OL,13,CINVESTMENT GUIDEG.220Q=,,,,,,,,,,,,,,,,
+OL,14,Q,,,,,,,,,,,,,,,,,,,,,,5CREVIEWSG....280
+OL,15,CSPECTRUMG.........230Q=,,,,,,,,,,,,,,,,
+OL,16,Q,,,,,,,,,,,,,,,,,,,,,,5CCONTACTG....290
+OL,17,CSPORT                Q=,,,,,,,,,,,,,,,,
+OL,18,CBACKGROUNDG.......240Q5CFULL INDEXG.296
+OL,19,Q,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,,,,,
+OL,20,BMARGUMENT: THE FALKLAND ISLANDSG252/253
+OL,21,SS######################################
+OL,22,Q,,,,,,,,,,,,,,,,,,,,,,<,,,,,,,,,,,,,,,,
+OL,23,CNEWSFLASH.........250Q5CNEWSREEL....299
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67106
+SC,0006
+PS,8000
+RE,0
+OL,0,        CEEFAX 725  Wed  1 MayC 11:15/35
+OL,1,U]W                                     
+OL,2,E]W                                     
+OL,3,E]W ||||||<,,4  (l,,4  (l,,4            
+OL,4,E]W 5j57c{j {57c{j 157k#   
+OL,5,E]W //////-,,%5(o*,,%5h*,-%7h"   
+OL,6,E]W          ####   ####   ##########   
+OL,7,E]W pp0|p  | h4,`ppphtph4pp0px4pp0pp0   
+OL,8,E]W |n5   jj5j55j5j5.%j5j5j5   
+OL,9,E]W ##!##  ###!#"!!#"##"!##!##!##!#"!   
+OL,10,R]W                          `p0        
+OL,11,R]W<,,,,,,,,,,,,,,,,,l    `x~}t0     
+OL,12,R]W7###k####7###k####k   x};g~t    
+OL,13,R]W5   j    5   j    j  h;g4   
+OL,14,R]W5   j    5   j    j `w{0  
+OL,15,R]W5   j####7###k    j jw{5  
+OL,16,R]W5   j    5   j    j jw{5  
+OL,17,R]W5   j    5   j    j j?{;5  
+OL,18,R]W=,,,.,,,,-,,,.,,,,n  o?{;?   
+OL,19,R]W###################  "ww!   
+OL,20,E]W                      "o?!    
+OL,21,E]W                        "+o?'!      
+OL,22,E]W                                     
+OL,23,E]W                                     
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67107
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,T]S?                               
+OL,2,T]S0  W{% jwju?jw1%s1 #  
+OL,3,T]S7   Wz5pj5j5ju0 pz5    j5  
+OL,4,T]S%                        W    
+OL,5,T]S7                         Wj5   
+OL,6,T]S5    `0       `p|~|p      W    
+OL,7,T]S5   h|tpp||4             
+OL,8,T]S}   5             
+OL,9,T]S   =F ...with    
+OL,10,T]S4  ////?##!  Fsubtitles   
+OL,11,T]S5  }0    "5      Ffor the deaf
+OL,12,T]S!  u|tx p%  tp  Fand hard of 
+OL,13,T]Su0 wpz5 b!   F  hearing   
+OL,14,T]S0j5 y~5            
+OL,15,T]S5 o7 Fon CEEFAX  
+OL,16,T]S?} "o'  F page 170  
+OL,17,T]S?y?   !               
+OL,18,T]Ss#                    
+OL,19,T]Sp0                   
+OL,20,T]S?cs3##!CX        replica  
+OL,21,T]S:uw'#'!                   
+OL,22,T]S5+upp0                   
+OL,23,T]S5 +5CXbeeblepete 2016  
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67108
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,SBBC  |||||    ,l|||4    ,||||4         
+OL,2,S,,,   |pj///j(l~5?//o55($j5?o?o5    
+OL,3,S     pssj sjrs{55bs5uzuz5=b1n5    
+OL,4,S     ####cz|||"###q}~5####q}~}~5    
+OL,5,                             BPAGE THREE
+OL,8,    IF you look at this page long       
+OL,9,W                                       
+OL,10,    enough, an outline of a naked       
+OL,11,W                                       
+OL,12,    beauty will gradually appear...     
+OL,13,UX    pp                                
+OL,14,UX  8!p "d                              
+OL,15,UX j ~ot"#d                            
+OL,16,UX "$+yn  ")                           
+OL,17,UX  )0+/'zd~}t       ppp               
+OL,18,UX   `~2g~|||||tp            
+OL,19,UX  x/'xgv||pp`pppp 
+OL,20,UX~}||?!+////////////////////////////
+OL,21,SX|||||||
+OL,22,SX
+OL,23,D   pembers 1978X/ Grattan sun beds 1987
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67109
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,T]                S                     
+OL,2,T]                S   $}pp{|0(4      
+OL,3,T]V  74   jjjj    S    #!||t!      
+OL,4,T]V  557% jjjjkjk S     *////////-      
+OL,5,T]V  u%5  jzzjjjz S     #csssssss#!     
+OL,6,T]                S     ./////////$     
+OL,7,T]                S     ,////////,$     
+OL,8,T]                S    hjjjjjj55      
+OL,9,T]                Sp|,,l~~~jjj554     
+OL,10,T]            Shppppsrrs{jjj555     
+OL,11,T]            S*#######s/o|||||||t     
+OL,12,T]                S    ///o     
+OL,13,T]                S   j}|~||}||     
+OL,14,T]                S   z 7##k7#k0    
+OL,15,T]                S  `~uxp~up~5    
+OL,16,T]C  CEEFAX       S  j j/o/o//}    
+OL,17,T]C  subtitles    S  ~| z z `    
+OL,18,T]C  on page 170  S  5 ?//o?/o7k4   
+OL,19,T]                S jux5` z5 ju~5   
+OL,20,T]FX replica      S 7#|}|/   
+OL,21,T]                Sjux j7#k#k`   
+OL,22,T]FX beeblepete   S"//|up~ z~/   
+OL,23,T]FX 2017         S     ###///////'!    
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67110
+SC,0010
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,2,                    T]       S `(h(`    
+OL,3,V7ssssssssssssssss35T]       S d)z8a$   
+OL,4,V55               55T]       S,$n9{$,$  
+OL,5,V55 S5   5  7###5V55T]       S &8k)2$   
+OL,6,V55 S5   5  5   5V55T]       S "(j("    
+OL,7,V55 S5   5  5   5V55T]       S   j      
+OL,8,V55 S5 `&   5   5V55T]       S   j      
+OL,9,V55 S58!    uppp5V55T]                  
+OL,10,V55 S7)0        5V55T]Q7j1wj1w5e%       
+OL,11,V55 S5 "d       5V55T]Quj0uj 5555       
+OL,12,V55 S5   5      5V55T]                  
+OL,13,V55 S5   5      5V55T]Qwjjj;"7j"7j wj1  
+OL,14,V55 S5   5  5   5V55T]Qzjzjz 5j 5j0u`5  
+OL,15,V55 S5   5  uppp5V55T]   0              
+OL,16,V55               55T]Q7575             
+OL,17,V55   C  AND     V55T]Qu555             
+OL,18,V55   CCOMPANY   V55T]      `           
+OL,19,V55               55T]Sw5w57!w W'5#575  
+OL,20,Vussssssssssssssssq5T]S5 55u5u Ww1j u5  
+OL,21,V                   T]S                 
+OL,22,FX  24 Dec 1982  T]                     
+OL,23,FX  replica      T]  FXbeeblepete 2016  
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67111
+SC,0011
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,T]                   S                  
+OL,2,T]                   S$}pp{|0(4      
+OL,3,T]V k4k5 j5j5j7S #!||t!      
+OL,4,T]V j5n1 j5j=j5S  *////////-      
+OL,5,T]V z%j5 zuj5juS  #csssssss#!     
+OL,6,T]                   S  ./////////$     
+OL,7,T]                   S  ,////////,$     
+OL,8,T]                   S hjjjjjj55      
+OL,9,T]Q^HpppppppppppppSI|,,l~~~jjj554     
+OL,10,T]            Shppppsrrs{jjj555     
+OL,11,T]            S*#######s/o|||||||t     
+OL,12,T]FXreplica       S    ///o     
+OL,13,T]                S   j}|~||}||     
+OL,14,T]                S   z 7##k7#k0    
+OL,15,T]V,,,,,,,,,,,    S  `~uxp~up~5    
+OL,16,T]C\ CEEFAX  T]   S  j j/o/o//}    
+OL,17,T]C\SUBTITLEST]   S  ~| z z `    
+OL,18,T]C\ page 170T]   S  5 ?//o?/o7k4   
+OL,19,T]V,,,,,,,,,,,    S jux5` z5 ju~5   
+OL,20,T]                S 7#|}|/   
+OL,21,T]FXbeeblepete    Sjux j7#k#k`   
+OL,22,T]FX2017          S"//|up~ z~/   
+OL,23,T]                S     ###///////'!    
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67112
+SC,0012
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1, T]                                     
+OL,2, T]S||||||<,,4  (l,,4  (l,,4            
+OL,3, T]S5j57c{j {57c{j 157k#5  
+OL,4, T]S//////-,,%5(o*,,%5h*,-%7h"5  
+OL,5, T]S         ####   ####   ##########!  
+OL,6, T]                                     
+OL,7, Q]                                    `
+OL,8, Q]T///o5///o5///o5///o5j 
+OL,9, Q]T , z5 h j5 , z5  |~5j 
+OL,10, Q]T , k5 * j5 , k5// j5j 
+OL,11, Q]T|||~5|||~5|||~5|||~5j 
+OL,12,^QT]W,,QW,,,,QW,,,,QW,,,,QW,,,,QW,,, Q
+OL,13, Q]T55///o5/o/o5/oj?/ 
+OL,14, Q]T55 *o5 j j5 jj5  
+OL,15, Q]T55 h~5 * j5 jj5  
+OL,16, Q]T55|~5|||~5|||j}||| 
+OL,17,^QT]W,,QW,,,,QW,,,,QW,,,,QW,,,,QW,,, Q
+OL,18, Q]T/o/o5///o5/o/o5///o5///oj 
+OL,19, Q]T * j5 h j5 j j5  |~5  ,nj 
+OL,20, Q]T h j5 * j5 * j5// j5  ,nj 
+OL,21, Q]T|~|~5|||~5|||~5|||~5|||~j 
+OL,22, Q]V                                    
+OL,23, DX  BeeblePete                   2017  
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67113
+SC,0013
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,T]Q                   h%*'        
+OL,2,T]Q                   /! o%`pp      
+OL,3,T]Q                     {5     
+OL,4,T]Wjkkhlh$<hh        Q  ('    +      
+OL,5,T]Rjjjjsj 5*n        V   w  wQ ?%      
+OL,6,T]R        "#        Q    *%  x'       
+OL,7,T]Wj#jlh$1<$=hll(lh, W   3cQ|~t      
+OL,8,T]Rjpjjj 5s5ujjjj{b{ W   +'Q}     
+OL,9,T]W                       +'Q5    
+OL,10,T]Wz1<hlhll          Q         
+OL,11,T]Rj 5jzjjj  S h<,,4  (l,,4Q///       
+OL,12,T]R"         S j5j57c{j {57c{QS7k#  
+OL,13,T]S            *-,,%5(o*,,%5hQS7h"  
+OL,14,T]S                ####   ####WS####  
+OL,15,T]Q                     z|||| ~t 
+OL,16,T]Q                  `x 
+OL,17,T]C   CEEFAX - THE BRITISH BROADCASTING 
+OL,18,T]C      CORPORATION'S TELETEXT SERVICE 
+OL,19,T]Q                    p xwpp  
+OL,20,T]Q                  `?  
+OL,21,W]Q                  ~o?o'   
+OL,22,W]Q                `~?//'  !,"!       
+OL,23,W]AX1977 replica Q>o'AXbeeblepete 2016  
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67114
+SC,0014
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$      
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1      
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CPolice elections leaflets posted       
+OL,5, Leaflets about next month's elections  
+OL,6, for police and crime commissioners are 
+OL,7, being sent to 21 million households.   
+OL,9,FVoters in all parts of England and     
+OL,10,FWales outside London will elect a      
+OL,11,Fperson to oversee each police force on 
+OL,12,F15 November.                           
+OL,13,F                                       
+OL,14,FThe new commissioners will replace     
+OL,15,Fpolice authorities in 41 areas.        
+OL,16,F                                       
+OL,17,FThe Electoral Reform Society leaflets  
+OL,18,Fexplain more about the role and the    
+OL,19,Fvoting system being used, amid concerns
+OL,20,Fof a low turnout from voters.          
+OL,21,DX replica               beeblepete 2016
+OL,22,T]CHome news digestG141CWorld digestG142
+OL,23,S]DHow Ceefax switches to Digital TV 697
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+PN,67115
+SC,0015
+PS,8000
+RE,0
+OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,l|,l<,|||
+OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?   
+OL,3,Wj %jj %jj 'kT]Supjpjpj j 55j   
+OL,4,W"###"###"###T##########################
+OL,14,W                                     
+OL,23,DXreplica                beeblepete 2016
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
