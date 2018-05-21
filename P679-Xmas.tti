@@ -1,8 +1,8 @@
 DE,Oracle Santa
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P676-OracleXmas.tti
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P679-Xmas.tti
 CT,10,C
-PN,67600
+PN,67900
 SC,0000
 PS,8000
 RE,0
@@ -31,4 +31,4 @@ OL,21,W]V   0h|     t*/    W^\t
 OL,22,W]V   #   t*/         W^\t             
 OL,23,W]V  p |4              W^\t            
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,0,100
+FL,670,670,700,800,0,100

@@ -1,12 +1,12 @@
 DE,This Is Ceefax Replica
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P672-Crash.tti
+SP,\\VBOXSVR\VirtualShare\_ Teefax\P677-Crash.tti
 CT,8,T
-PN,67201
+PN,67701
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXCEEFAX 672 DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXCEEFAX 677 DAY dd MTH C hh:nn.ss
 OL,1,Q                     `p                
 OL,2,Q                     jj                
 OL,3,Q       pu0          
@@ -31,12 +31,12 @@ OL,21,W|||||||||||||||||||||||||||||||||||||||
 OL,22,W           j5                      
 OL,23,W///////////o?//////////////////////
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,675,700,800,8ff,100
-PN,67202
+FL,670,679,700,800,8ff,100
+PN,67702
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXCEEFAX 672 DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXCEEFAX 677 DAY dd MTH C hh:nn.ss
 OL,1,Q                     `p                
 OL,2,Q                     jj                
 OL,3,Q       pu0          
@@ -61,4 +61,4 @@ OL,21,W|||||||||||||||||||||||||||||||||||||||
 OL,22,W           j5                      
 OL,23,W///////////o?//////////////////////
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,675,700,800,8ff,100
+FL,670,679,700,800,8ff,100
