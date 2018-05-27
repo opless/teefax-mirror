@@ -1,4 +1,4 @@
-PN,89700
+PN,8F100
 SC,0000
 PS,8000
 RE,0
@@ -7,15 +7,15 @@ OL,1,T?T~?eu`pp0ppTjj5ppp`p`0pp`pp0P
 OL,2,T}*?"7j{57Tjo57jj57js1P     
 OL,3,T5T5T5j|45Tjj5}j~55h|5P     
 OL,4,A``````````````````````````GFor AdultsA`
-OL,5,T]G .           .                S`p  G 
-OL,6,T]G   .    .     .    .      .   S k0G.
-OL,7,T]G     .           .            S `%G 
-OL,8,T]G .         .         .   .    S,/!G. 
-OL,9,T]G               .                     
-OL,10,T]G     .                    .    .     
-OL,11,T]G  .     MGAre you 18 or over?LG   .  
-OL,12,T]G       .MGAre you 18 or over?LG.     
-OL,13,T]G.                                .   
+OL,5,T]G .           .                 S`p  G
+OL,6,T]G   M ENTER AT YOUR OWN RISKL.  S k0G
+OL,7,T]G   M ENTER AT YOUR OWN RISKL   S `%G
+OL,8,T]G .         .          .   .    S,/!G.
+OL,9,T]G WE DO NOT ACCEPT ANY RESPONSIBILITY 
+OL,10,T]G FOR ANY DISEASES YOU MAY CONTRACT   
+OL,11,T]G WHEN CONSORTING WITH THE CONTACTS   
+OL,12,T]G             PROVIDED.               
+OL,13,T]G. (FOR ENTERTAINMENT PURPOSES ONLY)  
 OL,14,T]G     .   G.         .    .      G    
 OL,15,T]G  .      G                    . G    
 OL,16,T]G              .                      
@@ -26,5 +26,5 @@ OL,20,P T`0$T,T``pT`T`0pTppPT0P TpPT0p`S0p0pTp
 OL,21,T#"T(T(T,T(,PT,T$T,$T$,T$T,PT(T(S,,(,$T,
 OL,22,D]FM                                    
 OL,23,D]FM                                    
-OL,24,A  Yes       BNo     CMaybe   FNot Sure 
-FL,8f0,8f3,8f3,8f3,100,100
+OL,24, AAcceptBDeclineCProcrastinateFRun Away 
+FL,8ff,8f3,8f3,8f3,100,100

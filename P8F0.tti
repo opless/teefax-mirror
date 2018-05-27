@@ -1,4 +1,4 @@
-PN,89700
+PN,8F000
 SC,0000
 PS,8000
 RE,0
@@ -13,8 +13,8 @@ OL,7,T]G     .           .            S `%G
 OL,8,T]G .         .         .   .    S,/!G. 
 OL,9,T]G               .                     
 OL,10,T]G     .                    .    .     
-OL,11,T]G  .     MGAre you 18 or over?LG   .  
-OL,12,T]G       .MGAre you 18 or over?LG.     
+OL,11,T]G  .  MWhat year were you born in? .  
+OL,12,T]G     MWhat year were you born in?    
 OL,13,T]G.                                .   
 OL,14,T]G     .   G.         .    .      G    
 OL,15,T]G  .      G                    . G    
@@ -26,5 +26,5 @@ OL,20,P T`0$T,T``pT`T`0pTppPT0P TpPT0p`S0p0pTp
 OL,21,T#"T(T(T,T(,PT,T$T,$T$,T$T,PT(T(S,,(,$T,
 OL,22,D]FM                                    
 OL,23,D]FM                                    
-OL,24,A  Yes       BNo     CMaybe   FNot Sure 
-FL,8f0,8f3,8f3,8f3,100,100
+OL,24,A Before 2000  BAfter 2000  C2000  F1901
+FL,8f1,8f3,8f1,8f1,100,100
