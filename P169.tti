@@ -36,6 +36,66 @@ SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W]T       |0 `|Q    T|    | |    Gth    
+OL,2,W]T       |Qx?otT>ot |     GHRON  
+OL,3,W]T       j5Q0`T0`      G      
+OL,4,W]T       / / /Q"//!T/+/! / /    G      
+OL,5,                                        
+OL,6,     D]G                       \        
+OL,7,G    D]GGasoline Self Serve    \        
+OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
+OL,9,G    D]GRegularWcs%6#46#4G9/   \        
+OL,10,G    D]G       Wpp%rs%rs%G10   \        
+OL,11,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
+OL,12,G    D]GSpecialW8k 6#4ws!G9/   \        
+OL,13,G    D]G       W-n$ep%pp%G10   \        
+OL,14,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
+OL,15,G    D]GSuper+ W8k &5 6#4G9/   \        
+OL,16,G    D]G       W-n$pu0rs%G10   \        
+OL,17,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
+OL,18,G    C]T,,,,,,,,,,,,,,,,,,,,,  \        
+OL,19,D    C]DDiesel Tss%fs$6#4D9/   \        
+OL,20,G    C]D_2     Tpp%ep%rs%D10   \        
+OL,21,G    C]T,,,,,,,,,,,,,,,,,,,,,  \        
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,16903
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W]T   `,$4                T|p `x4Gth    
+OL,2,W]T   5  =#4vs45 5=#h#ij&iT#/?'!GHRON  
+OL,3,W]T   ",$% %), "& % ",&* *Q|px~5G      
+OL,4,W]D   Dwith TECHRON       Q #/'! G      
+OL,5,G                              \        
+OL,6,     D]G                       \        
+OL,7,G    D]GGasoline   Self Serve  \        
+OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
+OL,9,G    D]GRegularW8k 7#5ws1G9/   \        
+OL,10,G    D]G       W-n$up5pp5G10   \        
+OL,11,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
+OL,12,G    D]GPlus   W8k 85 7#5G9/   \        
+OL,13,G    D]G       W-n$pu0ss5G10   \        
+OL,14,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
+OL,15,G    D]GSupremeW8k ss57#5G9/   \        
+OL,16,G    D]G       W-n$up0ss5G11   \        
+OL,17,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
+OL,18,G    B]GDiesel W8k 7#57#5G9/   \        
+OL,19,D    B]GNo.2   W-n$up5ss5G10   \        
+OL,20,G    R/////////////////////////\        
+OL,21,G                                       
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,16904
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,W]Q ^      hQ]T         _W k
 OL,2,W]Q ^      Q]Tx||||`~?! W  
 OL,3,W]Q ^     jQ]T#c!~|0 W  j
@@ -61,8 +121,8 @@ OL,22,G    B]GNo.2    Wpp5ss5ss5G10   \
 OL,23,G    B]W,,,,,,,,,,,,,,,,,,,,,$  \       
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16903
-SC,0003
+PN,16905
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -91,8 +151,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16904
-SC,0004
+PN,16906
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -121,8 +181,8 @@ OL,22,QtQ"o5P     T)pP     Tp&P     Qj?!Qx
 OL,23,U}0U+5P       T#),,,&#P       Uj'U`~
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16905
-SC,0005
+PN,16907
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -151,8 +211,8 @@ OL,22,G]A    CELLPHONE CLEARANCE BLOWOUT
 OL,23,G]A   Huge savings on MAJOR brands      
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16906
-SC,0006
+PN,16908
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -181,8 +241,8 @@ OL,22,S    z'W`nt`hz}0         "ot
 OL,23,U  `~% W*vhz7         h`0kt      
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16907
-SC,0007
+PN,16909
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -211,8 +271,8 @@ OL,22,R]W|hh`<0xdh<0| xdh<0|d |hh4| | <$ x,`<0
 OL,23,R]Wo::*u%o:ju%0nj55: kj500{5 opj=5
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16908
-SC,0008
+PN,16910
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -241,8 +301,8 @@ OL,22,T}$W~}Ua<bs+}0#####`~tssT"o=U+'Tz
 OL,23,T/# W~?'qUzxa<$}|||~!W}T%W##T
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16909
-SC,0009
+PN,16911
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -271,8 +331,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16910
-SC,0010
+PN,16912
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -301,8 +361,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16911
-SC,0011
+PN,16913
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -331,8 +391,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16912
-SC,0012
+PN,16914
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -361,8 +421,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16913
-SC,0013
+PN,16915
+SC,0015
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -391,8 +451,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16914
-SC,0014
+PN,16916
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -421,8 +481,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16915
-SC,0015
+PN,16917
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -451,8 +511,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16916
-SC,0016
+PN,16918
+SC,0018
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -481,8 +541,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16917
-SC,0017
+PN,16919
+SC,0019
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -511,8 +571,8 @@ OL,22,
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,16918
-SC,0018
+PN,16920
+SC,0020
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
