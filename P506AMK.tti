@@ -1,0 +1,30 @@
+DE,By Ant Minn Ko
+DS,inserter
+SP,J:\peter\teefax\P506AMK.tti
+CT,8,T
+PN,50600
+SC,0000
+PS,8000
+RE,0
+OL,0,G       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,3, FGLOBAL WEATHER OVERNIGHT              
+OL,4, CAccra                  GHeavy rain    
+OL,5, CBeijing                GPartly cloudy 
+OL,6, CBelgrade               GSleet showers 
+OL,7, CCopenhagen            G Clear night   
+OL,8, CDhaka                  GHeavy rain    
+OL,9, CDubai                  GA few showers 
+OL,10, CDublin                 GClear night   
+OL,11, CEdmonton               GClear night   
+OL,12, CHong Kong              GSleet showers 
+OL,13, CJakarta                GThunderstorm  
+OL,14, CKuala Lumpur           GSleet showers 
+OL,15, CKunming                GClear night   
+OL,16, CLondon                 GThunderstorm  
+OL,17, CMexico City            GQuite shaky   
+OL,18, CNairobi                GClear night   
+OL,19, CZagreb                 GClear night   
+OL,20, CZurich                 GA few showers 
+OL,22,        FMORE CITIES ON P507            
+OL,24,A Next                                  
+FL,507,8ff,8ff,8ff,8ff,8ff

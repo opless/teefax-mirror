@@ -1,0 +1,13 @@
+DE,Put your page here!
+DS,inserter
+SP,J:\peter\teefax\P512Blank.tti
+CT,8,T
+PN,51200
+SC,0000
+PS,8000
+RE,0
+OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,8,     MThis page intentionally           
+OL,10,     Mleft blank                        
+OL,24, ANext                                  
+FL,513,8ff,8ff,8ff,8ff,8ff

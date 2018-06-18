@@ -1,0 +1,31 @@
+DE,By Ant Minn Ko
+DS,inserter
+SP,J:\peter\teefax\P507AMK.tti
+CT,8,T
+PN,50700
+SC,0000
+PS,8000
+RE,0
+OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2, AAC                                    
+OL,3,  BL    AAUDI A7                        
+OL,4,  CA    GYear: 2016                     
+OL,5,  DS    GTransmission type: Manual      
+OL,6,  DS    GDrive type: 4WD                
+OL,7,  EI    GColor: Mettalic Gray           
+OL,8,  FF    AAMore car classifieds on p671  
+OL,9,  EI                                    
+OL,10,  CE    BAPARTMENT W/ BALCONY           
+OL,11,  AD    GFloor space: 3500 sq m         
+OL,12,  DS    GFlooring material(s): Wood     
+OL,13,        GLift availability:BYes         
+OL,14,         BMore home classifieds on p672 
+OL,16,        CDORK DIARIES BOOK              
+OL,17,        GSeries: Dork Diaries           
+OL,18,         _ book in series: _7           
+OL,19,         Genre: Dorkdom                 
+OL,20,         Protagonist: Nikki Maxwell     
+OL,21,         CMore book classifieds on p673 
+OL,23,ABE AWARE OF COUNTERFEIT DRUGSG...Dp101 
+OL,24, ANext                                  
+FL,508,8ff,8ff,8ff,8ff,8ff

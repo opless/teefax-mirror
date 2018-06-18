@@ -1,0 +1,28 @@
+DE,By Ant Minn Ko
+DS,inserter
+SP,J:\peter\teefax\P509AMK.tti
+CT,8,T
+PN,50900
+SC,0000
+PS,8000
+RE,0
+OL,0,B       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,3,             DG4 on Demand              
+OL,4,  DCHANNEL 4         GNews & Politics   
+OL,5, B SHORTS         G  Exclusive Shorts   
+OL,6,  FE4                  GEntertainment   
+OL,7,  CMORE4         GGLifestyle & Beauty   
+OL,8,  AFILM4           G Film & Animation   
+OL,9,  E4MUSIC                      GMusic   
+OL,11,  GMy5           G   GITV Hub           
+OL,12,  ECHANNEL 5         FITV               
+OL,13,  B5STAR             BITV 2             
+OL,14,  A5USA              EITV Be            
+OL,15,  F5SPIKE            DITV 3             
+OL,16,  C5 +1              GITV 4             
+OL,17,  D5 SELECT          CCITV              
+OL,19,       F11111111111111111111111111111111
+OL,20,E11111111111111111111111111111111       
+OL,22,        FBE U WITH UTVG|DLOVE STV       
+OL,24,A Next                                  
+FL,510,8ff,8ff,8ff,8ff,8ff
