@@ -1,19 +1,14 @@
 DE,Striped Testcard Replica
-DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P793.tti
-CT,8,C
 PN,79300
-SC,0000
 PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+SC,0000
 OL,1,A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@01
-OL,2,W^OsSZV[_XDM]CENGINEERING R\L^sUOQOTOG02
+OL,2,W^OsSZV^_XDM]CENGINEERING R\L^sUNQOTOG02
 OL,3,A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@03
 OL,4,~~~~~~~~~~~~~~~~~~~04
 OL,5,TZ^sQYU@UAM E]BTest Page  \L^RsVXS@WXA05
 OL,6,~~~~~~~~~~~~~~~~~~~06
-OL,7,A@A@A@A@A@W^,SOVOROOUOQOTOA@A@A@A@A@A@07
+OL,7,A@A @ A^ ^ W,SSVVRRRUUQQTTT  T@A@A@A@A07
 OL,8,~~~~~~~~~~~~~~~~~~~08
 OL,9,A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@09
 OL,10,~~~~~~~~~~~~~~~~~~~10
@@ -30,4 +25,5 @@ OL,20, @ABC DEFG HIJK LMNO PQRS TUVW XYZ[ \]^_
 OL,21, `abc defg hijk lmno pqrs tuvw xyz{ |}~
 OL,22,T`abcQdefgUhijkRlmnoZpqrsVtuvwSxyz{W|}~
 OL,23,CXConcealHFlashC*KKBoxISteadyXGoneJJ?V^
+
 FL,792,791,790,790,8ff,100
