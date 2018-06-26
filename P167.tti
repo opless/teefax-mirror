@@ -1,90 +1,30 @@
-DE,LA on the QT Page 167/3
-DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P167.tti
-CT,20,T
-PN,16701
-SC,0001
+PN,16700
+SC,0000
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q?/%u`ppp`p0pppp //`0p0ppp0V x.cs3-t 
-OL,2,W//57j#j!k7 5ju5ws5Vj1VwzVb5
-OL,3,Q||55j|j j5 ||h|5}|4V +lrsq<' 
-OL,4,C```````````````````````````````````````
-OL,5,G          LOS ANGELES, Fri 17 Feb, 2017
-OL,6,G                                       
-OL,7,BThe strongest storm to hit Southern    
-OL,8,BCalifornia in several years has brought
-OL,9,Btorrential rain, flash flooding and    
-OL,10,Bpowerful winds to the area.            
-OL,11,G                                       
-OL,12,CThe storm broke rain records at several
-OL,13,Clocations .                            
-OL,14,G                                       
-OL,15,CAn estimated 50,000 Los Angeles        
-OL,16,Cresidents are without power after winds
-OL,17,Ctook down trees and utility lines.     
-OL,18,G                                       
-OL,19,CAmtrak suspended service between San   
-OL,20,CLuis Obispo and Los Angeles because of 
-OL,21,Cmudslides in the Santa Barbara area.   
-OL,24,AIndexB     SportC      MoviesF     News
-FL,160,162,163,161,100,100
-PN,16702
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q?/%u`ppp`p0pppp //`0p0ppp0V x.cs3-t 
-OL,2,W//57j#j!k7 5ju5ws5Vj1VwzVb5
-OL,3,Q||55j|j j5 ||h|5}|4V +lrsq<' 
-OL,4,C```````````````````````````````````````
-OL,5,G         SHERMAN OAKS, Fri 17 Feb, 2017
-OL,6,G                                       
-OL,7,FA 55-year-old man wasAELECTROCUTEDFwhen
-OL,8,Fa live power line came down amid       
-OL,9,Fflooded streets in Sherman Oaks.       
-OL,10,C                                       
-OL,11,CThe incident happened at Sepulveda     
-OL,12,CBoulevard and Weddington Street around 
-OL,13,Cnoon.                                  
-OL,14,C                                       
-OL,15,CPolice say it appears a tree branch    
-OL,16,Ccame down on a power line and the man  
-OL,17,Cmay have been touched by the           
-OL,18,Celectrified line or had contact with   
-OL,19,Celectrified water. It was not clear if 
-OL,20,Che was walking in the area or in a     
-OL,21,Cvehicle before the incident.           
-OL,24,AIndexB     SportC      MoviesF     News
-FL,160,162,163,161,100,100
-PN,16703
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q?/%u`ppp`p0pppp //`0p0ppp0V x.cs3-t 
-OL,2,W//57j#j!k7 5ju5ws5Vj1VwzVb5
-OL,3,Q||55j|j j5 ||h|5}|4V +lrsq<' 
-OL,4,C```````````````````````````````````````
-OL,5,G          STUDIO CITY, Sat 18 Feb, 2017
-OL,6,C                                       
-OL,7,FA Studio CityCSINKHOLEFthat two cars   
-OL,8,Ffell into Friday night "was probably   
-OL,9,Fcaused by a combination of excessive   
-OL,10,Frain and a possible sewer failure,"    
-OL,11,Faccording to a statement from the Los  
-OL,12,FAngeles Department of Public Works.    
-OL,13,F                                       
-OL,14,BThe bureaus of Sanitation, Engineering 
-OL,15,Band Contract Administration removed the
-OL,16,Bcars overnight and started stabilizing 
-OL,17,Bthe sinkhole on Woodbridge Street at   
-OL,18,BLaurel Canyon Boulevard.               
-OL,19,B                                       
-OL,20,BCrews are "working to shore up the     
-OL,21,Bsinkhole in order to remove debris,    
-OL,22,Bassess the situation, and determine    
-OL,23,Bnext steps."                           
-OL,24,AIndexB     SportC      MoviesF     News
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V]T     h|`0|h||4|||h|||h|h4|||h||4     
+OL,2,V]T     jj5j| u j j~5}4jz%     
+OL,3,V]T     jzujp07 j jk5upjj5     
+OL,4,S]T     "####"##!#!# "# "#"!###"#"!     
+OL,5,C                                       
+OL,6,FM  Mon    Tue    Wed    Thu    Fri     
+OL,7,FM  Mon    Tue    Wed    Thu    Fri     
+OL,8,CGS 0( 0 S 0( 0 S 0( 0 S 0( 0 S 0( 0    
+OL,9,CGS`h}` S`h}` S`h}` S`h}` S`h}`    
+OL,10,BGS 2/'0 S 2/'0 S 2/'0 S 2/'0 S 2/'0    
+OL,11,BGS  "   S  "   S  "   S  "   S  "      
+OL,12,CM  88F    90F    90F    82F    79F     
+OL,13,CM  88F    90F    90F    82F    79F     
+OL,14,FM            Sat     Sun               
+OL,15,FM            Sat     Sun               
+OL,16,CG          S 0( 0  S 0( 0              
+OL,17,CG          S`h}`  S`h}`              
+OL,18,BG          S 2/'0  S 2/'0              
+OL,19,BG          S  "    S  "                
+OL,20,CM            80F     82F               
+OL,21,CM            80F     82F               
+OL,22,D]GMSee MEGADOPPLER 7000 HD on ABC7     
+OL,23,D]GMSee MEGADOPPLER 7000 HD on ABC7     
+OL,24, AOnTheQT    BSport    CMovies    FNews 
 FL,160,162,163,161,100,100

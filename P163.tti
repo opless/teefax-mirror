@@ -1,8 +1,5 @@
-DE,LA on the QT Page 163
-DS,inserter
-CT,20,T
-PN,16301
-SC,0001
+PN,16300
+SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -30,34 +27,4 @@ OL,21,G11F10BBook ClubE...............$920,000
 OL,22,                                        
 OL,23,Qwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 OL,24, AIndex    BSport    CCharts   FWeather 
-FL,160,162,163,165,100,100
-PN,16302
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q]T    4                                
-OL,2,W]T 5  5To?jojo  `~ joT js{s{s{F
-OL,3,Q]T 5 w5Tj5jjjz   j jjT j j j jF
-OL,4,W]Tw5T   j5jzj##  `zpjzT j / j /F
-OL,5,Q]T      "#!"###"#    "###"###  /   /F  
-OL,6,C                    Tue 19th June, 2018
-OL,7,C                                       
-OL,8,M1B2CNice For WhatF................Drake
-OL,9,M1B2CNice For WhatF................Drake
-OL,10,G                                       
-OL,11,G2B1CPsychoF...Post Malone,Ty Dolla $ign
-OL,12,G3B3CI Like ItF..CardiB,BadBunny,JBalvin
-OL,13,G4B5CGod's PlanF...................Drake
-OL,14,G5B4CGirls Like YouF....Maroon 5,Cardi B
-OL,15,G6B9CLucid DreamsF............Juice WRLD
-OL,16,G7B6CBoo'd UpF..................Ella Mai
-OL,17,G8B10CThe MiddleF.Zedd,Maren Morris,Grey
-OL,18,G9B13CNo Tears Left To CryFAriana Grande
-OL,19,G10B12CMeant To BeF...........Bebe Rexha
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,Q]T    4                                
-OL,24, AIndex    BSport    CCharts   FWeather 
-FL,160,162,163,165,100,100
+FL,160,162,164,167,100,100
