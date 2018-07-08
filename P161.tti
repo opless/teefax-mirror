@@ -5,6 +5,66 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV  |4|        |4  |4ph4               
+OL,2,T]V  }jo5/o*?  5j5/ojjjo5    
+OL,3,T]S  7js1{ 5  uz5{"z7js1    
+OL,4,T]S  #!#"##!### #!  ####!### "# "##!    
+OL,5,A           LOS ANGELES, Fri 6 July 2018
+OL,6,A                                       
+OL,7,ANew daily, monthly and all-time record 
+OL,8,Ahighs were set throughout Southern     
+OL,9,ACalifornia on Friday because of a      
+OL,10,Amonster heat dome sprawled over the    
+OL,11,Aregion.                                
+OL,12,A                                       
+OL,13,AWoodland HillsE.....................117
+OL,14,AHollywood Burbank AirportE..........114
+OL,15,AVan Nuys AirportE...................117
+OL,16,ARamonaE.............................117
+OL,17,ASanta AnaE..........................114
+OL,18,ARiversideE..........................118
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,167,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV    h|h4h| |4    |4   h|             
+OL,2,T]V    jz5o%?   55jjj5         
+OL,3,T]S    "#5j 5  p5ujjz5         
+OL,4,T]S      #!"# #!#  ##!###"#bs{5         
+OL,5,G           LOS ANGELES, Wed 4 July 2018
+OL,6,G                                       
+OL,7,CLocal animal shelters are reminding pet
+OL,8,Cowners to take care of their furry     
+OL,9,Cfriends during firework celebrations   
+OL,10,Cthis Independence Day.                 
+OL,11,F                                       
+OL,12,F"More pets go missing and get injured  
+OL,13,Fduring the Fourth of July season than  
+OL,14,Fany other time of year," said Tara     
+OL,15,FDiller, director of Ventura County     
+OL,16,FAnimal Services.                       
+OL,17,B"This is due to the panic animals      
+OL,18,Bexperience when they hear fireworks.   
+OL,19,BEven the most calm house pets become   
+OL,20,Bfrightened and have been known to jump 
+OL,21,Bthrough windows and leap 8-foot fences 
+OL,22,Bsimply to escape the noise," she said. 
+OL,23,                                        
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,167,100,100
+PN,16103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV    h|||    |4    |4(,               
 OL,2,T]V    j||jo55?/*?jj/%?        
 OL,3,T]S    `pzjz55s{ 5jjp0ws        
@@ -30,8 +90,8 @@ OL,22,Bday a length of 14 hours and 25
 OL,23,Bminutes.                               
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,167,100,100
-PN,16102
-SC,0002
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -60,8 +120,8 @@ OL,22,Fsize, he is unable to comfortably fit
 OL,23,Finside a kennel.                       
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16103
-SC,0003
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -90,8 +150,8 @@ OL,22,BChipotle's "@Homo Estas?" a few years
 OL,23,Bback.)                                 
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16104
-SC,0004
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -120,8 +180,8 @@ OL,22,F"It's the only parade in Los Angeles
 OL,23,Fthat we're aware of," Neudorff said.   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16105
-SC,0005
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -150,8 +210,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,0,0,0,0,100,100
-PN,16106
-SC,0006
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -180,8 +240,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,0,0,0,0,100,100
-PN,16107
-SC,0007
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -210,8 +270,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16108
-SC,0008
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -240,8 +300,8 @@ OL,22,Euntil 2037.
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16109
-SC,0009
+PN,16111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -270,8 +330,8 @@ OL,22,Fto monitor quakes in Southern
 OL,23,FCalifornia.                            
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16110
-SC,0010
+PN,16112
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -300,8 +360,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16111
-SC,0011
+PN,16113
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -330,8 +390,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16112
-SC,0012
+PN,16114
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -360,8 +420,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16113
-SC,0013
+PN,16115
+SC,0015
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -390,8 +450,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16114
-SC,0014
+PN,16116
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -420,8 +480,8 @@ OL,22,AMoraga Drive, Casiano Road and Linda
 OL,23,AFlora Drive.                           
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16115
-SC,0015
+PN,16117
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -450,8 +510,8 @@ OL,22,Fserve as a barricade for cars.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16116
-SC,0016
+PN,16118
+SC,0018
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -480,8 +540,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16117
-SC,0017
+PN,16119
+SC,0019
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -510,8 +570,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16118
-SC,0018
+PN,16120
+SC,0020
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
