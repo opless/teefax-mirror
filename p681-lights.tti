@@ -1,6 +1,6 @@
 DE,Traffic lights
 DS,inserter
-SP,J:\peter\teletext pages\teefax\p681-lights.tti
+SP,J:\peter\teefax\p681-lights.tti
 PN,68101
 SC,0001
 PS,8000
@@ -61,6 +61,7 @@ OL,20,D]W       "#k\    ###),,lppzT]
 OL,21,D]W         "####k\        jT]          
 OL,22,D]W              j\########T]          
 OL,23,D]W              j\   T]               
+OL,24,A Next     BLink CAnother link FBackW   
 FL,672,100,100,600,8ff,8ff
 PN,68103
 SC,0003
@@ -91,6 +92,7 @@ OL,20,D]W       "#k\    ###),,lppzT]
 OL,21,D]W         "####k\        jT]          
 OL,22,D]W              j\########T]          
 OL,23,D]W              j\   T]               
+OL,24,A Next     BLink CAnother link FBackW   
 FL,672,100,100,600,8ff,8ff
 PN,68104
 SC,0004
@@ -121,4 +123,5 @@ OL,20,D]W       "#k\    ###),,lppzT]
 OL,21,D]W         "####k\        jT]          
 OL,22,D]W              j\########T]          
 OL,23,D]W              j\   T]               
+OL,24,A Next     BLink CAnother link FBackW   
 FL,672,100,100,600,8ff,8ff
