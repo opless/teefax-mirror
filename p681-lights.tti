@@ -1,0 +1,124 @@
+DE,Traffic lights
+DS,inserter
+SP,J:\peter\teletext pages\teefax\p681-lights.tti
+PN,68101
+SC,0001
+PS,8000
+CT,3,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,G]W           `pp                       
+OL,2,F]W           j\j##-,,ltpp0F]           
+OL,3,F]W           j\z P x-0 W5F]           
+OL,4,F]W           j\5P ~}y W5F]           
+OL,5,F]W          `z\5PPk3o? W5F]           
+OL,6,F]W          j\jp^P0#/'  W5F]           
+OL,7,F]W          j\j   #^W#-,,5F]           
+OL,8,F]W          j\5S  xl0 WkF]           
+OL,9,F]W         `z\5S ~t0WjF]           
+OL,10,F]W         j\h!S o7o%WjF]           
+OL,11,F]W         j\j S  /}?! WjF]           
+OL,12,D]W         j\6###,,,,dpppzT]           
+OL,13,D]W        `z\5P  p~}t  W*4T]          
+OL,14,D]W        j\h!P ~}:4  W5T]          
+OL,15,D]W        j\jP j}{4 W5T]          
+OL,16,D]W        j\6P j?5 W5T]          
+OL,17,D]W       `z\5P "}j% W5T]          
+OL,18,D]W       j\`%P  *~?#  WmT]          
+OL,19,D]W       j\*,lpppP###    WjT]          
+OL,20,D]W       "#k\    ###),,lppzT]          
+OL,21,D]W         "####k\        jT]          
+OL,22,D]W              j\########T]          
+OL,23,D]W              j\   T]               
+OL,24,A Next     BLink CAnother link FBackW   
+FL,672,100,100,600,8ff,8ff
+PN,68102
+SC,0002
+PS,8000
+CT,6,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,G]W           `pp                       
+OL,2,F]W           j\j##-,,ltpp0F]           
+OL,3,F]W           j\z Q x-0 W5F]           
+OL,4,F]W           j\5Q ~}y W5F]           
+OL,5,F]W          `z\5Q k3o? W5F]           
+OL,6,F]W          j\jp^Q0#/'  W5F]           
+OL,7,F]W          j\jW  #^W#-,,5F]           
+OL,8,F]W          j\5P  xl0 WkF]           
+OL,9,F]W         `z\5P ~t0WjF]           
+OL,10,F]W         j\h!P o7o%WjF]           
+OL,11,F]W         j\j P  /}?! WjF]           
+OL,12,D]W         j\6###,,,,dpppzT]           
+OL,13,D]W        `z\5P  p~}t  W*4T]          
+OL,14,D]W        j\h!P ~}:4  W5T]          
+OL,15,D]W        j\jP j}{4 W5T]          
+OL,16,D]W        j\6P j?5 W5T]          
+OL,17,D]W       `z\5P "}j% W5T]          
+OL,18,D]W       j\`%P  *~?#  WmT]          
+OL,19,D]W       j\*,lpppP###    WjT]          
+OL,20,D]W       "#k\    ###),,lppzT]          
+OL,21,D]W         "####k\        jT]          
+OL,22,D]W              j\########T]          
+OL,23,D]W              j\   T]               
+FL,672,100,100,600,8ff,8ff
+PN,68103
+SC,0003
+PS,8000
+CT,3,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,G]W           `pp                       
+OL,2,F]W           j\j##-,,ltpp0F]           
+OL,3,F]W           j\z Q x-0 W5F]           
+OL,4,F]W           j\5Q ~}y W5F]           
+OL,5,F]W          `z\5Q k3o? W5F]           
+OL,6,F]W          j\jp^Q0#/'  W5F]           
+OL,7,F]W          j\jW  #^W#-,,5F]           
+OL,8,F]W          j\5S  xl0 WkF]           
+OL,9,F]W         `z\5S ~t0WjF]           
+OL,10,F]W         j\h!S o7o%WjF]           
+OL,11,F]W         j\j S  /}?! WjF]           
+OL,12,D]W         j\6###,,,,dpppzT]           
+OL,13,D]W        `z\5P  p~}t  W*4T]          
+OL,14,D]W        j\h!P ~}:4  W5T]          
+OL,15,D]W        j\jP j}{4 W5T]          
+OL,16,D]W        j\6P j?5 W5T]          
+OL,17,D]W       `z\5P "}j% W5T]          
+OL,18,D]W       j\`%P  *~?#  WmT]          
+OL,19,D]W       j\*,lpppP###    WjT]          
+OL,20,D]W       "#k\    ###),,lppzT]          
+OL,21,D]W         "####k\        jT]          
+OL,22,D]W              j\########T]          
+OL,23,D]W              j\   T]               
+FL,672,100,100,600,8ff,8ff
+PN,68104
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,G]W           `pp                       
+OL,2,F]W           j\j##-,,ltpp0F]           
+OL,3,F]W           j\z P x-0 W5F]           
+OL,4,F]W           j\5P ~}y W5F]           
+OL,5,F]W          `z\5PPk3o? W5F]           
+OL,6,F]W          j\jp^P0#/'  W5F]           
+OL,7,F]W          j\jW  #^W#-,,5F]           
+OL,8,F]W          j\5P  xl0 WkF]           
+OL,9,F]W         `z\5P ~t0WjF]           
+OL,10,F]W         j\h!P o7o%WjF]           
+OL,11,F]W         j\j P  /}?! WjF]           
+OL,12,D]W         j\6###,,,,dpppzT]           
+OL,13,D]W        `z\5R  p~}t  W*4T]          
+OL,14,D]W        j\h!R ~}:4  W5T]          
+OL,15,D]W        j\jR j}{4 W5T]          
+OL,16,D]W        j\6R j?5 W5T]          
+OL,17,D]W       `z\5R "}j% W5T]          
+OL,18,D]W       j\`%R  *~?#  WmT]          
+OL,19,D]W       j\*,lpppR###    WjT]          
+OL,20,D]W       "#k\    ###),,lppzT]          
+OL,21,D]W         "####k\        jT]          
+OL,22,D]W              j\########T]          
+OL,23,D]W              j\   T]               
+FL,672,100,100,600,8ff,8ff
