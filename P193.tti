@@ -3,28 +3,28 @@ SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,U]Wj=,   j= h4*-| T]Gdisplayed on    
-OL,2,U]W*%  //%*%/ //%*// T]Gthis screen     
-OL,3,P                                       
-OL,4,P W]Q      \        T]W]Q\        
-OL,5,P QGEngland T]W]Q$France  
-OL,6,P W]Q      \        T]W]Q\        
-OL,7,P                                       
-OL,8,P QG        QP        
-OL,9,P WGNether- QGItaly   
-OL,10,P TGlands   QG        
-OL,11,P                                       
-OL,12,P T]S      \        W         
-OL,13,P SGSweden  TGRussia  
-OL,14,P T]S      \        QG        
-OL,15,P                                       
-OL,16,P  Q]W |   \         Q         
-OL,17,P  Q]W  \GSwitz-  WGHungary 
-OL,18,P  Q]W /   \Gerland  RG        
-OL,19,Tppppppppppppppppppppppppppppppppppppppp
-OL,20,T]P         P]S ]QT
-OL,21,T]QGGermany P]S ]QG\BelguimP 
-OL,22,T]S         P]S ]QT
-OL,23,T]}
-OL,24,T]G      By Matthew Eagles 2016         
+OL,1,U]Wh|| |  h|| ||4h|| T]Gthat can be     
+OL,2,U]Wj=,   j= h4*-| T]Gdisplayed on    
+OL,3,U]W*%  //%*%/ //%*// T]Gthis screen     
+OL,4,P                                       
+OL,5,P W]Q      \        T]W]Q\        
+OL,6,P QGEngland T]5W]Q]G \France  
+OL,7,P W]Q      \        T]W]Q\        
+OL,8,P                                       
+OL,9,P QG        R]W]Q]\        
+OL,10,P WGNether- R]W]Q]G \Italy   
+OL,11,P TGlands   R]W]Q]\        
+OL,12,P                                       
+OL,13,P T]S      \        W         
+OL,14,P SGSweden  TGRussia  
+OL,15,P T]S      \        QG        
+OL,16,P                                       
+OL,17,P  Q]W |   \         Q         
+OL,18,P  Q]W  \GSwitz-  WGHungary 
+OL,19,P  Q]W /   \Gerland  RG        
+OL,20,Tppppppppppppppppppppppppppppppppppppppp
+OL,21,T]P         P]S ]Q]T]
+OL,22,T]QGGermany P]S ]Q]G \Belguim 
+OL,23,T]S         P]S ]Q]T]
+OL,24,D]G      By Matthew Eagles 2016         
 FL,0,0,0,0,100,100
