@@ -1,5 +1,7 @@
-PN,19300
-SC,0000
+DS,inserter
+CT,20,T
+PN,19301
+SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -27,4 +29,64 @@ OL,21,T]P         P]S ]Q]T]
 OL,22,T]QGGermany P]S ]Q]G \Belguim 
 OL,23,T]S         P]S ]Q]T]
 OL,24,D]G      By Matthew Eagles 2016         
+FL,0,0,0,0,100,100
+PN,19302
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,S#ss{'s3o's3o#o7k's3o#o'k3o?c
+OL,2,SSssSS5jSt!jS5jSta4j4h
+OL,3,Spss{tsq~tsq~puztsq~puzuz
+OL,4,C#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#
+OL,5,P                                       
+OL,6,CThe UK & world economy have had several
+OL,7,Cphases since 2006. The 'credit bubble' 
+OL,8,Cburst in 2007-08 leading to a deep     
+OL,9,Cworldwide recession and major debt.    
+OL,10,CThis has been followed by a period of  
+OL,11,Cslow and protracted growth in the early
+OL,12,C2010s. The graph below shows GDP growth
+OL,13,Cin the UK during the perios 2006-15.   
+OL,14,P                                       
+OL,15,B 1.0R}44P  RjPR4R4R0h00P  CEach yellow 
+OL,16,B 0.5R4PRx5}5R5}}}P Ctick-mark   
+OL,17,B 0.0R7##+#####+k#######!Caligns with 
+OL,18,B-0.5R5P R5P              Cthe first   
+OL,19,B-1.0R5P R5P              Cquatere of  
+OL,20,B-1.5R5P R5P              Ceach year   
+OL,21,B-2.0R5P R*P               C(2007-2016) 
+OL,22,P     S!S!S!S!S!S!S!S!S!S!P             
+OL,23,P                                       
+OL,24,D]G     By Matthew Eagles 2016          
+FL,0,0,0,0,100,100
+PN,19303
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T]Sh<,h4|     8$           4     `|`<$  
+OL,2,T]Sj=$j5h#hs47!vyh#hs47ih#55jjki"j=t  
+OL,3,T]S*-,"-'* ",$% ),* ",$%*",%).*** /"-'  
+OL,4,T]S      G\On Thursday 23rd June 2016   
+OL,5,T]S 0$$0 G\the UK voted in a referendum 
+OL,6,T]S(   ( G\on whether toCRemainGin the  
+OL,7,T]S"0  2 G\EU, orFLeaveG("Brexit").    .
+OL,8,T]S  !!  G\The UK joined the EU in 1973 
+OL,9,MRESULT:CREMAIN - 48.1%;FLEAVE - 51.9%  
+OL,10,MRESULT:CREMAIN - 48.1%;FLEAVE - 51.9%  
+OL,11, Votes: C16,141,241     F17,410,742     
+OL,12, Total electorate 46.5m. Turnout 72.2%  
+OL,13, Regional breakdown:                    
+OL,14,          CREMAIN FLEAVE  GTOTAL VOTES  
+OL,15, England  C46.6%  F53.4%  G28,455,402   
+OL,16, ( London C59.9%  F40.1%  G 3,776,751 ) 
+OL,17, ( North  C44.2%  F55.8%  G 7,745,878 ) 
+OL,18, ( Midlands & East Anglia               
+OL,19,          C41.9%  F58.1%  G 8,800,360   
+OL,20, ( South  C47.9%  F52.1%  G 8,132,413   
+OL,21, Scotland C62.0%  F38.0%  G 2,679,513   
+OL,22, Wales    C47.5%  F52.5%  G 1,626,919   
+OL,23, N IrelandC55.8%  F44.2%  G   790,149   
+OL,24,D]G     By Matthew Eagles 2016          
 FL,0,0,0,0,100,100
