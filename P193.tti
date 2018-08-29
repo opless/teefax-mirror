@@ -5,36 +5,6 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,U]Wh|| |  h|| ||4h|| T]Gthat can be     
-OL,2,U]Wj=,   j= h4*-| T]Gdisplayed on    
-OL,3,U]W*%  //%*%/ //%*// T]Gthis screen     
-OL,4,P                                       
-OL,5,P W]Q      \        T]W]Q\        
-OL,6,P QGEngland T]5W]Q]G \France  
-OL,7,P W]Q      \        T]W]Q\        
-OL,8,P                                       
-OL,9,P QG        R]W]Q]\        
-OL,10,P WGNether- R]W]Q]G \Italy   
-OL,11,P TGlands   R]W]Q]\        
-OL,12,P                                       
-OL,13,P T]S      \        W         
-OL,14,P SGSweden  TGRussia  
-OL,15,P T]S      \        QG        
-OL,16,P                                       
-OL,17,P  Q]W |   \         Q         
-OL,18,P  Q]W  \GSwitz-  WGHungary 
-OL,19,P  Q]W /   \Gerland  RG        
-OL,20,Tppppppppppppppppppppppppppppppppppppppp
-OL,21,T]P         P]S ]Q]T]
-OL,22,T]QGGermany P]S ]Q]G \Belguim 
-OL,23,T]S         P]S ]Q]T]
-OL,24,D]G      By Matthew Eagles 2016         
-FL,0,0,0,0,100,100
-PN,19302
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,S#ss{'s3o's3o#o7k's3o#o'k3o?c
 OL,2,SSssSS5jSt!jS5jSta4j4h
 OL,3,Spss{tsq~tsq~puztsq~puzuz
@@ -60,8 +30,8 @@ OL,22,P     S!S!S!S!S!S!S!S!S!S!P
 OL,23,P                                       
 OL,24,D]G     By Matthew Eagles 2016          
 FL,0,0,0,0,100,100
-PN,19303
-SC,0003
+PN,19302
+SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -88,5 +58,395 @@ OL,20, ( South  C47.9%  F52.1%  G 8,132,413
 OL,21, Scotland C62.0%  F38.0%  G 2,679,513   
 OL,22, Wales    C47.5%  F52.5%  G 1,626,919   
 OL,23, N IrelandC55.8%  F44.2%  G   790,149   
+OL,24,D]G     By Matthew Eagles 2016          
+FL,0,0,0,0,100,100
+PN,19303
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,U]Wh|| |  h|| ||4h|| T]Gthat can be     
+OL,2,U]Wj=,   j= h4*-| T]Gdisplayed on    
+OL,3,U]W*%  //%*%/ //%*// T]Gthis screen     
+OL,4,P                                       
+OL,5,P W]Q      \        T]W]Q\        
+OL,6,P QGEngland T]5W]Q]G \France  
+OL,7,P W]Q      \        T]W]Q\        
+OL,8,P                                       
+OL,9,P QG        R]W]Q]\        
+OL,10,P WGNether- R]W]Q]G \Italy   
+OL,11,P TGlands   R]W]Q]\        
+OL,12,P                                       
+OL,13,P T]S      \        W         
+OL,14,P SGSweden  TGRussia  
+OL,15,P T]S      \        QG        
+OL,16,P                                       
+OL,17,P  Q]W |   \         Q         
+OL,18,P  Q]W  \GSwitz-  WGHungary 
+OL,19,P  Q]W /   \Gerland  RG        
+OL,20,Tppppppppppppppppppppppppppppppppppppppp
+OL,21,T]P         P]S ]Q]T]
+OL,22,T]QGGermany P]S ]Q]G \Belguim 
+OL,23,T]S         P]S ]Q]T]
+OL,24,D]G      By Matthew Eagles 2016         
+FL,0,0,0,0,100,100
+PN,19304
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W?c3o?c3o7k7k7cs#s+'s+'33o7cs's+w3c{
+OL,2,W5j3k5j5ju*%z5b{W#xWWW55j5b{WW5j
+OL,3,W}rq~}rq~txursp}rppp}uzursppuz
+OL,4, Election results in the United Kingdom:
+OL,5,F2015:PRIME MINISTER DAVID CAMERON (Con)
+OL,6,GVotes:FCon 37%ALab 30%EUKIP 13%CLib 8% 
+OL,7,GMPs:FCon 330ALab 232CSNP 56CLib 8      
+OL,8,ALeaders of the Opposition (Labour):    
+OL,9,AHarriet Harman, Jeremy Corbyn          
+OL,10,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,11,F2010:PRIME MINISTER DAVID CAMERON (Con)
+OL,12,Gin coalition - deputy Nick Clegg (Lib) 
+OL,13,GVotes:FCon 36%ALab 29%CLib 23%EUKIP 3% 
+OL,14,GMPs:FCon 306ALab 258CLib 57 SNP 6      
+OL,15,ALeaders of the Opposition (Labour):    
+OL,16,AHarriet Harman, Ed Miliband            
+OL,17,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,18,A2005:PRIME MINISTER TONY BLAIR (Lab)   
+OL,19,Areplaced by Gordon Brown in JUne 2007  
+OL,20,GVotes:ALab 35%FCon 32%CLib 22%EUKIP 2% 
+OL,21,GMPs:ALab 255FCon 198CLib 62 SNP 6      
+OL,22,FLdrs of the Opposition (Conservative): 
+OL,23,FMichael Howard, David Cameron          
+OL,24,D]F   By Matthew Eagles, March 2016     
+FL,0,0,0,0,100,100
+PN,19305
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V7s33###s3s3s3s#s3##c#3s33###cscscscscsk
+OL,2,V5=55(,$55=5=$55=5V8!V5-45P V*lV5jnV5j,j
+OL,3,Vuqqsqpp{qqqsqspqqrpppqsqssrprspqrrpqrsz
+OL,4,GDuring the early years of the 21stP    
+OL,5,Gcentury the way of life of the western 
+OL,6,Gworld has come under attack by radical 
+OL,7,GIslamist groups. The West regards P    
+OL,8,Gthese Islamists as terrorists and not P
+OL,9,Grepresentative of the large majority P 
+OL,10,Gof people who follow the religion ofP  
+OL,11,GIslam. During the years 2001-09 the P  
+OL,12,Gbiggest threat wasFAl-QaedaGwho bombed 
+OL,13,Gthe World Trade Center in New York on P
+OL,14,G11th September, 2001. But from around P
+OL,15,G2014 it isF"Islamic State"Gwho haveP   
+OL,16,Ggrabbed most of the news headlines.P   
+OL,17,GThe organisation is also known as IS,P 
+OL,18,GISIS, ISIL and Daesh (with subtle P    
+OL,19,Gdifferences in meaning), and has att-P 
+OL,20,Gempted to establish a caliphate in the 
+OL,21,GMiddle East with an extreme regime P   
+OL,22,Gthat the West wholeheartedly condemns.P
+OL,23,G"Islamic State" has been responsible   
+OL,24,Gfor many deaths in the West from 2014.P
+FL,0,0,0,0,100,100
+PN,19306
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
+OL,2,T]W|j5j5|j5j5  | j5 j5j5 *-l4 
+OL,3,T]W/  *//%/  *//%//%/ / *% /*//%/ /*//% 
+OL,4,T]G of countries around Europe - 2015   
+OL,5,GOver 10 million   F]D4-10 million      
+OL,6,G 1 Russia   142.1mF]D15 Hungary   9.9m 
+OL,7,G 2 Germany   82.6mF]D16 Sweden    9.7m 
+OL,8,G 3 France    65.0mF]D17 Serbia    9.4m 
+OL,9,G 4 UK        63.8mF]D18 Belarus   9.3m 
+OL,10,G 5 Italy     61.1mF]D19 Austria   8.6m 
+OL,11,G 6 Spain     47.2mF]D20 Switzerld 8.2m 
+OL,12,G 7 Ukraine   44.6mF]D21 Bulgaria  7.1m 
+OL,13,G 8 Poland    38.2mF]D22 Denmark   5.7m 
+OL,14,G 9 Romania   21.6mF]D23 Finland   5.5m 
+OL,15,G10 Netherlds 16.8mF]D24 Slovakia  5.5m 
+OL,16,G11 Belgium   11.2mF]D25 Norway    5.1m 
+OL,17,G12 Greece    11.1mF]D26 Ireland   4.7m 
+OL,18,G13 Czech Rep 10.8mF]D27 Croatia   4.3m 
+OL,19,G14 Portugal  10.6mF]D                  
+OL,20,D]FSmallest: San Marino (32K)           
+OL,21,D]FGibraltar (29K), Vatican City (800)  
+OL,22,D]F                                     
+OL,23,D]F--- Source: statisticstimes.com ---  
+OL,24,D]F        Matthew Eagles 2016          
+FL,0,0,0,0,100,100
+PN,19307
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
+OL,2,Q]W|j5j5|j5j5  | j5 j5j5 *-l4 
+OL,3,Q]W/  *//%/  *//%//%/ / *% /*//%/ /*//% 
+OL,4,Q]G      of cities around the UK        
+OL,5,GOver 300,000      E]GUnder 300,000     
+OL,6,  1 London     7.2mE]G14 Nottngham 285K 
+OL,7,  2 Birmingham 992KE]G15 Leicester 280K 
+OL,8,  3 Leeds      720KE]G16 Sunderlnd 280K 
+OL,9,  4 Glasgow    560KE]G17 Belfast   280K 
+OL,10,  5 Sheffield  512KE]G18 Newcastle 259K 
+OL,11,  6 Bradford   467KE]G19 Brighton  248K 
+OL,12,  7 Edinburgh  450KE]G20 Hull      240K 
+OL,13,  8 Liverpool  440KE]G21 Plymouth  240K 
+OL,14,  9 Manchester 420KG]EPop'n by country: 
+OL,15,G10 Bristol    380KG]EEngland     53.0m 
+OL,16,G11 Wakefield  316KG]EScotland     5.3m 
+OL,17,G12 Cardiff    310KG]EWales        3.1m 
+OL,18,G13 Coventry   305KG]EN. Ireland   1.8m 
+OL,19,A]GSmallest cities: Truro (19K), Ely    
+OL,20,A]G(14K), Wells (10K), St Davids (2K)   
+OL,21,A]G                                     
+OL,22,A]GSource:www.ukcities.co.uk; Census    
+OL,23,A]G        2011 (Wikipedia)             
+OL,24,A]G       Matthew Eagles 2016           
+FL,0,0,0,0,100,100
+PN,19308
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,R]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
+OL,2,R]W|j5j5|j5j5  | j5 j5j5 *-l4 
+OL,3,R]W/  *//%/  *//%//%/ / *% /*//%/ /*//% 
+OL,4,R]Gof countries/cities around the world 
+OL,5,GCOUNTRIES         C]BCITIES            
+OL,6,G 1 China    1,375mC]B 1 Shanghai 24.3m 
+OL,7,G 2 India    1,286mC]B 2 Beijing  21.5m 
+OL,8,G 3 USA        323mC]B 3 Lagos    21.3m 
+OL,9,G 4 Indonesia  259mC]B 4 Delhi    16.8m 
+OL,10,G 5 Brazil     206mC]B 5 Karachi  15.0m 
+OL,11,G 6 Pakistan   193mC]B 6 Istanbul 14.4m 
+OL,12,G 7 Nigeria    187mC]B 7 Tokyo    13.3m 
+OL,13,G 8 Bangladesh 160mC]B 8 Mumbai   12.5m 
+OL,14,G 9 Russia     147mC]B 9 Moscow   12.2m 
+OL,15,G10 Japan      127mC]B10 SaoPaolo 11.9m 
+OL,16,G11 Mexico     122mC]B11 Shenzhen 10.8m 
+OL,17,G12 Philipines 103mC]B12 Seoul    10.4m 
+OL,18,G13 Ethiopia    92mC]B13 Jakarta  10.1m 
+OL,19,G14 Vietnam     92mC]B14 Guangzhou 9.9m 
+OL,20,G15 Egypt       91mC]B15 Kinshasa  9.7m 
+OL,21,B]C Note that the city population       
+OL,22,B]C depends on the definitions used.    
+OL,23,B]G Source: Wikipedia; 2015-16 figures  
+OL,24,B]G        Matthew Eagles 2016          
+FL,0,0,0,0,100,100
+PN,19309
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,PR7s333s33#3s#33s#33##c#ccscscscccsc3kP 
+OL,2,PR5-4=5=5555=155=1m%PRjjjj,jnR5jnj,jfjP 
+OL,3,PRusqqqqqssqspsqqqrppprssrsrrpqrrrsrrzP 
+OL,4,BShawbury is in Shropshire, U.K. It (and
+OL,5,BWoodford before it in the THIS WEEK    
+OL,6,Bpages) was chosen as being close to the
+OL,7,Bcentre of the UK and therefore repres- 
+OL,8,Bentative of all UK. averages below from
+OL,9,Bwww.weatheronline.co.uk, 2000-2014.    
+OL,10,E Month     Max  Min  Rain  Snow  Sun   
+OL,11,E           (C)  (C)  (mm)  days  (hr)  
+OL,12,  January  F 7  D 2   F50    G3  C 43   
+OL,13,  February F 8  D 2   C41    G2  C 54   
+OL,14,  March    B10  D 2   C32    G2  C 92   
+OL,15,  April    B13  D 4   C47    G1  C113   
+OL,16,  May      C16  F 7    58    G1  C130   
+OL,17,  June     C19  B10   F52    G0  C133   
+OL,18,  July     A21  B12   F63    G0  C132   
+OL,19,  August   A20  B11   F56    G0  C101   
+OL,20,  SeptemberC18  B10   C49    G0  C 95   
+OL,21,  October  B14  F 8   D71    G0  C 70   
+OL,22,  November B10  D 4   F62    G2  C 49   
+OL,23,  December F 7  D 2   F61    G3  C 44   
+OL,24,D]G      By Matthew Eagles 2016         
+FL,0,0,0,0,100,100
+PN,19310
+SC,0010
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P R//   
+OL,2,P V?//V///////////,//////   
+OL,3,P R5*/RRRRRRRRRRRRR   
+OL,4,P V?/VVVV/VV/VV/VVVVV/V   
+OL,5,P RRR//R   
+OL,6,P V//////////////////////////////////   
+OL,7,P   RjP    CSUPERMARKET PRICESP       
+OL,8,P W`~tP  CAS OF FEBRUARY 2016       
+OL,9,P W5                             
+OL,10,P W5W5P GAle, 500ml. .....#1.79P   
+OL,11,P W5W5P CBread, 4 rolls......69pP  
+OL,12,P W5W5P GBrown rice,500g..#2.00P   
+OL,13,P W5W5P CCereal bars, 6. .#1.99P   
+OL,14,P W5P GGala apples, 3...#1.11P   
+OL,15,P W5P CGrapes, 5009.....#2.00P   
+OL,16,P W5P GMilk, 2 pints.......75pP  
+OL,17,P V?//??o%P CPasta, 1kg..........99pP  
+OL,18,P V55555(5P GSweetcorn, 340g.....85pP  
+OL,19,P V}}}}}~~4P CToilet roll, 4...#2.00P   
+OL,20,P W5P GTurkey, 400g.....#3.50P   
+OL,21,P W5P CTV magazine.........58pP  
+OL,22,P W+//////!P GYogurt drinks,8..#2.75P   
+OL,23,                                        
+OL,24,D]G    By Matthew Eagles 2015/16        
+FL,0,0,0,0,100,100
+PN,19311
+SC,0011
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W<,,,,,,,,,,,lPWhP   WlP  W4P      WhP  
+OL,2,W5aaaaaaaaaacjPWj,$`,0jW8dW=,W8dW4W4j,$P
+OL,3,W5$$$$$$$$$$,jPWjPWjp5jWuzW5PWuzW)8!jP  
+OL,4,W5s2rbrrr2rbsjPWjW0jW0jW5`W5`W5`W8)0jW0P
+OL,5,W-,,,,,,,,,,,.PW",!",!*W)&W)&W)&W%W%",!P
+OL,6,CTeletext in its original form was      
+OL,7,Cdeveloped in the early 1980s. 8 colours
+OL,8,Care available ` black,Ared,Bgreen,     
+OL,9,Dblue,Cyellow,Emagenta,Fcyan,Gand white 
+OL,10,C` and double-height and flashing text  
+OL,11,Care also possible. In addition, low-   
+OL,12,Cresolution graphics can be included    
+OL,13,Csuch as the keyboard icon above.       
+OL,14,MAdvantage of this style of Teletext    
+OL,15,MAdvantage of this style of Teletext    
+OL,16,FIts major advantage was that a screen  
+OL,17,Fof text and graphics only required a   
+OL,18,Fsmall amount of memory ` 1KB, which    
+OL,19,Fmade it easier to store and transmit   
+OL,20,Fusing the technology of the day.       
+OL,21,FTeletext displays such as this could   
+OL,22,Fbe sent to people's TV sets as a       
+OL,23,Fsource of information.                 
+OL,24,D]G    By Matthew Eagles 2015/16        
+FL,0,0,0,0,100,100
+PN,19312
+SC,0012
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,A]CM    Matthew Eagles's Testcard       
+OL,2,A]CM    Matthew Eagles's Testcard       
+OL,3,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4,Wsssssssssssssssssssssssssssssssssssssss
+OL,5,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,6,W555555T|||||||||||||||||||||||Q
+OL,7,W555555TP                   TQ
+OL,8,W555555TV75<4V=jlh$V<hl(lhnPTR
+OL,9,W555555TUu555Uujjj1U5jzj{jzPTR
+OL,10,W555555TP                   TS
+OL,11,W555555TP  Qx<,,l<,,tP      TS
+OL,12,W555555TP Qhqppzuppr}pp0P  TT
+OL,13,W555555TPQ`4P TT
+OL,14,W555555TPQjP TU
+OL,15,W555555TP T*?P     T*?P   TU
+OL,16,W555555TP                   TV
+OL,17,W555555TPW#####P   W#####P  TV
+OL,18,W555555TP                   TW
+OL,19,W555555T///////////////////////W
+OL,20,P                                       
+OL,21,WssG"ABCDEFGHIJKLMNOPQRSTUVWXYZ01234"Wss
+OL,22,S,,C"abcdefghijklmnopqrstuvwxyz56789"S,,
+OL,23,VssF"!_$%&'()*+,-./:;<=>?@[]^`#{\}|~"Vss
+OL,24,A]C  By Matthew Eagles, October 2016    
+FL,0,0,0,0,100,100
+PN,19313
+SC,0013
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V]W`ppp0 ppp0 `0 `0`p   p0 ppp `ppp0    
+OL,2,V]W"##! ## j5 j5 +}p~'  ## "##!    
+OL,3,V]W     ?' j5 j5  zu              
+OL,4,V]W     "ot *}|~%`~' +}0 ||         
+OL,5,V||}||||}||~||||
+OL,6,FDuring 2016-17 the news in the UK has  
+OL,7,Fbeen dominated by two areas ` the      
+OL,8,Felection of DonaldCTrumpFas president  
+OL,9,Fof the US, and theEBrexitFprocess for  
+OL,10,FBritain to leave the EU. The graph     
+OL,11,Fbelow shows how much these topics have 
+OL,12,Fdominated the news based on their      
+OL,13,Fshowing in the THIS WEEK screens.      
+OL,14,C 0%WlPS$S$PS4S444444S44444$$4CJan 2017:
+OL,15,C   WjP       S!5%55PS!S!S!P  CD Trump  
+OL,16,C25%WkP        S%S%5P         Cstarts as
+OL,17,W```WzP   U5P     S!P         CUS presdt
+OL,18,P   WjP   U5P         U5P     EJun 2016 
+OL,19,E25%WnU4PU05P U4000U45555PU0U4EUK holds 
+OL,20,E   WjU554550U0555545555555545Ereferend-
+OL,21,E 0%W#U!!!!!!U!!!!!!!!!!!!!!!!Eum on EU 
+OL,22,G     JFMAMJJASONDJFMAMJJASONDEmembershp
+OL,23,G       2016        2017                
+OL,24,A]CBy Matthew Eagles, Jan 2018 (v6)     
+FL,0,0,0,0,100,100
+PN,19314
+SC,0014
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P             Rj$P                      
+OL,2,P          RpppxP   Wj5h7}W"k7!#Wk4P
+OL,3,P     R`x!R`'P   Wj5j5WWj5W#Wj5P
+OL,4,P      R'Rh~?!P    V"#V"!#V#V"!V##V##P 
+OL,5,P     R5(uju~%Vj%h7}h7-j7}h7}h?>}
+OL,6,P    R(!R2"ooPQi0j5j5j5j5j55
+OL,7,P       R`>krj%PQ#"!#"!#Q#!"#!Q#!"!!#
+OL,8,P        R!~%P R`Rj5ppR`p"`p0`p0Rp
+OL,9,P       Rx!*k}~h0R+!j5"!.%`<j5j5
+OL,10,P     R0PRj+`5}  R"!# R"#!#R##"!#R##
+OL,11,P   R|>s.oR`~g~0                    
+OL,12,P  R(kjsj}PR!R~}p CBRITIAN = England
+OL,13,PR||~usvl~'Rh%R+ou C(5) + Wales (1) 
+OL,14,R"k}4P    R~ C+ Scotland (4)  
+OL,15,R"//=$7P Rt`0}                 
+OL,16,P R~us?P R.}k7`p0G UK = Britian
+OL,17,PRz%P  R57~(nG + Northern  
+OL,18,Rs/#"PR`x~uuosz%G Ireland (3) 
+OL,19,PRk7#P   R"7j5                
+OL,20,P           R`|t~??%CBRITISH ISLES
+OL,21,P           R##k###! C= UK + Ireland
+OL,22,P        R`x'#+P         C           (2)
+OL,23,P                                       
+OL,24,D]G     By Matthew Eagles 2016          
+FL,0,0,0,0,100,100
+PN,19315
+SC,0015
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Wj5WW~k4k7jw1j7}PS.k4h7}"S#!PSk5Sh7
+OL,2,Wo>m?WWj5j5ju0j7}P Sj5j5SSP  Sj5`?P
+OL,3,W`p0ppWp0`p0WpWpW`p0S`?Sj5SS#k4"#j5j7}
+OL,4,W+tWj5j5ju?j7k5+tPS~!Sj5SPSj5PSj5j5
+OL,5,W,.!*%"-'*%/*%/*%,.!S/,$"-'S/S+.!PS*%"-'
+OL,6,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,7,FWinter 2015-16 was the first year when 
+OL,8,Fstorms crossing the UK were named.     
+OL,9,GAbigail  - winds to 84mph on 12/13 Nov.
+OL,10,FBarney   - 70-80mph winds on 17/18 Nov.
+OL,11,GClodagh  - affected Ire/NU Eng, 29 Nov.
+OL,12,FDesmond  - flooding in Cumbria 4-6 Dec,
+OL,13,F  incl. Carlisle. 46000 homes w/o power
+OL,14,GEva      - winds over 80mph 23/24 Dec  
+OL,15,G  leading to Xmas floods in Lancs/Yorks
+OL,16,FFrank    - flooding in S Scotld 30 Dec.
+OL,17,F  eg. Dumfries/Peebles. 28000 w/o power
+OL,18,GGertrude - winds to 105mph on 29 Jan.  
+OL,19,FHenrg    - 90mph winds N Scot, 1/2 Feb.
+OL,20,GImogen   - winds to 96mph on 8 Feb.    
+OL,21,FJake     - winds to 83mph on 1/2 Mar.  
+OL,22,GKatie    - winds to 106mph on 28 Mar.  
+OL,23,G           100,000 left without power. 
 OL,24,D]G     By Matthew Eagles 2016          
 FL,0,0,0,0,100,100
