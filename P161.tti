@@ -5,6 +5,36 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV  h|     |4         ||t              
+OL,2,T]V  j */5?jo5?  5*/55       
+OL,3,T]S  jpjw5ujz55  ujw5u       
+OL,4,T]S  "##"##!###"##!#!  ##!"##!ss       
+OL,5,G          Los Angeles, Mon 3 Sept, 2018
+OL,6,F                                       
+OL,7,CLabor Day may signal the ceremonial end
+OL,8,Cof summer, but September here in L.A.  
+OL,9,Cis just business as usual. You'll still
+OL,10,Cfind all of the events that made the   
+OL,11,Csummer so great, from outdoor movies to
+OL,12,Cfree concerts, but you'll have to hurry
+OL,13,Cbefore they start to wrap up.          
+OL,14,F                                       
+OL,15,BTake full advantage of the three-day   
+OL,16,Bweekend and pack it full of food and   
+OL,17,Btime outdoors. You can hold off on a   
+OL,18,Btrip to the sure-to-be-mobbed beach,   
+OL,19,Bthough-that warm weather isn't going   
+OL,20,Banywhere.                              
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV  |4|        |4  |4ph4               
 OL,2,T]V  }jo5/o*?  5j5/ojjjo5    
 OL,3,T]S  7js1{ 5  uz5{"z7js1    
@@ -30,8 +60,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,167,100,100
-PN,16102
-SC,0002
+PN,16103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -60,8 +90,8 @@ OL,22,Bsimply to escape the noise," she said.
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,167,100,100
-PN,16103
-SC,0003
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -90,8 +120,8 @@ OL,22,Bday a length of 14 hours and 25
 OL,23,Bminutes.                               
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,167,100,100
-PN,16104
-SC,0004
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -120,8 +150,8 @@ OL,22,Fsize, he is unable to comfortably fit
 OL,23,Finside a kennel.                       
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16105
-SC,0005
+PN,16106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -150,8 +180,8 @@ OL,22,BChipotle's "@Homo Estas?" a few years
 OL,23,Bback.)                                 
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16106
-SC,0006
+PN,16107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -180,8 +210,8 @@ OL,22,F"It's the only parade in Los Angeles
 OL,23,Fthat we're aware of," Neudorff said.   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16107
-SC,0007
+PN,16108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -210,8 +240,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,0,0,0,0,100,100
-PN,16108
-SC,0008
+PN,16109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -240,8 +270,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,0,0,0,0,100,100
-PN,16109
-SC,0009
+PN,16110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -270,8 +300,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16110
-SC,0010
+PN,16111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -300,8 +330,8 @@ OL,22,Euntil 2037.
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16111
-SC,0011
+PN,16112
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -330,8 +360,8 @@ OL,22,Fto monitor quakes in Southern
 OL,23,FCalifornia.                            
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16112
-SC,0012
+PN,16113
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -360,8 +390,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16113
-SC,0013
+PN,16114
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -390,8 +420,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16114
-SC,0014
+PN,16115
+SC,0015
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -420,8 +450,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16115
-SC,0015
+PN,16116
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -450,8 +480,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16116
-SC,0016
+PN,16117
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -480,8 +510,8 @@ OL,22,AMoraga Drive, Casiano Road and Linda
 OL,23,AFlora Drive.                           
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16117
-SC,0017
+PN,16118
+SC,0018
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -510,8 +540,8 @@ OL,22,Fserve as a barricade for cars.
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16118
-SC,0018
+PN,16119
+SC,0019
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -540,8 +570,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16119
-SC,0019
+PN,16120
+SC,0020
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -570,8 +600,8 @@ OL,22,
 OL,23,                                        
 OL,24, AIndex    BSport    CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16120
-SC,0020
+PN,16121
+SC,0021
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
