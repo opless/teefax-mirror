@@ -28,36 +28,36 @@ OL,20, T$T$T$+tQ*?Qh?//% Q~}|u*u T`~?!$T$T$
 OL,21,T!T!T!T!"/}p Q/}tp0Qh!Q"o$/T|'T!T!T!T!
 OL,22,         T"/|pQ##/'*%  Tpx~'!         
 OL,23,            T+/}|||||?/#            
-OL,24,                                        
+OL,24, A           B           C           F  
 FL,0,0,0,0,100,100
 PN,89802
 SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,                 T`5u                 
-OL,2,                Tx//T*/m0               
-OL,3,T0T0T0T0T0T0Tpx|5V5jT}t0T0T0T0T0T0T0
-OL,4, T$T$T$T$Tdx?/#! S!#"# T#+o}t$T$T$T$T$ 
-OL,5,T11111111y/!Q`0h}ho4~/th4T+}q11111111
-OL,6,Tdfdfdfd~?Q`>h!kj*}k4j42}Todfdfdfd
-OL,7,Ty9y9yy'Qx'`5z7jj`juj5*}zuTo}9y9y9y
-OL,8,Tfnfnn%Q~?/?`/oj/'"'Q`"+/}Tkvnfnf
-OL,9,T{{{{7U~?Uz!z7Ujj  U4U5 Uj}To{{{{
-OL,10,T~~Qo?Qh7h!Qjj  Q+uQ+tp~T*~~
-OL,11,T{{5Ut  U#`70 U+*!  Uh2 U"///!0T{{
-OL,12,TUz}0 U"/a5`~'j4    UjuTk
-OL,13,TUot Uh5?!    Uj5    UjTj
-OL,14,T~o~UU+}0j5}||||$Uj5Ux}0UjTz~o~
-OL,15,T{{{Uj U"o~57###! Uju~?+tj?T{{{
-OL,16,Tfnfo}U+U0 U+5otppppUj'x|2o5Tfnf
-OL,17,T;9;;4Qnt Qbs!Q+/////-*/a~'+0+T~?9;9;
-OL,18,Td&d&o4U+}x?a|///'U~4h!p|w Tze&d&d
-OL,19,T11111;4Q"o'Q~u   Qj?*2?##Tx511111
-OL,20, T$T$T$+tQ*?Qh?//% Q~}|u*u T`~?!$T$T$ 
-OL,21,T!T!T!T!"/}p Q/}tp0Qh!Q"o$/T|'T!T!T!T!
-OL,22,         T"/|pQ##/'*%  Tpx~'!         
-OL,23,            T+/}|||||?/#            
+OL,1,                                        
+OL,2,QZ        `||t0                       
+OL,3,RZ p| Q  h}0                      
+OL,4,RZ"ou-Qz4  `p||||t0           
+OL,5,RZ"+Q`|t          
+OL,6,RZ0 "+'Q~5         
+OL,7,RZ~tp  Q5         
+OL,8,RZ+! Qj?          
+OL,9,RZ  ~?Q j!          
+OL,10,RZ % Q ?!           
+OL,11,RZk  Q  k?#  Z -4 0    
+OL,12,QZ      Q"'!RQZ -~5?0   
+OL,13,Z        Qk?'R/tj4Qz?g~vk|   
+OL,14,QZ        *?'  R b{}Qu~?:+0  
+OL,15,QZ         o'!     Z Qz5k=odp90 
+OL,16,QZ         "?'Z       0 ~6o'js#fj5u8! 
+OL,17,QZ          #Z        jq~5 x4e%   
+OL,18,                   QZ "/g! :us&    
+OL,19,                      AQZ#  5&5    
+OL,20,                      QZ    "#!o?/#     
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
 PN,89803
@@ -65,29 +65,29 @@ SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,                 T`5u                 
-OL,2,                Tx//T*/m0               
-OL,3,T0T0T0T0T0T0Tpx|5V5jT}t0T0T0T0T0T0T0
-OL,4, T$T$T$T$Tdx?/#! S!#"# T#+o}t$T$T$T$T$ 
-OL,5,T11111111y/!Q`0h}ho4~/th4T+}q11111111
-OL,6,Tdfdfdfd~?Q`>h!kj*}k4j42}Todfdfdfd
-OL,7,Ty9y9yy'Qx'`5z7jj`juj5*}zuTo}9y9y9y
-OL,8,Tfnfnn%Q~?/?`/oj/'"'Q`"+/}Tkvnfnf
-OL,9,T{{{{7U~?Uz!z7Ujj  U4U5 Uj}To{{{{
-OL,10,T~~Qo?Qh7h!Qjj  Q+uQ+tp~T*~~
-OL,11,T{{5Ut  U#`70 U+*!  Uh2 U"///!0T{{
-OL,12,TUz}0 U"/a5`~'j4    UjuTk
-OL,13,TUot Uh5?!    Uj5    UjTj
-OL,14,T~o~UU+}0j5}||||$Uj5Ux}0UjTz~o~
-OL,15,T{{{Uj U"o~57###! Uju~?+tj?T{{{
-OL,16,Tfnfo}U+U0 U+5otppppUj'x|2o5Tfnf
-OL,17,T;9;;4Qnt Qbs!Q+/////-*/a~'+0+T~?9;9;
-OL,18,Td&d&o4U+}x?a|///'U~4h!p|w Tze&d&d
-OL,19,T11111;4Q"o'Q~u   Qj?*2?##Tx511111
-OL,20, T$T$T$+tQ*?Qh?//% Q~}|u*u T`~?!$T$T$ 
-OL,21,T!T!T!T!"/}p Q/}tp0Qh!Q"o$/T|'T!T!T!T!
-OL,22,         T"/|pQ##/'*%  Tpx~'!         
-OL,23,            T+/}|||||?/#            
+OL,1,T]
+OL,2,T]Q|h4|h4xl0W 8&s)d   lp4               
+OL,3,T]Qj5j5j5W: 6 `:   "45          4    
+OL,4,T]Q"##!"!#"!W5 "#!`&kh#57i&1j"73j 5`&4  
+OL,5,T]W",,,,!)&&,!)& )&& )&,5&(%  
+OL,6,T]Sx|t                        W 5     
+OL,7,T]Sp3  x|ht4x|0x||t`|t `|t`|t`|t`<$  
+OL,8,T]S#   j5 .%j5j=/ j=/*}*}"/}  
+OL,9,T]S+/'  +/*% +/!/*%/"/' "/'(|?(|?*/'  
+OL,10,T]S    `pppp0          
+OL,11,T]Q    p||p    S  p~}t+t      
+OL,12,T]Q  `~t  S`~/)"ouk}     
+OL,13,T]Q ht S~5!2o(>f7x4   
+OL,14,T]Q ]S    p||tT]Su,a?at+-|wsx?a4  
+OL,15,T]Qj]S (| ]Tk5    +t`>!     ,#xo
+OL,16,T]Rj]Q#+/]Sb]Tj5     "'     -t0 `~
+OL,17,T]Rj]S  `]Tju             `
+OL,18,T]Rj]S  ~]Tjt           `~
+OL,19,T]Rj]S` ]T~}0       `0+'
+OL,20,T]R o]S*,.]Tz}4`ppp|t *
+OL,21,T]R  +]S ur]Tx%*f}|
+OL,22,T]R    #//'!   S  #+/l0            
+OL,23,T]S    '               
 OL,24,                                        
 FL,0,0,0,0,100,100
 PN,89804
@@ -125,6 +125,36 @@ SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,R]DDevon & Somerset                2/21 
+OL,2,          FLIFE'S A BEACH AT            
+OL,3, W   jj5~k4~k4 h7}h7}h7}h77}j7}j7!    
+OL,4, V   jj5j5j5 j7j5|j5j55j7}j7     
+OL,5, S   "## "# "# ##"!# #! #!"!!#"#!"#!    
+OL,6,S,,,,,,,,,, `p `p p p`p0`p0 ,,,,,,,,,,,,
+OL,7,C NTH.DEVONWr1z5}j5jusCHOLIDAY PARK
+OL,8,V,,,,,,,,,, pz%j5"ju?(t? ,,,,,,,,,,,,
+OL,9,S    `0       `0         `0       `0    
+OL,10,S   xt     xt       xt     xt   
+OL,11,Sl|>FREEm4l|>FRDDn|< l|~FRDD~|<h.////-|<
+OL,12,S +INDOOR' +CENT/S'   +KIDS' +LICNCD' 
+OL,13,S  bPOOLq   bMENTq     bCLUBq   bCLUBq  
+OL,14,S x//t x//t   x//t x//t 
+OL,15,S.'#    #!.'#    #+- .'#    #+-"#    #+-
+OL,16,                                        
+OL,17,           CCARAVANS/CHALETS            
+OL,18,C **  MAY DAY **   QHh<$,|h<|CIFOR UP TO
+OL,19,C3 NIGHT BREAK FROMQH{w0j5juIC6 PEOPLE 
+OL,20,W                                       
+OL,21,Q`|,,lt  CCBOOK NOg (QUOTE REF TT)      
+OL,22,Q"yww}3  S|l4|(l4,|h4 h<|(l4|l4|,h<,h<| 
+OL,23,Q /--/'""Sz5jw1j5j5 hw}  z5sjwbs 
+OL,24,ARivieraBCornwallCShort BreaksFDorset   
+FL,0,0,0,0,100,100
+PN,89806
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,PZ   Q4P  Rpp5P       Ux}0P          W#P
 OL,2,PZ   Q5P R5Sp|0P UjP   Wxxx0P   
 OL,3,PZ Qx}0R//'S|4PUjP  W,$P  
@@ -150,8 +180,8 @@ OL,22,PZ     WjP S#PC      MOMENT
 OL,23,PZ       W+?!P  S//P                   
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,89806
-SC,0006
+PN,89807
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -178,5 +208,65 @@ OL,20,Q4 5 7` 5j5j2+/  z!z4"#t2,a>c~
 OL,21,Q5 1 5" 5j5j7`"tppx|~}rqx|~|x~
 OL,22,Q5 5 5j 5j5j5j 5jj 7("7("7h"
 OL,23,Qex}puzpupup}px}rrp}rs}rsuzps{{{
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,89808
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,S{%|l4|l4zw!sh<h<| j7b1|l4l4n=H`)0$!S
+OL,2,Sz5z5j5k7 j5jws j5j5z5j5j5H`$`"Sd
+OL,3,B```````````````````````S,.%B````RH,p*Qe
+OL,4,GPADSTOW, CORNWALL               RH8$(2S
+OL,5,C]DWELL PARC HOTEL FIREWORK DISPLAY  \  
+OL,6,GPlus bonfire, foodGandGdrink.B'bll     
+OL,7,BParcBHotel, Dobbin Lane.B01841 520318. 
+OL,8,CNovC5, bonfire 6.30pm,Cfireworks       
+OL,9,C7.30pm.G#1.                            
+OL,10,                                        
+OL,11,GPAIGNTON, DEVON                        
+OL,12,C]DMUSICAL FIREWORK SPECTACULAR  \      
+OL,13,GPlus fun-fair, games,Grides, food and  
+OL,14,Gdrink.BPaignton Green,BThe Esplanade.  
+OL,15,B01803 296296.CNov 7,Cfrom 7.30pm.GFree.
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,B``````````````````````````````````3/4``
+OL,21, CMotorwaysG192 ITV CIt's Your LifeG410 
+OL,22,D]GMYOUR TOTAL ENTERTAINMENT GUIDE p400 
+OL,23,                                        
+OL,24,AHeritage  BDiary  CTV  FFull Guide     
+FL,0,0,0,0,100,100
+PN,89809
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,          W    $                        
+OL,2, U    0   W  (%5-      W"//}"//} ~//4 
+OL,3, U `4"7 t W .*!5+*$    W pp? pp?     
+OL,4, U 0(%5- 0W"rc#7cc2V050W ## ##     
+OL,5, U"'c37s#'W bb15s"V(,=,W`||?`||? o||% 
+OL,6, U (4!5!<    W!1!  V!5!                 
+OL,7, U   "g W(,=,             W `|||||||t   
+OL,8, W      W !5!  U `  $ `   W /////   
+OL,9, W 050 V   0   U #< 5(6!  W #!        
+OL,10, W(,=, Va4"7 t!U``pquqp`  W x||||||   
+OL,11, W !5!V 0(%5- 0U  0$5$0   W //////'   
+OL,12, W    V"'c37s#'U l# %"i$  W           
+OL,13,       V(4!5!< U    ! W 00  ||||||   
+OL,14,       V! "g  !       Wb:s  +///////'   
+OL,15,W   j5                W !!              
+OL,16,W x|j}th|4|`|4$|xtt`|t`|4 V.pa:$W 050  
+OL,17,W  j5j5!|*}0 j5`|*}0 V$1$1$W(,=,  
+OL,18,W o|j5j5 h~%o4j5*}h~% Vl#2i$W !5!  
+OL,19,W      pp pp p0 pp`p0`p p`00`0p` `p `p  
+OL,20,U  0u0Wk5+j7j7j7%c{5k7j7k5{53  
+OL,21,U (,=,Wz5 juj?'j5 {5j5j5j5p0r  
+OL,22,U  !5!W# #  #!"/}"! "#!#"!#"!#"!"# #!  
+OL,23,      W/       */'                      
 OL,24,                                        
 FL,0,0,0,0,100,100
