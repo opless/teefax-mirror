@@ -5,9 +5,39 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
+OL,4,                                        
+OL,5,CMHorsenburger on ARD Text         P522 
+OL,6,CMHorsenburger on ARD Text         P522 
+OL,7,FFTue 4th September, 2018               
+OL,8,GG"Pixelkunst im Teletext 2018"         
+OL,9,GGUpdated daily.                        
+OL,10,AAwww.ard-text.de/index.php?page=840    
+OL,11,G                                       
+OL,12,G                                       
+OL,13,G                                       
+OL,14,G                                       
+OL,15,A                                       
+OL,16,G                                       
+OL,17,C                                       
+OL,18,C                                       
+OL,19,F                                       
+OL,20,G                                       
+OL,21,G                                       
+OL,22,G                                       
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMKCET                             P194 
 OL,6,CMKCET                             P194 
@@ -28,16 +58,16 @@ OL,20,G statistics about the UK, Europe
 OL,21,G and the World. With Flags!            
 OL,22,A www.mattheweagles.co.uk               
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10102
-SC,0002
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMJellica                          P590 
 OL,6,CMJellica                          P590 
@@ -58,16 +88,16 @@ OL,20,G viewed at your own risk).
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10103
-SC,0003
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMTwitter                          P153 
 OL,6,CMTwitter                          P153 
@@ -88,16 +118,16 @@ OL,20,CMHappy New Year                   P898
 OL,21,F Mon 1st January, 2018                 
 OL,22,G A festive design from Mr. Farrimond   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10104
-SC,0004
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMChristmas Gallery                P898 
 OL,6,CMChristmas Gallery                P898 
@@ -118,16 +148,16 @@ OL,20,G Updated Daily!
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10105
-SC,0005
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10106
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMTrainfax                         P580 
 OL,6,CMTrainfax                         P580 
@@ -148,16 +178,16 @@ OL,20,G One complete adventure to enjoy!
 OL,21,G Check outBhttp://www.4-tonline.uk/    
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10106
-SC,0006
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10107
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMDragon and Castle                P521 
 OL,6,CMDragon and Castle                P521 
@@ -178,16 +208,16 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10107
-SC,0007
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10108
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMThe Very First DIGITISER         P370 
 OL,6,CMThe Very First DIGITISER         P370 
@@ -208,16 +238,16 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10108
-SC,0008
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10109
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMDoctor Who                       P181 
 OL,6,CMDoctor Who                       P181 
@@ -238,16 +268,16 @@ OL,20,B www.digitiser2000.com.
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10109
-SC,0009
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10110
+SC,0010
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMPaul Dunning                     P180 
 OL,6,CMPaul Dunning                     P180 
@@ -268,16 +298,16 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10110
-SC,0010
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10111
+SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMLOOK AROUND YOU 1&2    P191-192       
 OL,6,CMLOOK AROUND YOU 1&2    P191-192       
@@ -298,16 +328,16 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
-PN,10111
-SC,0011
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
+PN,10112
+SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMMR.BIFFO         P571-574             
 OL,6,CMMR.BIFFO         P571-574             
@@ -328,5 +358,5 @@ OL,20,F   Replicas C670F EngineeringC 700
 OL,21,F   Events   C800F WiganboozleC 806     
 OL,22,F                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AEagles    BJellica   CEvilkeg   FCats 
-FL,193,590,186,599,100,100
+OL,24, AARDText    BKCET   CEagles   FJellica 
+FL,522,194,193,590,100,100
