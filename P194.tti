@@ -396,6 +396,66 @@ PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,                                        
+OL,2,                               C        
+OL,3,V7#####GDISCRIMINATING DIFFERENCESV####k
+OL,4,V5     V##########################     j
+OL,5,V5     V                              Vj
+OL,6,V5GDo you know the differenceZS(///-W,lp
+OL,7,V5GbetweenCFOGGandCSMOG?ZW8,&s|||
+OL,8,V5G                  ZW 8cx
+OL,9,CX FogGis a mixture ofZW5FSMOGW
+OL,10,GX cool air and water.ZW5o?/
+OL,11,GX It creates a cloud-ZW",,)0o
+OL,12,GX like mass making itZSQ   ",ld||||tl,,
+OL,13,GX hard to see through.ZQ     zjj0 
+OL,14,GX                    ZQ      5~45 
+OL,15,CX SmogGis air that has beenQZus3###sq5 
+OL,16,GX mixed with dirt and smoke.SZ 5/*%5   
+OL,17,GX it is unhealthy to breathe.SZ5j55   
+OL,18,V5G              SZ           h,!/*%)l  
+OL,19,V5G  PressCREVEALSZ           *,,,-,,.  
+OL,20,V5G                                   Vj
+OL,21,V-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+OL,22,V GNEXT:CSYMBOL TALK!            V      
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,19415
+SC,0015
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,                                        
+OL,2,                                        
+OL,3,ZWzWhtpPW#/=htWx4PW*a=|p0P     
+OL,4,ZWo0h'!pP W*ox%W}pW"+/?'y7k}`P   
+OL,5,Z W?a~/m0PW"/!Wx?%P  Wl7|W~|
+OL,6,ZPW*//!z%Wj0P  Wm|?lP W"+-~4(}pc
+OL,7,ZW0P  W*oW`5htP W+%P W|P  W xqPWj
+OL,8,ZW5x0P WkWj}P  Wo0 W4P        
+OL,9,ZW#Wt0P W##!`Q|||||||||||||||||||||| 
+OL,10,ZPWx3W|0P W*QG    THINK SHOP    Q 
+OL,11,ZWj7Wh/%`P W+QV##################Q 
+OL,12,ZPW+ux7PWz}pP QCRETAC SCHEDULE  G1Q 
+OL,13,Z   W###P W#P QCKCET UPCOMING   G2Q 
+OL,14,ZW|pP    WhwP  QCTODAY IN HISTORYG3Q 
+OL,15,ZW!WtP   WjQCTHINKABOUT      G4Q 
+OL,16,ZWtz4P  W"+'W~wQCMEASUREMETRIC   G5Q 
+OL,17,ZWk#PW`pP  WjQCENERGY QUIZ     G6Q 
+OL,18,ZW`|>o=P W"k%QC                  Q 
+OL,19,ZW#!W+}~?!"uP   Q////////////////////// 
+OL,20,ZP  W`zu`~?}0P W#+wW5PW`0W+Wh||$P 
+OL,21,Z   Wo?'*ot"P     W*o}PW"}$k|?#P Wh
+OL,22,ZP   W+a|4j4x?'m0P  W"k!|'PW~!P  W(
+OL,23,ZPWj}0PW/}}uW"5z|P   W#+l4x5P   W|
+OL,24,ZW       W"!###P W###P      W###!P   W##
+FL,0,0,0,0,100,100
+PN,19416
+SC,0016
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,                                        
 OL,2,                                        
 OL,3,Q7#########FTODAY IN HISTORYQ##########k
 OL,4,Q5WZ                                 YQj
@@ -420,8 +480,8 @@ OL,22,Qupppppppppppppppppppppppppppppppppppppz
 OL,23,                                        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,19415
-SC,0015
+PN,19417
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
