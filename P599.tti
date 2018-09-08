@@ -846,6 +846,36 @@ SC,0029
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T/'#+///o
+OL,2,TS~?}tT#SldpxS,lT#cw?/gSotTo
+OL,3,TS?PS##x<$+sd$S.sp(`ydS}?/4T
+OL,4,TS+}PS!0#"(r)$s2b8.c<6m}rSp?T
+OL,5,T}S%j.`&~~y|'`,0S:|+ud+t3T~]CLOOKING 
+OL,6,T?S8'S>8'(S8cpuoukz.ft0o?T]C AHEAD  
+OL,7,TS{!h?$#///+<">j~'//*jo0`T+]CTO KEEP 
+OL,8,TSo`%zPR+>P S}~Rm%S66}"o4T]CAHEAD  
+OL,9,TS5SSSt`<P S4m</a5Sz}T
+OL,10,T?S?*5ktp1Sh$So?hopz5SuTk
+OL,11,TSj|Sn}*/``P  Sjo}juka?STh
+OL,12,TS{9S*%h7&PS8SppSsf4'j?S1T
+OL,13,TSn0S+|r(P S*t2o7p?/ox/Sx}T~
+OL,14,TwS(cpp,&,'##Sc}r!y//o!Sj6Tk
+OL,15,TS}.wppp0PS(l/*s!h4~=T
+OL,16,TSS'o?/|p`vtbd{pp?Tx
+OL,17,T5SuSju~?'!o;?%p>T
+OL,18,T=S}So?cPSt'//kgoo?%2/cp'jT
+OL,19,T5S+o}`u~ppb=}|j.PS||/q.zT
+OL,20,TuPS"ow`+oj5/?PSx?a8cx~Tk
+OL,21,T%S0PS#o/|p"!!S|?!x&S?/ouTk
+OL,22,PS}P Shtp`~/ax%S~/`z?/$T+
+OL,23,PSo}tPSk?o~?o/!S>!`~'z%`~'`xT+
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,59930
+SC,0030
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VU(.//o///,`V
 OL,2,VU|||||||||~7#o?V
 OL,3,V?//SpU###///////////StUV##//
@@ -871,8 +901,8 @@ OL,22,V?Uz|pS#/U ` V
 OL,23,VUj}tS + U`Vj
 OL,24,V}U+}t0S+U5j4V
 FL,0,0,0,0,100,100
-PN,59930
-SC,0030
+PN,59931
+SC,0031
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
