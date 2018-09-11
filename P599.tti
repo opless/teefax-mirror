@@ -306,6 +306,36 @@ SC,0011
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V]                T~}h}`|tP           
+OL,2,V]                TjjP           
+OL,3,V]             T~u*/%./'*o?P           
+OL,4,V]   T~}h}`|tT5~}0`pP         
+OL,5,V]   TjjT+/'j5o}P        
+OL,6,V]T~u*/%./'*o?P  Tj?P        
+OL,7,V]T5~}0`pPTP           
+OL,8,V]T+/'j5o}To?P           
+OL,9,V]   Tj?PT#/////#P            
+OL,10,V]   TP                        
+OL,11,V]   To?P  T~}h}`|tP           
+OL,12,V]    T#/////#P   TjjP           
+OL,13,V]             T~u*/%./'*o?P           
+OL,14,V]   T~}h}`|tT5~}0`pP         
+OL,15,V]   TjjT+/'j5o}P        
+OL,16,V]T~u*/%./'*o?P  Tj?P        
+OL,17,V]T5~}0`pPTP           
+OL,18,V]T+/'j5o}To?P           
+OL,19,V]   Tj?PT#/////#P            
+OL,20,V]   TP                        
+OL,21,V]   To?TP  Tk5k5j5j7/P     
+OL,22,V]    T#/////#PTzuPT.%n5j5b3P     
+OL,23,V]             T#+'PT/PT/*%/.-/*-/P     
+OL,24,AKids on 4  B4-T  CGallery  FORACLE Kids
+FL,0,0,0,0,100,100
+PN,59912
+SC,0012
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,T7U~?#+uWk5UWh?|||tT+/
 OL,2,U z7W~tU+uWkUj}0W~7/+/, U0`T#/
 OL,3,U oW~!"+}U+}WkuUW7Ux$`|~?///t0T
@@ -331,8 +361,8 @@ OL,22,TU*'8//|uW=*}j%U*/z/+#WhUt
 OL,23,T, Wl}}Uk}W"#-'! 0#'U0xWootU+'Wx?!xUo
 OL,24,T?U`~tW{~UwW{,0 tf+}dU{u`Wo||~? ~%x|
 FL,0,0,0,0,100,100
-PN,59912
-SC,0012
+PN,59913
+SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -361,8 +391,8 @@ OL,22,C]D      XTHE OUTSIDE.
 OL,23,S
 OL,24,S
 FL,0,0,0,0,100,100
-PN,59913
-SC,0013
+PN,59914
+SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -391,8 +421,8 @@ OL,22,FServe with a glass of warm, milky
 OL,23,Fwater.                                 
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59914
-SC,0014
+PN,59915
+SC,0015
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -421,8 +451,8 @@ OL,22,PZ              Q#-!P Q``p)#+/2P
 OL,23,PZ                      Q!P             
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59915
-SC,0015
+PN,59916
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -451,8 +481,8 @@ OL,22,V
 OL,23,VFanother "CAT CALL" tomorrowV
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59916
-SC,0016
+PN,59917
+SC,0017
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -481,8 +511,8 @@ OL,22,Wu"//////!zu"//////!~
 OL,23,W}||||||~}||||||~
 OL,24,W
 FL,0,0,0,0,100,100
-PN,59917
-SC,0017
+PN,59918
+SC,0018
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -511,8 +541,8 @@ OL,22,T                    (]V]          Tj\
 OL,23,R                     T]V]         Tz\  
 OL,24,R                      T]Vo]    ^\T?   
 FL,0,0,0,0,100,100
-PN,59918
-SC,0018
+PN,59919
+SC,0019
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -541,8 +571,8 @@ OL,22,S55S`pSj`S/0j?/j?//%P        S///
 OL,23,PR5R*4"~R|!j}|'""##!P        R###
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59919
-SC,0019
+PN,59920
+SC,0020
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -571,8 +601,8 @@ OL,22,U]T]DEAF[
 OL,23,G10% chance disobey/ignore/mischief     
 OL,24,AExit   BStats   CAbilities   FInventory
 FL,0,0,0,0,100,100
-PN,59920
-SC,0020
+PN,59921
+SC,0021
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -601,8 +631,8 @@ OL,22,U]       S#"!!!US###!S"""!!U          j\
 OL,23,U###################################### 
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59921
-SC,0021
+PN,59922
+SC,0022
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -631,8 +661,8 @@ OL,22,W  `}~?{y}~wvtt}t  `|}~)d )d #$
 OL,23,W(/c*+|u )0 "$      
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59922
-SC,0022
+PN,59923
+SC,0023
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -661,8 +691,68 @@ OL,22,T]W       $                  !
 OL,23,T]W                   $               ! 
 OL,24,E                                       
 FL,0,0,0,0,100,100
-PN,59923
-SC,0023
+PN,59924
+SC,0024
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q]G    WHAT DO YOU GET WHEN A CAT       
+OL,2,Q]G    EATS A LEMON?Fpress reveal       
+OL,3,T]S                           Sh|P      
+OL,4,T]S     S|P              ShP      
+OL,5,T]S     Sh"4Sh4S~!4P      
+OL,6,T]S     Sj4|!P      
+OL,7,T]S     So}}'P      
+OL,8,T]S    S`~3/?'+o/ctP S`>P
+OL,9,T]SSm0S`~y=||o/////o?|<~v}Sx'P 
+OL,10,T]SS"oto~}a~tk~~{og~'P  
+OL,11,T]S  S;mw}w2o/o'z{wy?y0P  
+OL,12,T]SSx|,,,nwtq~tq~mw//,|tpp
+OL,13,T]S Sh?g{{////'//ow};}|P  
+OL,14,T]S Sx>g~o{?!Sk%sc3///ch|j?P S"o};voP  
+OL,15,T]SS>g~7PS`"S'"'"'"!S1"0P  Sbvmt0P
+OL,16,T]S  Sk}S`~`}PS`ppp0S}0}0P Sb?!#mP
+OL,17,T]S   So}2/l|||~/'ss3/}|||pppx5P   
+OL,18,T]S    S+|||||~}|||rssc`~?'P    
+OL,19,Q]S   `p||rssss3//////////'ssssx|p0     
+OL,20,Q]S`p|}|pp 
+OL,21,S]QX   ~{4 ~sh7}j5jw= jw5j5hw1~sj5    
+OL,22,S]QX   /*% ,'"-'"-'*%/ *% "-'(.!,'($    
+OL,23,C]D         from: Andrew Levy           
+OL,24,APuzzler   B555 Mag   CBirthdays   Fbuzz
+FL,0,0,0,0,100,100
+PN,59925
+SC,0025
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T
+OL,2,T]Vh4 j7k5,,|h44|h<,$T                 
+OL,3,T]V/n= j7#!sjuubs{5TFDETAILS FOLLOW  
+OL,4,T}~}~|||}|||}||~]                 
+OL,5,T          ppp||||||||,,,,||||||||||||||
+OL,6,T}0      x'!   #####!      "###//o'*%+
+OL,7,Tt    >!  `p                  `6    j
+OL,8,Tt  z! `.###-,,||            j S0 0T
+OL,9,T}x5 `'       "o}           *t    j
+OL,10,T  6          !  8!        i0 x
+OL,11,T h5          *d "``0 i      {
+OL,12,T5 j}0          T)8hk}r   " x
+OL,13,T5 jt           #/.5  4j
+OL,14,T j/}t             +o  5~
+OL,15,T0 `}0             k  m
+OL,16,T|0            m0$;
+OL,17,T|0           #-m//
+OL,18,Tt0             `|p#/
+OL,19,T}t0            +}|
+OL,20,T|p             
+OL,21,T=            
+OL,22,T'  x|p       
+OL,23,T7!   ppt "/|G1/12
+OL,24,AFactsBTelesoftwareCRock/PopFORACLE Kids
+FL,0,0,0,0,100,100
+PN,59926
+SC,0026
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -691,8 +781,8 @@ OL,22,VtQo?Vx
 OL,23,S|||||||||||||||GNeil, 11S||||||||||||||
 OL,24,APen Pals BTurner CWrite It! FDigitiser 
 FL,0,0,0,0,100,100
-PN,59924
-SC,0024
+PN,59927
+SC,0027
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -721,8 +811,8 @@ OL,22,V    00&4"` #f0$b3o}/3$$!!#  `
 OL,23,V(! &b`" ) $.d3  r)3fn}r)lp(f,0 d a
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59925
-SC,0025
+PN,59928
+SC,0028
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -751,8 +841,8 @@ OL,22,W    U           
 OL,23,W    U                
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59926
-SC,0026
+PN,59929
+SC,0029
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -781,8 +871,8 @@ OL,22,W9);a091;}939p9;y9p89#9;y;9-:i{9{y?!
 OL,23,D]GTheyBdon'tGlive onBChristmas Island. 
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59927
-SC,0027
+PN,59930
+SC,0030
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -811,8 +901,8 @@ OL,22,W5     2w}|*j
 OL,23,W?!     "l]S"DXI'm Blodwyn!Qb,5        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59928
-SC,0028
+PN,59931
+SC,0031
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -841,8 +931,8 @@ OL,22,S           ###//+########!
 OL,23,G                 thomasthurman.org     
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59929
-SC,0029
+PN,59932
+SC,0032
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -871,8 +961,8 @@ OL,22,PS}P Shtp`~/ax%S~/`z?/$T+
 OL,23,PSo}tPSk?o~?o/!S>!`~'z%`~'`xT+
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59930
-SC,0030
+PN,59933
+SC,0033
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -901,8 +991,8 @@ OL,22,V?Uz|pS#/U ` V
 OL,23,VUj}tS + U`Vj
 OL,24,V}U+}t0S+U5j4V
 FL,0,0,0,0,100,100
-PN,59931
-SC,0031
+PN,59934
+SC,0034
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
