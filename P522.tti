@@ -365,26 +365,26 @@ SC,0013
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,B. ||.. | ......R9x?9))}9R99=0(5B.|.
-OL,2,B. |A......R``B.R$ngufb`nwR&fobd"B | 
+OL,1,B. ::.. : ......R9x?9))}9R99=0(5B.:.
+OL,2,B. :A......R``B.R$ngufb`nwR&fobd"B : 
 OL,3,B. . .....Rx?990R!{==9((;=R1(9(9R1B. .
 OL,4,B. . ...R`~g$b&ffd"owgfbb$fR$bnfff   `` 
 OL,5,B. . ..Rx?91R(1(9992=(9t89991(99(!x}}}y
-OL,6,B. . .|Rnwf$1"$R""&P R"#/w&R$b&"bn'x|r2o
-OL,7,B. . .|R{=9~5fRdRfdP W"$Rc"PW((PR888PR*|
+OL,6,B. . .:Rnwf$1"$R""&P R"#/w&R$b&"bn'x|r2o
+OL,7,B. . .:R{=9~5fRdRfdP W"$Rc"PW((PR888PR*|
 OL,8,B. . .Rbnwf59R9R990P  Rh9P   R`6dR&PRb
 OL,9,B. . .R({=9$f$`Rff$$00`~&$W`R`(5990$P 
 OL,10,B. . .Rbff$79R0+R)111R$$.?y9(((Rb5fbd`$b
 OL,11,B..R(8"(911g&`l5B.Rw$R!`f$k~$bPR{)1(9(9
 OL,12,B..Rb$9bfffPRx!B.RqP R!)8!!R`nwB.Rb$R
 OL,13,PRh=(1&R1!9Rjo%B..R?dR!R$f(PR8=B.R(9R{
-OL,14,R`ffW)Rd$Rx?B.|..R{59R$dddR$fn$B..Rf$~
-OL,15,R=91dPR!!n'B..|..RfR"P    R!x=B..|R(y
-OL,16,Rgf$)W!9Ra~B. | .R9;}2Rdd$$Rb'bB | .R"/
-OL,17,R?=9P    Rx?B. | R`fbbo4R!R0(a~(B. |.R(}
-OL,18,RwfbP   Rj'B..| .R{91R#t0"&R$?bB. |..Rn
-OL,19,R99(PR`R(=B..|| .Rn$dPRfbfd$R!&(xpB . ..
-OL,20,Rf$bPRy}2B...||R8}19R19(99PR1Rb'ffd`f
+OL,14,R`ffW)Rd$Rx?B.:..R{59R$dddR$fn$B..Rf$~
+OL,15,R=91dPR!!n'B..:..RfR"P    R!x=B..:R(y
+OL,16,Rgf$)W!9Ra~B. : .R9;}2Rdd$$Rb'bB : .R"/
+OL,17,R?=9P    Rx?B. : R`fbbo4R!R0(a~(B. :.R(}
+OL,18,RwfbP   Rj'B..: .R{91R#t0"&R$?bB. :..Rn
+OL,19,R99(PR`R(=B..:: .Rn$dPRfbfd$R!&(xpB . ..
+OL,20,Rf$bPRy}2B...::R8}19R19(99PR1Rb'ffd`f
 OL,21,R1PR`~o'```ddf~~'(R"$&bWbPR$$(?!P R)99
 OL,22,WfR8+!x|=999+++!!`fR$9R(W!R919b$R&Wf"R&
 OL,23,PR``~~ooo'f&R`fR9R99R`$`PR`&$fR`fRx~R`f
