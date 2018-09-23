@@ -1,10 +1,10 @@
 DE,Main Menu
 DS,inserter
 SP,J:\peter\teefax\P100-Index.tti
-CT,8,T
 PN,10001
 SC,0001
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -33,6 +33,7 @@ FL,199,150,800,200,8ff,100
 PN,10002
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -61,6 +62,7 @@ FL,199,150,800,200,8ff,100
 PN,10003
 SC,0003
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -83,12 +85,13 @@ OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
 OL,20,AChris TsangariG540CBLOCK PARTY 2018G810
 OL,21,ARaquel Meyers G555CDigitiser2000...G470
-OL,23,V]EREMEMBER TO ./updatePages.sh in SSH  
+OL,23,V]E_NationalTeletextDay - September 23  
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,8ff,100
 PN,10004
 SC,0004
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -117,6 +120,7 @@ FL,199,150,800,200,8ff,100
 PN,10005
 SC,0005
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -145,6 +149,7 @@ FL,199,150,800,200,8ff,100
 PN,10006
 SC,0006
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -173,6 +178,7 @@ FL,199,150,800,200,8ff,100
 PN,10007
 SC,0007
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -201,6 +207,7 @@ FL,199,150,800,200,8ff,100
 PN,10008
 SC,0008
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -229,6 +236,7 @@ FL,199,150,800,200,8ff,100
 PN,10009
 SC,0009
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -257,6 +265,7 @@ FL,199,150,800,200,8ff,100
 PN,10010
 SC,0010
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -285,8 +294,9 @@ FL,199,150,800,200,8ff,100
 PN,10011
 SC,0011
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
 OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
