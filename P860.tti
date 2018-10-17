@@ -1,0 +1,30 @@
+PN,86000
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VT] FExtraGDas Erste 
+OL,2,V#########T#############################
+OL,3,F"Sechs auf einen Streich"              
+OL,4,P                                       
+OL,5,GNeue Marchen zu Weihnachten........F861
+OL,6,GSendetermine: Heiligabend..........F865
+OL,7,GSendetermine: 1.Weihnachtsfeiertag.F863
+OL,8,GSendetermine: 2.Weihnachtsfeiertag.F864
+OL,9,GDas Wasser des Lebens..............F865
+OL,10,GDer Schweinehirt...................F866
+OL,11,                                        
+OL,12,FMarchen aus vergangenen Staffeln:      
+OL,13,GRumpelstilzchen....................F867
+OL,14, Bruderchen und Schwesterchan.......F868
+OL,15,GKonig Drosselbart..................F869
+OL,16,GRapunzel...........................F870
+OL,17,GSchneewittchen.....................F871
+OL,18,GFrau Holle.........................F872
+OL,19,GAschenputtel.......................F873
+OL,20,CMarchenquiz im ARD-Text............F874
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
