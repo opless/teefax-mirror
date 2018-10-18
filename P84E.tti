@@ -1,0 +1,30 @@
+PN,84E00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T7Wx,,,d0(!T
+OL,2,T?#Wpx%`|0 k ppT
+OL,3,TW,w1  ".! "50Tp
+OL,4,T~tW#+  Q0W u"$T
+OL,5,TQbn=1 W"+4Tj
+OL,6,T~tW||p     iTj
+OL,7,T7WpT#Wj7ppp  uT
+OL,8,TWhq#+$5u0"+ jT
+OL,9,TuW"-4 } +t0`>T
+OL,10,TtWmj   k#Tz
+OL,11,T4W   zTz
+OL,12,TW5  `5T
+OL,13, You look down at yourself. You seem to 
+OL,14, be wearing an ill-fitting dinner jacket
+OL,15, and baggy trousers. Then you notice    
+OL,16, that your nose seems to have got longer
+OL,17, your arms shorter and the floor closer.
+OL,18,                                        
+OL,19,CYes, you have been turned into a       
+OL,20,CPENGUIN!                               
+OL,21,                                        
+OL,22,F"Oh dear,"Gsays Treguard.F"I hope you  
+OL,23,Flike fish dinners...."                 
+OL,24,ANext        B        C        F        
+FL,80e,0,0,0,100,100

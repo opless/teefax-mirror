@@ -1,0 +1,30 @@
+PN,81A00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V##/w+/W(l//o|V/oWp||
+OL,2,W|tpV#/7`x//#### WxV~-W|||p+/o
+OL,3,W|| l|||//cx}|~
+OL,4,W}t?
+OL,5,W/o**///7x
+OL,6,W|}'(>{}yt+||~7x
+OL,7,W5>*|j}8<ec3o?'x
+OL,8,W?ht3,|~}>'*'2o/o|
+OL,9,W*|}|||||}}
+OL,10,W5o
+OL,11,V*
+OL,12,W}2/
+OL,13,V}|tsss
+OL,14,V#######################################
+OL,15, You set out across the ice sheet along 
+OL,16, the path Hordriss indicates. Soon he is
+OL,17, lost behind and you can see nothing but
+OL,18, ice and snow in every direction. The   
+OL,19, chill enters your bones and you shiver 
+OL,20, in every limb.                         
+OL,21,                                        
+OL,22,FThen ahead you spot a small white dome:
+OL,23,Fan igloo! Do you:                      
+OL,24,AGo in?    BKeep moving?    C    F      
+FL,81c,84b,0,0,100,100

@@ -1,0 +1,30 @@
+PN,81F00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W?VkWj55
+OL,2,W*5V?Wjh*
+OL,3,W?jVj5Wj5j
+OL,4,W5jVoWj:j
+OL,5,W7z5V%kWjj~~j:
+OL,6,Wa hVo?W?5kjj5o
+OL,7,Wj5~5V7o5Wutjjj
+OL,8,W72oaVk!"W55jj
+OL,9,W*2j4V Wz55?5~?jj
+OL,10,W~2o}V W~*56h:~
+OL,11,W~"oV W*u!jh:
+OL,12,W7ztz  5ot+o4?j
+OL,13,Wxu 2o/|tq3///::
+OL,14,Wa?{2l~|d|tssss3///%//
+OL,15,W###########"!## "#######!############"#
+OL,16, Strapping the huge snowshoes onto your 
+OL,17, feet, step out into the snow again.    
+OL,18, Heading ever northwards you come to a  
+OL,19, divide in the path. You may travel down
+OL,20, a valley or along a high rocky ledge.  
+OL,21,                                        
+OL,22,CWhich route do you take now?           
+OL,23,                                        
+OL,24,AThe High Road?  BThe Low Road?  C  F   
+FL,82b,82c,0,0,100,100

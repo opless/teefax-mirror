@@ -1,0 +1,30 @@
+PN,83F00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W`t}0V/Rh7~55}k4V5j' x'`>
+OL,2,W!>j*+}R4  m;ojjg>Vzw+7#/5*!`>!x'x
+OL,3,W>aR  pxt W  h  V +' Wm0V/5 x'`>a~
+OL,4, Wj!R  ?k'W`}~h~V W(|p"o4V ##%*!x'x
+OL,5,V`Ru j~0 W*wW`*  pp{R|ppV!"o'
+OL,6,VRj 2!  W~'+#mRtWcs?RtV?!8
+OL,7,VuR5?c7  W*}<l7RW#p>/R:/V`&x
+OL,8,VRu"   zW"/&Rzt`0 zo}|s*V~
+OL,9,V///R///-,,.//    ////%. .!/////###V(///
+OL,10, Inside the palace, a great hall of ice 
+OL,11, stretches out before you. At the far   
+OL,12, end Aesandre stands on a high platform 
+OL,13, beneath a glittering ice-chandelier.   
+OL,14, Beside her, frozen in a block of ice   
+OL,15, is Sidriss.                            
+OL,16,                                        
+OL,17,F"So,"Gcries Aesandre,F"that old fool   
+OL,18,Fthinks he can outwit me by sending a   
+OL,19,Fyoung fool in his place. Absurd!"      
+OL,20,                                        
+OL,21, And she raises her hands above her head
+OL,22, to cast a spell at you.CWhat do you do?
+OL,23,                                        
+OL,24,ACast your own SpellBRun AwayCAttackF   
+FL,83e,84a,84a,0,100,100

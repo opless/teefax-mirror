@@ -1,0 +1,30 @@
+PN,82D00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VWj?##"#####/2
+OL,2,V::W?/## ,/o?s8tp"#o5*
+OL,3,V5 j7 W !8l~<xwy|p#+/-5o
+OL,4,V*7   "'  W  -,///||pp #"
+OL,5,V         Wj~S&&&&W:
+OL,6,W           /g~*
+OL,7,W         z~tppp#+/'q|or
+OL,8,W         j|t"/s|
+OL,9,W       (/////%////// ./////////////////
+OL,10, You climb up above the snowy valley,   
+OL,11, across bare rock jutting through the   
+OL,12, ice. At the top of the rise you pause..
+OL,13,                                        
+OL,14,FA hideous snarling sounds behind you.  
+OL,15, A large polar bear is growling, forcing
+OL,16, you back towards the edge of the ledge.
+OL,17, It leaps towards you...                
+OL,18,                                        
+OL,19, ...and rips the sack from your back. As
+OL,20, you hurry away Treguard whispers:C"You 
+OL,21,Cmay not like the smell - but some      
+OL,22,Cregard two-week old whale blubber as   
+OL,23,Cquite a delicacy!"                     
+OL,24,ANext        B        C        F        
+FL,83a,0,0,0,100,100

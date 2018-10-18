@@ -29,7 +29,7 @@ OL,21,TZWj$         W*2/T
 OL,22,TZW44    T`pppp|||~
 OL,23,TZWk|0T|~
 OL,24, AOnTheQT    BNews   CMovies   FWeather 
-FL,160,161,163,167,100,100
+FL,160,161,2313,167,100,100
 PN,16202
 SC,0002
 PS,8000
@@ -59,7 +59,7 @@ OL,21,G
 OL,22,GH   Halftime show: Justin Timberlake   
 OL,23,                                        
 OL,24, AIndex    BNews    CMovies    FWeather 
-FL,160,161,163,165,100,100
+FL,17,161,163,165,100,100
 PN,16203
 SC,0003
 PS,8000

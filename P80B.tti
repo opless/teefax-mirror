@@ -1,0 +1,30 @@
+PN,80B00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V?'##/Sx|0V
+OL,2,V?/#Wp|k|pV#/S??5V/#
+OL,3,V?'Wp|~j:o|ppV#//S="7(50V'Wx
+OL,4,FWp|z:|,$S%?55%V##'Wx~5
+OL,5,Wz};Ux~S2?.70UWp|j
+OL,6,W?y}+UkSizx!U7Wk5
+OL,7,W?g}7Up+uSo'UzatWk
+OL,8,W~}~Uzu+hppx5*~4W
+OL,9,W/////////////////U///%/*///%/*//%W/////
+OL,10,FTreguard indicates the northern trail. 
+OL,11,FPulling your cloak tightly about you,  
+OL,12,Fyou stride into the freezeng wind.     
+OL,13,FAhead you see a tall figure: it is     
+OL,14, Hordriss the Confuser,Fmagician        
+OL,15,Fextraordinary.                         
+OL,16,                                        
+OL,17,     "Imprecations! Is this the best    
+OL,18, Treguard could find? One doubts if you 
+OL,19, are wise enough for such a Quest: one  
+OL,20, will test you. Tell me, puny adventurer
+OL,21, those who dwell in this land are known 
+OL,22, to outsiders asCEskimos.GHow are they  
+OL,23, more properly called?"                 
+OL,24,ABunwit  BTitbit  CInnuit  FChuzzlewit  
+FL,80c,80c,80f,80c,100,100

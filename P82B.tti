@@ -1,0 +1,30 @@
+PN,82B00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V7W*j
+OL,2,VWj?##"#####/2
+OL,3,V55W?/## ,/o?s8tp"#o5*
+OL,4,V5 j7 W !8l~<xwy|p#+/-5o
+OL,5,V*7   "'  W  -,///||pp #"
+OL,6,V         Wj~S&&&&W5
+OL,7,W           /g~*
+OL,8,W         z~tppp#+/'q|or
+OL,9,W         ?j|t"/s|
+OL,10,W       (/////%////// ./////////////////
+OL,11, You climb up above the snowy valley,   
+OL,12, across the rocks jutting out of the ice
+OL,13, At the top of the rise you pause to    
+OL,14, look down...                           
+OL,15,                                        
+OL,16,FA hideous snarling sounds behind you.  
+OL,17, A large polar bear is growling and     
+OL,18, forcing you back towards the edge of   
+OL,19, the ledge.                             
+OL,20,                                        
+OL,21,C"Decide quickly,"Fsays Tregaurd.       
+OL,22,C"He looks hungry."                     
+OL,23,                                        
+OL,24,ARun Away?   BFight the Bear?   C   F   
+FL,82f,82f,0,0,100,100

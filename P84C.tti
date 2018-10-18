@@ -1,0 +1,30 @@
+PN,84C00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T5+Qm4  4  h7T+
+OL,2,TQm "u k0   4T
+OL,3,TQ"5j`~%j0z!T
+OL,4,T5Q~%1oTn
+OL,5,TQh~5T
+OL,6,T7Qzu/}Tj
+OL,7,TQ`66*uT
+OL,8,TQjz}56T
+OL,9,TQj~}kT
+OL,10,TQ*?T
+OL,11,TuQk!T
+OL,12,TuQk!T~
+OL,13,TuQ"/?'Tx
+OL,14,T}pQ####!Tp|
+OL,15,T///////////////////////////////////////
+OL,16, Invoking the spell conjures a ball of  
+OL,17, red light to form in your right hand.  
+OL,18, It pulses with warmth as you look up   
+OL,19, and try to identify a target upon which
+OL,20, to use it.                             
+OL,21,                                        
+OL,22,CDo you aim for:                        
+OL,23,                                        
+OL,24,ASorceressBFrozen CaptiveCIce Chandelier
+FL,84d,85a,84f,0,100,100

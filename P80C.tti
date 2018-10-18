@@ -1,0 +1,30 @@
+PN,80C00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V?//o
+OL,2,V?/////Sx|0V/?/////
+OL,3,U|||}|VS??5V}|||}||~
+OL,4,UpV#//S="7(50V
+OL,5,U|,$S%?55%V##'W
+OL,6,U x~S2?.70UWp|
+OL,7,U////?// kSizx!U7Wk///////
+OL,8,V}|||7Up+uSo'UzatWk~|~}|||
+OL,9,VUzu+hppx5*~4W
+OL,10,V/U///%/*///%/*//%W/
+OL,11,V//////?/////////////////?///?///?/
+OL,12,W}||||}|~|||}|
+OL,13,                                        
+OL,14, Hordriss shakes his head sadly.        
+OL,15,C"One's worst fears are confirmed. One  
+OL,16,Cmust go and find another to undertake  
+OL,17,Cthis task. Farewell, ignorant          
+OL,18,Cadventurer."                           
+OL,19,                                        
+OL,20, He turns and leaves you standing alone 
+OL,21, in the freezing wind as the snows fall 
+OL,22, more heavily around you.               
+OL,23,                                        
+OL,24,ANext        B        C        F        
+FL,80d,0,0,0,100,100

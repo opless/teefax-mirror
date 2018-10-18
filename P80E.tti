@@ -1,0 +1,30 @@
+PN,80E00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V7Wx||0V
+OL,2,V7WzVj
+OL,3,V?/////?/Wh:5V///?/////
+OL,4,U|||}||WzojuU}|||}||~
+OL,5,UW!  "z!   oU
+OL,6,UW5   `0   j7U
+OL,7,U:W}tx~7"~tp~}0U
+OL,8,UWj`tj*U
+OL,9,U////?///}W/+oo?'by%U?///////
+OL,10,V~|||~|4W5%56666:*j1Vx||~|~~|||
+OL,11,VWu%44444$e~%V
+OL,12,VW*~~~~~~7Vz
+OL,13,V//////?//%W"//#V*///?///?///?/
+OL,14,W}|||||pppppp|}|~|||}|
+OL,15,                                        
+OL,16, You have been found wanting. This time,
+OL,17, your Quest may not succeed. But take   
+OL,18, courage. You have journeyed far and    
+OL,19, attempted that of which many only dream
+OL,20,FNext time you set foot beyond the walls
+OL,21,Fof Castle Knightmare, who knows whence 
+OL,22,Fyour path may lead?                    
+OL,23,Q
+OL,24,ARestart?     BQuit?     C     F        
+FL,896,100,0,0,100,100

@@ -1,0 +1,30 @@
+PN,80D00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V##//W(l//o|V/oWp||
+OL,2,W|tpV#///#### WxV~-W|||p+/o
+OL,3,W|||||||//cx~|~
+OL,4,W?
+OL,5,W/o/7x
+OL,6,W|}**||~7x
+OL,7,W~ej~?'x
+OL,8,W~/o|
+OL,9,W*}}
+OL,10,W5o
+OL,11,V*
+OL,12,W}2/
+OL,13,V}|tsss
+OL,14,V#######################################
+OL,15,                                        
+OL,16, You wander through the snow as it falls
+OL,17, ever harder and harder. All paths      
+OL,18, vanish in the white torrent that swirls
+OL,19, about you. You tire rapidly as the     
+OL,20, warmth drains from your body. After    
+OL,21, long, confused wandering you feel      
+OL,22, yourself losing consciousness and      
+OL,23, falling into the deep, soft snow.....  
+OL,24,ANext        B        C        F        
+FL,80e,0,0,0,100,100

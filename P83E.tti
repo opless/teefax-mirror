@@ -1,0 +1,30 @@
+PN,83E00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T7W x|pppp|tT 
+OL,2,T!Wj?o?4Tj
+OL,3,T W'`zu #ouT 
+OL,4,T W~.#!~#+.T ##
+OL,5,T5W5~tp~5p~0 4tT
+OL,6,T}W(o?uk5zaT
+OL,7,T/!W4*!#!"o j?T
+OL,8,T//#U`0xW5*7      o u~5UpT####o
+OL,9,TU`p|~?aWk0   ,,! zhz*Uo~T+
+OL,10,T7U2oauWi0     h%j U2o?c~0T
+OL,11,U jza~uW#,ppp<' ~w4U~/$wxTk
+OL,12,U ~4|t3/uWdpppxU||4| a~7k5T
+OL,13,U uou+o5Wk7Ux?h4j2T
+OL,14,FTregaurd whispers in your ear:         
+OL,15,C"You used your only spell outside. Do  
+OL,16,Cyou think you can cheat the Quest?"    
+OL,17,                                        
+OL,18, A bolt of magic force strikes you as   
+OL,19, you stand there dithering and blackness
+OL,20, falls around you.                      
+OL,21,C"And thus fail all who try to cheat    
+OL,22,Ctheir fate."FTregaurd adds.            
+OL,23,C"Be off with you!"                     
+OL,24,ARestart?     BQuit?     C     F        
+FL,896,100,0,0,100,100

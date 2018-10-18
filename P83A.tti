@@ -1,0 +1,30 @@
+PN,83A00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Wo}pV#/Wx
+OL,2,W4{tV#/W'  "o2
+OL,3,W5/|0Vkux/-Wk5o
+OL,4,W5hr4V?#Wpx,  j:
+OL,5,Wj:?V7W|7 ` z5
+OL,6,Wi?{t!VWh h 5a
+OL,7,W7~i5VzW75h7j7x
+OL,8,Wj*~7V"/o?#Wh0#p5'x
+OL,9,Wjz?h|pp ppp|j6?h
+OL,10,W//*?/*~{7x
+OL,11,V|~}*'s3o*c3/q||ts?h
+OL,12,Wq~4,/~|ts'x
+OL,13,V//////'(/-$+///////////////////'*//////
+OL,14,                                        
+OL,15, You are temporarily refreshed, but the 
+OL,16, icy wind blows ever harder from the    
+OL,17, north. Your fingers and toes go numb   
+OL,18, and your vision blurs. The icy cold    
+OL,19, extends its reach into your very lungs.
+OL,20, It seems that you can go no further.   
+OL,21,                                        
+OL,22,CWhat do you do?                        
+OL,23,                                        
+OL,24,ATurn BackBPress onCCast the HEAT spellF
+FL,80d,83b,83c,0,100,100

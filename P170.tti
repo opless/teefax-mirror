@@ -29,7 +29,7 @@ OL,21,G
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT    BSport    CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17002
 SC,0002
 PS,8000
@@ -59,7 +59,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT    BSport    CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17003
 SC,0003
 PS,8000
@@ -89,7 +89,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT    BSport    CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17004
 SC,0004
 PS,8000
@@ -119,7 +119,7 @@ OL,21,B       PRESSAREVEALBFOR ANSWER
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT    BSport    CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17005
 SC,0005
 PS,8000
@@ -149,7 +149,7 @@ OL,21,F
 OL,22,B       PRESSAREVEALBFOR ANSWER         
 OL,23,                                        
 OL,24, AOnTheQT    BSport    CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17006
 SC,0006
 PS,8000
@@ -179,7 +179,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT    BSport    CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17007
 SC,0007
 PS,8000
@@ -209,7 +209,7 @@ OL,21,G
 OL,22,D]G  MODESTO GOSPEL MISSION Women       
 OL,23,D]G and Children's community shelter    
 OL,24,                                        
-FL,0,0,0,0,100,100
+FL,10,0,1,0,100,100
 PN,17008
 SC,0008
 PS,8000
@@ -239,7 +239,7 @@ OL,21,FSan MarcosE....................Biggs HD
 OL,22,FSanta ClaritaE..............Old Road HD
 OL,23,FVictorvilleEHarley-Davidson Victorville
 OL,24, AIndex     BSport     CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17009
 SC,0009
 PS,8000
@@ -269,7 +269,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17010
 SC,0010
 PS,8000
@@ -299,7 +299,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
-FL,0,0,0,0,100,100
+FL,10,0,1,0,100,100
 PN,17011
 SC,0011
 PS,8000
@@ -329,7 +329,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17012
 SC,0012
 PS,8000
@@ -359,7 +359,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17013
 SC,0013
 PS,8000
@@ -389,7 +389,7 @@ OL,21,BBreakoutE.......................$19,049
 OL,22,CFXDR 114A.......................$21,349
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17014
 SC,0014
 PS,8000
@@ -419,7 +419,7 @@ OL,21,BUltra Limited LowE..............$28,089
 OL,22,BUltra LimitedE..................$28,089
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17015
 SC,0015
 PS,8000
@@ -449,7 +449,7 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100
 PN,17016
 SC,0016
 PS,8000
@@ -479,4 +479,4 @@ OL,21,
 OL,22,                                        
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews 
-FL,160,162,163,161,100,100
+FL,10,162,1,161,100,100

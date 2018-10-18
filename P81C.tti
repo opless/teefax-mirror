@@ -1,0 +1,30 @@
+PN,81C00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V?////
+OL,2,VQos{=V/
+OL,3,W?Q~}tWk//
+OL,4,V7Q~|{uVkcx~
+OL,5,WQz?o~uW:~
+OL,6,WQo~?Wh
+OL,7,W?//csssq|||<$Q{?W|||tsss3//oj
+OL,8,W|7r+m||||||<,g*||||||
+OL,9,W'x7z||||h|||k~"o
+OL,10,W////////,.'./////%///-+//,,////////////
+OL,11, Inside the igloo it is slightly warmer.
+OL,12, You find a collection of objects left  
+OL,13, behind by the owner.                   
+OL,14,                                        
+OL,15,FA sack. Opening it you find it to be   
+OL,16,Ffull of greasy, smelly lumps of        
+OL,17,Fsomething unpleasant.                  
+OL,18,                                        
+OL,19,FA pair of snowshoes.                   
+OL,20,                                        
+OL,21,FA white fur coat.                      
+OL,22,                                        
+OL,23,CWhich do you take?                     
+OL,24,AThe Sack  BSnowshoes  CFur Coat  F     
+FL,82a,81f,81d,0,100,100

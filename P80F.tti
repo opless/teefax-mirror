@@ -1,0 +1,30 @@
+PN,80F00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,S  <.# #"##//|g~|z||{~|t    
+OL,2,S px/`p    +o//?!
+OL,3,S z~/$     +?'!p~ 
+OL,4,S 7!Wppp0    Sj'   + 
+OL,5,S W|' "+4  S*:~!`x|ts 
+OL,6,S W~{ &  4(0S"#axu+?!`?///// 
+OL,7,S W:o}pp~?'{~0S"~<W`|?##o}Sk 
+OL,8,S p+|r{w{|/{a* hW & jS 
+OL,9,S ?a~  4Wot `~'S 
+OL,10,S  |  }2l|||||~4 
+OL,11,S  //////////////!  /////////,///////// 
+OL,12, "Ah,"Fsays Hordriss,G" an enlightened  
+OL,13, Adventurer. Remarkable! Listen then:   
+OL,14, one's foolish daughter Sidriss has been
+OL,15, captured by Aesandre the Ice Sorceress.
+OL,16, Her palace lies far to the North. She  
+OL,17, awaits my rescue mission and has set   
+OL,18, magic traps for me. She will not expect
+OL,19,CYOU.GThere is a slight chance you      
+OL,20, might get through...                   
+OL,21,                                        
+OL,22,F"One gifts you with a spell:CHEAT.FYou 
+OL,23,Fmay use it only once. Good fortune!"   
+OL,24,ANext        B        C        F        
+FL,81a,0,0,0,100,100

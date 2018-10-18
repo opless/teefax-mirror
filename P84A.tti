@@ -1,0 +1,30 @@
+PN,84A00
+SC,0000
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,                                        
+OL,2,S   ot0    `0       `~!    x7  h      
+OL,3,S   "p  ~  j4  h5   `  v!      
+OL,4,S    *j5`0`  h*  6p|/!   
+OL,5,S o|p0*j7z}  x|'     
+OL,6,S  +|s??  p~' 
+OL,7,S pp +:+?+'o'k/k7  .#   
+OL,8,S #/- *R}0l}x~t~p~S~|pp    
+OL,9,S  pp|Q*qS|p  
+OL,10,S/Qx''Swo#      
+OL,11,S  #/oQh?'StQ#/tS0+}0p    
+OL,12,S    p>{|||||||u  # e   
+OL,13,S `7l%x?#/4    !  
+OL,14,S '  x?#"o*m0 +":+0 #/       
+OL,15,S   x#   h5"o `%  k5 k   o5    o5      
+OL,16,         S*                             
+OL,17,                                        
+OL,18, But before you can manage a single step
+OL,19, a bolt of mystic energy flies from     
+OL,20, Aesandre's fingertips and strikes you  
+OL,21, full upon the chest. You feel a strange
+OL,22, tingling spread through your body...   
+OL,23,                                        
+OL,24,ANext        B        C        F        
+FL,84e,0,0,0,100,100
