@@ -29,7 +29,7 @@ OL,21,A          MXWALT DISNEY
 OL,22,A          MXWALT DISNEY                
 OL,23,C       PRESS REVEAL FOR ANSWER         
 OL,24, AOnTheQT    BNews   CMovies   FWeather 
-FL,160,161,6,167,100,100
+FL,160,161,163,167,100,100
 PN,17102
 SC,0002
 PS,8000
@@ -89,7 +89,7 @@ OL,21,G
 OL,22,G]A    CELLPHONE CLEARANCE BLOWOUT      
 OL,23,G]A   Huge savings on MAJOR brands      
 OL,24,                                        
-FL,0,0,7,0,100,100
+FL,0,0,0,0,100,100
 PN,17104
 SC,0004
 PS,8000
@@ -119,7 +119,7 @@ OL,21,U     x~?'Wh  `~}0           `
 OL,22,S    z'W`nt`hz}0         "ot        
 OL,23,U  `~% W*vhz7         h`0kt      
 OL,24,                                        
-FL,20,0,3,0,100,100
+FL,0,0,0,0,100,100
 PN,17105
 SC,0005
 PS,8000
