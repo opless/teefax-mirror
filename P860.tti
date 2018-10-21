@@ -8,7 +8,7 @@ OL,2,V#########T#############################
 OL,3,F"Sechs auf einen Streich"              
 OL,4,P                                       
 OL,5,GNeue Marchen zu Weihnachten........F861
-OL,6,GSendetermine: Heiligabend..........F865
+OL,6,GSendetermine: Heiligabend..........F862
 OL,7,GSendetermine: 1.Weihnachtsfeiertag.F863
 OL,8,GSendetermine: 2.Weihnachtsfeiertag.F864
 OL,9,GDas Wasser des Lebens..............F865
@@ -25,6 +25,6 @@ OL,19,GAschenputtel.......................F873
 OL,20,CMarchenquiz im ARD-Text............F874
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
-FL,0,0,0,0,100,100
+OL,23,                                        
+OL,24,A]  861   B]  862   C]  863   F]  864   
+FL,861,862,863,864,100,100
