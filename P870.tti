@@ -1,12 +1,10 @@
-DE,Description goes here
 DS,inserter
-SP,C:\dev\teletext\P870.tti
+CT,20,T
 PN,87001
 SC,0001
-PS,8200
-CT,14,T
+PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,P         CRapunzel                     
 OL,2,PT``P     W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,V:9)y0P   G                             
@@ -35,9 +33,8 @@ FL,0,0,0,0,100,100
 PN,87002
 SC,0002
 PS,8000
-CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q|4||h|4P CRapunzel                     
 OL,2,Q4,($,($P W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,S89)y0P   G                             
@@ -66,9 +63,8 @@ FL,0,0,0,0,100,100
 PN,87003
 SC,0003
 PS,8000
-CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q|4|S'zP  CRapunzel                     
 OL,2,Q4|hS2'P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Q|4|S'zP  G                             
