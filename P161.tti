@@ -5,6 +5,66 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV   |||h|h||4|||h|||h|||h||4|||h||||  
+OL,2,T]V   }4jjz%}4j|| j jj5u?jj5  
+OL,3,T]S   5 jjj5up`pz j jz55jj5  
+OL,4,T]S   #! "#"#"!###"### "# "##!#!#"#  #  
+OL,5,G         Thousand Oaks, Fri 9 Nov, 2018
+OL,6,AEven in a state hardened to the ravages
+OL,7,Aof wildfires, the infernos that raged  
+OL,8,Aat both ends of California on Friday   
+OL,9,Awere overpowering. At least nine people
+OL,10,Awere killed, including several who died
+OL,11,Ain their cars in a retirement community
+OL,12,Acalled Paradise. Malibu mansions       
+OL,13,Aburned.                                
+OL,14,EExotic lemurs and parrots were packed  
+OL,15,Eup and carried away to safety as fires 
+OL,16,Eringed the Los Angeles Zoo in Griffith 
+OL,17,EPark.                                  
+OL,18,AIn Thousand Oaks the wind-driven fires 
+OL,19,Aswept thousands of residents from their
+OL,20,Ahomes. By late Friday afternoon that   
+OL,21,Anearly 75 percent of the city had been 
+OL,22,Aevacuated.                             
+OL,23,                                        
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV      ||4h||4 h||0        h|         
+OL,2,T]V      k5h|5 jj5?*/5o         
+OL,3,T]S      zubs5 jz5wsjw5z         
+OL,4,T]S      ###"##! "## ###"##!###         
+OL,5,G         Thousand Oaks, Wed 7 Nov, 2018
+OL,6,D                                       
+OL,7,DAt the Borderline Bar and Grill, a     
+OL,8,Dcountry-western bar frequented by      
+OL,9,Dcollege students, Thirteen people were 
+OL,10,Dkilled, including a police officer and 
+OL,11,Dthe perpetrator, who died of a         
+OL,12,Dself-inflicted gunshot wound. Ten to   
+OL,13,Dtwelve others were injured.            
+OL,14,F                                       
+OL,15,DPolice identified the perpetrator as   
+OL,16,D28-year-old Ian David Long, a United   
+OL,17,DStates Marine Corps veteran.           
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV    ||||4,$ h| |4                    
 OL,2,T]V    5j55o*?jo5?jo?j/%     
 OL,3,T]S    5j55z 5js15jj5bs5     
@@ -30,8 +90,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16102
-SC,0002
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -60,8 +120,8 @@ OL,22,
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16103
-SC,0003
+PN,16105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -86,36 +146,6 @@ OL,18,Ccelebrate this holiday with a festival
 OL,19,Cin Olvera Street, Downtown and a       
 OL,20,Cspecial event at the Hollywood Forever 
 OL,21,Ccemetary.                              
-OL,22,                                        
-OL,23,                                        
-OL,24, AOnTheQT   BSport   CMovies   FWeather 
-FL,160,162,163,165,100,100
-PN,16104
-SC,0004
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV  h|     |4         ||t              
-OL,2,T]V  j */5?jo5?  5*/55       
-OL,3,T]S  jpjw5ujz55  ujw5u       
-OL,4,T]S  "##"##!###"##!#!  ##!"##!ss       
-OL,5,G          Los Angeles, Mon 3 Sept, 2018
-OL,6,F                                       
-OL,7,CLabor Day may signal the ceremonial end
-OL,8,Cof summer, but September here in L.A.  
-OL,9,Cis just business as usual. You'll still
-OL,10,Cfind all of the events that made the   
-OL,11,Csummer so great, from outdoor movies to
-OL,12,Cfree concerts, but you'll have to hurry
-OL,13,Cbefore they start to wrap up.          
-OL,14,F                                       
-OL,15,BTake full advantage of the three-day   
-OL,16,Bweekend and pack it full of food and   
-OL,17,Btime outdoors. You can hold off on a   
-OL,18,Btrip to the sure-to-be-mobbed beach,   
-OL,19,Bthough-that warm weather isn't going   
-OL,20,Banywhere.                              
-OL,21,                                        
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
