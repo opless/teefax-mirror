@@ -5,28 +5,28 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV   |||h|h||4|||h|||h|||h||4|||h||||  
-OL,2,T]V   }4jjz%}4j|| j jj5u?jj5  
-OL,3,T]S   5 jjj5up`pz j jz55jj5  
-OL,4,T]S   #! "#"#"!###"### "# "##!#!#"#  #  
-OL,5,G         Thousand Oaks, Fri 9 Nov, 2018
-OL,6,AEven in a state hardened to the ravages
-OL,7,Aof wildfires, the infernos that raged  
-OL,8,Aat both ends of California on Friday   
-OL,9,Awere overpowering. At least nine people
-OL,10,Awere killed, including several who died
-OL,11,Ain their cars in a retirement community
-OL,12,Acalled Paradise. Malibu mansions       
-OL,13,Aburned.                                
-OL,14,EExotic lemurs and parrots were packed  
-OL,15,Eup and carried away to safety as fires 
-OL,16,Eringed the Los Angeles Zoo in Griffith 
-OL,17,EPark.                                  
-OL,18,AIn Thousand Oaks the wind-driven fires 
-OL,19,Aswept thousands of residents from their
-OL,20,Ahomes. By late Friday afternoon that   
-OL,21,Anearly 75 percent of the city had been 
-OL,22,Aevacuated.                             
+OL,1,VVV||t             x|4 h||0        h|   
+OL,2,T]V5*/55  ?h}  jj5?*/5o   
+OL,3,T]Sujw5u  u 5  jz5wsjw5z   
+OL,4,T]S##!"##!ss  ### #!  "## ###"##!###   
+OL,5,GLos Angeles, Wed 31 Oct-Fri 2 Nov, 2018
+OL,6,C                                       
+OL,7,CMDia de Muertos                        
+OL,8,CMDia de Muertos                        
+OL,9,F                                       
+OL,10,FThe Day of the Dead is a Mexican       
+OL,11,Fholiday where people focus on          
+OL,12,Fgatherings of family and friends to    
+OL,13,Fpray for and remember friends and      
+OL,14,Ffamily members who have died, and help 
+OL,15,Fsupport their spiritual journey.       
+OL,16,F                                       
+OL,17,CVarious places in Los Angeles will     
+OL,18,Ccelebrate this holiday with a festival 
+OL,19,Cin Olvera Street, Downtown and a       
+OL,20,Cspecial event at the Hollywood Forever 
+OL,21,Ccemetary.                              
+OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
@@ -35,27 +35,27 @@ SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV      ||4h||4 h||0        h|         
-OL,2,T]V      k5h|5 jj5?*/5o         
-OL,3,T]S      zubs5 jz5wsjw5z         
-OL,4,T]S      ###"##! "## ###"##!###         
-OL,5,G         Thousand Oaks, Wed 7 Nov, 2018
-OL,6,D                                       
-OL,7,DAt the Borderline Bar and Grill, a     
-OL,8,Dcountry-western bar frequented by      
-OL,9,Dcollege students, Thirteen people were 
-OL,10,Dkilled, including a police officer and 
-OL,11,Dthe perpetrator, who died of a         
-OL,12,Dself-inflicted gunshot wound. Ten to   
-OL,13,Dtwelve others were injured.            
-OL,14,F                                       
-OL,15,DPolice identified the perpetrator as   
-OL,16,D28-year-old Ian David Long, a United   
-OL,17,DStates Marine Corps veteran.           
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
+OL,1,V       ||th|||h|||  |||     h|         
+OL,2,T]V     5j|| j   }4jo5oj/%     
+OL,3,T]S     u`pz j   upjj5zbs5     
+OL,4,T]S     ##!"### "#   ###"#"!###"##!     
+OL,5,G           Los Angeles, Sun 4 Nov, 2018
+OL,6,C                                       
+OL,7,CM       Daylight Saving Time Ends      
+OL,8,CM       Daylight Saving Time Ends      
+OL,9,F                                       
+OL,10,FThis morning at 2am the clocks are put 
+OL,11,Fback to 1am.                           
+OL,12,F                                       
+OL,13,FIt will be lighter in the mornings and 
+OL,14,Fdarker in the evenings.                
+OL,15,                                        
+OL,16,                                        
+OL,17,                SSS.$CCC                
+OL,18,                S`&##dCC                
+OL,19,                SjS*pjCC                
+OL,20,                S*0SS:CC                
+OL,21,                SSrss0CC                
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
@@ -95,27 +95,27 @@ SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,V       ||th|||h|||  |||     h|         
-OL,2,T]V     5j|| j   }4jo5oj/%     
-OL,3,T]S     u`pz j   upjj5zbs5     
-OL,4,T]S     ##!"### "#   ###"#"!###"##!     
-OL,5,G           Los Angeles, Sun 4 Nov, 2018
-OL,6,C                                       
-OL,7,CM       Daylight Saving Time Ends      
-OL,8,CM       Daylight Saving Time Ends      
-OL,9,F                                       
-OL,10,FThis morning at 2am the clocks are put 
-OL,11,Fback to 1am.                           
-OL,12,F                                       
-OL,13,FIt will be lighter in the mornings and 
-OL,14,Fdarker in the evenings.                
-OL,15,                                        
-OL,16,                                        
-OL,17,                SSS.$CCC                
-OL,18,                S`&##dCC                
-OL,19,                SjS*pjCC                
-OL,20,                S*0SS:CC                
-OL,21,                SSrss0CC                
+OL,1,VVV      ||4h||4 h||0        h|         
+OL,2,T]V      k5h|5 jj5?*/5o         
+OL,3,T]S      zubs5 jz5wsjw5z         
+OL,4,T]S      ###"##! "## ###"##!###         
+OL,5,G         Thousand Oaks, Wed 7 Nov, 2018
+OL,6,D                                       
+OL,7,DAt the Borderline Bar and Grill, a     
+OL,8,Dcountry-western bar frequented by      
+OL,9,Dcollege students, Thirteen people were 
+OL,10,Dkilled, including a police officer and 
+OL,11,Dthe perpetrator, who died of a         
+OL,12,Dself-inflicted gunshot wound. Ten to   
+OL,13,Dtwelve others were injured.            
+OL,14,F                                       
+OL,15,DPolice identified the perpetrator as   
+OL,16,D28-year-old Ian David Long, a United   
+OL,17,DStates Marine Corps veteran.           
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
@@ -125,28 +125,58 @@ SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV    h||0        h|  ||t              
-OL,2,T]V    jj5?*/5o  5*/55       
-OL,3,T]S    jz5wsjw5z  ujw5u       
-OL,4,T]S    "## ###"##!###  ##!"##!ss       
-OL,5,GLos Angeles, Wed 31 Oct-Fri 2 Nov, 2018
+OL,1,VVV   |||h|h||4|||h|||h|||h||4|||h||||  
+OL,2,T]V   }4jjz%}4j|| j jj5u?jj5  
+OL,3,T]S   5 jjj5up`pz j jz55jj5  
+OL,4,T]S   #! "#"#"!###"### "# "##!#!#"#  #  
+OL,5,G         Thousand Oaks, Fri 9 Nov, 2018
+OL,6,AEven in a state hardened to the ravages
+OL,7,Aof wildfires, the infernos that raged  
+OL,8,Aat both ends of California on Friday   
+OL,9,Awere overpowering. At least nine people
+OL,10,Awere killed, including several who died
+OL,11,Ain their cars in a retirement community
+OL,12,Acalled Paradise. Malibu mansions       
+OL,13,Aburned.                                
+OL,14,EExotic lemurs and parrots were packed  
+OL,15,Eup and carried away to safety as fires 
+OL,16,Eringed the Los Angeles Zoo in Griffith 
+OL,17,EPark.                                  
+OL,18,AIn Thousand Oaks the wind-driven fires 
+OL,19,Aswept thousands of residents from their
+OL,20,Ahomes. By late Friday afternoon that   
+OL,21,Anearly 75 percent of the city had been 
+OL,22,Aevacuated.                             
+OL,23,                                        
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16106
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV    h||| |4         |4               
+OL,2,T]V    j||*?*/5?  5 ?jo5       
+OL,3,T]S    `pz 5jw55  u0wsjs1       
+OL,4,T]S    "### #!"##!#!#  ##!###"##!       
+OL,5,G          Los Angeles, Mon 12 Nov, 2018
 OL,6,C                                       
-OL,7,CMDia de Muertos                        
-OL,8,CMDia de Muertos                        
-OL,9,F                                       
-OL,10,FThe Day of the Dead is a Mexican       
-OL,11,Fholiday where people focus on          
-OL,12,Fgatherings of family and friends to    
-OL,13,Fpray for and remember friends and      
-OL,14,Ffamily members who have died, and help 
-OL,15,Fsupport their spiritual journey.       
-OL,16,F                                       
-OL,17,CVarious places in Los Angeles will     
-OL,18,Ccelebrate this holiday with a festival 
-OL,19,Cin Olvera Street, Downtown and a       
-OL,20,Cspecial event at the Hollywood Forever 
-OL,21,Ccemetary.                              
-OL,22,                                        
+OL,7,CStan Lee, the legendary writer, editor 
+OL,8,Cand publisher of Marvel Comics whose   
+OL,9,Cfantabulous but flawed creations made  
+OL,10,Chim a real-life superhero to comic book
+OL,11,Clovers everywhere, has died.           
+OL,12,CHe was 95.                             
+OL,13,F                                       
+OL,14,FLee, who began in the business in 1939 
+OL,15,Fand created or co-created Black        
+OL,16,FPanther, Spider-Man, the X-Men, the    
+OL,17,FMighty Thor, Iron Man, the Fantastic   
+OL,18,FFour, the Incredible Hulk, Daredevil   
+OL,19,Fand Ant-Man, among countless other     
+OL,20,Fcharacters, died early Monday morning  
+OL,21,Fat Cedars-Sinai Medical Center in      
+OL,22,FLos Angeles.                           
 OL,23,                                        
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
