@@ -27,7 +27,7 @@ OL,19,Cin Olvera Street, Downtown and a
 OL,20,Cspecial event at the Hollywood Forever 
 OL,21,Ccemetary.                              
 OL,22,                                        
-OL,23,                                        
+OL,23,D]C              NEWS             1/7   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16102
@@ -57,7 +57,7 @@ OL,19,                SjS*pjCC
 OL,20,                S*0SS:CC                
 OL,21,                SSrss0CC                
 OL,22,                                        
-OL,23,                                        
+OL,23,D]C              NEWS             2/7   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16103
@@ -87,7 +87,7 @@ OL,19,Cwill bring. All signs point to a
 OL,20,Cdramatic and unpredictable evening.    
 OL,21,                                        
 OL,22,                                        
-OL,23,                                        
+OL,23,D]C              NEWS             3/7   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16104
@@ -117,7 +117,7 @@ OL,19,
 OL,20,                                        
 OL,21,                                        
 OL,22,                                        
-OL,23,                                        
+OL,23,D]C              NEWS             4/7   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16105
@@ -147,7 +147,7 @@ OL,19,Aswept thousands of residents from their
 OL,20,Ahomes. By late Friday afternoon that   
 OL,21,Anearly 75 percent of the city had been 
 OL,22,Aevacuated.                             
-OL,23,                                        
+OL,23,D]C              NEWS             5/7   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
 PN,16106
@@ -177,6 +177,36 @@ OL,19,Fand Ant-Man, among countless other
 OL,20,Fcharacters, died early Monday morning  
 OL,21,Fat Cedars-Sinai Medical Center in      
 OL,22,FLos Angeles.                           
-OL,23,                                        
+OL,23,D]C              NEWS             6/7   
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16107
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T?Wh7:jaa5aaua7z~'xtTk
+OL,2,TW`h(7z*5o*?'#SpW#n?smTk
+OL,3,T%W>#W!!#m~/%#Sp|tW+tTk
+OL,4,T?'W>Sx|||||}W+0T
+OL,5,TW`~5S}Wk?uTj
+OL,6,TW9Sz/cuW}*tT
+OL,7,TW*Sm~?/?//?'sss<,?W}!T
+OL,8,T5WnSjq|s3/o///cq|l/W`?/Tj
+OL,9,TWj5Swx?/o||?//o?WjSzT
+OL,10,T5WSwq</,ro?cq|//liWjS7T
+OL,11,TuW'S'W,/-,S///*/,'W(./,SgW"S5T
+OL,12,TS2Q>3'sss(S+//'Q8bsss+?dSx5T
+OL,13,TSQ=2.b3.wdS5Qd+#.-'(?S'zTj
+OL,14,TS"Q*s/,,s<Sx}0Qcsss+nSa%T~
+OL,15,T}4S`Q+//'S:o?$Q#,/'Sz"!Tz
+OL,16,TS*|||$!~6h=",|||'7T,
+OL,17,T}Su+?Wx}S+o'W}0S+qj5P  T#/o
+OL,18,T/'#!Skj5W}tpx~4S5~W5P     T#/
+OL,19,T#!P    S*4xtdW,,,,,Sp|l~a?W0P      T"
+OL,20,P        S}j}ts//o47z%WjuP        
+OL,21,P        S*4o~'sss3-kh?aW*WoP        
+OL,22,P       Wj}S)ovoo5&SzyWjj5P       
+OL,23,P       W~}0S#-om}?'Sx5Wj2}P       
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
