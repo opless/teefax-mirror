@@ -5,66 +5,6 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV||t             x|4 h||0        h|   
-OL,2,T]V5*/55  ?h}  jj5?*/5o   
-OL,3,T]Sujw5u  u 5  jz5wsjw5z   
-OL,4,T]S##!"##!ss  ### #!  "## ###"##!###   
-OL,5,GLos Angeles, Wed 31 Oct-Fri 2 Nov, 2018
-OL,6,C                                       
-OL,7,CMDia de Muertos                        
-OL,8,CMDia de Muertos                        
-OL,9,F                                       
-OL,10,FThe Day of the Dead is a Mexican       
-OL,11,Fholiday where people focus on          
-OL,12,Fgatherings of family and friends to    
-OL,13,Fpray for and remember friends and      
-OL,14,Ffamily members who have died, and help 
-OL,15,Fsupport their spiritual journey.       
-OL,16,F                                       
-OL,17,CVarious places in Los Angeles will     
-OL,18,Ccelebrate this holiday with a festival 
-OL,19,Cin Olvera Street, Downtown and a       
-OL,20,Cspecial event at the Hollywood Forever 
-OL,21,Ccemetary.                              
-OL,22,                                        
-OL,23,D]C              NEWS             1/7   
-OL,24, AOnTheQT   BSport   CMovies   FWeather 
-FL,160,162,163,165,100,100
-PN,16102
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,V       ||th|||h|||  |||     h|         
-OL,2,T]V     5j|| j   }4jo5oj/%     
-OL,3,T]S     u`pz j   upjj5zbs5     
-OL,4,T]S     ##!"### "#   ###"#"!###"##!     
-OL,5,G           Los Angeles, Sun 4 Nov, 2018
-OL,6,C                                       
-OL,7,CM       Daylight Saving Time Ends      
-OL,8,CM       Daylight Saving Time Ends      
-OL,9,F                                       
-OL,10,FThis morning at 2am the clocks are put 
-OL,11,Fback to 1am.                           
-OL,12,F                                       
-OL,13,FIt will be lighter in the mornings and 
-OL,14,Fdarker in the evenings.                
-OL,15,                                        
-OL,16,                                        
-OL,17,                SSS.$CCC                
-OL,18,                S`&##dCC                
-OL,19,                SjS*pjCC                
-OL,20,                S*0SS:CC                
-OL,21,                SSrss0CC                
-OL,22,                                        
-OL,23,D]C              NEWS             2/7   
-OL,24, AOnTheQT   BSport   CMovies   FWeather 
-FL,160,162,163,165,100,100
-PN,16103
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,VVV    ||||4,$ h| |4                    
 OL,2,T]V    5j55o*?jo5?jo?j/%     
 OL,3,T]S    5j55z 5js15jj5bs5     
@@ -87,11 +27,11 @@ OL,19,Cwill bring. All signs point to a
 OL,20,Cdramatic and unpredictable evening.    
 OL,21,                                        
 OL,22,                                        
-OL,23,D]C              NEWS             3/7   
+OL,23,D]C              NEWS             1/7   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16104
-SC,0004
+PN,16102
+SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -117,11 +57,11 @@ OL,19,
 OL,20,                                        
 OL,21,                                        
 OL,22,                                        
-OL,23,D]C              NEWS             4/7   
+OL,23,D]C              NEWS             2/7   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16105
-SC,0005
+PN,16103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -147,41 +87,11 @@ OL,19,Aswept thousands of residents from their
 OL,20,Ahomes. By late Friday afternoon that   
 OL,21,Anearly 75 percent of the city had been 
 OL,22,Aevacuated.                             
-OL,23,D]C              NEWS             5/7   
+OL,23,D]C              NEWS             3/7   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16106
-SC,0006
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV    h||| |4         |4               
-OL,2,T]V    j||*?*/5?  5 ?jo5       
-OL,3,T]S    `pz 5jw55  u0wsjs1       
-OL,4,T]S    "### #!"##!#!#  ##!###"##!       
-OL,5,G          Los Angeles, Mon 12 Nov, 2018
-OL,6,C                                       
-OL,7,CStan Lee, the legendary writer, editor 
-OL,8,Cand publisher of Marvel Comics whose   
-OL,9,Cfantabulous but flawed creations made  
-OL,10,Chim a real-life superhero to comic book
-OL,11,Clovers everywhere, has died.           
-OL,12,CHe was 95.                             
-OL,13,F                                       
-OL,14,FLee, who began in the business in 1939 
-OL,15,Fand created or co-created Black        
-OL,16,FPanther, Spider-Man, the X-Men, the    
-OL,17,FMighty Thor, Iron Man, the Fantastic   
-OL,18,FFour, the Incredible Hulk, Daredevil   
-OL,19,Fand Ant-Man, among countless other     
-OL,20,Fcharacters, died early Monday morning  
-OL,21,Fat Cedars-Sinai Medical Center in      
-OL,22,FLos Angeles.                           
-OL,23,D]C              NEWS             6/7   
-OL,24, AOnTheQT   BSport   CMovies   FWeather 
-FL,160,162,163,165,100,100
-PN,16107
-SC,0007
+PN,16104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -209,4 +119,94 @@ OL,21,P        S*4o~'sss3-kh?aW*WoP
 OL,22,P       Wj}S)ovoo5&SzyWjj5P       
 OL,23,P       W~}0S#-om}?'Sx5Wj2}P       
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16105
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV    h||| |4         |4               
+OL,2,T]V    j||*?*/5?  5 ?jo5       
+OL,3,T]S    `pz 5jw55  u0wsjs1       
+OL,4,T]S    "### #!"##!#!#  ##!###"##!       
+OL,5,G          Los Angeles, Mon 12 Nov, 2018
+OL,6,C                                       
+OL,7,CStan Lee, the legendary writer, editor 
+OL,8,Cand publisher of Marvel Comics whose   
+OL,9,Cfantabulous but flawed creations made  
+OL,10,Chim a real-life superhero to comic book
+OL,11,Clovers everywhere, has died.           
+OL,12,CHe was 95.                             
+OL,13,F                                       
+OL,14,FLee, who began in the business in 1939 
+OL,15,Fand created or co-created Black        
+OL,16,FPanther, Spider-Man, the X-Men, the    
+OL,17,FMighty Thor, Iron Man, the Fantastic   
+OL,18,FFour, the Incredible Hulk, Daredevil   
+OL,19,Fand Ant-Man, among countless other     
+OL,20,Fcharacters, died early Monday morning  
+OL,21,Fat Cedars-Sinai Medical Center in      
+OL,22,FLos Angeles.                           
+OL,23,D]C              NEWS             5/7   
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16106
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T`?!n'#o}0Tx~$T"+T+o0Tk'T|pT+'#/|0
+OL,2,T~5P  T&RppT#Rx~}tPT##$T0T"otTj'o0PTj
+OL,3,T'RppPRx/4j?/5`~}tT*tp~}~t>$`~1
+OL,4,R`}"'Rx5jtR+!4PT+/!S`pT`~}?#o
+OL,5,Rj5ow`~'!j'#m0k`7S`||tp05T#!PTz
+OL,6,R"}j/#V(-V(-R+7jSh-}|vsq2#S,||tp0
+OL,7,R}*?PW#*k%ok?PR/S~5h'?70k/o|||s;
+OL,8,R5k7Vx?Sx||||||||tpR#SujS55(Se7`~S%
+OL,9,R0oVhwSn'!S"!S"+///,S'txuuzS45`~<S
+OL,10,R}*uV}t0PQpPQ`0S*'#ShS7o"7j+/}</a~?
+OL,11,RukV*uPQ}|'PRh|S*0a"S5bS5h"ws+5
+OL,12,R4mV"m+PQ"5R5R*i7`S"#/-n}zSu*SS|!
+OL,13,R2}V"mp~Qj}R!tx!~}4R<Sp##+-ns?P
+OL,14,R"o}*uVjuQ4R7h?R~S`%P  S"#Tx
+OL,15,R}p+4kVjQj}Rj!?UpPS*T0Tx>'#o1
+OL,16,R}2o0Vj5Q0R7j?U`2o}tS%Tot`|0T
+OL,17,R}0+}VjQ5R!?aU+to?}0PT+o?!z!
+OL,18,R#//##PV`x7Q}PR?`~Ux2o?:}0T~!T5T|
+OL,19,R'Ux|V~'Q~}0PR#U"ot7=ymT*}p<o'
+OL,20,U`~V+?a5Q~oU~tUotk?::ug5T"{p~t
+OL,21,U?o}|pV+Qo7"/'Uu"}iikjT~?##/
+OL,22,Ux?o?tV#!PUp~|0"4jg666uPTi~5Tz
+OL,23,U'x?a~7`Uo'`~z}k}iT`~'`~'
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16107
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV|||4|4        h|         ,$    ,$    
+OL,2,T]V 5 ?*/5?j~%?/j?55555?j
+OL,3,T]S 5 5jw55jj5s{ju55ku!55j
+OL,4,T]S #! #!#"##!#!#"#"!###bs5#! #! #!#!#b
+OL,5,G          Los Angeles, Thu 22 Nov, 2018
+OL,6,BLos Angeles gives us much to be        
+OL,7,Bthankful for: the entertainment center 
+OL,8,Bof the world boasts year-round lovely  
+OL,9,Bweather, sandy beaches and swaying palm
+OL,10,Btrees. But it also has hellish traffic,
+OL,11,Bespecially before Thanksgiving.        
+OL,12,F                                       
+OL,13,FAn estimated 48.5 million Americans are
+OL,14,Fexpected to the road for Thanksgiving  
+OL,15,Fbetween Wednesday and Monday, the      
+OL,16,FAutomobile Club of Southern California 
+OL,17,F(AAA) reported.                        
+OL,18,F                                       
+OL,19,FThis Thanksgiving will be the busiest  
+OL,20,Ftravel period since 2005.              
+OL,21,                                        
+OL,22,                                        
+OL,23,D]C              NEWS             7/7   
+OL,24,                                        
 FL,160,162,163,165,100,100
