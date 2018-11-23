@@ -1,0 +1,962 @@
+DS,inserter
+CT,20,T
+PN,19501
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Tppppppppp0ppppppppppppppppppppppppppppp
+OL,2,T5] FExtraGDas Erste 
+OL,3,T#########!#############################
+OL,4,F"Sechs auf einen Streich"              
+OL,5,                                        
+OL,6,GNeue Marchen zu Weihnachten........F861
+OL,7,GSendetermine: Heiligabend..........F862
+OL,8,GSendetermine: 1.Weihnachtsfeiertag.F863
+OL,9,GSendetermine: 2.Weihnachtsfeiertag.F864
+OL,10,GDas Wasser des Lebens..............F865
+OL,11,GDer Schweinehirt...................F866
+OL,12,                                        
+OL,13,FMarchen aus vergangenen Staffeln:      
+OL,14,GRumpelstilzchen....................F867
+OL,15, Bruderchen und Schwesterchan.......F868
+OL,16,GKonig Drosselbart..................F869
+OL,17,GRapunzel...........................F870
+OL,18,GSchneewittchen.....................F871
+OL,19,GFrau Holle.........................F872
+OL,20,GAschenputtel.......................F873
+OL,21,CMarchenquiz im ARD-Text............F874
+OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,                                        
+OL,24,A]D 861   B]D 862   C]D 863   F]D 864   
+FL,861,862,863,864,100,100
+PN,19502
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FNeue Marchen zu Weihnachten            
+OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GNeun Marchenfilme prasentiert S]W .$(o
+OL,4,GDas Erste Weihnachten 2017.   R+$xftS+/
+OL,5,GDarunter sind mit "Wasser des Rix2ab"h0
+OL,6,GLebens" nach dem Marchen der  R{}m}gh=
+OL,7,GBruder Grimm und "Der Schwei- R%'!n~%.?
+OL,8,Gnehirt" nach dem gleichnamigenVV{%a~V~
+OL,9,GMarchen von H.C. Andersen zweiVwV5j}V
+OL,10,GPremieren. Gedreht wurde an   VV5hV
+OL,11,Gmarchenhaften Schauplatzen in V~V+%"!Vl
+OL,12,GBerlin, Brandenburg undWth(h$  W``>thP 
+OL,13,Grhein-Westfalen.               WbfdffWz
+OL,14,G                               W(|<|<(%
+OL,15,GDie aufwendig produzierten      Ww5>?
+OL,16,GFilme ubertragen die uberlie-   W=uuu
+OL,17,Gferten Texte in die heutige     W"j555
+OL,18,GZiet und reichen die Marchen   W(/,.---
+OL,19,Gmit neuen Handlungsstrangen    S(dp,,,,
+OL,20,Gund Figuren an.               Sp+,,.css
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19503
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FNeue Marchen zu Weihnachten            
+OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GIm zehnten Jahr in Folge setztS]Wp~| o
+OL,4,Gdas Erste eine Tradition fort:S]W+'/'! 
+OL,5,GMarchenfilme. Sie wollen mit  S7'']Wx|
+OL,6,Gfantasievollen Stoffen Werte  S}(h]W#! 
+OL,7,Gvermitteln, junge und jung ge-Ss{
+OL,8,Gbliebene Zuschauer verzaubern S,n
+OL,9,Gund fur marchenhafte Weih-    SS""""j
+OL,10,Gnachtsstimmung vor dem Bild-  SS"S!"So
+OL,11,Gschirm sorgen.                ShihiShj
+OL,12,G                              S7""""S"*
+OL,13,GDie ARD-Marchenedition "Sechs R]S0 !0 $
+OL,14,Gauf einen Streich" umfasst nunR]S (`  (
+OL,15,G44 Neuverfilmungen. Zu den    R]S0   ` 
+OL,16,Gersten sechs aus dem Jahr 2008R]S $(  `
+OL,17,Gzahlen u.a. "Bruderchen und   R]S$  (  
+OL,18,GSchwesterchen", "Frau Holle"  R]S      
+OL,19,Gund "Konig Drosselbart", die  Rw;/ssss
+OL,20,Gdas Erste zu Weihnachten zeigtR/tssq<,,
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,19504
+SC,0004
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FMarchen im Ersten zu Weihnachten       
+OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GSendetermine                           
+OL,4,G                           Wp0Wz'P    
+OL,5,CHeiligabend, 24.12.17     W(m}xwqpP    
+OL,6,G                            W+;&P  Rx4
+OL,7,G10.03 Uhr: Rumpelstilzchen         R.//
+OL,8,G11.00 Uhr: Bruderchen und          Woo
+OL,9,P       Q`$GSchwesterchen          W"k?
+OL,10,P       Qb,dP                       Wh~'
+OL,11,P       Qj}~}tP                    ZVo?!
+OL,12,P      Q`//#P                W<|pPR`xf
+OL,13,Qp|||||n%P              R(P  R(*{m0*a~
+OL,14,Qj~w~?!P      ZQ0Y    S*,,,,.R++?'
+OL,15,Qjo~o~o/2P       ZQ8Y    Sj?o?P  Rt|
+OL,16,PQi'9'QhiP       ZU6Y     Sj/fv.oP  R=5|
+OL,17,PQjQ5PQjjP      ZQ$+6Y    S*?yi;?P  Rw}<
+OL,18,PQjQ5PQjjP     ZU`h'0!Y    S+~?!P  S|4|
+OL,19,PQjQ5PQjjP     ZQ$"}Q*tY  S0SjPS0P S/!/
+OL,20,PQ"}k4Q*6}P     ZS>!:Q2%Y S+mvw|/!PQp`
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19505
+SC,0005
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FMarchen im Ersten zu Weihnachten       
+OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GSendetermine                  Soa4Su`u`
+OL,4,G                              S4o%S././
+OL,5,C1.Weihnachtsfeiertag, 25.12.17S+`5W3{wc
+OL,6,G                              Su+!W5
+OL,7,G11.45 Uhr: Konig Drosselbart  S+a5Wosy?
+OL,8,G12.45 Uhr: Rapunzel           Su+!S*?!
+OL,9,G13.45 Uhr: Schneewittchen     S+a5PS"P 
+OL,10,G14.45 Uhr: Das Wasser des     Su+1VhxxP
+OL,11,G           Lebens             S"~!S88d$
+OL,12,P   V`R(0P U`PQ`$W`p0V`0P      QjPWhlSv
+OL,13,QtPT}R4U~7Q~7Wh4V~7Z`$)a,dYS~4WnoSd
+OL,14,So~$(}5S6(}5S}=S(}5*~5Z"& 1(8YS%5%PW/S1
+OL,15,TW%`n<a~V8~<W~tR8~<QktP W|<4P  WlVppxtP
+OL,16,R7uV`6uSuT`7uQ7uV`7uUz!P WjP    V""cs&P
+OL,17,W<,,,,,,,,,,,,,,,,,,,lP W`ntP     V(~P 
+OL,18,W5<~tWx|0x'cx<l,<l,<ljPW`iuP    VzuP
+OL,19,W5m?j?!`<g8qf8qfx'jPWj?P   V`0
+OL,20,Wmpsppsqppssssssssspp>PW"owz'P   Vr{{{u
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19506
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FNarchen im Ersten zu Weihnachten       
+OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GSendetermine                           
+OL,4,G                                       
+OL,5,C2.Weihnachtsfeiertag, 26.12.17         
+OL,6,G                                       
+OL,7,G11.40 Uhr: Frau Holle                  
+OL,8,G12.40 Uhr: Aschenputtel        Q`ttP   
+OL,9,G13.35 Uhr: Der Schweinehirt    Spw}0PRp
+OL,10,P                                S'ktV,
+OL,11,P                                 S"o99!
+OL,12,P                             UtP  Qp%P 
+OL,13,P     Spu0P                  U6:W`|w$!!
+OL,14,P     W(,P                  W8!->(W$
+OL,15,P     WbsP                 W8V0W"{}`W(
+OL,16,P     S,<$P      WxlWz'P  Wp%P  W*-(x`
+OL,17,PQ4|4|4|4|P      W"o|},$P UeP W(W6&#W!!a
+OL,18,PQ|h|h|h|hP  Whl0P W#P     W##"PWj4P  Wj
+OL,19,PQ4|4|4|4|PWpprP               W"5P  Wj
+OL,20,PQ|h|h|h|hPW"+?'P   Qx?kP       Uh%P  U>
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19507
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P            MF Das Wasser des Lebens   
+OL,2,P            MF Das Wasser des Lebens   
+OL,3,P             Z  V$`                    
+OL,4,WhknzkxP      ZV0   V(                  
+OL,5,Sj~~~~>P      Z V6#d(  V` YS`nftt40P    
+OL,6,S|x7t~Q0Q`PQ0ZV*}:j`<-d  YS"y.;=zsP    
+OL,7,SoqQox}z%Z  V0"2h6j  Y W///oP     
+OL,8,S*'p2%Q//-//%Z   V$!V#!  Y W}~k|5P    
+OL,9,PWgoln%W>#37c5P Wh{;4P    Wor?P     
+OL,10,StW))!PW55P W*;j%P    W"o|>!P     
+OL,11,S/o|h~'W;w,-;1P  W+'P   T`~|t|~tP   
+OL,12,Qo|2&q>V&=vgg%P  W`o0P   Tknn2tQ0P
+OL,13,Qyo5$vV"&66-!P W`~k}0P  Tk5;Wx~]Qg\
+OL,14,Q}1$S.mt`~-PWh{w4P Wp<;3 ~]P5Q6vk
+OL,15,Qo}p+/Qtsvq~PW?u=V`~?;{W]Q5  Q{vn
+OL,16,Q"o]S~ws0h~\Woo?wV{yyy{tWo]P5Qi{>
+OL,17,Qmt2;]So|$ +?\W*?k=}%WsssqqsqpsssQcv5
+OL,18,Qy50tsQ??????P W+ooo/!V`pPQ`PQ0xQ,Qtiz&
+OL,19,Qwf50wfSfn9{f.P W(///-Vd!`%Q4aq#qx:|}')P
+OL,20,Q''%Q''Q)----V`pVq(V0q0ntQ,tsqx&#lpVx&ef
+OL,21,VpP Vp|p0pppx$!`=z{|>`k2+~w|<l|<|,|t|<n|
+OL,22,V"#'3!xpsqx$trssx>'3//-/'caxlt2+%n.'attb
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19508
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FDas Wasser des Lebens   Whknzi0P S`nftt
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,PS~~~4P S"y.;=
+OL,3,GKonig Ansgar will einenPSj|x7t4P  W///
+OL,4,Gseiner Sohne zum Nach-  S*q5P  W}~k|
+OL,5,Gfolger ernennen. LennardPS'p2%P  Wor?
+OL,6,Gist klug und hat ein gu- Wgoln!P  W"o|~
+OL,7,Gtes Herz. Sein alterer    W!!!P   Tp0Tp
+OL,8,GBruder Falk ist machtbe-Qx6o~'!P  To~
+OL,9,Gwusst und kampferisch.  QQ1S`Sx0`T~
+OL,10,G                        QvQ0S*.'/.Tk~
+OL,11,GDoch der Konig ist sehr Q;Q0W2ck#{Tj~
+OL,12,Gkrank. Ihn kann nur das QoQ0WojTj~
+OL,13,GWasser des Lebens noch  Q}Q$Wj=.ggTj
+OL,14, heilen. Lennard will so-QfP Vho;;;T"
+OL,15,Gfort aufbrechen. Doch    Q+P  V!)#P    
+OL,16,GFalk halt ihn fur unge-  ShiT4~&}7n44S6
+OL,17,Geignet und macht sich,   SjjTta|2xta4S5
+OL,18,Gden Thron vor Augen, aufPS"lssssssssss,
+OL,19,Gden Weg. Im Wald trifft Vrpdx/#V+'`,)"2
+OL,20,Ger auf Salwa, eine     V8,tsqx&#lp%x&ef
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19509
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FDas Wasser des Lebens  Rxix0`b"Wh`>thP 
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,R{}m}gWbfdffWz
+OL,3,Ggeheimnisvolle Frau. Ob-R%'!n~%W(|<|<(%
+OL,4,Gwohl sich Falk verirrt  VV{%a|PWw5>?
+OL,5,Ghat,ignoriert er sie undVwV5jPW=uuu
+OL,6,Gsturzt beim WeiterreitenVV5hPW"j555
+OL,7,Gin eine Schlucht.       VV#V"#W(/,.---
+OL,8,G                          S>-%PR(PR0PR$
+OL,9,GGegen den Willen des Va-RdWhwuR2hoxp9r~
+OL,10,Gters bricht Lennard auf,R$W"o%Rx/R;
+OL,11,Gum Falk und das Heilwas-RnnT}<$PR*
+OL,12,Gser zu finden. Auch er  Ry/T~5P V"R+
+OL,13,Gtrifft auf Salwa. Als erR!PS/o5Rnt|
+OL,14,Gsie groBzugig behandelt,R5P S~%Rj
+OL,15,Gweist sie ihm den Weg   R5R0~
+OL,16,Gzur Heilquelle. Dort    R}RR??w
+OL,17,Gfindet er ein verzauber-RhV~/y{>a
+OL,18,Gtes Schloss mit einer   RV?w?|}y?'a<9
+OL,19,Gschlafenden Prinzessin, V{{o~/#V+'`,)"2
+OL,20,Gdir er wach kusst ...   W,tsqx&#lp%x&ef
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19510
+SC,0010
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FDas Wasser des Lebens   Q`|)9l0Sh`>thP 
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,Qn8w,efSbfdffSz
+OL,3,G                        QmW~{w5S(|<|<(%
+OL,4,FDarsteller              Q}Wo;n%PSw5>?
+OL,5,G                        Q*uWc1P S=uuu
+OL,6,GPrinzessin              Q?>Vn}PS"j555
+OL,7,G Friederike.. Marlene   Q;7Vz{aS(/,.---
+OL,8,G               Tanczik  Q'V&#"!)P      
+OL,9,GPrinz Lennard Gustav   ZV` a$)a,d $    
+OL,10,G               Schmidt  ZV$"& 1(8 `!`  
+OL,11,GPrinz Falk... Gil Ofarim    W|<4       
+OL,12,GKonig Ansgar. Matthias      Wj  ZV!2` 
+OL,13,G               Brenner     W`nt   ZV$d
+OL,14,GSalwa........ Denise M'BayW`iuZV((Yx
+OL,15,GLeibarzt..... Ingolf Luck Wj?ZV$Yn-
+OL,16,G                          W"owz'V0x~<w
+OL,17,GBuch:  David Ungureit      VpVp`p~/y{>a
+OL,18,GRegie: Alexander Wiedl  Vx8?w?|}y?'a<=
+OL,19,G                        V{{o~/#V+'`,)"2
+OL,20,FFederfuhrung: WDR, 2017 W,tsqx&#lp%x&ef
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19511
+SC,0011
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P          MEDer Schweinehirt           
+OL,2,P          MEDer Schweinehirt           
+OL,3,P  Whn;SpP                     W('+40P  
+OL,4,P  W6,Sr>;0P                Sxp<W3mj"P  
+OL,5,PWhchPSiwP              S(n-+W"bh'P  
+OL,6,P Wsj,n8,S&P             Sh{u%&W4z'P  
+OL,7,PW*8"}>V!W5P   Qx}0x}0PS*w(,W}l5e4P  
+OL,8,P   W-`8jP    Q5PSjm{V"Wm}%#P   
+OL,9,P   W*q8!P    Q+?!P S/~W(ps5P    
+OL,10,P V~3|0Sx{}0P  Q"o'P   S3;%PW.'UxP   
+OL,11,PThm2wS}~ouP    Q+!P    S2|W|0V('0P  
+OL,12,PVj2m*S}~j0P          Sp1(WV?y2P  
+OL,13,PTjk25S}~juP         Sj1x3W.V?!o4P 
+OL,14,PV~74koS}~"4P         S#'PWs{V!p"tP
+OL,15,PT5/n{S-.'Sk'W0$#+lpP Ux0P Qx5/U>vm9"4
+OL,16,V(5jnW%P W2PW"({tUeiPQh5V764*%
+OL,17,P  Ts~{W1U0W"((W$m."dQj5U:z5P 
+OL,18,P  V//.WUjW2PW$W0~w!V`WdQo5V?uou5P 
+OL,19,P  T*W%U#W0W0$$.%P  W*pQ5UuozP  
+OL,20,P   WjW%P Wa2P   W"eW(`pU:Q5Vz5P  
+OL,21,P  QxWW5P  WP    W"}P  Q`~5U57P  
+OL,22,P T`xW//!P  W?P     W?P  Qj5sVk%P  
+OL,23,PT(//!/S'//$P U+P     U+P  Q*/-,V//.P   
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19512
+SC,0012
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,EDer Schweinehirt               W,WpW,iP
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,PQ8P Whcj43
+OL,3, Das Konigreich Lichter- Uh:f4PWs(,o=,5s
+OL,4, wald steht vor dem fi-   Q)'PW*8h~j}~5d
+OL,5, nanziellen Ruin. Nur ei-  R50P Wj,/%P
+OL,6, ne Hochzeit von Prinz   R(07&0P W+'P 
+OL,7, Augustin mit einer BrautR"&5P  V2dp`|gm
+OL,8, aus reichem Hause kann    ReP T~7z7
+OL,9, Schlimmeres verhindern.  W*zPVz7m*{?h
+OL,10,                          T"o}x!"}~}7
+OL,11, Der Prinz beschlieBt,die   V+/!Tjg#o5
+OL,12, Kaisertochter Victoria        V"c$T"///
+OL,13, zur Frau zu nehmen. Um         Tj}0W,,P
+OL,14, sie fur sich zu gewin-         Tjt2c~
+OL,15, nen, will er ihr das           V*//////
+OL,16, Wertvollste schenken,          T*%%
+OL,17, was sein Land noch hat:         WjW5P
+OL,18, eine Nachtigall, die al-       QxWWQt
+OL,19, le Lieder singen kann,        T`xTt
+OL,20, und eine duftende Rose.      T(//!/T/"/
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,19513
+SC,0013
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,EDer Schweinehirt             U(P       
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,P  V(P         
+OL,3,GDoch Victoria lasst denP       R(P     
+OL,4,GPrinzen abblitzen. AberPSppPW(PW(Wt,``P
+OL,5,Gso leicht gibt AugustinPS9(.`PW$.'+64a!
+OL,6,Gmitch auf: Er heuert alsW}}7W`b~oytkhc
+OL,7,GSchweinehirt am Kaiser- W|,dPW~},0l
+OL,8,Ghof an und versucht u.a.W}WhwswsmW7
+OL,9,Gmit einem Gerat, das    W7W"/"t
+OL,10,GSeifenblasen macht,     W~sPWo}p~5b$
+OL,11,Gdas Herz der Prinzessin W5P W/'0wb
+OL,12,Gzu erobern - mit Erfolg.W#!P UhV8|tW&-
+OL,13,G                        S'PWwP V;?y}0
+OL,14,GZeitgleich sucht der    S5P  W`PV;~?y2
+OL,15,GKaiser den reichen Prin- S"77777Vov~?!o
+OL,16,Gzen Ferdinand als Mann    Smueu%V"{!p"
+OL,17,Gfur seine Tochter aus.     Sj~P Vxn?vm9
+OL,18,GAuf dem Maskenball soll    SjP Vk76
+OL,19,Gdie anstehende Hochzeit Uj#Vo5**
+OL,20,Gverkundet werden ...    Vju{V%/*%/%
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19514
+SC,0014
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,EDer Schweinehirt        Sywrx|1P S`||td
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,WytP  Sv};ko
+OL,3,EDarsteller              Wo}xP  Wt~vSo
+OL,4,G                        Wjo7P W"S{
+OL,5,GPrinz Augustin. Emilio  W"o}4P  W)o5S
+OL,6,G                 SakrayaW`p3P     WbqSo
+OL,7,GPrinzessin              W}o}P   Wh7S~
+OL,8,G Victoria...... Jeanne  Wo4o}0P W~?Sz
+OL,9,G                GoursaudW*to}p0jS(.#
+OL,10,GKonigin                  Wkt+?h%Vx80
+OL,11,G Lichterwald... Margarita Wk4bq'Vzf$
+OL,12,G                 Broich  T9||$W/'PV//)1
+OL,13,G                         Tf?UtP Wp<'#(`
+OL,14,GKaiser          Berhard  T9U6~Wxw$!P 
+OL,15,G Siebenlande...  Schutz   W8!-??(W$$
+OL,16,G                         W8V0W"{?(W(P
+OL,17,GBuch:  Anja Kommerling  Wp%P  Wb//#""(0
+OL,18,G       und Thomas Brinx UeWp0$`%P    Wy
+OL,19,GRegie: Carsten Fiebeler      WPQ~}w4W
+OL,20,EFederfuhrung: rbb, 2017      U<PQ"o'PU<
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19515
+SC,0015
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,S;k;=P    CRumpelstilzchen              
+OL,2,Smq}35P   W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,SywkP                                  
+OL,4,Sn??P  RxGDie Mullerstochter Lisa und  
+OL,5,S*u!P RhGder Konigssohn Moritz sind   
+OL,6,W|tP   W`oGsich begegnet und wollen sich
+OL,7,W6uP W"oGbald wiedersehen. Doch der   
+OL,8,W5P W`GMuller Gisbert prahlt auf dem
+OL,9,W:?PZV'PGSchloss, dass seine Tochter  
+OL,10,Wt0P RhGStroh zu Gold spinnen konne. 
+OL,11,W*}PRjGSo wird Lisa in eine Kammer  
+OL,12,W}rsSltRx?Geingesperrt und soll es zei- 
+OL,13,W///-S(.'PGgen, sonst muss sie sterben. 
+OL,14,S&#5"dZS*tG                             
+OL,15,SdS5`&eZukGIn ihrer groBten Verzweiflung
+OL,16,Sp9)qpzZo*Gbietet ein Mannlein seine    
+OL,17,S`&6dShZ2uGHilfe an. Dafur stellt es Be-
+OL,18,S1S5Si%Z}jGdingungen - zuletzt muss Lisa
+OL,19,S+d}8!ZjjGihm ihr Kind versprechen. In 
+OL,20,Sx'S+tZz~~Gihrer Not stimmt sie zu ...  
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19516
+SC,0016
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Smyy;q4P  CRumpelstilzchen              
+OL,2,S3{3{b$P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Sw?`!P                                
+OL,4,S+tz%92Rx4CDarsteller                   
+OL,5,SdPS$9R.//G                             
+OL,6,V`,,S8WooGRumpelstilzchen.             
+OL,7,WevuPW"k?G            Robert Stadlober 
+OL,8,W:1V0Wh~'G                             
+OL,9,Vir|z5Zo?!GKonig...... Gottfried John   
+OL,10,PV+/#PR`xfGPrinz ..... Kristian Kiehling
+OL,11,W"+}~PR*a~GLisa....... Julie Engelbrecht
+OL,12,P Rfo~?'G                             
+OL,13,Q$P Q(Rt|GMuller..... Thomas Rudnick   
+OL,14,Q-,,,.R=5|GMinna ..... Alexa M. Surholt 
+OL,15,Q?o?Rw}<G                             
+OL,16,Q/fv.oS|h|GBuch:  David Ungureit        
+OL,17,Q?yi;?S:GRegie: Ulrich Konig          
+OL,18,Q+~?!R|R|G                             
+OL,19,PQjPR(/(/CFederfuhrung: WDR, 2009      
+OL,20,Qmvw|/!P                                
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19517
+SC,0017
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FBruderchen und SchwesterchenZR`v)/-otsk
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ZRl'9#,d3"
+OL,3,G                                    R"P
+OL,4,GNachdem die Stiefmutter von     S,/-ny$
+OL,5,GBruderchen und Schwesterchen    Wj{}Sku
+OL,6,GHerz und Besitz des Vaters      WnS
+OL,7,Gfur sich gewonnen hat, ver-     W(~?%S?
+OL,8,Ggiftet sie ihren Mann. Dir         ZS>!
+OL,9,GGeschwister sperrt sie ein.     Q*4ZS{P
+OL,10,GDoch den beiden gelingt die    Q8l1ZSmP
+OL,11,GFlucht in den Wald.          Qx~}~?ZS+4
+OL,12,G                             Q+//mdP  
+OL,13,GDie Stiefmutter verzaubert      Q*=p|
+OL,14, eine Quelle, woraus der Junge    Qg}w
+OL,15,Gtrinkt und zu einem Reh wird.    Qh/?-?
+OL,16,GDas Madchen lebt mit dem Reh     Q"6PQk
+OL,17,Gin einer Hutte im Wald, bis       Q5PQj
+OL,18,Geines Tages der Konig das RehZV6Y Q5PQj
+OL,19,Gverfolgt und sich in Schwes-ZV".}YQ5PQj
+OL,20,Gterchen verliebt ...V0d8#lp<';t>aQ~%PQ>
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19518
+SC,0018
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FBruderchen und Schwesterchen    W4`thP 
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P  W/...P 
+OL,3,G                                S,/-lyt
+OL,4,CDarsteller                  V`,,Wj{tSw
+OL,5,G                            W5vuWn?S
+OL,6,GSchwester... Odine Johne    W51W(~?%S?
+OL,7,GBruderchen.. Hans-Laurin    WkttW``S`>a
+OL,8,G              Beyerling     Wlwo}?jS5o
+OL,9,GStiefmutter. Andrea Sawatzki So}pp~S|o|
+OL,10,GVater....... Christoph M.Ohrt V+o?'tSa
+OL,11,GTochter..... Lisa Altenpohl      Wz?'k
+OL,12,GKonig....... Jonas Jagermeyr    Sh'!h
+OL,13,GJager....... Antoine Monot jr. W`'!V!W
+OL,14,GTochter des                    SjtppPS*
+OL,15,G Jagers.....  Emilia Schule    V>;uP 
+OL,16,G                              Shgno0P
+OL,17,GBuch:  Gabriele Kreis         Vj;{o}j
+OL,18,GRegie: Wolfgang EiBlerW+5Ww=PS>v~vj
+OL,19,G                      Wpro|~PVjgn~?j
+OL,20,CFederfuhrung: MDR, 2008W+-?'PSj9onmo!z
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19519
+SC,0019
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,PSu`u`uP  FKonig Drosselbart            
+OL,2,PS././.P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,PWbcwc5P  G                             
+OL,4,PWjj5P  GFur die hochmutige Prinzessin
+OL,5,PW*ws!P  GIsabella ist kein Mann gut   
+OL,6,PZS+?%P   Ggenug. Auch den edlen Richard
+OL,7,P  Vtt4P  Gvon Begonien, dem sie im Her-
+OL,8,P S(8ddP  Gzen zugetan ist, lasst sie   
+OL,9,PS(yW<4P  Gabblitzen und verspottet ihn 
+OL,10,PS&8W?=P  Gals "Konig Drosselbart".     
+OL,11,Sh?bW/P   G                             
+OL,12,S9>VxtppW<GIhr Vater hat genug: Er will 
+OL,13,S~gV)s3!!PGsie dem erstbesten Bettler   
+OL,14,S90PV}$P  Gzur Frau geben, der sein     
+OL,15,S(0VzuP  GSchloss betritt. Im Kostum   
+OL,16,P V`0P Gdes einfachen Bettlers mochte
+OL,17,P Vj5P GRichard seiner Auserwahlten  
+OL,18,P V~}P Gden Hochmut austreiben. Nach 
+OL,19,P VwsssP Gder Hochzeit ziehen sie in   
+OL,20,P Vwssss0PGseine bescheidene Hutte ...  
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19520
+SC,0020
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,PSu`u`uP  FKonig Drosselbart            
+OL,2,PS././.P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,PWbcwc5P                                
+OL,4,PWjj5P  CDarsteller:                  
+OL,5,PW*vs~!P                                
+OL,6,PZS+?%P   GPrinzessin... Jasmin Schwiers
+OL,7,P         GKonig August. Hubert Mulzer  
+OL,8,P QxSddP  GPrinz Richard Ken Duken      
+OL,9,PQhW<4P  GMaximiliane.. Felicitas Woll 
+OL,10,PQ~W?=P  GKonig Ottokar Arthur Brauss  
+OL,11,Qh?#W#P   GFischfrau ... Carolin Weber  
+OL,12,PS>Q~}P   GKoch......... Roman Kurz     
+OL,13,PSfQ74PV|4                             
+OL,14,P  Q+vo|V{1                             
+OL,15,P  Sx|80/!GBuch: Anja Kommerling,       
+OL,16,P S`f$P G      Thomas Brinx           
+OL,17,P S*/91P GRegie:Sibylle Tafel          
+OL,18,W|4|4So4P G                             
+OL,19,W{1{1l||<PCFederfuhrung: HR/ARD, 2009   
+OL,20,Sl,,,,,,,<                              
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19521
+SC,0021
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P         CRapunzel                     
+OL,2,PT``P     W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,V:9)y0P   G                             
+OL,4,VfW~mP    GEin armer Bauer und seine    
+OL,5,V9W$P   GFrau erwarten endlich ein    
+OL,6,StW}3P    Gkind. Da die werdende Mutter 
+OL,7,S>W#P     Geinen unbandigen Appetit auf 
+OL,8,T`>}P     GRapunzeln hat, und diese nur 
+OL,9,T~TjuRntn'Gim Garten einer Zauberin     
+OL,10,TtT'W+//!Gwachsen, stiehlt der Mann in 
+OL,11,Tt`~5P  Gseiner Not die Rapunzeln.    
+OL,12,T5P  GDoch dabei wird er von der   
+OL,13,V)9999!P  GZauberin erwischt und muss   
+OL,14,TbfffP    Gihr sein Kind versprechen.   
+OL,15,TbfffRha$8G                             
+OL,16,ThyyyRi*4>GBald nach der Geburt holt    
+OL,17,Vh4h4W(=n$Gsich die Zauberin das Kind   
+OL,18,T"#"#W,=n,Gund nennt es "Rapunzel". An  
+OL,19,W=n,=n,=n,Gderen 12.Geburtstag sperrt   
+OL,20,W=n,=n,=n,Gsie das Madchen in einen Turm
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19522
+SC,0022
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q|4||h|4P CRapunzel                     
+OL,2,Q4,($,($P W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,S89)y0P   G                             
+OL,4,SfW~mP    GImmer wenn sie zu Rapunzel   
+OL,5,S9W$P   Ghinauf will, ruft sie: "Ra-  
+OL,6,SvW}3P    Gpunzel, Rapunzel, ladd dein  
+OL,7,S>W#P     GHaar herunter!"              
+OL,8,SieP      G                             
+OL,9,PSgtP     GRapunzel wachst zu einer Frau
+OL,10,Q|SntP    Gheran. Eines Tages hort ein  
+OL,11,Q||S++.{tPGPrinz ihren Gesang und ver-  
+OL,12,Q4||h|4Sw4Gliebt sich in sie. Als er be-
+OL,13,Q|4||h|SjnGobachtet, wie die Zauberin am
+OL,14,Q4||h|44SwGZopf hinaufklettert, tut er  
+OL,15,Q|4||h|4S=Ges auch. Aber dann kommt die 
+OL,16,Q4||h|44S~GZauberin dahinter, schneidet 
+OL,17,Q|4||h|4S+GRapunzel die Haare ab, ver-  
+OL,18,Q4||h|44P Gbannt sie und lasst deb Prin-
+OL,19,Q|4||h|4P Gzen erblinden. Verzweifelt   
+OL,20,Q4|h4|h4P Gsucht der Prinz nach Rapunzel
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19523
+SC,0023
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q|4|S'zP  CRapunzel                     
+OL,2,Q4|hS2'P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Q|4|S'zP  G                             
+OL,4,Q4|hS2'P  ADarsteller:                  
+OL,5,Q|4|S'zP  G                             
+OL,6,Q4|hS2'P  GRapunzel ... Luisa Wietzorek 
+OL,7,Q|4|S'8P  GPrinz....... Jaime Ferkic    
+OL,8,Q|hS2.!P  GZauberin.... Suzanne von     
+OL,9,Q||S'zS*..G             Borsody         
+OL,10,Q4|SuaWhm9GMutter...... Antje Westermann
+OL,11,Q||Sa>Wn}GVater....... Boris Aljinovic 
+OL,12,Q4|Wm>Wb~'GKonigin..... Rita Feldmeier  
+OL,13,Q||SlT0T88GKonig....... Dieter Montag   
+OL,14,Q4||T*}0x?G                             
+OL,15,Q|4|PT"ogfGBuch:  Nicolas Jacob und     
+OL,16,Q4||P T(99G       Olaf Winkler          
+OL,17,Q|4|P Vj~vGRegie: Bodo Furneisen        
+OL,18,Q4|hP Vj'?G                             
+OL,19,Q|4|P Vj5CFederfuhrung: rbb/ARD, 2009  
+OL,20,Q4|hPT`|e~G                             
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19524
+SC,0024
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,CSchneewittchen               S?###/}0P 
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P    S"otP
+OL,3,G                             U>t``>S"0
+OL,4,GEine Konigin bekommt eine    U&&-)'1S55
+OL,5,Gwunderschone Tochter: Schnee-W(.?-PSkk
+OL,6,Gwittchen. Als die Konigin    W"#{w#PSjz
+OL,7,Gstirbt, nimmt sich der Konig Wz?joPSjj
+OL,8,Geine neue Frau. Diese hat nurW]Q,, \Wjn
+OL,9,Gein Ziel:Sie will die Schons-W"/'PSjj
+OL,10,Gte im ganzen Land sein.      U4lp`<(Sjk
+OL,11,G                             U(t+s1Sjz
+OL,12,GDeshalb befiehlt sie dem Ja-  U($+-PS77
+OL,13,Gger, Schneewittchen zu toten.  Uc2sS`}%
+OL,14,GDieser aber lasst sie laufen,   U,,SjjP
+OL,15,Gund Schneewittchen findet Un-   Ub3S~%P
+OL,16,Gterschlupf bei den sieben    Sppppx~'P 
+OL,17,GZwergen.Als die Konigin durchS+/--.!R>$
+OL,18,Gihren Zauberspiegel erfahrt,   VwPQ`l|0
+OL,19,Gdass Schneewittchen lebt,      V=PQ}
+OL,20,Gmacht sie sich auf den Weg...  VwPR+'
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,19525
+SC,0025
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,CSchneewittchen             V!S{0S?4Tl
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S?S"o?PTx
+OL,3,G                               W890T`~
+OL,4,BDarsteller                   W&"PW"$S?
+OL,5,G                             W`|}}S"
+OL,6,GSchneewittchen               W"3{73PS"#
+OL,7,G            Laura Berlin     Wz~?jP Qp
+OL,8,GStiefmutter Sonja KirchnergerW]Qdp$\`~
+OL,9,GPrinz...... Nicolas Artajo-  W"/'Sjo}
+OL,10,G             Kwasniewski     Wdlp`<So
+OL,11,GKonig...... Jaecki Schwarz   RtW+sS".
+OL,12,GNarr....... Jorg Schuttauf   R*}W+-P   
+OL,13,GJager...... Martin Branbach  R`}WcP   
+OL,14,G                             R?/%P U*t
+OL,15,G                             Sh|wuP  Uz
+OL,16,GBuch:  Andreas Knaup         S*%PU`~
+OL,17,GRegie: Thomas Freundner      VdS#!PS~~
+OL,18,G                             V"|pPSb?
+OL,19,BFederfuhrung: BR, 2009        V&SvuVb&P
+OL,20,G                               Sj1P   
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19526
+SC,0026
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W>!PW+4P  FFrau Holle                   
+OL,2,W5S||W5P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,W=<<<<5P  G                             
+OL,4,W/////%P  GEine Mutter hatte zwei Toch- 
+OL,5,V`P V0P   Gter. Wahrend Marie auBerst   
+OL,6,V$%QnyP   GfleiBig ist, legt sich Luise 
+OL,7,Qn{V)189P Ggern auf die faule Haut.     
+OL,8,Vt)2>+Qg%PG                             
+OL,9,V(ag6f"$P GSo kommt es, dass Maries     
+OL,10,P WQ~mP  GSpindel in den Brunnen fallt 
+OL,11,PW`oQ"!P  Gund sie in einem Traumland   
+OL,12,PW>zdP    Gaufwacht. Dort rettet sie das
+OL,13,P    Spu0PGBrot vor dem Verbrennen,     
+OL,14,P    W(,P Gschuttelt die Apfel und hilft
+OL,15,P    WbsP GFrau Holle bei der Arbeit.   
+OL,16,P    S,<$PGZum Lohn wird sie bei ihrer  
+OL,17,V4|4|4|4|PGRuckkehr mit Gold uberschut- 
+OL,18,V|h|h|h|hPGtet. Luise will das Gleiche: 
+OL,19,V4|4|4|4|PGDoch Faulheit wird auch im   
+OL,20,V|h|h|h|hPGTraumland nichy belohnt!     
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19527
+SC,0027
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P         FFrau Holle                   
+OL,2,P V`x|||pPW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,PVh?;;;;;!G                             
+OL,4,PV+vW~oP GDarsteller:                  
+OL,5,P S<W?!PG                             
+OL,6,PS(.Wo?$P GFrau Holle...... Marianne    
+OL,7,PV9~?%P   G                 Sagebrecht  
+OL,8,VzoW+}pP GMarie........... Lea Eisleb  
+OL,9,Vn}0W+otGLuise........... Camille     
+OL,10,S;;;;ZW}WkG                 Dombrowsky  
+OL,11,S""""ZWl}0GScherenschleifer Herbert     
+OL,12,P  SxxZWn?G                 Feuerstein  
+OL,13,WdW`~{pZ$G                             
+OL,14,W9x7+ Z0(G                             
+OL,15,W&f?!  Z" GBuch:  Marlies Ewald         
+OL,16,PS*p  WZ!$GRegie: Bodo Furneisen        
+OL,17,V4|4|ZW!$PG                             
+OL,18,V|h|hZW0P FFederfuhrung: rbb/ARD, 2008  
+OL,19,V4|4|Z  WaG                             
+OL,20,V|h|hZ  W0G                             
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19528
+SC,0028
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,BAschenputtel                 R`x||~}~
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R};gy
+OL,3,G                             R]W({ppPu 
+OL,4,GAschenputtel hat unter dem   R]W +? P"l
+OL,5,Gharten Regiment ihrer Stief- R"+}||pr3o
+OL,6,Gmutter und deren Tochter An-     R//}6
+OL,7,Gnabella zu leiden. Den ganzenP     R"*-
+OL,8,GTag muss sie schwer arbeiten     S88dP 
+OL,9,Gund abends bleibt ihr nur der    Sho=}P
+OL,10,GSchlafplatz in der Asche.        Sn?~)
+OL,11,G                               W5PS#(ko
+OL,12, Als eine Frau fur deb Thron-   W5P W~Sm
+OL,13,Gfolger gesucht wird und alle   W%`x~'z4
+OL,14,Gunverheirateten Tochter zum   S+/W+!z5
+OL,15,GBall eingeladen werden, soll   W5P W3s1
+OL,16,GAnnabella das Herz des Prin-   W5PWbfj
+OL,17,Gzen erobern. Trotz Schikanen   W5PW(9j
+OL,18,Gerscheint auch Aschenputtel   W`uPWbx
+OL,19,Gauf dem Ball und hinterlasst  W775R(---
+OL,20,Gnur einen verlorenen Schuh... W555S|?}P
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19529
+SC,0029
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,BAschenputtel                 R`x||~}~
+OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R};gy
+OL,3,G                             R]W({ppPu 
+OL,4,GDarsteller:                  R]W +? P"l
+OL,5,G                             R"+}||pr3o
+OL,6,GAschenputtel. Aylin Tezel        R//}6
+OL,7,GPrinz Viktor. Florian              R"*-
+OL,8,G              Bartholomai        S88dP 
+OL,9,GStiefmutter.. Barbra Auer        Sho=}P
+OL,10,GAnnabella.... Pheline Roggann    Sn?~)
+OL,11,GKonig Klemens Harald              S#(ko
+OL,12,G              Krassnitzer    W(|tz9WvSm
+OL,13,GKnecht Benno. Axel Siefer     W"ogp~'z4
+OL,14,GMagd Johanna. Anna Bruggemann S+/W+!z{f
+OL,15,G                                 W`nnjk
+OL,16,GBuch:  David Ungureit            Wjkjjj
+OL,17,GRegie: Uwe Janson                W>>>>>
+OL,18,G                                Qjfffff
+OL,19,BFederfuhrung: WDR/ARD, 2011     W.+'/+'
+OL,20,G                                  Qx?4P
+OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19530
+SC,0030
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FMarchenquiz ARD Text                   
+OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,FDas Gewinnspiel                   Q*//P
+OL,4,G                             Spu0PSj{{P
+OL,5,GRuckblickend auf die Anfange W(,PZW*//P
+OL,6,Gder ARD-Marchenreihe "Sechs  WbsP Q;w?1
+OL,7,Gauf einen Streich" dreht sichS,<$PQ5}55
+OL,8,Gdas Marchenquiz um die sechs  S5P S!75!
+OL,9,Gersten Marchen, die 2008 neu  Q0P S`5uP
+OL,10,Gverfilmt wurden.                       
+OL,11,G                                W`xP W4
+OL,12,GIm jetzigen Weihnachtsprogramm  Wmppp5
+OL,13,Gim Ersten sind drei von ihnen    WjP
+OL,14,Gzu finden. Wissen Sie, wie die   WjPWjP
+OL,15,Ganderen drei Marchen heiBen, in  QxPQxP
+OL,16,Gdenen u.a. Hannelore Hoger,   Tx|||||||
+OL,17,GChristine Neubauer, Winfried T~'0+S%/
+OL,18,GGlatzeder und Friedrich von  T}4PTkS5
+OL,19,GThun mitspielen? Nennen Sie  T7xpP T''
+OL,20,Gmindestens eines der Marchen.T500p11
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19531
+SC,0031
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FMarchenquiz ARD Text                   
+OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,FDas Gewinnspiel             W+uW`pP   
+OL,4,G                            Wpr{t~>$P  
+OL,5,GSchreiben Sie uns die Losung W)g'W`<4P
+OL,6,Gbis zum 31.Dezember 2017           Wqp
+OL,7,G                                   W+o'
+OL,8,CARD Text                       Sxt
+OL,9,CSichwort: Marchen              S5,,,,,j
+OL,10,CMarlene-Dietrich-Allee 20      S.///-
+OL,11,C14482 Potsdam                  SZw{Y
+OL,12,G                    W]T|4\  SZ{~Y
+OL,13,GOder schicken Sie   WP  So|||||?
+OL,14,Gunds eine Mail an:  W]PZj5\          
+OL,15,G                    WP  QttP    
+OL,16,FARDText(a)              Q`$V`pWpw}0P   
+OL,17,Fard-digital.deS--%PU~7$Q~7Vh4PW'ktR,,
+OL,18,P            R`<w}PS}=S(}5S(}5P  Wo99;s
+OL,19,P           Rh}/7-$V8~<W8~4R8~<0P W"o~&P
+OL,20,P           R`s=*<0T`7uQ`7tV`7u!P Q`:P  
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
+PN,19532
+SC,0032
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,FNarchenquiz: Gewinnen Sie eine DVD!    
+OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,G                               Wp0Wz'P
+OL,4,GUnter allen Zusendungeb       W(m}xwqpP
+OL,5,Gverlosen wir zehnmal je         W+;&P 
+OL,6,Geien Marchen-DVD. Mehr-   Su~t5P       
+OL,7,Gfacheinsendungen werden  Q`|0xtP       
+OL,8,Gnicht berucksichtigt.    QjzP       
+OL,9,G                          Q+?!P  Q*4P 
+OL,10,GDer Rechtsweg ist ausge-   Q"P   Q8l1P 
+OL,11,Gschlossen. Die Gewinner        Qx~}~?P 
+OL,12,Gwerden Anfang JanuarP          Q+//mdP
+OL,13,Gbekanntgegeben.        ZV`$)a,dY  Q*=
+OL,14,G               S*..P   ZV"&V1(8Y   Qg}w
+OL,15,G               R~{l0P    W|<4P    Qh/?
+OL,16,P      Q`$V`p0P R(.k/~4P   WjP     Q"6P
+OL,17,P U~7$Q~7Vh4P  R`l%ns0P  W`ntP     Q5P
+OL,18,P S}=S(}5S(}5PQh||||||||4W`iuP    Q5P
+OL,19,PV8~<W8~4R8~<P Q4|4|4|4|PWj?P    Q5P
+OL,20,PT`7uQ`7tV`7uP Q|h|h|h|hPW"owz'P   Q~%P
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,22,P                                       
+OL,23,P                                       
+OL,24,P                                       
+FL,0,0,0,0,100,100
