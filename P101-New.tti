@@ -9,10 +9,10 @@ OL,1,Q8,dR8,dV8,dW||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jV5jW]Tjjju5~{"!%~s ~k4155  
 OL,3,Qes:Res:Ves:W]T+..*%%/* /  ,' /*%/$--'  
 OL,4,W            (`& ( "(  ! !( !$ " ( !0" 1
-OL,5,CMAdvent Calendar                   P899
-OL,6,CMAdvent Calendar                   P899
+OL,5,CM2018 Xmas Advent Calendar         P899
+OL,6,CM2018 Xmas Advent Calendar         P899
 OL,7,FFSat 1st December 2018                 
-OL,8,GGFrom ARD Text                         
+OL,8,GGFrom ARDText                          
 OL,9,G                                       
 OL,10,CMKnightmare                        P896
 OL,11,CMKnightmare                        P896
@@ -21,15 +21,15 @@ OL,13,GGShown on ITV Teletext Xmas 1993.
 OL,14,GGThe game from the CITV                
 OL,15,GGchildren's adventure game show.       
 OL,16,G                                       
-OL,17,G                                       
+OL,17,CMDas Wasser des Lebens             P195
 OL,18,CMDas Wasser des Lebens             P195
-OL,19,CMDas Wasser des Lebens             P195
-OL,20,FFWed 17th October 2018                 
-OL,21,GGAnd other Fairy Tales shown on ARDText
-OL,22,GGChristmas 2017                        
+OL,19,FFWed 17th October 2018                 
+OL,20,GGAnd other Fairy Tales shown on ARDText
+OL,21,GGChristmas 2017                        
+OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AKnightmare   BWasser  CARDText  FKCET 
-FL,896,860,522,194,100,100
+OL,24, AXmas   BKnightmare  CWasser  FARDText 
+FL,899,896,860,522,100,100
 PN,10102
 SC,0002
 PS,8000
@@ -58,8 +58,8 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AKnightmare   BWasser  CARDText  FKCET 
-FL,896,860,522,194,100,100
+OL,24, AXmas   BKnightmare  CWasser  FARDText 
+FL,899,896,860,522,100,100
 PN,10103
 SC,0003
 PS,8000
@@ -88,8 +88,8 @@ OL,20,G statistics about the UK, Europe
 OL,21,G and the World. With Flags!            
 OL,22,A www.mattheweagles.co.uk               
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AKnightmare   BWasser  CARDText  FKCET 
-FL,896,860,522,194,100,100
+OL,24, AXmas   BKnightmare  CWasser  FARDText 
+FL,899,896,860,522,100,100
 PN,10104
 SC,0004
 PS,8000
@@ -118,5 +118,5 @@ OL,20,G viewed at your own risk).
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AKnightmare   BWasser  CARDText  FKCET 
-FL,896,860,522,194,100,100
+OL,24, AXmas   BKnightmare  CWasser  FARDText 
+FL,899,896,860,522,100,100
