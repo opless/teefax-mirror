@@ -270,3 +270,33 @@ OL,22,W?={~{~gw}?{}
 OL,23,W~wo{w;{?}gv~{?oww?
 OL,24,W;>sm?}{}gwo?{}*j
 FL,0,0,0,0,100,100
+PN,89910
+SC,0010
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P   W6d&4P     W0P       W!P      W"PW0P
+OL,2,P W$W"d&PW"PW"P W(PW$PW`P    W(P        
+OL,3,P          W!P   W`0P     W!P Q6d&4P    
+OL,4,W#c######,######W##"##3##&"####"d&"#"##P
+OL,5,P  W0P        W`P       Q8P             
+OL,6,P      W`P      W(P   W8#P  W!P W`P W!P 
+OL,7,P         W(P         Qi4P              
+OL,8,PW!P  W0P       Qh0P  Wcs0PW$P      Q"P 
+OL,9,P  Q`P        WpP   W|||P   W$P       
+OL,10,P        W"P WpP QxtP   W(P     
+OL,11,PW(P   W$P  QpP Q'#+P  W$P   W!P
+OL,12,P    W!P   QpQP QP QP     Q(P   
+OL,13,PQ0PW0P  Q!QPQP QP QssPQ(P Q(P    
+OL,14,P      W0P     Q//P Q//P WP           
+OL,15,P   W$P        QP QP QP    W$W`P  
+OL,16,P      W0P  W"PW"PWP WP W(P    W$P
+OL,17,PW(P     Q(P   QP QP QP   Q0P     
+OL,18,P   W6d&4P W(P WPW0tpxP Wxwmt0W$P
+OL,19,PW0PW"d&PQ0P   QP Q+'Wx}{w}tp
+OL,20,W`8ttn{{~{?~o;}~?~}{|pxd
+OL,21,W;?;>smw;{?}gv~{gww?
+OL,22,W?={{}gw}g{}
+OL,23,W;?;>smw;;{?gv~{?{ww?
+OL,24,PW={{}gwo?{}*j
+FL,0,0,0,0,100,100
