@@ -1,6 +1,6 @@
 DE,User Art Archive
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P200-User_Archive.tti
+SP,E:\_ Teefax\P200-User_Archive.tti
 CT,10,C
 PN,20000
 SC,0000
@@ -15,10 +15,10 @@ OL,6,B204FAlistair Cree
 OL,7,G205CDan Veal                           
 OL,8,B209FSimon Rawles                       
 OL,9,G220CPeter Kwan                         
-OL,10,B237FAsh Farbrother                     
-OL,11,G242CBeeblePete                         
-OL,12,G247FPaul Dunning                       
-OL,13,B269CAndy Jenkinson                     
+OL,10,B225FPJ Fagan                           
+OL,11,G242CAsh Versus                         
+OL,12,B247FPaul Dunning                       
+OL,13, 269CAndy Jenkinson                     
 OL,23,D]FHow to contribute your own artCP201  
 OL,24,A  How-To  BNext  C Events  FMore art   
 FL,201,203,800,500,0,100
