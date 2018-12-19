@@ -1,8 +1,8 @@
-DE,BeeblePete
+DE,PJ Fagan
 DS,inserter
-SP,E:\_ Teefax\P242.tti
+SP,E:\_ Teefax\P225.tti
 CT,15,T
-PN,24201
+PN,22501
 SC,0001
 PS,8000
 RE,0
@@ -11,7 +11,7 @@ OL,1,W7/?/?/7/7?/5p0p0x0p0Q]S`p`p`000000p0
 OL,2,W5%5)5)5%55)5=%}1j0}1Q]Sjnjfj0=55e%}1   
 OL,3,W###########!!       Q//-----....-/,.///
 OL,4,C                     G                 
-OL,5,G This Page:   242  Gthe teletext art  
+OL,5,G This Page:   225  Gthe teletext art  
 OL,6,C  Teletext artwork  W8,08d`,0t0((048d  
 OL,7,C  follows shortly   V)&%% ",$%** "%+-  
 OL,9,A Replicas     670  GSeeFarchiveGbelow 
@@ -19,15 +19,15 @@ OL,10,C  Re-creations of   Gfor more artists
 OL,11,C  teletext from     Gor select pg. 200 
 OL,12,C  Ceefax & others                      
 OL,13,                     F````````````````` 
-OL,14,B 26Text       442                     
-OL,15,C  Proper teletext presentation of the  
-OL,16,C  'simulated' pages atop channel26.uk  
-OL,18,E Design Info  701/720                 
+OL,14,B Channel 26   226                     
+OL,15,C  Promos for Doctor Who fan films and  
+OL,16,C  other nonsense at channel26.uk       
+OL,18,E Design Guides  701,720               
 OL,19,C  Teletext specifications useful as    
 OL,20,C  guidelines for producing designs     
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24202
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22502
 SC,0002
 PS,8000
 RE,0
@@ -53,9 +53,9 @@ OL,18,R]DX   pete   R\T###""bRZ###Yf$ 
 OL,19,R]DX   2017   R\////$,,,,,,(/$,,,,,,(///
 OL,20,Rp||||||||||||||||||||||||
 OL,22,T]GM Mobile device details follow...    
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24203
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22503
 SC,0003
 PS,8000
 RE,0
@@ -83,9 +83,9 @@ OL,20,S     5 j      *5 "+t           j
 OL,21,V^ p|jykR?/jQ58~SU5|p  
 OL,22,V|^yx{}}R~~~Q}SUwtv|
 OL,23,T]Bbeeblepete                     2017  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24204
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22504
 SC,0004
 PS,8000
 RE,0
@@ -112,9 +112,9 @@ OL,19,V^Z}Y~.??|   GSource: The
 OL,20,V^ZoY~>/# Zo/!   GBallad Index     
 OL,21,V^Z"?#                                  
 OL,23,T]Fbeeblepete                     2017  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24205
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22505
 SC,0005
 PS,8000
 RE,0
@@ -139,9 +139,9 @@ OL,19,^TWgff& (  j   5  ,  j   5  $ )99S
 OL,20,^TW9yqpprppzpppuppspppzpppuppqpprvS  
 OL,21,W |R j j j jW"o?!R5 5 5 5 W|  
 OL,23,D  beeblepete                     2017  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24206
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22506
 SC,0006
 PS,8000
 RE,0
@@ -166,9 +166,9 @@ OL,19,F1987G 768 rows  FIBM Personal System/2
 OL,20,F1996G1080 rows  FWRAL-TV Raleigh       
 OL,21,F2014G2160 rows  FDirecTV / Samsung     
 OL,23,Dbeeblepete                        2016 
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24207
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22507
 SC,0007
 PS,8000
 RE,0
@@ -196,9 +196,9 @@ OL,20,S|||||||||||||||||||||||||||||||||
 OL,21,Swzqwzqwz
 OL,22,S
 OL,23,D  beeblepete                     2017  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24208
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22508
 SC,0008
 PS,8000
 RE,0
@@ -225,9 +225,9 @@ OL,20,U       jV0w:j5ou `5s{0 :
 OL,21,R        V}px5j?gs~/'#     
 OL,22,R       jV5?*sy~?#######;!        
 OL,23,U]Cbeeblepete                     2017  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24209
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22509
 SC,0009
 PS,8000
 RE,0
@@ -253,9 +253,9 @@ OL,20,TS]Q5555\W]Q55j\W]Q5555\ W]Q555j\T
 OL,21,TS]Q5555\W]Q55j\W]Q5555\ W]Q555j\T 
 OL,22,T]                                     \
 OL,23,T]Fimgur.com/02AjjML Xbeeblepete 2017 T\
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24210
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22510
 SC,0010
 PS,8000
 RE,0
@@ -282,9 +282,9 @@ OL,20,W `j    jRZ|||YW5   Z50
 OL,21,W  j ppp&RZ"#################!YW)pppZ5  
 OL,22,W0 `&R   7#####################k   W)1 `
 OL,23,D  beeblepete                     2018  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24211
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22511
 SC,0011
 PS,8000
 RE,0
@@ -312,9 +312,9 @@ OL,20,W]
 OL,21,W]A          nineworlds.co.uk           
 OL,22,W]                                      
 OL,23,A  beeblepete                     2017  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24212
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22512
 SC,0012
 PS,8000
 RE,0
@@ -339,9 +339,9 @@ OL,19,         Q     ###########
 OL,20,        A system so inspirational       
 OL,21,      it doesn't have a down arrow.     
 OL,23,D  beeblepete                     2016  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24213
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22513
 SC,0013
 PS,8000
 RE,0
@@ -369,9 +369,9 @@ OL,20,T]Cwith a      ^WZSYW5 Z# S`
 OL,21,T]CBeebleBeer!  ^WZ##/Y/////'#! ZS      
 OL,22,T]                                      
 OL,23,D  beeblepete                     2016  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24214
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22514
 SC,0014
 PS,8000
 RE,0
@@ -392,9 +392,9 @@ OL,17,Q     j            j         j    :
 OL,18,Q     j            j         j    5     
 OL,21,F           'UNDER THE DUVET'           
 OL,23,D  beeblepete 2016        ((( brrr )))  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
-PN,24215
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22515
 SC,0015
 PS,8000
 RE,0
@@ -418,5 +418,5 @@ OL,18,T     "4  `0 5        5      5    j
 OL,19,T      5(#!  i       j      j     j     
 OL,21,F                                       
 OL,23,D  beeblepete 2016           _nitenite  
-OL,24,A  Index   BBeefax   CTeefax  FArchive  
-FL,200,442,100,200,0,100
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
