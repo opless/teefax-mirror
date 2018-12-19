@@ -11,18 +11,18 @@ OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0
 OL,2,Q 5|jR5|jT5|j ]S   j =%5=%j =%91j       
 OL,3,Q 5/jR5/jT5/j ]S   " #!!#!"!#!!!"!      
 OL,4,Q ###R###T###G     Specifications       
-OL,5,C FRAME WIDTH                           
-OL,7, Ceefax-style, Level One      480px     
-OL,8, teletext holds forty 12px   T|||||     
-OL,9, wide letters or graphic    ZS|l8tl G500
-OL,10, mosaics per row. This adds ZV<tlxl Gpx 
-OL,11, up to a total width of 480 ZR|ptd|     
-OL,12, pixels before decoding.                
-OL,14,FDecoders in many tube TVs   G576px     
-OL,15,Fdrew these pixels at 1.22   T||||||    
-OL,16,Ftimes their height. Modern ZS|<t<tlG500
-OL,17,Fdisplays round this to 1.2,ZV<|8|xlGpx 
-OL,18,Fyielding pages 576px wide. ZR|txtlx    
+OL,5,C PAGE WIDTH                           
+OL,7, Ceefax-style, 'level one'    480px     
+OL,8, teletext has 40 12px-wide   T|||||     
+OL,9, letters or graphic mosaics ZS|l8tl G500
+OL,10, per row, totalling a width ZV<tlxl Gpx 
+OL,11, of 480px before decoding.  ZR|ptd|     
+OL,13,FAt the standard width, the             
+OL,14,Fdecoded pixels are drawn    G576px     
+OL,15,Fat 1.2 times their height,  T||||||    
+OL,16,Fyielding pages 576px wide.  S|<t<tlG500
+OL,17,FOld TV tubes differed very ZV<|8|xlGpx 
+OL,18,Fslightly, drawing at 1.22. ZR|txtlx    
 OL,20,BSources:     Peter Kwan, Alistair Cree,
 OL,21,BSimon Rawles, Euro Telecom Std 300-706 
 OL,23,Dbeeblepete                        2016 
@@ -37,7 +37,7 @@ OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0
 OL,2,Q 5|jR5|jT5|j ]S   j =%5=%j =%91j       
 OL,3,Q 5/jR5/jT5/j ]S   " #!!#!"!#!!!"!      
 OL,4,Q ###R###T###G     Specifications       
-OL,5, CFRAME ASPECT                          
+OL,5, CPAGE SHAPE                          
 OL,6,                           T]R      \
 OL,7,GWith the inserter header  T]R     ~'\
 OL,8,Gand footer of fastext     T]R  ( ~ ~\
