@@ -1,6 +1,6 @@
 DE,Teletext Specifications
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P710-Specs.tti
+SP,E:\_ Teefax\P710-Specs.tti
 CT,20,C
 PN,71001
 SC,0001
@@ -11,7 +11,7 @@ OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0
 OL,2,Q 5|jR5|jT5|j ]S   j =%5=%j =%91j       
 OL,3,Q 5/jR5/jT5/j ]S   " #!!#!"!#!!!"!      
 OL,4,Q ###R###T###G     Specifications       
-OL,5,C PAGE WIDTH                           
+OL,5,C PAGE SHAPED1/2                        
 OL,7, Ceefax-style, 'level one'    480px     
 OL,8, teletext has 40 12px-wide   T|||||     
 OL,9, letters or graphic mosaics ZS|l8tl G500
@@ -25,7 +25,7 @@ OL,17,FOld TV tubes differed very ZV<|8|xlGpx
 OL,18,Fslightly, drawing at 1.22. ZR|txtlx    
 OL,20,BSources:     Peter Kwan, Alistair Cree,
 OL,21,BSimon Rawles, Euro Telecom Std 300-706 
-OL,23,Dbeeblepete                        2016 
+OL,23,Dbeeblepete                       2016  
 OL,24,A Index B Selfie C VBIT-Pi F Test Cards 
 FL,700,782,785,790,0,100
 PN,71002
@@ -37,24 +37,24 @@ OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0
 OL,2,Q 5|jR5|jT5|j ]S   j =%5=%j =%91j       
 OL,3,Q 5/jR5/jT5/j ]S   " #!!#!"!#!!!"!      
 OL,4,Q ###R###T###G     Specifications       
-OL,5, CPAGE SHAPE                          
-OL,6,                           T]R      \
-OL,7,GWith the inserter header  T]R     ~'\
-OL,8,Gand footer of fastext     T]R  ( ~ ~\
-OL,9,Glinks included, a frame   T]R  2 o%#\
-OL,10,Gof teletext is 25 rows of T]R   hb' j\
-OL,11,G12px by 20px character    T]Rh5k4j|x|\
-OL,12,Gcells. The total content  T]R" 'a\
-OL,13,Gsize is 480x500px before  T]R  n\
-OL,14,Gbeing widened by a tele-  T]R pp/+7o\
-OL,15,Gtext decoder for viewing. T]R 7 4+4o\
-OL,16,G                          T]R +#   " "\
-OL,17,FPages are widened to 576  T]S `8,d0   \
-OL,18,Fpixels so familiar shapes T]S`%   *0  \
-OL,19,Fare drawn to make allow-  T]Sj     5  \
-OL,20,Fances for their px being  T]S"4   h!  \
-OL,21,Fmade 1.2 times wider.     T]S "),&!   \
-OL,22,                           T]          \
-OL,23,Dbeeblepete                        2016 
+OL,5, CPAGE SHAPED2/2                        
+OL,6,                          T]R      \ 
+OL,7, Teletext page content is T]R     ~'\ 
+OL,8, widened for display in   T]R  ( ~ ~\ 
+OL,9, editor apps and TV deco- T]R  2 o%#\ 
+OL,10, ders so artists rarely   T]R   hb' j\ 
+OL,11, need to account for the  T]Rh5k4j|x|\ 
+OL,12, stretching when drawing  T]R" 'a\ 
+OL,13, familiar shapes.         T]R  n\ 
+OL,14,                          T]R pp/+7o\ 
+OL,15,FMost teletext emerges    T]R 7 4+4o\ 
+OL,16,Ffrom decoders 500px high T]R +#   " "\ 
+OL,17,Fwith the first and last  T]S `8,d0   \ 
+OL,18,F20px of height taken up  T]S`%   *0  \ 
+OL,19,Fby the page header and,  T]Sj     5  \ 
+OL,20,Fsometimes at the bottom, T]S"4   h!  \ 
+OL,21,AfourBfastextCpageFlinks. T]S "),&!   \ 
+OL,22,                          T]          \ 
+OL,23,Dbeeblepete                       2016  
 OL,24,A Index B Selfie C VBIT-Pi F Test Cards 
 FL,700,782,785,790,0,100
