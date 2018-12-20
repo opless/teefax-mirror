@@ -11,21 +11,23 @@ OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0
 OL,2,Q 5|jR5|jT5|j ]S   j =%5=%j =%91j       
 OL,3,Q 5/jR5/jT5/j ]S   " #!!#!"!#!!!"!      
 OL,4,Q ###R###T###G     Specifications       
-OL,5,C PAGE SHAPED1/2                        
-OL,7, Ceefax-style, 'level one'    480px     
-OL,8, teletext has 40 12px-wide   T|||||     
-OL,9, letters or graphic mosaics ZS|l8tl G500
-OL,10, per row, totalling a width ZV<tlxl Gpx 
-OL,11, of 480px before decoding.  ZR|ptd|     
-OL,13,FAt the standard width, the             
-OL,14,Fdecoded pixels are drawn    G576px     
-OL,15,Fat 1.2 times their height,  T||||||    
-OL,16,Fyielding pages 576px wide. ZS|<t<tlG500
-OL,17,FOld TV tubes differed very ZV<|8|xlGpx 
-OL,18,Fslightly, drawing at 1.22. ZR|txtlx    
+OL,5,C PAGE SHAPED1/3                        
+OL,6,                              480px     
+OL,7, Ceefax-style, 'level one'  Th|||||4    
+OL,8, teletext has 40 12px-wide ZSh8tl8<4G480
+OL,9, letters or graphic mosaicsZWh<tlxd4Gpx 
+OL,10, per row which total 480px ZVhl8tt<4    
+OL,11, wide before being decoded ZQ(R$S$V$    
+OL,12, to standard width.                     
+OL,13,F                           G 576px     
+OL,14,FDecoded, pixels are drawn  T|||||||    
+OL,15,Fat 1.2 times their height,ZS|8lpt<|G480
+OL,16,Fyielding pages 576px wide.ZW|<t<xd|Gpx 
+OL,17,FOld televisions differed  ZV|,t,xxl    
+OL,18,Fslightly, drawing at 1.22.ZQ,R,S,V,    
 OL,20,BSources:     Peter Kwan, Alistair Cree,
 OL,21,BSimon Rawles, Euro Telecom Std 300-706 
-OL,23,Dbeeblepete                       2016  
+OL,23,Dbeeblepete                        2016 
 OL,24,A Index B Selfie C VBIT-Pi F Test Cards 
 FL,700,782,785,790,0,100
 PN,71002
@@ -37,24 +39,52 @@ OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0
 OL,2,Q 5|jR5|jT5|j ]S   j =%5=%j =%91j       
 OL,3,Q 5/jR5/jT5/j ]S   " #!!#!"!#!!!"!      
 OL,4,Q ###R###T###G     Specifications       
-OL,5, CPAGE SHAPED2/2                        
-OL,6,                          T]R      \ 
-OL,7, Teletext page content is T]R     ~'\ 
-OL,8, widened for display in   T]R  ( ~ ~\ 
-OL,9, editor apps and TV deco- T]R  2 o%#\ 
-OL,10, ders so artists rarely   T]R   hb' j\ 
-OL,11, need to account for the  T]Rh5k4j|x|\ 
-OL,12, stretching when drawing  T]R" 'a\ 
-OL,13, familiar shapes.         T]R  n\ 
-OL,14,                          T]R pp/+7o\ 
-OL,15,FMost teletext emerges    T]R 7 4+4o\ 
-OL,16,Ffrom decoders 500px high T]R +#   " "\ 
-OL,17,Fwith the first and last  T]S `8,d0   \ 
-OL,18,F20px of height taken up  T]S`%   *0  \ 
-OL,19,Fby the page header and,  T]Sj     5  \ 
-OL,20,Fsometimes at the bottom, T]S"4   h!  \ 
-OL,21,AfourBfastextCpageFlinks. T]S "),&!   \ 
-OL,22,                          T]          \ 
-OL,23,Dbeeblepete                       2016  
+OL,5, CPAGE SHAPED2/3                        
+OL,6,                           T]R     j?k\
+OL,7, Because screen pixels are T]R    h!~\
+OL,8, widened when displayed in T]R  $huh\
+OL,9, teletext editor programs  T]R `!j??"a\
+OL,10, and on TV, artists can    T]R j5 4;! {\
+OL,11, usually expect familiar   T]R~"} }|t~\
+OL,12, shapes to be rendered     T]R!*#z\
+OL,13, properly sans adjustments.T]R (\
+OL,14,                           T]R`pz?'o+\
+OL,15,FTeletext mosaic graphics  T]Rj!h"m*\
+OL,16,Fhave an irregular cadence T]R"'!   ! !\
+OL,17,Fso the size and position  T]S `8,d0   \
+OL,18,Fof objects like circles   T]S`% p *0  \
+OL,19,Fmust be gauged to ensure  T]Sj j 5 5  \
+OL,20,Fthey are symmetrical both T]S"4 # h!  \
+OL,21,Fvertically & horizontally.T]S "),&!   \
+OL,22,                           T]          \
+OL,23,Dbeeblepete                        2016 
+OL,24,A Index B Selfie C VBIT-Pi F Test Cards 
+FL,700,782,785,790,0,100
+PN,71003
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0      
+OL,2,Q 5|jR5|jT5|j ]S   j =%5=%j =%91j       
+OL,3,Q 5/jR5/jT5/j ]S   " #!!#!"!#!!!"!      
+OL,4,Q ###R###T###G     Specifications       
+OL,5,C PAGE SHAPED3/3                        
+OL,6,                           G 576px      
+OL,7, Teletext decoders usuallyZWp0p`Spp     
+OL,8, produce pages 500px high  T|||||||     
+OL,9, which include a header,  ZS|8lpt<|G 500
+OL,10, akaFinserter line,Gabove ZW|<t<xd|G px 
+OL,11, the main page content andZV|,t,xxl     
+OL,12,AtheBfourC'fastext'Flinks.ZQ,R,S,V,     
+OL,14,                             680px      
+OL,15,FWidescreen televisions  ZWp0`p0pSpp    
+OL,16,Foften stretch teletext   T|||||||||    
+OL,17,Fbeyond standard width toZS|p,|pt <|G520
+OL,18,Ffill space. Sometimes, aZW|< t<x d|Gpx 
+OL,19,Ffooter ofGsubpageAnavi- ZV|, t,x xl    
+OL,20,AgationGlinksFis added.  ZQ,,R,S,,V,    
+OL,21,                 Z        W#Q#W#W#      
+OL,23,Dbeeblepete                        2016 
 OL,24,A Index B Selfie C VBIT-Pi F Test Cards 
 FL,700,782,785,790,0,100
