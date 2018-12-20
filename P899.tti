@@ -570,3 +570,33 @@ OL,22,W?={~{~gw}?{}
 OL,23,W;?;>smw;;{?gv~{?{ww?
 OL,24,PW={{}gwo?{}*j
 FL,0,0,0,0,100,100
+PN,89920
+SC,0020
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,PW$P W0PW`PW0P       W`P     W`P   W`P  
+OL,2,W!W`P W$PW"PQ`P    W$P   W!6d&4W!PW$P   
+OL,3,P               W6d&4P    W"d&P    Q6d&4
+OL,4,W####6d&4W##&####"d&"##)##W####"#W"#"d&"
+OL,5,P   Q"d&P  W0P          Q"P   W6d&4P    
+OL,6,W(P          W(P   W0PW$P  W(PW"d&PW!W`P
+OL,7,P  W0(P  W$P  Q$W0P       W$P W"P       
+OL,8,PW!P  W`P      W0P W(P W!P      W$P W"P 
+OL,9,P  Q0P   Q`||0P  Q(P     Q!PQ$P   Q$P  
+OL,10,P    W`PWxtPW0P W(PW"P     W"P     
+OL,11,PW(P    Q###P  Q$P Q0PQ(P Q"P Q0PQ!P
+OL,12,P  Q0W!PQ}P WpP  W0P  W$P W(PW$PW`P  
+OL,13,PW0P    W+P QW)pP  W`pppprp~t0P     
+OL,14,P    Q"P    Q|P W)0QxtP  Q$
+OL,15,P W"W$W"P Qp/!W!PWiQ'#######+W`P  
+OL,16,P     W0PQ|#P W`W!W)P W6d&4PQP W$P
+OL,17,PW(P    Q|/P Q$P  Q0Q0PW"d&PQ`Wx}t
+OL,18,P   Q!P WpppppW0P  QWoxwv
+OL,19,PW!`WxwtQoWx~mQ"///////////!W}{{
+OL,20,W`8t~n{{~{?~o;{}~?~o}{?~<z9
+OL,21,W;?;>smw;{?}gwv~{?{o}w{w?
+OL,22,W?={~w{}gw~{?}{}
+OL,23,Wxwmsmw;{?}gv~{?oww?
+OL,24,W}x}{}gwo?{}*j
+FL,0,0,0,0,100,100
