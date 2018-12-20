@@ -20,7 +20,7 @@ OL,11, of 480px before decoding.  ZR|ptd|
 OL,13,FAt the standard width, the             
 OL,14,Fdecoded pixels are drawn    G576px     
 OL,15,Fat 1.2 times their height,  T||||||    
-OL,16,Fyielding pages 576px wide.  S|<t<tlG500
+OL,16,Fyielding pages 576px wide. ZS|<t<tlG500
 OL,17,FOld TV tubes differed very ZV<|8|xlGpx 
 OL,18,Fslightly, drawing at 1.22. ZR|txtlx    
 OL,20,BSources:     Peter Kwan, Alistair Cree,
