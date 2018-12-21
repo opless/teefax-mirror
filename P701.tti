@@ -1,6 +1,6 @@
 DE,Using Teletext
 DS,inserter
-SP,V:\_ Teefax\P701.tti
+SP,E:\_ Teefax\P701.tti
 CT,30,T
 PN,70101
 SC,0001
@@ -14,7 +14,7 @@ OL,4,FWhen you first press the QRTR
 OL,5,BteletextFbutton on a TV  Q88888888888  
 OL,6,Fremote control, you're   V,,,,,,,,,,,  
 OL,7,Fpresented with anBindex  R&&&&&V&&&&&  
-OL,8,Fpage, numbered 100. Tele-Q&&&&&S&&&&&  
+OL,8,Bpage,Fnumbered 100. Tele-Q&&&&&S&&&&&  
 OL,9,Ftext services like this  V///////////  
 OL,10,Fhave 8 sets of 100 pages,Q!#R#"S!#V#"  
 OL,11,Feach called aBmagazine.                
@@ -42,18 +42,18 @@ OL,5,Fcharacters by 25 rows,   T/*%/*//////
 OL,6,Fwhich are numbered 0 to  T&&&&&&&&&&&  
 OL,7,F24. Row 0 is called the  T&&&&& &&&&&  
 OL,8,Binserter line.FIt begins T&&&&& &&&&&  
-OL,9,Fwith a readout of page   T///////////  
-OL,10,Fnumbers chosen on the    Q!#R#"S!#V#"  
-OL,11,Fremote control. Next is  W!" !"Q!      
-OL,12,Fthe teletext service name, eg.BTEEFAX  
-OL,13,Fand an optional channel number. Then   
-OL,14,Fthe current page number, date & time.  
+OL,9,Fwith a live readout of   T///////////  
+OL,10,Fthe page number selected Q!#R#"S!#V#"  
+OL,11,Fon the remote control.   W!" !"Q!      
+OL,12,FNext is usually the teletext service   
+OL,13,Fname and then the current page number. 
+OL,14,FLastly come the current date and time. 
 OL,15,F                                       
 OL,16,BFastextFlinks to other pages are some- 
-OL,17,Ftimes on line 24. To use them, press   
-OL,18,Fthe buttons matching the text colours. 
-OL,20,FOn newer television sets, anBindexFof  
-OL,21,Fpages in the current carousel may be   
+OL,17,Ftimes on line 24. They're colour-coded 
+OL,18,Fto match buttons on the remote control.
+OL,20,FOn newer TVs, an index of subpages in  
+OL,21,Fthe current arousel may be displayed   
 OL,22,Fdisplayed below the fastext links.     
 OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
 FL,700,710,785,790,8ff,100
