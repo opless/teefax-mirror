@@ -1,27 +1,27 @@
 DE,edit-tf
 DS,inserter
-SP,E:\teletext\P533-snowman-valentine.tti
+SP,E:\teletext\P533-snowman-xmas.tti
 CT,8,T
 PN,53300
 SC,0000
 PS,8040
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,3,   BMIHAPPY VALENTINE'S DAY             
+OL,3,   BMIMERRY CHRISTMAS!                  
 OL,5,     Ffrom the Pessimistic Snowman      
 OL,10,Q                 pp                    
 OL,11,Q            `p<.#!j0W          G       
-OL,12,Q         <,'#G i  QuWT         G       
-OL,13,Q         mG  hate Qj0T ~}    G       
-OL,14,Q         *4G you   Q5TppW  G       
+OL,12,Q         <,'#Gthe QuWT         G       
+OL,13,Q         mGend  isQj0T ~}    G       
+OL,14,Q         *4G nigh  Q5TppW  G       
 OL,15,Q          mG  Q`p<.#!W~?o}W  G       
 OL,16,Q          jp<.#kL W  W;G  G       
-OL,17,Q               "5L   W|Q  0       
+OL,17,Q               "5L   W|Q  8       
 OL,18,Q                kQ 4 Wb1GQ8!       
 OL,19,Q                "5p:lWoQxmG       
 OL,20,Q                 k ^#W^Q#          
 OL,21,Q                 "5  W~G  G       
 OL,22,Q                  k  Wo{?G  G       
 OL,23,Wxp|px|x~||p|x}|~}||}p||xpx|px
-OL,24,ALabyrinth   BGallery  CWeather   FIndex
-FL,536,532,531,100,0,530
+OL,24,ALabyrinth B  Gallery  CWeather   FIndex
+FL,536,532,531,530,0,100
