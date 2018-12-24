@@ -690,3 +690,33 @@ OL,22,W+={{~w{}?gw~{?}{}
 OL,23,W/?;>smw;{?}gv~{?oww?
 OL,24,W={yx}/}{}gwo?{}*j
 FL,0,0,0,0,100,100
+PN,89924
+SC,0024
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P     W0P  Q$P   W6d&4P              W`P
+OL,2,W!P  W$P     W$P W"d&W!P   W"PQ`P W$P   
+OL,3,P W!P     W$Q6d&4P      W6d&4W0P   W6d&4
+OL,4,Q##6d&4#W6d&4"d&W##&##!#!"d&W#"###PQ"d&P
+OL,5,P Q"d&P W"d&P   W$P   Q!P W6d&4P        
+OL,6,P     W"P   W$P   W(P  W0PW"d&W6d&4PQ$P 
+OL,7,P      Q0P      Q`P           Q"d&P     
+OL,8,PW!PQ!P  Q~P Q(P     Q`PQ(P    Q0PQ6d&4P
+OL,9,P      W`||0P   W0PQ`~P     W0P  W"d&P 
+OL,10,P   W$WxtP    WxP        W"P     
+OL,11,PQ(P  Q###Q(PW`~P  Q!P       Q6d&
+OL,12,P     QwP QP Qxo'P     Q(P    Q"d&
+OL,13,PW0W"PQ+P QQ`~?!QW$PW!P  W`PW$PW$P
+OL,14,P        Q`~x'P Wppp&#d8P      W6d
+OL,15,P Q!Q$P Qx?!P    Q"d&PQ"Q"d
+OL,16,P      Q~'PQ#########P Q05Q$P
+OL,17,PW(PW`Q~?!P  Q$P   QPQ`P Q|46d&4|4P  
+OL,18,P     QpppppP W!P QP    Q5"d&Q5`P 
+OL,19,W6d&4PQP  Q"QxtP Q!Q5W(x
+OL,20,Q"d&Wn{{~{?~o{;ww?~?{o|ag
+OL,21,W;?;>smw;{?}gowv~{?}o}ww?
+OL,22,Wc={ow{{{gww{?}{}
+OL,23,W;?;>smw;{?}gv~{?oww?
+OL,24,W){)/(}{}gwo?{}*j
+FL,0,0,0,0,100,100
