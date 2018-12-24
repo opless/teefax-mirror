@@ -376,6 +376,36 @@ SC,0014
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T/////////////////j?     S`p0           
+OL,2,T///////////////%ss1   Sp,{xv$y0   ADOC 
+OL,3,T55|||||||||||||45  Sz9f|>/!n}   ATOR 
+OL,4,T557scccccccck55S :9v'Wx|tSo5  CWHO 
+OL,5,T5^]\W||h|4|T(j5_5Sh9:W~}So  D_13 
+OL,6,T5^]\Wj5Tbj5_5S>6W~gcgcdS}C     
+OL,7,T5^]\Wj5T(j5_5S6dWkjS?      
+OL,8,T5^]\W||h|4|Tbj5_5S8eWuoofS7      
+OL,9,T5^]\Wj5T(j5_5SueWj?//%S}      
+OL,10,T5^]\Wj5Tbj5_5S99mW+o'S>!      
+OL,11,T555-,,,,,,,,j55  S  W csx~S        
+OL,12,T5555  `p0W8{}tT`0    
+OL,13,T555pppppppp0j5/q8n?Wpff/Ts/lt0
+OL,14,T5555j5egy>yWz}}67|/T6}6
+OL,15,T5555j52&/)/%W#+o/#T  /*'.'
+OL,16,T555^5j5Vtj5          V 5~}
+OL,17,T5591^5j5V?u           jj
+OL,18,T555^5j5V5S||||||||||V5
+OL,19,T55w5^5j5V5Q##########V5
+OL,20,T555ussss^sssqz5VjS//////////Ve
+OL,21,T555?////^////o5V:          `j
+OL,22,T55w5||||^|||4j5V55         j7~
+OL,23,Q]Gbeeblepete                     2018  
+OL,24,A  Index   BPromos   CTeefax  FArchive  
+FL,200,226,100,200,0,100
+PN,22515
+SC,0015
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]W   |,h<4|h<<4|lh<4 | h4|llh<4|l      
 OL,2,Q]R   pj74j555yju5 pj5jjjw4z      
 OL,3,Q/////,,-..,-...,,-,./,,-.,---,.,,//////
@@ -391,11 +421,11 @@ OL,16,Q     j            `%        4    j
 OL,17,Q     j            j         j    :     
 OL,18,Q     j            j         j    5     
 OL,21,F           'UNDER THE DUVET'           
-OL,23,D  beeblepete 2016        ((( brrr )))  
+OL,23,D  beeblepete 2018        ((( brrr )))  
 OL,24,A  Index   BPromos   CTeefax  FArchive  
 FL,200,226,100,200,0,100
-PN,22515
-SC,0015
+PN,22516
+SC,0016
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -417,6 +447,6 @@ OL,17,T     j   "! 5        5      5    j
 OL,18,T     "4  `0 5        5      5    j     
 OL,19,T      5(#!  i       j      j     j     
 OL,21,F                                       
-OL,23,D  beeblepete 2016           _nitenite  
+OL,23,D  beeblepete 2018           _nitenite  
 OL,24,A  Index   BPromos   CTeefax  FArchive  
 FL,200,226,100,200,0,100
