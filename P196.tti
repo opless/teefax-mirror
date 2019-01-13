@@ -1,92 +1,30 @@
-DS,inserter
-CT,20,T
-PN,19601
-SC,0001
+PN,19600
+SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,V   S ||t   `0                          
-OL,2,V   S   p0ju0 ^,QSQSQSQSQSQSQSQSQSQSSl
-OL,3,S7### |'j5j5                        j
-OL,4,S5      j5j5                       Qj
-OL,5,Q5   S#   #! #!                       Sj
-OL,6,S5                                    Qj
-OL,7,Q5CPOBBis the mischievous hobgoblin   Sj
-OL,8,S5Bwho lives inside your TV set, and  Qj
-OL,9,Q5Bthis Sunday at 2.00pm you'll be    Sj
-OL,10,S5Bable to catch him when he appears  Qj
-OL,11,Q5Bin his very own programme.         Sj
-OL,12,S5B                                   Qj
-OL,13,Q5BThis week actor Bernard Hepton     Sj
-OL,14,S5Bwill be paying Pob a visit, and    Qj
-OL,15,Q5Bhe'd better be quick with his      Sf
-OL,16,S5Bpresent as Pob has birthdays on    Qj
-OL,17,Q5Bhis mind!                          Sj
-OL,18,S5B                                   Qj
-OL,19,Q5BMaxi Dog will also be there, and   Sj
-OL,20,S5BOscar Grillo will be making the    Qj
-OL,21,Q5Bfirst of his magic pictures.       Sj
-OL,22,S5B                                   Qj
-OL,23,Qup^SQSQSQSQSQSQSQSQSQSQSQSQSQSQSQSQSQSz
-OL,24,                                        
-FL,0,0,0,0,100,100
-PN,19602
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,  W       USp   8|~}t|pp                
-OL,2,  W        S#9l>g|%Wp||0    p|t0       
-OL,3,  W       US~%p|}#W?/-   ~?yvo}      
-OL,4,  W      US<i'W|?h<,d z7~}     
-OL,5,  W      S~u~#W~/5n5XWuc     
-OL,6,  W     Sj?'?W' n2o|~g.o     
-OL,7,  W     S#{Wh5  vfx|||||so//!     
-OL,8,  W     S'W//o} `?}4       
-OL,9,  W     SjWx/ouou  x4      
-OL,10,S       S*5W(Wf/      
-OL,11,  W         `x?`~?/o      
-OL,12,  W    x||$   `#   /      
-OL,13,  W   ~|     0Q&W k7      
-OL,14,  W  *5        z?!      
-OL,15,  W   upx4 f}px~/S|p     
-OL,16,  W   "o?   +' S+}0   
-OL,17,      W #/#     "//a~'Q^St  
-OL,18,  W               "//sz'Q|^S |
-OL,19,^S k5          S `pW##  .#SxQ_?S
-OL,20,S  z5k5k5   ^S  z|QSQ_'S
-OL,21,S S  z5z5   ^S *7 o^QSQ' ^S
-OL,22,S              ^S Q+5 SQS_'Q
-OL,23,SCCOMPETITION FOLLOWS^SoQS ^Q
-OL,24,                                        
-FL,0,0,0,0,100,100
-PN,19603
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,V   S ||t   `0                          
-OL,2,V   S   p0ju0 ^,QSQSQSQSQSQSQSQSQSQSSl
-OL,3,S7### |'j5j5                        j
-OL,4,S5      j5j5  PRIZE COMPETITION    Qj
-OL,5,Q5   S#   #! #!                       Sj
-OL,6,S5BWould you like to win a copy of    Qj
-OL,7,Q5BPob's book - Pob's Playtime, as    Sj
-OL,8,S5Bwell as a super Kids On 4 T-Shirt_ Qj
-OL,9,Q5B                                   Sj
-OL,10,S5BWell, all you have to do is watch  Qj
-OL,11,Q5Bthe programme on Sunday at 2pm and Sj
-OL,12,S5Banswer this simple question:       Qj
-OL,13,Q5                                    Sj
-OL,14,S5CIS POB'S SWEATER STRIPED OR        Qj
-OL,15,Q5CCHECKED?                           Sf
-OL,16,S5                                    Qj
-OL,17,Q5BWhen you think you know the answer Sj
-OL,18,S5Bsend it on a postcard to:          Qj
-OL,19,Q5   CKids on 4 Pob Competition       Sj
-OL,20,S5   C4-Tel Teletext/Channel 4        Qj
-OL,21,Q5B  C60 Charlotte St, London WIP 2AX Sj
-OL,22,S5BDon't forget to state your T-shirt Qj
-OL,23,QuBsize (26" 28" 30").Q#^pSQSQSQSQSQSQSz
+OL,1,    W                                   
+OL,2,TM]GAN INVITATION TO VIEW... \          
+OL,3,TM]GAN INVITATION TO VIEW    \          
+OL,4,WR||||||||||||||||||||||||              
+OL,5,WRWppppppppppppppppppppR              
+OL,6,WRW////R              
+OL,7,WRW?!    "oR              
+OL,8,WRW!Z p  Y kR              
+OL,9,WRW5 Zn?- Y  R              
+OL,10,WRW  Z | 0Y  nR              
+OL,11,WRW?  Z*/5Y  *R              
+OL,12,WRW5  Z .o5Y  "oR              
+OL,13,WRW%  Zh~? Y   *R              
+OL,14,WRW?      0 Y    #/R              
+OL,15,MRW5     `1D]      GThe 4-Tel        
+OL,16,MRW%    <r!D]      GThe 4-Tel        
+OL,17,WRW5    `>'YD ]V7s1ws55 j  wsjs;jpz  \
+OL,18,WRW?   lt    D ]V-,%% %-,*,$-,* * *   \
+OL,19,WRW5  `7    D]FGof Teletextual Art    
+OL,20,WRWu pz!    D]FF- Admission Free -    
+OL,21,WRW7*}x0     0`~}|R              
+OL,22,WRW-,,,,,,,,.//////////RGTour starts  
+OL,23,WR||||||||||||||||||||||Gin a momentF>
 OL,24,                                        
 FL,0,0,0,0,100,100
