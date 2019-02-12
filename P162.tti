@@ -36,11 +36,11 @@ PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q]T                                     
-OL,2,W]T   s!j5{53jw?jw?j7j55j5        
-OL,3,Q]T   ,.%/.%/  /,*%/*-/*-/*--/*-,       
-OL,4,W]T           j     5 5              
-OL,5,Q]T           jppp  5 5              
-OL,6,W]T           *////  /% /%              
+OL,2,W]T    s1j5{53jw?jw?j7j55j5       
+OL,3,Q]T    ,.%/.%/  /,*%/*-/*-/*--/*-,      
+OL,4,W]T           h|     |4 |4 |4           
+OL,5,Q]T           j     5 5 5           
+OL,6,W]T           *////  /% /% /%           
 OL,7,G                                       
 OL,8,FM         New England Patriots         
 OL,9,FM         New England Patriots         
@@ -48,15 +48,15 @@ OL,10,G                  (AFC)
 OL,11,G                                       
 OL,12,A                   vs                  
 OL,13,G                                       
-OL,14,BM          Philadelphia Eagles         
-OL,15,BM          Philadelphia Eagles         
+OL,14,BM           Los Angeles Rams           
+OL,15,BM           Los Angeles Rams           
 OL,16,G                  (NFC)                
 OL,17,G                                       
-OL,18,A     US Bank Stadium, Minneapolis MN   
+OL,18,A Mercedes-Benz Stadium, Atlanta Georgia
 OL,19,A              3:30 PM (PST)            
-OL,20,A           Sunday, February 4          
+OL,20,A           Sunday, February 3          
 OL,21,G                                       
-OL,22,GH   Halftime show: Justin Timberlake   
+OL,22,GH        Halftime show: Maroon 5       
 OL,23,                                        
 OL,24, AIndex    BNews    CMovies    FWeather 
 FL,160,161,163,165,100,100
