@@ -7,7 +7,7 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXGOPFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,D       / / / /  /  /  /  /  /  /  /G1/5
+OL,1,D       / / / /  /  /  /  /  /  /  /G1/7
 OL,2,W x|t x|0      ht  x4x|th4 h4|h||4`||4  
 OL,3,V op?h7"} 8,$  j?4ho5 *u z%jup0up   
 OL,4,U #*u`? ),0  j5o?j5  j|5 j7#! "k4  
@@ -36,7 +36,7 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,D/ / / / / / / / / / / / / / / / / /G2/5
+OL,1,D/ / / / / / / / / / / / / / / / / /G2/7
 OL,2,ME80s MOVIES Soundtrack Night           
 OL,4,D/ / / / / / / / / / / / / / / / / / / /
 OL,5,D```````````````````````````````````````
@@ -65,26 +65,26 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,D/ / / / / / / / / / / / / / / / / /G3/5
+OL,1,D/ / / / / / / / / / / / / / / / / /G3/7
 OL,2,ME80s MOVIES Soundtrack Night           
 OL,4,D/ / / / / / / / / / / / / / / / / / / /
 OL,5,D```````````````````````````````````````
-OL,6,F21 ......                              
-OL,7,C   ......                              
-OL,8,F22 .....                               
-OL,9,C   ......                              
-OL,10,F23 ......                              
-OL,11,C   ......                              
-OL,12,F24 ......                              
-OL,13,C   ......                              
-OL,14,F25 ......                              
-OL,15,C   ......                              
-OL,16,F26 ......                              
-OL,17,C   ......                              
-OL,18,F27 ......                              
-OL,19,C   ......                              
-OL,20,F28 ......                              
-OL,21,C   ......                              
+OL,6,F21 REBEL YELL                          
+OL,7,C   Billy Idol                          
+OL,8,F22 JUMP IN THE LINE                    
+OL,9,C   Harry Belafonte                     
+OL,10,F23 BACK IN TIME                        
+OL,11,C   Huey Lewis and the News             
+OL,12,F24 CALL ME                             
+OL,13,C   Blondie                             
+OL,14,F25 UNDERGROUND                         
+OL,15,C   David Bowie                         
+OL,16,F26 NO EASY WAY OUT                     
+OL,17,C   Robert Tapper                       
+OL,18,F27 WEIRD SCIENCE                       
+OL,19,C   Oingo Boingo                        
+OL,20,F28 TOGETHER IN ELECTRIC DREAMS         
+OL,21,C   Phil Oakley and Giorgio Moroder     
 OL,22,D]MC DOGS. THEY'RE GOOD                 
 OL,24,A Good   BOn   C Paper  FPresents       
 FL,500,504,100,506,8ff,8ff
@@ -94,26 +94,26 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,D/ / / / / / / / / / / / / / / / / /G4/5
+OL,1,D/ / / / / / / / / / / / / / / / / /G4/7
 OL,2,ME80s MOVIES Soundtrack Night           
 OL,4,D/ / / / / / / / / / / / / / / / / / / /
 OL,5,D```````````````````````````````````````
-OL,6,F13 AXEL F                              
-OL,7,C   Harold Faltermeyer                  
-OL,8,F14 Flashdance                          
-OL,9,C   Irene Cara                          
-OL,10,F15 THE POWER OF LOVE                   
-OL,11,C   Huey Lewis and the News             
-OL,12,F16 DON'T YOU (FORGET ABOUT ME)         
-OL,13,C   Simple Minds                        
-OL,14,F17 PLAYING WITH THE BOYS               
-OL,15,C   Kenny Loggins                       
-OL,16,F18 LIVING IN AMERICA                   
-OL,17,C   James Brown                         
-OL,18,F19 ST ELMO'S FIRE                      
-OL,19,C   John Parr                           
-OL,20,F20 MANIAC                              
-OL,21,C   Michael Sembello                    
+OL,6,F29 CRY LITTLE SISTER                   
+OL,7,C   Gerard McMann                       
+OL,8,F30 (I'VE HAD) THE TIME OF MY LIFE      
+OL,9,C   Bill Medley and Jennifer Warnes     
+OL,10,F31 YES                                 
+OL,11,C   Merry Clayton                       
+OL,12,F32 OLD TIME ROCK AND ROLL              
+OL,13,C   Bob Seger                           
+OL,14,F33 MAGIC DANCE                         
+OL,15,C   David Bowie                         
+OL,16,F34 KOKOMO                              
+OL,17,C   The Beach Boys                      
+OL,18,F35 BRING ON THE DANCING HORSES         
+OL,19,C   Echo and the Bunnymen               
+OL,20,F36 PRETTY IN PINK                      
+OL,21,C   The Psychedelic Furs                
 OL,22,D]MCLATEST NEWS FROM THE BBC p104       
 OL,24,A Good   BOn   C Paper  FPresents       
 FL,500,504,100,506,8ff,8ff
@@ -123,26 +123,78 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,D/ / / / / / / / / / / / / / / / / /G5/5
+OL,1,D/ / / / / / / / / / / / / / / / / /G5/7
 OL,2,ME80s MOVIES Soundtrack Night           
 OL,4,D/ / / / / / / / / / / / / / / / / / / /
 OL,5,D```````````````````````````````````````
-OL,6,F13 AXEL F                              
-OL,7,C   Harold Faltermeyer                  
-OL,8,F14 Flashdance                          
-OL,9,C   Irene Cara                          
-OL,10,F15 THE POWER OF LOVE                   
-OL,11,C   Huey Lewis and the News             
-OL,12,F16 DON'T YOU (FORGET ABOUT ME)         
-OL,13,C   Simple Minds                        
-OL,14,F17 PLAYING WITH THE BOYS               
-OL,15,C   Kenny Loggins                       
-OL,16,F18 LIVING IN AMERICA                   
-OL,17,C   James Brown                         
-OL,18,F19 ST ELMO'S FIRE                      
-OL,19,C   John Parr                           
-OL,20,F20 MANIAC                              
-OL,21,C   Michael Sembello                    
+OL,6,F37 NOTHING'S GONNA STOP US NOW         
+OL,7,C   Starship                            
+OL,8,F38 INTO THE GROOVE                     
+OL,9,C   Madonna                             
+OL,10,F39 EYE OF THE TIGER                    
+OL,11,C   Survivor                            
+OL,12,F40 TRAINING MONTAGE                    
+OL,13,C   Vince DiCola                        
+OL,14,F41 NEVER SURRENDER                     
+OL,15,C   Stab Bush                           
+OL,16,F42 AS THE WORLD FALLS DOWN             
+OL,17,C   David Bowie                         
+OL,18,F43 TWIST OF FATE                       
+OL,19,C   Olivia Newton John                  
+OL,20,F44 THE GOONIES R GOOD ENOUGH           
+OL,21,C   Cyndi Lauper                        
 OL,22,D]MC THE ART OF RAQUEL MEYERS  p555     
+OL,24,A Good   BOn   C Paper  FPresents       
+FL,500,504,100,506,8ff,8ff
+PN,50506
+SC,0006
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,D/ / / / / / / / / / / / / / / / / /G6/7
+OL,2,ME80s MOVIES Soundtrack Night           
+OL,4,D/ / / / / / / / / / / / / / / / / / / /
+OL,5,D```````````````````````````````````````
+OL,6,F45 WILD THING                          
+OL,7,C   Tone Loc                            
+OL,8,F46 BURNING DOWN THE HOUSE              
+OL,9,C   Talking Heads                       
+OL,10,F47 DON'T GO                            
+OL,11,C   Yazoo                               
+OL,12,F48 WE DON'T NEED ANOTHER HERO          
+OL,13,C   Tina Turner                         
+OL,14,F49 I'M ALRIGHT                         
+OL,15,C   Kenny Loggins                       
+OL,16,F50 HEARTS ON FIRE                      
+OL,17,C   John Cafferty                       
+OL,18,F51 HOLDING OUT FOR A HERO              
+OL,19,C   Bonnie Tyler                        
+OL,20,F52 GLORY OF LOVE                       
+OL,21,C   Peter Cetera                        
+OL,22,D]MCSee Teefax online as xenoxxx.com    
+OL,24,A Good   BOn   C Paper  FPresents       
+FL,500,504,100,506,8ff,8ff
+PN,50507
+SC,0007
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,D       / / / /  /  /  /  /  /  /  /G7/7
+OL,2,W x|t x|0      ht  x4x|th4 h4|h||4`||4  
+OL,3,V op?h7"} 8,$  j?4ho5 *u z%jup0up   
+OL,4,U #*u`? ),0  j5o?j5  j|5 j7#! "k4  
+OL,5,Q +/' +/! ,,!  *%*%*%+/'  /  /*//%///   
+OL,6,EMSoundtrack NightD/  /  /  /  /  /  /  
+OL,7,W                                       
+OL,8,D```````````````````````````````````````
+OL,9,F53 PETER GUNN THEME                    
+OL,10,C   The Blues Brothers                  
+OL,11,F54 WE ARE NOT ALONE                    
+OL,12,C   Karla Devito                        
+OL,13,F55 LOST IN THE SHADOWS                 
+OL,14,C   Lou Gramm                           
+OL,22,D]MC MAKE YOUR OWN TELETEXT at edit.tf  
 OL,24,A Good   BOn   C Paper  FPresents       
 FL,500,504,100,506,8ff,8ff
