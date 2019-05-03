@@ -5,9 +5,39 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lV<,lT||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jT]Sjjju5~{"!%~s ~k4155  
+OL,3,QuszRuszVuszT]S+..*%%/* /  ,' /*%/$--'  
+OL,4,                                        
+OL,5,CMRusty595 Gallery                  P595
+OL,6,CMRusty595 Gallery                  P595
+OL,7,FFFri 3rd May 2019                      
+OL,8,GGA prolific artist who is interviewed  
+OL,9,AGover atAwww.teletextart.co.uk         
+OL,10,C                                       
+OL,11,C                                       
+OL,12,F                                       
+OL,13,G                                       
+OL,14,G                                       
+OL,15,G                                       
+OL,16,G                                       
+OL,17,C                                       
+OL,18,C                                       
+OL,19,F                                       
+OL,20,G                                       
+OL,21,G                                       
+OL,22,G                                       
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24, ARusty   BAdvent  CKnightmare  FWasser 
+FL,595,899,896,195,100,100
+PN,10102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q<,lR<,lV<,lT||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jT]Sjjju5~{"!%~s ~k4155  
+OL,3,QuszRuszVuszT]S+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CM2018 Xmas Advent Calendar         P899
 OL,6,CM2018 Xmas Advent Calendar         P899
@@ -28,16 +58,16 @@ OL,20,GGAnd other Fairy Tales shown on ARDText
 OL,21,GGChristmas 2017                        
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdventBKnightmareCWasserFHorsenburger 
-FL,899,896,195,522,100,100
-PN,10102
-SC,0002
+OL,24, ARusty   BAdvent  CKnightmare  FWasser 
+FL,595,899,896,195,100,100
+PN,10103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lV<,lT||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jT]Sjjju5~{"!%~s ~k4155  
+OL,3,QuszRuszVuszT]S+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMCat Gallery                      P599 
 OL,6,CMCat Gallery                      P599 
@@ -58,16 +88,16 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdventBKnightmareCWasserFHorsenburger 
-FL,899,896,195,522,100,100
-PN,10103
-SC,0003
+OL,24, ARusty   BAdvent  CKnightmare  FWasser 
+FL,595,899,896,195,100,100
+PN,10104
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lV<,lT||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jT]Sjjju5~{"!%~s ~k4155  
+OL,3,QuszRuszVuszT]S+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMKCET                             P194 
 OL,6,CMKCET                             P194 
@@ -88,16 +118,16 @@ OL,20,G statistics about the UK, Europe
 OL,21,G and the World. With Flags!            
 OL,22,A www.mattheweagles.co.uk               
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdventBKnightmareCWasserFHorsenburger 
-FL,899,896,195,522,100,100
-PN,10104
-SC,0004
+OL,24, ARusty   BAdvent  CKnightmare  FWasser 
+FL,595,899,896,195,100,100
+PN,10105
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
+OL,1,Q<,lR<,lV<,lT||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jT]Sjjju5~{"!%~s ~k4155  
+OL,3,QuszRuszVuszT]S+..*%%/* /  ,' /*%/$--'  
 OL,4,                                        
 OL,5,CMJellica                          P590 
 OL,6,CMJellica                          P590 
@@ -118,5 +148,5 @@ OL,20,G viewed at your own risk).
 OL,21,G                                       
 OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24, AAdventBKnightmareCWasserFHorsenburger 
-FL,899,896,195,522,100,100
+OL,24, ARusty   BAdvent  CKnightmare  FWasser 
+FL,595,899,896,195,100,100
