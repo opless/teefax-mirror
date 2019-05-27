@@ -1,3 +1,35 @@
+DS,inserter
+CT,20,T
+PN,58501
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,P     Wf$P W`P W$W`P   Spx5Qp`SppRppP   
+OL,2,P R(P            Rn$P  U##!P        T5hP
+OL,3,P        Q#P     Q"P  Q$P         T$T5*P
+OL,4,PT###!P Q~}0P QppP   Q`~5PQ`|||4P T0`j
+OL,5,R$P   Q`~'!Q5PQ~~}0PQx?5Q`%QjP Q5jj
+OL,6,S$PQ$PQ~%P Qz5Qj7#o}Q*'Q5QoPQjP Q5jj
+OL,7,PW0P Q*!P Uh%Uz!U"5P U5U"k}|~P V5jj
+OL,8,P        W`|4PW||P W|4P W|4P   Wh|P V5jj
+OL,9,PQ!T"P  S`~'P SoP S5P S5PS0PSjP V5jj
+OL,10,W`P   S`~!Sl4Sj4Sjp5P S05P   WupP R5jj
+OL,11,P    Q`~|pp0"!PQx5P   QjP R5jj
+OL,12,SaPS!Q*'Q"+///!Q"###!Q./////%P Q*/P R5jj
+OL,13,PV)P Q`p`pQp0p0`p``0`ppQppQp0Q0p`pP S$**
+OL,14,PQ"P       W`P WhP                  S1bb
+OL,15,Wh"P    R$P    U*P   U"0PU`"P  U5P      
+OL,16,PQ)Q`pppP  Q(P Q*P    Q)Q8P  Q(W%PWhssss
+OL,17,Q###!Wp8.0PWbP WhP    W(=PWpP  W5Whqpppp
+OL,18,PSp8&#P Sip8,,|;'eP  S8!(P     S$h-,,,,,
+OL,19,Q#P  ShP  Qp,#P Q"4PQ$P QaR8,,,,--,,,,,$
+OL,20,P     WePW"4P    WaP     W:P W0W`PW`PW0P
+OL,21,P     W"P W"PW"P  W!W"!PW$P             
+OL,22,PQ**Q/Q'-*#$-.PQ-*(#!%$*%Q*&*#Q%Q*#%jP  
+OL,23,PQ756kj#Q7#`>!Q6jaw1Q?i7PQ:Qw1>.47)0bP  
+OL,24,P  Q!""P        Q"#P  Q!P  Q"P          
+FL,0,0,0,0,100,100
 PN,58502
 SC,0002
 PS,8000

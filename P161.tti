@@ -5,6 +5,36 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVV||||4              (,    |4 h||0     
+OL,2,T]V5j5?jo?jo5?j*/55 jj5/oj
+OL,3,T]S5j5wsjj5jz55jjw55 jz5{j
+OL,4,T]S#! "!###"#"!#"##!#!"#"##!#! "## ###bs
+OL,5,G           Canoga Park, Mon 27 May 2019
+OL,6,C                                       
+OL,7,FThe 29th Annual Canoga Park Memorial   
+OL,8,FDay Parade is a wonderful tradition    
+OL,9,Fthat allows our community to come      
+OL,10,Ftogether to honor our fallen and the   
+OL,11,Ffamilies of those gave that gave their 
+OL,12,Flives to insure our freedom.           
+OL,13,F                                       
+OL,14,COur theme every year is "Saluting the  
+OL,15,CPrice of Freedom". It will include     
+OL,16,Cmarching bands, equestrians, floats and
+OL,17,Cmany military displays.                
+OL,18,C                                       
+OL,19,CThe Location is Sherman Way traveling  
+OL,20,CEast from Topanga Cyn to Mason Ave.    
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AOnTheQT   BSport   CMovies   FWeather 
+FL,160,162,163,165,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,TqP                   Tppp||
 OL,2,T?a's+-,P              T#######
 OL,3,Ts8?/}.#Q`p|||||||ppP             
@@ -30,8 +60,8 @@ OL,22,P         Q#/}|(!'1P
 OL,23,P            Q#+Qtk0P                  
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
-PN,16102
-SC,0002
+PN,16103
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -57,6 +87,6 @@ OL,19,
 OL,20,                                        
 OL,21,                                        
 OL,22,                                        
-OL,23,D]C              NEWS             2/2   
+OL,23,D]C              NEWS             3/2   
 OL,24, AOnTheQT   BSport   CMovies   FWeather 
 FL,160,162,163,165,100,100
