@@ -7,14 +7,14 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,P     Wf$P W`P W$W`P   Spx5Qp`SppRppP   
 OL,2,P R(P            Rn$P  U##!P        T5hP
-OL,3,P        Q#P     Q"P  Q$P         T$T5*P
-OL,4,PT###!P Q~}0P QppP   Q`~5PQ`|||4P T0`j
-OL,5,R$P   Q`~'!Q5PQ~~}0PQx?5Q`%QjP Q5jj
-OL,6,S$PQ$PQ~%P Qz5Qj7#o}Q*'Q5QoPQjP Q5jj
+OL,3,P      Z Q#P     Q"P  Q$P         T$T5*P
+OL,4,PT###!PZQ~}0P QppP   Q`~5PQ`|||4P T0`j
+OL,5,R$P  ZQ`~'!Q5PQ~~}0PQx?5Q`%QjP Q5jj
+OL,6,S$PQ$PQ~%P Qz5Qj7#o}Q*'Q5QoPQjPZQ5jj
 OL,7,PW0P Q*!P Uh%Uz!U"5P U5U"k}|~P V5jj
 OL,8,P        W`|4PW||P W|4P W|4P   Wh|P V5jj
 OL,9,PQ!T"P  S`~'P SoP S5P S5PS0PSjP V5jj
-OL,10,W`P   S`~!Sl4Sj4Sjp5P S05P   WupP R5jj
+OL,10,W`P  ZS`~!Sl4Sj4Sj5P S5P   WjP R5jj
 OL,11,P    Q`~|pp0"!PQx5P   QjP R5jj
 OL,12,SaPS!Q*'Q"+///!Q"###!Q./////%P Q*/P R5jj
 OL,13,PV)P Q`p`pQp0p0`p``0`ppQppQp0Q0p`pP S$**
@@ -28,7 +28,7 @@ OL,20,P     WePW"4P    WaP     W:P W0W`PW`PW0P
 OL,21,P     W"P W"PW"P  W!W"!PW$P             
 OL,22,PQ**Q/Q'-*#$-.PQ-*(#!%$*%Q*&*#Q%Q*#%jP  
 OL,23,PQ756kj#Q7#`>!Q6jaw1Q?i7PQ:Qw1>.47)0bP  
-OL,24,P  Q!""P        Q"#P  Q!P  Q"P          
+OL,24,P  Q            Q     Q P  Q P          
 FL,0,0,0,0,100,100
 PN,58502
 SC,0002
@@ -65,60 +65,60 @@ SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,P     W$$P     W`PW$P       Wh|P      W"
-OL,2,P   W"P   W0P         W$P   W"#P  W0P   
-OL,3,P         WP    W`0P            W`}P   
-OL,4,P  W"!P  WxP  W!P               W"#P W0
-OL,5,P       Wx?!PW4P       W0p0!`00PW`7#}P  
-OL,6,P    W"###P                     W"###!P 
-OL,7,P   W!P            WpP         W`/#P 
-OL,8,P      W`0P  W|P   W#P         Wzqx}0k4P
-OL,9,P    WW"!P  WW4P W#W`0j5P    W######!P
-OL,10,P    WP   W4WP   WWj5P     W||||||||4
-OL,11,P W`PWP   W0WP W`ppWj5Wh4P  W########!
-OL,12,P    WPW###!WP     Wj5Wj5P Wz//#7#/
-OL,13,P    WPW///%WP W*/P   Wj5PW`t(?/oW~
-OL,14,P    W/PW|||4W#P Wh|PWj5Wj5PWz?#x5Wj5j
-OL,15,P    W#!Wppp0"##!WjPWj5Wj5PWt+o5Wj}t2
-OL,16,P  W###!W###!"##!W"#P       W##!"#!W"###
-OL,17,P W/#cqppx|,,/7#+cqxP       W>'%i?W%5)kt
-OL,18,P Wc###!(P Wqx|./##pP       W"Wx7W$W5W$k
-OL,19,P W!W`px|,/##W`p|.'#`|>'!P   Wx'W`PW5W(P
-OL,20,PW|//##P W`p|.'#Wpx>#P   W!W`~'P   W5P  
-OL,21,P    Wbp|.'#W`p|/#!P  W$P W`>!PW"P W5P  
-OL,22,P                                       
-OL,23,P   W<|Wp|0t|$44W444444Wt4W4`t|4l|4hthx|
-OL,24,P  W|||4|l<|W$4W0$44$444$4W|$4hx$0lll|P 
+OL,1,W     $$       `  $          |4        !
+OL,2,W   "     0           (      #!   `     
+OL,3,W              Z`0  Z    `       z4    
+OL,4,W Z"!Y   x    !     Z *  j       #!  ` 
+OL,5,W       x?!  4       Y ``p" p`Z  z#k4   
+OL,6,W    "###              Z  h      ####   
+OL,7,W   !              p0  Z  j     z?'k5  
+OL,8,W      `0    |     #!          `wp~t"}  
+OL,9,W     "!     4   #! p       "######  
+OL,10,W         4      5        h|||||||| 
+OL,11,W `       0    `pp0   |    "######## 
+OL,12,W      ###!             Z`?/'k#+ou
+OL,13,W      ///%   Z*//% # YZ  z}0n//5h
+OL,14,WZ   /  |||4 #   h||4Y  Z `'a~   
+OL,15,WZ   #! ppp0"##! j5Y  Z z}2/  |p#
+OL,16,WZ ###! ###!"##! "##! ## #  ### ##  ####
+OL,17,WZ/#cqppx|,,/7#+cqx|.'s{</cq|/+"~%*j"&}0
+OL,18,WZc###!(   qx|./##px>'#px>'!0!`~!( j ("}
+OL,19,W ! `px|,/## `p|.'# x|/#     `>! 0 j  $"
+OL,20,W|//##   `p|.'# px>'!    "  x?!    j    
+OL,21,W    bp|.'# `p|/#!    (    x'   !  j   (
+OL,22,W                                       
+OL,23,G  The Galactic Temple is a sacred place
+OL,24,G  designed to understand the universe  
 FL,0,0,0,0,100,100
 PN,58504
 SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,P                         Spx|p0P       
-OL,2,P                       V(*+++++(P      
-OL,3,P                                       
-OL,4,P            W|}P                   
-OL,5,P           W5P                 
-OL,6,P           W5P                 
-OL,7,P         VhjV(,,,,$"!;P                
-OL,8,P         W"*~'P                
-OL,9,P           WP                  
-OL,10,P            W7P                   
-OL,11,P        Wx||4*(|||0P               
-OL,12,P     W|||hjpP  Wxp#||~5P            
-OL,13,P    Wj"|#k'a~`5P           
-OL,14,P    Wj}c;////?c~5P          
-OL,15,P    W5P         
-OL,16,P    W5P         
-OL,17,P    W!5j5P         
-OL,18,P   WjW5j5P         
-OL,19,P   Wj!W7Wj5P         
-OL,20,P   WjPW5Wj5P         
-OL,21,P   WjPW5Wj5P         
-OL,22,P   WjPW#7!Wj5P         
-OL,23,P   WjP W5PWj5P         
-OL,24,P   W"##P W###########!PW"###!P         
+OL,1,W                                S`p|tp 
+OL,2,W                               V(+++++)
+OL,3,W                                       
+OL,4,W                    |4            
+OL,5,W                   5           
+OL,6,W                   5           
+OL,7,W                VhjV(,,,,V140         
+OL,8,W                 "*5%!         
+OL,9,W                               
+OL,10,W                                 
+OL,11,W               `x||4* l||tp0       
+OL,12,W             |||hjp    zd2|||      
+OL,13,W            2|3+//'a~`     
+OL,14,W            }s;/////s~    
+OL,15,W           j   
+OL,16,W           j   
+OL,17,W           j     
+OL,18,W                
+OL,19,W                  
+OL,20,W                  
+OL,21,W                  
+OL,22,W                    
+OL,23,W                    
+OL,24,W                                       
 FL,0,0,0,0,100,100
 PN,58505
 SC,0005
