@@ -666,6 +666,36 @@ SC,0023
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T      0ddQ`p|||tpTdd$000 hVhll,l,|llll 
+OL,2,T  0xrv=Q`~tT+|88qVj*zjj*z*z:j 
+OL,3,T an'+7Q0*?T *?##oVjjjjjjjjjj 
+OL,4,T`(5  Qn:t #/////'!`>z$ T "Vjzzrzzzzzs~ 
+OL,5,T`b5  Q"ov/tpppppp>g~'  T  VjF T H E Vj 
+OL,6,T(hu   Q "/lsssssy.'    T  Vj7ss7s3w3s 
+OL,7,Tbi Wxfy.s-|p `x|/ss-vl0TjVjussu|tu 
+OL,8,T$y%W8yg||;?yvmiT"=pp`         
+OL,9,T:7W`i'o}k7~?+um5T*;)B Origi- 
+OL,10,Tn Wjv/o j/y?/v/% //gyo5 Tju$$Bnally  
+OL,11,T7W,zyvs-,,d?!   +v#sss|}=&!Tu$$Ba mute 
+OL,12,T5W8fsw~! n%  k~}>)$T=1$Bchara- 
+OL,13,T}W8gw4v?u    `?w4v?)Th-0$Bcter,  
+OL,14,TnW8iuow}tp|w56dT~1$B Korky  
+OL,15,Tk5 W:?z% T7(B  began  
+OL,16,T"tW*6/?'+og~?T`>3(Bspeaking 
+OL,17,T );tW+t"!Qpt`t0W#x?T`>& $Bin issue 
+OL,18,T "2;}pWo}tQ"+/#Wp~'Tx'&`B149 of The 
+OL,19,T  $&2gmW"#//,,,,//'#Th?1!BDandy on 5th 
+OL,20,T  " "8kUn}h}h=T~f"BOctober 1940. 
+OL,21,T    !`)}Uo?"o'*?The!                
+OL,22,T     0bfu `|<|l||t `?` !               
+OL,23,T       !#'')#) #2"3#&                  
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,59924
+SC,0024
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,U]         S`,dU    S`,dU             j\
 OL,2,U]        Sh!S(90U S8!S(yU            j\
 OL,3,U]        SjU S&-pp89U SnU            j\
@@ -691,8 +721,8 @@ OL,22,U]       S#"!!!US###!S"""!!U          j\
 OL,23,U###################################### 
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59924
-SC,0024
+PN,59925
+SC,0025
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -721,8 +751,8 @@ OL,22,W  `}~?{y}~wvtt}t  `|}~)d )d #$
 OL,23,W(/c*+|u )0 "$      
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59925
-SC,0025
+PN,59926
+SC,0026
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -751,8 +781,8 @@ OL,22,T]W       $                  !
 OL,23,T]W                   $               ! 
 OL,24,E                                       
 FL,0,0,0,0,100,100
-PN,59926
-SC,0026
+PN,59927
+SC,0027
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -781,8 +811,38 @@ OL,22,S]DM     www.cartoon-network.co.uk
 OL,23,S]DM     www.cartoon-network.co.uk      
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59927
-SC,0027
+PN,59928
+SC,0028
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,S?Whw+o
+OL,2,S/#Wx/|z'#/?#+'##o
+OL,3,Wpx~+%#+?Ux}0W7Qx~,,}Wo
+OL,4,Wj5o}Ux4`p|ts{tW+?'{QxW.)(Q} 
+OL,5,Wzj5U?#+WpUm0Wo?'q|Q{S~+/||p
+OL,6,W{Uz7W~mjiU4Wcq|?/QjS+/!   
+OL,7,W5UWj~:##Uw8$Wssssq||Qa~||~}W
+OL,8,W/Ubs! #/eW+!W.-U},/W*/csss+oQ/+o?//}W
+OL,9,W!"Uj/ WsUc|u   `4W///o//,S.#  #-Wx
+OL,10,W'sU|. W'xUo}<(#+5W||t`x|||0z}4"##
+OL,11,W'U|~QtW!~<U#!Wl?UWjj55
+OL,12,Wx~UjuWl0+h5?"UxWzj5////5o
+OL,13,W%U4ouW!|p`pU  x%Wwwj}{'Ux||tWk}
+OL,14,WoU2o}tW#"#Up~?'W0~7z/'Ux4W
+OL,15,WUzt3/?'q4W.%//##Up0h|2' W
+OL,16,Uz5}|tssq|}*||||a5x| W0~
+OL,17,U5o5o5j?h' W5
+OL,18,U*j}2#//t+cpsx Wz5
+OL,19,U525W|tppU###*'W~5
+OL,20,UukukWj5}|p0x5
+OL,21,Uj25W5o55
+OL,22,U7zukWj%5
+OL,23,U5tkW7zj5
+OL,24,Uh4W5j5
+FL,0,0,0,0,100,100
+PN,59929
+SC,0029
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -811,8 +871,8 @@ OL,22,S]QX   /*% ,'"-'"-'*%/ *% "-'(.!,'($
 OL,23,C]D         from: Andrew Levy           
 OL,24,APuzzler   B555 Mag   CBirthdays   Fbuzz
 FL,0,0,0,0,100,100
-PN,59928
-SC,0028
+PN,59930
+SC,0030
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -841,8 +901,8 @@ OL,22,T'  x|p
 OL,23,T7!   ppt "/|G1/12
 OL,24,AFactsBTelesoftwareCRock/PopFORACLE Kids
 FL,0,0,0,0,100,100
-PN,59929
-SC,0029
+PN,59931
+SC,0031
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -871,8 +931,8 @@ OL,22,VtQo?Vx
 OL,23,S|||||||||||||||GNeil, 11S||||||||||||||
 OL,24,APen Pals BTurner CWrite It! FDigitiser 
 FL,0,0,0,0,100,100
-PN,59930
-SC,0030
+PN,59932
+SC,0032
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -901,8 +961,8 @@ OL,22,V    00&4"` #f0$b3o}/3$$!!#  `
 OL,23,V(! &b`" ) $.d3  r)3fn}r)lp(f,0 d a
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59931
-SC,0031
+PN,59933
+SC,0033
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -931,8 +991,8 @@ OL,22,W    U           
 OL,23,W    U                
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59932
-SC,0032
+PN,59934
+SC,0034
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -961,8 +1021,8 @@ OL,22,W9);a091;}939p9;y9p89#9;y;9-:i{9{y?!
 OL,23,D]GTheyBdon'tGlive onBChristmas Island. 
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59933
-SC,0033
+PN,59935
+SC,0035
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -991,8 +1051,8 @@ OL,22,W5     2w}|*j
 OL,23,W?!     "l]S"DXI'm Blodwyn!Qb,5        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59934
-SC,0034
+PN,59936
+SC,0036
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1021,8 +1081,8 @@ OL,22,S           ###//+########!
 OL,23,G                 thomasthurman.org     
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59935
-SC,0035
+PN,59937
+SC,0037
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1051,8 +1111,38 @@ OL,22,PS}P Shtp`~/ax%S~/`z?/$T+
 OL,23,PSo}tPSk?o~?o/!S>!`~'z%`~'`xT+
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59936
-SC,0036
+PN,59938
+SC,0038
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,TQ}4W|T?/
+OL,2,TQbe~W'TRiT//o
+OL,3,T7Q#*Tn}Re6+4
+OL,4,T//////o?Q.mtz25T#######/?/-R}Tl
+OL,5,V|~oc#o||||Qh,,}2554hu  j|pV(||||
+OL,6,V//|r}WviQ)*}z ~5htV+o
+OL,7,V|~|*W*; ntQ##o5`?a7 0Vk
+OL,8,V}z?'QxW~4uQ&tk!~}5htV+
+OL,9,VQ`r+W5*uQ*!hx7!dV+o
+OL,10,VQ5W5 W}Q7z?c% h5`V+
+OL,11,VtQ#W## e'W"Q/?('(?`x%z 
+OL,12,V'Qxpp~!h~qW|tQog}~5 
+OL,13,V~;////'Q`4*% +oW#/tQ#sspj
+OL,14,V}2o/'Qxt0,$Q(?o<'!Qu~qVh= W+o7Q *
+OL,15,V$~QjU}WtQV`>Qz'VQ~k0t`}03
+OL,16,V/o/a~Q'Uo'Wo%V7Q&o}r"Vz/Q/*as"o}
+OL,17,Vt+Q*Sx>,.tWn1Qjtp'V"W`|Qn;}0+
+OL,18,V?!SnWm4S=  Q+?!W|p~Q*2o5//"
+OL,19,V/###Sh*t{}8|yQ~|pSxW+/?/-Q+2?S0V7
+OL,20,WSp|?/-2m|swQ+Sk}|0,|Q*}?S~0h
+OL,21,S~'`</lrps} QuS'{|pp~u
+OL,22,Upx|||Sss{?/'*QS./o?'!"?
+OL,23,U#####S"!VpptppxpQ*'S|tVpS#####W+?S"/!
+OL,24,V}tpS`~}||||;8Vtp|}|~
+FL,0,0,0,0,100,100
+PN,59939
+SC,0039
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1081,8 +1171,8 @@ OL,22,V?Uz|pS#/U ` V
 OL,23,VUj}tS + U`Vj
 OL,24,V}U+}t0S+U5j4V
 FL,0,0,0,0,100,100
-PN,59937
-SC,0037
+PN,59940
+SC,0040
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1111,8 +1201,8 @@ OL,22,P  Tx~GDawn Spence on 01-434 3121    T
 OL,23,P  T]FLONDON ORACLE LONDON ORACLE LONDON
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59938
-SC,0038
+PN,59941
+SC,0041
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
