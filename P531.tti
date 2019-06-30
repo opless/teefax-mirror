@@ -6,16 +6,16 @@ SC,0001
 OL,1,Übedford weather  Çcy2.uk/weatherá   1/2
 OL,2,îù ìh40|x|t`<l0,,j=l0x|t`<,            
 OL,3,îù ì"--'+,$*'+% / *%*%+,$*%             
-OL,5,Sat, 29 Jun at 10:48 BST
-OL,6,Temperature: 33.7C
-OL,7,Humidity:    43%
-OL,8,Wind: ESE, 0 mph
+OL,5,Sun, 30 Jun at 10:48 BST
+OL,6,Temperature: 26.0C
+OL,7,Humidity:    46%
+OL,8,Wind: E, 0 mph
 OL,9,Rain: 0.0 mm
-OL,10,Pressure: 1016 hPa, falling
-OL,11,Cloud base: 1793 m
+OL,10,Pressure: 1016 hPa, rising
+OL,11,Cloud base: 1566 m
 OL,12,12 hour weather forecast, computed on
-OL,13,Sat, 29 Jun at 08:48 BST:
-OL,14,Fairly fine, showery later.
+OL,13,Sun, 30 Jun at 08:48 BST:
+OL,14,Fine weather.
 OL,15,This forecast is highly experimental!
 OL,23,Ñùá                     More followsà>
 OL,24,ÅGallery ÇSnowman ÉLabyrinth ÜLA Weather
@@ -26,15 +26,15 @@ OL,1,Übedford weather  Çcy2.uk/weatherá   2/2
 OL,2,îù ìh40|x|t`<l0,,j=l0x|t`<,            
 OL,3,îù ì"--'+,$*'+% / *%*%+,$*%             
 OL,4,ÉYesterday's temperatures
-OL, 5,  36ë                        
-OL, 6,  33ë                        
-OL, 7,  30ë     pp,                
-OL, 8,  27ë    ,   p               
-OL, 9,  24ï   ,     ##,p           
-OL,10,  21ï             #p         
-OL,11,  18ï               ,        
-OL,12,  15ñ p#             #,,p    
-OL,13,  12ñ#                   ####
+OL, 5,  36ë     ,,                 
+OL, 6,  33ë    ,   #,,,p           
+OL, 7,  30ë   #         ,p         
+OL, 8,  27ë               ,p       
+OL, 9,  24ï                 #p     
+OL,10,  21ï  #                ,    
+OL,11,  18ï                    #   
+OL,12,  15ñp,                   #,,
+OL,13,  12ñ                        
 OL,14,   9ñ                        
 OL,15,   6ñ                        
 OL,16,   3î                        
