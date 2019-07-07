@@ -5,22 +5,22 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E07/07C02:46:23
+OL,0,XXXXXXXXBNMPSERVER2      E07/07C03:34:57
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BAll parts will haveS5CSTATISTICS       
-OL,9,Ba dry night with   S5C 
-OL,10,Bclear periods and  S5G   Maximum       
-OL,11,Blight winds. It    S5GTemperatureC19C 
-OL,12,Bwill turn into     S5G                 
-OL,13,Bquite a cold       S5G   Minumum       
-OL,14,Bnight, especially  S5GTemperatureC5C 
-OL,15,Bin rural spots     S5C                 
-OL,16,Binland.            S5G
-OL,17,B                   S5G
+OL,6,CTODAY
+OL,8,BDry and bright withS5CSTATISTICS       
+OL,9,Bsunny spells. The  S5C 
+OL,10,Bbest of the        S5G   Maximum       
+OL,11,Bsunshine will be   S5GTemperatureC19C 
+OL,12,Bthis morning with  S5G                 
+OL,13,Bincreasing amounts S5G   Minumum       
+OL,14,Bof high cloud      S5GTemperatureC5C 
+OL,15,Bduring the         S5C                 
+OL,16,Bafternoon. Winds   S5G
+OL,17,Bstaying light.     S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E07/07C02:46:23
+OL,0,XXXXXXXXBNMPSERVER2      E07/07C03:34:57
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSUNDAY
-OL,8,BDry and bright withS5CSTATISTICS       
-OL,9,Bsunny spells. The  S5C 
-OL,10,Bbest of the        S5G   Maximum       
-OL,11,Bsunshine will be   S5GTemperatureC19C 
-OL,12,Bduring the morning S5G                 
-OL,13,Bwith increasing    S5G   Minumum       
-OL,14,Bamounts of high    S5GTemperatureC5C 
-OL,15,Bcloud during the   S5C                 
-OL,16,Bafternoon. Winds   S5G
-OL,17,Bstaying light.     S5G
+OL,6,CTONIGHT
+OL,8,BIt will be a dry   S5CSTATISTICS       
+OL,9,Bnight with clouds  S5C 
+OL,10,Bdispersing to leaveS5G   Maximum       
+OL,11,Blong clear periods.S5GTemperatureC19C 
+OL,12,BWinds will be lightS5G                 
+OL,13,Bso turning quite   S5G   Minumum       
+OL,14,Bcold, especially inS5GTemperatureC5C 
+OL,15,Brural areas.       S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
