@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/07C13:48:38
+OL,0,XXXXXXXXBNMPSERVER2      E08/07C14:48:57
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FA chilly start for parts of Scotland
-OL,9,Fand northeast England. Otherwise, sunny
-OL,10,Fspells for most. Perhaps a few light
-OL,11,Fshowers developing in southern England.
-OL,12,FCloud increasing to bring rain into
-OL,13,FNorthern Ireland and western Scotland
-OL,14,Flater. Warm in the sunshine.
+OL,7,GThis Evening and Tonight
+OL,8,FEvening sunny spells are likely in the
+OL,9,Fsouth and east followed by a dry and
+OL,10,Fmild night. Cloud and rain in Northern
+OL,11,FIreland will move eastwards into
+OL,12,FScotland and northern parts of England
+OL,13,Fand Wales.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FClear spells and locally chilly in the
-OL,18,Feast at first. Cloud and rain will
-OL,19,Fcontinue to move eastwards across
-OL,20,Fnorthern parts, locally heavy. Mostly
-OL,21,Fdry with some clear spells elsewhere.
+OL,15,GTuesday
+OL,16,FCloud and rain will move further
+OL,17,Feastwards across Scotland and northern
+OL,18,FEngland, leaving heavy showers for
+OL,19,FNorthern Ireland. Wales and southern
+OL,20,Fparts of England will be warm with
+OL,21,Fsunny spells.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/07C13:48:38
+OL,0,XXXXXXXXBNMPSERVER2      E08/07C14:48:57
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Wednesday to Friday
-OL,8,FOutbreaks of rain, heavy at times,
-OL,9,Fduring Wednesday across northern half
-OL,10,Fof the UK. Drier and brighter
-OL,11,Felsewhere. Heavy and thundery showers
-OL,12,Fdeveloping on Thursday and Friday. Warm
-OL,13,Fand humid.
+OL,8,FRain or showers will affect many on
+OL,9,FWednesday followed by warm humid
+OL,10,Fweather on Thursday and Friday, with
+OL,11,Fheavy thundery showers, especially
+OL,12,Ffurther north. Some southern parts may
+OL,13,Fstay dry.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
