@@ -5,24 +5,24 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E08/07C02:46:56
+OL,0,XXXXXXXXBNMPSERVER2      E08/07C03:18:47
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BAfter a sunny      S5CSTATISTICS       
-OL,9,Bevening, it will beS5C 
-OL,10,Ba dry night with   S5G   Maximum       
-OL,11,Bclouds dispersing  S5GTemperatureC19C 
-OL,12,Bto leave long clearS5G                 
-OL,13,Bperiods. Winds willS5G   Minumum       
-OL,14,Bbe light so turningS5GTemperatureC3C 
-OL,15,Bquite cold,        S5C                 
-OL,16,Bespecially in ruralS5G
-OL,17,Bareas.             S5G
-OL,18,B                   S5G                 
-OL,19,B                   S5G
+OL,6,CTODAY
+OL,8,BThis morning will  S5CSTATISTICS       
+OL,9,Bbe dry, a little   S5C 
+OL,10,Bbrightness possibleS5G   Maximum       
+OL,11,Bat first. This     S5GTemperatureC17C 
+OL,12,Bafternoon will be  S5G                 
+OL,13,Bcloudy with        S5G   Minumum       
+OL,14,Boutbreaks of rain  S5GTemperatureC12C 
+OL,15,Bspreading from the S5C                 
+OL,16,Brest although some S5G
+OL,17,Bsouthern parts may S5G
+OL,18,Bstay dry until     S5G                 
+OL,19,Blater on.          S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
@@ -32,24 +32,24 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E08/07C02:46:56
+OL,0,XXXXXXXXBNMPSERVER2      E08/07C03:18:47
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CMONDAY
-OL,8,BStaying dry for    S5CSTATISTICS       
-OL,9,Bmuch of the day    S5C 
-OL,10,Bwith sunny spells  S5G   Maximum       
-OL,11,Bat first. Cloud    S5GTemperatureC19C 
-OL,12,Bgradually          S5G                 
-OL,13,Bthickening, with   S5G   Minumum       
-OL,14,Brain reaching      S5GTemperatureC3C 
-OL,15,Bwestern counties   S5C                 
-OL,16,Blater in the       S5G
-OL,17,Bafternoon and all  S5G
-OL,18,Bareas in the       S5G                 
-OL,19,Bevening.           S5G
+OL,6,CTONIGHT
+OL,8,BCloudy this eveningS5CSTATISTICS       
+OL,9,Bwith outbreaks of  S5C 
+OL,10,Brain, mainly       S5G   Maximum       
+OL,11,Bbecoming confined  S5GTemperatureC17C 
+OL,12,Bto the east.       S5G                 
+OL,13,BRemaining cloudy   S5G   Minumum       
+OL,14,Bovernight but      S5GTemperatureC12C 
+OL,15,Bturning mainly dry,S5C                 
+OL,16,Bstill some patchy  S5G
+OL,17,Brain across the    S5G
+OL,18,Bnorth.             S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
