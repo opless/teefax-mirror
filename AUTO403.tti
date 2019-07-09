@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/07C14:47:44
+OL,0,XXXXXXXXBNMPSERVER2      E09/07C15:48:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FCloudy with outbreaks of rain and
-OL,9,Fdrizzle across Scotland. Possible heavy
-OL,10,Fshowers for Northern Ireland and
-OL,11,Fsouthwest Scotland. Dry with sunny
-OL,12,Fspells across the south and the far
-OL,13,Fnortheast. Warm in the south and
-OL,14,Ffeeling rather humid for many.
+OL,7,GThis Evening and Tonight
+OL,8,FCloudy for many northern parts
+OL,9,Fovernight with further rain at times
+OL,10,Fand the risk of the odd heavier burst
+OL,11,Flater. Clear spells but also a few
+OL,12,Fshowers elsewhere, but a dry night for
+OL,13,Fmost, and feeling humid in many parts.
+OL,4,                                    1/2 
+OL,15,GWednesday
+OL,16,FFurther outbreaks of rain across the
+OL,17,Fnorth, with some heavy and thundery
+OL,18,Fdownpours for eastern Scotland later.
+OL,19,FIsolated showers elsewhere, with sunny
+OL,20,Fspells. Warm in the south, and rather
+OL,21,Fhumid.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/07C14:47:44
+OL,0,XXXXXXXXBNMPSERVER2      E09/07C15:48:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Thursday to Saturday
-OL,8,FUnsettled, with heavy thundery showers
-OL,9,Facross northern parts on Thursday,
-OL,10,Fbecoming confined to eastern parts
-OL,11,FFriday. Becoming drier and more settled
-OL,12,FSaturday. Warm and humid in the south
-OL,13,Fat times.
+OL,8,FHeavy thundery showers across northern
+OL,9,Fand eastern parts on Thursday, becoming
+OL,10,Fconfined to eastern parts Friday. Drier
+OL,11,Fwith sunny spells from Saturday, but
+OL,12,Fcool and cloudier near North Sea
+OL,13,Fcoasts.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

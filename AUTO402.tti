@@ -5,22 +5,22 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E09/07C14:47:44
+OL,0,XXXXXXXXBNMPSERVER2      E09/07C15:48:19
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BA rather cloudy andS5CSTATISTICS       
-OL,9,Bhumid day with the S5C 
-OL,10,Bchance of some     S5G   Maximum       
-OL,11,Bshowery rain which S5GTemperatureC19C 
-OL,12,Bcould be heavy.    S5G                 
-OL,13,BSome brighter      S5G   Minumum       
-OL,14,Binterludes in the  S5GTemperatureC15C 
-OL,15,Bsouth where it     S5C                 
-OL,16,Bbecoming very warm S5G
-OL,17,Bin any sunshine.   S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BSome late sunshine S5CSTATISTICS       
+OL,9,Bpossible across theS5C 
+OL,10,Bsouth this evening.S5G   Maximum       
+OL,11,BOtherwise a cloudy S5GTemperatureC19C 
+OL,12,Bnight with showery S5G                 
+OL,13,Brain and this      S5G   Minumum       
+OL,14,Blikely to turn     S5GTemperatureC15C 
+OL,15,Bheavy later in the S5C                 
+OL,16,Bnight. Quite warm  S5G
+OL,17,Band humid.         S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
@@ -32,23 +32,23 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E09/07C14:47:44
+OL,0,XXXXXXXXBNMPSERVER2      E09/07C15:48:19
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BSome late sunshine S5CSTATISTICS       
-OL,9,Bpossible across theS5C 
-OL,10,Bsouth this evening.S5G   Maximum       
-OL,11,BOtherwise a cloudy S5GTemperatureC19C 
-OL,12,Bnight with some    S5G                 
-OL,13,Bshowery rain       S5G   Minumum       
-OL,14,Bdeveloping later,  S5GTemperatureC15C 
-OL,15,Bpossibly heavy.    S5C                 
-OL,16,BQuite warm and     S5G
-OL,17,Bhumid.             S5G
-OL,18,B                   S5G                 
+OL,6,CWEDNESDAY
+OL,8,BMainly cloudy and  S5CSTATISTICS       
+OL,9,Bhumid with showers,S5C 
+OL,10,Bsome heavy and     S5G   Maximum       
+OL,11,Bthundery,          S5GTemperatureC19C 
+OL,12,Bespecially across  S5G                 
+OL,13,Bthe north and      S5G   Minumum       
+OL,14,Bnortheast later,   S5GTemperatureC15C 
+OL,15,Bbut some bright or S5C                 
+OL,16,Bsunny spells and   S5G
+OL,17,Bwarm in the        S5G
+OL,18,Bsunshine.          S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
