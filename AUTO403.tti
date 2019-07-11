@@ -5,20 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/07C01:47:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/07C02:46:56
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FShowers and thunderstorms will slowly
-OL,9,Fease this evening, however further
-OL,10,Fshowery rain will spread across
-OL,11,Fnorthern and central areas. Some heavy
-OL,12,Fbursts are likely, especially across
-OL,13,Fnorthern England. Mainly dry in the
-OL,14,Fsouth, but rather warm and muggy for
-OL,15,Fmost.
+OL,7,GToday
+OL,8,FRather cloudy at first with some rain
+OL,9,Facross central and northern parts.
+OL,10,FBrightening up away from northern and
+OL,11,Fwestern coasts with sunny spells and
+OL,12,Fshowers developing, these most frequent
+OL,13,Fin the east. Thundery downpours over
+OL,14,Feastern Scotland and northeast England.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +25,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/07C01:47:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/07C02:46:56
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FWarm sunny spells on Friday with
-OL,9,Fscattered showers in northern and
-OL,10,Feastern areas, locally thundery. Drier
-OL,11,Fwith sunny spells into the weekend, but
-OL,12,Flow cloud may affect North Sea coasts.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FBright or sunny spells Saturday with
+OL,9,Fscattered showers in central and
+OL,10,Fsoutheastern parts, and cloudy near
+OL,11,FNorth Sea coasts. Largely dry Sunday
+OL,12,Fand Monday, and sunniest in the west.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
