@@ -5,19 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/07C00:47:40
+OL,0,XXXXXXXXBNMPSERVER2      E12/07C01:17:58
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FShowers will ease through the evening
-OL,9,Fwith most places becoming dry with
-OL,10,Fclear periods by morning. However,
-OL,11,Fscattered showers may continue across
-OL,12,Fnorthern Scotland and East Anglia. A
-OL,13,Fwarm, muggy night in the southeast,
-OL,14,Fslightly fresher elsewhere.
+OL,7,GToday
+OL,8,FWidespread warm sunny spells are
+OL,9,Fexpected, especially in the south.
+OL,10,FHeavy showers are likely across
+OL,11,Fsoutheast Scotland and northeast
+OL,12,FEngland, and to a lesser extent,
+OL,13,Feastern England. Northern Scotland and
+OL,14,FNorthern Ireland will be cloudier with
+OL,15,Fsome light rain.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +26,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/07C00:47:40
+OL,0,XXXXXXXXBNMPSERVER2      E12/07C01:17:58
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Saturday to Monday
-OL,8,FBright or sunny spells Saturday with
-OL,9,Fscattered showers in central and
-OL,10,Fsoutheastern parts, and cloudy near
-OL,11,FNorth Sea coasts. Largely dry Sunday
-OL,12,Fand Monday, sunniest and warmest in the
-OL,13,Fwest.
+OL,7,GOutlook for Sunday to Tuesday
+OL,8,FMost places will stay dry, bright and
+OL,9,Fwarm, especially in the west. Eastern
+OL,10,Fcloud may be slow to clear. On Tuesday,
+OL,11,Fheavy showers may break out in some
+OL,12,Fwestern parts.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
