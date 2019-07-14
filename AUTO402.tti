@@ -5,23 +5,23 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E14/07C14:47:02
+OL,0,XXXXXXXXBNMPSERVER2      E14/07C15:47:03
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BA dry day with     S5CSTATISTICS       
-OL,9,Blight northerly    S5C 
-OL,10,Bwinds. Some good   S5G   Maximum       
-OL,11,Bspells of sunshine,S5GTemperatureC22C 
-OL,12,Bparticularly in theS5G                 
-OL,13,Bmorning. It will   S5G   Minumum       
-OL,14,Bfeel warm,         S5GTemperatureC7C 
-OL,15,Bespecially in the  S5C                 
-OL,16,Bsouth, but rather  S5G
-OL,17,Bcool near the northS5G
-OL,18,Bcoast.             S5G                 
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BA dry evening and  S5CSTATISTICS       
+OL,9,Bnight with light   S5C 
+OL,10,Bwinds and largely  S5G   Maximum       
+OL,11,Bclear skies. A few S5GTemperatureC23C 
+OL,12,Bshallow mist or fogS5G                 
+OL,13,Bpatches may form inS5G   Minumum       
+OL,14,Bprone rural        S5GTemperatureC7C 
+OL,15,Blocations.         S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E14/07C14:47:02
+OL,0,XXXXXXXXBNMPSERVER2      E14/07C15:47:03
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BA dry night with   S5CSTATISTICS       
-OL,9,Blight winds and    S5C 
-OL,10,Blargely clear      S5G   Maximum       
-OL,11,Bskies. A few       S5GTemperatureC22C 
-OL,12,Bshallow mist or fogS5G                 
-OL,13,Bpatches may form inS5G   Minumum       
-OL,14,Bprone rural        S5GTemperatureC7C 
-OL,15,Blocations.         S5C                 
-OL,16,B                   S5G
-OL,17,B                   S5G
+OL,6,CMONDAY
+OL,8,BDry with some      S5CSTATISTICS       
+OL,9,Bbright or sunny    S5C 
+OL,10,Bperiods, although  S5G   Maximum       
+OL,11,Bclouding over at   S5GTemperatureC23C 
+OL,12,Btimes in the       S5G                 
+OL,13,Bafternoon. Feeling S5G   Minumum       
+OL,14,Bvery warm in the   S5GTemperatureC7C 
+OL,15,Bsunshine. Onshore  S5C                 
+OL,16,Bbreezes along the  S5G
+OL,17,Bcoast.             S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
