@@ -5,25 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/07C13:49:10
+OL,0,XXXXXXXXBNMPSERVER2      E14/07C14:47:02
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FMostly dry with variable cloud and warm
-OL,9,Fsunny spells for most. The best of the
-OL,10,Fsunshine in the north and west. Perhaps
-OL,11,Fa few isolated showers in the
-OL,12,Fsouthwest. Feeling warm in the
-OL,13,Fsunshine.
+OL,7,GThis Evening and Tonight
+OL,8,FLargely dry with clear spells for many,
+OL,9,Fthe clearest skies across western parts
+OL,10,Fovernight, where it will turn locally
+OL,11,Fchilly with some isolated fog patches.
+OL,12,FRisk of a few isolated showers across
+OL,13,Feast and southeast England.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FMostly dry with variable cloud and
-OL,17,Fclear spells, these mainly in the west
-OL,18,Fwhere it will feel chilly with a few
-OL,19,Ffog patches possible. Isolated light
-OL,20,Fshowers along eastern coasts.
+OL,15,GMonday
+OL,16,FFine and dry with sunny spells for
+OL,17,Fmany, any early cloud in eastern
+OL,18,FEngland soon breaking up. Feeling warm
+OL,19,Ffor most. Cloudier with some drizzle at
+OL,20,Ftimes across Northern Isles.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +31,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/07C13:49:10
+OL,0,XXXXXXXXBNMPSERVER2      E14/07C14:47:02
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FSome heavy showers in the northwest on
-OL,9,FTuesday, extending to other areas
-OL,10,Fthrough midweek. Driest in the
-OL,11,Fsoutheast. Warm at first, but cooling
-OL,12,Fdown on Thursday.
+OL,8,FUnsettled by midweek, mainly northern
+OL,9,Fand western parts, with showers,
+OL,10,Flocally heavy and thundery, these
+OL,11,Fextending to other parts Wednesday and
+OL,12,FThursday. Largely dry and warm in south
+OL,13,Fand east.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
