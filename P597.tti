@@ -150,3 +150,63 @@ OL,22,W `0,"! T4Q "-,lpppp   Wu"#####  8b jTpx
 OL,23,W#     T )0      8Q##//WoQ//'#W*t !`7T, 
 OL,24,A Travel  BTopTravel C Flights   FFsel  
 FL,0,0,0,0,100,100
+PN,59706
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,D]S        S 1                     C6/42
+OL,2,D]S      S  z*0          GPOLITICS and  
+OL,3,D]S     S( xa0k    G      PARLIAMENT    
+OL,4,D]S    S bxok51   G      follow    >>  
+OL,5,D]S    S jjz.io5                        
+OL,6,D]S   S  z#  j q                        
+OL,7,D]S    Sh!  pf):t                       
+OL,8,D]S S( `%p,s| 2f4     V       `pp      
+OL,9,D]S  *p-s,s4 t +tb   V     `~}t     
+OL,10,D]S 5j,s,# 5 5)0"o   V   h~}$   
+OL,11,D]SSuh#x~}05 5`"dj   V    #  z-   
+OL,12,D]S(fh/55 54kb  V      `~L   
+OL,13,D]SSjj?y$5 5/jj! V     `~t   
+OL,14,D]SSj"m?'8%tem~jj  V     ~}
+OL,15,D]S j`8f965?o}9+'jj  V `pp|
+OL,16,D]S b965u=ey~ +vdjj  V //oo
+OL,17,D]S"5u=gy~?'yh0"o};j  V`6otp|0 "+o
+OL,18,D]S ?gy~?'145j"d +~0 V"} ##!       
+OL,19,D]SSj?'145555j  )0"  V "          h
+OL,20,D]SSh55555555j   "d5  V           x
+OL,21,D]SSj55555555j     5  V          ~?##!x
+OL,22,D]SSj555555%5j     5  V         `r|~
+OL,23,T]SSj5555%q|5j     5  V    `p||
+OL,24,A PoliticsB  World  CNext NewsFHeadlines
+FL,0,0,0,0,100,100
+PN,59707
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,                       TjC>GTELETEXTC<T5
+OL,2,   GBIT 0 (ARedG)      TjG3 BIT COLOURT5
+OL,3,Q~]G                   \T),,,,,,,,,,,,& 
+OL,4,Q] G                   \                
+OL,5,Q]G001     U~]       T]            \   
+OL,6,Q]         U]G101    T]       00   \   
+OL,7,Q]U]        T]        00  \   
+OL,8,Q]U]        T]            \   
+OL,9,Q]S~]W]        V]T\   
+OL,10,Q] S]D011   W]        V]T\   
+OL,11,Q] S]W]D 111   V]T]\   
+OL,12,Qo]S]W]        V]T]G100   \   
+OL,13,   R]V]          ]T\   
+OL,14,   R]      ]V]D   110    T]         \   
+OL,15,   R]      ]Vo]         ]T]         \   
+OL,16,   R] D010                \  GBIT 2     
+OL,17,   Ro]                   `\ G(DBlueG)   
+OL,18,         BIT 1 (BGreenG)                
+OL,19,                                        
+OL,20,G000 : 0 = BLACK G G100 : 4 = BLUE   D 
+OL,21,G001 : 1 = RED   AG101 : 5 = MAGENTAE 
+OL,22,G010 : 2 = GREEN BG110 : 6 = CYAN   F 
+OL,23,G011 : 3 = YELLOWCG111 : 7 = WHITE  G 
+OL,24,                                        
+FL,0,0,0,0,100,100
