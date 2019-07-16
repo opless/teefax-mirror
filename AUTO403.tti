@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E16/07C00:48:17
+OL,0,XXXXXXXXBNMPSERVER2      E16/07C01:49:09
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FFine and dry for most this evening and
-OL,9,Fovernight with long clear spells, and
-OL,10,Fsome short lived fog patches developing
-OL,11,Fin rural areas around dawn. Cloudier
-OL,12,Facross Northern Ireland and western
-OL,13,FScotland, with a few showers likely
-OL,14,Fafter midnight.
+OL,7,GToday
+OL,8,FPlenty of dry weather with good sunny
+OL,9,Fspells for most. However, some showers
+OL,10,Fare likely to develop across Northern
+OL,11,FIreland and Scotland, where locally
+OL,12,Fheavy. A few showers are likely for
+OL,13,FWales and the Midlands. Feeling rather
+OL,14,Fwarm for most.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FShowers soon fading to leave a largely
+OL,18,Fdry night, with clear spells. Some
+OL,19,Fisolated fog patches, mainly in the
+OL,20,Fwest. Rain and a freshening breeze
+OL,21,Farriving into far northwest later.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +32,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E16/07C00:48:17
+OL,0,XXXXXXXXBNMPSERVER2      E16/07C01:49:09
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FCloudy and wet in the northwest
-OL,9,FWednesday, sunny spells with showers
-OL,10,Felsewhere. Sunny spells and some heavy
-OL,11,Fshowers Thursday. Turning windy Friday
-OL,12,Fwith longer spells of rain in places.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FA band of rain moving east on Thursday,
+OL,9,Fwith brighter, fresher and showery
+OL,10,Fconditions following. Wet and windy on
+OL,11,FFriday. Sunny spells and scattered
+OL,12,Fheavy and thundery showers on Saturday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
