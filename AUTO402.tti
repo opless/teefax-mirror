@@ -5,23 +5,23 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/07C14:32:02
+OL,0,XXXXXXXXBNMPSERVER2      E16/07C15:49:12
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BSome bright or     S5CSTATISTICS       
-OL,9,Bsunny intervals    S5C 
-OL,10,Balthough somewhat  S5G   Maximum       
-OL,11,Bcloudier this      S5GTemperatureC23C 
-OL,12,Bafternoon. Chance  S5G                 
-OL,13,Bof a few brief     S5G   Minumum       
-OL,14,Bshowers, this      S5GTemperatureC13C 
-OL,15,Bmainly across      S5C                 
-OL,16,Beastern counties   S5G
-OL,17,Bthis afternoon.    S5G
-OL,18,BFeeling warm.      S5G                 
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BAny showers dying  S5CSTATISTICS       
+OL,9,Bout this evening.  S5C 
+OL,10,BSome clear spells  S5G   Maximum       
+OL,11,Bfor a time, then   S5GTemperatureC18C 
+OL,12,Bbecoming cloudy,   S5G                 
+OL,13,Bwith some outbreaksS5G   Minumum       
+OL,14,Bof rain spreading  S5GTemperatureC13C 
+OL,15,Bto western countiesS5C                 
+OL,16,Blater in the night.S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/07C14:32:02
+OL,0,XXXXXXXXBNMPSERVER2      E16/07C15:49:12
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BAny showers dying  S5CSTATISTICS       
-OL,9,Bout this evening.  S5C 
-OL,10,BThe rest of the    S5G   Maximum       
-OL,11,Bnight will become  S5GTemperatureC23C 
-OL,12,Bmostly cloudy with S5G                 
-OL,13,Bsome outbreaks of  S5G   Minumum       
-OL,14,Brain spreading to  S5GTemperatureC13C 
-OL,15,Bwestern counties   S5C                 
-OL,16,Blater.             S5G
-OL,17,B                   S5G
+OL,6,CWEDNESDAY
+OL,8,BA cloudy day with  S5CSTATISTICS       
+OL,9,Boutbreaks of rain  S5C 
+OL,10,Bin west soon       S5G   Maximum       
+OL,11,Bextending east. A  S5GTemperatureC18C 
+OL,12,Bfew heavier        S5G                 
+OL,13,Boutbreaks possible S5G   Minumum       
+OL,14,Bbefore it turns    S5GTemperatureC13C 
+OL,15,Bbrighter from the  S5C                 
+OL,16,Bwest in the eveningS5G
+OL,17,Bwith late sunshine.S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
