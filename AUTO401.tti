@@ -5,13 +5,13 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/07C18:48:18
+OL,0,XXXXXXXXBNMPSERVER2      E16/07C19:47:12
 OL,1,T]G           This Evening              
 OL,2,           ^ZS 4`~|}            G 1/2 
 OL,3,           ZS`?0~G14S%  CHeavy Rain     
 OL,4,           SZj**gppp  C              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G13V!FSome Cloud     
+OL,6,            ZV!'~G14V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 16V} B              
@@ -19,7 +19,7 @@ OL,10,       ^ZRp|t VxVg0 B
 OL,11,       ZRnG16RtV+"VG13V B             
 OL,12,       ZR+V`4V+|0             
 OL,13,        ZR+%*o!V" R *u  BCloudy    
-OL,14,B            ^ZU`  R*G 16R}  B         
+OL,14,B            ^ZU`  R*G 17R}  B         
 OL,15,B            ^ZUk|R            
 OL,16,B            ^ZU'oG 17R}zt B       
 OL,17,B              ZUj^RG 15R B       
@@ -34,7 +34,7 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/07C18:48:18
+OL,0,XXXXXXXXBNMPSERVER2      E16/07C19:47:12
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZU 4`~|}            G 2/2 
 OL,3,           ZU`?0~G15U%  B               
