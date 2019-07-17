@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/07C01:47:56
+OL,0,XXXXXXXXBNMPSERVER2      E17/07C02:47:12
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FAny daytime showers soon fading away to
-OL,9,Fleave a largely dry night with clear
-OL,10,Fspells. Isolated fog patches will
-OL,11,Fdevelop around dawn, mainly in the
-OL,12,Fwest. Rain and a freshening breeze will
-OL,13,Farrive in Northern Ireland and western
-OL,14,FScotland later.
+OL,7,GToday
+OL,8,FStarting fine for most, but outbreaks
+OL,9,Fof rain across Northern Ireland and
+OL,10,Fwestern Scotland will steadily spread
+OL,11,Fsoutheastwards. This will reach most
+OL,12,Fnorthern and some central areas by mid
+OL,13,Fafternoon, whilst the south remains dry
+OL,14,Fwith hazy sunshine. Generally warm.
 OL,4,                                    1/2 
-OL,16,GWednesday
-OL,17,FCloud and outbreaks of rain will spread
-OL,18,Facross northern and western parts
-OL,19,Fduring the day, reaching central
-OL,20,FEngland by evening. The southeast
-OL,21,Fmostly dry and warm with sunny spells.
+OL,16,GTonight
+OL,17,FA warm night, with showery rain slowly
+OL,18,Fand sporadically spreading eastwards.
+OL,19,FNorthern and western parts will turn
+OL,20,Fdrier, fresher and clearer, with
+OL,21,Fisolated showers in the northwest.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/07C01:47:56
+OL,0,XXXXXXXXBNMPSERVER2      E17/07C02:47:12
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
-OL,8,FShowers, heavy in the southeast, clear
-OL,9,Feast on Thursday followed by further
-OL,10,Fshowers, mainly in the northwest. Rain
-OL,11,Flater on Friday, clearing during
-OL,12,FSaturday to leave scattered heavy,
-OL,13,Fthundery showers.
+OL,7,GOutlook for Friday to Sunday
+OL,8,FUnsettled on Friday with stronger winds
+OL,9,Fand spells of heavy rain for many.
+OL,10,FSunshine and showers over the weekend,
+OL,11,Flikely to be heavy, thundery and most
+OL,12,Ffrequent on Saturday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
