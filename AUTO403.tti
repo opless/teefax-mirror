@@ -5,19 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E18/07C01:47:34
+OL,0,XXXXXXXXBNMPSERVER2      E18/07C02:46:48
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FOutbreaks of showery rain will spread
-OL,9,Feastwards, bringing a damp end to the
-OL,10,Fnight in the east. Drier, clearer
-OL,11,Fconditions will follow into the north
-OL,12,Fand west, with showers arriving in the
-OL,13,Fwest of Scotland and  Northern Ireland
-OL,14,Fby morning.
+OL,7,GToday
+OL,8,FStarting cloudy across southeast
+OL,9,FEngland with isolated showers, these
+OL,10,Fperhaps turning heavy and thundery
+OL,11,Fthrough the afternoon. Elsewhere,
+OL,12,Facross Wales, central and southern
+OL,13,FEngland it will be fine. Sunshine and
+OL,14,Fheavy showers across Scotland and
+OL,15,FNorthern Ireland. Fresher for most.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +26,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E18/07C01:47:34
+OL,0,XXXXXXXXBNMPSERVER2      E18/07C02:46:48
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FTurning unsettled through Friday with
-OL,9,Frain and locally heavy, thundery
-OL,10,Fdownpours moving east. Sunshine and
-OL,11,Fscattered thundery showers Saturday.
-OL,12,FDrier on Sunday before further rain
-OL,13,Farrives into the northwest.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FSunny spells and thundery showers on
+OL,9,FSaturday. Drier for many on Sunday and
+OL,10,FMonday, but windy in the west with rain
+OL,11,Fin the northwest. Turning increasingly
+OL,12,Fwarm and humid.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
