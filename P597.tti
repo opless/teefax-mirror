@@ -155,36 +155,6 @@ SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,D]S        S 1                     C6/42
-OL,2,D]S      S  z*0          GPOLITICS and  
-OL,3,D]S     S( xa0k    G      PARLIAMENT    
-OL,4,D]S    S bxok51   G      follow    >>  
-OL,5,D]S    S jjz.io5                        
-OL,6,D]S   S  z#  j q                        
-OL,7,D]S    Sh!  pf):t                       
-OL,8,D]S S( `%p,s| 2f4     V       `pp      
-OL,9,D]S  *p-s,s4 t +tb   V     `~}t     
-OL,10,D]S 5j,s,# 5 5)0"o   V   h~}$   
-OL,11,D]SSuh#x~}05 5`"dj   V    #  z-   
-OL,12,D]S(fh/55 54kb  V      `~L   
-OL,13,D]SSjj?y$5 5/jj! V     `~t   
-OL,14,D]SSj"m?'8%tem~jj  V     ~}
-OL,15,D]S j`8f965?o}9+'jj  V `pp|
-OL,16,D]S b965u=ey~ +vdjj  V //oo
-OL,17,D]S"5u=gy~?'yh0"o};j  V`6otp|0 "+o
-OL,18,D]S ?gy~?'145j"d +~0 V"} ##!       
-OL,19,D]SSj?'145555j  )0"  V "          h
-OL,20,D]SSh55555555j   "d5  V           x
-OL,21,D]SSj55555555j     5  V          ~?##!x
-OL,22,D]SSj555555%5j     5  V         `r|~
-OL,23,T]SSj5555%q|5j     5  V    `p||
-OL,24,A PoliticsB  World  CNext NewsFHeadlines
-FL,0,0,0,0,100,100
-PN,59707
-SC,0007
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,                       TjC>GTELETEXTC<T5
 OL,2,   GBIT 0 (ARedG)      TjG3 BIT COLOURT5
 OL,3,Q~]G                   \T),,,,,,,,,,,,& 
@@ -210,8 +180,8 @@ OL,22,G010 : 2 = GREEN BG110 : 6 = CYAN   F
 OL,23,G011 : 3 = YELLOWCG111 : 7 = WHITE  G 
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59708
-SC,0008
+PN,59707
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -240,8 +210,8 @@ OL,22,Vs,,ss,'Q}}Wpw~o;&"#y<Qp~||~}W"m0
 OL,23,V|/g1 Q,/#+wptWo.o?-:vuQ/4W
 OL,24,V|}||||Q!`|t`tW+vQk7Vp|QkWk
 FL,0,0,0,0,100,100
-PN,59709
-SC,0009
+PN,59708
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -269,4 +239,214 @@ OL,21,Qt   j}]W   o]Q  ##+^\4  j}'
 OL,22,Q-   o]W    o7 #/o}0  \Qj%   
 OL,23,Q      x]W h}0     `x~?'  \Q"/'!    
 OL,24,Qp|>/]W`o4   x?'  ^p\         
+FL,0,0,0,0,100,100
+PN,59709
+SC,0009
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V Qh7{4R,/|pV *6ww{s{! Wh4           Sp
+OL,2,Vhi4Qk4 T6Rm0V5><,$S Q| Spp,,,,##### 
+OL,3,Ve};tp T6R "5Vuo{s{1S W|S#Up||||p V`
+OL,4,Vj$#+/h$S(( Vjjo-,S`&Q|Uh]Sn$(= V`
+OL,5,V?//m  T:S( $`"Vj:{sS:Wh4U #//o?o'#V~
+OL,6,U(}0Th!Sxo>w}tV5?=lSeQh4U  S"(b   Vj
+OL,7,U~:]Q]P+\R]S##RV\mksS W|Sp Sx?~{{t V]Uj
+OL,8,U|Q"/tR"//!Vj:~, Q`|0S#Ro]S#! \V]U
+OL,9,U*%T6U"o}0W,,l||V5{W|2/a|ppR#//'!V"Qp|
+OL,10,Q T6S!$Q+tUx|0 Vum%W!Qx]Wp
+OL,11,U  S"(p2U/]Wn$P\Vjjw W##///5Qh]W~
+OL,12,Q S8~;w|0U#//!VV"u}>##,0Th,,lW#%Q*]Wk
+OL,13,U R]S##RPj]T     V"/tU.V:Tjj{j` VhQ+]W#
+OL,14,Q R"/?'Qp8,Sf9Q,dpV###T *,,.j`Vjt0Q#/
+OL,15,Uj|t0  Q8#p8,dpp8,dp#d  S( !T#czV~]U]P#
+OL,16,U]Wn= \Qha6 Txt  x4Q)24 S!("   V`]U ]S`
+OL,17,U"+/'! QjjT#-t+5h?#(#Q55Sx>w?wt Vz]Uj]Sj
+OL,18,U S0" 0Qp,,,,pT%7Qp,,,,,R]S##  \V]U ]S 
+OL,19, S(`( 0W`~T}0Q)0`&W`~T}0R"/?!V`]Uj]Sj
+OL,20, S$ppq(W(| |$Q 5jW (| |$Q 5  V `~]U]S ~
+OL,21,Sxw?}w?tW" !Qp&  )pW" !Qp&V  p|]U z]Sh
+OL,22,R]S###  \Q###Tx%5 Q#####Vpp|]U `x~]Sx
+OL,23,R"//!Tpp||'z0Vppx|~]Upx|]Spx|
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,59710
+SC,0010
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W  j   h!   )0   "d 5                   
+OL,2,W  6  8!     "d   "di  H !              
+OL,3,W  5`&   h,l   )0   k                   
+OL,4,W *h!    j j    "d  *0Sppppppppppppppppp
+OL,5,W (1     j j      )0 5D]C1 TELESOFTWARE 
+OL,6,W *2d    j j      8! 5D]C9 Stardot.org  
+OL,7,W  e )0  "##     :   5S#################
+OL,8,W  *0 ")0      `&    5       (          
+OL,9,W$  e   "d    8!     5                  
+OL,10,W   *0    )0`&      j!                  
+OL,11,W    e     "!       j            Z      
+OL,12,W    *0 pppppp8(,,,,.               !   
+OL,13,W     ##                                
+OL,14,W Z!Y                  "                
+OL,15,Wppppppppppppppppppppppppppppppppppppppp
+OL,16,AFSS,,,jQ     ppp,,,,,dpp0 Sjpp5tttttASP
+OL,17,ARSS ,,jQ  8&# `Rd   `Q( "),0 S5,$4,,ADD
+OL,18,ACTS...jQ`&    $R ) (!Q a   "dS5,,,$ A1 
+OL,19,ALTS...jQ*0   2   S"   Q $   :S5,,,,$A2 
+OL,20,AALS  ,jQ "d0(           "0p& S5,,,,,A3 
+OL,21,Q|tSjjjj   Q"#,,,ppppp8,,&# Sz!5,,,,,A4 
+OL,22,D]CSelect item orG*page_C:G            X
+OL,23,C                                       
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,59711
+SC,0011
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,D]S        S 1                     C6/42
+OL,2,D]S      S  z*0          GPOLITICS and  
+OL,3,D]S     S( xa0k    G      PARLIAMENT    
+OL,4,D]S    S bxok51   G      follow    >>  
+OL,5,D]S    S jjz.io5                        
+OL,6,D]S   S  z#  j q                        
+OL,7,D]S    Sh!  pf):t                       
+OL,8,D]S S( `%p,s| 2f4     V       `pp      
+OL,9,D]S  *p-s,s4 t +tb   V     `~}t     
+OL,10,D]S 5j,s,# 5 5)0"o   V   h~}$   
+OL,11,D]SSuh#x~}05 5`"dj   V    #  z-   
+OL,12,D]S(fh/55 54kb  V      `~L   
+OL,13,D]SSjj?y$5 5/jj! V     `~t   
+OL,14,D]SSj"m?'8%tem~jj  V     ~}
+OL,15,D]S j`8f965?o}9+'jj  V `pp|
+OL,16,D]S b965u=ey~ +vdjj  V //oo
+OL,17,D]S"5u=gy~?'yh0"o};j  V`6otp|0 "+o
+OL,18,D]S ?gy~?'145j"d +~0 V"} ##!       
+OL,19,D]SSj?'145555j  )0"  V "          h
+OL,20,D]SSh55555555j   "d5  V           x
+OL,21,D]SSj55555555j     5  V          ~?##!x
+OL,22,D]SSj555555%5j     5  V         `r|~
+OL,23,T]SSj5555%q|5j     5  V    `p||
+OL,24,A PoliticsB  World  CNext NewsFHeadlines
+FL,0,0,0,0,100,100
+PN,59712
+SC,0012
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V 8,,,,,,,,,,d +]Q +'  Pxgssssssssss;
+OL,2,Vjh####Q|V###45 "o?! jh####Q|V###45
+OL,3,VjjQ/  Q  |V55A|V+'A|VjjQ/  Q  |V55
+OL,4,VjjQ ( AQ0V 55A``V"/!A``VjjQ ( AQ0V 55
+OL,5,Vj* QZ(A=YV  %58#########dj* QZ(A=YV  %5
+OL,6,VjQ^A|A|]V\5_BRBRVjjQ^A|A|]V\5
+OL,7,Vjh ZQ(A=YV  45)ppppppppp&jh ZQ(A=YV  45
+OL,8,VjjQ ( AQ!V 55Z(,,,,,,,$YjjQ ( AQ!V 55
+OL,9,VjjQ|  Q  /V55Z (,,,,,$ YjjQ|  Q  /V55
+OL,10,Vj*ppppQ/Vppp%5Z  (,,,$  Yj*ppppQ/Vppp%5
+OL,11, V),,,,,,,,,,fQtpZV(,$YQpxV9,,,,,,,,,,& 
+OL,12,MBRBRBVjjQ^A|A|] V\5_BRBRBV
+OL,13,EYouGnerd!EYouGfoundEmyGhiddenEmessage. 
+OL,14,V 8,,,,,,,,,,fQ'#ZV(,$YQ#+V9,,,,,,,,,,d 
+OL,15,Vjh####Q|V###45Z  (,,,$  Yjh####Q|V###45
+OL,16,VjjQ/  Q  |V55Z (,,,,,$ YjjQ/  Q  |V55
+OL,17,VjjQ ( AQ0V 55Z(,,,,,,,$YjjQ ( AQ0V 55
+OL,18,Vj* QZ(A=YV  %58#########dj* QZ(A=YV  %5
+OL,19,VjQ^A|A|]V\5_RBRBVjjQ^A|A|]V\5
+OL,20,Vjh ZQ(A=YV  45)ppppppppp&jh ZQ(A=YV  45
+OL,21,VjjQ ( AQ!V 55A``V`|0A``VjjQ ( AQ!V 55
+OL,22,VjjQ|  Q  /V55A|VxtA|VjjQ|  Q  /V55
+OL,23,Vj*ppppQ/Vppp%5 `~}0Vj*ppppQ/Vppp%5
+OL,24, V),,,,,,,,,,& x]Q xt  P+vssssssssssy
+FL,0,0,0,0,100,100
+PN,59713
+SC,0013
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,W]V 8!   8!   8!   8!   8!   8!   8!    
+OL,2,V|||||||||||||||||||||||||||||||||||||||
+OL,3,V]T~s0j5~kk4~kk41{$               S`0
+OL,4,V]Tpz5oz%*j5*j50j5          W  S x' 
+OL,5,V]T   |h4xl0| |h<t`<th4|`<$     W S`>!  
+OL,6,V]T   k5j5 j5j=*-"#     WSx'x'  
+OL,7,V]T   #"!"# #!#2cq"as"#^"#VhhW\|<`<`||V
+OL,8,V]T            !z5cz%Vjj^jjjW\'x'x|vV
+OL,9,V]T      ppp    lz%lz%pp,Vj^jQ\?a&oV
+OL,10,V]T$pp,V^\?#ppk]T,`p^p( ,V"Q\x0syV
+OL,11,V]T,^V $^\'`~//^Qj5//V
+OL,12,V/!8/##    *]Tlp^V jVQ\v//1~V
+OL,13,V?'! pp,#SSh V o]T$p ^VjQ\iV
+OL,14,V/'c0 x~/#  S h V *^Qj?y||;/yV
+OL,15,Vp|.' &#  (0WS`%k V  ^Qjj=s?V
+OL,16,W<$W     W h$ S * ^RxpW,|||||Qj2//'~W|
+OL,17,V W S  >  T ~|pppp|~^|W#/Q ouoW
+OL,18,W4WS 6h% R hg?{k?W"dQ### #T`
+OL,19,W0S" 6 R xyg~?}?!T0W+/
+OL,20,W|p  `ptR/ow~?T`~|p   c{
+OL,21,W|pR#/oy'T`
+OL,22,W}|pR#+/?!Tx
+OL,23,W|p  x
+OL,24,AOverseas  BFlights   CUK  FHoliday News
+FL,0,0,0,0,100,100
+PN,59714
+SC,0014
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,]T                                      
+OL,2,]T                                      
+OL,3,]T                                      
+OL,4,]T         pp,d`p                       
+OL,5,]T  ^   8,# Vdd%9Td                     
+OL,6,]T ^  8#  V`(992"&Td                    
+OL,7,]T ^`>  V`(9V"TpVf&fT)`                 
+OL,8,]T^x?  V )!To|xt0V)9:T)                
+OL,9,]T~?!    *}~}|V(<T4;4             
+OL,10,]T?       +o%VbT8T2              
+OL,11,]T    V`d T +o5  "!T&               
+OL,12,]T   V 81   T +co!                     
+OL,13,]T   V &(yqddTf7                      
+OL,14,]T   V fT+m|}}5                      
+OL,15,]T ` V`$ fTk}                      
+OL,16,]T jdVyq<?T}#oou                     
+OL,17,]T *0#l}x?'V`!Tk0          `&#d      
+OL,18,]T  i0 #/'V0(! fT+}0     h0 8! 0 )0  `4
+OL,19,]Tpx|wd `&Vf&   (9T"mp    "f)o|z|~t,a&
+OL,20,]T/-#aV0 0  V fT`  ip  `~t0 ####!`,! 
+OL,21,]T##  Vd`!vhT6V90 To0  #),,fsyd8,##!  `
+OL,22,]T `|0(ytx}|2   "o|,dpp0   pppp8,,#!
+OL,23,]T tz}t    "/}pp"###,,,,,,dpp
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,59715
+SC,0015
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T]G                   
+OL,2,T]W  x4x,|`<l0 `4                       
+OL,3,T]W  j5p*uz%xu                       
+OL,4,T]WM j5"#j7k5#k7 G A YEAR IN CINEMA    
+OL,5,    a          zqaz                     
+OL,6,T]W  //  /"//! *%                       
+OL,7,T]G                   
+OL,8,GReleases:CThe Neverending StoryFAmadeus
+OL,9,CElectric DreamsFRomancing The StoneCThe
+OL,10,CKarate KidFThe TerminatorCGremlinsF1984
+OL,11,COnce Upon A Time In AmericaFParis Texas
+OL,12,CA Nightare On Elm StreetFPolice Academy
+OL,13,CStar Trek III: The Search For SpockFThe
+OL,14,FLast StarfighterCMuppets Take Manhatten
+OL,15,FCotton ClubCPurple RainFBlame It On Rio
+OL,16,CBreakdanceFRepo ManCAll Of MeFFootloose
+OL,17,CRevenge Of the NerdsFA Passage To India
+OL,18,CThe Company Of WolvesFBeverly Hills Cop
+OL,19,CThe Woman In RedFDuneCCannonball Run II
+OL,20,FBreakdance 2: Electric BoogalooCThis is
+OL,21,CSpinal TapFSixteen CandlesCGhostbusters
+OL,22,FThe Killing FieldsCSplashFIndiana Jones
+OL,23,FAnd The Temple Of DoomCAgainst All Odds
+OL,24,                                        
 FL,0,0,0,0,100,100
