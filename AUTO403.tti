@@ -5,20 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E18/07C13:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E18/07C14:34:55
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FStarting cloudy across southeast
-OL,9,FEngland with isolated showers, these
-OL,10,Fperhaps turning heavy and thundery
-OL,11,Fthrough the afternoon. Elsewhere,
-OL,12,Facross Wales, central and southern
-OL,13,FEngland it will be fine. Sunshine and
-OL,14,Fheavy showers across Scotland and
-OL,15,FNorthern Ireland. Fresher for most.
+OL,7,GThis Evening and Tonight
+OL,8,FDaytime showers in the north and west
+OL,9,Fbecoming confined to coastal areas
+OL,10,Fovernight. Meanwhile, cloud and
+OL,11,Foutbreaks of rain will spread into
+OL,12,Fparts of Wales and southwest England
+OL,13,Fduring the early hours. Elsewhere,
+OL,14,Fmostly dry with clear spells.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +25,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E18/07C13:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E18/07C14:34:55
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Saturday to Monday
-OL,8,FSunny spells and thundery showers on
-OL,9,FSaturday. Drier for many on Sunday and
-OL,10,FMonday, but windy in the west with rain
-OL,11,Fin the northwest. Turning increasingly
-OL,12,Fwarm and humid.
+OL,8,FRain clearing southeast early Saturday,
+OL,9,Fwith heavy thundery showers following
+OL,10,Fwidely. Drier for Northern Ireland.
+OL,11,FHeavy rain and strong winds in
+OL,12,Fnorthwest Sunday and Monday. Becoming
+OL,13,Fvery warm and humid.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
