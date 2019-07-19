@@ -5,22 +5,22 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E19/07C02:47:01
+OL,0,XXXXXXXXBNMPSERVER2      E19/07C03:46:54
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BA few heavy showersS5CSTATISTICS       
-OL,9,Bat first this      S5C 
-OL,10,Bevening but dying  S5G   Maximum       
-OL,11,Bout with some late S5GTemperatureC20C 
-OL,12,Bsunshine then some S5G                 
-OL,13,Bclear periods      S5G   Minumum       
-OL,14,Btonight. A little  S5GTemperatureC9C 
-OL,15,Bcooler than recent S5C                 
-OL,16,Bnights.            S5G
-OL,17,B                   S5G
+OL,6,CTODAY
+OL,8,BA bright start withS5CSTATISTICS       
+OL,9,Bsome sunshine in   S5C 
+OL,10,Bthe north. Rain    S5G   Maximum       
+OL,11,Breaching southern  S5GTemperatureC20C 
+OL,12,Bcounties during theS5G                 
+OL,13,Bmorning, spreading S5G   Minumum       
+OL,14,Bto the northeast   S5GTemperatureC11C 
+OL,15,Bfor a time but     S5C                 
+OL,16,Bstaying dry in the S5G
+OL,17,Bnorthwest.         S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
@@ -32,24 +32,24 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E19/07C02:47:01
+OL,0,XXXXXXXXBNMPSERVER2      E19/07C03:46:54
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CFRIDAY
-OL,8,BRain across        S5CSTATISTICS       
-OL,9,Bsouthern counties  S5C 
-OL,10,Bsoon after dawn,   S5G   Maximum       
-OL,11,Bspreading across   S5GTemperatureC20C 
-OL,12,Ball regions by     S5G                 
-OL,13,Bmidday. Rain       S5G   Minumum       
-OL,14,Blighter and more   S5GTemperatureC9C 
-OL,15,Bpatchy in the      S5C                 
-OL,16,Bafternoon, but     S5G
-OL,17,Bheavy showers in   S5G
-OL,18,Bthe south in the   S5G                 
-OL,19,Bevening.           S5G
+OL,6,CTONIGHT
+OL,8,BSome rain or       S5CSTATISTICS       
+OL,9,Bshowers across the S5C 
+OL,10,Bsouth and east, butS5G   Maximum       
+OL,11,Bthe northwest      S5GTemperatureC20C 
+OL,12,Bstaying dry, and   S5G                 
+OL,13,Bskies will clear   S5G   Minumum       
+OL,14,Beverywhere later inS5GTemperatureC11C 
+OL,15,Bthe night.         S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
