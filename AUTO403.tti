@@ -5,26 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E20/07C14:31:21
+OL,0,XXXXXXXXBNMPSERVER2      E20/07C16:48:48
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FRain across southeast England will
-OL,9,Fclear this morning. Rain across the
-OL,10,Fnorth and west will also break up,
-OL,11,Fleaving sunny spells and a few showers.
-OL,12,FShowers across central and eastern
-OL,13,Fareas locally heavy and thundery.
-OL,14,FFeeling warm in the southeast.
+OL,7,GThis Evening and Tonight
+OL,8,FDaytime showers will mostly fade
+OL,9,Ftonight, leaving long clear spells. A
+OL,10,Ffew showers will continue in some
+OL,11,Fwestern coastal areas though. It will
+OL,12,Fbe a little cooler than last night too.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FEvening showers will clear to leave a
-OL,18,Fdry night for much of the UK, though
-OL,19,Fperhaps a few light showers  continuing
-OL,20,Facross the far west. Cooler than recent
-OL,21,Fnights.
+OL,14,GSunday
+OL,15,FDry for most, with sunny spells.
+OL,16,FTurning cloudier in the northwest, with
+OL,17,Frain spreading across Northern Ireland
+OL,18,Fand Scotland, and into northwest
+OL,19,FEngland and Wales later. Windy in the
+OL,20,Fnorthwest.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +31,19 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E20/07C14:31:21
+OL,0,XXXXXXXXBNMPSERVER2      E20/07C16:48:48
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Monday to Wednesday
-OL,8,FRain, heavy over the hills, will
-OL,9,Fcontinue across the northwest on
-OL,10,FMonday, though clearing Tuesday.
-OL,11,FElsewhere, sunny and becoming very warm
-OL,12,For hot, with an increasing thunderstorm
-OL,13,Frisk by Wednesday.
+OL,8,FHeavy rainfall and strong winds in
+OL,9,Fnorthwest Monday. Warm and humid
+OL,10,Fwidely. Hot conditions likely in
+OL,11,Fsoutheast, some places reaching
+OL,12,Fheatwave thresholds Wednesday.
+OL,13,FThunderstorms possible in west Tuesday
+OL,14,Fand Wednesday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
