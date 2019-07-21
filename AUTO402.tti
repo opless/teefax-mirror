@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E21/07C02:45:51
+OL,0,XXXXXXXXBNMPSERVER2      E21/07C03:30:45
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BSunny spells in theS5CSTATISTICS       
-OL,9,Bevening as showers S5C 
-OL,10,Bfade away, then    S5G   Maximum       
-OL,11,Bclear spells       S5GTemperatureC18C 
-OL,12,Bovernight but cloudS5G                 
-OL,13,Bincreasing later inS5G   Minumum       
-OL,14,Bnight with perhaps S5GTemperatureC11C 
-OL,15,Ba little rain in   S5C                 
-OL,16,Bwest.              S5G
-OL,17,B                   S5G
-OL,18,B                   S5G                 
-OL,19,B                   S5G
-OL,20,B                   S5G
+OL,6,CTODAY
+OL,8,BA dry, bright startS5CSTATISTICS       
+OL,9,Bbut cloud          S5C 
+OL,10,Bincreasing from theS5G   Maximum       
+OL,11,Bwest brings        S5GTemperatureC20C 
+OL,12,Boutbreaks of rain  S5G                 
+OL,13,Bto western countiesS5G   Minumum       
+OL,14,Bby mid-morning. TheS5GTemperatureC14C 
+OL,15,Brain edges east    S5C                 
+OL,16,Bthis afternoon     S5G
+OL,17,Bbecoming heavy and S5G
+OL,18,Bpersistent at      S5G                 
+OL,19,Btimes, especially  S5G
+OL,20,Bacross western and S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,25 +32,25 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E21/07C02:45:51
+OL,0,XXXXXXXXBNMPSERVER2      E21/07C03:30:45
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSUNDAY
-OL,8,BSome early         S5CSTATISTICS       
-OL,9,Bbrightness in the  S5C 
-OL,10,Beast but cloud soonS5G   Maximum       
-OL,11,Bthickening with    S5GTemperatureC18C 
-OL,12,Boutbreaks of rain  S5G                 
-OL,13,Bdeveloping along   S5G   Minumum       
-OL,14,Bwith strong        S5GTemperatureC11C 
-OL,15,Bsoutherly winds.   S5C                 
-OL,16,BHeavy rain at timesS5G
-OL,17,Bin afternoon and   S5G
-OL,18,Bevening.           S5G                 
-OL,19,B                   S5G
-OL,20,B                   S5G
+OL,6,CTONIGHT
+OL,8,BA cloudy evening   S5CSTATISTICS       
+OL,9,Bwith outbreaks of, S5C 
+OL,10,Bespecially in the  S5G   Maximum       
+OL,11,Bwest, occasionally S5GTemperatureC20C 
+OL,12,Bheavy rain. The    S5G                 
+OL,13,Brain becomes       S5G   Minumum       
+OL,14,Blighter and        S5GTemperatureC14C 
+OL,15,Bpatchier overnight S5C                 
+OL,16,Band increasingly   S5G
+OL,17,Bconfined to        S5G
+OL,18,Bnorthern counties  S5G                 
+OL,19,Bas winds turn      S5G
+OL,20,Bsouthwesterly.     S5G
 OL,21,                                    2/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
