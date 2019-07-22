@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E22/07C00:33:34
+OL,0,XXXXXXXXBNMPSERVER2      E22/07C01:50:02
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain in Northern Ireland and western
-OL,9,FScotland will spread into northwest
-OL,10,FEngland and Wales, with some heavy
-OL,11,Foutbreaks and strong winds. Further
-OL,12,Fsouth it will be mostly dry, with clear
-OL,13,Fspells, but it will be breezy.
+OL,7,GToday
+OL,8,FA cloudy start with rain in northern
+OL,9,Fareas. Rain becoming confined to
+OL,10,Fwestern Scotland through the morning.
+OL,11,FDry elsewhere with sunny spells, but
+OL,12,Fcloudier around western coasts and
+OL,13,Fhills. Very warm and humid for many.
+OL,14,FBreezy in the north.
 OL,4,                                    1/2 
-OL,15,GMonday
-OL,16,FAfter a cloudy and wet start for some,
-OL,17,Fthe rain will become confined to
-OL,18,Fwestern Scotland. Otherwise, warm sunny
-OL,19,Fspells will develop away from windward
-OL,20,Fcoasts.
+OL,16,GTonight
+OL,17,FOutbreaks of rain in northwest Scotland
+OL,18,Fand some drizzle along Irish Sea
+OL,19,Fcoasts, but largely dry elsewhere. Low
+OL,20,Fcloud and fog developing across
+OL,21,Fsouthern areas.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E22/07C00:33:34
+OL,0,XXXXXXXXBNMPSERVER2      E22/07C01:50:02
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Tuesday to Thursday
-OL,8,FSunny Tuesday, and very warm or hot.
-OL,9,FThunderstorms likely in west later,
-OL,10,Flasting into Wednesday. Exceptionally
-OL,11,Fwarm night southeast, and hot here
-OL,12,FWednesday, Thursday. Fresher in west,
-OL,13,Frisk of thunder.
+OL,7,GOutlook for Wednesday to Friday
+OL,8,FSunshine at first but with the risk of
+OL,9,Fisolated thunderstorms. Hot and humid
+OL,10,Ffor many. Showery rain will spread
+OL,11,Feastwards later in the week,
+OL,12,Fintroducing fresher conditions from the
+OL,13,Fwest.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
