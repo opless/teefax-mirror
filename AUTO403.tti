@@ -5,20 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E23/07C15:49:52
+OL,0,XXXXXXXXBNMPSERVER2      E23/07C16:17:35
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GThis Evening and Tonight
-OL,8,FMany areas will be dry, with clear
+OL,8,FMany areas will start dry, with clear
 OL,9,Fspells. Thunderstorms in the south and
 OL,10,Fsouthwest will move northeastwards into
 OL,11,FWales, northern England, and Scotland
 OL,12,Fovernight with low cloud and fog
 OL,13,Ffollowing behind for some western
-OL,14,Fparts, mainly Cornwall, Devon, and
-OL,15,FWales.
+OL,14,Fparts. A warm night.
+OL,4,                                    1/2 
+OL,16,GWednesday
+OL,17,FThundery showers will clear northwards
+OL,18,Facross Scotland through the morning. By
+OL,19,Fmidday it will become mostly dry across
+OL,20,Fthe UK, with plenty of very warm
+OL,21,Fsunshine away from western coasts.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E23/07C15:49:52
+OL,0,XXXXXXXXBNMPSERVER2      E23/07C16:17:35
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Thursday to Saturday
-OL,8,FThursday, fine and hot with very hot
-OL,9,Fconditions in the southeast and an
-OL,10,Fexceptionally warm night here too. Then
-OL,11,Fan erratic, thundery transition to
-OL,12,Ffresher conditions during Friday and
-OL,13,FSaturday.
+OL,8,FThursday, fine and hot, exceptionally
+OL,9,Fhot conditions possible in the
+OL,10,Fsoutheast, flanked by unusually  warm
+OL,11,Fnights. Then an erratic, thundery
+OL,12,Ftransition to slightly fresher
+OL,13,Fconditions on Friday and Saturday
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
