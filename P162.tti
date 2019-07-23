@@ -28,7 +28,7 @@ OL,20,TZW`"T"$h<.!   WdkTT
 OL,21,TZWj$         W*2/T
 OL,22,TZW44    T`pppp|||~
 OL,23,TZWk|0T|~
-OL,24, AOnTheQT    BNews   CMovies   FWeather 
+OL,24, AOnTheQT    BNews   CMovies   FWeather@
 FL,160,161,163,167,100,100
 PN,16202
 SC,0002
@@ -58,16 +58,16 @@ OL,20,A           Sunday, February 3
 OL,21,G                                       
 OL,22,GH        Halftime show: Maroon 5       
 OL,23,                                        
-OL,24, AIndex    BNews    CMovies    FWeather 
+OL,24, AIndex    BNews    CMovies    FWeather@
 FL,160,161,163,165,100,100
 PN,16203
 SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,RZ  /o4h?/} ~//%j?// /o4h?/}    j5   
-OL,2,RZ  /o4j}| +/o4j?/% /o4j}|    j5   
-OL,3,RZ  ///!*% / ///!*/// ///!*% / ///%*/// 
+OL,1,RZ@ /o4h?/}@~//%j?//@/o4h?/}@ @ j5@@@
+OL,2,RZ@@/o4j}| +/o4j?/%@/o4j}|@ @ j5@@@
+OL,3,RZ@@///!*% /@///!*///@///!*%@/@///%*/// 
 OL,4,W p~|0 
 OL,5,Wh#                    +7#########k} 
 OL,6,Wz5                      k0         o4
@@ -88,16 +88,16 @@ OL,20,W  S       Q  ?Wj5
 OL,21,Wk5         Q  /o///' W~%
 OL,22,W*0        Q        Wx? 
 OL,23,W +o/! 
-OL,24, AIndex    BNews    CMovies    FWeather 
+OL,24, AIndex    BNews    CMovies    FWeather@
 FL,160,161,163,165,100,100
 PN,16204
 SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,RZ  /o4h?/} ~//%j?// /o4h?/}    j5   
-OL,2,RZ  /o4j}| +/o4j?/% /o4j}|    j5   
-OL,3,RZ  ///!*% / ///!*/// ///!*% / ///%*/// 
+OL,1,RZ@ /o4h?/}@~//%j?//@/o4h?/}@ @ j5@@@
+OL,2,RZ@@/o4j}| +/o4j?/%@/o4j}|@ @ j5@@@
+OL,3,RZ@@///!*% /@///!*///@///!*%@/@///%*/// 
 OL,4,G S                                     
 OL,5,G                                       
 OL,6,FM         2017 MLB World Series        
@@ -118,5 +118,5 @@ OL,20,F7BNov 1 C Dodger Stadium   B 5 - 1
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24, AIndex    BNews    CMovies    FWeather 
+OL,24, AIndex    BNews    CMovies    FWeather@
 FL,160,161,163,165,100,100

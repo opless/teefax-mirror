@@ -5,10 +5,10 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,V  Zh|h4           ,$        h||4,$h|   
-OL,2,S  Zj0?jo5o55?j?5 j| 5o%  
-OL,3,Q  Zjj5wsjs1z555ju5 j  5j   
-OL,4,U  Z"#"!###"##!7#!#!#!#bs5 "#  #!"#   
+OL,1,V@@Zh|h4           ,$        h||4,$h|   
+OL,2,S@@Zj0?jo5o55?j?5 j| 5o%  
+OL,3,Q@@Zjj5wsjs1z555ju5 j  5j   
+OL,4,U@@Z"#"!###"##!7#!#!#!#bs5 "#  #!"#   
 OL,5,F                                       
 OL,6,F                                       
 OL,7,F                                       
@@ -28,7 +28,7 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,24, AOnTheQT    BCharts    CHarley   FQuiz 
+OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16502
 SC,0002
@@ -58,7 +58,7 @@ OL,20,Fback, 5 up, 4 back, 3 up, 2 back, 1 up,
 OL,21,Fhave a seat. Take inventory. Are you   
 OL,22,Fwith me? Add a full turn, push your    
 OL,23,Fheels down. Up 10.. 9.. 8.. 7.. 6.. 5..
-OL,24, AOnTheQT    BCharts    CHarley   FQuiz 
+OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16503
 SC,0003
@@ -88,7 +88,7 @@ OL,20,R       `&          5         "d
 OL,21,R      8!           5           )0      
 OL,22,R    `&             5            "d     
 OL,23,R   8!              5              )0   
-OL,24, AOnTheQT    BCharts    CHarley   FQuiz 
+OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16504
 SC,0004
@@ -118,7 +118,7 @@ OL,20,R       `&          5         "d
 OL,21,GThe fastest 45 mins of exercise. Ever. 
 OL,22,R    `&             5            "d     
 OL,23,R   8!              5              )0   
-OL,24, AOnTheQT    BCharts    CHarley   FQuiz 
+OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16505
 SC,0005
@@ -148,7 +148,7 @@ OL,20,R       `&          5         "d
 OL,21,G     Experience in Super-WIDESCREEN.   
 OL,22,R    `&             5            "d     
 OL,23,R   8!              5              )0   
-OL,24, AOnTheQT    BCharts    CHarley   FQuiz 
+OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16506
 SC,0006
@@ -178,5 +178,5 @@ OL,20,CAre you alright?FARE YOU ALRIGHT!CGive
 OL,21,Cme more. More, More, MORE!CAre you     
 OL,22,Csweating? You better be, Clap those    
 OL,23,Chands. Down, Up, CLAP! Down, Up, CLAP! 
-OL,24, AOnTheQT    BCharts    CHarley   FQuiz 
+OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100

@@ -5,29 +5,29 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,W]T       |0 `|Q    T|    | |    Gth    
+OL,1,W]T       |0 `|Q    T|    | |    Gth@   
 OL,2,W]T       |Qx?otT>ot |     GHRON  
 OL,3,W]T       j5Q0`T0`      G      
 OL,4,W]T       / / /Q"//!T/+/! / /    G      
-OL,5,                                        
-OL,6,     D]G                       \        
-OL,7,G    D]GGasoline Self Serve    \        
-OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
-OL,9,G    D]GRegularWcs%6#46#4G9/   \        
-OL,10,G    D]G       Wpp%rs%rs%G10   \        
+OL,5,@    @@@                    @@ @        
+OL,6,    @D]G                    @@ \        
+OL,7,G    D]GGasoline Self Serve @@ \        
+OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,, @\        
+OL,9,G    D]GRegularWcs%6#46#4G9/@@ \        
+OL,10,G    D]G@@@@@@@Wpp%rs%rs%G10@@ \        
 OL,11,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
-OL,12,G    D]GSpecialW8k 6#4ws!G9/   \        
-OL,13,G    D]G       W-n$ep%pp%G10   \        
+OL,12,G    D]GSpecialW8k 6#4ws!G9/@@ \        
+OL,13,G    D]G@@@@   W-n$ep%pp%G10@  \        
 OL,14,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
-OL,15,G    D]GSuper+ W8k &5 6#4G9/   \        
-OL,16,G    D]G       W-n$pu0rs%G10   \        
+OL,15,G    D]GSuper+ W8k &5 6#4G9/@  \        
+OL,16,G    D]G@@@@@@@W-n$pu0rs%G10@  \        
 OL,17,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
 OL,18,G    C]T,,,,,,,,,,,,,,,,,,,,,  \        
-OL,19,D    C]DDiesel Tss%fs$6#4D9/   \        
-OL,20,G    C]D_2     Tpp%ep%rs%D10   \        
+OL,19,D    C]DDiesel Tss%fs$6#4D9/@  \        
+OL,20,G    C]D_2     Tpp%ep%rs%D10@  \        
 OL,21,G    C]T,,,,,,,,,,,,,,,,,,,,,  \        
-OL,22,                                        
-OL,23,                                        
+OL,22,     @@@@         @@@                   
+OL,23,                  @@@                   
 OL,24,                                        
 FL,0,0,0,0,100,100
 PN,16902
@@ -35,27 +35,27 @@ SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,W]T   `,$4                T|p `x4Gth    
+OL,1,W]T   `,$4                T|p `x4Gth@   
 OL,2,W]T   5  =#4vs45 5=#h#ij&iT#/?'!GHRON  
 OL,3,W]T   ",$% %), "& % ",&* *Q|px~5G      
 OL,4,W]D   Dwith TECHRON       Q #/'! G      
-OL,5,G                              \        
-OL,6,     D]G                       \        
-OL,7,G    D]GGasoline   Self Serve  \        
-OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
-OL,9,G    D]GRegularW8k 7#5ws1G9/   \        
-OL,10,G    D]G       W-n$up5pp5G10   \        
-OL,11,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
-OL,12,G    D]GPlus   W8k 85 7#5G9/   \        
-OL,13,G    D]G       W-n$pu0ss5G10   \        
+OL,5,G    @@@                    @@ \        
+OL,6,    @D]G                       \        
+OL,7,G    D]GGasoline  @Self Serve @\@@      
+OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,,@ \        
+OL,9,G    D]GRegularW8k 7#5ws1G9/@@ \        
+OL,10,G    D]G@@@@@@@W-n$up5pp5G10@  \        
+OL,11,G    D]W,,,,,,,,,,,,,,,,,,,,,@ \        
+OL,12,G    D]GPlus   W8k 85 7#5G9/@  \        
+OL,13,G    D]G@@@@   W-n$pu0ss5G10@  \        
 OL,14,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
-OL,15,G    D]GSupremeW8k ss57#5G9/   \        
-OL,16,G    D]G       W-n$up0ss5G11   \        
+OL,15,G    D]GSupremeW8k ss57#5G9/@  \        
+OL,16,G    D]G@@@@@@@W-n$up0ss5G11@  \        
 OL,17,G    D]W,,,,,,,,,,,,,,,,,,,,,  \        
-OL,18,G    B]GDiesel W8k 7#57#5G9/   \        
-OL,19,D    B]GNo.2   W-n$up5ss5G10   \        
+OL,18,G    B]GDiesel W8k 7#57#5G9/@  \        
+OL,19,D    B]GNo.2   W-n$up5ss5G10@  \        
 OL,20,G    R/////////////////////////\        
-OL,21,G                                       
+OL,21,G    @@@@                   @  @        
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        
@@ -65,16 +65,16 @@ SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,W]Q ^      hQ]T         _W k
-OL,2,W]Q ^      Q]Tx||||`~?! W  
-OL,3,W]Q ^     jQ]T#c!~|0 W  j
-OL,4,W]Q ^     jQ]T ~%j!j W  j
-OL,5,W]Q ^      Q]Tz7 *|' W  
-OL,6,W]Q ^      *Q]T##       _W z
-OL,7,                                        
+OL,1,W]Q ^@@@@  hQ]T         _W k
+OL,2,W]Q ^@@@@  Q]Tx||||`~?! W@ 
+OL,3,W]Q ^@@@@ jQ]T#c!~|0 W@ j
+OL,4,W]Q ^@@@@ jQ]T ~%j!j W@ j
+OL,5,W]Q ^@@@@  Q]Tz7 *|' W@ 
+OL,6,W]Q ^@@@@  *Q]T##       _W z
+OL,7,@@@                              @      
 OL,8,     A]G                        \       
 OL,9,     A]GGasoline   Self Serve   \       
-OL,10,G    A]W,,,,,,,,,,,,,,,,,,,,,$  \       
+OL,10,G @  A]W,,,,,,,,,,,,,,,,,,,,,$  \       
 OL,11,G    A]GRegular Wss57#57#5G9/   \       
 OL,12,G    A]G        Wpp5ss5ss5G10   \       
 OL,13,G    A]W,,,,,,,,,,,,,,,,,,,,,$  \       
@@ -99,23 +99,23 @@ OL,1,T]W   `||0 |||0 `||0 `||0Q Q x5}0
 OL,2,T]W   !"  b !"/ !"Q Q./!+/$      
 OL,3,T]W   // /ou 0`| 0`Q Q+4~?!      
 OL,4,T]W   /  / /  / "//! "//!Q Q "%'        
-OL,5,G                                       
-OL,6,     D]G                        \       
-OL,7,     D]GGasoline   Self Serve   \       
-OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,,$  \       
-OL,9,G    D]GUnleadedWss5ss5ws1G9/   \       
-OL,10,G    D]G        Wpp5pp5pp5G10   \       
-OL,11,G    D]W,,,,,,,,,,,,,,,,,,,,,$  \       
-OL,12,G    D]GPlus    Wss5ws1ws1G9/   \       
-OL,13,G    D]G        Wpp5pp5pp5G10   \       
-OL,14,G    D]W,,,,,,,,,,,,,,,,,,,,,$  \       
-OL,15,G    D]GPremium Wss5ws1ws1G9/   \       
-OL,16,G    D]G        Wpp5up5pp5G10   \       
-OL,17,G    D]W,,,,,,,,,,,,,,,,,,,,,$  \       
-OL,18,G    B]W,,,,,,,,,,,,,,,,,,,,,$  \       
-OL,19,G    B]GDiesel  Wss5ws1ws1G9/   \       
-OL,20,G    B]GNo.2    Wpp5pp5pp5G10   \       
-OL,21,G    B]W,,,,,,,,,,,,,,,,,,,,,$  \       
+OL,5,G    @@@                    @@ @        
+OL,6,    @D]G                     @ @\       
+OL,7,    @D]GGasoline   Self Serve @@\@@     
+OL,8,G    D]W,,,,,,,,,,,,,,,,,,,,,$@@\       
+OL,9,G    D]GUnleadedWss5ss5ws1G9/@@ \       
+OL,10,G    D]G@@@@@@@ Wpp5pp5pp5G10@@ \       
+OL,11,G    D]W,,,,,,,,,,,,,,,,,,,,,$ @\       
+OL,12,G    D]GPlus    Wss5ws1ws1G9/@@ \       
+OL,13,G    D]G@@@@    Wpp5pp5pp5G10@  \       
+OL,14,G    D]W,,,,,,,,,,,,,,,,,,,,,$ @\       
+OL,15,G    D]GPremium Wss5ws1ws1G9/@  \       
+OL,16,G    D]G@@@@@@@ Wpp5up5pp5G10@  \       
+OL,17,G    D]W,,,,,,,,,,,,,,,,,,,,,$ @\       
+OL,18,G    B]W,,,,,,,,,,,,,,,,,,,,,$ @\       
+OL,19,G    B]GDiesel  Wss5ws1ws1G9/@  \       
+OL,20,G    B]GNo.2@@@ Wpp5pp5pp5G10@  \       
+OL,21,G    B]W,,,,,,,,,,,,,,,,,,,,,$ @\       
 OL,22,                                        
 OL,23,                                        
 OL,24,                                        

@@ -26,12 +26,42 @@ OL,18,P           T"mx8Wm(48h()PT9xP
 OL,19,P             T#o4Wuuuuu7Tx"!P          
 OL,20,P               T"W",'''T!P             
 OL,21,P                                       
-OL,22,P           MGATOMKRIEG  NEIN           
-OL,23,P           MGATOMKRIEG  NEIN           
+OL,22,P           MGATOMKRIEG  NEIN@          
+OL,23,P           MGATOMKRIEG  NEIN@          
 OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,59702
 SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V]G                                     
+OL,2,V]Q]  V]
+OL,3,V]Q]       V\]D]GULTIM'ORA     ^101TkV\
+OL,4,V]Q] GRAI  V\}||||||||||||||||||||||~
+OL,5,V]Q]       V\]D]GNOTIZIE       ^103TkV\
+OL,6,V]Q]  V\}||||||||||||||||||||||~
+OL,7,Vppppppppp]D]GSPORT         ^200TkV\
+OL,8,V}||||||||||||||||||||||~
+OL,9,V]D]GECONOMIA IMPESA FINANZA   ^300TkV\
+OL,10,V}||||||||||||||||||||||||||||||||||~
+OL,11,V]D]GSTATO E PARLAMENTO        ^350TkV\
+OL,12,V}||||||||||||||||||||||||||||||||||~
+OL,13,V]D]GMETEO TRASPORTI VIABILITA'^400TkV\
+OL,14,V}||||||||||||||||||||||||||||||||||~
+OL,15,V]D]GTV SPETTACOLO CULTURA     ^500TkV\
+OL,16,V}||||||||||||||||||||||||||||||||||~
+OL,17,V]D]GMAGAZINE OROSCOPO LOTTO   ^600TkV\
+OL,18,V}||||||||||||||||||||||||||||||||||~
+OL,19,V]D]GSCUOLA LAVORO PREVIDENZA  ^700TkV\
+OL,20,V}||||||||||||||||||||||||||||||||||~
+OL,21,V]D]GTELESOFTWARE              ^740TkV\
+OL,22,V}||||||||||||||||||||||||||||||||||~
+OL,23,V]D                  Indice A-Z 799     
+OL,24,A]@  -   B]@  +    C]@ 110   F]@ 200    
+FL,0,0,0,0,100,100
+PN,59703
+SC,0003
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -59,36 +89,6 @@ OL,21,TtR+'  o'+7`>`TkS}2 0.?!x0+)`$! T
 OL,22,Tt R 0  b! p""TSt"),,((,&!   T
 OL,23,T}tR*$("m 6 Tj/S=0          T"+
 OL,24,                                        
-FL,0,0,0,0,100,100
-PN,59703
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,V]G                                     
-OL,2,V]Q]  V]
-OL,3,V]Q]       V\]D]GULTIM'ORA     ^101TkV\
-OL,4,V]Q] GRAI  V\}||||||||||||||||||||||~
-OL,5,V]Q]       V\]D]GNOTIZIE       ^103TkV\
-OL,6,V]Q]  V\}||||||||||||||||||||||~
-OL,7,Vppppppppp]D]GSPORT         ^200TkV\
-OL,8,V}||||||||||||||||||||||~
-OL,9,V]D]GECONOMIA IMPESA FINANZA   ^300TkV\
-OL,10,V}||||||||||||||||||||||||||||||||||~
-OL,11,V]D]GSTATO E PARLAMENTO        ^350TkV\
-OL,12,V}||||||||||||||||||||||||||||||||||~
-OL,13,V]D]GMETEO TRASPORTI VIABILITA'^400TkV\
-OL,14,V}||||||||||||||||||||||||||||||||||~
-OL,15,V]D]GTV SPETTACOLO CULTURA     ^500TkV\
-OL,16,V}||||||||||||||||||||||||||||||||||~
-OL,17,V]D]GMAGAZINE OROSCOPO LOTTO   ^600TkV\
-OL,18,V}||||||||||||||||||||||||||||||||||~
-OL,19,V]D]GSCUOLA LAVORO PREVIDENZA  ^700TkV\
-OL,20,V}||||||||||||||||||||||||||||||||||~
-OL,21,V]D]GTELESOFTWARE              ^740TkV\
-OL,22,V}||||||||||||||||||||||||||||||||||~
-OL,23,V]D                  Indice A-Z 799     
-OL,24,A]D  -   B]D  +    C]D 110   F]D 200    
 FL,0,0,0,0,100,100
 PN,59704
 SC,0004
@@ -245,28 +245,28 @@ SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,T)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&
+OL,1,V)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&
 OL,2,W                                       
 OL,3,MTHIS IS A DOUBLE TEST,TO THE END OF PAG
-OL,4,T)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&
+OL,4,V)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&
 OL,5,W                                       
-OL,6,                                        
-OL,7, SINGLE TEXTMDOUBLE TEXTLSINGLE TEXT END
-OL,8, DIFFERENT TEXT THAT SAYS SOMETHING ELSE
-OL,9,T                                       
-OL,10,MFSPLIT COLOR DOUBLE HEIGHTACHANGE      
-OL,11,MCSPLIT COLOR DOUBLE HEIGHTECHANGE      
-OL,12,T                                       
-OL,13,T)p&#)p&#)p&#)p&#)M&#)p&#)p&#)p&#)p&#)p&
-OL,14,Ud&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d
-OL,15,V                                       
-OL,16,W                                       
+OL,6,FTHIS IS A DOUBLE TEST TO END OF LINE  M
+OL,7,MTHIS IS A DOUBLE TEST TO END OF LINE   
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,MFSPLIT COLOR DOUBLE HEIGHTACHANGE      
+OL,12,MCSPLIT COLOR DOUBLE HEIGHTECHANGE      
+OL,13,                                        
+OL,14,V)p&#)p&#)p&#)p&#)M&#)p&#)p&#)p&#)p&#)p&
+OL,15,Ud&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d&d
+OL,16,                                        
 OL,17,ASINGLE TEXT A    MDOUBLE HEIGHT TEXT   
 OL,18,FOTHER TEXT B     MOTHER HEIGHT D       
-OL,19,C                                       
-OL,20,T)p&#)p&#)p&#)p&#)M&#)p&#)p&#Lp&#)p&#)p&
+OL,19,                                        
+OL,20,V)p&#)p&#)p&#)p&#)M&#)p&#)p&#Lp&#)p&#)p&
 OL,21,Ud&d&d&d&d&d&d&d&dMd&d&d&d&d&L&d&d&d&d&d
-OL,22,C                                       
+OL,22,                                        
 OL,23,T)p&#)p&#)p&#)p&#)M&#)p&#)p&#Lp&#)p&#)p&
 OL,24,T)p&#)p&#)p&#)p&#)M&#)p&#)p&#Lp&#)p&#)p&
 FL,0,0,0,0,100,100
@@ -312,7 +312,7 @@ OL,4,
 OL,5,G MERCADO DE MADRID.................561 
 OL,6,C BILLETES EXTRANJEROS BANCO ESPANA.562 
 OL,7,G ECU...............................563 
-OL,8,Q] PAG.- R] BILLETES S] E.C.U.V] BOLSA  
+OL,8,                                        
 OL,9,  ]        R]P<080th`,`,0  p||||||pp    
 OL,10,  ]A6T57446R]Pw$757o*p*p%`~?|/###}   
 OL,11,  ]        R]P<0<$       7        "4  
@@ -326,7 +326,7 @@ OL,18,  ]R~tx}p~tR]P            *}|k?
 OL,19,^WR1767676]P =8555       `/##o!z}  
 OL,20,^WR5555555]P % %%-$      7o}p|' 5  
 OL,21,^WRu}y}y}y]P PESETAS    "'!! "##!  #   
-OL,22,  ]R+!"' +!R]                A6T57446   
+OL,22,  ]R+!"' +!R]@               A6T57446   
 OL,23,                                        
-OL,24,Q]GPAG.- R] BILLETES S] E.C.U.V] BOLSA  
+OL,24,Q]GPAG.- R]@BILLETES S]@E.C.U.V]@BOLSA  
 FL,0,0,0,0,100,100
