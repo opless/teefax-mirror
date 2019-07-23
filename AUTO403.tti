@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E23/07C02:30:44
+OL,0,XXXXXXXXBNMPSERVER2      E23/07C03:47:00
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FPersistent rain, heavy at times, for
-OL,9,Fnorthwest Scotland will gradually clear
-OL,10,Fnorthwards. Some strong winds for the
-OL,11,Fwestern isles. Dry elsewhere, but
-OL,12,Fcloudy in the west. Clear skies for
-OL,13,Fsouthern and eastern parts, with patchy
-OL,14,Ffog forming here by dawn.
+OL,7,GToday
+OL,8,FLow cloud and fog will soon clear
+OL,9,Fsouthern areas to allow plenty of
+OL,10,Fsunshine for England and Wales. It will
+OL,11,Fbecome hot in south, central and
+OL,12,Feastern England, but with a risk of
+OL,13,Fthunderstorms into south and southwest
+OL,14,Flater.
 OL,4,                                    1/2 
-OL,16,GTuesday
-OL,17,FEarly fog and cloud will clear quickly
-OL,18,Fto leave a hot, sunny day for most,
-OL,19,Falthough cloudier for northwest
-OL,20,FScotland. A risk of some thundery
-OL,21,Fshowers in the southwest later.
+OL,16,GTonight
+OL,17,FMany areas will be dry, with clear
+OL,18,Fspells. Thunderstorms in the south and
+OL,19,Fsouthwest will move northeastwards
+OL,20,Fthough, with low cloud and fog for some
+OL,21,Fwestern parts.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E23/07C02:30:44
+OL,0,XXXXXXXXBNMPSERVER2      E23/07C03:47:00
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FHot or very hot on Wednesday and
-OL,9,FThursday with some good sunny spells,
-OL,10,Fespecially in the southeast. Cloudier
-OL,11,Fin the west with showers on Thursday.
-OL,12,FFriday, fresher with scattered showers.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FThunderstorm risk in west Thursday.
+OL,9,FVery hot conditions in southeast, and
+OL,10,Fan exceptionally warm night here.
+OL,11,FThundery transition to fresher
+OL,12,Fconditions Friday. Sunshine and showers
+OL,13,FSaturday, mainly west and southwest.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
