@@ -7,7 +7,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,V7###  GA B CHDIE     V5 j5      // 
 OL,2,Q5   j jjs{ ss1ss1 5 j5#57k pp 
-OL,3,Vupr{@pzjpp0ppz5ppz5 u:t5 5sz 1   
+OL,3,Vupr{ pzjpp0ppz5ppz5 u:t5 5sz 1   
 OL,4,BBorn Chicago 1901.                     
 OL,5,                                        
 OL,6,FStarted life as a commercial artist.   
@@ -67,13 +67,13 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,G]Q          h|||<                      
 OL,2,G]Q          j##                       
-OL,3,G]Q         x?!ELECTRONICS  @         
+OL,3,G]Q         x?!ELECTRONICS            
 OL,4,G]Q          j ?jj*!?'            
 OL,5,G]Q          j 5 jz  c{            
 OL,6,G]Q          "# #! "#k  ###            
-OL,7,G]Q  @@              *!     @           
-OL,8,GM   @     @  WEEKLY DEALSL             
-OL,9,GM   @     @@@WEEKLY DEALSL             
+OL,7,G]Q                  *!                 
+OL,8,GM            WEEKLY DEALSL             
+OL,9,GM            WEEKLY DEALSL             
 OL,10,G                                       
 OL,11,GFATYME 43" 4K Ultra HD LED TV.....C$229
 OL,12,G    @@@@@@@   @      @                 
@@ -86,7 +86,7 @@ OL,18,G    @@@@
 OL,19,B Prices good through Sat April 21, 2018
 OL,20,G  @ @@@@                   @           
 OL,21,G    @@@@                   @           
-OL,22,G]A @@ CELLPHONE CLEARANCE BLOWOUT      
+OL,22,G]A @  CELLPHONE CLEARANCE BLOWOUT      
 OL,23,G]A @ Huge savings on MAJOR brands      
 OL,24,                                        
 FL,0,0,0,0,100,100
@@ -125,24 +125,24 @@ SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,R]W              W`pppp0P               
-OL,2,R]W          Wp<.ss||||ss/lpP           
-OL,3,R]W        Wx.y~}v;t0P        
-OL,4,R]W      W`>y|;tP       
-OL,5,R]W     W`7~:uP      
-OL,6,R]W     W>zj4P     
-OL,7,R]W    Wji7#o'#7#/#k7###+5uP     
-OL,8,R]W    Wjj@@"7`@k5@0" j5@?%`jP     
-OL,9,R]W    Wjj7@~0@~@"5@t"@j5@0@ojP     
-OL,10,R]W    Wj:up}xupupupzup|p{57P     
-OL,11,R]W     W}k/o?/j%P     
+OL,1,R]W              W`pppp0                
+OL,2,R]W          Wp<.ss||||ss/lp            
+OL,3,R]W        Wx.y~}v;t0         
+OL,4,R]W      W`>y|;t        
+OL,5,R]W     W`7~:u       
+OL,6,R]W     W>zj4      
+OL,7,R]W    Wji7#o'#7#/#k7###+5u      
+OL,8,R]W    Wjj  "7` k5 0" j5 ?%`j      
+OL,9,R]W    Wjj7 ~0 ~ "5 t" j5 0 oj      
+OL,10,R]W    Wj:up}xupupupzup|p{57      
+OL,11,R]W     W}k/o?/j%      
 OL,12,R]W   p0W*vo5=7|ks{jjh6i' 7ss#5 
-OL,13,R]W   5@W*u/|~|}|h~?y'@ 5k55 
-OL,14,R]W 5W"+v//y.!@  5~%5 
-OL,15,R]W   5@   W"+,v;//?//gs<'!@    -,,,% 
-OL,16,R]W pp#a0`p0@  p0#s;,.s3# pp `p0 `p `p0 
-OL,17,R]W*w{%k5os?@ zk5*'{%~w0 *'5/kh7 s@
-OL,18,R]Wjw{5j5s 0/o?ht{5r``~w0xq*/%~s}@
+OL,13,R]W   5 W*u/|~|}|h~?y'  5k55 
+OL,14,R]W 5W"+v//y.!   5~%5 
+OL,15,R]W   5    W"+,v;//?//gs<'!     -,,,% 
+OL,16,R]W pp#a0`p0   p0#s;,.s3# pp `p0 `p `p0 
+OL,17,R]W*w{%k5os?  zk5*'{%~w0 *'5/kh7 s 
+OL,18,R]Wjw{5j5s 0/o?ht{5r``~w0xq*/%~s} 
 OL,19,R]W ## "!"#! ! "! #! "#!""##!###  # "#! 
 OL,20,R]W,4,4<4,4x h44|$|d(|$|hh<0xd h<4|h44|d
 OL,21,R]Ww1w1w5r5z0*}%1j  o:j=1n jw4:}%:
