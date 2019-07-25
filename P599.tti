@@ -54,7 +54,7 @@ OL,15,W]Q   ~?W\ h7V&Wx<,,,,|0P V5jWj]Q5  j
 OL,16,W]Q   %W\`VfPWk!P  Wk!P V1V5W]Qj5  j
 OL,17,W]Q   ' W\ ~%VfP           V5V5W]Q 5  j
 OL,18,W7 ~7PVfW(upppppz$WpVbV5Wj]Q   j
-OL,19,W]D"OH NO!  \ V&PW#######VfW|V5W 
+OL,19,W]D"OH NO!  \ V&PW#######VfW|V5W`
 OL,20,W]DNOT THE \W`x?VfPV8PV)0VfW*|Wgss
 OL,21,W]D1987 POP    \V5VfPViVjVjPW"ote
 OL,22,W]DPOLL!!"    \VfPVfV`jVjVjPVfWo?j
@@ -336,8 +336,8 @@ SC,0012
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,P   THAT'S ALL FROM T]CCC E E F A X   \ 
-OL,2,P                   T]SS|||||h|||||   \ 
+OL,1,    THAT'S ALL FROM T]CCC E E F A X   \ 
+OL,2,                    T]SS|||||h|||||  !\ 
 OL,3,Q]T]SSupzj 5j  Q
 OL,4,Q]T]SS5 jj 5j  Q
 OL,5,Q]T]SS             Q
@@ -359,7 +359,7 @@ OL,20,QT"# #!
 OL,21,QT}0$`~        
 OL,22,QT]UH                     /  \       
 OL,23,QT]W                "o]W ^\'     
-OL,24,E                       P               
+OL,24,E                                       
 FL,0,0,0,0,100,100
 PN,59913
 SC,0013
@@ -1049,10 +1049,40 @@ OL,20,U]      S`}t/y7v>rgxuU          j\
 OL,21,U]      S*k774+/}{}?/jkk7?U          j\
 OL,22,U]       S#"!!!US###!S"""!!U          j\
 OL,23,U###################################### 
-OL,24,P                                       
+OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59936
 SC,0036
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,A]GWhat is a cat's favourite TV show?   
+OL,2,A]Fpress reveal                         
+OL,3,PT|||||||||||||||||||||||||||||||||||||P
+OL,4,PT?###########################oP
+OL,5,PTS~]Q  Xxll0|`<t`<<th4 ST"\ cskP
+OL,6,PTS]Q  Xjj5j7j55j5 ST\rszP
+OL,7,PTS]Q  X  xll0|`<th<   ST\P
+OL,8,PTS]Q  X  jj5*u<jw   ST\P
+OL,9,PTSTP
+OL,10,PTS"+o/!jTh4|jP
+OL,11,PTS0PS##!PSzTb1sjP
+OL,12,PTS?o}P    S`/{T*%/jP
+OL,13,PTS}v#!P     S"i/'!S+Tj5jP
+OL,14,PTSwsqP         S|Sh?`Th4|jP
+OL,15,PTS?aP        Sxv;7Sj|TrqszP
+OL,16,PTS|}0P     Sx%SjTP
+OL,17,PTS$P   S.7PSzTP
+OL,18,PTtS////////!P     S"o//%PS//TxP
+OL,19,PT}||||||$P         Th||PT||~?///oP
+OL,20,PT7P           ToPT*7ss3ssskP
+OL,21,PT!P  Gfrom:   T*5PT5//%///jP
+OL,22,PT//////////P  GNicola    T//PT////////P
+OL,23,QP  GBateman   Q?!Q`
+OL,24,APuzzler   B555 Mag   CBirthdays   FBuzz
+FL,0,0,0,0,100,100
+PN,59937
+SC,0037
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1081,8 +1111,8 @@ OL,22,W  `}~?{y}~wvtt}t  `|}~)d )d #$
 OL,23,W(/c*+|u )0 "$      
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59937
-SC,0037
+PN,59938
+SC,0038
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1111,8 +1141,8 @@ OL,22,T]W       $                  !
 OL,23,T]W                   $               ! 
 OL,24,E                                       
 FL,0,0,0,0,100,100
-PN,59938
-SC,0038
+PN,59939
+SC,0039
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1141,8 +1171,8 @@ OL,22,S]DM     www.cartoon-network.co.uk
 OL,23,S]DM     www.cartoon-network.co.uk      
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59939
-SC,0039
+PN,59940
+SC,0040
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1171,8 +1201,8 @@ OL,22,S]QX   /*% ,'"-'"-'*%/ *% "-'(.!,'($
 OL,23,C]D         from: Andrew Levy           
 OL,24,APuzzler   B555 Mag   CBirthdays   Fbuzz
 FL,0,0,0,0,100,100
-PN,59940
-SC,0040
+PN,59941
+SC,0041
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1201,8 +1231,8 @@ OL,22,T'  x|p
 OL,23,T7!   ppt "/|G1/12
 OL,24,AFactsBTelesoftwareCRock/PopFORACLE Kids
 FL,0,0,0,0,100,100
-PN,59941
-SC,0041
+PN,59942
+SC,0042
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1231,8 +1261,8 @@ OL,22,VtQo?Vx
 OL,23,S|||||||||||||||GNeil, 11S||||||||||||||
 OL,24,APen Pals BTurner CWrite It! FDigitiser 
 FL,0,0,0,0,100,100
-PN,59942
-SC,0042
+PN,59943
+SC,0043
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1261,8 +1291,8 @@ OL,22,V    00&4"` #f0$b3o}/3$$!!#  `
 OL,23,V(! &b`" ) $.d3  r)3fn}r)lp(f,0 d a
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59943
-SC,0043
+PN,59944
+SC,0044
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1291,8 +1321,8 @@ OL,22,W    U           
 OL,23,W    U                
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59944
-SC,0044
+PN,59945
+SC,0045
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1321,8 +1351,8 @@ OL,22,W9);a091;}939p9;y9p89#9;y;9-:i{9{y?!
 OL,23,D]GTheyBdon'tGlive onBChristmas Island. 
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59945
-SC,0045
+PN,59946
+SC,0046
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1351,8 +1381,8 @@ OL,22,W5     2w}|*j
 OL,23,W?!     "l]S"DXI'm Blodwyn!Qb,5        
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59946
-SC,0046
+PN,59947
+SC,0047
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1381,8 +1411,8 @@ OL,22,S           ###//+########!
 OL,23,G                 thomasthurman.org     
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,59947
-SC,0047
+PN,59948
+SC,0048
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1411,8 +1441,8 @@ OL,22,PS}P Shtp`~/ax%S~/`z?/$T+
 OL,23,PSo}tPSk?o~?o/!S>!`~'z%`~'`xT+
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59948
-SC,0048
+PN,59949
+SC,0049
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1441,8 +1471,8 @@ OL,22,V?Uz|pS#/U ` V
 OL,23,VUj}tS + U`Vj
 OL,24,V}U+}t0S+U5j4V
 FL,0,0,0,0,100,100
-PN,59949
-SC,0049
+PN,59950
+SC,0050
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1471,8 +1501,8 @@ OL,22,P  Tx~GDawn Spence on 01-434 3121    T
 OL,23,P  T]FLONDON ORACLE LONDON ORACLE LONDON
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,59950
-SC,0050
+PN,59951
+SC,0051
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -1501,8 +1531,8 @@ OL,22,T}pS"####//'z4*////-*j}Q
 OL,23,T7Q|<S}QSjQ?
 OL,24,TQ~S~QS`x
 FL,0,0,0,0,100,100
-PN,59951
-SC,0051
+PN,59952
+SC,0052
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
