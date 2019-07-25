@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E25/07C02:47:12
+OL,0,XXXXXXXXBNMPSERVER2      E25/07C03:47:42
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BMany places will   S5CSTATISTICS       
-OL,9,Bhave a dry evening,S5C 
-OL,10,Bsome late          S5G   Maximum       
-OL,11,Bbrightness possibleS5GTemperatureC23C 
-OL,12,Bin the east.       S5G                 
-OL,13,BOtherwise a mostly S5G   Minumum       
-OL,14,Bdry and cloudy     S5GTemperatureC13C 
-OL,15,Bnight with perhaps S5C                 
-OL,16,Bwith some patchy   S5G
-OL,17,Brain in the far    S5G
-OL,18,Bwest. Freshening   S5G                 
-OL,19,Bsoutheasterly      S5G
-OL,20,Bbreeze.            S5G
+OL,6,CTODAY
+OL,8,BMost places will beS5CSTATISTICS       
+OL,9,Bdry and very warm  S5C 
+OL,10,Bwith some bright orS5G   Maximum       
+OL,11,Bsunny intervals.   S5GTemperatureC25C 
+OL,12,BCloudier across theS5G                 
+OL,13,Bwest at times with S5G   Minumum       
+OL,14,Bthe chance of an   S5GTemperatureC15C 
+OL,15,Bisolated shower.   S5C                 
+OL,16,BCooler along the   S5G
+OL,17,Beast coast with a  S5G
+OL,18,Bfresh southeasterlyS5G                 
+OL,19,Bwind.              S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,21 +32,21 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E25/07C02:47:12
+OL,0,XXXXXXXXBNMPSERVER2      E25/07C03:47:42
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHURSDAY
-OL,8,BSome brightness    S5CSTATISTICS       
-OL,9,Bpossible in the    S5C 
-OL,10,Beast at times      S5G   Maximum       
-OL,11,Botherwise a rather S5GTemperatureC23C 
-OL,12,Bcloudy day with theS5G                 
-OL,13,Bchance of rain in  S5G   Minumum       
-OL,14,Bthe west, staying  S5GTemperatureC13C 
-OL,15,Bmostly dry in the  S5C                 
-OL,16,Beast. Warm.        S5G
+OL,6,CTONIGHT
+OL,8,BDry with some late S5CSTATISTICS       
+OL,9,Bsunshine this      S5C 
+OL,10,Bevening. Staying   S5G   Maximum       
+OL,11,Bdry for the rest ofS5GTemperatureC25C 
+OL,12,Bthe night, some lowS5G                 
+OL,13,Bcloud may develop  S5G   Minumum       
+OL,14,Bacross the far     S5GTemperatureC15C 
+OL,15,Beast. Breezy but   S5C                 
+OL,16,Bquite warm.        S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
