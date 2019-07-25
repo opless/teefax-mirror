@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/07C00:47:22
+OL,0,XXXXXXXXBNMPSERVER2      E25/07C01:47:45
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FTonight will be dry and warm for many,
-OL,9,Fwith another uncomfortable night for
-OL,10,Fsleeping. Rain may fringe the west of
-OL,11,FNorthern Ireland later and parts of the
-OL,12,Fsouthwest may see some coastal cloud
-OL,13,Fand fog for a time.
-OL,4,                                    1/2 
-OL,15,GThursday
-OL,16,FSunny and hot for many, and
-OL,17,Fexceptionally hot for eastern and
-OL,18,Fsoutheast England. A risk of
-OL,19,Fthunderstorms developing, particularly
-OL,20,Ffor central, northern and some eastern
-OL,21,Fparts through the evening.
+OL,7,GToday
+OL,8,FStrong sunshine will bring a rapid rise
+OL,9,Fin temperatures with central, southern
+OL,10,Fand eastern areas becoming very hot,
+OL,11,Fexceptionally so for some. This may
+OL,12,Fspark scattered thunderstorms late
+OL,13,Fafternoon. Somewhat cloudier and less
+OL,14,Fhot in the west and north.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +25,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/07C00:47:23
+OL,0,XXXXXXXXBNMPSERVER2      E25/07C01:47:45
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FSome thundery downpours across eastern
-OL,9,Fand northern parts for Friday and the
-OL,10,Fweekend. Western and southwestern parts
-OL,11,Fprobably mostly dry with sunny spells
-OL,12,Fand temperatures near or slightly above
-OL,13,Fnormal.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FHumid in the north and east with heavy,
+OL,9,Fthundery rain through the weekend.
+OL,10,FElsewhere sunnier and fresher. Fewer
+OL,11,Fshowers by Monday, but perhaps turning
+OL,12,Fwet in the southwest later.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
