@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/07C13:49:10
+OL,0,XXXXXXXXBNMPSERVER2      E25/07C14:48:10
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FStrong sunshine will bring a rapid rise
-OL,9,Fin temperatures with central, southern
-OL,10,Fand eastern areas becoming very hot,
-OL,11,Fexceptionally so for some. This may
-OL,12,Fspark scattered thunderstorms late
-OL,13,Fafternoon. Somewhat cloudier and less
-OL,14,Fhot in the west and north.
+OL,7,GThis Evening and Tonight
+OL,8,FScattered thunderstorms across northern
+OL,9,Fand eastern areas will become more
+OL,10,Ffrequent for a time overnight, some
+OL,11,Fintense rain, hail, frequent lightning
+OL,12,Fand gusty winds. Elsewhere drier, with
+OL,13,Flow cloud in the west, and with rain
+OL,14,Fdeveloping in the south later.
+OL,4,                                    1/2 
+OL,16,GFriday
+OL,17,FAnother hot day in the far east,
+OL,18,Fotherwise a fresher day with outbreaks
+OL,19,Fof thundery rain across northern,
+OL,20,Fcentral and eastern areas. Sunny spells
+OL,21,Fin the west with isolated showers.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,7 +32,7 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/07C13:49:10
+OL,0,XXXXXXXXBNMPSERVER2      E25/07C14:48:10
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
