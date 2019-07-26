@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/07C02:02:46
+OL,0,XXXXXXXXBNMPSERVER2      E26/07C03:32:25
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FScattered thunderstorms across northern
-OL,9,Fand eastern areas will become more
-OL,10,Ffrequent for a time overnight, some
-OL,11,Fintense rain, hail, frequent lightning
-OL,12,Fand gusty winds. Elsewhere drier, with
-OL,13,Flow cloud in the west, and with rain
-OL,14,Fdeveloping in the south later.
+OL,7,GToday
+OL,8,FShowers across south Wales and southern
+OL,9,FEngland will spread northeastwards
+OL,10,Fbringing a much cooler day with heavy
+OL,11,Fand perhaps thundery rain across
+OL,12,Fcentral and eastern areas. Generally
+OL,13,Ffine in the west with isolated showers.
+OL,14,FStill hot across the far east.
 OL,4,                                    1/2 
-OL,16,GFriday
-OL,17,FAnother hot day in the far east,
-OL,18,Fotherwise a fresher day with outbreaks
-OL,19,Fof thundery rain across northern,
-OL,20,Fcentral and eastern areas. Sunny spells
-OL,21,Fin the west with isolated showers.
+OL,16,GTonight
+OL,17,FOutbreaks of heavy rain will continue
+OL,18,Facross northern, eastern and some
+OL,19,Fcentral parts overnight, where it will
+OL,20,Fremain humid. Drier and fresher in the
+OL,21,Fwest and south with clear spells.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/07C02:02:46
+OL,0,XXXXXXXXBNMPSERVER2      E26/07C03:32:25
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Saturday to Monday
-OL,8,FHumid in the north and east with heavy,
-OL,9,Fthundery rain through the weekend.
-OL,10,FElsewhere sunnier and fresher. Fewer
-OL,11,Fshowers by Monday, but perhaps turning
-OL,12,Fwet in the southwest later.
+OL,7,GOutlook for Sunday to Tuesday
+OL,8,FHeavy rain continuing across northern
+OL,9,Fand some eastern areas on Sunday,
+OL,10,Fotherwise fine. Changeable into next
+OL,11,Fweek with showers, especially across
+OL,12,Fthe south. Less hot for all but still
+OL,13,Fwarm.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
