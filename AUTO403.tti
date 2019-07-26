@@ -5,26 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/07C13:01:43
+OL,0,XXXXXXXXBNMPSERVER2      E26/07C14:47:23
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FShowers across south Wales and southern
-OL,9,FEngland will spread northeastwards
-OL,10,Fbringing a much cooler day with heavy
-OL,11,Fand perhaps thundery rain across
-OL,12,Fcentral and eastern areas. Generally
-OL,13,Ffine in the west with isolated showers.
-OL,14,FStill hot across the far east.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FOutbreaks of heavy rain will continue
-OL,18,Facross northern, eastern and some
-OL,19,Fcentral parts overnight, where it will
-OL,20,Fremain humid. Drier and fresher in the
-OL,21,Fwest and south with clear spells.
+OL,7,GThis Evening and Tonight
+OL,8,FNorthern Ireland, western Wales and
+OL,9,Fsouthwest England will remain largely
+OL,10,Fdry overnight with clear spells.
+OL,11,FCloudier elsewhere with outbreaks of
+OL,12,Frain becoming more widespread late
+OL,13,Fevening onwards, and turning heavy in
+OL,14,Fplaces towards dawn. Remaining humid in
+OL,15,Fthe east.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,7 +26,7 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/07C13:01:43
+OL,0,XXXXXXXXBNMPSERVER2      E26/07C14:47:23
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
