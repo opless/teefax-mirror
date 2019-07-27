@@ -5,20 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/07C00:46:55
+OL,0,XXXXXXXXBNMPSERVER2      E27/07C01:47:09
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FNorthern Ireland, western Wales and
-OL,9,Fsouthwest England will remain largely
-OL,10,Fdry overnight with clear spells.
-OL,11,FCloudier elsewhere with outbreaks of
-OL,12,Frain becoming more widespread late
-OL,13,Fevening onwards, and turning heavy in
-OL,14,Fplaces towards dawn. Remaining humid in
-OL,15,Fthe east.
+OL,7,GToday
+OL,8,FSouthern and western Scotland, along
+OL,9,Fwith northern, central and southeastern
+OL,10,Fparts of England will be rather cloudy
+OL,11,Fwith outbreaks of rain, some heavy and
+OL,12,Fthundery. Elsewhere it will be mostly
+OL,13,Fdry with some reasonably warm sunshine.
+OL,4,                                    1/2 
+OL,15,GTonight
+OL,16,FOvernight, rain is likely to continue
+OL,17,Faffecting southwest Scotland, parts of
+OL,18,Fnorthern and central England, along
+OL,19,Fwith East Anglia, edging slowly into
+OL,20,FNorthern Ireland too. Dry elsewhere
+OL,21,Fwith clear spells.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/07C00:46:55
+OL,0,XXXXXXXXBNMPSERVER2      E27/07C01:47:09
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FHeavy rain continuing across northern
-OL,9,Fand some eastern areas on Sunday,
-OL,10,Fotherwise fine. Changeable into next
-OL,11,Fweek with showers, especially across
-OL,12,Fthe south. Less hot for all but still
-OL,13,Fwarm.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FMonday brings sunny spells, with
+OL,9,Fshowers in the north, and later
+OL,10,Fsouthwest. Showery rain England and
+OL,11,FWales on Tuesday, some thundery.
+OL,12,FOtherwise sunshine and scattered
+OL,13,Fshowers on Tuesday and Wednesday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
