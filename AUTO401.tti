@@ -5,58 +5,58 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E27/07C19:32:50
+OL,0,XXXXXXXXBNMPSERVER2      E27/07C20:48:16
 OL,1,T]G           This Evening              
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G14V%  B               
 OL,4,           VZj**gppp B               
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G16U!ESome Cloud     
-OL,7,           ^ZU ~ow1  E              
-OL,8,B          ^ZV*y?sp  FCloudy        
-OL,9,           ^ZVj)"G 16V}  F             
+OL,5,           ^ZV({5                
+OL,6,            ZV!'~G16V!FCloudy         
+OL,7,           ^ZV ~ow1  F              
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 16V} B              
 OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG14VtV+"VG16V B             
+OL,11,       ZVnG15VtV+"VG16V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 17V} B          
-OL,15,DLight Rain  ^ZRk|S            
-OL,16,D            ^ZR'oG 14T}zt COvercas
-OL,17,B              ZRj^SG 17T Ct      
-OL,18,B            ZRx|^G 14T'         
-OL,19,             ^ZR! +/'iVqp0        
-OL,20,BClear       ^ZR  tG 16V/!        
-OL,21,B            ZR zG13R^/s/V/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,14,B            ^ZU`  V*G 17V} B          
+OL,15,BLight Rain  ^ZUk|R            
+OL,16,B            ^ZU'oG 14R}zt B       
+OL,17,ESome Cloud    ZUj^RG 16R B       
+OL,18,E            ZUx|^G 14R'         
+OL,19,             ^ZU! +/'iVqp0        
+OL,20,CClear       ^ZS  tG 16V/!        
+OL,21,C            ZS zG13S^/s/V/? B         
+OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E27/07C19:32:50
+OL,0,XXXXXXXXBNMPSERVER2      E27/07C20:48:16
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G20U%  B               
-OL,4,           UZj**gppp B               
-OL,5,           ^ZV({5                
-OL,6,            ZV!'~G17V!FLight Rain     
-OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
-OL,9,           ^ZRj)"G 18R}  B             
-OL,10,       ^ZVp|t RxRg0 B             
-OL,11,       ZVnG16VtR+"RG19R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" T *u  DOvercast  
-OL,14,B            ^ZS`  T*G 20T}  D         
-OL,15,B            ^ZSk|R            
-OL,16,B            ^ZS'oG 17V}zt B       
-OL,17,CSunny         ZSj^RG 22V B       
-OL,18,C            ZSx|^G 21V'         
-OL,19,             ^ZS! +/'iRqp0        
-OL,20,ESome Cloud  ^ZU  tG 22R/!        
-OL,21,E            ZU zG21U^/s/R/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G20R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZU({5                
+OL,6,            ZU!'~G17U!B               
+OL,7,           ^ZU ~ow1 B               
+OL,8,AHeavy Rain^ZV*y?sp  FCloudy        
+OL,9,           ^ZVj)"G 18V}  F             
+OL,10,       ^ZQp|t VxSg0 COvercast     
+OL,11,       ZQnG16QtV+"SG19S  C            
+OL,12,       ZQ+S`4S+|0             
+OL,13,        ZQ+%*o!S" V *u  B          
+OL,14,A            ^ZT`  V*G 20V} B          
+OL,15,ELight Rain  ^ZTk|V            
+OL,16,E            ^ZT'oG 18U}zt B       
+OL,17,DSunny         ZTj^VG 21U B       
+OL,18,D            ZTx|^G 22U'         
+OL,19,             ^ZT! +/'iVqp0        
+OL,20,BSome Cloud  ^ZR  tG 23V/!        
+OL,21,B            ZR zG21R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,0,199
