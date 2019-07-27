@@ -5,26 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/07C12:47:45
+OL,0,XXXXXXXXBNMPSERVER2      E27/07C13:48:21
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSouthern and western Scotland, along
-OL,9,Fwith northern, central and southeastern
-OL,10,Fparts of England will be rather cloudy
-OL,11,Fwith outbreaks of rain, some heavy and
-OL,12,Fthundery. Elsewhere it will be mostly
-OL,13,Fdry with some reasonably warm sunshine.
-OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FOvernight, rain is likely to continue
-OL,17,Faffecting southwest Scotland, parts of
-OL,18,Fnorthern and central England, along
-OL,19,Fwith East Anglia, edging slowly into
-OL,20,FNorthern Ireland too. Dry elsewhere
-OL,21,Fwith clear spells.
+OL,7,GThis Evening and Tonight
+OL,8,FOutbreaks of heavy rain will continue
+OL,9,Fthis evening and overnight across
+OL,10,Fsouthwest Scotland, parts of northern
+OL,11,FEngland, spreading into Northern
+OL,12,FIreland later. Cloudy and humid across
+OL,13,Fcentral England and East Anglia with
+OL,14,Fshowery rain. Largely dry elsewhere
+OL,15,Fwith clear spells.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +26,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/07C12:47:45
+OL,0,XXXXXXXXBNMPSERVER2      E27/07C13:48:21
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Monday to Wednesday
-OL,8,FMonday brings sunny spells, with
-OL,9,Fshowers in the north, and later
-OL,10,Fsouthwest. Showery rain England and
-OL,11,FWales on Tuesday, some thundery.
-OL,12,FOtherwise sunshine and scattered
-OL,13,Fshowers on Tuesday and Wednesday.
+OL,8,FRain then thundery showers in the north
+OL,9,FMonday, sunny spells elsewhere, but
+OL,10,Frain reaching the southwest later.
+OL,11,FHeavy thundery showers in the south
+OL,12,FTuesday, drier further north. Scattered
+OL,13,Fshowers Wednesday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
