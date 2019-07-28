@@ -5,20 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/07C23:32:58
+OL,0,XXXXXXXXBNMPSERVER2      E28/07C03:45:56
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FOutbreaks of heavy rain will continue
-OL,9,Fthis evening and overnight across
-OL,10,Fsouthwest Scotland, parts of northern
-OL,11,FEngland, spreading into Northern
-OL,12,FIreland later. Cloudy and humid across
-OL,13,Fcentral England and East Anglia with
-OL,14,Fshowery rain. Largely dry elsewhere
-OL,15,Fwith clear spells.
+OL,7,GToday
+OL,8,FA band of heavy rain will affect parts
+OL,9,Fof Northern Ireland, southwest
+OL,10,FScotland, north Wales, northwest
+OL,11,FEngland, the Midlands and East Anglia,
+OL,12,Fwith heavy showers developing to the
+OL,13,Fnorth. Low cloud across some eastern
+OL,14,Fcoasts. Mainly fine towards the
+OL,15,Fsouthwest.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,18 +26,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/07C23:32:58
+OL,0,XXXXXXXXBNMPSERVER2      E28/07C03:45:56
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Monday to Wednesday
-OL,8,FRain then thundery showers in the north
-OL,9,FMonday, sunny spells elsewhere, but
-OL,10,Frain reaching the southwest later.
-OL,11,FHeavy thundery showers in the south
-OL,12,FTuesday, drier further north. Scattered
-OL,13,Fshowers Wednesday.
+OL,7,GOutlook for Tuesday to Thursday
+OL,8,FOften changeable with sunshine and
+OL,9,Fshowers. Heavy and possibly thundery
+OL,10,Fdownpours are possible, particularly
+OL,11,Facross southern areas on Tuesday and
+OL,12,FWednesday. Drier in the west later.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
