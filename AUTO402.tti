@@ -5,24 +5,24 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E31/07C14:48:11
+OL,0,XXXXXXXXBNMPSERVER2      E31/07C15:48:46
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BA rather cloudy    S5CSTATISTICS       
-OL,9,Bstart with patchy  S5C 
-OL,10,Brain possible, thisS5G   Maximum       
-OL,11,Bmost likely throughS5GTemperatureC21C 
-OL,12,BAntrim and Down.   S5G                 
-OL,13,BHowever, mainly dryS5G   Minumum       
-OL,14,Bwith bright and    S5GTemperatureC10C 
-OL,15,Bsunny spells       S5C                 
-OL,16,Bdeveloping. It willS5G
-OL,17,Bfeel warm in any   S5G
-OL,18,Bsunshine with windsS5G                 
-OL,19,Bmostly light.      S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BChance of an       S5CSTATISTICS       
+OL,9,Bisolated shower in S5C 
+OL,10,Bthe north this     S5G   Maximum       
+OL,11,Bevening. Otherwise S5GTemperatureC21C 
+OL,12,Ba dry night to comeS5G                 
+OL,13,Bwith mist and      S5G   Minumum       
+OL,14,Bpatchy low cloud.  S5GTemperatureC10C 
+OL,15,BSomewhat cooler    S5C                 
+OL,16,Bnight than of late.S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
@@ -32,21 +32,21 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E31/07C14:48:11
+OL,0,XXXXXXXXBNMPSERVER2      E31/07C15:48:46
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BA fine end to the  S5CSTATISTICS       
-OL,9,Bday with some sunnyS5C 
-OL,10,Bspells. Staying dryS5G   Maximum       
-OL,11,Bovernight with     S5GTemperatureC21C 
-OL,12,Boccasional clear   S5G                 
-OL,13,Bskies, although    S5G   Minumum       
-OL,14,Bpatchy low cloud   S5GTemperatureC10C 
-OL,15,Band mist           S5C                 
-OL,16,Bdeveloping.        S5G
+OL,6,CTHURSDAY
+OL,8,BDry and bright withS5CSTATISTICS       
+OL,9,Bsunny spells, any  S5C 
+OL,10,Bpatchy low cloud   S5G   Maximum       
+OL,11,Band mist soon      S5GTemperatureC21C 
+OL,12,Bclearing. Feeling  S5G                 
+OL,13,Bwarm in any        S5G   Minumum       
+OL,14,Bsunshine, winds    S5GTemperatureC10C 
+OL,15,Bmainly light from  S5C                 
+OL,16,Bthe north.         S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
