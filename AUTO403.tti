@@ -5,19 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/08C01:52:47
+OL,0,XXXXXXXXBNMPSERVER2      E01/08C02:48:04
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FDaytime showers and thunderstorms in
-OL,9,Fthe north will ease this evening and
-OL,10,Fovernight, with only isolated showers
-OL,11,Flingering over west Scotland and parts
-OL,12,Fof northeast England by morning. Clear
-OL,13,Fspells elsewhere with easing winds, and
-OL,14,Fcooler than last night.
+OL,7,GToday
+OL,8,FWarm sunshine and lighter winds for
+OL,9,Fmany. However, occasionally heavy
+OL,10,Fshowers will develop across central,
+OL,11,Fwestern and southern Scotland, northern
+OL,12,Fand some eastern areas of England with
+OL,13,Fisolated hail and thunder, mainly
+OL,14,FScotland. Southwest England, cloudier
+OL,15,Fwith scattered light showers.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +26,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/08C01:52:47
+OL,0,XXXXXXXXBNMPSERVER2      E01/08C02:48:04
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FSunshine and scattered showers
-OL,9,Fthroughout, the focus being across
-OL,10,Fnorthern and eastern parts initially.
-OL,11,FFurther showers across western parts
-OL,12,Fover the weekend. Some early fog
-OL,13,Fpatches. Warm in the southeast.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FStaying mixed with warm sunshine and
+OL,9,Fscattered showers, these becoming more
+OL,10,Fwidespread again but often heaviest in
+OL,11,Fthe north and west. Turning hot in the
+OL,12,Fsouth on Sunday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
