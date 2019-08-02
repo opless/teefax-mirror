@@ -5,24 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/08C01:47:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/08C02:47:17
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FHeavy, thundery showers will ease away
-OL,9,Fthis evening, although a few light
-OL,10,Fshowers may continue along North Sea
-OL,11,Fcoasts. Dry and clear elsewhere and
-OL,12,Fturning chilly in the west with patchy
-OL,13,Fmist and fog.
+OL,7,GToday
+OL,8,FStarting dry for many with warm spells
+OL,9,Fof sunshine developing through the
+OL,10,Fmorning. Scattered showers will break
+OL,11,Fout across parts of Scotland, northern
+OL,12,FEngland, southwest Wales and southwest
+OL,13,FEngland, these locally heavy. Most
+OL,14,Fstaying dry though with light winds.
 OL,4,                                    1/2 
-OL,15,GFriday
-OL,16,FDry with warm sunny spells for most.
-OL,17,FScattered showers developing in the
-OL,18,Fnorth and east, although these lighter
-OL,19,Fand less frequent than recent days.
+OL,16,GTonight
+OL,17,FAny showers will fade through the
+OL,18,Fevening, leaving a dry night. The
+OL,19,Flengthiest clear spells are likely in
+OL,20,Fthe west, whilst the east will become
+OL,21,Frather cloudy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,17 +32,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/08C01:47:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/08C02:47:17
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Saturday to Monday
-OL,8,FStaying mixed with warm sunshine and
-OL,9,Fscattered showers, these becoming more
-OL,10,Fwidespread again, often heaviest in the
-OL,11,Fnorth and west. Very warm in the south
-OL,12,Fon Sunday.
+OL,7,GOutlook for Sunday to Tuesday
+OL,8,FGenerally unsettled and breezy at times
+OL,9,Fwith heavy, thundery showers and some
+OL,10,Flonger spells of rain, interspersed
+OL,11,Fwith warm sunshine. Very warm and humid
+OL,12,Fin southeast England on Sunday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
