@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/08C13:48:45
+OL,0,XXXXXXXXBNMPSERVER2      E03/08C14:48:24
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FMost areas will enjoy spells of
-OL,9,Fsunshine on Saturday, once any fog
-OL,10,Fpatches clear. Scattered showers will
-OL,11,Fdevelop once again, mostly across
-OL,12,Fnorthern and western areas where they
-OL,13,Fcould be heavy and possibly thundery.
-OL,14,FWarm and rather humid.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FShowers will continue across parts of
-OL,18,Fthe north and west, along with more
-OL,19,Fpersistent rain for Northern Ireland.
-OL,20,FMainly dry in the south and east with
-OL,21,Fpatchy mist and fog.
+OL,7,GThis Evening and Tonight
+OL,8,FFurther showers in the north and west,
+OL,9,Fwith some longer spells of showery rain
+OL,10,Fdeveloping across parts of Northern
+OL,11,FIreland and western parts of Wales and
+OL,12,FScotland overnight. Elsewhere, it will
+OL,13,Fbe mainly dry with isolated mist and
+OL,14,Ffog patches.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +25,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/08C13:48:45
+OL,0,XXXXXXXXBNMPSERVER2      E03/08C14:48:24
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Monday to Wednesday
-OL,8,FChangeable throughout with sunshine and
-OL,9,Fshowers for most. Showers will often be
-OL,10,Fheavy and thundery, particularly in the
-OL,11,Fnorth and west, with more persistent
-OL,12,Frain at times. Near normal
-OL,13,Ftemperatures.
+OL,8,FUnsettled throughout, with a mixture of
+OL,9,Fsunny spells and scattered heavy
+OL,10,Fshowers, possibly thundery in places.
+OL,11,FTemperatures around normal for most,
+OL,12,Fbut rather warm and humid in southeast
+OL,13,Fat first.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
