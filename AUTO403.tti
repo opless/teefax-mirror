@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/08C01:48:49
+OL,0,XXXXXXXXBNMPSERVER2      E03/08C02:48:54
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FAny showers will die away through the
-OL,9,Fevening to leave a dry night. With
-OL,10,Fclear spells for many, it will become
-OL,11,Fmisty in places by morning, and cool in
-OL,12,Fsome rural parts of Scotland and Wales.
+OL,7,GToday
+OL,8,FMost areas will enjoy spells of
+OL,9,Fsunshine on Saturday, once any fog
+OL,10,Fpatches clear. Scattered showers will
+OL,11,Fdevelop once again, mostly across
+OL,12,Fnorthern and western areas where they
+OL,13,Fcould be heavy and possibly thundery.
+OL,14,FWarm and rather humid.
 OL,4,                                    1/2 
-OL,14,GSaturday
-OL,15,FEarly mist soon clearing to warm sunny
-OL,16,Fspells and scattered showers, these
-OL,17,Fmainly in the north and west where
-OL,18,Fheavy and perhaps thundery. Cloudier
-OL,19,Fover Northern Ireland with rain
-OL,20,Fdeveloping.
+OL,16,GTonight
+OL,17,FShowers will continue across parts of
+OL,18,Fthe north and west, along with more
+OL,19,Fpersistent rain for Northern Ireland.
+OL,20,FMainly dry in the south and east with
+OL,21,Fpatchy mist and fog.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/08C01:48:49
+OL,0,XXXXXXXXBNMPSERVER2      E03/08C02:48:54
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FGenerally unsettled and breezy at times
-OL,9,Fwith heavy, thundery showers and some
-OL,10,Flonger spells of rain, interspersed
-OL,11,Fwith warm sunshine. Very warm and humid
-OL,12,Fin southeast England on Sunday.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FChangeable throughout with sunshine and
+OL,9,Fshowers for most. Showers will often be
+OL,10,Fheavy and thundery, particularly in the
+OL,11,Fnorth and west, with more persistent
+OL,12,Frain at times. Near normal
+OL,13,Ftemperatures.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
