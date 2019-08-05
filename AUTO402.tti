@@ -5,24 +5,24 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E05/08C14:48:48
+OL,0,XXXXXXXXBNMPSERVER2      E05/08C15:48:27
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BA fine sunny       S5CSTATISTICS       
-OL,9,Bmorning with most  S5C 
-OL,10,Bseeing only a few  S5G   Maximum       
-OL,11,Bisolated showers.  S5GTemperatureC21C 
-OL,12,BOutbreaks building S5G                 
-OL,13,Bfrom mid-day,      S5G   Minumum       
-OL,14,Bturning frequent   S5GTemperatureC11C 
-OL,15,Band heavy at times S5C                 
-OL,16,Bwith some          S5G
-OL,17,Bthunderstorms      S5G
-OL,18,Bdeveloping. Winds  S5G                 
-OL,19,Bsouthwesterly.     S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BSome heavy showers S5CSTATISTICS       
+OL,9,Bat first this      S5C 
+OL,10,Bevening. Southern  S5G   Maximum       
+OL,11,Band eastern        S5GTemperatureC20C 
+OL,12,Bcounties then      S5G                 
+OL,13,Bbecoming dry with  S5G   Minumum       
+OL,14,Bsome clear         S5GTemperatureC11C 
+OL,15,Bintervals, while a S5C                 
+OL,16,Bfew showers linger S5G
+OL,17,Bin the west and    S5G
+OL,18,Bnorthwest.         S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
@@ -32,23 +32,23 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E05/08C14:48:48
+OL,0,XXXXXXXXBNMPSERVER2      E05/08C15:48:27
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BAn unsettled night S5CSTATISTICS       
-OL,9,Bwith showers       S5C 
-OL,10,Boccasionally       S5G   Maximum       
-OL,11,Bmerging to longer  S5GTemperatureC21C 
-OL,12,Bperiods of rain,   S5G                 
-OL,13,Bwith some outbreaksS5G   Minumum       
-OL,14,Bheavy bringing a   S5GTemperatureC11C 
-OL,15,Brisk of            S5C                 
-OL,16,Bthunderstorms.     S5G
-OL,17,BWinds mostly light S5G
-OL,18,Bfrom the southwest.S5G                 
+OL,6,CTUESDAY
+OL,8,BA cloudy start withS5CSTATISTICS       
+OL,9,Bsome showery rain. S5C 
+OL,10,BThen becoming      S5G   Maximum       
+OL,11,Bbrighter with sunnyS5GTemperatureC20C 
+OL,12,Bintervals, but alsoS5G                 
+OL,13,Bsome heavy showers S5G   Minumum       
+OL,14,Bwith the chance of S5GTemperatureC11C 
+OL,15,Bthunder.           S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
