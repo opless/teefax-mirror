@@ -5,24 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/08C02:48:09
+OL,0,XXXXXXXXBNMPSERVER2      E06/08C03:47:16
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FScattered showers will continue through
-OL,9,Fthis evening and overnight, especially
-OL,10,Fin northern, western and central parts
-OL,11,Fof the UK. In the east it will be
-OL,12,Fmainly dry with clear spells.
+OL,7,GToday
+OL,8,FChangeable today, with sunny spells and
+OL,9,Fshowers. Some showers will turn heavy
+OL,10,Fand thundery, with longer lasting
+OL,11,Fdownpours in parts of Scotland and
+OL,12,FNorthern Ireland. However, outside of
+OL,13,Fthe showers there will be some warm
+OL,14,Fsunshine. Breezy in the south.
 OL,4,                                    1/2 
-OL,14,GTuesday
-OL,15,FTuesday will be a mix of sunny spells
-OL,16,Fand heavy showers. The showers will be
-OL,17,Fheavy and frequent in the afternoon,
-OL,18,Fwith blustery and thundery downpours at
-OL,19,Ftimes.
+OL,16,GTonight
+OL,17,FMany showers will ease during the
+OL,18,Fevening, leaving a dry night for most.
+OL,19,FHowever, further showers will affect
+OL,20,Fparts of southern Scotland, northern
+OL,21,FEngland, Wales, and southwest England.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,17 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/08C02:48:09
+OL,0,XXXXXXXXBNMPSERVER2      E06/08C03:47:16
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FSunny spells and heavy showers on
-OL,9,FWednesday. On Thursday the showers are
-OL,10,Flikely to be lighter, before a spell of
-OL,11,Fheavy rain arrives from the south.
-OL,12,FBlustery showers on Friday.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FMainly dry with sunshine on Thursday,
+OL,9,Falthough the odd shower in places.
+OL,10,FHeavy, thundery showers arriving later
+OL,11,FThursday, continuing into Friday and
+OL,12,FSaturday. Turning windy, with gales in
+OL,13,Fthe south.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
