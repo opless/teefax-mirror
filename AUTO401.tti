@@ -5,26 +5,26 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E07/08C16:51:16
+OL,0,XXXXXXXXBNMPSERVER2      E07/08C17:53:44
 OL,1,T]G              Today                  
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G15S%  COvercast       
-OL,4,           SZj**gppp  C              
-OL,5,           ^ZV({5                
-OL,6,            ZV!'~G17V!FLight Rain     
-OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZT*y?sp  DThunder       
-OL,9,           ^ZTj)"G 19T}  D             
-OL,10,       ^ZVp|t TxUg0 B             
-OL,11,       ZVnG19VtT+"UG19U B             
+OL,2,           ^ZT 4`~|}            G 1/2 
+OL,3,           ZT`?0~G15T%  DOvercast       
+OL,4,           TZj**gppp  D              
+OL,5,           ^ZS({5                
+OL,6,            ZS!'~G17S!CHeavy Rain     
+OL,7,           ^ZS ~ow1  C              
+OL,8,B          ^ZQ*y?sp  AThunder       
+OL,9,           ^ZQj)"G 19Q}  A             
+OL,10,       ^ZVp|t QxUg0 B             
+OL,11,       ZVnG19VtQ+"UG19U B             
 OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" V *u  B          
-OL,14,B            ^ZU`  V*G 21V} B          
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 21U}zt B       
-OL,17,B              ZUj^RG 22U B       
-OL,18,B            ZUx|^G 20U'         
-OL,19,             ^ZU! +/'iRqp0        
+OL,13,        ZV+%*o!U" V *u  FLight Rain
+OL,14,B            ^ZR`  V*G 21V}  F         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 21R}zt B       
+OL,17,B              ZRj^RG 23R B       
+OL,18,B            ZRx|^G 20R'         
+OL,19,             ^ZR! +/'iRqp0        
 OL,20,ESome Cloud  ^ZU  tG 23R/!        
 OL,21,E            ZU zG21U^/s/R/? BCloudy   
 OL,22,            ZU8?' "'    "     B        
@@ -34,7 +34,7 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E07/08C16:51:16
+OL,0,XXXXXXXXBNMPSERVER2      E07/08C17:53:44
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G15V%  B               
