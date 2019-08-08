@@ -5,26 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/08C13:51:02
+OL,0,XXXXXXXXBNMPSERVER2      E08/08C14:50:18
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FMuch of the country will be dry with
-OL,9,Fwarm sunny spells. However, a
-OL,10,Fscattering of showers will develop over
-OL,11,FScotland and northern England, these
-OL,12,Flighter than in recent days. Turning
-OL,13,Fcloudier across southwest England
-OL,14,Fthrough the afternoon, with rain later.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FRain in southwest England will spread
-OL,18,Fto most areas turning heavy and
-OL,19,Fpersistent, with strong winds. Northern
-OL,20,FScotland remaining mostly dry and cool.
-OL,21,FHumid in the south.
+OL,7,GThis Evening and Tonight
+OL,8,FHeavy rain in south and southwest of
+OL,9,FEngland moves north overnight, reaching
+OL,10,Fsouthern Scotland by dawn. Clearer
+OL,11,Fconditions with occasional thundery
+OL,12,Fshowers follow into the west and
+OL,13,Fsouthwest later. Northern Scotland
+OL,14,Fremaining mostly dry and cool. Humid in
+OL,15,Fthe south.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,7 +26,7 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/08C13:51:02
+OL,0,XXXXXXXXBNMPSERVER2      E08/08C14:50:18
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
@@ -41,9 +35,9 @@ OL,7,GOutlook for Saturday to Monday
 OL,8,FHeavy, thundery showers on Saturday and
 OL,9,Funseasonably windy over England and
 OL,10,FWales with gales for some. Winds
-OL,11,Fsteadily easing thereafter but further
-OL,12,Fshowers or spells of rain and becoming
-OL,13,Fcooler.
+OL,11,Fbeginning to ease thereafter but
+OL,12,Ffurther showers or spells of rain.
+OL,13,FBecoming cooler.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
