@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E09/08C02:54:22
+OL,0,XXXXXXXXBNMPSERVER2      E09/08C03:45:54
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BA dry bright       S5CSTATISTICS       
-OL,9,Bevening but high   S5C 
-OL,10,Bcloud encroaching  S5G   Maximum       
-OL,11,Bfrom the south. TheS5GTemperatureC22C 
-OL,12,Bcloud thickening toS5G                 
-OL,13,Bbring heavy rain inS5G   Minumum       
-OL,14,Bthe early hours,   S5GTemperatureC13C 
-OL,15,Bwith localised     S5C                 
-OL,16,Bflooding by        S5G
-OL,17,Bmorning.           S5G
-OL,18,BStrengthening      S5G                 
-OL,19,Beasterly winds.    S5G
-OL,20,B                   S5G
+OL,6,CTODAY
+OL,8,BHeavy, possibly    S5CSTATISTICS       
+OL,9,Bthundery rain at   S5C 
+OL,10,Bfirst with strong  S5G   Maximum       
+OL,11,Beasterly winds.    S5GTemperatureC22C 
+OL,12,BSoon brightening upS5G                 
+OL,13,Bwith some sunshine S5G   Minumum       
+OL,14,Band lighter winds  S5GTemperatureC13C 
+OL,15,Bbut with a few     S5C                 
+OL,16,Bheavy showers      S5G
+OL,17,Bbreaking out in theS5G
+OL,18,Bafternoon, with theS5G                 
+OL,19,Bchance of some     S5G
+OL,20,Bthunder. Warm in   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E09/08C02:54:22
+OL,0,XXXXXXXXBNMPSERVER2      E09/08C03:45:54
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CFRIDAY
-OL,8,BHeavy, possibly    S5CSTATISTICS       
-OL,9,Bthundery rain at   S5C 
-OL,10,Bfirst with strong  S5G   Maximum       
-OL,11,Beasterly winds.    S5GTemperatureC22C 
-OL,12,BBrightening up by  S5G                 
-OL,13,Blate morning with aS5G   Minumum       
-OL,14,Bfew heavy showers  S5GTemperatureC13C 
-OL,15,Bpossible  in the   S5C                 
-OL,16,Bafternoon. Warm in S5G
-OL,17,Bsunshine.          S5G
+OL,6,CTONIGHT
+OL,8,BVariable cloud and S5CSTATISTICS       
+OL,9,Ba few clear spells.S5C 
+OL,10,BShowers continuing S5G   Maximum       
+OL,11,Bwhich could again  S5GTemperatureC22C 
+OL,12,Bbe heavy at times  S5G                 
+OL,13,Bwith the chance of S5G   Minumum       
+OL,14,Bthunder. Light     S5GTemperatureC13C 
+OL,15,Bwinds.             S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
