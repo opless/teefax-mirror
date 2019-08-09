@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/08C13:49:09
+OL,0,XXXXXXXXBNMPSERVER2      E09/08C14:48:27
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FRain, heavy at times, clearing
-OL,9,Fnorthwards, but persisting in northern
-OL,10,Fand eastern Scotland. A mix of sunny
-OL,11,Fspells, but also some heavy and
-OL,12,Fpossibly thundery showers will follow
-OL,13,Fon behind. Feeling warm and humid for
-OL,14,Fmany, but increasingly windy.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FRain across Scotland gradually easing,
-OL,18,Fleaving a scattering of showers across
-OL,19,Fthe UK. The showers will be heavy and
-OL,20,Fthundery at times, with coastal gales
-OL,21,Fdeveloping in the south.
+OL,7,GThis Evening and Tonight
+OL,8,FRain across Scotland will gradually
+OL,9,Fease and clear northwards, leaving a
+OL,10,Fscattering of showers across the UK.
+OL,11,FThe showers will be thundery at times,
+OL,12,Fwith some heavy downpours across parts
+OL,13,Fof the north. Windy in the south with
+OL,14,Fgales developing.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +25,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/08C13:49:09
+OL,0,XXXXXXXXBNMPSERVER2      E09/08C14:48:27
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Sunday to Tuesday
-OL,8,FStaying changeable throughout the
-OL,9,Fperiod, with a mix of sunny spells and
-OL,10,Fscattered showers. The showers
-OL,11,Fgenerally heaviest and most frequent in
-OL,12,Fthe north. Breezy on Sunday and Monday.
+OL,8,FWinds will ease Sunday, but remaining
+OL,9,Funsettled throughout the period, with a
+OL,10,Fmix of sunny spells and scattered
+OL,11,Fshowers, these heavy at times. Cooler
+OL,12,Fthan normal with some chilly nights.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
