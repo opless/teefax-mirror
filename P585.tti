@@ -1,212 +1,28 @@
-DS,inserter
-CT,20,T
-PN,58501
-SC,0001
+DE,
+CT,8,T
 PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,P     Wf$P W`P W$W`P   Spx5Qp`SppRppP   
-OL,2,P R(P            Rn$P  U##!P        T5hP
-OL,3,P      Z Q#P     Q"P  Q$P         T$T5*P
-OL,4,PT###!PZQ~}0P QppP   Q`~5PQ`|||4P T0`j
-OL,5,R$P  ZQ`~'!Q5PQ~~}0PQx?5Q`%QjP Q5jj
-OL,6,S$PQ$PQ~%P Qz5Qj7#o}Q*'Q5QoPQjPZQ5jj
-OL,7,PW0P Q*!P Uh%Uz!U"5P U5U"k}|~P V5jj
-OL,8,P        W`|4PW||P W|4P W|4P   Wh|P V5jj
-OL,9,PQ!T"P  S`~'P SoP S5P S5PS0PSjP V5jj
-OL,10,W`P  ZS`~!Sl4Sj4Sj5P S5P   WjP R5jj
-OL,11,P    Q`~|pp0"!PQx5P   QjP R5jj
-OL,12,SaPS!Q*'Q"+///!Q"###!Q./////%P Q*/P R5jj
-OL,13,PV)P Q`p`pQp0p0`p``0`ppQppQp0Q0p`pP S$**
-OL,14,PQ"P       W`P WhP                  S1bb
-OL,15,Wh"P    R$P    U*P   U"0PU`"P  U5P      
-OL,16,PQ)Q`pppP  Q(P Q*P    Q)Q8P  Q(W%PWhssss
-OL,17,Q###!Wp8.0PWbP WhP    W(=PWpP  W5Whqpppp
-OL,18,PSp8&#P Sip8,,|;'eP  S8!(P     S$h-,,,,,
-OL,19,Q#P  ShP  Qp,#P Q"4PQ$P QaR8,,,,--,,,,,$
-OL,20,P     WePW"4P    WaP     W:P W0W`PW`PW0P
-OL,21,P     W"P W"PW"P  W!W"!PW$P             
-OL,22,PQ**Q/Q'-*#$-.PQ-*(#!%$*%Q*&*#Q%Q*#%jP  
-OL,23,PQ756kj#Q7#`>!Q6jaw1Q?i7PQ:Qw1>.47)0bP  
-OL,24,P  Q            Q     Q P  Q P          
-FL,0,0,0,0,100,100
-PN,58502
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,P         W$P  W0P       W`PW(P   WxtP  
-OL,2,R!%#######!%PR$P               V(,.//-,,
-OL,3,W$5,,,,,,,$%P                     S+'PS(
-OL,4,U04ppppppp05ppppP  U0PWxV`00?ppppVpppppp
-OL,5,V04ppppppp05pppppP   R##U"!!#####U######
-OL,6,V!1#######!%#####P                  W(P 
-OL,7,T5555}4T0PT$P   Q"PQ4P    
-OL,8,W0~ppP     Wpppppp0P W#P         W4P    
-OL,9,R55cs3h45||twssss3{-,,PRbR(($!,$$R`
-OL,10,U!$sz5|45?/%||||j5}||~|4tP U5P    
-OL,11,PR5/ous#555c3|j5o}5}t!P  R4
-OL,12,T44rsssp55}||<~5//jTj=,$t}p0P 
-OL,13,U54////o|45||~'ooUj!ssskw//-|
-OL,14,Q55P     Q//o?P   QP     Q|~rsq
-OL,15,Q54|j///-45}||~5P   Q+l|%o7#####
-OL,16,S5$|~?05%?5S'o%P    W*zu05`%So//
-OL,17,W45|3P     W#!P                 VjokPV/#
-OL,18,T}~}|||||||||||||||||||||||||||~|||||<
-OL,19,Ucs33P     U'#+#+#+##'#'#P     Uws'+{;!l
-OL,20,PQbss"!!srrrrQbpqaqrrr~~~~####ss/-#cx&9j
-OL,21,S"####<sssto?3333c#3c#3W8s'|||a`{7#cj-q
-OL,22,T]Rbssqx|||=, `pppp{ wss#<sppsswss3cr:,n
-OL,23,T]V          p8,&#!         p,#      h! 
-OL,24,P                                       
-FL,0,0,0,0,100,100
-PN,58503
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,W     $$       `  $          |4        !
-OL,2,W   "     0           (      #!   `     
-OL,3,W              Z`0  Z    `       z4    
-OL,4,W Z"!Y   x    !     Z *  j       #!  ` 
-OL,5,W       x?!  4       Y ``p" p`Z  z#k4   
-OL,6,W    "###              Z  h      ####   
-OL,7,W   !              p0  Z  j     z?'k5  
-OL,8,W      `0    |     #!          `wp~t"}  
-OL,9,W     "!     4   #! p       "######  
-OL,10,W         4      5        h|||||||| 
-OL,11,W `       0    `pp0   |    "######## 
-OL,12,W      ###!             Z`?/'k#+ou
-OL,13,W      ///%   Z*//% # YZ  z}0n//5h
-OL,14,WZ   /  |||4 #   h||4Y  Z `'a~   
-OL,15,WZ   #! ppp0"##! j5Y  Z z}2/  |p#
-OL,16,WZ ###! ###!"##! "##! ## #  ### ##  ####
-OL,17,WZ/#cqppx|,,/7#+cqx|.'s{</cq|/+"~%*j"&}0
-OL,18,WZc###!(   qx|./##px>'#px>'!0!`~!( j ("}
-OL,19,W ! `px|,/## `p|.'# x|/#     `>! 0 j  $"
-OL,20,W|//##   `p|.'# px>'!    "  x?!    j    
-OL,21,W    bp|.'# `p|/#!    (    x'   !  j   (
-OL,22,W                                       
-OL,23,G  The Galactic Temple is a sacred place
-OL,24,G  designed to understand the universe  
-FL,0,0,0,0,100,100
-PN,58504
-SC,0004
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,W                                S`p|tp 
-OL,2,W                               V(+++++)
-OL,3,W                                       
-OL,4,W                    |4            
-OL,5,W                   5           
-OL,6,W                   5           
-OL,7,W                VhjV(,,,,V140         
-OL,8,W                 "*5%!         
-OL,9,W                               
-OL,10,W                                 
-OL,11,W               `x||4* l||tp0       
-OL,12,W             |||hjp    zd2|||      
-OL,13,W            2|3+//'a~`     
-OL,14,W            }s;/////s~    
-OL,15,W           j   
-OL,16,W           j   
-OL,17,W           j     
-OL,18,W                
-OL,19,W                  
-OL,20,W                  
-OL,21,W                  
-OL,22,W                    
-OL,23,W                    
-OL,24,W                                       
-FL,0,0,0,0,100,100
-PN,58505
-SC,0005
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,W}PS7scs3sscsskP  S?/}P  S``000P      
-OL,2,W4U5ju5cj7jP  S1px?o5P Ujj555PW`ppP 
-OL,3,W=5S5"k5j5jujP Sj#"!Q"}P Qjj555Sxy0
-OL,4,WPV5/V*%*%*//jP  W5h0Qj;00Rjj555V?o}
-OL,5,W%PS###########P  W8#t-Wp?0""!!!RR`
-OL,6,P     W`pP   S`h`p.7,SwS,!>!tP   Q}5
-OL,7,QjjjPSh'WkP QzzPW{u6V0i|7PVj}0P U"o'P
-OL,8,ShhhPU7>PQ<&PW|px~0PW7"0P  W*=0PWppppp0
-OL,9,R***PQ5uPSuP Wb0?ub%V5V`%PV5PV#####!
-OL,10,WjjjPQi*VjQt0x7P S"oo=0SmS:PVh%P Q`||0P
-OL,11,VhhhP S-,!Q!PS}SyzPV'Vj4jp%PVjV`Swc'##4
-OL,12,Tj*jPTppppP  S5#!7V!V0Vj0#pPUz7UjR~'+}
-OL,13,Uj/oPRppp0P Vh!P TvmTiP  V>PU5UjWo"p`b
-OL,14,Rjs{PW7335P S>P  V?Vi"PQjPUi`PWoR*%
-OL,15,SjpzPWu=u5P R5T0Vz%PViP    Tz7PWkPT"//!P
-OL,16,S"##PS55P   T:!7P  TyP U`~#P          
-OL,17,QjsPQ55P VuV5VeP  T"mt?#P  TppppppppP
-OL,18,Qj#}PSuss5P T*nPRjP  V`T#TjPQjQ7######kP
-OL,19,Qb3sPW5,|5P  S=hRj5PV`!|pjPV"V////////P
-OL,20,SjuPWuss5P T:!6T"PWr's'T~P            
-OL,21,S*%/PS7ss5PV`!`%PTj!U//?nPU`U`ppPWk###
-OL,22,VjooPR=,$5PV60"P  Q%Q0P ToP  Tj5PR57#P
-OL,23,Vj"jPS///%Vha!P    Vj5W{TkP  Vj5PU557#
-OL,24,P                                       
-FL,0,0,0,0,100,100
-PN,58506
-SC,0006
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,P  W(hP   W`P            U`0dP   U8$U(P 
-OL,2,W"S((n,(P     U~}PU"!V"V`>#`PV0P V")P   
-OL,3,P   W*P       U+%P    U<c&p$"U#0U``P  U"
-OL,4,P R$R(P R!P          R>bh!'i!)R$PR(!R8P 
-OL,5,P       S0P       W0Sz!4b|;S"!P SdP    
-OL,6,P      W(=W(P V(P  V`%j5~;q84=bP   V0V%P
-OL,7,Th4P T"T!P      T`Thu?~5/'"`(ThT!Tp,!!
-OL,8,T"/!P              Sj//s9$~<(0&aS$!P    
-OL,9,P   W!P Q!P        Qh?g>%#a(("!P  Q`Q`"
-OL,10,P               U`U(.g"`8(!!`PU!P  U2U""
-OL,11,P Wn$P      Wph<'!W0j,#!P  Wp$WpP       
-OL,12,P W"P    Wp,;fq<.#P  W(W1h&2`,!P  W`"P  
-OL,13,P     S`8v|/&#S`P S,$Sn&#d|2"S%!jP      
-OL,14,P   Wx.'#!P   WdP W`0W"d0(s-ju,(W$W)P   
-OL,15,P       U#P   U"P      U+f2;p+**'8U"!P  
-OL,16,PW!P                     Q#.-|t,$$P     
-OL,17,P       W!P Vowsssss{?'i0P    V4P      
-OL,18,W!P          W#'qlt8,|4WgmP   W!7!`~tP  
-OL,19,P            S`/,0"/e0PW26mP W!P W"o'P  
-OL,20,P Ux}0P U0Up,&%8"8a$U":mt3eeU`|0`P      
-OL,21,P Uo%U`8&#U"8&U6U:P   U2o|:u"/!P  U`P  
-OL,22,P V`q,#!V8$`&V`&PV5P   W`W"}|~P  W0P    
-OL,23,W(&!P Q(#`&!PQ&PQjP    QjQhQ)3P W"P     
-OL,24,P                                       
-FL,0,0,0,0,100,100
-PN,58507
-SC,0007
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,A]G      The Red Dust Storm of Arkan    
-OL,2,P Qz4P    Q"P  Q0QpPQ0Q0P     Q0P       
-OL,3,P Q/oP Q4P  Q(Q(P                   Q(P 
-OL,4,P Q`"uQhP        Q!PQ0PQ(P     Q`P     
-OL,5,P Q"$jQ~uQ(P   Q`P            Qp"`0P   
-OL,6,P  QkQz4PQx0Q(PQ"P  Q(P  Q"P QhP     
-OL,7,P   Qh}Qz0P           Q"P         
-OL,8,P Q"Q&#/#'/4uQaPQ(Q(P  Q"P   Q`<o#$!(
-OL,9,P  Q2QhPQ+Qi*/?ePQ`|P   Q0P   Qhg(Q"P  
-OL,10,P Q(PQ(PQbQ"4PQi"e`}0Q$P Q!!  ~d!bP   
-OL,11,PQ`!PQbP Q$QjPQ"hQ`1"+tP   Q0( xx,$,&!
-OL,12,PQ$P Q(P Q$Q"5PQ*tQaZQ*6l0 a  ( k4$2    
-OL,13,QjP  QhP Q"PQ*4PQj0Q)ZQ;(/p    5 +t,(   
-OL,14,Q!P Q(,,$Q"P Q!P Q%%  Z   "#3-,,,>,,,,)z
-OL,15,P                   Q"h4!PQ(PQhPRiP     
-OL,16,P          Q`P Q"##PQ" ( pssPR*P Qcq`p` 
-OL,17,Q                               h       
-OL,18,P     Q4P           Q#####cQjQ5QjPQ###"#
-OL,19,PQd"m0jP Q8P            Q"*djQeh%x%8P   
-OL,20,P Q)0ijPQ*Q`P     Q8P   Qi0*6PQjQ'h!P   
-OL,21,P Q`$b~h'x.P    Q`!P    Q`#dj*t%j`5Q0P  
-OL,22,PQ!Q.b,.:!ppjP Q,P      Q"m"*07j`vp.!P  
-OL,23,D]A       ..blows across the            
-OL,24,D]A           high mountains..........  
-FL,0,0,0,0,100,100
+PN,8FF7F
+SC,3F7F
+OL,1,D]W         (! (`6  !       XZ   (lp0`  
+OL,2,D]W       `,  8a& (SSSSS,,,$    (   "#  
+OL,3,D]W  j 0p&! h&x'     S   #####!         
+OL,4,U]T   7! x&!8'    ppS,$  SS  #-,,,,,,& 
+OL,5,U]T zhu,'a8&   (  R    "+,$ ,,,,,,$    
+OL,6,E]T`oku(&!  (p SR$R,,,,,  S     ,,,,,  
+OL,7,E]T~on}l$$  pp RRS      0   `p0        
+OL,8,E]Tnkjz   `W  ,,&! !(, !1,#! $    ( ((
+OL,9,E]Tnjjz  $" `pppp         pp0 "#! `   
+OL,10,E]Tnnzj Q arrSSp  $  $   T"oW t0      
+OL,11,E]Tzjon Q! 8,$S ,     ``    W",s-tp   
+OL,12,E]Tj{jjj Q)c  "SSSSSSSSSSS      "+|s/|p
+OL,13,E]Tkkkj ,, S,   (,,   ($  (,$ !$! #g|s
+OL,14,E]Tzjjk),,,,,S"SSSS,,,,  $S ,,,,  $ ";
+OL,15,V]Tzojjj W   (,$W( (,,    ,,,SSS,,$    
+OL,16,S]Tojjz WW,,,    (,,   (,, , WW  `  `0
+OL,17,A]TjojjppWppp ppTp0pt||tppp,,p0xpztx~|
+OL,18,D]W"$  $"!  (((     ("(  $ d $ $%*d,%, 0
+OL,19,S T                 p`p```  `` 00  ####c
+OL,20,T#T  p000:j&$,(.(            "! !!"!!!##
+OL,21,T W            "     ( (    !"!  "  " ! 
+OL,22,T +///.///-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,T                                       
