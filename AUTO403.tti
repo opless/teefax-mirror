@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/08C00:47:38
+OL,0,XXXXXXXXBNMPSERVER2      E10/08C01:49:40
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain across Scotland will gradually
-OL,9,Fease and clear northwards, leaving a
-OL,10,Fscattering of showers across the UK.
-OL,11,FThe showers will be thundery at times,
-OL,12,Fwith some heavy downpours across parts
-OL,13,Fof the north. Windy in the south with
-OL,14,Fgales developing.
+OL,7,GToday
+OL,8,FHeavy and slow-moving showers across
+OL,9,FScotland, with bands of rain also
+OL,10,Faffecting Northern Ireland, northwest
+OL,11,FEngland and parts of Wales. Sunny
+OL,12,Fspells and well scattered showers
+OL,13,Felsewhere, but it will be very windy in
+OL,14,Fthe south, with gales in places.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FMostly dry in the south with winds
+OL,18,Fslowly easing. Further north, showers,
+OL,19,Foccasionally heavy, will continue, with
+OL,20,Fsome mist and low cloud developing on
+OL,21,Fwindward coasts and hills.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +32,16 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/08C00:47:38
+OL,0,XXXXXXXXBNMPSERVER2      E10/08C01:49:40
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FWinds will ease Sunday, but remaining
-OL,9,Funsettled throughout the period, with a
-OL,10,Fmix of sunny spells and scattered
-OL,11,Fshowers, these heavy at times. Cooler
-OL,12,Fthan normal with some chilly nights.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FSunny spells and scattered showers on
+OL,9,FMonday and Tuesday, with a spell of wet
+OL,10,Fand windy weather may move in from the
+OL,11,Fwest on Wednesday. Feeling rather cool.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
