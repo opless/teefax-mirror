@@ -6,103 +6,108 @@ SC,0001
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 01/07        V)l'
 OL,3,V#######################################
-OL,4,`````````F@ZXGuesserG|F09-Aug-2019 22:29
-OL,5,GToday I have mostly been coding a
-OL,6,GModified Julian Date to YYYY-MM-DD
-OL,7,Gconversion routine in Z80 assembly for
-OL,8,Gthe _ZXSpectrum. The date and time
-OL,9,Gstamp come from _teletext packets from
-OL,10,Gthe TTX2000S adapter. The entire
-OL,11,Gprogram including buffers and
-OL,12,Gvariables is exactly 1024 bytes
-OL,13,G<LINK>
-OL,14,``````F@HorsenburgerG|F09-Aug-2019 17:00
-OL,15,GYou voted for a cartoon cat, so I've
-OL,16,Gdone a Sylvester to go with Tweety
-OL,17,G_teletext <LINK>
-OL,18,``````````F@teilifisG|F09-Aug-2019 16:10
-OL,19,GOld school. _teletext _stillworks
-OL,20,G<LINK>
-OL,21,``````F@yildizserkanG|F09-Aug-2019 13:54
-OL,22,GBoyle bir sey vardi harbiden!   Hey
-OL,23,Ggidi... _teletext _90s | <LINK>
+OL,4,```````F@retrotextukG|F10-Aug-2019 11:39
+OL,5,G_Teletext was still in its infancy in
+OL,6,G1976 @prenno but here's how your
+OL,7,Gfavourite opening day match would have
+OL,8,Glooked.  _cryeve _efc _coyb _everton
+OL,9,G<LINK>
+OL,10,`````````F@ZXGuesserG|F09-Aug-2019 22:29
+OL,11,GToday I have mostly been coding a
+OL,12,GModified Julian Date to YYYY-MM-DD
+OL,13,Gconversion routine in Z80 assembly for
+OL,14,Gthe _ZXSpectrum. The date and time
+OL,15,Gstamp come from _teletext packets from
+OL,16,Gthe TTX2000S adapter. The entire
+OL,17,Gprogram including buffers and
+OL,18,Gvariables is exactly 1024 bytes
+OL,19,G<LINK>
+OL,20,``````F@HorsenburgerG|F09-Aug-2019 17:00
+OL,21,GYou voted for a cartoon cat, so I've
+OL,22,Gdone a Sylvester to go with Tweety
+OL,23,G_teletext <LINK>
 FL,0,0,0,0,0,100
-OL,26,@~D@BxwK{ySoz_m@D@XP~
 PN,15302
 SC,0002
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 02/07        V)l'
 OL,3,V#######################################
-OL,4,```````````F@ARDTextG|F09-Aug-2019 09:05
-OL,5,GWir bauen weiter fleisig um und zeigen
-OL,6,Guns strukturierter ... Mehr dazu auf
-OL,7,GSeite 889  <LINK> _Umbau _ARDtext
-OL,8,G_kurzundgut _teletext _videotext
-OL,9,G<LINK>
-OL,10,````````F@wayneswissG|F09-Aug-2019 07:26
-OL,11,GDer _teletext Chat ist zuruck! <LINK>
-OL,12,``````F@HorsenburgerG|F08-Aug-2019 18:02
-OL,13,GIt's a Vintage Cartoon Character today
-OL,14,Gwith _Teletext _BettyBoop <LINK>
-OL,15,````F@teletextonlineG|F08-Aug-2019 16:34
-OL,16,G_telegazeta @TVP3Warszawa _Polska _TV
-OL,17,G_Polonia _Teletext _Poland <LINK>
-OL,18,```````F@TracyDawn17G|F08-Aug-2019 10:09
-OL,19,GBored of _TransferDeadLineDay now.
-OL,20,GBring back the good days when the only
-OL,21,Gway of finding out news was _teletext
-OL,22,G<LINK>
+OL,4,``````````F@teilifisG|F09-Aug-2019 16:10
+OL,5,GOld school. _teletext _stillworks
+OL,6,G<LINK>
+OL,7,``````F@yildizserkanG|F09-Aug-2019 13:54
+OL,8,GBoyle bir sey vardi harbiden!   Hey
+OL,9,Ggidi... _teletext _90s | <LINK>
+OL,10,```````````F@ARDTextG|F09-Aug-2019 09:05
+OL,11,GWir bauen weiter fleisig um und zeigen
+OL,12,Guns strukturierter ... Mehr dazu auf
+OL,13,GSeite 889  <LINK> _Umbau _ARDtext
+OL,14,G_kurzundgut _teletext _videotext
+OL,15,G<LINK>
+OL,16,````````F@wayneswissG|F09-Aug-2019 07:26
+OL,17,GDer _teletext Chat ist zuruck! <LINK>
+OL,18,``````F@HorsenburgerG|F08-Aug-2019 18:02
+OL,19,GIt's a Vintage Cartoon Character today
+OL,20,Gwith _Teletext _BettyBoop <LINK>
+OL,21,````F@teletextonlineG|F08-Aug-2019 16:34
+OL,22,G_telegazeta @TVP3Warszawa _Polska _TV
+OL,23,G_Polonia _Teletext _Poland <LINK>
 FL,0,0,0,0,0,100
-OL,26,@mD@Vo}sD@[xz
+OL,26,@pD@BxwK{ySoz_m@qD@XP~sD@Vo}yD@[xz
 PN,15303
 SC,0003
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 03/07        V)l'
 OL,3,V#######################################
-OL,4,```````F@retrotextukG|F08-Aug-2019 08:16
-OL,5,GOn _TransferDeadLineDay a look back at
-OL,6,Gthe big moves in the _1990s when
-OL,7,G_teletext was at its peak. How much
-OL,8,Gwould this little lot be worth in
-OL,9,Gtoday's crazy market? _DeadlineDay
-OL,10,G<LINK>
-OL,11,```F@STVFootageSalesG|F08-Aug-2019 08:42
-OL,12,G Long before the days of _STVPlayer -
-OL,13,G_Teletext was cutting edge for its
-OL,14,Gtime! Top marks for the STV logo, but
-OL,15,Gthe Grampian saltire needs more work
-OL,16,G(unless they were delivering letters
-OL,17,Gon the side)   _STV _GrampianTV
-OL,18,G_RetroTech <LINK>
-OL,19,``````F@HorsenburgerG|F07-Aug-2019 19:56
-OL,20,GYou voted for a _teletext Cat tonight
-OL,21,Gso I give you Mr Jinx from
-OL,22,G_HannaBarbera <LINK>
+OL,4,```````F@TracyDawn17G|F08-Aug-2019 10:09
+OL,5,GBored of _TransferDeadLineDay now.
+OL,6,GBring back the good days when the only
+OL,7,Gway of finding out news was _teletext
+OL,8,G<LINK>
+OL,9,```````F@retrotextukG|F08-Aug-2019 08:16
+OL,10,GOn _TransferDeadLineDay a look back at
+OL,11,Gthe big moves in the _1990s when
+OL,12,G_teletext was at its peak. How much
+OL,13,Gwould this little lot be worth in
+OL,14,Gtoday's crazy market? _DeadlineDay
+OL,15,G<LINK>
+OL,16,```F@STVFootageSalesG|F08-Aug-2019 08:42
+OL,17,G Long before the days of _STVPlayer -
+OL,18,G_Teletext was cutting edge for its
+OL,19,Gtime! Top marks for the STV logo, but
+OL,20,Gthe Grampian saltire needs more work
+OL,21,G(unless they were delivering letters
+OL,22,Gon the side)   _STV _GrampianTV
+OL,23,G_RetroTech <LINK>
 FL,0,0,0,0,0,100
-OL,26,@yD@Nm@
+OL,26,@~D@Nm@
 PN,15304
 SC,0004
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 04/07        V)l'
 OL,3,V#######################################
-OL,4,```````````F@ARDTextG|F07-Aug-2019 13:08
-OL,5,GWir bauen um, die Ubersicht
-OL,6,G"Wirtschaft" ist ab sofort auf Seite
-OL,7,G155 zu finden. Mehr Seiten, mehr News.
-OL,8,G_ARDtext _Videotext _Teletext
-OL,9,G_kurzundgut <LINK>
-OL,10,```````````F@ARDTextG|F07-Aug-2019 13:02
-OL,11,GWir bauen um, die Ubersicht "Aus aller
-OL,12,GWelt" ist ab sofort auf Seite 135 zu
-OL,13,Gfinden. Mehr Seiten, mehr
-OL,14,GInformationen! _ARDtext _Videotext
-OL,15,G_Teletext _kurzundgut <LINK>
-OL,16,```````````F@ARDTextG|F07-Aug-2019 13:19
-OL,17,GIn eigener Sache: Wir bauen um.
-OL,18,G_ARDtext _kurzundgut _teletext
-OL,19,G_videotext <LINK>
+OL,4,``````F@HorsenburgerG|F07-Aug-2019 19:56
+OL,5,GYou voted for a _teletext Cat tonight
+OL,6,Gso I give you Mr Jinx from
+OL,7,G_HannaBarbera <LINK>
+OL,8,```````````F@ARDTextG|F07-Aug-2019 13:08
+OL,9,GWir bauen um, die Ubersicht
+OL,10,G"Wirtschaft" ist ab sofort auf Seite
+OL,11,G155 zu finden. Mehr Seiten, mehr News.
+OL,12,G_ARDtext _Videotext _Teletext
+OL,13,G_kurzundgut <LINK>
+OL,14,```````````F@ARDTextG|F07-Aug-2019 13:02
+OL,15,GWir bauen um, die Ubersicht "Aus aller
+OL,16,GWelt" ist ab sofort auf Seite 135 zu
+OL,17,Gfinden. Mehr Seiten, mehr
+OL,18,GInformationen! _ARDtext _Videotext
+OL,19,G_Teletext _kurzundgut <LINK>
+OL,20,```````````F@ARDTextG|F07-Aug-2019 13:19
+OL,21,GIn eigener Sache: Wir bauen um.
+OL,22,G_ARDtext _kurzundgut _teletext
+OL,23,G_videotext <LINK>
 FL,0,0,0,0,0,100
-OL,26,@mD@SxjsD@Sxj
+OL,26,@qD@SxjwD@Sxj
 PN,15305
 SC,0005
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
