@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/08C02:48:01
+OL,0,XXXXXXXXBNMPSERVER2      E11/08C03:48:28
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BHeavy and thundery S5CSTATISTICS       
-OL,9,Bshowers in the     S5C 
-OL,10,Bsouth and east soonS5G   Maximum       
-OL,11,Bclearing. Drier forS5GTemperatureC18C 
-OL,12,Ba time but         S5G                 
-OL,13,Boutbreaks of rain  S5G   Minumum       
-OL,14,Bwill arrive from   S5GTemperatureC11C 
-OL,15,Bthe north, locally S5C                 
-OL,16,Bheavy. Breezy, withS5G
-OL,17,Bstrong             S5G
-OL,18,Bnorthwesterly windsS5G                 
-OL,19,Baround the coasts  S5G
-OL,20,Bat times.          S5G
+OL,6,CTODAY
+OL,8,BOutbreaks of rain  S5CSTATISTICS       
+OL,9,Bwill die away      S5C 
+OL,10,Bthrough this       S5G   Maximum       
+OL,11,Bmorning. This      S5GTemperatureC17C 
+OL,12,Bafternoon will be  S5G                 
+OL,13,Bdry with cloud     S5G   Minumum       
+OL,14,Bthinning to allow aS5GTemperatureC6C 
+OL,15,Bfew bright or sunnyS5C                 
+OL,16,Bintervals. Feeling S5G
+OL,17,Bquite cool.        S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/08C02:48:01
+OL,0,XXXXXXXXBNMPSERVER2      E11/08C03:48:28
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSUNDAY
-OL,8,BA dull, damp       S5CSTATISTICS       
-OL,9,Bmorning with       S5C 
-OL,10,Bfurther outbreaks  S5G   Maximum       
-OL,11,Bof rain. These are S5GTemperatureC18C 
-OL,12,Bexpected to clear  S5G                 
-OL,13,Beastwards by middayS5G   Minumum       
-OL,14,Bto leave a mostly  S5GTemperatureC11C 
-OL,15,Bdry afternoon with S5C                 
-OL,16,Bsome brighter      S5G
-OL,17,Bspells, best in    S5G
-OL,18,Bwest.              S5G                 
+OL,6,CTONIGHT
+OL,8,BThis evening will  S5CSTATISTICS       
+OL,9,Bbe dry with some   S5C 
+OL,10,Blate brightness.   S5G   Maximum       
+OL,11,BThe rest of the    S5GTemperatureC17C 
+OL,12,Bnight will be      S5G                 
+OL,13,Bmostly dry with    S5G   Minumum       
+OL,14,Bclear periods.     S5GTemperatureC6C 
+OL,15,BChance of an       S5C                 
+OL,16,Bisolated shower    S5G
+OL,17,Bacross the         S5G
+OL,18,Bnorthwest later.   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
