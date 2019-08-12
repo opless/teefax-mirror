@@ -5,20 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/08C02:49:17
+OL,0,XXXXXXXXBNMPSERVER2      E12/08C03:48:02
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FDaytime showers and rain becoming
-OL,9,Fconfined to southern Scotland and
-OL,10,Fnorthern England. Further showers,
-OL,11,Fheavy at times, across southern England
-OL,12,Fand more especially around the coasts.
-OL,13,FFeeling cooler than last night,
-OL,14,Fespecially in the north and west, with
-OL,15,Flighter winds.
+OL,7,GToday
+OL,8,FA mix of sunny spells and showers
+OL,9,Ftoday. The showers will be heavy during
+OL,10,Fthe morning around southeastern coasts.
+OL,11,FElsewhere, a mainly dry and bright
+OL,12,Fstart, with the showers more frequent
+OL,13,Fand heavy into the afternoon, possibly
+OL,14,Fturning thundery.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +25,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/08C02:49:17
+OL,0,XXXXXXXXBNMPSERVER2      E12/08C03:48:02
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Tuesday to Thursday
-OL,8,FStaying unsettled, with sunny spells
-OL,9,Fand showers on most days. Some longer
-OL,10,Fspells of rain are likely on Wednesday,
-OL,11,Fespecially in the south. Temperatures
-OL,12,Fstaying a little below normal.
+OL,7,GOutlook for Wednesday to Friday
+OL,8,FWet and windy on Wednesday with coastal
+OL,9,Fgales. Dry for many on Thursday, but a
+OL,10,Ffew showers possible. More wet and
+OL,11,Fwindy weather on Friday and over the
+OL,12,Fweekend.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
