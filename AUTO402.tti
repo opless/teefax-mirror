@@ -5,7 +5,7 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E13/08C16:52:35
+OL,0,XXXXXXXXBNMPSERVER2      E13/08C17:48:02
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
@@ -14,7 +14,7 @@ OL,6,CTHIS EVENING AND TONIGHT
 OL,8,BAny showers soon   S5CSTATISTICS       
 OL,9,Bdying out with wellS5C 
 OL,10,Bbroken cloud, clearS5G   Maximum       
-OL,11,Bskies at times. TheS5GTemperatureC17C 
+OL,11,Bskies at times. TheS5GTemperatureC19C 
 OL,12,Bcloud thickening   S5G                 
 OL,13,Bovernight with     S5G   Minumum       
 OL,14,Bpatchy rain        S5GTemperatureC10C 
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E13/08C16:52:35
+OL,0,XXXXXXXXBNMPSERVER2      E13/08C17:48:02
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
 OL,6,CWEDNESDAY
-OL,8,BCloudy with patchy S5CSTATISTICS       
-OL,9,Brain possible.     S5C 
-OL,10,BHowever, dry for   S5G   Maximum       
-OL,11,Bmuch of the day,   S5GTemperatureC17C 
-OL,12,Bbefore a band of   S5G                 
-OL,13,Bheavier rain       S5G   Minumum       
-OL,14,Bcrosses from the   S5GTemperatureC10C 
-OL,15,Bwest later in the  S5C                 
-OL,16,Bafternoon or early S5G
-OL,17,Bevening.           S5G
+OL,8,BCloudy damp start, S5CSTATISTICS       
+OL,9,Bthough brightening S5C 
+OL,10,Bup for a time with S5G   Maximum       
+OL,11,Bthe chance of some S5GTemperatureC19C 
+OL,12,Bheavy showers. A   S5G                 
+OL,13,Bband of heavier    S5G   Minumum       
+OL,14,Brain crosses from  S5GTemperatureC10C 
+OL,15,Bthe west later in  S5C                 
+OL,16,Bthe afternoon.     S5G
+OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
