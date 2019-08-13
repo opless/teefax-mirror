@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/08C14:48:36
+OL,0,XXXXXXXXBNMPSERVER2      E13/08C15:49:45
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FIt will be another day of sunny spells
-OL,9,Fand scattered showers, these mainly
-OL,10,Ffocused towards the north and east.
-OL,11,FElsewhere, it will be largely dry.
-OL,12,FThicker cloud and showers for the far
-OL,13,Fsouthwest at first and again later.
-OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FShowers dying out to leave northern and
-OL,17,Feastern parts mostly dry, clear and
-OL,18,Fchilly. Further showers in northwest.
-OL,19,FRain and freshening winds in the
-OL,20,Fsouthwest will move northeastwards
-OL,21,Fovernight.
+OL,7,GThis Evening and Tonight
+OL,8,FAny showers will ease, leaving central
+OL,9,Fand eastern areas mostly clear and
+OL,10,Fchilly. Occasionally heavy rain will
+OL,11,Fsoon arrive in the southwest with fresh
+OL,12,Fwinds though, moving northeastwards
+OL,13,Finto south and central England and
+OL,14,FWales by morning.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +25,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/08C14:48:36
+OL,0,XXXXXXXXBNMPSERVER2      E13/08C15:49:45
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Thursday to Saturday
-OL,8,FChangeable with sunny spells and
-OL,9,Fshowers away from any spells of rain.
-OL,10,FOften windy, temperatures generally on
-OL,11,Fthe cool side, occasionally chilly
-OL,12,Fovernight in the north.
+OL,8,FSunshine and showers Thursday, with wet
+OL,9,Fand windy weather moving eastwards
+OL,10,FFriday. Showers or longer spells of
+OL,11,Fheavy rain will affect the south
+OL,12,FSaturday, with showers in the north.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
