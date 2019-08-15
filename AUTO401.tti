@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E15/08C22:57:52
+OL,0,XXXXXXXXBNMPSERVER2      E15/08C23:56:31
 OL,1,T]G           This Evening              
 OL,2,           ^ZU 4`~|}            G 1/2 
 OL,3,           ZU`?0~G13U%  EHeavy Rain     
@@ -21,7 +21,7 @@ OL,12,       ZT+R`4R+|0
 OL,13,        ZT+%*o!R" R *u  B          
 OL,14,D            ^ZV`  R*G 13R} B          
 OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 13R}zt B       
+OL,16,B            ^ZV'oG 12R}zt B       
 OL,17,B              ZVj^RG 12R B       
 OL,18,B            ZVx|^G 16R'         
 OL,19,             ^ZV! +/'iSqp0        
@@ -34,7 +34,7 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E15/08C22:57:52
+OL,0,XXXXXXXXBNMPSERVER2      E15/08C23:56:31
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G17V%  B               
@@ -42,15 +42,15 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G17V!FLight Rain     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZU*y?sp  ECloudy        
-OL,9,           ^ZUj)"G 19U}  E             
-OL,10,       ^ZVp|t UxVg0 B             
-OL,11,       ZVnG21VtU+"VG17V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BHeavy Rain
-OL,14,B            ^ZR`  R*G 17R}  B         
+OL,8,ECloudy    ^ZU*y?sp  B              
+OL,9,           ^ZUj)"G 19U} B              
+OL,10,       ^ZUp|t UxVg0 B             
+OL,11,       ZUnG21UtU+"VG17V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" R *u  BHeavy Rain
+OL,14,E            ^ZR`  R*G 17R}  B         
 OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 16R}zt B       
+OL,16,B            ^ZR'oG 17R}zt B       
 OL,17,B              ZRj^VG 19R B       
 OL,18,B            ZRx|^G 18R'         
 OL,19,             ^ZR! +/'iVqp0        
