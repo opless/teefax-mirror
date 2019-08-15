@@ -5,20 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E15/08C02:46:11
+OL,0,XXXXXXXXBNMPSERVER2      E15/08C03:45:57
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FLocally heavy rain will move eastward
-OL,9,Facross Scotland overnight, being
-OL,10,Ffollowed by occasional showers by
-OL,11,Fmorning. Elsewhere any thundery showers
-OL,12,Fwill die away this evening leaving some
-OL,13,Fclear spells, but further scattered
-OL,14,Fshowers are likely, especially in the
-OL,15,Fwest.
+OL,7,GToday
+OL,8,FEarly showers in the west will transfer
+OL,9,Feastwards, with some heavy bursts. Many
+OL,10,Fareas will then see increasing
+OL,11,Fsunshine. There will be further showery
+OL,12,Frain in parts of the northwest but the
+OL,13,Fwind will ease from the west.
+OL,4,                                    1/2 
+OL,15,GTonight
+OL,16,FCentral, southern and eastern areas
+OL,17,Fwill be dry, with clear spells. Winds
+OL,18,Fwill increase in the west and
+OL,19,Fnorthwest, with occasionally heavy rain
+OL,20,Fmoving eastwards.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +31,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E15/08C02:46:11
+OL,0,XXXXXXXXBNMPSERVER2      E15/08C03:45:57
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FHeavy rain moves east on Friday with
-OL,9,Fstrong winds. Early rain clearing the
-OL,10,Fsouth on Saturday leaving sunny spells
-OL,11,Fand heavy, blustery showers during the
-OL,12,Fweekend. Staying windy and cool.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FThis weekend will see sunshine and
+OL,9,Fshowers, with coastal gales and the
+OL,10,Frisk of thunder especially in the
+OL,11,Fnorth. The showers will continue on
+OL,12,FMonday, but the wind will ease.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
