@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E20/08C02:48:22
+OL,0,XXXXXXXXBNMPSERVER2      E20/08C03:45:58
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FShowers dying away for most, although
-OL,9,Fsome lingering near northern and
-OL,10,Fwestern coasts. Parts of Northern
-OL,11,FIreland, southern Scotland and far
-OL,12,Fnorthwestern England may also keep
-OL,13,Fshowers throughout the night. A cool
-OL,14,Fnight for many.
+OL,7,GToday
+OL,8,FScattered showers, some heavy, across
+OL,9,Fwestern Scotland, northern and western
+OL,10,FEngland will move eastwards, with
+OL,11,Fperhaps some thunder across northeast
+OL,12,FEngland and eastern Scotland. Further
+OL,13,Fshowers will arrive in Northern
+OL,14,FIreland, with sunny spells elsewhere.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FShowers will ease in the northeast,
+OL,18,Fgiving a dry night for most. A few
+OL,19,Fshowers will feed into western
+OL,20,FScotland, northwest England, Wales and
+OL,21,Fsouthwest England though.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E20/08C02:48:22
+OL,0,XXXXXXXXBNMPSERVER2      E20/08C03:45:58
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FChangeable in the north and west with
-OL,9,Fspells of rain and stronger winds,
-OL,10,Finterspersed by showers. Scattered
-OL,11,Fshowers further south and east, but
-OL,12,Fbecoming drier and warmer here by
-OL,13,FFriday.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FStaying windy in north, with rain
+OL,9,Fsinking southeast across central areas
+OL,10,FThursday. Friday and Saturday becoming
+OL,11,Fdrier and brighter central and southern
+OL,12,Fparts, with further rain at times in
+OL,13,Fnorthwest.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
