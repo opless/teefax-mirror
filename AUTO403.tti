@@ -5,26 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E21/08C13:48:37
+OL,0,XXXXXXXXBNMPSERVER2      E21/08C14:47:44
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSunny spells and scattered showers. The
-OL,9,Fshowers will move across Wales, the
-OL,10,FMidlands and northern England, where
-OL,11,Fsome will be heavy. Occasionally heavy
-OL,12,Frain and strong winds will also move
-OL,13,Feast across the north and northwest of
-OL,14,Fthe UK.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FThe rain will sink southwards, easing
-OL,18,Fas it heads towards Wales and
-OL,19,FLincolnshire by dawn. Staying windy in
-OL,20,Fthe northwest, with showers, and drier
-OL,21,Fbut chillier in the far south.
+OL,7,GThis Evening and Tonight
+OL,8,FA band of rain, heavy at times, sinking
+OL,9,Fsouthwards from southern Scotland into
+OL,10,Fnorthern England and north Wales
+OL,11,Fovernight, where windy. Showers
+OL,12,Ffollowing into the northwest. Dry with
+OL,13,Fclear spells further south, where
+OL,14,Fturning locally chilly, with some fog
+OL,15,Fpatches.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +26,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E21/08C13:48:37
+OL,0,XXXXXXXXBNMPSERVER2      E21/08C14:47:44
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Friday to Sunday
-OL,8,FSunny spells for many Friday, although
-OL,9,Fstaying windy and wet in the far
-OL,10,Fnorthwest. Over the weekend it will be
-OL,11,Fdry, sunny and warm across much of the
-OL,12,FUK.
+OL,8,FRain and strong winds clearing north
+OL,9,Fthrough Friday. Becoming mainly dry and
+OL,10,Fincreasingly warm through the weekend,
+OL,11,Fhot in places by Sunday. Cloudier with
+OL,12,Ffew showers in northwest at times.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
