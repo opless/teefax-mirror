@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E21/08C01:51:15
+OL,0,XXXXXXXXBNMPSERVER2      E21/08C02:47:31
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BIt will be mostly  S5CSTATISTICS       
-OL,9,Bcloudy with showeryS5C 
-OL,10,Boutbreaks of rain  S5G   Maximum       
-OL,11,Bthis evening, then S5GTemperatureC18C 
-OL,12,Bdry overnight with S5G                 
-OL,13,Bthe cloud thinning S5G   Minumum       
-OL,14,Band breaking at    S5GTemperatureC9C 
-OL,15,Btimes. Winds will  S5C                 
-OL,16,Bbe light from the  S5G
-OL,17,Bsouthwest.         S5G
-OL,18,B                   S5G                 
-OL,19,B                   S5G
-OL,20,B                   S5G
+OL,6,CTODAY
+OL,8,BRather cloudy with S5CSTATISTICS       
+OL,9,Ba rainband         S5C 
+OL,10,Bspreading to far   S5G   Maximum       
+OL,11,Bwest mid-morning,  S5GTemperatureC18C 
+OL,12,Bwhich pushes acrossS5G                 
+OL,13,Bthe rest of the    S5G   Minumum       
+OL,14,BProvince by noon,  S5GTemperatureC10C 
+OL,15,Bas brisk winds     S5C                 
+OL,16,Bdevelop. East      S5G
+OL,17,Bremaining dull and S5G
+OL,18,Bwet through the    S5G                 
+OL,19,Bafternoon, but     S5G
+OL,20,Bturning dry in the S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E21/08C01:51:15
+OL,0,XXXXXXXXBNMPSERVER2      E21/08C02:47:31
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CWEDNESDAY
-OL,8,BA mainly dry       S5CSTATISTICS       
-OL,9,Bmorning, but rain  S5C 
-OL,10,Breaching Fermanagh S5G   Maximum       
-OL,11,Band up to Lough    S5GTemperatureC18C 
-OL,12,BFoyle. The rain    S5G                 
-OL,13,Bsweeps east in the S5G   Minumum       
-OL,14,Bafternoon, heavy atS5GTemperatureC9C 
-OL,15,Btimes, with        S5C                 
-OL,16,Bstrengthening      S5G
-OL,17,Bsoutherly winds.   S5G
+OL,6,CTONIGHT
+OL,8,BRain across easternS5CSTATISTICS       
+OL,9,Bareas initially,   S5C 
+OL,10,Bclearing to east byS5G   Maximum       
+OL,11,Bmid-evening, with  S5GTemperatureC18C 
+OL,12,Bshowers following  S5G                 
+OL,13,Bfrom the west      S5G   Minumum       
+OL,14,Bovernight. Fresh   S5GTemperatureC10C 
+OL,15,Bsouthwest winds    S5C                 
+OL,16,Boccasionally       S5G
+OL,17,Bstrong.            S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
