@@ -12,20 +12,20 @@ OL,4,Q#!#"##!#!#  #!#"##!#!"#"##!ssQ?j*?
 OL,5,                               Qe,,d'  
 OL,6,                               Q ep'    
 OL,7,                               Q  !     
-OL,8,G            Tue Aug 21, 2018           
+OL,8,G            Tue Aug 20, 2019           
 OL,9,G                                       
 OL,10,F             Harley-Davidson           
 OL,11,MG         Annual Dealer Meeting        
 OL,12,MG         Annual Dealer Meeting        
-OL,13,F       San Diego Convention Center     
+OL,13,F              Milwaukee, WI            
 OL,14,G                                       
-OL,15,CThe New 2019 Model Lineup is announced 
-OL,16,Cat the 3 day convention.               
+OL,15,CThe New 2020 Model Lineup is announced 
+OL,16,Cat the convention.                     
 OL,17,F                                       
-OL,18,COne brand new model is revealed - the  
-OL,19,AFXDR 114Cand the promise of an electric
-OL,20,Cmotorcycle arriving in 2019!           
-OL,21,G                                       
+OL,18,CHarleys first electric motorcycle - the
+OL,19,ALivewireCis finally here!              
+OL,20,G                                       
+OL,21,                                        
 OL,22,                                        
 OL,23,                                        
 OL,24, AOnTheQT    BSport    CMovies    FNews@
@@ -311,15 +311,15 @@ OL,3,Q7bs55  7jw55jjs1uSg;/s?Q}
 OL,4,Q#!#"##!#!#  #!#"##!#!"#"##!ssQ?j*? 
 OL,5,                               Qe,,d'  
 OL,6,                               Q ep'    
-OL,7,                               Q  !     
-OL,8,GM           2019 Model Lineup          
-OL,9,GM           2019 Model Lineup          
-OL,10,F                                       
-OL,11,AM                Street                
-OL,12,AM                Street                
-OL,13,BStreet 500E......................$6,899
-OL,14,BStreet 750E......................$7,599
-OL,15,BStreet RodE......................$8,699
+OL,7,GM           2020 Model Lineup          
+OL,8,GM           2020 Model Lineup          
+OL,9,F                                       
+OL,10,AM               Electric               
+OL,11,AM               Electric               
+OL,12,CLivewireA.......................$29,799
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
 OL,16,                                        
 OL,17,                                        
 OL,18,                                        
@@ -341,19 +341,19 @@ OL,3,Q7bs55  7jw55jjs1uSg;/s?Q}
 OL,4,Q#!#"##!#!#  #!#"##!#!"#"##!ssQ?j*? 
 OL,5,                               Qe,,d'  
 OL,6,                               Q ep'    
-OL,7,                               Q  !     
-OL,8,GM           2019 Model Lineup          
-OL,9,GM           2019 Model Lineup          
-OL,10,F                                       
-OL,11,AM               Sportster              
-OL,12,AM               Sportster              
-OL,13,BSuperLowE........................$8,699
-OL,14,BIron 883E........................$8,999
-OL,15,BIron 1200E.......................$9,999
-OL,16,B1200 CustomE....................$10,999
-OL,17,BForty-EightE....................$11,299
-OL,18,BForty-Eight SpecialE............$11,299
-OL,19,BRoadsterE.......................$11,299
+OL,7,GM           2020 Model Lineup          
+OL,8,GM           2020 Model Lineup          
+OL,9,F                                       
+OL,10,AM                Street                
+OL,11,AM                Street                
+OL,12,BStreet 500E......................$6,899
+OL,13,BStreet 750E......................$7,599
+OL,14,BStreet RodE......................$8,699
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
 OL,20,                                        
 OL,21,                                        
 OL,22,                                        
@@ -371,22 +371,22 @@ OL,3,Q7bs55  7jw55jjs1uSg;/s?Q}
 OL,4,Q#!#"##!#!#  #!#"##!#!"#"##!ssQ?j*? 
 OL,5,                               Qe,,d'  
 OL,6,                               Q ep'    
-OL,7,                               Q  !     
-OL,8,GM           2019 Model Lineup          
-OL,9,GM           2019 Model Lineup          
-OL,10,F                                       
-OL,11,AM                Softail               
-OL,12,AM                Softail               
-OL,13,BStreet BobE.....................$14,549
-OL,14,BLow RiderE......................$15,049
-OL,15,BSoftail SlimE...................$15,949
-OL,16,BFat BobE........................$10,049
-OL,17,BDeluxeE.........................$18,049
-OL,18,BSport GlideE....................$18,649
-OL,19,BFat BoyE........................$19,049
-OL,20,BHeritage ClassicE...............$19,049
-OL,21,BBreakoutE.......................$19,049
-OL,22,CFXDR 114A.......................$21,349
+OL,7,GM           2020 Model Lineup          
+OL,8,GM           2020 Model Lineup          
+OL,9,F                                       
+OL,10,AM               Sportster              
+OL,11,AM               Sportster              
+OL,12,BIron 883E........................$8,999
+OL,13,BIron 1200E.......................$9,999
+OL,14,BForty-EightE....................$11,299
+OL,15,BRoadsterE.......................$11,499
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews@
 FL,160,162,163,161,100,100
@@ -401,22 +401,22 @@ OL,3,Q7bs55  7jw55jjs1uSg;/s?Q}
 OL,4,Q#!#"##!#!#  #!#"##!#!"#"##!ssQ?j*? 
 OL,5,                               Qe,,d'  
 OL,6,                               Q ep'    
-OL,7,                               Q  !     
-OL,8,GM           2019 Model Lineup          
-OL,9,GM           2019 Model Lineup          
-OL,10,F                                       
-OL,11,AM                Touring               
-OL,12,AM                Touring               
-OL,13,BRoad KingE......................$19,289
-OL,14,BStreet GlideE...................$21,289
-OL,15,BRoad GlideE.....................$21,589
-OL,16,BRoad King SpecialE..............$23,089
-OL,17,BElectra Glide Ultra ClassicE....$24,589
-OL,18,BStreet Glide SpecialE...........$27,089
-OL,19,BRoad Glide SpecialE.............$27,489
-OL,20,BRoad Glide UltraE...............$27,689
-OL,21,BUltra Limited LowE..............$28,089
-OL,22,BUltra LimitedE..................$28,089
+OL,7,GM           2020 Model Lineup          
+OL,8,GM           2020 Model Lineup          
+OL,9,F                                       
+OL,10,AM                Softail               
+OL,11,AM                Softail               
+OL,12,BStreet BobE.....................$14,599
+OL,13,BLow RiderE......................$14,899
+OL,14,BSoftail SlimE...................$15,999
+OL,15,CLow Rider SA....................$17,999
+OL,16,BDeluxeE.........................$18,399
+OL,17,BSport GlideE....................$18,599
+OL,18,BFat Bob 114E....................$18,799
+OL,19,BHeritage ClassicE...............$18,999
+OL,20,BFXDR 114E.......................$18,999
+OL,21,BFat Boy 114E....................$20,599
+OL,22,BBreakout 114E...................$20,499
 OL,23,                                        
 OL,24, AIndex     BSport     CMovies    FNews@
 FL,160,162,163,161,100,100
@@ -431,20 +431,20 @@ OL,3,Q7bs55  7jw55jjs1uSg;/s?Q}
 OL,4,Q#!#"##!#!#  #!#"##!#!"#"##!ssQ?j*? 
 OL,5,                               Qe,,d'  
 OL,6,                               Q ep'    
-OL,7,                               Q  !     
-OL,8,GM           2019 Model Lineup          
-OL,9,GM           2019 Model Lineup          
-OL,10,F                                       
-OL,11,AM                  CVO                 
-OL,12,AM                  CVO                 
-OL,13,BCVO Street GlideE...............$40,889
-OL,14,BCVO Road GlideE.................$42,339
-OL,15,BCVO LimitedE....................$43,889
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
+OL,7,GM           2020 Model Lineup          
+OL,8,GM           2020 Model Lineup          
+OL,9,F                                       
+OL,10,AM                Touring               
+OL,11,AM                Touring               
+OL,12,BElectra Glide StandardE.........$18,999
+OL,13,BRoad KingE......................$19,499
+OL,14,BRoad GlideE.....................$21,699
+OL,15,BStreet GlideE...................$21,999
+OL,16,BRoad King SpecialE..............$22,999
+OL,17,BRoad Glide SpecialE.............$27,299
+OL,18,BStreet Glide SpecialE...........$27,999
+OL,19,BRoad Glide LimitedE.............$28,299
+OL,20,BUltra LimitedE..................$28,699
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
@@ -461,14 +461,44 @@ OL,3,Q7bs55  7jw55jjs1uSg;/s?Q}
 OL,4,Q#!#"##!#!#  #!#"##!#!"#"##!ssQ?j*? 
 OL,5,                               Qe,,d'  
 OL,6,                               Q ep'    
-OL,7,                               Q  !     
-OL,8,GM           2019 Model Lineup          
-OL,9,GM           2019 Model Lineup          
-OL,10,F                                       
+OL,7,GM           2020 Model Lineup          
+OL,8,GM           2020 Model Lineup          
+OL,9,F                                       
+OL,10,AM                  CVO                 
+OL,11,AM                  CVO                 
+OL,12,BCVO Street GlideE...............$40,539
+OL,13,BCVO LimitedE....................$44,039
+OL,14,BCVO Tri GlideE..................$48,999
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AIndex     BSport     CMovies    FNews@
+FL,160,162,163,161,100,100
+PN,17017
+SC,0017
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q|||    |4   |4|      h|       T`|3mt  
+OL,2,Quj/%}?  }*/5?jjo55T//////% 
+OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
+OL,4,Q#!#"##!#!#  #!#"##!#!"#"##!ssQ?j*? 
+OL,5,                               Qe,,d'  
+OL,6,                               Q ep'    
+OL,7,GM           2020 Model Lineup          
+OL,8,GM           2020 Model Lineup          
+OL,9,F                                       
+OL,10,AM                 Trike                
 OL,11,AM                 Trike                
-OL,12,AM                 Trike                
-OL,13,BFreewheelerE....................$28,099
-OL,14,BTri Glide UltraE................$36,099
+OL,12,BFreewheelerE....................$27,999
+OL,13,BTri Glide UltraE................$34,999
+OL,14,                                        
 OL,15,                                        
 OL,16,                                        
 OL,17,                                        
