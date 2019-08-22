@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/08C14:49:31
+OL,0,XXXXXXXXBNMPSERVER2      E22/08C15:50:04
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BMainly dry at firstS5CSTATISTICS       
-OL,9,Bin the north but   S5C 
-OL,10,Brain soon extendingS5G   Maximum       
-OL,11,Bnorth across all   S5GTemperatureC19C 
-OL,12,Bareas by mid       S5G                 
-OL,13,Bmorning. Becoming  S5G   Minumum       
-OL,14,Bdrier in the       S5GTemperatureC14C 
-OL,15,Bafternoon but      S5C                 
-OL,16,Bstaying mostly     S5G
-OL,17,Bcloudy with patchy S5G
-OL,18,Blight rain in      S5G                 
-OL,19,Bnorth, some eveningS5G
-OL,20,Bbrightness in the  S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BA cloudy but mainlyS5CSTATISTICS       
+OL,9,Bdry night for most,S5C 
+OL,10,Bthe odd clear spellS5G   Maximum       
+OL,11,Bdeveloping later inS5GTemperatureC20C 
+OL,12,Bthe night and      S5G                 
+OL,13,Bstaying breezy     S5G   Minumum       
+OL,14,Bthroughout the     S5GTemperatureC14C 
+OL,15,Bnight. Quite mild. S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,21 +32,21 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/08C14:49:31
+OL,0,XXXXXXXXBNMPSERVER2      E22/08C15:50:04
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BA cloudy but mainlyS5CSTATISTICS       
-OL,9,Bdry night for most,S5C 
-OL,10,Bthe odd clear spellS5G   Maximum       
-OL,11,Bdeveloping later inS5GTemperatureC19C 
-OL,12,Bthe night and      S5G                 
-OL,13,Bstaying breezy     S5G   Minumum       
-OL,14,Bthroughout the     S5GTemperatureC14C 
-OL,15,Bnight.             S5C                 
-OL,16,B                   S5G
+OL,6,CFRIDAY
+OL,8,BA dry day to come  S5CSTATISTICS       
+OL,9,Bacross all parts.  S5C 
+OL,10,BSome bright or     S5G   Maximum       
+OL,11,Bsunny intervals    S5GTemperatureC20C 
+OL,12,Bdeveloping but     S5G                 
+OL,13,Bstill quite cloudy S5G   Minumum       
+OL,14,Bat times. Feeling  S5GTemperatureC14C 
+OL,15,Bquite warm in the  S5C                 
+OL,16,Bsunshine.          S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
