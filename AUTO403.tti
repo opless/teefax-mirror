@@ -5,20 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E22/08C01:52:34
+OL,0,XXXXXXXXBNMPSERVER2      E22/08C02:47:40
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FA band of rain, heavy at times, sinking
-OL,9,Fsouthwards from southern Scotland into
-OL,10,Fnorthern England and north Wales
-OL,11,Fovernight, where windy. Showers
-OL,12,Ffollowing into the northwest. Dry with
-OL,13,Fclear spells further south, where
-OL,14,Fturning locally chilly, with some fog
-OL,15,Fpatches.
+OL,7,GToday
+OL,8,FCloudy, cool, and breezy across
+OL,9,Fnorthern and western parts of the UK,
+OL,10,Fwith outbreaks of rain for many. A mix
+OL,11,Fof warm sunny spells and patchy cloud
+OL,12,Fin the south and east, with lighter
+OL,13,Fwinds.
+OL,4,                                    1/2 
+OL,15,GTonight
+OL,16,FCloudy with outbreaks of rain in parts
+OL,17,Fof the north and west. Clear spells in
+OL,18,Fthe south and east, perhaps with a few
+OL,19,Fmist and fog patches around dawn.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +30,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E22/08C01:52:34
+OL,0,XXXXXXXXBNMPSERVER2      E22/08C02:47:40
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FRain and strong winds clearing north
-OL,9,Fthrough Friday. Becoming mainly dry and
-OL,10,Fincreasingly warm through the weekend,
-OL,11,Fhot in places by Sunday. Cloudier with
-OL,12,Ffew showers in northwest at times.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FMainly dry with warm sunny spells,
+OL,9,Fparticularly in the southeast where it
+OL,10,Fwill be feeling hot. Cloudier and
+OL,11,Fcooler in the far northwest, with rain
+OL,12,Flikely at times.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
