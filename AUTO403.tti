@@ -5,19 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E23/08C01:48:55
+OL,0,XXXXXXXXBNMPSERVER2      E23/08C02:47:20
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FSkies will stay cloudy in the north and
-OL,9,Fwest tonight. Outbreaks of rain in the
-OL,10,Fnorthwest will gradually becoming
-OL,11,Fconfined to northern Scotland in the
-OL,12,Fearly hours. Clear spells in the south
-OL,13,Fand east with fog patches in southern
-OL,14,Fcounties.
+OL,7,GToday
+OL,8,FEarly fog clearing to leave most of the
+OL,9,FUK dry today. Rather cloudy at times in
+OL,10,Fthe north and west, with the best of
+OL,11,Fthe sunshine in the south and east. Wet
+OL,12,Fand windy in the far north of Scotland.
+OL,4,                                    1/2 
+OL,14,GTonight
+OL,15,FCloud and rain in the far north and
+OL,16,Fwest of the UK, with winds easing.
+OL,17,FClear and cold elsewhere, with a few
+OL,18,Fmist and fog patches possible around
+OL,19,Fdawn.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,16 +30,16 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E23/08C01:48:55
+OL,0,XXXXXXXXBNMPSERVER2      E23/08C02:47:20
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Saturday to Monday
-OL,8,FMainly dry with warm sunny spells,
-OL,9,Fparticularly in the southeast where it
-OL,10,Fwill be hot. Cloudier and cooler in the
-OL,11,Fnorthwest, with rain likely at times.
+OL,7,GOutlook for Sunday to Tuesday
+OL,8,FWarm or hot in the sunshine and staying
+OL,9,Fdry for most. Cloudier in the far
+OL,10,Fnorthwest of Scotland and northern
+OL,11,FIreland with some rain at times.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

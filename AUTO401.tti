@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E23/08C01:48:55
+OL,0,XXXXXXXXBNMPSERVER2      E23/08C02:47:20
 OL,1,T]G          Friday Evening             
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G14V%  B               
@@ -13,20 +13,20 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G14V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,ESome Cloud^ZU*y?sp  B              
-OL,9,           ^ZUj)"G 14U} B              
-OL,10,       ^ZUp|t UxRg0 BClear        
-OL,11,       ZUnG13UtU+"RG14R  B            
-OL,12,       ZU+R`4R+|0             
-OL,13,        ZU+%*o!R" R *u  B          
-OL,14,E            ^ZR`  R*G 15R} B          
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 14V} B              
+OL,10,       ^ZVp|t VxUg0 ESome Cloud   
+OL,11,       ZVnG13VtV+"UG14U  E            
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" R *u  BClear     
+OL,14,B            ^ZR`  R*G 16R}  B         
 OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 15R}zt B       
 OL,17,B              ZRj^RG 13R B       
 OL,18,B            ZRx|^G 15R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 17R/!        
-OL,21,B            ZR zG17R^/s/R/? B         
+OL,21,B            ZR zG16R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
@@ -34,21 +34,21 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E23/08C01:48:55
+OL,0,XXXXXXXXBNMPSERVER2      E23/08C02:47:20
 OL,1,T]G             Saturday                
 OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G15V%  B               
+OL,3,           ZV`?0~G16V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G19V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZU*y?sp  B              
-OL,9,           ^ZUj)"G 23U} B              
-OL,10,       ^ZVp|t UxRg0 BSunny        
-OL,11,       ZVnG21VtU+"RG24R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 25R} B          
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 23V} B              
+OL,10,       ^ZVp|t VxUg0 B             
+OL,11,       ZVnG21VtV+"UG24U B             
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" R *u  BSunny     
+OL,14,B            ^ZR`  R*G 25R}  B         
 OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 27R}zt B       
 OL,17,B              ZRj^RG 27R B       
