@@ -5,26 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E24/08C13:48:07
+OL,0,XXXXXXXXBNMPSERVER2      E24/08C14:48:18
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FMost places will be dry with plenty of
-OL,9,Fsunshine, particularly across England
-OL,10,Fand Wales today. Cloudiest skies, with
-OL,11,Fsome patchy rain across western areas
-OL,12,Fof Scotland and Northern Ireland.
-OL,13,FWidely warm or very warm and hot in the
-OL,14,Fsoutheast.
+OL,7,GThis Evening and Tonight
+OL,8,FWarm sunshine will continue into the
+OL,9,Fevening for most, followed by a dry and
+OL,10,Ffairly warm night with clear spells.
+OL,11,FThe only rain will be in the far north
+OL,12,Fof Scotland, with perhaps a shower or
+OL,13,Ftwo in Northern Ireland.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FDry for many overnight, with clear
-OL,18,Fspells. Again, perhaps some rain or
-OL,19,Fshowers across western areas,
-OL,20,Fparticularly the northwest of the UK. A
-OL,21,Fwarmer night than of late.
+OL,15,GSunday
+OL,16,FSunday will be sunny again almost
+OL,17,Feverywhere, and hot in many central and
+OL,18,Feastern areas. Morning low cloud in the
+OL,19,Ffar west will lead to less warm weather
+OL,20,Fhere.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +31,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E24/08C13:48:07
+OL,0,XXXXXXXXBNMPSERVER2      E24/08C14:48:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Monday to Wednesday
-OL,8,FMostly dry Monday, the best of the
-OL,9,Fsunshine in the east. Rain in the far
-OL,10,Fnorthwest Tuesday, then slowly
-OL,11,Fspreading southwards on Wednesday.
-OL,12,FStaying hot and sunny in the southeast.
+OL,8,FMonday will be sunny and very warm
+OL,9,Fagain and it may stay hot in the
+OL,10,Fsoutheast throughout. Cooler changeable
+OL,11,Fconditions in the far northwest on
+OL,12,FTuesday could spread slowly southwards.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
