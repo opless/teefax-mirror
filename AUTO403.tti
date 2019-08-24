@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E24/08C01:54:05
+OL,0,XXXXXXXXBNMPSERVER2      E24/08C02:47:44
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FMost of the UK will have warm evening
-OL,9,Fsunshine, followed by a clear night,
-OL,10,Fwith only a few mist patches just
-OL,11,Fbefore dawn. However, western Scotland
-OL,12,Fwill be cloudier, and there will be
-OL,13,Fsome rain in the far northwest.
+OL,7,GToday
+OL,8,FMost places will be dry with plenty of
+OL,9,Fsunshine, particularly across England
+OL,10,Fand Wales today. Cloudiest skies, with
+OL,11,Fsome patchy rain across western areas
+OL,12,Fof Scotland and Northern Ireland.
+OL,13,FWidely warm or very warm and hot in the
+OL,14,Fsoutheast.
 OL,4,                                    1/2 
-OL,15,GSaturday
-OL,16,FWall-to-wall sunshine is expected for
-OL,17,Fmost. It will be very warm, though less
-OL,18,Fso near south-facing coasts. Northwest
-OL,19,FScotland and parts of Northern Ireland
-OL,20,Fwill be cloudier with possible rain.
+OL,16,GTonight
+OL,17,FDry for many overnight, with clear
+OL,18,Fspells. Again, perhaps some rain or
+OL,19,Fshowers across western areas,
+OL,20,Fparticularly the northwest of the UK. A
+OL,21,Fwarmer night than of late.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +32,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E24/08C01:54:05
+OL,0,XXXXXXXXBNMPSERVER2      E24/08C02:47:44
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FWarm and fine weather will continue
-OL,9,Facross most of the UK, and the east
-OL,10,Fwill stay very warm. Cloud, wind and
-OL,11,Foccasional rain will affect some
-OL,12,Fnorthwestern parts at times.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FMostly dry Monday, the best of the
+OL,9,Fsunshine in the east. Rain in the far
+OL,10,Fnorthwest Tuesday, then slowly
+OL,11,Fspreading southwards on Wednesday.
+OL,12,FStaying hot and sunny in the southeast.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
