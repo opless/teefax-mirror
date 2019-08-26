@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E26/08C22:46:57
+OL,0,XXXXXXXXBNMPSERVER2      E26/08C23:45:57
 OL,1,T]G           This Evening              
 OL,2,           ^ZR 4`~|}            G 1/2 
 OL,3,           ZR`?0~G11R%  BHeavy Rain     
@@ -25,7 +25,7 @@ OL,16,B            ^ZU'oG 17V}zt B
 OL,17,ESome Cloud    ZUj^VG 15V B       
 OL,18,E            ZUx|^G 16V'         
 OL,19,             ^ZU! +/'iVqp0        
-OL,20,CCloudy      ^ZS  tG 20V/!        
+OL,20,CLight Rain  ^ZS  tG 21V/!        
 OL,21,C            ZS zG16S^/s/V/? B         
 OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
@@ -34,10 +34,10 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E26/08C22:46:57
+OL,0,XXXXXXXXBNMPSERVER2      E26/08C23:45:57
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZS 4`~|}            G 2/2 
-OL,3,           ZS`?0~G14S%  CHeavy Rain     
+OL,3,           ZS`?0~G14S%  CLight Rain     
 OL,4,           SZj**gppp  C              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G18V!FSome Cloud     
@@ -49,10 +49,10 @@ OL,11,       ZUnG20UtU+"VG22V B
 OL,12,       ZU+V`4V+|0             
 OL,13,        ZU+%*o!V" R *u  BSunny     
 OL,14,B            ^ZU`  R*G 28R}  B         
-OL,15,DThunder     ^ZUk|R            
-OL,16,D            ^ZU'oG 24T}zt B       
-OL,17,B              ZUj^RG 31T B       
-OL,18,B            ZUx|^G 21T'         
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 25V}zt B       
+OL,17,B              ZUj^RG 31V B       
+OL,18,B            ZUx|^G 21V'         
 OL,19,             ^ZU! +/'iRqp0        
 OL,20,ECloudy      ^ZU  tG 32R/!        
 OL,21,E            ZU zG21U^/s/R/? B         
