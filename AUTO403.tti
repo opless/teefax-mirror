@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/08C14:48:15
+OL,0,XXXXXXXXBNMPSERVER2      E26/08C15:48:50
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FLow cloud, fog in the west clearing
-OL,9,Finland, but may persist along some
-OL,10,Fcoasts. Elsewhere, dry, sunny and hot
-OL,11,Ffor many, especially in southeast. Risk
-OL,12,Fof showers and thunderstorms spreading
-OL,13,Finto southwest England by evening. Rain
-OL,14,Fedging into far northwest.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FCloud and rain may edge into Northern
-OL,18,FIreland overnight. Otherwise, dry with
-OL,19,Fclear spells and some fog patches
-OL,20,Flikely in the east. A few thundery
-OL,21,Fshowers possible in southwest. Warm.
+OL,7,GThis Evening and Tonight
+OL,8,FThere will be clear spells with some
+OL,9,Ffog patches in the east and very warm
+OL,10,Fovernight temperatures in the
+OL,11,Fsoutheast. In south Wales and the
+OL,12,Fsouthwest, showers will be likely, with
+OL,13,Fthe risk of heavier bursts and thunder
+OL,14,Flater.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +25,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/08C14:48:15
+OL,0,XXXXXXXXBNMPSERVER2      E26/08C15:48:50
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Wednesday to Friday
-OL,8,FWednesday will see sunny spells and
-OL,9,Fshowers, possibly thundery. Drier with
-OL,10,Ffurther hot conditions in the
-OL,11,Fsoutheast. Fresher for all and mostly
-OL,12,Fdry Thursday. Wet and windy in north
+OL,8,FSunshine and showers on Wednesday, with
+OL,9,Fpossible thunder later. After early
+OL,10,Fthundery showers in east Thursday, it
+OL,11,Fwill become fresher and drier. Turning
+OL,12,Fwet and windy from the northwest
 OL,13,FFriday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
