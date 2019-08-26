@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/08C00:51:09
+OL,0,XXXXXXXXBNMPSERVER2      E26/08C01:47:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FLow cloud and fog will develop tonight,
-OL,9,Fmostly in the east of Northern Ireland
-OL,10,Fand the west of mainland UK. Otherwise
-OL,11,Fit will be generally clear but it will
-OL,12,Fbe a warm night in the east.
+OL,7,GToday
+OL,8,FLow cloud, fog in the west clearing
+OL,9,Finland, but may persist along some
+OL,10,Fcoasts. Elsewhere, dry, sunny and hot
+OL,11,Ffor many, especially in southeast. Risk
+OL,12,Fof showers and thunderstorms spreading
+OL,13,Finto southwest England by evening. Rain
+OL,14,Fedging into far northwest.
 OL,4,                                    1/2 
-OL,14,GMonday
-OL,15,FLow cloud and fog in west clearing
-OL,16,Finland, but persisting along some
-OL,17,Fcoasts. Elsewhere, sunny and very hot
-OL,18,Fin southeast. Risk of showers and
-OL,19,Fthunderstorms spreading into southwest
-OL,20,FEngland later.
+OL,16,GTonight
+OL,17,FCloud and rain may edge into Northern
+OL,18,FIreland overnight. Otherwise, dry with
+OL,19,Fclear spells and some fog patches
+OL,20,Flikely in the east. A few thundery
+OL,21,Fshowers possible in southwest. Warm.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/08C00:51:10
+OL,0,XXXXXXXXBNMPSERVER2      E26/08C01:47:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Tuesday to Thursday
-OL,8,FTuesday and Wednesday will see sunshine
-OL,9,Fand showers, perhaps with thunder. The
-OL,10,Fsoutheast will stay drier, with further
-OL,11,Fhot conditions. Thursday will be
-OL,12,Ffresher for all, with mostly sunny
-OL,13,Fskies.
+OL,7,GOutlook for Wednesday to Friday
+OL,8,FWednesday will see sunny spells and
+OL,9,Fshowers, possibly thundery. Drier with
+OL,10,Ffurther hot conditions in the
+OL,11,Fsoutheast. Fresher for all and mostly
+OL,12,Fdry Thursday. Wet and windy in north
+OL,13,FFriday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
