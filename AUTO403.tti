@@ -5,19 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/08C01:47:16
+OL,0,XXXXXXXXBNMPSERVER2      E27/08C02:47:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FThere will be clear spells with some
-OL,9,Ffog patches in the east and very warm
-OL,10,Fovernight temperatures in the
-OL,11,Fsoutheast. In south Wales and the
-OL,12,Fsouthwest, showers will be likely, with
-OL,13,Fthe risk of heavier bursts and thunder
-OL,14,Flater.
+OL,7,GToday
+OL,8,FOutbreaks of rain in Northern Ireland
+OL,9,Fand western Scotland. Isolated thundery
+OL,10,Fshowers over Wales and the southwest of
+OL,11,FEngland will slowly fade. Thunderstorms
+OL,12,Fdeveloping over parts of northern,
+OL,13,Feastern and central England, and
+OL,14,Fsoutheastern Scotland later. Hot in the
+OL,15,Fsoutheast.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +26,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/08C01:47:16
+OL,0,XXXXXXXXBNMPSERVER2      E27/08C02:47:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FSunshine and showers on Wednesday, with
-OL,9,Fpossible thunder later. After early
-OL,10,Fthundery showers in east Thursday, it
-OL,11,Fwill become fresher and drier. Turning
-OL,12,Fwet and windy from the northwest
-OL,13,FFriday.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FDry for many Thursday, but wet and
+OL,9,Fwindy weather arrives in the northwest
+OL,10,Flater. Wet and windy conditions in the
+OL,11,Fnorthwest on Friday spread
+OL,12,Fsoutheastwards on Saturday with winds
+OL,13,Feasing.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
