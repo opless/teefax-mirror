@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E28/08C21:52:27
+OL,0,XXXXXXXXBNMPSERVER2      E28/08C22:50:30
 OL,1,T]G           This Evening              
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G11V%  B               
@@ -14,14 +14,14 @@ OL,5,           ^ZV({5
 OL,6,            ZV!'~G11V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BClear         
-OL,9,           ^ZRj)"G 13R}  B             
+OL,9,           ^ZRj)"G 12R}  B             
 OL,10,       ^ZVp|t RxRg0 B             
-OL,11,       ZVnG13VtR+"RG11R B             
+OL,11,       ZVnG12VtR+"RG11R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZR`  V*G 12V} B          
 OL,15,CLight Rain  ^ZRk|U            
-OL,16,C            ^ZR'oG 12S}zt B       
+OL,16,C            ^ZR'oG 11S}zt B       
 OL,17,B              ZRj^UG 14S B       
 OL,18,B            ZRx|^G 11S'         
 OL,19,             ^ZR! +/'iUqp0        
@@ -34,23 +34,23 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E28/08C21:52:27
+OL,0,XXXXXXXXBNMPSERVER2      E28/08C22:50:30
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZU 4`~|}            G 2/2 
 OL,3,           ZU`?0~G16U%  ELight Rain     
 OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G16V!FCloudy         
+OL,6,            ZV!'~G17V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 18V} B              
-OL,10,       ^ZVp|t VxRg0 BSome Cloud   
-OL,11,       ZVnG19VtV+"RG18R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 20R} B          
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG19VtV+"VG18V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  BSome Cloud
+OL,14,B            ^ZR`  R*G 20R}  B         
 OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 20V}zt B       
+OL,16,B            ^ZR'oG 19V}zt B       
 OL,17,B              ZRj^RG 22V B       
 OL,18,B            ZRx|^G 20V'         
 OL,19,             ^ZR! +/'iSqp0        
