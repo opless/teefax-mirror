@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/08C00:50:57
+OL,0,XXXXXXXXBNMPSERVER2      E28/08C01:47:26
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FEvening thunderstorms over northern and
-OL,9,Feastern England as well as eastern
-OL,10,FScotland will clear soon after dark.
-OL,11,FAfter that, most areas will be dry, but
-OL,12,Frain in northwest Scotland will spread
-OL,13,Ffurther southeastwards. Southeast
-OL,14,FEngland will stay warm.
+OL,7,GToday
+OL,8,FFresher for some with rain across Wales
+OL,9,Fand southwest England, moving into the
+OL,10,FMidlands and northern England, giving
+OL,11,Fsome heavy bursts. Rain across Scotland
+OL,12,Fand Northern Ireland, clearing to
+OL,13,Fsunshine and showers. Less hot and
+OL,14,Fmostly dry in southeast England.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FOutbreaks of rain slowly clearing
+OL,18,Fsoutheastwards, leaving a largely clear
+OL,19,Fand chilly night. Scattered showers may
+OL,20,Faffect some western parts at times, and
+OL,21,Fwinds will strengthen in the northwest.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +32,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/08C00:50:57
+OL,0,XXXXXXXXBNMPSERVER2      E28/08C01:47:27
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
-OL,8,FThursday mostly dry until wet and windy
-OL,9,Fweather arrives in northwest. Rain in
-OL,10,Fthe northwest on Friday will spread
-OL,11,Fsoutheastwards Saturday leaving cooler
-OL,12,Fweather, and strong winds in the north.
+OL,7,GOutlook for Friday to Sunday
+OL,8,FWindy with some rain in the north on
+OL,9,FFriday, but dry and sunny in the south.
+OL,10,FRain spreading to all areas during
+OL,11,FSaturday, followed by sunshine and
+OL,12,Fshowers. Turning cooler.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
