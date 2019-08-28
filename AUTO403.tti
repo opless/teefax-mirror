@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/08C12:49:07
+OL,0,XXXXXXXXBNMPSERVER2      E28/08C13:48:53
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FFresher for some with rain across Wales
-OL,9,Fand southwest England, moving into the
-OL,10,FMidlands and northern England, giving
-OL,11,Fsome heavy bursts. Rain across Scotland
-OL,12,Fand Northern Ireland, clearing to
-OL,13,Fsunshine and showers. Less hot and
-OL,14,Fmostly dry in southeast England.
+OL,7,GThis Evening and Tonight
+OL,8,FEvening sunshine will develop in Wales,
+OL,9,FScotland and southwest England as
+OL,10,Foutbreaks of rain move slowly
+OL,11,Fsoutheastwards to leave a mainly clear
+OL,12,Fand chilly night. One or two showers
+OL,13,Fmay affect western parts, and winds
+OL,14,Fwill strengthen in the northwest.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FOutbreaks of rain slowly clearing
-OL,18,Fsoutheastwards, leaving a largely clear
-OL,19,Fand chilly night. Scattered showers may
-OL,20,Faffect some western parts at times, and
-OL,21,Fwinds will strengthen in the northwest.
+OL,16,GThursday
+OL,17,FHeavy rain and coastal gales will
+OL,18,Faffect western Scotland, but elsewhere,
+OL,19,Fthe UK will stay mostly dry with sunny
+OL,20,Fspells and only a few showers. The
+OL,21,Fnorth will be windy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/08C12:49:07
+OL,0,XXXXXXXXBNMPSERVER2      E28/08C13:48:53
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Friday to Sunday
-OL,8,FWindy with some rain in the north on
-OL,9,FFriday, but dry and sunny in the south.
-OL,10,FRain spreading to all areas during
-OL,11,FSaturday, followed by sunshine and
-OL,12,Fshowers. Turning cooler.
+OL,8,FFriday will be windy with heavy rain in
+OL,9,Fthe northwest but dry and bright
+OL,10,Felsewhere. Rain and cooler air will
+OL,11,Freach all parts during Saturday,
+OL,12,Ffollowed by sunshine and showers.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
