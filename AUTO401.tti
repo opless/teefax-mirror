@@ -5,21 +5,21 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E29/08C11:48:12
+OL,0,XXXXXXXXBNMPSERVER2      E29/08C12:48:02
 OL,1,T]G              Today                  
 OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G16U%  B               
-OL,4,           UZj**gppp B               
+OL,3,           ZU`?0~G16U%  ELight Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G16V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,ELight Rain^ZV*y?sp  B              
+OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 18V} B              
-OL,10,       ^ZUp|t VxVg0 B             
-OL,11,       ZUnG19UtV+"VG18V B             
-OL,12,       ZU+V`4V+|0             
-OL,13,        ZU+%*o!V" R *u  BSome Cloud
-OL,14,E            ^ZR`  R*G 21R}  B         
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG19VtV+"VG18V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  BSome Cloud
+OL,14,B            ^ZR`  R*G 21R}  B         
 OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 20V}zt B       
 OL,17,B              ZRj^RG 22V B       
@@ -34,7 +34,7 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E29/08C11:48:12
+OL,0,XXXXXXXXBNMPSERVER2      E29/08C12:48:02
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZR 4`~|}            G 2/2 
 OL,3,           ZR`?0~G14R%  B               
@@ -42,13 +42,13 @@ OL,4,           RZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G17V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BLight Rain    
+OL,8,CHeavy Rain^ZR*y?sp  BLight Rain    
 OL,9,           ^ZRj)"G 18R}  B             
-OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG17RtR+"VG18V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 22V} B          
+OL,10,       ^ZSp|t RxVg0 B             
+OL,11,       ZSnG17StR+"VG18V B             
+OL,12,       ZS+V`4V+|0             
+OL,13,        ZS+%*o!V" V *u  B          
+OL,14,C            ^ZV`  V*G 22V} B          
 OL,15,B            ^ZVk|U            
 OL,16,B            ^ZV'oG 21V}zt B       
 OL,17,B              ZVj^UG 23V B       
