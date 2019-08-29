@@ -5,26 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/08C00:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E29/08C01:49:46
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FEvening sunshine will develop in Wales,
-OL,9,FScotland and southwest England as
-OL,10,Foutbreaks of rain move slowly
-OL,11,Fsoutheastwards to leave a mainly clear
-OL,12,Fand chilly night. One or two showers
-OL,13,Fmay affect western parts, and winds
-OL,14,Fwill strengthen in the northwest.
+OL,7,GToday
+OL,8,FAfter a chilly start to the day, much
+OL,9,Fof England and Wales will stay dry with
+OL,10,Fsunny spells and only a few showers.
+OL,11,FRather windy in the north with heavy
+OL,12,Fshowers or longer spells of rain in the
+OL,13,Ffar northwest.
 OL,4,                                    1/2 
-OL,16,GThursday
-OL,17,FHeavy rain and coastal gales will
-OL,18,Faffect western Scotland, but elsewhere,
-OL,19,Fthe UK will stay mostly dry with sunny
-OL,20,Fspells and only a few showers. The
-OL,21,Fnorth will be windy.
+OL,15,GTonight
+OL,16,FWindy in the north with rain at times,
+OL,17,Fthis becoming heavier and more
+OL,18,Fpersistent later for the far northwest.
+OL,19,FMostly dry elsewhere with clear spells
+OL,20,Fin the south and east.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +31,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/08C00:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E29/08C01:49:46
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FFriday will be windy with heavy rain in
-OL,9,Fthe northwest but dry and bright
-OL,10,Felsewhere. Rain and cooler air will
-OL,11,Freach all parts during Saturday,
-OL,12,Ffollowed by sunshine and showers.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FWindy on Saturday with a band of rain
+OL,9,Fclearing to showers and cooler
+OL,10,Fconditions. Sunny spells and heavy,
+OL,11,Fblustery showers on Sunday. Most places
+OL,12,Fdry on Monday with sunny spells.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
