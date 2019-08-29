@@ -5,25 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/08C12:48:02
+OL,0,XXXXXXXXBNMPSERVER2      E29/08C13:47:27
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FAfter a chilly start to the day, much
-OL,9,Fof England and Wales will stay dry with
-OL,10,Fsunny spells and only a few showers.
-OL,11,FRather windy in the north with heavy
-OL,12,Fshowers or longer spells of rain in the
-OL,13,Ffar northwest.
+OL,7,GThis Evening and Tonight
+OL,8,FMuch of the UK will have a sunny
+OL,9,Fevening followed by a dry night in the
+OL,10,Fsouth and east. It will be windy in the
+OL,11,Fnorth with rain at times, becoming
+OL,12,Fheavier and more persistent later in
+OL,13,Fthe far northwest.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FWindy in the north with rain at times,
-OL,17,Fthis becoming heavier and more
-OL,18,Fpersistent later for the far northwest.
-OL,19,FMostly dry elsewhere with clear spells
-OL,20,Fin the south and east.
+OL,15,GFriday
+OL,16,FMuch of England and Wales will be dry
+OL,17,Fand warm with sunshine. The north will
+OL,18,Fbe windy with rain, heavy and
+OL,19,Fpersistent in parts of Northern Ireland
+OL,20,Fand western Scotland.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +31,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/08C12:48:02
+OL,0,XXXXXXXXBNMPSERVER2      E29/08C13:47:27
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Saturday to Monday
-OL,8,FWindy on Saturday with a band of rain
-OL,9,Fclearing to showers and cooler
-OL,10,Fconditions. Sunny spells and heavy,
-OL,11,Fblustery showers on Sunday. Most places
-OL,12,Fdry on Monday with sunny spells.
+OL,8,FUnsettled across the north, with heavy
+OL,9,Frain on Saturday and showers on Sunday.
+OL,10,FDrier and brighter in the south, with
+OL,11,Frain moving east on Saturday. Cooler
+OL,12,FGenerally.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
