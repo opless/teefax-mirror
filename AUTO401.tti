@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E30/08C04:46:58
+OL,0,XXXXXXXXBNMPSERVER2      E30/08C05:48:13
 OL,1,T]G          Friday Evening             
 OL,2,           ^ZR 4`~|}            G 1/2 
 OL,3,           ZR`?0~G09R%  B               
@@ -13,50 +13,50 @@ OL,4,           RZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G14V!FLight Rain     
 OL,7,           ^ZV ~ow1  F              
-OL,8,DHeavy Rain^ZV*y?sp  B              
+OL,8,CHeavy Rain^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 16V} B              
-OL,10,       ^ZTp|t VxRg0 BCloudy       
-OL,11,       ZTnG15TtV+"RG14R  B            
-OL,12,       ZT+R`4R+|0             
-OL,13,        ZT+%*o!R" U *u  ESome Cloud
-OL,14,D            ^ZU`  U*G 15U}  E         
-OL,15,B            ^ZUk|S            
-OL,16,B            ^ZU'oG 14R}zt B       
-OL,17,B              ZUj^SG 14R B       
-OL,18,B            ZUx|^G 15R'         
-OL,19,             ^ZU! +/'iSqp0        
-OL,20,B            ^ZR  tG 15S/!        
-OL,21,B            ZR zG16R^/s/S/? CClear    
-OL,22,            ZR8?' "'    "     C        
+OL,10,       ^ZSp|t VxRg0 BCloudy       
+OL,11,       ZSnG15StV+"RG14R  B            
+OL,12,       ZS+R`4R+|0             
+OL,13,        ZS+%*o!R" T *u  DSome Cloud
+OL,14,C            ^ZR`  T*G 15T}  D         
+OL,15,B            ^ZRk|U            
+OL,16,B            ^ZR'oG 14R}zt B       
+OL,17,B              ZRj^UG 14R B       
+OL,18,B            ZRx|^G 15R'         
+OL,19,             ^ZR! +/'iUqp0        
+OL,20,B            ^ZR  tG 15U/!        
+OL,21,B            ZR zG16R^/s/U/? EClear    
+OL,22,            ZR8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E30/08C04:46:58
+OL,0,XXXXXXXXBNMPSERVER2      E30/08C05:48:13
 OL,1,T]G             Saturday                
-OL,2,           ^ZS 4`~|}            G 2/2 
-OL,3,           ZS`?0~G13S%  CHeavy Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G13V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G16V!FLight Rain     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BSome Cloud    
 OL,9,           ^ZRj)"G 17R}  B             
 OL,10,       ^ZVp|t RxRg0 B             
-OL,11,       ZVnG16VtR+"RG18R B             
+OL,11,       ZVnG17VtR+"RG18R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" U *u  ECloudy    
 OL,14,B            ^ZV`  U*G 20U}  E         
 OL,15,B            ^ZVk|U            
-OL,16,B            ^ZV'oG 19U}zt B       
-OL,17,B              ZVj^UG 24U B       
-OL,18,B            ZVx|^G 19U'         
+OL,16,B            ^ZV'oG 19R}zt B       
+OL,17,B              ZVj^UG 24R B       
+OL,18,B            ZVx|^G 19R'         
 OL,19,             ^ZV! +/'iUqp0        
-OL,20,B            ^ZR  tG 23U/!        
-OL,21,B            ZR zG19R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,20,B            ^ZV  tG 23U/!        
+OL,21,B            ZV zG19V^/s/U/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,0,199
