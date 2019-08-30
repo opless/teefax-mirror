@@ -5,26 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/08C12:48:58
+OL,0,XXXXXXXXBNMPSERVER2      E30/08C13:48:17
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FCloudy across much of the north,
-OL,9,Fespecially Northern Ireland and
-OL,10,FScotland where it will be windy with
-OL,11,Fsome persistent, occasionally heavy,
-OL,12,Frain. Dry across central and southern
-OL,13,Fparts with some warm sunny spells,
-OL,14,Falthough breezy at times.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FRain, often heavy, for Northern Ireland
-OL,18,Fand much of Scotland. A risk of showers
-OL,19,Ffor Wales and northwest England.
-OL,20,FElsewhere, dry with clear spells and a
-OL,21,Fchance of patchy fog.
+OL,7,GThis Evening and Tonight
+OL,8,FOutbreaks of rain in the northwest,
+OL,9,Fwith further heavy rain across parts of
+OL,10,FNorthern Ireland and Scotland.
+OL,11,FIncreasingly cloudy and windy for Wales
+OL,12,Fand northwest England, with rain by
+OL,13,Fmorning. Elsewhere, dry with clear
+OL,14,Fspells, with some patchy fog
+OL,15,Fdeveloping.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +26,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/08C12:48:58
+OL,0,XXXXXXXXBNMPSERVER2      E30/08C13:48:17
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Sunday to Tuesday
-OL,8,FSunday, sunshine and showers. Breezy.
-OL,9,FMonday, mainly dry after a chilly
-OL,10,Fstart. Rain and strong wind arriving in
-OL,11,Fthe north. Tuesday, breezy and cloudy
-OL,12,Fwith rain mainly in the west.
+OL,8,FBreezy with sunshine and showers
+OL,9,FSunday.  Chilly start Monday then
+OL,10,Flargely dry, but rain and strong winds
+OL,11,Fin north later. Breezy Tuesday;  dry in
+OL,12,Fthe SE, rain in the northwest.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
