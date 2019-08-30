@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E30/08C14:46:30
+OL,0,XXXXXXXXBNMPSERVER2      E30/08C15:49:31
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BCloudy with        S5CSTATISTICS       
-OL,9,Boccasional rain in S5C 
-OL,10,Bthe morning.       S5G   Maximum       
-OL,11,BRemaining cloudy   S5GTemperatureC17C 
-OL,12,Bthis afternoon withS5G                 
-OL,13,Brain turning       S5G   Minumum       
-OL,14,Bpersistent and     S5GTemperatureC11C 
-OL,15,Boccasionally heavy S5C                 
-OL,16,Bin the northwest.  S5G
-OL,17,BBrisk southwesterlyS5G
-OL,18,Bwinds easing a     S5G                 
-OL,19,Blittle later this  S5G
-OL,20,Bafternoon.         S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BPersistent rain    S5CSTATISTICS       
+OL,9,Bwill affect most   S5C 
+OL,10,Bparts this evening S5G   Maximum       
+OL,11,Band overnight. The S5GTemperatureC17C 
+OL,12,Brain will turn     S5G                 
+OL,13,Bheavy across the   S5G   Minumum       
+OL,14,Bnorth and far west S5GTemperatureC10C 
+OL,15,Bovernight with someS5C                 
+OL,16,Bheavier outbreaks  S5G
+OL,17,Btransferring       S5G
+OL,18,Beastwards later in S5G                 
+OL,19,Bthe night as       S5G
+OL,20,Bsoutherly winds    S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E30/08C14:46:30
+OL,0,XXXXXXXXBNMPSERVER2      E30/08C15:49:31
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BCloudy this eveningS5CSTATISTICS       
-OL,9,Bwith rain at times.S5C 
-OL,10,BThe rest of the    S5G   Maximum       
-OL,11,Bnight will see     S5GTemperatureC17C 
-OL,12,Bwidespread         S5G                 
-OL,13,Bpersistent rain,   S5G   Minumum       
-OL,14,Bheavy across the   S5GTemperatureC11C 
-OL,15,Bwest and north.    S5C                 
-OL,16,BRain turning patchyS5G
-OL,17,Bin the south later.S5G
+OL,6,CSATURDAY
+OL,8,BOvernight cloud andS5CSTATISTICS       
+OL,9,Brain will clear    S5C 
+OL,10,Baway through the   S5G   Maximum       
+OL,11,Bmorning to leave a S5GTemperatureC17C 
+OL,12,Bbright day with    S5G                 
+OL,13,Bjust a few showers.S5G   Minumum       
+OL,14,BWinds in the east  S5GTemperatureC10C 
+OL,15,Bsoon easing.       S5C                 
+OL,16,BFeeling quite cool.S5G
+OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
