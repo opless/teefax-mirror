@@ -5,19 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E31/08C13:49:17
+OL,0,XXXXXXXXBNMPSERVER2      E31/08C14:50:49
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSaturday starts wet and windy across
-OL,9,Fnorthern and western areas, with
-OL,10,Fsunshine and showers following during
-OL,11,Fthe day. Most southern and eastern
-OL,12,Fparts will start dry with some warm
-OL,13,Fsunshine, although a weakening band of
-OL,14,Frain will move slowly eastwards.
+OL,7,GThis Evening and Tonight
+OL,8,FGales for the Northern Isles at first.
+OL,9,FPatchy rain soon clearing southeast
+OL,10,FEngland to leave many southern and
+OL,11,Feastern parts dry overnight with clear
+OL,12,Fspells. Scattered showers further north
+OL,13,Fand west, some heavy and possibly
+OL,14,Fthundery. A much cooler night.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +25,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E31/08C13:49:17
+OL,0,XXXXXXXXBNMPSERVER2      E31/08C14:50:49
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Monday to Wednesday
-OL,8,FWet and windy weather will move across
-OL,9,Fthe north and northwest on Monday. Dry
-OL,10,Fand bright elsewhere, after starting
-OL,11,Fchilly. Thereafter, generally cool and
-OL,12,Frather windy with some showery rain.
+OL,8,FChangeable with spells of rain and
+OL,9,Fstrong winds moving southeastwards,
+OL,10,Finterspersed with quieter periods, with
+OL,11,Fsunshine and some showers. Often dry in
+OL,12,Fthe south. Feeling cooler, with some
+OL,13,Fchilly nights.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
