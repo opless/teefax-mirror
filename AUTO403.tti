@@ -5,19 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/09C13:47:55
+OL,0,XXXXXXXXBNMPSERVER2      E01/09C14:49:31
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSunday will be a generally cool day
-OL,9,Fwith a mix of sunshine and showers
-OL,10,Facross the British Isles. The heaviest
-OL,11,Fand most frequent showers are likely
-OL,12,Facross northern and central areas,
-OL,13,Fwhere they will be accompanied by
-OL,14,Fthunder in places.
+OL,7,GThis Evening and Tonight
+OL,8,FShowers confined to northern and
+OL,9,Fwestern parts, possibly heavy in the
+OL,10,Ffar north. Cloud and persistent rain
+OL,11,Farriving into western Scotland and
+OL,12,FNorthern Ireland later. Elsewhere,
+OL,13,Fmostly dry with clear spells. Chilly,
+OL,14,Fwith perhaps some fog patches in
+OL,15,Fsoutheast England.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +26,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/09C13:47:55
+OL,0,XXXXXXXXBNMPSERVER2      E01/09C14:49:31
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FMostly dry and bright in the south and
-OL,9,Fsoutheast on Tuesday. Wet and rather
-OL,10,Fwindy further northwest. Changeable
-OL,11,Fthereafter. Rain, especially in the
-OL,12,Fnorth, where windy. Brightest towards
-OL,13,Fthe southeast.
+OL,8,FChangeable with spells of rain and
+OL,9,Fstronger winds moving southeast,
+OL,10,Finterspersed with sunshine and showers.
+OL,11,FOften dry in the south. Staying on the
+OL,12,Fcool side, with some chilly nights.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
