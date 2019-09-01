@@ -1,18 +1,27 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 304 Scottish Premiership
+DE,Sport Page 304 Premier League
 CT,10,T
 PN,30400
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E01/09C15:48:04
+OL,0,XXXXXXXXBNMPSERVER2      E01/09C16:47:06
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,CRangers 0-2 Celtic: How did you rate
-OL,5,Cthe players in the Old Firm game?
-OL,9,FShare this with
-OL,11,FPlayer of the match
+OL,4,CEverton 3-2 Wolverhampton Wanderers:
+OL,5,CRicharlison double give Goodison Park
+OL,6,Cside victory
+OL,7, Richarlison scored twice as Everton
+OL,8, beat Wolves 3-2 in an entertaining
+OL,9, Premier League contest at Goodison
+OL,10, Park.
+OL,12,FWolves thought they had earned a point
+OL,13,Fwhen Raul Jimenez bravely headed home
+OL,14,Fin the 78th minute, but Richarlison
+OL,15,Fshowed his own aerial prowess two
+OL,16,Fminutes later to rise above Willy Boly
+OL,17,Fand give Everton all three points.
 OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 OL,24,ANext page  BFootball CHeadlines FSport
