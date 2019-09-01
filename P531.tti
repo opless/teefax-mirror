@@ -6,15 +6,15 @@ SC,0001
 OL,1,†bedford weather  ‚cy2.uk/weather‡   1/2
 OL,2,” “h40|x|t`<l0,,j=l0x|t`<,            
 OL,3,” “"--'+,$*'+% / *%*%+,$*%             
-OL,5,Fri, 30 Aug at 19:58 BST
-OL,6,Temperature: 22.5C
-OL,7,Humidity:    57%
-OL,8,Wind: ESE, 1 mph
+OL,5,Sun, 01 Sep at 10:53 BST
+OL,6,Temperature: 32.0C
+OL,7,Humidity:    24%
+OL,8,Wind: S, 0 mph
 OL,9,Rain: 0.0 mm
-OL,10,Pressure: 1017 hPa, falling slowly
-OL,11,Cloud base: 1119 m
+OL,10,Pressure: 1017 hPa, rising slowly
+OL,11,Cloud base: 2890 m
 OL,12,12 hour weather forecast, computed on
-OL,13,Fri, 30 Aug at 08:57 BST:
+OL,13,Sun, 01 Sep at 08:53 BST:
 OL,14,Fine weather.
 OL,15,This forecast is highly experimental!
 OL,23,„‡                     More followsˆ>
@@ -27,14 +27,14 @@ OL,2,” “h40|x|t`<l0,,j=l0x|t`<,
 OL,3,” “"--'+,$*'+% / *%*%+,$*%             
 OL,4,ƒYesterday's temperatures
 OL, 5,  36‘                        
-OL, 6,  33‘                        
-OL, 7,  30‘    ,# ,                
-OL, 8,  27‘      # #               
-OL, 9,  24•   #     #,p            
-OL,10,  21•            #,          
-OL,11,  18•  p           ###p      
-OL,12,  15–                  ##,,pp
-OL,13,  12–,#                      
+OL, 6,  33‘     ,                  
+OL, 7,  30‘    p ,                 
+OL, 8,  27‘        p               
+OL, 9,  24•       #                
+OL,10,  21•  p#     ,,#,           
+OL,11,  18•             #p         
+OL,12,  15–,#             #,p      
+OL,13,  12–                  ##,,pp
 OL,14,   9–                        
 OL,15,   6–                        
 OL,16,   3”                        
