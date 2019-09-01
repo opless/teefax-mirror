@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E01/09C01:49:45
+OL,0,XXXXXXXXBNMPSERVER2      E01/09C02:49:33
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BEvening sunny      S5CSTATISTICS       
-OL,9,Bspells, with       S5C 
-OL,10,Bshowers becoming   S5G   Maximum       
-OL,11,Bmostly confined to S5GTemperatureC17C 
-OL,12,Bthe north and west.S5G                 
-OL,13,BEast remains dry   S5G   Minumum       
-OL,14,Bovernight with     S5GTemperatureC6C 
-OL,15,Bclear spells but   S5C                 
-OL,16,Bcloudier across theS5G
-OL,17,Bnorth and west withS5G
-OL,18,Bthe occasional     S5G                 
-OL,19,Bfurther shower.    S5G
-OL,20,B                   S5G
+OL,6,CTODAY
+OL,8,BA bright morning   S5CSTATISTICS       
+OL,9,Bwith sunny spells  S5C 
+OL,10,Band occasional     S5G   Maximum       
+OL,11,Bshowers. Cloud     S5GTemperatureC17C 
+OL,12,Bincreases from the S5G                 
+OL,13,Bwest through the   S5G   Minumum       
+OL,14,Bafternoon with     S5GTemperatureC8C 
+OL,15,Bfurther showers    S5C                 
+OL,16,Bexpected, most     S5G
+OL,17,Bfrequent in the    S5G
+OL,18,Bwest. Occasionally S5G                 
+OL,19,Bfresh westerly     S5G
+OL,20,Bwinds.             S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,24 +32,24 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E01/09C01:49:45
+OL,0,XXXXXXXXBNMPSERVER2      E01/09C02:49:33
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSUNDAY
-OL,8,BSome early sunshineS5CSTATISTICS       
-OL,9,Bin east but        S5C 
-OL,10,Bcloudier, showery  S5G   Maximum       
-OL,11,Bconditions in northS5GTemperatureC17C 
-OL,12,Band west spreading S5G                 
-OL,13,Bsoutheast. The     S5G   Minumum       
-OL,14,Bshowers, perhaps   S5GTemperatureC6C 
-OL,15,Bheavy for a time,  S5C                 
-OL,16,Bease through the   S5G
-OL,17,Bafternoon. Strong  S5G
-OL,18,Bnorthwesterly windsS5G                 
-OL,19,Beasing.            S5G
+OL,6,CTONIGHT
+OL,8,BShowers largely    S5CSTATISTICS       
+OL,9,Bdying out this     S5C 
+OL,10,Bevening with some  S5G   Maximum       
+OL,11,Blate sunny or clearS5GTemperatureC17C 
+OL,12,Bspells developing. S5G                 
+OL,13,BCloud increases    S5G   Minumum       
+OL,14,Bagain overnight    S5GTemperatureC8C 
+OL,15,Bwith patchy, mainlyS5C                 
+OL,16,Blight rain         S5G
+OL,17,Bdeveloping over    S5G
+OL,18,Bnorthern and       S5G                 
+OL,19,Bwestern parts.     S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
