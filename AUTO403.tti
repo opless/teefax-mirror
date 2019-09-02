@@ -5,20 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/09C00:47:42
+OL,0,XXXXXXXXBNMPSERVER2      E02/09C01:49:10
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FShowers confined to northern and
-OL,9,Fwestern parts, possibly heavy in the
-OL,10,Ffar north. Cloud and persistent rain
-OL,11,Farriving into western Scotland and
-OL,12,FNorthern Ireland later. Elsewhere,
-OL,13,Fmostly dry with clear spells. Chilly,
-OL,14,Fwith perhaps some fog patches in
-OL,15,Fsoutheast England.
+OL,7,GToday
+OL,8,FSouthern and central parts of England
+OL,9,Fand Wales will start dry with plenty of
+OL,10,Fsunny spells, but become cloudier
+OL,11,Flater. Rain in Scotland, Northern
+OL,12,FIreland and northern England will
+OL,13,Fspread eastwards and it will become
+OL,14,Fincreasingly windy.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FThe southern half of the UK will stay
+OL,18,Fdry but cloudier and milder than last
+OL,19,Fnight. Further rain is likely in
+OL,20,FNorthern Ireland, western Scotland and
+OL,21,Fnorthwest England.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/09C00:47:42
+OL,0,XXXXXXXXBNMPSERVER2      E02/09C01:49:10
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Tuesday to Thursday
-OL,8,FChangeable with spells of rain and
-OL,9,Fstronger winds moving southeast,
-OL,10,Finterspersed with sunshine and showers.
-OL,11,FOften dry in the south. Staying on the
-OL,12,Fcool side, with some chilly nights.
+OL,7,GOutlook for Wednesday to Friday
+OL,8,FAfter early rain has cleared the
+OL,9,Fsoutheast, southern UK will be mainly
+OL,10,Fdry on Wednesday. Strong winds and
+OL,11,Fblustery showers in the north will
+OL,12,Fspread southeastwards later in the
+OL,13,Fweek.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
