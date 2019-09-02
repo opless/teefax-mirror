@@ -5,26 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/09C14:50:08
+OL,0,XXXXXXXXBNMPSERVER2      E02/09C15:47:49
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSouthern and central parts of England
-OL,9,Fand Wales will start dry with plenty of
-OL,10,Fsunny spells, but become cloudier
-OL,11,Flater. Rain in Scotland, Northern
-OL,12,FIreland and northern England will
-OL,13,Fspread eastwards and it will become
-OL,14,Fincreasingly windy.
+OL,7,GThis Evening and Tonight
+OL,8,FThe southern half of the UK will stay
+OL,9,Fdry but cloudier and milder than last
+OL,10,Fnight. Further rain is likely in
+OL,11,FNorthern Ireland, western Scotland and
+OL,12,Fnorthwest England. Breezy in the north
+OL,13,Fat first but the wind will ease later.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FThe southern half of the UK will stay
-OL,18,Fdry but cloudier and milder than last
-OL,19,Fnight. Further rain is likely in
-OL,20,FNorthern Ireland, western Scotland and
-OL,21,Fnorthwest England.
+OL,15,GTuesday
+OL,16,FCloudy and breezy with occasional rain
+OL,17,Fin the north and west, this locally
+OL,18,Fheavy by the afternoon. Rather cloudy
+OL,19,Felsewhere, but with some warm sunny
+OL,20,Fintervals, especially in the southeast.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +31,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/09C14:50:09
+OL,0,XXXXXXXXBNMPSERVER2      E02/09C15:47:49
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Wednesday to Friday
-OL,8,FAfter early rain has cleared the
-OL,9,Fsoutheast, southern UK will be mainly
-OL,10,Fdry on Wednesday. Strong winds and
-OL,11,Fblustery showers in the north will
-OL,12,Fspread southeastwards later in the
-OL,13,Fweek.
+OL,8,FEarly rain clears to dry but windy
+OL,9,Fweather in the south on Wednesday.
+OL,10,FStrong winds and rain in the north.
+OL,11,FLargely dry on Thursday. Cloudy, breezy
+OL,12,Fand occasionally wet Friday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
