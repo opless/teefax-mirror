@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E03/09C02:46:45
+OL,0,XXXXXXXXBNMPSERVER2      E03/09C03:47:37
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BIt will stay cloudyS5CSTATISTICS       
-OL,9,Band rather overcastS5C 
-OL,10,Bwith occasional    S5G   Maximum       
-OL,11,Brain and drizzle.  S5GTemperatureC19C 
-OL,12,BThe rain and       S5G                 
-OL,13,Bdrizzle most likelyS5G   Minumum       
-OL,14,Bin the west and    S5GTemperatureC11C 
-OL,15,Balong the north    S5C                 
-OL,16,Bcoast with some    S5G
-OL,17,Bdrier spells       S5G
-OL,18,Bthrough Antrim and S5G                 
-OL,19,BDown. Mild and     S5G
-OL,20,Bbreezy.            S5G
+OL,6,CTODAY
+OL,8,BA little light rainS5CSTATISTICS       
+OL,9,Bin the morning, butS5C 
+OL,10,Bdry for many.      S5G   Maximum       
+OL,11,BHeavier rain will  S5GTemperatureC20C 
+OL,12,Bpush in from the   S5G                 
+OL,13,Bwest during the    S5G   Minumum       
+OL,14,Bafternoon, clearingS5GTemperatureC6C 
+OL,15,Bwestern parts by   S5C                 
+OL,16,Bearly evening.     S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,21 +32,21 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E03/09C02:46:45
+OL,0,XXXXXXXXBNMPSERVER2      E03/09C03:47:37
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTUESDAY
-OL,8,BA little light rainS5CSTATISTICS       
-OL,9,Bin the morning, butS5C 
-OL,10,Bdry for many.      S5G   Maximum       
-OL,11,BHeavier rain will  S5GTemperatureC19C 
-OL,12,Bpush in from the   S5G                 
-OL,13,Bwest during the    S5G   Minumum       
-OL,14,Bafternoon, clearingS5GTemperatureC11C 
-OL,15,Binto the Irish Sea S5C                 
-OL,16,Bin the evening.    S5G
+OL,6,CTONIGHT
+OL,8,BRain in the east   S5CSTATISTICS       
+OL,9,Bsoon clears over   S5C 
+OL,10,Bthe the Irish Sea  S5G   Maximum       
+OL,11,Bthis evening with  S5GTemperatureC20C 
+OL,12,Bcloud breaking up. S5G                 
+OL,13,BThen largely clear S5G   Minumum       
+OL,14,Bskies overnight,   S5GTemperatureC6C 
+OL,15,Bbut cloud increasesS5C                 
+OL,16,Btowards dawn.      S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
