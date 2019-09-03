@@ -5,19 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/09C14:47:33
+OL,0,XXXXXXXXBNMPSERVER2      E03/09C15:48:26
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FCloudy and breezy with occasional rain
-OL,9,Fin the north and west, this locally
-OL,10,Fheavy by the afternoon, but clearing to
-OL,11,Fshowers in the far northwest later.
-OL,12,FRather cloudy elsewhere, but with some
-OL,13,Fwarm sunny intervals, especially in the
-OL,14,Fsoutheast.
+OL,7,GThis Evening and Tonight
+OL,8,FRain will move southeastwards across
+OL,9,Fthe country tonight, reaching the
+OL,10,Fsoutheast by dawn. Clearer spells will
+OL,11,Ffollow into the west and northwest with
+OL,12,Fscattered blustery showers.
+OL,4,                                    1/2 
+OL,14,GWednesday
+OL,15,FShowers or longer spells of rain in
+OL,16,Fnorth with strong winds. Windy
+OL,17,Felsewhere, early rain in the southeast
+OL,18,Fsoon clearing to leave sunny spells and
+OL,19,Fisolated showers.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +30,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/09C14:47:33
+OL,0,XXXXXXXXBNMPSERVER2      E03/09C15:48:26
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Thursday to Saturday
-OL,8,FThursday and Friday changeable with
-OL,9,Fspells of cloud and rain, and stronger
-OL,10,Fwinds, interspersed by periods of sunny
-OL,11,Fspells and some showers. Drier for most
-OL,12,Fon Saturday.  Some chilly nights.
+OL,8,FChangeable and breezy on Thursday and
+OL,9,FFriday with spells of cloud and rain,
+OL,10,Finterspersed by periods of sunny spells
+OL,11,Fand some showers. Drier for most on
+OL,12,FSaturday. Chilly nights.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
