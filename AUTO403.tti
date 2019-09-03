@@ -5,25 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/09C01:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E03/09C02:46:45
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FThe southern half of the UK will stay
-OL,9,Fdry but cloudier and milder than last
-OL,10,Fnight. Further rain is likely in
-OL,11,FNorthern Ireland, western Scotland and
-OL,12,Fnorthwest England. Breezy in the north
-OL,13,Fat first but the wind will ease later.
-OL,4,                                    1/2 
-OL,15,GTuesday
-OL,16,FCloudy and breezy with occasional rain
-OL,17,Fin the north and west, this locally
-OL,18,Fheavy by the afternoon. Rather cloudy
-OL,19,Felsewhere, but with some warm sunny
-OL,20,Fintervals, especially in the southeast.
+OL,7,GToday
+OL,8,FCloudy and breezy with occasional rain
+OL,9,Fin the north and west, this locally
+OL,10,Fheavy by the afternoon, but clearing to
+OL,11,Fshowers in the far northwest later.
+OL,12,FRather cloudy elsewhere, but with some
+OL,13,Fwarm sunny intervals, especially in the
+OL,14,Fsoutheast.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +25,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/09C01:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E03/09C02:46:45
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FEarly rain clears to dry but windy
-OL,9,Fweather in the south on Wednesday.
-OL,10,FStrong winds and rain in the north.
-OL,11,FLargely dry on Thursday. Cloudy, breezy
-OL,12,Fand occasionally wet Friday.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FThursday and Friday changeable with
+OL,9,Fspells of cloud and rain, and stronger
+OL,10,Fwinds, interspersed by periods of sunny
+OL,11,Fspells and some showers. Drier for most
+OL,12,Fon Saturday.  Some chilly nights.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
