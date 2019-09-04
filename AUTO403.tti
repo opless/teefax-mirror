@@ -5,19 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/09C12:46:53
+OL,0,XXXXXXXXBNMPSERVER2      E04/09C13:48:43
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FHeavy showers and gales in Scotland,
-OL,9,FNorthern Ireland and northwest England
-OL,10,Fthrough the day. Rain in southeast
-OL,11,FEngland to begin with, then clearing.
-OL,12,FElsewhere, often windy with sunny
-OL,13,Fspells and scattered showers, perhaps
-OL,14,Fheavy.
+OL,7,GThis Evening and Tonight
+OL,8,FWinds easing and skies clearing, with
+OL,9,Fjust some scattered coastal showers in
+OL,10,FNorth Wales, northwest England,
+OL,11,FNorthern Ireland and Scotland.
+OL,12,FTemperatures falling quickly, and it
+OL,13,Fwill be cold by morning.
+OL,4,                                    1/2 
+OL,15,GThursday
+OL,16,FA cold and clear start, except for a
+OL,17,Ffew coastal showers in the north and
+OL,18,Fwest. Sunny spells for most, but a risk
+OL,19,Fof showers for all but southeast
+OL,20,FEngland.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,7 +31,7 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/09C12:46:53
+OL,0,XXXXXXXXBNMPSERVER2      E04/09C13:48:43
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
