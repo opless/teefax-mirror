@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E04/09C02:48:23
+OL,0,XXXXXXXXBNMPSERVER2      E04/09C03:47:07
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BOutbreaks of rain  S5CSTATISTICS       
-OL,9,Bwill clear away to S5C 
-OL,10,Bthe east this      S5G   Maximum       
-OL,11,Bevening with cloud S5GTemperatureC17C 
-OL,12,Bbreaking up. Then  S5G                 
-OL,13,Blargely clear skiesS5G   Minumum       
-OL,14,Bovernight, but     S5GTemperatureC6C 
-OL,15,Bcloud increases    S5C                 
-OL,16,Btowards dawn with aS5G
-OL,17,Bfew showers        S5G
-OL,18,Bspreading in from  S5G                 
-OL,19,Bthe northwest.     S5G
-OL,20,B                   S5G
+OL,6,CTODAY
+OL,8,BOccasional rain or S5CSTATISTICS       
+OL,9,Bshowers with some  S5C 
+OL,10,Bdrier and brighter S5G   Maximum       
+OL,11,Bspells, the best ofS5GTemperatureC16C 
+OL,12,Bthese later in the S5G                 
+OL,13,Bday. The           S5G   Minumum       
+OL,14,Bnorthwesterly windsS5GTemperatureC8C 
+OL,15,Bwill become fresh  S5C                 
+OL,16,Bor strong with     S5G
+OL,17,Bwidespread gales   S5G
+OL,18,Baround the coast,  S5G                 
+OL,19,Bperhaps severe at  S5G
+OL,20,Bfirst along the    S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E04/09C02:48:23
+OL,0,XXXXXXXXBNMPSERVER2      E04/09C03:47:08
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CWEDNESDAY
-OL,8,BPatchy rain or     S5CSTATISTICS       
-OL,9,Bshowers for much ofS5C 
-OL,10,Bthe day with       S5G   Maximum       
-OL,11,Bnorthwesterly windsS5GTemperatureC17C 
-OL,12,Bquickly            S5G                 
-OL,13,Bstrengthening in   S5G   Minumum       
-OL,14,Bthe morning. A riskS5GTemperatureC6C 
-OL,15,Bof gales along     S5C                 
-OL,16,BNorth Coast and    S5G
-OL,17,Baround the North   S5G
-OL,18,BChannel coast.     S5G                 
+OL,6,CTONIGHT
+OL,8,BWindy this evening S5CSTATISTICS       
+OL,9,Bwith a scattering  S5C 
+OL,10,Bof showers. The    S5G   Maximum       
+OL,11,Bwinds will         S5GTemperatureC16C 
+OL,12,Bgradually ease withS5G                 
+OL,13,Bmost of the showersS5G   Minumum       
+OL,14,Bdying back towards S5GTemperatureC8C 
+OL,15,Bnorthern coasts    S5C                 
+OL,16,Bovernight.         S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
