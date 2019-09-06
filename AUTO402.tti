@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E06/09C14:34:00
+OL,0,XXXXXXXXBNMPSERVER2      E06/09C15:32:23
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BSunshine and       S5CSTATISTICS       
-OL,9,Bscattered showers  S5C 
-OL,10,Btoday, with        S5G   Maximum       
-OL,11,Boutbreaks mainly   S5GTemperatureC17C 
-OL,12,Bappearing in       S5G                 
-OL,13,Bnorthern coastal   S5G   Minumum       
-OL,14,Bdistricts. WesterlyS5GTemperatureC6C 
-OL,15,Bwinds fresh to     S5C                 
-OL,16,Bstrong at first,   S5G
-OL,17,Bveering northwest  S5G
-OL,18,Bduring the         S5G                 
-OL,19,Bafternoon and      S5G
-OL,20,Beasing a touch     S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BAny remaining      S5CSTATISTICS       
+OL,9,Bshowers becoming   S5C 
+OL,10,Bconfined to mainly S5G   Maximum       
+OL,11,Bnorth coastal      S5GTemperatureC16C 
+OL,12,Bfringes, leaving a S5G                 
+OL,13,Bdry night for most,S5G   Minumum       
+OL,14,Bcloud will begin toS5GTemperatureC7C 
+OL,15,Bbreak. Winds       S5C                 
+OL,16,Beasing, bringing a S5G
+OL,17,Bcold dawn for ruralS5G
+OL,18,Binland areas.      S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,24 +32,24 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E06/09C14:34:00
+OL,0,XXXXXXXXBNMPSERVER2      E06/09C15:32:23
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BRemaining isolated S5CSTATISTICS       
-OL,9,Bshowers becoming   S5C 
-OL,10,Bcomfined to        S5G   Maximum       
-OL,11,Bimmediate, mainly  S5GTemperatureC17C 
-OL,12,Bnorthern, coastal  S5G                 
-OL,13,Bfringes, leaving a S5G   Minumum       
-OL,14,Bdry and clear nightS5GTemperatureC6C 
-OL,15,Bfor most. Winds    S5C                 
-OL,16,Beasing light       S5G
-OL,17,Bbringing a cold    S5G
-OL,18,Bdawn for rural     S5G                 
-OL,19,Binland areas.      S5G
+OL,6,CSATURDAY
+OL,8,BDespite a cold     S5CSTATISTICS       
+OL,9,Bstart for some, theS5C 
+OL,10,Bvast majority will S5G   Maximum       
+OL,11,Benjoy a fine, dry, S5GTemperatureC16C 
+OL,12,Bday with light     S5G                 
+OL,13,Bwinds and sunny    S5G   Minumum       
+OL,14,Bspells.            S5GTemperatureC7C 
+OL,15,B                   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
