@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/09C14:32:32
+OL,0,XXXXXXXXBNMPSERVER2      E08/09C15:31:51
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FAfter a chilly start, it will be a dry
-OL,9,Fand fine day for most with sunny
-OL,10,Fspells. A few showers could affect
-OL,11,Fcoastal parts of East Anglia. Cloud and
-OL,12,Frain will slowly spread across western
-OL,13,FScotland and Northern Ireland.
-OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FRain across the northwest spreading
-OL,17,Feastwards, turning heavy and
-OL,18,Fpersistent, to affect Northern Ireland,
-OL,19,FScotland, Wales and western England.
-OL,20,FDrier further east. Chilly in the far
-OL,21,Feast but milder elsewhere.
+OL,7,GThis Evening and Tonight
+OL,8,FEvening rain across the northwest will
+OL,9,Fgradually spread southeastwards during
+OL,10,Fthe night, affecting all but the far
+OL,11,Fsoutheast. The rain will turn heavy and
+OL,12,Fpersistent across western parts of the
+OL,13,FUK, but clear from Northern Ireland
+OL,14,Flater.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +25,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/09C14:32:32
+OL,0,XXXXXXXXBNMPSERVER2      E08/09C15:31:51
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FStaying changeable. Drier on Tuesday
-OL,9,Fbefore rain spreads southeastwards,
-OL,10,Fwith strengthening winds. This will
-OL,11,Fclear southern areas on Wednesday with
-OL,12,Fsunshine and showers following. Breezy
-OL,13,Fwith some rain on Thursday.
+OL,8,FTuesday will be mainly dry until heavy
+OL,9,Frain and strengthening winds reach the
+OL,10,Fnorthwest later. Early rain will clear
+OL,11,Feastwards on Wednesday to leave
+OL,12,Fsunshine and blustery showers for
+OL,13,FThursday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
