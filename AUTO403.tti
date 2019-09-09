@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/09C14:33:06
+OL,0,XXXXXXXXBNMPSERVER2      E09/09C15:32:22
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FEarly rain clears Northern Ireland
-OL,9,Fleaving a dry, bright day. Elsewhere
-OL,10,Frain spreads east, with some heavy and
-OL,11,Fthundery downpours in parts of Wales,
-OL,12,Fas well as parts of southwest England. 
-OL,13,FThe rain will turn showery and slowly
-OL,14,Fease later.
+OL,7,GThis Evening and Tonight
+OL,8,FHeavy, thundery showers across central
+OL,9,Fsouthern England will clear this
+OL,10,Fevening, then many areas quite cloudy
+OL,11,Fwith a chance for a little light rain
+OL,12,For drizzle in places, mainly in the
+OL,13,Fwest. Becoming chilly under clear skies
+OL,14,Fin the northwest.
+OL,4,                                    1/2 
+OL,16,GTuesday
+OL,17,FMostly dry with sunny spells but with
+OL,18,Fthe chance for an isolated light
+OL,19,Fshower. Heavy rain and strengthening
+OL,20,Fwinds will then spread across the north
+OL,21,Fduring the afternoon and evening.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/09C14:33:06
+OL,0,XXXXXXXXBNMPSERVER2      E09/09C15:32:22
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Wednesday to Friday
-OL,8,FRain clears eastwards during Wednesday
-OL,9,Fleaving sunny spells and scattered
-OL,10,Fshowers.  Rain and breezy conditions
-OL,11,Fpush quickly east during Thursday. Dry
-OL,12,Ffor many Friday, but scattered showers
-OL,13,Fin the northwest.
+OL,8,FRain clears southeastwards during
+OL,9,FWednesday leaving sunny spells and
+OL,10,Fscattered showers.  Rain and breezy
+OL,11,Fconditions push quickly east during
+OL,12,FThursday. Dry for many Friday, but
+OL,13,Fscattered showers in the northwest.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
