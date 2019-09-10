@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/09C01:32:20
+OL,0,XXXXXXXXBNMPSERVER2      E10/09C02:32:23
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FHeavy, thundery showers across central
-OL,9,Fsouthern England will clear this
-OL,10,Fevening, then many areas quite cloudy
-OL,11,Fwith a chance for a little light rain
-OL,12,For drizzle in places, mainly in the
-OL,13,Fwest. Becoming chilly under clear skies
-OL,14,Fin the northwest.
+OL,7,GToday
+OL,8,FAfter early fog and low cloud have
+OL,9,Fcleared, most places will have a fine
+OL,10,Fday though the odd shower is possible.
+OL,11,FHeavy rain and strengthening winds will
+OL,12,Fmove into Northern Ireland and western
+OL,13,FScotland in the afternoon, spreading
+OL,14,Feastwards later.
 OL,4,                                    1/2 
-OL,16,GTuesday
-OL,17,FMostly dry with sunny spells but with
-OL,18,Fthe chance for an isolated light
-OL,19,Fshower. Heavy rain and strengthening
-OL,20,Fwinds will then spread across the north
-OL,21,Fduring the afternoon and evening.
+OL,16,GTonight
+OL,17,FRain in the northwest will move across
+OL,18,Fthe whole UK, followed by showers in
+OL,19,Fthe north. Heavy bursts of rain are
+OL,20,Flikely, especially in the Western
+OL,21,FHighlands and Cumbrian fells.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/09C01:32:20
+OL,0,XXXXXXXXBNMPSERVER2      E10/09C02:32:23
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FRain clears southeastwards during
-OL,9,FWednesday leaving sunny spells and
-OL,10,Fscattered showers.  Rain and breezy
-OL,11,Fconditions push quickly east during
-OL,12,FThursday. Dry for many Friday, but
-OL,13,Fscattered showers in the northwest.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FRain and strong winds in the north
+OL,9,FThursday with warmer weather in the
+OL,10,Fsoutheast. Friday and Saturday fine
+OL,11,Fapart from further strong winds and
+OL,12,Fblustery showers in the far north.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
