@@ -5,22 +5,22 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/09C14:04:43
+OL,0,XXXXXXXXBNMPSERVER2      E11/09C15:33:36
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BA bright day with  S5CSTATISTICS       
-OL,9,Bsunny spells and   S5C 
-OL,10,Bjust a few light   S5G   Maximum       
-OL,11,Bshowers. The       S5GTemperatureC17C 
-OL,12,Bshowers passing by S5G                 
-OL,13,Bquickly in the     S5G   Minumum       
-OL,14,Bfresh westerly windS5GTemperatureC9C 
-OL,15,Bwhich will ease    S5C                 
-OL,16,Bdown later in the  S5G
-OL,17,Bday.               S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BDry with clear     S5CSTATISTICS       
+OL,9,Bperiods at first,  S5C 
+OL,10,Bthen becoming      S5G   Maximum       
+OL,11,Bcloudy. Patchy     S5GTemperatureC17C 
+OL,12,Blight rain will    S5G                 
+OL,13,Bextend from the    S5G   Minumum       
+OL,14,Bwest later tonight S5GTemperatureC9C 
+OL,15,Bbut the east coast S5C                 
+OL,16,Bstaying dry till   S5G
+OL,17,Bmorning.           S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/09C14:04:43
+OL,0,XXXXXXXXBNMPSERVER2      E11/09C15:33:36
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BDry with clear     S5CSTATISTICS       
-OL,9,Bperiods at first,  S5C 
-OL,10,Bthen becoming      S5G   Maximum       
-OL,11,Bcloudy. Patchy     S5GTemperatureC17C 
-OL,12,Blight rain will    S5G                 
-OL,13,Bextend from the    S5G   Minumum       
-OL,14,Bwest later tonight S5GTemperatureC9C 
-OL,15,Bbut the east coast S5C                 
-OL,16,Bstaying dry till   S5G
-OL,17,Bmorning.           S5G
+OL,6,CTHURSDAY
+OL,8,BCloudy morning withS5CSTATISTICS       
+OL,9,Brain becoming more S5C 
+OL,10,Bpersistent for a   S5G   Maximum       
+OL,11,Btime before        S5GTemperatureC17C 
+OL,12,Bclearing away earlyS5G                 
+OL,13,Bin the afternoon.  S5G   Minumum       
+OL,14,BDrier, brighter    S5GTemperatureC9C 
+OL,15,Bweather will followS5C                 
+OL,16,Bwith some late     S5G
+OL,17,Bsunshine.          S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
