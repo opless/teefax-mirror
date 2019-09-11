@@ -5,25 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/09C01:31:53
+OL,0,XXXXXXXXBNMPSERVER2      E11/09C02:33:09
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FCloud, wind and rain in the northwest
-OL,9,Fwill move across the whole of the UK
-OL,10,Fthrough the night. Heavy bursts of rain
-OL,11,Fare likely, especially in the Western
-OL,12,FHighlands and Cumbrian fells. A mix of
-OL,13,Fclear spells and showers following.
+OL,7,GToday
+OL,8,FCloud and rain rain will gradually
+OL,9,Fclear southwards from England and
+OL,10,FWales, leaving warm sunny spells for
+OL,11,Fall but the far south in the afternoon.
+OL,12,FStrong winds and blustery showers will
+OL,13,Fcontinue in the north.
 OL,4,                                    1/2 
-OL,15,GWednesday
-OL,16,FCloud, rain and wind will gradually
-OL,17,Fclear England and Wales, leaving sunny
-OL,18,Fspells for many in the afternoon.
-OL,19,FStrong winds and blustery showers will
-OL,20,Fcontinue in the north.
+OL,15,GTonight
+OL,16,FEvening showers in the north will ease,
+OL,17,Fleaving a dry night with clear spells
+OL,18,Ffor most. Further rain will move into
+OL,19,Fnorthwest Scotland before dawn. The
+OL,20,Fnorth will stay windy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +31,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/09C01:31:53
+OL,0,XXXXXXXXBNMPSERVER2      E11/09C02:33:09
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
-OL,8,FRain and strong winds in the north
-OL,9,FThursday with warmer weather in the
-OL,10,Fsoutheast. Friday and Saturday fine
-OL,11,Fapart from further strong winds and
-OL,12,Fblustery showers in the far north.
+OL,7,GOutlook for Friday to Sunday
+OL,8,FDry and bright weather will dominate
+OL,9,Fover the coming days, with chilly
+OL,10,Fnights and increasingly warm days.
+OL,11,FHowever, further strong winds and
+OL,12,Foccasional rain are likely in the far
+OL,13,Fnorth.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
