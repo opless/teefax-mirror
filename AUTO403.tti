@@ -5,25 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/09C01:31:51
+OL,0,XXXXXXXXBNMPSERVER2      E12/09C02:32:25
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FEvening showers in the north will ease,
-OL,9,Fleaving a dry night with clear spells
-OL,10,Ffor most. A few mist patches may form
-OL,11,Fin the south. Further rain will move
-OL,12,Finto northwest Scotland before dawn.
-OL,13,FWinds gradually easing.
-OL,4,                                    1/2 
-OL,15,GThursday
-OL,16,FEarly cloud and rain in the north will
-OL,17,Fmove southeastwards into Wales,
-OL,18,Fnorthern and western England. Staying
-OL,19,Fdry, bright and warm in the southeast.
-OL,20,FBrisk winds.
+OL,7,GToday
+OL,8,FSome heavy rain in Northern Ireland,
+OL,9,FScotland and parts of northern England
+OL,10,Fthis morning, but brightening up later.
+OL,11,FElsewhere across England and Wales
+OL,12,Frather cloudy in the west with drizzle
+OL,13,Fon hills, but some bright spells in the
+OL,14,Feast.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,18 +25,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/09C01:31:51
+OL,0,XXXXXXXXBNMPSERVER2      E12/09C02:32:25
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FDry and bright weather will dominate
-OL,9,Fover the coming days, with chilly
-OL,10,Fnights and increasingly warm days.
-OL,11,FHowever, further strong winds and
-OL,12,Foccasional rain are likely in the far
-OL,13,Fnorth.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FA sunny and warm weekend for most, but
+OL,9,Fcold at night. However, wet and windy
+OL,10,Fin the north with strong winds. Monday
+OL,11,Fcloudy with some rain, brighter in the
+OL,12,Fnorth.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
