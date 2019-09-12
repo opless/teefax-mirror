@@ -5,10 +5,10 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E12/09C18:32:41
+OL,0,XXXXXXXXBNMPSERVER2      E12/09C19:32:34
 OL,1,T]G           This Evening              
 OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G09V%  B               
+OL,3,           ZV`?0~G10V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G08V!FClear          
@@ -34,21 +34,21 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E12/09C18:32:41
+OL,0,XXXXXXXXBNMPSERVER2      E12/09C19:32:34
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G14R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G14U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G17V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BSome Cloud    
+OL,8,ECloudy    ^ZR*y?sp  BSome Cloud    
 OL,9,           ^ZRj)"G 15R}  B             
-OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG17RtR+"VG15V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 18V} B          
+OL,10,       ^ZUp|t RxRg0 B             
+OL,11,       ZUnG17UtR+"RG15R B             
+OL,12,       ZU+R`4R+|0             
+OL,13,        ZU+%*o!R" V *u  B          
+OL,14,E            ^ZV`  V*G 18V} B          
 OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 18V}zt B       
 OL,17,B              ZVj^VG 17V B       
