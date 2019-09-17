@@ -3,7 +3,7 @@ DS,inserter
 SP,J:\peter\teefax\p681-lights.tti
 PN,68101
 SC,0001
-PS,8000
+PS,8010
 CT,3,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -34,7 +34,7 @@ OL,24,A Next     BLink CAnother link FBackW
 FL,672,100,100,600,8ff,8ff
 PN,68102
 SC,0002
-PS,8000
+PS,8010
 CT,6,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -65,7 +65,7 @@ OL,24,A Next     BLink CAnother link FBackW
 FL,672,100,100,600,8ff,8ff
 PN,68103
 SC,0003
-PS,8000
+PS,8010
 CT,3,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -96,7 +96,7 @@ OL,24,A Next     BLink CAnother link FBackW
 FL,672,100,100,600,8ff,8ff
 PN,68104
 SC,0004
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
