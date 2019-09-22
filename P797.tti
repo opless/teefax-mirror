@@ -1,28 +1,23 @@
 DE,System status for VBIT
-DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P797.tti
-CT,8,C
+CT,8,T
+PS,8000
 PN,79700
 SC,0000
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,2,M]A SYSTEM STATUS                       
+FL,790,710,785,700,8ff,100
+OL,26,@mDIROX
+OL,2,M]A VBIT2 SYSTEM STATUS                 
 OL,3, status                                 
 OL,4, Network    : %%%%%%%%%%%%%%n           
-OL,5, Temperature: %%%T'C                    
+OL,5, Temperature: %%%T C                    
 OL,6, Time/date  :%%%%%%%%%%%%timedate       
-OL,8, Version    : %%%V                      
-OL,10, If you just get a code that looks like 
-OL,11, % % % T                                
-OL,12, then your VBIT is not up to date       
-OL,13, or it simply isn't working yet.        
-OL,15, This page is for VBIT inserters on Pi  
-OL,17,CWhen using DHCP, finding the IP address
-OL,18,Cwithout a keyboard is very helpful.    
-OL,19,FIf your Pi temperature is over 60' then
-OL,20,Fyou might want to arrange some cooling.
-OL,21,CThe Pi gets time from NTP. If you have 
-OL,22,Cthe correct time you know the net is up
+OL,8, Version    : %%%%%V                    
+OL,10, The latest version of VBIT2 is V2.2.0  
+OL,11, VisitBgithub.com/peterkvt80/vbit2/wiki 
+OL,12, for more details.                      
+OL,17,C                                       
+OL,18,C                                       
+OL,19,F                                       
+OL,20,F                                       
+OL,21,C                                       
+OL,22,C                                       
 OL,24,A Test Cards B Specs C VBIT-Pi F Index  
-FL,790,710,785,700,8ff,100
