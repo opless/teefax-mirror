@@ -5,23 +5,23 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E28/09C01:39:09
+OL,0,XXXXXXXXBNMPSERVER2      E28/09C02:33:08
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BShowers dying out  S5CSTATISTICS       
-OL,9,Bfor a time before  S5C 
-OL,10,Brain spreads       S5G   Maximum       
-OL,11,Beastwards later in S5GTemperatureC17C 
-OL,12,Bthe evening. Some  S5G                 
-OL,13,Bof this rain could S5G   Minumum       
-OL,14,Bbe heavy at times, S5GTemperatureC11C 
-OL,15,Bparticularly acrossS5C                 
-OL,16,Bnorthern areas.    S5G
-OL,17,B                   S5G
-OL,18,B                   S5G                 
+OL,6,CTODAY
+OL,8,BA largely dry      S5CSTATISTICS       
+OL,9,Bmorning with sunny S5C 
+OL,10,Bspells, perhaps a  S5G   Maximum       
+OL,11,Bfew showers around S5GTemperatureC17C 
+OL,12,Bthe north coast.   S5G                 
+OL,13,BCloud builds in theS5G   Minumum       
+OL,14,Bafternoon to give aS5GTemperatureC9C 
+OL,15,Bfew isolated light S5C                 
+OL,16,Bshowers. Light     S5G
+OL,17,Bmainly westerly    S5G
+OL,18,Bwinds.             S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
@@ -32,22 +32,22 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E28/09C01:39:09
+OL,0,XXXXXXXXBNMPSERVER2      E28/09C02:33:08
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSATURDAY
-OL,8,BOvernight rain soonS5CSTATISTICS       
-OL,9,Bclearing in the    S5C 
-OL,10,Bmorning then a     S5G   Maximum       
-OL,11,Bbright day to      S5GTemperatureC17C 
-OL,12,Bfollow with        S5G                 
-OL,13,Bscattered showers. S5G   Minumum       
-OL,14,BFurther rain will  S5GTemperatureC11C 
-OL,15,Bspread up from the S5C                 
-OL,16,Bsouth in the       S5G
-OL,17,Bevening.           S5G
+OL,6,CTONIGHT
+OL,8,BA cloudy but mostlyS5CSTATISTICS       
+OL,9,Bdry evening.       S5C 
+OL,10,BPersistent rain is S5G   Maximum       
+OL,11,Blikely to spread   S5GTemperatureC17C 
+OL,12,Binto the southern  S5G                 
+OL,13,Bcounties towards   S5G   Minumum       
+OL,14,Bmidnight, then     S5GTemperatureC9C 
+OL,15,Baffecting all areasS5C                 
+OL,16,Blater in the night.S5G
+OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
