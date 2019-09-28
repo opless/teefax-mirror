@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/09C00:31:56
+OL,0,XXXXXXXXBNMPSERVER2      E28/09C01:39:09
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FShowers easing over east England but
-OL,9,Felsewhere further rain and showers,
-OL,10,Fparticularly across much of Scotland,
-OL,11,FNorthern Ireland and northern England.
-OL,12,FStaying windy for England and Wales and
-OL,13,FNorthern Ireland.
+OL,7,GToday
+OL,8,FWet in northeast Scotland. Sunny spells
+OL,9,Fand showers elsewhere, these frequent
+OL,10,Fand heavy across northern England
+OL,11,Fduring the morning. Further wet and
+OL,12,Fwindy weather arriving into
+OL,13,Fsouthwestern parts of the UK during the
+OL,14,Fafternoon.
 OL,4,                                    1/2 
-OL,15,GSaturday
-OL,16,FSunny spells and showers with more
-OL,17,Fpersistent rain across northern England
-OL,18,Fand southern Scotland at first, and
-OL,19,Fnortheast Scotland throughout. Windy in
-OL,20,Fthe south with rain from the southwest
-OL,21,Flater
+OL,16,GTonight
+OL,17,FRain for many areas overnight, this
+OL,18,Fheavy and accompanied by strong winds
+OL,19,Ffor much of England and Wales. Mainly
+OL,20,Fdry with clear spells for central and
+OL,21,Fwestern Scotland.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/09C00:31:56
+OL,0,XXXXXXXXBNMPSERVER2      E28/09C01:39:09
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FUnsettled and sometimes windy across
-OL,9,Fcentral and southern areas with showers
-OL,10,For longer spells of rain, locally
-OL,11,Fheavy. Somewhat drier and brighter in
-OL,12,Fthe north, but chilly.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FWindy with outbreaks of rain or heavy
+OL,9,Fshowers for southern and central parts
+OL,10,Fthrough Monday and Tuesday. Drier,
+OL,11,Fcooler conditions in the north
+OL,12,Fspreading south to all parts for
+OL,13,FWednesday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
