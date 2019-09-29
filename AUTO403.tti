@@ -5,25 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/09C11:32:29
+OL,0,XXXXXXXXBNMPSERVER2      E29/09C12:32:21
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FWindy with rain and showers across
-OL,9,FEngland and Wales slowly moving
-OL,10,Feastwards, not clearing the southeast
-OL,11,Funtil evening. Perhaps very windy over
-OL,12,Fparts of south Wales and southern
-OL,13,FEngland. Sunny spells and showers for
-OL,14,FScotland and Northern Ireland.
+OL,7,GThis Evening and Tonight
+OL,8,FRain clearing eastern areas leaving
+OL,9,Fmost parts dry with clear spells.
+OL,10,FTurning chilly as winds ease, with a
+OL,11,Ffew fog patches forming. Some showery
+OL,12,Frain affecting northern Scotland.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FAny rain in the far southeast soon
-OL,18,Fclearing with winds easing. Then dry
-OL,19,Ffor many with a few showers around
-OL,20,Fcoasts. Cold in parts of the north.
+OL,14,GMonday
+OL,15,FSome showers in the north, else most
+OL,16,Fplaces dry and bright at first. Rain in
+OL,17,Fthe southwest, heavy at times with
+OL,18,Fstrengthening winds, moving
+OL,19,Fnortheastwards across England and
+OL,20,FWales.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,18 +31,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/09C11:32:29
+OL,0,XXXXXXXXBNMPSERVER2      E29/09C12:32:21
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
 OL,8,FRain and heavy showers in the south
-OL,9,Fclearing, as fresher and mainly dry
+OL,9,Fclearing as cooler and mainly dry
 OL,10,Fconditions in the north extend
 OL,11,Fcountrywide, bringing chilly nights
 OL,12,Fwith isolated frost. Probably becoming
-OL,13,Funsettled through Thursday.
+OL,13,Funsettled later Thursday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
