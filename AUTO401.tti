@@ -5,11 +5,11 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E29/09C07:32:44
+OL,0,XXXXXXXXBNMPSERVER2      E29/09C08:32:44
 OL,1,T]G              Today                  
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G13V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G13R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G13V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
@@ -18,11 +18,11 @@ OL,9,           ^ZRj)"G 13R}  B
 OL,10,       ^ZVp|t RxUg0 EHeavy Rain   
 OL,11,       ZVnG15VtR+"UG12U  E            
 OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" R *u  B          
-OL,14,B            ^ZR`  R*G 16R} B          
-OL,15,B            ^ZRk|R            
+OL,13,        ZV+%*o!U" U *u  B          
+OL,14,B            ^ZR`  U*G 16U} B          
+OL,15,B            ^ZRk|U            
 OL,16,B            ^ZR'oG 17R}zt B       
-OL,17,B              ZRj^RG 18R B       
+OL,17,B              ZRj^UG 18R B       
 OL,18,B            ZRx|^G 17R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZV  tG 19R/!        
@@ -34,7 +34,7 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E29/09C07:32:44
+OL,0,XXXXXXXXBNMPSERVER2      E29/09C08:32:44
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G11V%  B               
