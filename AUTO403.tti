@@ -5,26 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/10C01:31:56
+OL,0,XXXXXXXXBNMPSERVER2      E01/10C02:31:55
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FHeavy rain clearing eastwards across
-OL,9,Fmost of England and Wales but
-OL,10,Fpersisting across northern England,
-OL,11,FNorthern Ireland and southern Scotland.
-OL,12,FHeavy showers into the southwest later.
-OL,13,FClear spells over northern Scotland
-OL,14,Fallowing a frost in places.
+OL,7,GToday
+OL,8,FA band of rain will sink slowly south
+OL,9,Facross northern England. To the south
+OL,10,Fshowers, some heavy and thundery will
+OL,11,Fdevelop quite widely. For Scotland and
+OL,12,FNorthern Ireland many places dry with
+OL,13,Fsunny spells.
 OL,4,                                    1/2 
-OL,16,GTuesday
-OL,17,FChilly in the north with rain across
-OL,18,Fnorthern England edging slowly
-OL,19,Fsouthwards and easing. Sunny spells and
-OL,20,Fscattered showers over Scotland. Heavy,
-OL,21,Fthundery showers in the south.
+OL,15,GTonight
+OL,16,FShowers easing in the south and for
+OL,17,Fmost dry overnight with clear skies.
+OL,18,FTurning chilly with a frost in some
+OL,19,Frural areas. Breezier in the east with
+OL,20,Fthe odd shower.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +31,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/10C01:31:56
+OL,0,XXXXXXXXBNMPSERVER2      E01/10C02:31:55
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FMostly dry and bright on Wednesday
-OL,9,Fapart from scattered showers in the
-OL,10,Fnortheast. Turning unsettled from the
-OL,11,Fwest on Thursday with bands of rain
-OL,12,Fmoving east accompanied by windy
-OL,13,Fconditions.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FTurning wet and windy in the west on
+OL,9,FThursday. The rain spreading east
+OL,10,Facross most parts later and into
+OL,11,FFriday. Drier for a time Saturday, then
+OL,12,Fmore rain arriving later.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
