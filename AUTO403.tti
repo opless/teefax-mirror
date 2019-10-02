@@ -5,23 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/10C14:32:50
+OL,0,XXXXXXXXBNMPSERVER2      E02/10C15:32:31
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FFor many a fine and dry day with sunny
-OL,9,Fperiods. Despite lower temperatures it
-OL,10,Fwill still feel quite pleasant in the
-OL,11,Fsunshine. The odd shower may affect
-OL,12,Fsome northern and eastern coastal areas
-OL,13,Fwhere it will remain breezy.
+OL,7,GThis Evening and Tonight
+OL,8,FA fine evening leading into a dry, cold
+OL,9,Fnight for most with clear periods and a
+OL,10,Fwidespread grass frost in rural areas.
+OL,11,FA few showers continuing over northern
+OL,12,FScotland and, perhaps some North Sea
+OL,13,Fcoastal areas of England.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FA clear and chilly night for many with
-OL,17,Fa widespread grass frost inland, and a
-OL,18,Flocalised air frost in the north.
+OL,15,GThursday
+OL,16,FA dry and bright start, but sunshine
+OL,17,Fwill turn increasingly hazy as cloud
+OL,18,Fthickens from the west. Outbreaks of
+OL,19,Frain and strengthening winds following
+OL,20,Finto western and some central areas.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -29,18 +31,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/10C14:32:50
+OL,0,XXXXXXXXBNMPSERVER2      E02/10C15:32:31
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Friday to Sunday
-OL,8,FRemaining unsettled with rain affecting
-OL,9,Fmany areas on Friday and strong winds
-OL,10,Fin the southwest. Further rain arriving
-OL,11,Fin the west on Saturday, clearing
-OL,12,Fsoutheast during Sunday. Temperatures
-OL,13,Fnear average.
+OL,8,FWet and very windy in places to start
+OL,9,FFriday, but gradually turning brighter
+OL,10,Fand drier. Staying changeable through
+OL,11,Fthe weekend though, with a further wet
+OL,12,Fand windy spell for most.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
