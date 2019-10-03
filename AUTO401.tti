@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E03/10C19:32:23
+OL,0,XXXXXXXXBNMPSERVER2      E03/10C20:33:32
 OL,1,T]G           This Evening              
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G10V%  B               
@@ -16,7 +16,7 @@ OL,7,           ^ZV ~ow1  F
 OL,8,EHeavy Rain^ZR*y?sp  BLight Rain    
 OL,9,           ^ZRj)"G 08R}  B             
 OL,10,       ^ZUp|t RxUg0 B             
-OL,11,       ZUnG12UtR+"UG08U B             
+OL,11,       ZUnG11UtR+"UG08U B             
 OL,12,       ZU+U`4U+|0             
 OL,13,        ZU+%*o!U" R *u  B          
 OL,14,E            ^ZR`  R*G 10R} B          
@@ -34,7 +34,7 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E03/10C19:32:23
+OL,0,XXXXXXXXBNMPSERVER2      E03/10C20:33:32
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZU 4`~|}            G 2/2 
 OL,3,           ZU`?0~G12U%  ESome Cloud     
@@ -44,10 +44,10 @@ OL,6,            ZV!'~G12V!FCloudy
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 12V} B              
-OL,10,       ^ZRp|t VxRg0 B             
-OL,11,       ZRnG15RtV+"RG12R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" V *u  B          
+OL,10,       ^ZVp|t VxRg0 B             
+OL,11,       ZVnG15VtV+"RG12R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZR`  V*G 15V} B          
 OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 14V}zt B       
