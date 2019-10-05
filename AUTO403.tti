@@ -5,24 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/10C12:32:55
+OL,0,XXXXXXXXBNMPSERVER2      E05/10C13:32:40
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FFog patches clearing during the
-OL,9,Fmorning. A few sunny intervals, but
-OL,10,Fgenerally cloudy with some light
-OL,11,Fshowers, then turning wet and windy in
-OL,12,Fthe west during the afternoon.
+OL,7,GThis Evening and Tonight
+OL,8,FA band of rain will move eastwards
+OL,9,Facross most parts. Some heavy bursts
+OL,10,Fare likely, especially in the north.
+OL,11,FClearer skies across western areas
+OL,12,Flater with a few showers.
 OL,4,                                    1/2 
-OL,14,GTonight
-OL,15,FA band of rain, heavy in places, will
-OL,16,Fmove east, but becoming slow moving
-OL,17,Facross northern, central and eastern
-OL,18,Fareas. Clearer conditions with a few
-OL,19,Fshowers following into the west.
+OL,14,GSunday
+OL,15,FRain will persist across parts of
+OL,16,FScotland, northern and eastern England,
+OL,17,Fwith further heavy bursts. Brighter
+OL,18,Fskies elsewhere with a few showers.
+OL,19,FWindy in places.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,17 +30,17 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/10C12:32:55
+OL,0,XXXXXXXXBNMPSERVER2      E05/10C13:32:40
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Monday to Wednesday
-OL,8,FOutbreaks of rain clearing to showers
-OL,9,Fthrough Monday, these heaviest and most
-OL,10,Ffrequent in the west. Windy with a risk
-OL,11,Fof gales in the northwest. Feeling
-OL,12,Frather cool.
+OL,8,FRain, heavy in places, will move east
+OL,9,Fduring Monday. Bright spells and
+OL,10,Fblustery showers following, showers
+OL,11,Fmost frequent in the west. Windy with
+OL,12,Fcoastal gales in the north and west.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
