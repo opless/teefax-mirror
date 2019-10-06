@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E06/10C02:31:50
+OL,0,XXXXXXXXBNMPSERVER2      E06/10C03:33:27
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BRain will clear    S5CSTATISTICS       
-OL,9,Beastwards through  S5C 
-OL,10,Bthe evening  to    S5G   Maximum       
-OL,11,Bleave a mainly dry S5GTemperatureC16C 
-OL,12,Bnight. Clear       S5G                 
-OL,13,Bperiods and light  S5G   Minumum       
-OL,14,Bwinds will allow   S5GTemperatureC8C 
-OL,15,Btemperatures to    S5C                 
-OL,16,Bfall enough for a  S5G
-OL,17,Bfew fog patches.   S5G
-OL,18,BOne or two showers S5G                 
-OL,19,Bwill reach western S5G
-OL,20,Bcounties.          S5G
+OL,6,CTODAY
+OL,8,BA mostly dry and   S5CSTATISTICS       
+OL,9,Bbright day with    S5C 
+OL,10,Bsome sunny spells. S5G   Maximum       
+OL,11,BThere will be just S5GTemperatureC16C 
+OL,12,Bthe odd shower thisS5G                 
+OL,13,Bmorning in the     S5G   Minumum       
+OL,14,Bnorth and west.    S5GTemperatureC9C 
+OL,15,BFeeling quite      S5C                 
+OL,16,Bpleasant in the    S5G
+OL,17,Bafternoon sunshine.S5G
+OL,18,BLight northwesterlyS5G                 
+OL,19,Bbreeze.            S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E06/10C02:31:50
+OL,0,XXXXXXXXBNMPSERVER2      E06/10C03:33:27
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSUNDAY
-OL,8,BA mostly dry and   S5CSTATISTICS       
-OL,9,Bbright day with    S5C 
-OL,10,Bsome sunny spells, S5G   Maximum       
-OL,11,Band just the odd   S5GTemperatureC16C 
-OL,12,Bshower in the      S5G                 
-OL,13,Bmorning in the     S5G   Minumum       
-OL,14,Bnorth and west.    S5GTemperatureC8C 
-OL,15,BFresh northwesterlyS5C                 
-OL,16,Bbreeze along the   S5G
-OL,17,Beast coast.        S5G
-OL,18,B                   S5G                 
+OL,6,CTONIGHT
+OL,8,BDry at first but   S5CSTATISTICS       
+OL,9,Bsoon becoming      S5C 
+OL,10,Bcloudy. Rain will  S5G   Maximum       
+OL,11,Bextend from the    S5GTemperatureC16C 
+OL,12,Bwest to reach all  S5G                 
+OL,13,Bparts early        S5G   Minumum       
+OL,14,Btonight. The rain  S5GTemperatureC9C 
+OL,15,Bwill become        S5C                 
+OL,16,Bpersistent and     S5G
+OL,17,Bheavier later in   S5G
+OL,18,Bthe night.         S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
