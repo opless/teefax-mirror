@@ -5,27 +5,27 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E06/10C21:32:19
+OL,0,XXXXXXXXBNMPSERVER2      E06/10C22:35:42
 OL,1,T]G           This Evening              
 OL,2,           ^ZR 4`~|}            G 1/2 
 OL,3,           ZR`?0~G11R%  B               
 OL,4,           RZj**gppp B               
-OL,5,           ^ZV({5                
-OL,6,            ZV!'~G11V!FCloudy         
-OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 10V} B              
+OL,5,           ^ZU({5                
+OL,6,            ZU!'~G11U!ESome Cloud     
+OL,7,           ^ZU ~ow1  E              
+OL,8,B          ^ZV*y?sp  FCloudy        
+OL,9,           ^ZVj)"G 10V}  F             
 OL,10,       ^ZRp|t VxVg0 B             
-OL,11,       ZRnG11RtV+"VG10V B             
+OL,11,       ZRnG10RtV+"VG10V B             
 OL,12,       ZR+V`4V+|0             
 OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 11V} B          
+OL,14,B            ^ZV`  V*G 10V} B          
 OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 11V}zt B       
 OL,17,B              ZVj^VG 10V B       
-OL,18,B            ZVx|^G 10V'         
+OL,18,B            ZVx|^G 09V'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,BLight Rain  ^ZR  tG 12V/!        
+OL,20,BLight Rain  ^ZR  tG 11V/!        
 OL,21,B            ZR zG11R^/s/V/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
@@ -34,27 +34,27 @@ FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E06/10C21:32:19
+OL,0,XXXXXXXXBNMPSERVER2      E06/10C22:35:42
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G14V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G14R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G12V!FHeavy Rain     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BLight Rain    
-OL,9,           ^ZRj)"G 14R}  B             
-OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG16RtR+"VG12V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 12V} B          
+OL,8,ECloudy    ^ZU*y?sp  B              
+OL,9,           ^ZUj)"G 14U} B              
+OL,10,       ^ZUp|t UxVg0 B             
+OL,11,       ZUnG16UtU+"VG11V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" V *u  B          
+OL,14,E            ^ZV`  V*G 12V} B          
 OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 14V}zt B       
-OL,17,B              ZVj^RG 13V B       
-OL,18,B            ZVx|^G 16V'         
+OL,16,B            ^ZV'oG 14V}zt   BLight
+OL,17,B              ZVj^RG 13V BRain   
+OL,18,B            ZVx|^G 15V'         
 OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 15R/!        
+OL,20,B            ^ZV  tG 14R/!        
 OL,21,B            ZV zG16V^/s/R/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
