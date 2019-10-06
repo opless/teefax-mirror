@@ -5,25 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/10C13:32:12
+OL,0,XXXXXXXXBNMPSERVER2      E06/10C14:32:13
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FHeavy rain over Scotland and northern
-OL,9,FEngland will ease this morning, but
-OL,10,Fcontinue to affect eastern England
-OL,11,Fwhere some torrential downpours are
-OL,12,Fpossible. Sunny spells and some showers
-OL,13,Ffurther west, with risk of thunder in
-OL,14,Fcentral and southern England.
+OL,7,GThis Evening and Tonight
+OL,8,FHeavy rain clearing eastern England,
+OL,9,Fthen many parts dry for a time. Further
+OL,10,Fwet and windy weather arriving across
+OL,11,Fwestern parts later with severe gales
+OL,12,Fin the far northwest.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FMist and fog patches forming in parts
-OL,18,Fof the east. Cloud, rain and strong
-OL,19,Fwinds affecting western and later
-OL,20,Fcentral areas. Gales in the northwest.
+OL,14,GMonday
+OL,15,FWet and windy weather in the west
+OL,16,Fmoving eastwards to affect most parts.
+OL,17,FBrighter skies into northwestern areas
+OL,18,Fby the afternoon but with blustery
+OL,19,Fshowers developing.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,18 +30,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/10C13:32:12
+OL,0,XXXXXXXXBNMPSERVER2      E06/10C14:32:13
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FBreezy with sunshine and showers, most
-OL,9,Ffrequent in the west. Probably becoming
-OL,10,Fsomewhat cloudier from the west on
-OL,11,FThursday with further outbreaks of
-OL,12,Frain. Temperatures around the seasonal
-OL,13,Faverage.
+OL,8,FSunshine and blustery showers on
+OL,9,FTuesday and Wednesday, most frequent in
+OL,10,Fthe west. Thicker cloud and rain
+OL,11,Fdeveloping on Thursday. Breezy with
+OL,12,Fcoastal gales in the northwest.
+OL,13,FTemperatures near average.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
