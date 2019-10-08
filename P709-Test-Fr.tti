@@ -1,8 +1,6 @@
 DE,French packet 26 test
-DS,inserter
-SP,I:\peter\TeletextFest2016\P309-Test-Fr.tti
 CT,8,T
-PN,30901
+PN,70901
 SC,0000
 PS,8080
 RE,0
@@ -31,4 +29,4 @@ OL,21,D]F#hashtag #French #packet26
 OL,22,D]F                                     
 OL,23,D]F                                     
 OL,24,ADVDs    BEngineering    CBBS  FAbout us
-FL,310,300,502,199,8ff,100
+FL,100,700,502,199,8ff,100
