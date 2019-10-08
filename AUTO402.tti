@@ -5,24 +5,24 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E08/10C02:30:49
+OL,0,XXXXXXXXBNMPSERVER2      E08/10C03:32:44
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BClear periods with S5CSTATISTICS       
-OL,9,Bscattered showers. S5C 
-OL,10,BThe showers will beS5G   Maximum       
-OL,11,Bmostly confined to S5GTemperatureC15C 
-OL,12,Bwestern areas for  S5G                 
-OL,13,Bmuch of the night, S5G   Minumum       
-OL,14,Bbut more frequent  S5GTemperatureC7C 
-OL,15,Balong the north    S5C                 
-OL,16,Bcoast in the       S5G
-OL,17,Bevening. Fresh     S5G
-OL,18,Bsouthwesterly      S5G                 
-OL,19,Bwinds.             S5G
+OL,6,CTODAY
+OL,8,BSunny spells and   S5CSTATISTICS       
+OL,9,Bblustery showers,  S5C 
+OL,10,Bthese mainly in theS5G   Maximum       
+OL,11,Bnorth at first. TheS5GTemperatureC15C 
+OL,12,Bshowers will becomeS5G                 
+OL,13,Bmore frequent and  S5G   Minumum       
+OL,14,Bwidespread during  S5GTemperatureC7C 
+OL,15,Bthe afternoon.     S5C                 
+OL,16,BFresh southwesterlyS5G
+OL,17,Bwinds becoming     S5G
+OL,18,Bstrong towards the S5G                 
+OL,19,Bnorth coast.       S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
@@ -32,23 +32,23 @@ FL,403,437,430,100,F,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E08/10C02:30:50
+OL,0,XXXXXXXXBNMPSERVER2      E08/10C03:32:44
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTUESDAY
-OL,8,BSunny spells and   S5CSTATISTICS       
-OL,9,Bblustery showers.  S5C 
-OL,10,BThe showers will   S5G   Maximum       
-OL,11,Bbecome more        S5GTemperatureC15C 
-OL,12,Bfrequent and       S5G                 
-OL,13,Bheavier during the S5G   Minumum       
-OL,14,Bafternoon. Fresh   S5GTemperatureC7C 
-OL,15,Bsouthwesterly windsS5C                 
-OL,16,Bbecoming strong    S5G
-OL,17,Btowards the north  S5G
-OL,18,Bcoast.             S5G                 
+OL,6,CTONIGHT
+OL,8,BClear intervals andS5CSTATISTICS       
+OL,9,Boccasional showers,S5C 
+OL,10,Bthese remaining    S5G   Maximum       
+OL,11,Bfrequent in the    S5GTemperatureC15C 
+OL,12,Bnorth and west but S5G                 
+OL,13,Bbecoming more      S5G   Minumum       
+OL,14,Bisolated in Armagh S5GTemperatureC7C 
+OL,15,Band Down overnight.S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 

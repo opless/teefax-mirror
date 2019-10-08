@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E08/10C02:30:49
+OL,0,XXXXXXXXBNMPSERVER2      E08/10C03:32:44
 OL,1,T]G         Tuesday Evening             
 OL,2,           ^ZS 4`~|}            G 1/2 
 OL,3,           ZS`?0~G10S%  CHeavy Rain     
@@ -13,50 +13,50 @@ OL,4,           SZj**gppp  C
 OL,5,           ^ZU({5                
 OL,6,            ZU!'~G09U!ECloudy         
 OL,7,           ^ZU ~ow1  E              
-OL,8,B          ^ZV*y?sp  FSome Cloud    
-OL,9,           ^ZVj)"G 09V}  F             
-OL,10,       ^ZRp|t VxVg0 B             
-OL,11,       ZRnG09RtV+"VG09V B             
+OL,8,B          ^ZR*y?sp  B              
+OL,9,           ^ZRj)"G 09R} B              
+OL,10,       ^ZRp|t RxVg0 B             
+OL,11,       ZRnG09RtR+"VG09V B             
 OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 09V} B          
+OL,13,        ZR+%*o!V" V *u  FSome Cloud
+OL,14,B            ^ZR`  V*G 09V}  F         
 OL,15,B            ^ZRk|T            
 OL,16,B            ^ZR'oG 09V}zt DClear  
-OL,17,B              ZRj^TG 09V  D      
+OL,17,BLight Rain    ZRj^TG 09V  D      
 OL,18,B            ZRx|^G 11V'         
 OL,19,             ^ZR! +/'iVqp0        
-OL,20,BLight Rain  ^ZR  tG 11V/!        
-OL,21,B            ZR zG11R^/s/V/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,20,B            ^ZV  tG 11V/!        
+OL,21,B            ZV zG11V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,0,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E08/10C02:30:49
+OL,0,XXXXXXXXBNMPSERVER2      E08/10C03:32:44
 OL,1,T]G            Wednesday                
 OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G12U%  B               
-OL,4,           UZj**gppp B               
+OL,3,           ZU`?0~G12U%  EHeavy Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G13V!FCloudy         
+OL,6,            ZV!'~G12V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZS*y?sp  CLight Rain    
-OL,9,           ^ZSj)"G 12S}  C             
-OL,10,       ^ZRp|t SxRg0 BSome Cloud   
-OL,11,       ZRnG13RtS+"RG12R  B            
+OL,8,B          ^ZR*y?sp  BSome Cloud    
+OL,9,           ^ZRj)"G 12R}  B             
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG13RtR+"RG13R B             
 OL,12,       ZR+R`4R+|0             
 OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZU`  R*G 13R} B          
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 13R}zt B       
-OL,17,B              ZUj^RG 14R B       
-OL,18,B            ZUx|^G 14R'         
-OL,19,             ^ZU! +/'iVqp0        
-OL,20,EHeavy Rain  ^ZU  tG 15V/!        
-OL,21,E            ZU zG14U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,14,B            ^ZS`  R*G 13R} B          
+OL,15,B            ^ZSk|V            
+OL,16,B            ^ZS'oG 14R}zt B       
+OL,17,CThunder       ZSj^VG 14R B       
+OL,18,C            ZSx|^G 14R'         
+OL,19,             ^ZS! +/'iVqp0        
+OL,20,DLight Rain  ^ZT  tG 15V/!        
+OL,21,D            ZT zG14T^/s/V/? B         
+OL,22,            ZT8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,0,199

@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/10C02:30:50
+OL,0,XXXXXXXXBNMPSERVER2      E08/10C03:32:44
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FEvening rain over eastern, central and
-OL,9,Fsouthern England will ease, finally
-OL,10,Fclearing southeast England during the
-OL,11,Fearly hours. Otherwise, windy with
-OL,12,Fclear spells but also some heavy
-OL,13,Fshowers, mainly northwestern UK.
+OL,7,GToday
+OL,8,FWindy with a mixture of sunny spells
+OL,9,Fand blustery showers, heavy at times.
+OL,10,FThe heaviest and most frequent showers
+OL,11,Fwill be over western UK, especially
+OL,12,Fwestern Scotland, whilst some eastern
+OL,13,Fparts of England and Scotland may stay
+OL,14,Fmostly dry.
 OL,4,                                    1/2 
-OL,15,GTuesday
-OL,16,FWindy with sunny spells and blustery
-OL,17,Fshowers, heaviest and most frequent
-OL,18,Fshowers over Northern Ireland and
-OL,19,Fnorthern and western Scotland. Parts of
-OL,20,Feastern Scotland and northeast England
-OL,21,Fmay stay dry.
+OL,16,GTonight
+OL,17,FClear spells and blustery showers,
+OL,18,Fwestern Scotland and the far southwest
+OL,19,Fof England and Wales likely seeing the
+OL,20,Fheaviest showers. Becoming drier in
+OL,21,Fsome eastern parts of the UK. Windy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,18 @@ FL,404,300,430,100,100,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/10C02:30:50
+OL,0,XXXXXXXXBNMPSERVER2      E08/10C03:32:44
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FRemaining unsettled with further
-OL,9,Fshowers or longer spells of rain for
-OL,10,Fmost places. Windy generally,
-OL,11,Fparticularly Friday. Temperatures
-OL,12,Faround average by day, though with mild
-OL,13,Fnights.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FStaying unsettled with showers or
+OL,9,Flonger spells of rain for all areas.
+OL,10,FOnly limited amounts of drier and
+OL,11,Fbrighter weather. Windy at times,
+OL,12,Fparticularly on Friday. Temperatures
+OL,13,Fclose to average.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
