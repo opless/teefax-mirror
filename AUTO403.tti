@@ -5,22 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/10C12:33:37
+OL,0,XXXXXXXXBNMPSERVER2      E09/10C13:35:00
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FA mixture of sunny spells and showers.
-OL,9,FShowers heaviest and most frequent in
-OL,10,Fthe west with a risk of thunder, whilst
-OL,11,Fsome eastern areas remain dry. Windy.
+OL,7,GThis Evening and Tonight
+OL,8,FShowers over central and eastern areas
+OL,9,Fdying out with clear spells developing.
+OL,10,FFurther showers in the west and north,
+OL,11,Fprolonged and heavy at times over
+OL,12,Fwestern Scotland. Windy in the west.
 OL,4,                                    1/2 
-OL,13,GTonight
-OL,14,FFurther showers are likely near western
-OL,15,Fcoasts but many inland and eastern
-OL,16,Fareas becoming dry with clear spells.
-OL,17,FRemaining windy.
+OL,14,GThursday
+OL,15,FA good deal of dry and bright weather
+OL,16,Fin the east, but cloudier further west
+OL,17,Fand later in the north with showers and
+OL,18,Falso some longer outbreaks of rain.
+OL,19,FWindy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -28,16 +30,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/10C12:33:37
+OL,0,XXXXXXXXBNMPSERVER2      E09/10C13:35:00
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Friday to Sunday
-OL,8,FRemaining unsettled with showers or
-OL,9,Flonger spells of rain, and often windy
-OL,10,Fwith a risk of gales at times
-OL,11,Fparticularly on Friday and Sunday.
+OL,8,FRemaining mostly unsettled with showers
+OL,9,Fin the north, and longer spells of rain
+OL,10,Facross many central and southern areas.
+OL,11,FStrong winds for most locations on
+OL,12,FFriday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
