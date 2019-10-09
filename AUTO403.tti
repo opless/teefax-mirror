@@ -5,25 +5,22 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/10C01:32:23
+OL,0,XXXXXXXXBNMPSERVER2      E09/10C02:03:01
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FClear spells and blustery showers
-OL,9,Fthrough the evening and overnight.
-OL,10,FWestern Scotland and the far southwest
-OL,11,Fof England and Wales likely seeing the
-OL,12,Fheaviest showers. Becoming drier across
-OL,13,Fsome eastern parts of the UK. Windy.
+OL,7,GToday
+OL,8,FA mixture of sunny spells and showers.
+OL,9,FShowers heaviest and most frequent in
+OL,10,Fthe west with a risk of thunder, whilst
+OL,11,Fsome eastern areas remain dry. Windy.
 OL,4,                                    1/2 
-OL,15,GWednesday
-OL,16,FWindy with a mixture of sunny spells
-OL,17,Fand showers. Western areas will see the
-OL,18,Fheaviest and most frequent showers,
-OL,19,Fwhilst parts of eastern England and
-OL,20,Feastern Scotland may stay dry.
+OL,13,GTonight
+OL,14,FFurther showers are likely near western
+OL,15,Fcoasts but many inland and eastern
+OL,16,Fareas becoming dry with clear spells.
+OL,17,FRemaining windy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,12 +28,12 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/10C01:32:23
+OL,0,XXXXXXXXBNMPSERVER2      E09/10C02:03:01
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
+OL,7,GOutlook for Friday to Sunday
 OL,8,FRemaining unsettled with showers or
 OL,9,Flonger spells of rain, and often windy
 OL,10,Fwith a risk of gales at times

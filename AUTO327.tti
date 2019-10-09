@@ -5,12 +5,12 @@ CT,10,T
 PN,32701
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E08/10C02:30:24
+OL,0,XXXXXXXXBNMPSERVER2      E09/10C02:02:30
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE TWO 
-OL,6, GOct 08 02:06    P  W  D  L   F   A Pts
+OL,6, GOct 09 01:43    P  W  D  L   F   A Pts
 OL,8, G1 Forest Green 12  7  3  2  14   6  24
 OL,9, F2 Exeter       12  6  5  1  17  11  23
 OL,10, G3 Newport      12  6  5  1  12   6  23
@@ -27,7 +27,7 @@ OL,20,G13 Crawley      12  4  4  4  19  19  16
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
-FL,328,302,301,300,f,320
+FL,328,302,301,300,8FF,320
 DS,inserter
 SP,/home/pi/ceefax/
 DE,Football League Table
@@ -35,12 +35,12 @@ CT,10,T
 PN,32702
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E08/10C02:30:24
+OL,0,XXXXXXXXBNMPSERVER2      E09/10C02:02:30
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE TWO 
-OL,6, GOct 08 02:06    P  W  D  L   F   A Pts
+OL,6, GOct 09 01:43    P  W  D  L   F   A Pts
 OL,8,F14 Northampton  12  4  3  5  14  13  15
 OL,9,G15 Walsall      12  4  3  5   8  14  15
 OL,10,F16 Macclesfield 12  3  5  4  13  14  14
@@ -55,4 +55,4 @@ OL,18,F24 Stevenage    12  0  5  7   8  18   5
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
-FL,328,302,301,300,f,320
+FL,328,302,301,300,8FF,320
