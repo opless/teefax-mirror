@@ -1,30 +1,28 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 304 Football
+DE,Sport Page 304 England
 CT,10,T
 PN,30400
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E10/10C08:32:19
+OL,0,XXXXXXXXBNMPSERVER2      E10/10C10:31:45
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BGermany 2-2 Argentina: Visitors fight
-OL,5,Bback from two-goals down to draw
-OL,6, Argentina came back from two goals down
-OL,7, to draw 2-2 with Germany in a friendly
-OL,8, in Dortmund.
-OL,10,FIn a repeat of the 2014 World Cup
-OL,11,Ffinal, the hosts raced into an early
-OL,12,Flead when Serge Gnabry poked home in
-OL,13,Fthe 15th minute before Kai Havertz
-OL,14,Fside-footed in seven minutes later.
-OL,16,FBut Argentina fought back after the
-OL,17,Fbreak as substitute Lucas Alario's
-OL,18,Fheader halved the deficit.
-OL,20,FDebutant Lucas Ocampos secured the draw
-OL,21,Fwith a deflected strike late on.
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BEngland: Gareth Southgate 'must solve
+OL,5,Bdefensive flaws' to compete at Euro
+OL,6,B2020
+OL,7, England could secure qualification for
+OL,8, Euro 2020 in their next games away in
+OL,9, the Czech Republic on Friday and
+OL,10, Bulgaria on Monday.
+OL,12,FGareth Southgate's side are cruising in
+OL,13,FGroup A with a maximum 12 points from
+OL,14,Ffour games as well as a goal difference
+OL,15,Fof plus-15 after victories against
+OL,16,FBulgaria and Kosovo in the last
+OL,17,Finternational break.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,305,302,301,300,8FF,199
