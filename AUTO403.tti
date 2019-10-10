@@ -5,24 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/10C14:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/10C15:34:03
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FA good deal of dry and bright weather
-OL,9,Fin the east, but cloudier in the west
-OL,10,Fwith some showers. More widespread
-OL,11,Fareas of rain pushing across mainly
-OL,12,Fwestern parts during the day. Windy.
+OL,7,GThis Evening and Tonight
+OL,8,FSome clear spells, but also bands of
+OL,9,Frain or showers moving east, most
+OL,10,Fpersistent over parts of western
+OL,11,FScotland and later Wales. Windy with
+OL,12,Fcoastal gales in the west.
 OL,4,                                    1/2 
-OL,14,GTonight
-OL,15,FRain and showers affecting the UK,
-OL,16,Fmainly western and southern parts with
-OL,17,Feastern areas seeing the best of the
-OL,18,Fdrier weather. Windy, perhaps with
-OL,19,Fgales on west and south coasts.
+OL,14,GFriday
+OL,15,FCloudy across central and southern
+OL,16,Fareas with outbreaks of rain, heavy in
+OL,17,Fplaces. Further north, sunny spells and
+OL,18,Fshowers, these merging into persistent
+OL,19,Frain at times in western Scotland.
+OL,20,FWindy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,17 +31,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/10C14:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/10C15:34:03
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Saturday to Monday
-OL,8,FUnsettled for most, with further spells
-OL,9,Fof rain, heavy at times, particularly
-OL,10,Facross some western areas. Windy too,
-OL,11,Fwith a risk of gales, particularly on
-OL,12,FSunday.
+OL,8,FMixture of drier interludes and further
+OL,9,Fheavy rain and showers, persistent for
+OL,10,Fa time over southern and western parts.
+OL,11,FWindy at times, especially near coasts.
+OL,12,FTemperatures around the seasonal norm.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
