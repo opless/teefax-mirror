@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/10C14:33:58
+OL,0,XXXXXXXXBNMPSERVER2      E11/10C15:33:48
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BMost if not all    S5CSTATISTICS       
-OL,9,Bshould stay dry    S5C 
-OL,10,Bthrough the morningS5G   Maximum       
-OL,11,Bwith plenty of     S5GTemperatureC15C 
-OL,12,Bsunshine across theS5G                 
-OL,13,Barea, however in   S5G   Minumum       
-OL,14,Bfresh to strong    S5GTemperatureC4C 
-OL,15,Bwesterly winds not S5C                 
-OL,16,Bfeeling            S5G
-OL,17,Bparticularly mild. S5G
-OL,18,BScattered showers  S5G                 
-OL,19,Bdeveloping for the S5G
-OL,20,Bafternoon.         S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BSome showers duringS5CSTATISTICS       
+OL,9,Bthe evening, which S5C 
+OL,10,Bwill soon die back S5G   Maximum       
+OL,11,Bto the northern    S5GTemperatureC15C 
+OL,12,Bcoastal fringes.   S5G                 
+OL,13,BOtherwise, mainly  S5G   Minumum       
+OL,14,Bdry with clear     S5GTemperatureC4C 
+OL,15,Bspells and becomingS5C                 
+OL,16,Bchilly as winds    S5G
+OL,17,Bease.              S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/10C14:33:58
+OL,0,XXXXXXXXBNMPSERVER2      E11/10C15:33:48
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BSome showers duringS5CSTATISTICS       
-OL,9,Bthe evening, which S5C 
-OL,10,Blargely die back toS5G   Maximum       
-OL,11,Bthe northern       S5GTemperatureC15C 
-OL,12,Bcoastal fringes    S5G                 
-OL,13,Bovernight, with    S5G   Minumum       
-OL,14,Bmost dry, bright   S5GTemperatureC4C 
-OL,15,Bbut chilly for dawnS5C                 
-OL,16,BSaturday. Winds    S5G
-OL,17,Bstrong across the  S5G
-OL,18,Bcoasts.            S5G                 
+OL,6,CSATURDAY
+OL,8,BMorning staying    S5CSTATISTICS       
+OL,9,Bmostly dry with    S5C 
+OL,10,Bsunny spells. CloudS5G   Maximum       
+OL,11,Bbubbling up into   S5GTemperatureC15C 
+OL,12,Bthe afternoon,     S5G                 
+OL,13,Bbringing the odd   S5G   Minumum       
+OL,14,Bshower. Light      S5GTemperatureC4C 
+OL,15,Bsouthwesterly      S5C                 
+OL,16,Bwinds.             S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 

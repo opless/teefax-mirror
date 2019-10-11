@@ -5,25 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/10C14:33:58
+OL,0,XXXXXXXXBNMPSERVER2      E11/10C15:33:48
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FCloudy across central and southern
-OL,9,Fareas with outbreaks of rain, heavy in
-OL,10,Fplaces. Further north, sunny spells and
-OL,11,Fshowers, these merging into persistent
-OL,12,Frain at times in western Scotland.
-OL,13,FWindy.
-OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FRain staying over the far south but
-OL,17,Felsewhere some clear spells with a few
-OL,18,Fshowers around northern and western
-OL,19,Fcoasts. Lighter winds than recently,
-OL,20,Fparticularly in the south.
+OL,7,GThis Evening and Tonight
+OL,8,FRain will continue to affect parts of
+OL,9,Fsouthern England and the far south of
+OL,10,FWales at times, and here it will be
+OL,11,Fmild. Elsewhere clear intervals and
+OL,12,Fscattered showers, most frequent and
+OL,13,Fheaviest in the northwest. Chilly in
+OL,14,Fthe northeast.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +25,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/10C14:33:58
+OL,0,XXXXXXXXBNMPSERVER2      E11/10C15:33:48
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Sunday to Tuesday
-OL,8,FThe autumnal, unsettled weather will
-OL,9,Fcontinue, with further showers or
-OL,10,Flonger spells of rain for many. Often
-OL,11,Fwindy, with a chance of coastal gales
-OL,12,Fat times.
+OL,8,FOften cloudy with rain or showers
+OL,9,Facross central and southern areas, but
+OL,10,Fgenerally brighter with isolated
+OL,11,Fshowers in the north. Rain and stronger
+OL,12,Fwinds arrive from the west on Tuesday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
