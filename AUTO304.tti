@@ -1,20 +1,30 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 304 Football
+DE,Sport Page 304 England
 CT,10,T
 PN,30400
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/10C22:36:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/10C23:35:58
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BEuro 2020 qualifying: Czech Republic
-OL,5,B2-1 England - how did you rate the
-OL,6,Bplayers?
-OL,10,FShare this with
-OL,12,FPlayer of the match
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BPolice arrest 14 England fans in Prague
+OL,5,Bafter Euro 2020 qualifier
+OL,6, Police in Prague made a series of
+OL,7, arrests after crowd trouble involving
+OL,8, England fans at Friday's Euro 2020
+OL,9, qualifying match.
+OL,11,FThere were 31 arrests, 14 of whom were
+OL,12,FEngland supporters.
+OL,14,FAlmost 3,800 England fans bought
+OL,15,Ftickets for the 20:45 BST kick-off in
+OL,16,FPrague, although more are believed to
+OL,17,Fhave travelled.
+OL,19,FEngland lost the match 2-1 and have
+OL,20,Fanother game on Monday when they travel
+OL,21,Fto Sofia to play Bulgaria.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,305,302,301,300,8FF,199
