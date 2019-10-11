@@ -1,22 +1,28 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 313 Football
+DE,Sport Page 313 England
 CT,10,T
 PN,31300
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/10C06:33:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/10C07:33:03
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Chilwell, Maddison,
-OL,5,BOzil, Eriksen, Pogba, Defoe
-OL,9,FShare this with
-OL,11,FManchester United are prepared to pay
-OL,12,F&pound;130m for Leicester and England
-OL,13,Fdefender Ben Chilwell and midfielder
-OL,14,FJames Maddison, both 22. (Sun)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BEngland: Gareth Southgate 'must solve
+OL,5,Bdefensive flaws' to compete at Euro
+OL,6,B2020
+OL,7, England could secure qualification for
+OL,8, Euro 2020 in their next games away in
+OL,9, the Czech Republic on Friday and
+OL,10, Bulgaria on Monday.
+OL,12,FGareth Southgate's side are cruising in
+OL,13,FGroup A with a maximum 12 points from
+OL,14,Ffour games as well as a goal difference
+OL,15,Fof plus-15 after victories against
+OL,16,FBulgaria and Kosovo in the last
+OL,17,Finternational break.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,314,302,301,300,8FF,199
