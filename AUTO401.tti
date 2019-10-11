@@ -5,36 +5,36 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/10C15:33:47
+OL,0,XXXXXXXXBNMPSERVER2      E11/10C16:32:15
 OL,1,T]G              Today                  
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G12R%  B               
-OL,4,           RZj**gppp B               
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G14U!ESome Cloud     
-OL,7,           ^ZU ~ow1  E              
-OL,8,B          ^ZV*y?sp  FSunny         
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G12V%  B               
+OL,4,           VZj**gppp B               
+OL,5,           ^ZR({5                
+OL,6,            ZR!'~G14R!B               
+OL,7,           ^ZR ~ow1 B               
+OL,8,DSome Cloud^ZV*y?sp  FLight Rain    
 OL,9,           ^ZVj)"G 14V}  F             
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG14VtV+"VG14V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BLight Rain
-OL,14,B            ^ZR`  R*G 15R}  B         
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 15R}zt B       
-OL,17,B              ZRj^RG 17R B       
-OL,18,B            ZRx|^G 16R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 17R/!        
-OL,21,B            ZR zG16R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,10,       ^ZTp|t VxUg0 ESunny        
+OL,11,       ZTnG14TtV+"UG14U  E            
+OL,12,       ZT+U`4U+|0             
+OL,13,        ZT+%*o!U" R *u  BCloudy    
+OL,14,D            ^ZV`  R*G 15R}  B         
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 15V}zt B       
+OL,17,B              ZVj^VG 17V B       
+OL,18,B            ZVx|^G 16V'         
+OL,19,             ^ZV! +/'iSqp0        
+OL,20,B            ^ZV  tG 17S/!        
+OL,21,B            ZV zG16V^/s/S/? COvercast 
+OL,22,            ZV8?' "'    "     C        
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E11/10C15:33:48
+OL,0,XXXXXXXXBNMPSERVER2      E11/10C16:32:15
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZU 4`~|}            G 2/2 
 OL,3,           ZU`?0~G11U%  B               
@@ -48,15 +48,15 @@ OL,10,       ^ZSp|t VxSg0 B
 OL,11,       ZSnG14StV+"SG14S B             
 OL,12,       ZS+S`4S+|0             
 OL,13,        ZS+%*o!S" R *u  BCloudy    
-OL,14,C            ^ZU`  R*G 15R}  B         
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 14R}zt B       
-OL,17,B              ZUj^RG 13R B       
-OL,18,B            ZUx|^G 14R'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,DHeavy Rain  ^ZT  tG 13U/!        
-OL,21,D            ZT zG13T^/s/U/?     ELight
-OL,22,            ZT8?' "'    "    ERain     
+OL,14,C            ^ZR`  R*G 15R}  B         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 14R}zt B       
+OL,17,B              ZRj^RG 13R B       
+OL,18,B            ZRx|^G 14R'         
+OL,19,             ^ZR! +/'iUqp0        
+OL,20,B            ^ZU  tG 13U/!        
+OL,21,B            ZU zG13U^/s/U/?     ELight
+OL,22,            ZU8?' "'    "    ERain     
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,8FF,199
