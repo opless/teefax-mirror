@@ -1,23 +1,29 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 310 Football
+DE,Sport Page 310 Scotland
 CT,10,T
 PN,31000
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E13/10C00:03:17
+OL,0,XXXXXXXXBNMPSERVER2      E13/10C06:33:05
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Eriksen, Defoe,
-OL,5,BFernandinho, Solskjaer
-OL,9,FShare this with
-OL,11,FBayern Munich could rival Real Madrid
-OL,12,Ffor Tottenham midfielder Christian
-OL,13,FEriksen and make a move for the
-OL,14,F27-year-old Denmark international in
-OL,15,FJanuary. (Sport1, via Mirror)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BScotland v San Marino: 'Everything that
+OL,5,Bwe want to achieve is still in front of
+OL,6,Bus' - Steve Clarke
+OL,7, Scotland have got three games to get
+OL,8, the "positivity back" for the Euro 2020
+OL,9, play-offs, starting with San Marino on
+OL,10, Sunday, says manager Steve Clarke.
+OL,12,FChances of automatic qualification were
+OL,13,Fextinguished by Thursday's 4-0 defeat
+OL,14,Fto Russia, which leaves Scotland fifth
+OL,15,Fin Group I.
+OL,17,FA disappointing campaign ends with a
+OL,18,Ftrip to Cyprus and a home match against
+OL,19,FKazakhstan in November.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,311,302,301,300,8FF,199
