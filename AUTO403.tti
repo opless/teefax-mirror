@@ -5,26 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/10C13:03:02
+OL,0,XXXXXXXXBNMPSERVER2      E13/10C18:33:05
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FRain, some heavy, moving north across
-OL,9,FEngland, Wales and southern Scotland,
-OL,10,Ffollowed by sunny spells and isolated
-OL,11,Fshowers in the south. Elsewhere, fog
-OL,12,Fpatches clearing, then sunny spells and
-OL,13,Fshowers, some heavy in the west. Windy
-OL,14,Fin south and east.
+OL,7,GThis Evening and Tonight
+OL,8,FRain clearing from most parts. Turning
+OL,9,Fchilly, some rural frost in the north
+OL,10,Fand a few fog patches forming. Further
+OL,11,Frain into the far southeast towards
+OL,12,Fdawn.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FRain in the north-east clearing, then
-OL,18,Fclear spells and lighter winds, so some
-OL,19,Ffrost and fog in central and northern
-OL,20,Fareas. Further rain in the far south by
-OL,21,Fmorning.
+OL,14,GMonday
+OL,15,FA bright, chilly start for many. Rain
+OL,16,Fmoving northwards across parts of
+OL,17,FEngland and Northern Ireland, heavy at
+OL,18,Ftimes. Much of Scotland remaining dry
+OL,19,Fwith sunny spells.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +30,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/10C13:03:02
+OL,0,XXXXXXXXBNMPSERVER2      E13/10C18:33:05
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FLargely dry Tuesday, following eastward
-OL,9,Fclearance of early rain; any fog or low
-OL,10,Fcloud steadily breaking up into sunny
-OL,11,Fspells. Further wind and rain
-OL,12,FWednesday, followed by scattered
-OL,13,Fshowers Thursday.
+OL,8,FDry and fine Tuesday after the
+OL,9,Fclearance of early rain, and patchy
+OL,10,Fmist and fog. Further spells of rain
+OL,11,Farriving later Tuesday, early
+OL,12,FWednesday, clearing to blustery showers
+OL,13,Flater Wednesday
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

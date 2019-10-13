@@ -5,19 +5,19 @@ CT,10,T
 PN,32601
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E13/10C12:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E13/10C18:04:33
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GOct 13 12:01    P  W  D  L   F   A Pts
+OL,6, GOct 13 13:42    P  W  D  L   F   A Pts
 OL,8, G1 Ipswich      11  8  3  0  21   5  27
 OL,9, F2 Wycombe      12  6  5  1  21  13  23
 OL,10, G3 Peterborough 12  6  3  3  28  15  21
 OL,11, F4 Bristol Rove 12  6  3  3  15  12  21
-OL,12, G5 Coventry     12  5  6  1  16  14  21
-OL,13, F6 Fleetwood    11  6  2  3  20  14  20
-OL,14, G7 Blackpool    13  5  5  3  17  15  20
+OL,12, G5 Fleetwood    11  6  2  3  20  14  20
+OL,13, F6 Blackpool    13  5  5  3  17  15  20
+OL,14, G7 Coventry     12  5  5  2  16  15  20
 OL,15, F8 Oxford Utd   13  5  4  4  27  17  19
 OL,16, G9 Sunderland   11  5  4  2  16  14  19
 OL,17,F10 Rotherham    11  5  3  3  18  10  18
@@ -35,19 +35,19 @@ CT,10,T
 PN,32602
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E13/10C12:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E13/10C18:04:33
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GOct 13 12:01    P  W  D  L   F   A Pts
+OL,6, GOct 13 13:42    P  W  D  L   F   A Pts
 OL,8,F14 Burton       10  4  3  3  14   9  15
 OL,9,G15 Gillingham   12  3  5  4  17  14  14
 OL,10,F16 Portsmouth   10  3  4  3  12  11  13
 OL,11,G17 Rochdale     12  3  4  5  14  21  13
-OL,12,F18 MK Dons      12  4  0  8  12  19  12
-OL,13,G19 Accrington   12  2  5  5  15  21  11
-OL,14,F20 Tranmere     12  2  4  6  15  21  10
+OL,12,F18 Tranmere     12  3  3  6  16  21  12
+OL,13,G19 MK Dons      12  4  0  8  12  19  12
+OL,14,F20 Accrington   12  2  5  5  15  21  11
 OL,15,G21 Wimbledon    13  2  3  8  18  24   9
 OL,16,F22 Southend     12  1  1 10  13  32   4
 OL,17,G23 Bolton       10  0  4  6   2  25  -8
