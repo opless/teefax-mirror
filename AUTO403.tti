@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/10C00:32:20
+OL,0,XXXXXXXXBNMPSERVER2      E13/10C01:32:03
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain over southern England turning
-OL,9,Fheavier and then spreading to much of
-OL,10,FEngland and Wales, although the far
-OL,11,Fsoutheast seeing little. Northern areas
-OL,12,Fseeing a few coastal showers, otherwise
-OL,13,Fclear periods and quite chilly with a
-OL,14,Ffew fog patches.
+OL,7,GToday
+OL,8,FRain, some heavy, moving north across
+OL,9,FEngland, Wales and southern Scotland,
+OL,10,Ffollowed by sunny spells and isolated
+OL,11,Fshowers in the south. Elsewhere, fog
+OL,12,Fpatches clearing, then sunny spells and
+OL,13,Fshowers, some heavy in the west. Windy
+OL,14,Fin south and east.
 OL,4,                                    1/2 
-OL,16,GSunday
-OL,17,FRain, heavy in places, over much of
-OL,18,FEngland and Wales clearing eastwards
-OL,19,Fbut may spread to parts of southern and
-OL,20,Feastern Scotland. Northwestern Britain
-OL,21,Fbrighter with scattered heavy showers.
+OL,16,GTonight
+OL,17,FRain in the north-east clearing, then
+OL,18,Fclear spells and lighter winds, so some
+OL,19,Ffrost and fog in central and northern
+OL,20,Fareas. Further rain in the far south by
+OL,21,Fmorning.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/10C00:32:21
+OL,0,XXXXXXXXBNMPSERVER2      E13/10C01:32:03
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Monday to Wednesday
-OL,8,FRemaining unsettled with showers or
-OL,9,Flonger spells of rain. Some patchy fog
-OL,10,Fin the north on Monday and Tuesday
-OL,11,Fmornings. Becoming windy in the west
-OL,12,Flater Tuesday. Feeling rather cool.
+OL,7,GOutlook for Tuesday to Thursday
+OL,8,FLargely dry Tuesday, following eastward
+OL,9,Fclearance of early rain; any fog or low
+OL,10,Fcloud steadily breaking up into sunny
+OL,11,Fspells. Further wind and rain
+OL,12,FWednesday, followed by scattered
+OL,13,Fshowers Thursday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
