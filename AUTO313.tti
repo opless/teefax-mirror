@@ -1,23 +1,31 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 313 Football
+DE,Sport Page 313 England
 CT,10,T
 PN,31300
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E14/10C10:32:10
+OL,0,XXXXXXXXBNMPSERVER2      E14/10C11:02:29
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Fernandes, Mandzukic,
-OL,5,BMbappe, Jorginho
-OL,9,FShare this with
-OL,11,FTottenham Hotspur are set to renew
-OL,12,Ftheir interest in Sporting Lisbon's
-OL,13,FPortugal midfielder Bruno Fernandes,
-OL,14,F25, when the transfer window reopens in
-OL,15,FJanuary. (A Bola - in Portuguese)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BFikayo Tomori: How Canada helped set
+OL,5,B'mystery' defender on path to stardom
+OL,6, The fact Fikayo Tomori first played for
+OL,7, Canada rather than England remains a
+OL,8, mystery to the coaches who handed him
+OL,9, his international debut. 
+OL,11,FThe 21-year-old Chelsea centre-back,
+OL,12,Fwho was born in Calgary and is also
+OL,13,Feligible for Nigeria through his
+OL,14,Fparents, could make his senior England
+OL,15,Fdebut against Bulgaria on Monday.
+OL,17,FBut it wasn't until he shackled Marcus
+OL,18,FRashford playing against England in an
+OL,19,Funder-20s game three years ago that he
+OL,20,Falerted English coaches to his
+OL,21,Fpotential. 
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,314,302,301,300,8FF,199
