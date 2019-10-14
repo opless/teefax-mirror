@@ -5,24 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/10C02:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E14/10C03:32:02
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain clearing from most parts. Turning
-OL,9,Fchilly, some rural frost in the north
-OL,10,Fand a few fog patches forming. Further
-OL,11,Frain into the far southeast towards
-OL,12,Fdawn.
+OL,7,GToday
+OL,8,FStarting bright for many with patchy
+OL,9,Ffog. Areas of heavy rain will spread
+OL,10,Fnorth across parts of England and
+OL,11,FNorthern Ireland, perhaps thundery in
+OL,12,Fsoutheast England. Scotland, Wales and
+OL,13,Fwestern England hanging onto more in
+OL,14,Fthe way of dry weather.
 OL,4,                                    1/2 
-OL,14,GMonday
-OL,15,FA bright, chilly start for many. Rain
-OL,16,Fmoving northwards across parts of
-OL,17,FEngland and Northern Ireland, heavy at
-OL,18,Ftimes. Much of Scotland remaining dry
-OL,19,Fwith sunny spells.
+OL,16,GTonight
+OL,17,FRain clearing most areas but still some
+OL,18,Fshowers, mainly affecting Northern
+OL,19,FIreland and southwest Britain. Low
+OL,20,Fcloud and patchy fog elsewhere, perhaps
+OL,21,Fa touch of frost in the northwest.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,18 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/10C02:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E14/10C03:32:02
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Tuesday to Thursday
-OL,8,FDry and fine Tuesday after the
-OL,9,Fclearance of early rain, and patchy
-OL,10,Fmist and fog. Further spells of rain
-OL,11,Farriving later Tuesday, early
-OL,12,FWednesday, clearing to blustery showers
-OL,13,Flater Wednesday
+OL,7,GOutlook for Wednesday to Friday
+OL,8,FRain spreading east on Wednesday, some
+OL,9,Fheavy. Sunshine and showers on Thursday
+OL,10,Fand Friday, some heavy with thunder,
+OL,11,Fespecially in the west where it will
+OL,12,Falso be windy.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
