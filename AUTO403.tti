@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E15/10C14:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E15/10C15:33:20
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSunny spells and a few showers for
-OL,9,Fsouthern England, whilst western
-OL,10,FScotland sees the best of the weather
-OL,11,Fand is largely fine and dry. Elsewhere,
-OL,12,Frather cloudy at first before
-OL,13,Foccasional bright or sunny spells
-OL,14,Fdevelop for some later.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FWet and windy weather with rain, heavy
-OL,18,Fat times, spreads eastwards reaching
-OL,19,Fall but the far east of the UK.
-OL,20,FClearer, drier conditions follow into
-OL,21,FNorthern Ireland by dawn.
+OL,7,GThis Evening and Tonight
+OL,8,FRain and stronger winds moving
+OL,9,Feastwards overnight, though eastern
+OL,10,FScotland and northeast England staying
+OL,11,Fmostly dry. Cold in the northeast ahead
+OL,12,Fof this and also at the end of the
+OL,13,Fnight over Northern Ireland with a few
+OL,14,Ffog patches possible.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,13 +25,13 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E15/10C14:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E15/10C15:33:20
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Thursday to Saturday
-OL,8,FWindy with sunshine and blustery
+OL,8,FWindy with sunshine and blustery,
 OL,9,Fscattered showers. These mainly in the
 OL,10,Fwest on Thursday extending to all areas
 OL,11,Fthrough Friday and Saturday. Winds

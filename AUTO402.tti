@@ -5,21 +5,21 @@ CT,30,T
 PN,40201
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E15/10C14:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E15/10C15:33:20
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BA bright start in  S5CSTATISTICS       
-OL,9,Bthe east, otherwiseS5C 
-OL,10,Bit will be a cloudyS5G   Maximum       
-OL,11,Bmorning with a few S5GTemperatureC15C 
-OL,12,Bshowers.  Becoming S5G                 
-OL,13,Bdry with sunny     S5G   Minumum       
-OL,14,Bspells in the      S5GTemperatureC5C 
-OL,15,Bafternoon. Light   S5C                 
-OL,16,Bsoutherly winds.   S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BA dry start to the S5CSTATISTICS       
+OL,9,Bevening but cloud  S5C 
+OL,10,Band and outbreaks  S5G   Maximum       
+OL,11,Bof rain will spreadS5GTemperatureC14C 
+OL,12,Beast across all    S5G                 
+OL,13,Bparts. Dry weather S5G   Minumum       
+OL,14,Bwith clear spells  S5GTemperatureC5C 
+OL,15,Barriving from the  S5C                 
+OL,16,Bwest later.        S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
@@ -32,22 +32,22 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E15/10C14:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E15/10C15:33:20
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BA dry start to the S5CSTATISTICS       
-OL,9,Bevening but cloud  S5C 
-OL,10,Band and outbreaks  S5G   Maximum       
-OL,11,Bof rain will spreadS5GTemperatureC15C 
-OL,12,Beast across all    S5G                 
-OL,13,Bparts. Dry weather S5G   Minumum       
-OL,14,Bwith clear spells  S5GTemperatureC5C 
-OL,15,Barriving from the  S5C                 
-OL,16,Bwest later.        S5G
-OL,17,B                   S5G
+OL,6,CWEDNESDAY
+OL,8,BA dry and sunny    S5CSTATISTICS       
+OL,9,Bmorning then cloud S5C 
+OL,10,Bwill bubble up to  S5G   Maximum       
+OL,11,Bbring scattered    S5GTemperatureC14C 
+OL,12,Bshowers in the     S5G                 
+OL,13,Bafternoon. Feeling S5G   Minumum       
+OL,14,Breasonably warm in S5GTemperatureC5C 
+OL,15,Bthe sunshine with  S5C                 
+OL,16,Blight southwesterlyS5G
+OL,17,Bwinds.             S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
