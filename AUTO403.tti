@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E16/10C01:31:51
+OL,0,XXXXXXXXBNMPSERVER2      E16/10C02:33:39
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain and stronger winds moving
-OL,9,Feastwards overnight, though eastern
-OL,10,FScotland and northeast England staying
-OL,11,Fmostly dry. Cold in the northeast ahead
-OL,12,Fof this and also at the end of the
-OL,13,Fnight over Northern Ireland with a few
-OL,14,Ffog patches possible.
+OL,7,GToday
+OL,8,FMany areas starting cloudy with rain,
+OL,9,Fheavy in places. Brighter skies across
+OL,10,FNorthern Ireland and parts of southwest
+OL,11,FBritain following to all but parts of
+OL,12,Fsoutheast England and northeast
+OL,13,FScotland. Scattered showers will affect
+OL,14,FNorthern Ireland and western Scotland.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FRemaining rain clearing, leaving many
+OL,18,Fareas clear and rather chilly; a few
+OL,19,Ffog patches in the north and east.
+OL,20,FShowers in parts of the west will tend
+OL,21,Fto turn heavier
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +32,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E16/10C01:31:51
+OL,0,XXXXXXXXBNMPSERVER2      E16/10C02:33:39
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
-OL,8,FWindy with sunshine and blustery,
-OL,9,Fscattered showers. These mainly in the
-OL,10,Fwest on Thursday extending to all areas
-OL,11,Fthrough Friday and Saturday. Winds
-OL,12,Feasing on Saturday with temperatures
-OL,13,Faround average.
+OL,7,GOutlook for Friday to Sunday
+OL,8,FBreezy and unsettled Friday and
+OL,9,FSaturday, with heavy showers,
+OL,10,Fespecially in the south and west.
+OL,11,FShowers becoming confined to southern
+OL,12,Fareas Sunday, with perhaps more
+OL,13,Fpersistent rain in the north.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
