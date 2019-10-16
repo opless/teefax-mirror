@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E16/10C14:32:55
+OL,0,XXXXXXXXBNMPSERVER2      E16/10C15:32:35
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FMany areas starting cloudy with rain,
-OL,9,Fheavy in places. Brighter skies across
-OL,10,FNorthern Ireland and parts of southwest
-OL,11,FBritain following to all but parts of
-OL,12,Fsoutheast England and northeast
-OL,13,FScotland. Scattered showers will affect
-OL,14,FNorthern Ireland and western Scotland.
+OL,7,GThis Evening and Tonight
+OL,8,FRemaining rain clearing away from
+OL,9,FScotland and southeast England, leaving
+OL,10,Fmany areas clear and rather chilly. A
+OL,11,Ffew fog patches possible in the north
+OL,12,Fand east. Showers in parts of the west
+OL,13,Fwill tend to turn heavier after
+OL,14,Fmidnight.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FRemaining rain clearing, leaving many
-OL,18,Fareas clear and rather chilly; a few
-OL,19,Ffog patches in the north and east.
-OL,20,FShowers in parts of the west will tend
-OL,21,Fto turn heavier
+OL,16,GThursday
+OL,17,FSunshine at times for most, especially
+OL,18,Fin the north and east. However showers
+OL,19,Fwill become more frequent and heavier,
+OL,20,Fmainly in parts of the south and west,
+OL,21,Fperhaps with thunder.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E16/10C14:32:55
+OL,0,XXXXXXXXBNMPSERVER2      E16/10C15:32:35
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Friday to Sunday
-OL,8,FBreezy and unsettled Friday and
-OL,9,FSaturday, with heavy showers,
-OL,10,Fespecially in the south and west.
-OL,11,FShowers becoming confined to southern
-OL,12,Fareas Sunday, with perhaps more
-OL,13,Fpersistent rain in the north.
+OL,8,FSunshine and showers, or longer spells
+OL,9,Fof rain, particularly frequent around
+OL,10,Fwestern coasts where often windy too.
+OL,11,FOvernight fog becoming increasingly
+OL,12,Fprevalent. Feeling cool in the wind and
+OL,13,Frain.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
