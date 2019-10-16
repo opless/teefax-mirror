@@ -5,25 +5,25 @@ CT,10,T
 PN,32701
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/10C01:31:26
+OL,0,XXXXXXXXBNMPSERVER2      E16/10C22:32:32
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE TWO 
-OL,6, GOct 16 01:10    P  W  D  L   F   A Pts
+OL,6, GOct 16 22:06    P  W  D  L   F   A Pts
 OL,8, G1 Crewe        13  8  2  3  23  16  26
 OL,9, F2 Exeter       13  7  5  1  18  11  26
 OL,10, G3 Bradford     13  7  3  3  19  12  24
-OL,11, F4 Forest Green 13  7  3  3  14   7  24
-OL,12, G5 Newport      12  6  5  1  12   6  23
-OL,13, F6 Cheltenham   12  6  4  2  21  11  22
-OL,14, G7 Swindon      13  6  3  4  20  16  21
-OL,15, F8 Colchester   13  5  4  4  16  12  19
-OL,16, G9 Crawley      13  5  4  4  21  20  19
-OL,17,F10 Grimsby      13  5  3  5  20  16  18
-OL,18,G11 Plymouth     13  4  5  4  18  16  17
-OL,19,F12 Macclesfield 13  4  5  4  15  15  17
-OL,20,G13 Port Vale    13  4  5  4  18  20  17
+OL,11,B---------------------------------------
+OL,12, F4 Forest Green 13  7  3  3  14   7  24
+OL,13, G5 Newport      12  6  5  1  12   6  23
+OL,14, F6 Cheltenham   12  6  4  2  21  11  22
+OL,15, G7 Swindon      13  6  3  4  20  16  21
+OL,16,B---------------------------------------
+OL,17, F8 Colchester   13  5  4  4  16  12  19
+OL,18, G9 Crawley      13  5  4  4  21  20  19
+OL,19,F10 Grimsby      13  5  3  5  20  16  18
+OL,20,G11 Plymouth     13  4  5  4  18  16  17
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
@@ -35,23 +35,43 @@ CT,10,T
 PN,32702
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/10C01:31:26
+OL,0,XXXXXXXXBNMPSERVER2      E16/10C22:32:32
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE TWO 
-OL,6, GOct 16 01:10    P  W  D  L   F   A Pts
-OL,8,F14 Salford      13  4  5  4  16  20  17
-OL,9,G15 Mansfield    13  4  4  5  19  17  16
-OL,10,F16 Cambridge    13  4  4  5  16  14  16
-OL,11,G17 Leyton Orien 13  4  4  5  19  22  16
-OL,12,F18 Northampton  13  4  3  6  14  16  15
-OL,13,G19 Walsall      13  4  3  6   9  17  15
-OL,14,F20 Carlisle     13  4  2  7  15  23  14
-OL,15,G21 Oldham       13  2  5  6  14  23  11
-OL,16,F22 Scunthorpe   13  2  4  7  16  21  10
-OL,17,G23 Stevenage    13  1  5  7  10  19   8
-OL,18,F24 Morecambe    13  1  4  8  13  26   7
+OL,6, GOct 16 22:06    P  W  D  L   F   A Pts
+OL,8,F12 Macclesfield 13  4  5  4  15  15  17
+OL,9,G13 Port Vale    13  4  5  4  18  20  17
+OL,10,F14 Salford      13  4  5  4  16  20  17
+OL,11,G15 Mansfield    13  4  4  5  19  17  16
+OL,12,F16 Cambridge    13  4  4  5  16  14  16
+OL,13,G17 Leyton Orien 13  4  4  5  19  22  16
+OL,14,F18 Northampton  13  4  3  6  14  16  15
+OL,15,G19 Walsall      13  4  3  6   9  17  15
+OL,16,F20 Carlisle     13  4  2  7  15  23  14
+OL,17,G21 Oldham       13  2  5  6  14  23  11
+OL,18,F22 Scunthorpe   13  2  4  7  16  21  10
+OL,19,G23 Stevenage    13  1  5  7  10  19   8
+OL,20,B---------------------------------------
+OL,22,D]CFootballG302CFront pageG100CTV  G600 
+OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
+OL,24,ANext page  BFootball CHeadlines FSport 
+FL,328,302,301,300,8FF,320
+DS,inserter
+SP,/home/pi/ceefax/
+DE,Football League Table
+CT,10,T
+PN,32702
+SC,0002
+PS,8000
+OL,0,XXXXXXXXBNMPSERVER2      E16/10C22:32:32
+OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
+OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
+OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
+OL,4, BLEAGUE TWO 
+OL,6, GOct 16 22:06    P  W  D  L   F   A Pts
+OL,8,F24 Morecambe    13  1  4  8  13  26   7
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
