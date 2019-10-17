@@ -5,8 +5,8 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/10C23:33:15
-OL,1,T]G           This Evening              
+OL,0,XXXXXXXXBNMPSERVER2      E17/10C00:32:36
+OL,1,T]G        Wednesday Evening            
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G08V%  B               
 OL,4,           VZj**gppp B               
@@ -19,23 +19,23 @@ OL,10,       ^ZVp|t VxVg0 B
 OL,11,       ZVnG07VtV+"VG05V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 07V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 05V}zt B       
-OL,17,B              ZRj^VG 07V B       
-OL,18,B            ZRx|^G 09V'         
-OL,19,             ^ZR! +/'iUqp0        
-OL,20,BSome Cloud  ^ZR  tG 09U/!        
-OL,21,B            ZR zG09R^/s/U/? ECloudy   
-OL,22,            ZR8?' "'    "     E        
+OL,14,B            ^ZU`  V*G 07V} B          
+OL,15,B            ^ZUk|V            
+OL,16,B            ^ZU'oG 05V}zt B       
+OL,17,ESome Cloud    ZUj^VG 07V B       
+OL,18,E            ZUx|^G 09V'         
+OL,19,             ^ZU! +/'iRqp0        
+OL,20,CLight Rain  ^ZS  tG 09R/!        
+OL,21,C            ZS zG09S^/s/R/? BCloudy   
+OL,22,            ZS8?' "'    "     B        
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/10C23:33:15
-OL,1,T]G             Tomorrow                
+OL,0,XXXXXXXXBNMPSERVER2      E17/10C00:32:36
+OL,1,T]G             Thursday                
 OL,2,           ^ZR 4`~|}            G 2/2 
 OL,3,           ZR`?0~G12R%  B               
 OL,4,           RZj**gppp B               
@@ -55,7 +55,7 @@ OL,17,B              ZUj^RG 14R BCloud
 OL,18,B            ZUx|^G 15R'         
 OL,19,             ^ZU! +/'iUqp0        
 OL,20,ELight Rain  ^ZU  tG 15U/!        
-OL,21,E            ZU zG14U^/s/U/? B         
+OL,21,E            ZU zG15U^/s/U/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
