@@ -31,7 +31,7 @@ OL,21,W          S7#^##5         Uj  5  5 5
 PN,56502
 SC,0002
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
@@ -58,7 +58,7 @@ OL,21,W          S7#^##5         Uj  5  5 5
 PN,56503
 SC,0003
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
@@ -85,7 +85,7 @@ OL,21,W          S7#^##5         Uj  5  5 5
 PN,56504
 SC,0004
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
@@ -112,7 +112,7 @@ OL,21,W          S7#^##5         Uj  5  5 5
 PN,56505
 SC,0005
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
@@ -139,7 +139,7 @@ OL,21,W          S7#^##5         Uj  5  5 5
 PN,56506
 SC,0006
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
@@ -166,7 +166,7 @@ OL,21,W          S7#^##5         Uj  5  5 5
 PN,56507
 SC,0007
 PS,8000
-CT,1,T
+CT,2,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0 S*45
