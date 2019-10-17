@@ -4,7 +4,7 @@ SP,J:\peter\teefax\P565Halloween.tti
 PN,56501
 SC,0001
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
@@ -60,7 +60,7 @@ SC,0003
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
 OL,2,W   U#+lp "+l       sp    S`    Ujk     
 OL,3,W  U#-l0*4    p^<,'#i/4  S"o  0U 7"5    
@@ -87,7 +87,7 @@ SC,0004
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
 OL,2,W   U#+lp "+l       sp      S`04Ujk     
 OL,3,W  U#-l0*4    p^<,'#i/4     _S+!U7"5    
@@ -114,7 +114,7 @@ SC,0005
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
 OL,2,W   U#+lp "+l       sp           jk     
 OL,3,W  U#-l0*4    p^<,'#i/4          7"5    
@@ -141,7 +141,7 @@ SC,0006
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0     
 OL,2,W   U#+lp "+l       sp           jk     
 OL,3,W  U#-l0*4    p^<,'#i/4         _7"5S`^ 
@@ -168,7 +168,7 @@ SC,0007
 PS,8000
 CT,1,T
 RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  Up0   `p  p^p0 `p0             0 S*45
 OL,2,W   U#+lp "+l       sp           jk  Sk!
 OL,3,W  U#-l0*4    p^<,'#i/4          7"5    
