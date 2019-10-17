@@ -5,25 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/10C13:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E17/10C14:32:55
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSunshine and showers for most, with the
-OL,9,Fnorth and east seeing the best of the
-OL,10,Fsunshine and dry weather after any
-OL,11,Fearly fog clears. Showers becoming more
-OL,12,Ffrequent and heavier, particularly in
-OL,13,Fthe south and west, during the day.
+OL,7,GThis Evening and Tonight
+OL,8,FBecoming windier in the south with
+OL,9,Fareas of rain and showers moving
+OL,10,Fnortheast across the UK during the
+OL,11,Fnight. Northern Ireland seeing the
+OL,12,Fdriest conditions. A few mist or fog
+OL,13,Fpatches possible in north.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FBecoming windier in the south with
-OL,17,Fareas of rain and showers moving
-OL,18,Fnortheast across the UK during the
-OL,19,Fnight. Northern Ireland seeing the
-OL,20,Fdriest conditions.
+OL,15,GFriday
+OL,16,FFurther areas of rain and showers
+OL,17,Faffecting the UK. Eastern Scotland
+OL,18,Fperhaps seeing some more persistent
+OL,19,Frain during the afternoon and evening.
+OL,20,FWindy in the south with coastal gales.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +31,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/10C13:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E17/10C14:32:56
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Saturday to Monday
-OL,8,FUnsettled with further showers or rain
-OL,9,Fon Saturday, and in the south on
-OL,10,FSunday. Brighter, cooler and drier
-OL,11,Fweather in the north on Sunday
-OL,12,Fspreading to all areas on Monday.
+OL,8,FSunshine, showers, and for some
+OL,9,Fnorth-eastern parts more persistent
+OL,10,Frain slowly clearing south-eastwards,
+OL,11,Fto drier, brighter, and somewhat
+OL,12,Fbreezier conditions. Patchy rural
+OL,13,Fovernight frost in north by Monday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
