@@ -5,26 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E19/10C00:33:00
+OL,0,XXXXXXXXBNMPSERVER2      E19/10C01:34:03
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FSpells of rain, heavy at times will
-OL,9,Faffect eastern, central and southern
-OL,10,FScotland. Elsewhere, clear spells but
-OL,11,Falso further showers, mostly in
-OL,12,Fsouthern and western parts of England
-OL,13,Fand Wales. Turning windy across
-OL,14,Fnorthern Scotland.
+OL,7,GToday
+OL,8,FSunny spells and showers. The heaviest
+OL,9,Fand most frequent showers probably over
+OL,10,FWales and southwest England, whilst
+OL,11,Fparts of southern Scotland and
+OL,12,Fnortheast England will see some more
+OL,13,Fpersistent rain. Windy for Scotland.
 OL,4,                                    1/2 
-OL,16,GSaturday
-OL,17,FSunny spells and showers, heaviest and
-OL,18,Fmost frequent showers probably over
-OL,19,FWales whilst parts of northern England
-OL,20,Fsee some more persistent rain. Windy
-OL,21,Ffor Scotland.
+OL,15,GTonight
+OL,16,FShowers becoming confined to the coasts
+OL,17,Fof northern UK and perhaps the far
+OL,18,Fsouthwest of England and Wales.
+OL,19,FElsewhere, a chilly night with some fog
+OL,20,Fpatches in the south.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +31,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E19/10C00:33:00
+OL,0,XXXXXXXXBNMPSERVER2      E19/10C01:34:03
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FBecoming more settled generally with
-OL,9,Fnight frosts and morning fog in places.
-OL,10,FThe southeast may have some rain on
-OL,11,FMonday whilst more unsettled conditions
-OL,12,Fedge into the NW on Tuesday.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FMore settled than of late with some
+OL,9,Fovernight frosts along with early fog
+OL,10,Fpatches. Rain likely in the far
+OL,11,Fsoutheast at times. Turning unsettled
+OL,12,Fagain from the northwest during
+OL,13,Fmidweek.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
