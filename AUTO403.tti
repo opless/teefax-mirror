@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E20/10C00:34:38
+OL,0,XXXXXXXXBNMPSERVER2      E20/10C01:33:01
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FDaytime showers gradually becoming
-OL,9,Fmostly confined to northern and eastern
-OL,10,FScotland, northeast England, west Wales
-OL,11,Fand Cornwall. Colder than last night
-OL,12,Fwith a touch of frost across northern
-OL,13,FBritain. Fog patches developing over
-OL,14,FEast Anglia and southern England.
+OL,7,GToday
+OL,8,FEarly fog clearing, to bright and sunny
+OL,9,Fspells. Chance of a few showers mainly
+OL,10,Fon windward coastal areas in far
+OL,11,Fsouthwest. Cloudier in the north,
+OL,12,Fperhaps with a little rain at first,
+OL,13,Fbefore becoming brighter with a few
+OL,14,Fshowers.
 OL,4,                                    1/2 
-OL,16,GSunday
-OL,17,FMany areas better than of late and
-OL,18,Fseeing sunny spells. Also a few
-OL,19,Fshowers, mainly northern Scotland, west
-OL,20,FWales and Cornwall. Northeast England,
-OL,21,Fhowever, cloudier with rain at times.
+OL,16,GTonight
+OL,17,FRain over parts of Kent and East
+OL,18,FAnglia. Otherwise mainly dry with some
+OL,19,Fclear spells. Cold with frost in
+OL,20,FScotland, Northern Ireland and northern
+OL,21,FEngland. A few fog patches possible.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E20/10C00:34:38
+OL,0,XXXXXXXXBNMPSERVER2      E20/10C01:33:01
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Monday to Wednesday
-OL,8,FMore settled for many with some
-OL,9,Fovernight frosts and morning fog
-OL,10,Fpatches. Some rain may affect the
-OL,11,Fsoutheast on Monday. Becoming more
-OL,12,Funsettled in the northwest through
-OL,13,FTuesday and Wednesday.
+OL,7,GOutlook for Tuesday to Thursday
+OL,8,FWindy and cloudy with some rain in the
+OL,9,Fnorth, heavy at times in western
+OL,10,FScotland. Mostly dry in the south with
+OL,11,Fchilly nights and fog patches early and
+OL,12,Flate.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
