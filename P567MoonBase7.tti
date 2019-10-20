@@ -36,7 +36,7 @@ SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0,T]Q4^ c           0      (  `0    `0m/! 
+OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss! 
 OL,1,T]Q-! :     ` "^"""TQ0         `8&1$%   
 OL,2,T] Q`h1    (          $    "p<'1$!  1   
 OL,3,T]Q#" 1  `"       $    cp`<w1 !     $ " 
@@ -66,7 +66,7 @@ SC,0003
 PS,8000
 CT,8,T
 RE,0
-OL,0,T]Q84 c           0      (  `0    `0m/! 
+OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss! 
 OL,1,T]Q/  :     ` "^"""TQ0         `8&1$%   
 OL,2,T]Q`h1    (      !   $    "p<'1$!  1   
 OL,3,T]Q#" 1  `"       $    cp`<w9 !       " 
@@ -96,7 +96,7 @@ SC,0004
 PS,8000
 CT,8,T
 RE,0
-OL,0,T]Q,$ c                  (  `0    `0m/! 
+OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss! 
 OL,1,T]Q/! :     ` "^"""TQ0         `8&1$%   
 OL,2,T]Q`h1    (      !   $     p<'1$!  !   
 OL,3,T] Q" !  `"       $    cp`<w9 !     $ " 
@@ -126,7 +126,7 @@ SC,0005
 PS,8000
 CT,8,T
 RE,0
-OL,0,T]Q<4 c           0      (  `0    `0m/! 
+OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss! 
 OL,1,T]Q/! :     ` "^"""TQ0         `8&1$%   
 OL,2,T]Qh1    (      !   $    "p<'1$!  0   
 OL,3,T]Q#  0  `"       $    cp`<w9 !     $   
@@ -156,7 +156,7 @@ SC,0006
 PS,8000
 CT,8,T
 RE,0
-OL,0,T]Q<4 c           0      (  `0    `0m/! 
+OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss! 
 OL,1,T]Q/! :     ` "^"""TQ0         `8&1$!   
 OL,2,T]Q` !    (      !   $    "p<'1$!  1   
 OL,3,T]Q#" 1  `"       $    cp`<w9 !     $ " 
@@ -186,7 +186,7 @@ SC,0007
 PS,8000
 CT,8,T
 RE,0
-OL,0,T]Q<4 c           0      (  `0    `0m/! 
+OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss! 
 OL,1,T]Q.! *     ` "^"""TQ0         `8&1$R   
 OL,2,T]Q`h0    (      !   $    "p<'1$!  1   
 OL,3,T]Q#" 1  `"       $    cp`<w9 !     $ " 
