@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E21/10C01:32:12
+OL,0,XXXXXXXXBNMPSERVER2      E21/10C02:32:13
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FScattered showers fading, leaving many
-OL,9,Fareas dry. Scotland and Northern
-OL,10,FIreland seeing long clear spells,
-OL,11,Fleading to frost and patchy fog. Rather
-OL,12,Fcloudy and breezy further south, so
-OL,13,Fless cold here, but rain reaching parts
-OL,14,Fof Kent and East Anglia.
+OL,7,GToday
+OL,8,FEast Anglia and southeast England
+OL,9,Fchilly and breezy with rain at times.
+OL,10,FScotland and Northern Ireland fine, dry
+OL,11,Fand bright. Wales and the rest of
+OL,12,FEngland rather cloudy at first breaks
+OL,13,Ffor some later, mainly in the north and
+OL,14,Fwest.
 OL,4,                                    1/2 
-OL,16,GMonday
-OL,17,FWet weather fringes Kent and coastal
-OL,18,FEast Anglia for a time. Elsewhere
-OL,19,Fmostly dry, sunny spells developing for
-OL,20,Fmany. The far north turns cloudier and
-OL,21,Fwindier later, with overnight rain.
+OL,16,GTonight
+OL,17,FEvening rain East Anglia and southeast
+OL,18,FEngland slowly fading. Otherwise mainly
+OL,19,Fdry and chilly with rural frost and a
+OL,20,Ffew fog patches. Scotland windy with
+OL,21,Frain in the far north.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E21/10C01:32:12
+OL,0,XXXXXXXXBNMPSERVER2      E21/10C02:32:13
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Tuesday to Thursday
-OL,8,FUnsettled and windy in the northwest
-OL,9,Fwith rain clearing to sunshine and
-OL,10,Fshowers. Morning frost and fog
-OL,11,Felsewhere with sunny spells developing.
-OL,12,FA few showers in the southeast from
-OL,13,FWednesday.
+OL,7,GOutlook for Wednesday to Friday
+OL,8,FMorning fog patches may affect central
+OL,9,Fand southern areas Wednesday morning.
+OL,10,FUnsettled weather with some heavy rain
+OL,11,Fin the northwest extending to remaining
+OL,12,Fparts. Some dry spells in the
+OL,13,Fsoutheast.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
