@@ -4,8 +4,8 @@ DE,Football League Table
 CT,10,T
 PN,32501
 SC,0001
-PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/10C22:03:50
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E22/10C23:17:44
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
@@ -34,8 +34,8 @@ DE,Football League Table
 CT,10,T
 PN,32502
 SC,0002
-PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/10C22:03:50
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E22/10C23:17:44
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
@@ -62,10 +62,10 @@ DS,inserter
 SP,/home/pi/ceefax/
 DE,Football League Table
 CT,10,T
-PN,32502
-SC,0002
-PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/10C22:03:50
+PN,32503
+SC,0003
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E22/10C23:17:44
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
