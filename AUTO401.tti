@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/10C19:33:25
+OL,0,XXXXXXXXBNMPSERVER2      E22/10C20:33:30
 OL,1,T]G           This Evening              
 OL,2,           ^ZS 4`~|}            G 1/2 
 OL,3,           ZS`?0~G11S%  CHeavy Rain     
@@ -20,21 +20,21 @@ OL,11,       ZVnG10VtV+"VG08V B
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" R *u  BSome Cloud
 OL,14,B            ^ZR`  R*G 07R}  B         
-OL,15,B            ^ZRk|R            
+OL,15,B            ^ZRk|U            
 OL,16,B            ^ZR'oG 08R}zt B       
-OL,17,B              ZRj^RG 05R B       
+OL,17,B              ZRj^UG 05R B       
 OL,18,B            ZRx|^G 09R'         
 OL,19,             ^ZR! +/'iUqp0        
-OL,20,EClear       ^ZU  tG 09U/!        
-OL,21,E            ZU zG07U^/s/U/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,20,B            ^ZU  tG 09U/!        
+OL,21,B            ZU zG07U^/s/U/? EClear    
+OL,22,            ZU8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/10C19:33:25
+OL,0,XXXXXXXXBNMPSERVER2      E22/10C20:33:30
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZR 4`~|}            G 2/2 
 OL,3,           ZR`?0~G12R%  BHeavy Rain     
