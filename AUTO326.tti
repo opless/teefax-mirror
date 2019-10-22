@@ -5,21 +5,21 @@ CT,10,T
 PN,32601
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/10C21:32:09
+OL,0,XXXXXXXXBNMPSERVER2      E22/10C22:03:56
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GOct 22 21:27    P  W  D  L   F   A Pts
+OL,6, GOct 22 21:40    P  W  D  L   F   A Pts
 OL,8, G1 Ipswich      12  8  3  1  21   7  27
 OL,9, F2 Wycombe      14  7  6  1  23  14  27
 OL,10,B---------------------------------------
 OL,11, G3 Peterborough 13  7  3  3  30  16  24
 OL,12, F4 Fleetwood    12  7  2  3  24  15  23
 OL,13, G5 Oxford Utd   14  6  4  4  29  18  22
-OL,14, F6 Doncaster    13  6  4  3  20  14  22
+OL,14, F6 Doncaster    13  6  4  3  22  14  22
 OL,15,B---------------------------------------
-OL,16, G7 Sunderland   13  6  4  3  20  15  22
+OL,16, G7 Sunderland   13  6  4  3  21  15  22
 OL,17, F8 Blackpool    14  5  6  3  18  16  21
 OL,18, G9 Coventry     13  5  6  2  16  15  21
 OL,19,F10 Bristol Rove 14  6  3  5  15  16  21
@@ -35,12 +35,12 @@ CT,10,T
 PN,32602
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/10C21:32:09
+OL,0,XXXXXXXXBNMPSERVER2      E22/10C22:03:56
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GOct 22 21:27    P  W  D  L   F   A Pts
+OL,6, GOct 22 21:40    P  W  D  L   F   A Pts
 OL,8,F12 Rotherham    12  5  3  4  19  12  18
 OL,9,G13 Burton       12  5  3  4  16  13  18
 OL,10,F14 Shrewsbury   13  4  6  3  11  14  18
@@ -48,11 +48,11 @@ OL,11,G15 Lincoln City 15  5  2  8  17  20  17
 OL,12,F16 Portsmouth   12  4  4  4  13  12  16
 OL,13,G17 Gillingham   14  3  6  5  19  17  15
 OL,14,F18 Accrington   13  3  5  5  17  21  14
-OL,15,G19 Tranmere     14  3  4  7  17  26  13
-OL,16,F20 MK Dons      14  4  1  9  12  21  13
+OL,15,G19 MK Dons      14  4  1  9  12  21  13
+OL,16,F20 Tranmere     14  3  4  7  17  27  13
 OL,17,B---------------------------------------
 OL,18,G21 Wimbledon    15  3  3  9  19  25  12
-OL,19,F22 Southend     14  1  2 11  15  38   5
+OL,19,F22 Southend     14  1  2 11  15  40   5
 OL,20,G23 Bolton       12  1  4  7   5  28  -5
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
@@ -65,12 +65,12 @@ CT,10,T
 PN,32602
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/10C21:32:09
+OL,0,XXXXXXXXBNMPSERVER2      E22/10C22:03:56
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GOct 22 21:27    P  W  D  L   F   A Pts
+OL,6, GOct 22 21:40    P  W  D  L   F   A Pts
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
