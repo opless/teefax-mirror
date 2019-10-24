@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E24/10C14:34:02
+OL,0,XXXXXXXXBNMPSERVER2      E24/10C16:33:27
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FParts of the south starting foggy,
-OL,9,Fbefore rain arrives, perhaps heavy in
-OL,10,Fthe southeast, where not clearing until
-OL,11,Fevening. Elsewhere patchy rain clearing
-OL,12,Fto sunshine and scattered showers,
-OL,13,Fthese heavy and blustery in the
-OL,14,Fnorthwest, where it will turn colder.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FMany areas becoming dry but with some
-OL,18,Fshowers, these most frequent across the
-OL,19,Fnorthwest, with snow on hills.
-OL,20,FNoticeably chillier, with a touch of
-OL,21,Ffrost in the north
+OL,7,GThis Evening and Tonight
+OL,8,FThis evening any rain in the extreme
+OL,9,Fsoutheast will clear, whilst showers
+OL,10,Fmoving east across central parts will
+OL,11,Fdie out. Most places becoming dry with
+OL,12,Fclear spells although the far north
+OL,13,Fwill become windy with blustery
+OL,14,Fshowers, wintry on hills.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +25,19 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E24/10C14:34:02
+OL,0,XXXXXXXXBNMPSERVER2      E24/10C16:33:27
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Saturday to Monday
-OL,8,FCloudy, outbreaks of rain in south
-OL,9,FSaturday, clearing to dry, bright and
-OL,10,Fcolder weather from Sunday. Sunshine
-OL,11,Fand blustery showers in the north,
-OL,12,Fwintry on hills, becoming drier later,
-OL,13,Fcold.
+OL,8,FHeavy rain across England and Wales
+OL,9,Fclearing slowly southeast on Saturday.
+OL,10,FMuch brighter conditions following
+OL,11,Fsoutheast to all parts, although
+OL,12,Fblustery showers will affect
+OL,13,Fnortheastern areas. Night frosts
+OL,14,Fbecoming widespread.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
