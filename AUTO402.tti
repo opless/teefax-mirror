@@ -5,22 +5,22 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/10C19:46:29
+OL,0,XXXXXXXXBNMPSERVER2      E25/10C20:38:00
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,C
-OL,8,B                   S5CSTATISTICS       
-OL,9,B                   S5C 
-OL,10,B                   S5G   Maximum       
-OL,11,B                   S5GTemperatureC 
-OL,12,B                   S5G                 
-OL,13,B                   S5G   Minumum       
-OL,14,B                   S5GTemperatureC 
-OL,15,B                   S5C                 
-OL,16,B                   S5G
-OL,17,B                   S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BPatchy rain across S5CSTATISTICS       
+OL,9,Bthe far southeast  S5C 
+OL,10,Bsoon clearing. ThenS5G   Maximum       
+OL,11,Ba dry night with   S5GTemperatureC10C 
+OL,12,Blight winds but    S5G                 
+OL,13,Bstill rather cloudyS5G   Minumum       
+OL,14,Bin the south but   S5GTemperatureC1C 
+OL,15,Bclear spells       S5C                 
+OL,16,Bdeveloping in the  S5G
+OL,17,Bnorth.             S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
@@ -32,21 +32,21 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/10C19:46:29
+OL,0,XXXXXXXXBNMPSERVER2      E25/10C20:38:00
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,C
-OL,8,B                   S5CSTATISTICS       
-OL,9,B                   S5C 
-OL,10,B                   S5G   Maximum       
-OL,11,B                   S5GTemperatureC 
-OL,12,B                   S5G                 
-OL,13,B                   S5G   Minumum       
-OL,14,B                   S5GTemperatureC 
-OL,15,B                   S5C                 
-OL,16,B                   S5G
+OL,6,CSATURDAY
+OL,8,BCloud in south     S5CSTATISTICS       
+OL,9,Bclearing then some S5C 
+OL,10,Bgood sunny spells  S5G   Maximum       
+OL,11,Bin the morning. A  S5GTemperatureC10C 
+OL,12,Bfew showers        S5G                 
+OL,13,Bdeveloping in the  S5G   Minumum       
+OL,14,Bafternoon mainly   S5GTemperatureC1C 
+OL,15,Btowards the north  S5C                 
+OL,16,Bcoast.             S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
