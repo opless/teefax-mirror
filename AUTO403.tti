@@ -5,25 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/10C13:34:01
+OL,0,XXXXXXXXBNMPSERVER2      E25/10C14:32:29
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FCold and windy with sunny spells and
-OL,9,Fblustery showers, wintry over hills, in
-OL,10,Fthe north. Rain, heavy at times, along
-OL,11,Fwith strong winds soon reaching Wales
-OL,12,Fand southwest England then moving
-OL,13,Fnortheastwards. Parts of southeast
-OL,14,FEngland may stay dry.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FMild, wet and windy for much of England
-OL,18,Fand Wales. Clearer and colder to the
-OL,19,Fnorth with some frost, but also
-OL,20,Fblustery showers in the far north.
+OL,7,GThis Evening and Tonight
+OL,8,FHeavy rain and strong winds across
+OL,9,FWales and southwest England. Heavy rain
+OL,10,Falso across parts of the Midlands and
+OL,11,Fnorthern England, while southeast
+OL,12,FEngland may stay dry. Cold and windy
+OL,13,Fand some frost in northern UK. Blustery
+OL,14,Fshowers northern Scotland.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +25,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/10C13:34:01
+OL,0,XXXXXXXXBNMPSERVER2      E25/10C14:32:29
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Sunday to Tuesday
-OL,8,FRain clears southeast early Sunday,
-OL,9,Fwith colder, showery weather following
-OL,10,Fto all areas. Risk of gales in the
-OL,11,Fnortheast at first, and southwest
-OL,12,Flater. Frosty by night; chilly by day.
+OL,8,FAlthough blustery showers will continue
+OL,9,Fin the north on Sunday, most places
+OL,10,Fwill be dry and fine throughout apart
+OL,11,Ffrom the odd shower in the east. Frosts
+OL,12,Fovernight; chilly days.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
