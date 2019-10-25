@@ -5,14 +5,14 @@ CT,10,T
 PN,32401
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/10C20:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E25/10C21:32:10
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GOct 25 20:19    P  W  D  L   F   A Pts
+OL,6, GOct 25 21:16    P  W  D  L   F   A Pts
 OL,8, G1 Liverpool     9  8  1  0  21   7  25
-OL,9, F2 Leicester    10  6  2  2  19   8  20
+OL,9, F2 Leicester    10  6  2  2  23   8  20
 OL,10, G3 Man City      9  6  1  2  29   9  19
 OL,11, F4 Chelsea       9  5  2  2  19  14  17
 OL,12,B---------------------------------------
@@ -35,12 +35,12 @@ CT,10,T
 PN,32402
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/10C20:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E25/10C21:32:10
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GOct 25 20:19    P  W  D  L   F   A Pts
+OL,6, GOct 25 21:16    P  W  D  L   F   A Pts
 OL,8,F12 Aston Villa   9  3  2  4  15  13  11
 OL,9,G13 Wolves        9  2  5  2  12  12  11
 OL,10,F14 Man Utd       9  2  4  3  10   9  10
@@ -48,7 +48,7 @@ OL,11,G15 Everton       9  3  1  5   8  13  10
 OL,12,F16 Brighton      9  2  3  4   9  12   9
 OL,13,G17 Newcastle     9  2  2  5   5  14   8
 OL,14,B---------------------------------------
-OL,15,F18 Southampton  10  2  2  6   9  19   8
+OL,15,F18 Southampton  10  2  2  6   9  23   8
 OL,16,G19 Norwich       9  2  1  6  10  21   7
 OL,17,F20 Watford       9  0  4  5   5  21   4
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
