@@ -1,4 +1,4 @@
-DE,Mike Rose Power Station Carousel
+DE,pixelblip Power Station
 DS,inserter
 SP,C:\Teefax\P569Powerstation.tti
 PN,56901
@@ -6,7 +6,7 @@ SC,0001
 PS,8000
 CT,8,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.sn.
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss.
 OL,1,T]   V0 <!  h          5          5     
 OL,2,T]V$ $4$-4 $j$ $ $ $(  1( (,^,Q  V% (,,Q
 OL,3,T]V010501y10;0123^31qb 5`b`sssQ  V5 bssQ
@@ -36,7 +36,7 @@ SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.sTH
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ssH
 OL,1,T]   V0 <!  h          5          5     
 OL,2,T]V$ $4$-4 $j$ $ $ $(  1( (,^,Q  V% (,,Q
 OL,3,T]V010501y10;0123^31qb 5`b`sssQ  V5 bssQ
@@ -64,9 +64,9 @@ OL,24,V]
 PN,56903
 SC,0003
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.s d
+OL,0, XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss
 OL,1,T]     V<!  j          5          5     
 OL,2,T]V$ $5$e4 $j$ $ $ $(  4( (,^,Q  V1 (,,Q
 OL,3,T]V010501y10s0123^31qb 5`b`sssQ  V5 bssQ
