@@ -1,12 +1,12 @@
-DE,Mike Rose Mars 7 Carousel
+DE,pixelblip Mars 7
 DS,inserter
 SP,C:\Teefax\P561Mars7.tti
-PN,56201
+PN,56101
 SC,0001
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
 OL,2,Q~^~~~~~~~~~~~~~||~~l}}(h=-}}}}}}}}}}0mp
 OL,3,Q^~|~]\7]\]\]\`jbj]\o~]\]\++|t
@@ -28,12 +28,12 @@ OL,18,W   Qu&d$     jd&$  (0          ) k4
 OL,19,Q1   *1!       !^    k"`R         Qm```R
 OL,20,W  Q$     $   $       e( (     (     ( (
 OL,21,W         Q! ! !      " " "   " "     " 
-PN,56202
+PN,56102
 SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
 OL,2,Q~^~~~~~~~~||~~~~~~~l}}(h}}}}}=,|}}}}0mp
 OL,3,Q^~]\]\]\4~]\]\]\`jbj]\o~]\]\++|t
@@ -55,12 +55,12 @@ OL,18,W   Qu&d$     jd&$  (0          ) k4
 OL,19,Q1   *1!       !^    k"`R         Qm```R
 OL,20,W  Q$     $   $       e( (     (     ( (
 OL,21,W         Q! ! !      " " "   " "     " 
-PN,56203
+PN,56103
 SC,0003
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
 OL,2,Q~^~~~~~~|~~~~~~~~~~l}}(h}}}}|}}}-m}}0mp
 OL,3,Q^~]\]\]\7}|]\]\`jbj]\o~]\]\++|t
@@ -82,12 +82,12 @@ OL,18,W   Qu&d$     jd&$  (0          ) k4
 OL,19,Q1   *1!       !^    k"`R         Qm```R
 OL,20,W  Q$     $   $       e( (     (     ( (
 OL,21,W         Q! ! !      " " "   " "     " 
-PN,56204
+PN,56104
 SC,0004
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
 OL,2,Q~^~~~||~~~~~~~~~~~~l}}(h}||}}}}}}}=m0mp
 OL,3,Q^~]\]\]\7]\|~`jbj]\o~]\]\++|t
@@ -109,12 +109,12 @@ OL,18,W   Qu&d$     jd&$  (0          ) k4
 OL,19,Q1   *1!       !^    k"`R         Qm```R
 OL,20,W  Q$     $   $       e( (     (     ( (
 OL,21,W         Q! ! !      " " "   " "     " 
-PN,56205
+PN,56105
 SC,0005
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
 OL,2,Q~^~|~~~~~~~~~~~~~>.l}}(h}}}}}}}}}}}}0mp
 OL,3,Q^~]\]\]\7]\]\]\`jbj]\o~]\]\++|t
@@ -136,12 +136,12 @@ OL,18,W   Qu&d$     jd&$  (0          ) k4
 OL,19,Q1   *1!       !^    k"`R         Qm```R
 OL,20,W  Q$     $   $       e( (     (     ( (
 OL,21,W         Q! ! !      " " "   " "     " 
-PN,56206
+PN,56106
 SC,0006
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
 OL,2,Q|^~~~~~~~~~~~~~~~~~,,|(h}}}}}}}}}}}}0mp
 OL,3,Q^~]\]\]\7]\]\]\`jbj]\o~]\]\++|t
@@ -163,12 +163,12 @@ OL,18,W   Qu&d$     jd&$  (0          ) k4
 OL,19,Q1   *1!       !^    k"`R         Qm```R
 OL,20,W  Q$     $   $       e( (     (     ( (
 OL,21,W         Q! ! !      " " "   " "     " 
-PN,56207
+PN,56107
 SC,0007
 PS,8000
 CT,4,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
 OL,2,Q~^~~~~~~~~~~~~~~~~|l}}(h}}}}}}}}}}}}0mp
 OL,3,Q^||]\]\7]\]\]\`jbj]\o~]\]\++|t

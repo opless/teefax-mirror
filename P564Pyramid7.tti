@@ -1,12 +1,12 @@
-DE,Mike Rose Pyramid 7 Carousel
+DE,pixelblip Pyramid 7
 DS,inserter
 SP,C:\Teefax\P564Pyramid7.tti
 PN,56401
 SC,0001
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss 
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
 OL,2,T]Wj]T^]W1Q W1  0       Sh    W0   0    
 OL,3,T]Wj]T^?y{]W& #'! Q"u S"i# W`      Q$p8
@@ -33,7 +33,7 @@ SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss 
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
 OL,2,T]Wj]T^]W1Q W1  0       Sh      W$ 0    
 OL,3,T]Wj]T^?y{]W& #'! Q"u S"i# W` !    Q$p8
@@ -60,7 +60,7 @@ SC,0003
 PS,8000
 CT,8,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss 
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
 OL,2,T]Wj]T^]W1Q W1  0       Sh     W(  0    
 OL,3,T]Wj]T^?y{]W& #'! Q"u S"i# W` "    Q$p8
@@ -87,7 +87,7 @@ SC,0004
 PS,8000
 CT,8,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss 
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
 OL,2,T]Wj]T^]W1Q W1  0       Sh     W"  0    
 OL,3,T]Wj]T^?y{]W& #'! Q"u S"i# W`  !   Q$p8
@@ -114,7 +114,7 @@ SC,0005
 PS,8000
 CT,8,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss 
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
 OL,2,T]Wj]T^]W1Q W1  0       Sh     W!  0    
 OL,3,T]Wj]T^?y{]W& #'! Q"u S"i# W`  "   Q$p8
@@ -141,7 +141,7 @@ SC,0006
 PS,8000
 CT,8,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss 
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
 OL,2,T]Wj]T^]W1Q W1  0       Sh    W"`  0    
 OL,3,T]Wj]T^?y{]W& #'! Q"u S"i# W`      Q$p8
@@ -166,9 +166,9 @@ OL,21,T]       U"#/^/] T0     ##3+///] U)0
 PN,56407
 SC,0007
 PS,8000
-CT,2,T
+CT,8,T
 RE,0
-OL,0,                                        
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
 OL,2,T]Wj]T^]W1Q W1  0       Sh    W$   0    
 OL,3,T]Wj]T^?y{]W& #'! Q"u S"i# W`      Q$p8

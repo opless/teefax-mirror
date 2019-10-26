@@ -1,12 +1,12 @@
-DE,Mike Rose Pepsi Carousel
+DE,pixelblip Pepsi
 DS,inserter
-SP,J:\peter\teefax\P566Pepsi.tti
+SP,C:\Teefax\P566Pepsi.tti
 PN,56601
 SC,0001
 PS,8000
 CT,2,T
 RE,0
-OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. sss
 OL,1,T]                            W$        
 OL,2,T] Wp^pppp0   "!     "            0     
 OL,3,T]       W`p^0      ,Q       W` "  0    
@@ -36,7 +36,7 @@ SC,0002
 PS,8000
 CT,2,T
 RE,0
-OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. sss
 OL,1,T]                            W!        
 OL,2,T] Wp^pppp0   "!     "          ( $     
 OL,3,T]       W`p^0      ,Q       W(0   $    
@@ -66,7 +66,7 @@ SC,0003
 PS,8000
 CT,2,T
 RE,0
-OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. sss
 OL,1,T]                             W`       
 OL,2,T] Wp^pppp0   "!     "            !     
 OL,3,T]       W`p^0      ,Q       W"$   !    
@@ -96,7 +96,7 @@ SC,0004
 PS,8000
 CT,2,T
 RE,0
-OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. sss
 OL,1,T]                               W0     
 OL,2,T] Wp^pppp0   "!     "        `    0    
 OL,3,T]       W`p^0      ,Q      W0 !        
@@ -126,7 +126,7 @@ SC,0005
 PS,8000
 CT,2,T
 RE,0
-OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. sss
 OL,1,T]                               W$     
 OL,2,T] Wp^pppp0   "!     "        "0   $    
 OL,3,T]       W`p^0      ,Q      W$          
@@ -156,7 +156,7 @@ SC,0006
 PS,8000
 CT,2,T
 RE,0
-OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. sss
 OL,1,T]                               W!     
 OL,2,T] Wp^pppp0   "!     "         $   !    
 OL,3,T]       W`p^0      ,Q      W!    0     
@@ -186,7 +186,7 @@ SC,0007
 PS,8000
 CT,2,T
 RE,0
-OL,0,E       TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. sss
 OL,1,T]                                      
 OL,2,T] Wp^pppp0   "!     "       0 !        
 OL,3,T]       W`p^0      ,Q           W$     

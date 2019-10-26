@@ -1,12 +1,12 @@
-DE,Mike Rose Guy Fawkes Night Carousel
+DE,pixelblip Guy Fawkes Night
 DS,inserter
 SP,C:\Teefax\P560Guyfawkesnight.tti
 PN,56001
 SC,0001
 PS,8000
-CT,8,T
+CT,2,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,W       Qh  $     (   "    !  "        (
 OL,2,W          Q!      ( "                `"
 OL,3,W   Q()0          $ `4              `l  
@@ -33,7 +33,7 @@ SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,W          Q$      ( "     $   "     0 (
 OL,2,W   Q0" 0   !       (                 `2
 OL,3,W       Q"  (  (    `0 $           ! (  
@@ -60,7 +60,7 @@ SC,0003
 PS,8000
 CT,6,T
 RE,0
-OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss 
+OL,0, XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss
 OL,1,W          Q$      ( "     $   "     0 (
 OL,2,W   Q0" 0   !       (                 `2
 OL,3,W       Q"  (  (    `0 $           ! (  
@@ -87,7 +87,7 @@ SC,0004
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,W    Q`     $      "                 $ (
 OL,2,W  Q(    $! !  `   0"             `   `*
 OL,3,W          Q$       `p !             (  
@@ -168,7 +168,7 @@ SC,0007
 PS,8000
 CT,8,T
 RE,0
-OL,0,                                        
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,W          Q$  0  ` "  0       `       (
 OL,2,W        Q2 !      `         $        `"
 OL,3,W        Q"       ( `0        $      (  
