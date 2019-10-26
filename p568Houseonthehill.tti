@@ -6,7 +6,7 @@ SC,0001
 PS,8000
 CT,2,T
 RE,0
-OL,0,T]  W]          T`   oup:euj]W0         
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T] Wj]T0  )!     "+,`r}~~ks}o}{]  W5 
 OL,2,T] W}i4]    T|7# ~#! #7!#] W4i" "    5 
 OL,3,T] W]T"+}0       z!p  j/j}t|,r3{]   W`! 
@@ -36,7 +36,7 @@ SC,0002
 PS,8000
 CT,2,T
 RE,0
-OL,0,T]  W]          T`   oup:euj]W0         
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T] Wj]T0    d$   "+,`r}~?~kv}o}{]  W5 
 OL,2,T] W}i4]    T|7# ~#! #7#^] W4i" "    5 
 OL,3,T] W]T"+}0       z!p  j/j}t|8r3{]   W`! 
@@ -66,7 +66,7 @@ SC,0003
 PS,8000
 CT,2,T
 RE,0
-OL,0,T]  W]          T`   oup:euj]W0         
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T] Wj]T0         "+,`r}~?~kz}o}{]  W5 
 OL,2,T] W}i4]    T|7# ~#! #7!#] W4i" "    5 
 OL,3,T] W]T"+}0       z!p  j/j}t|hr3{]   W`! 
@@ -96,7 +96,7 @@ SC,0004
 PS,8000
 CT,2,T
 RE,0
-OL,0,T]  W]          T`   oup:euj]W0         
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T] Wj]T0         "+,`r}~?~kr}o}{]  W5 
 OL,2,T] W}i4]    T|7# ~#! #7!#] W4h" "    5 
 OL,3,T] W]T"+}0  `^   z!p  j/j}t|(r3{]   W`! 
@@ -126,7 +126,7 @@ SC,0005
 PS,8000
 CT,2,T
 RE,0
-OL,0,T]  W]          T`   oup:euj]W0         
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T] Wj]T0         "+,`r}~?~kr}o}{]  W5 
 OL,2,T] W}i4]    T|7# ~#! #7!#] W4i" "    5 
 OL,3,T] W]T"+}0       z!p  j/k}t|(r3{]   W`! 
@@ -156,7 +156,7 @@ SC,0006
 PS,8000
 CT,2,T
 RE,0
-OL,0,T]  W]          T`   oup:euj]W0         
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T] Wj]T0         "+,`r}~?~kr}o}{]  W5 
 OL,2,T] W}i4]    T|7# ~#! #7!#] W4!" "    5 
 OL,3,T] W]T"+}0       z!p  j/n}t|(r3{]   W`! 
@@ -186,7 +186,7 @@ SC,0007
 PS,8000
 CT,2,T
 RE,0
-OL,0,T]  W]       T0^ `   oup:euj]W0         
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T] Wj]T0      "  "+,`r}~?~kr}o}{]  W5 
 OL,2,T] W}i4]    T|7# ~#! #7!#] W4i" "    5 
 OL,3,T] W]T"+}0       z!p  j/z}t|(r3{]   W`! 
