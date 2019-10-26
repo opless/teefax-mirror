@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/10C01:35:25
+OL,0,XXXXXXXXBNMPSERVER2      E26/10C02:33:07
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FHeavy rain and strong winds across
-OL,9,FWales and southwest England. Heavy rain
-OL,10,Falso across parts of the Midlands and
-OL,11,Fnorthern England, while southeast
-OL,12,FEngland may stay dry. Cold and windy
-OL,13,Fand some frost in northern UK. Blustery
-OL,14,Fshowers northern Scotland.
+OL,7,GToday
+OL,8,FHeavy rain clearing slowly
+OL,9,Fsoutheastwards from England and Wales.
+OL,10,FColder conditions with sunny spells
+OL,11,Ffollowing, but also scattered showers,
+OL,12,Fthese frequent in the northwest. Windy
+OL,13,Fin the south at first, and also in the
+OL,14,Ffar north.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FRain finally clearing the southeast
+OL,18,Faround midnight, to leave a dry night
+OL,19,Fwith clear periods and colder than
+OL,20,Frecently. Windy with showers in the
+OL,21,Fnorth and gales on some coasts.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/10C01:35:25
+OL,0,XXXXXXXXBNMPSERVER2      E26/10C02:33:07
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FAlthough blustery showers will continue
-OL,9,Fin the north on Sunday, most places
-OL,10,Fwill be dry and fine throughout apart
-OL,11,Ffrom the odd shower in the east. Frosts
-OL,12,Fovernight; chilly days.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FLargely settled with sunny spells for
+OL,9,Fmost. Just the odd shower in the east
+OL,10,Fand northeast. Rather cold with
+OL,11,Fovernight frosts. Possibly turning more
+OL,12,Funsettled from the southwest midweek.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
