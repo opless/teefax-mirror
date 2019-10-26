@@ -5,25 +5,25 @@ CT,10,T
 PN,32401
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/10C00:02:22
+OL,0,XXXXXXXXBNMPSERVER2      E26/10C13:02:25
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GOct 25 23:53    P  W  D  L   F   A Pts
+OL,6, GOct 26 12:30    P  W  D  L   F   A Pts
 OL,8, G1 Liverpool     9  8  1  0  21   7  25
-OL,9, F2 Leicester    10  6  2  2  25   8  20
-OL,10, G3 Man City      9  6  1  2  29   9  19
+OL,9, F2 Man City     10  6  2  2  29   9  20
+OL,10, G3 Leicester    10  6  2  2  25   8  20
 OL,11, F4 Chelsea       9  5  2  2  19  14  17
 OL,12,B---------------------------------------
 OL,13, G5 Arsenal       9  4  3  2  13  12  15
 OL,14,B---------------------------------------
 OL,15, F6 C Palace      9  4  2  3   8  10  14
-OL,16, G7 Tottenham     9  3  3  3  15  13  12
-OL,17, F8 Burnley       9  3  3  3  12  11  12
-OL,18, G9 Sheff Utd     9  3  3  3   8   7  12
-OL,19,F10 Bournemouth   9  3  3  3  13  13  12
-OL,20,G11 West Ham      9  3  3  3  11  13  12
+OL,16, G7 Aston Villa  10  3  3  4  15  13  12
+OL,17, F8 Tottenham     9  3  3  3  15  13  12
+OL,18, G9 Burnley       9  3  3  3  12  11  12
+OL,19,F10 Sheff Utd     9  3  3  3   8   7  12
+OL,20,G11 Bournemouth   9  3  3  3  13  13  12
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
@@ -35,13 +35,13 @@ CT,10,T
 PN,32402
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/10C00:02:22
+OL,0,XXXXXXXXBNMPSERVER2      E26/10C13:02:25
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GOct 25 23:53    P  W  D  L   F   A Pts
-OL,8,F12 Aston Villa   9  3  2  4  15  13  11
+OL,6, GOct 26 12:30    P  W  D  L   F   A Pts
+OL,8,F12 West Ham      9  3  3  3  11  13  12
 OL,9,G13 Wolves        9  2  5  2  12  12  11
 OL,10,F14 Man Utd       9  2  4  3  10   9  10
 OL,11,G15 Everton       9  3  1  5   8  13  10
