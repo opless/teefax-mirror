@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/10C01:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E27/10C01:36:37
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BClear periods and  S5CSTATISTICS       
-OL,9,Bfurther showers.   S5C 
-OL,10,BThe showers mostly S5G   Maximum       
-OL,11,Btowards the north  S5GTemperatureC10C 
-OL,12,Band west with      S5G                 
-OL,13,BCounty Down stayingS5G   Minumum       
-OL,14,Bmostly dry and     S5GTemperatureC2C 
-OL,15,Bclear. Strong      S5C                 
-OL,16,Bwesterly winds     S5G
-OL,17,Beasing down by     S5G
-OL,18,Bmorning.           S5G                 
-OL,19,B                   S5G
-OL,20,B                   S5G
+OL,6,CTODAY
+OL,8,BA cold day, but    S5CSTATISTICS       
+OL,9,Blargely dry with   S5C 
+OL,10,Bplenty of crisp    S5G   Maximum       
+OL,11,Bautumn sunshine. A S5GTemperatureC11C 
+OL,12,Bfew isolated       S5G                 
+OL,13,Bshowers are        S5G   Minumum       
+OL,14,Bpossible along the S5GTemperatureC-4C 
+OL,15,Bnorth coast.       S5C                 
+OL,16,BNorthwest winds,   S5G
+OL,17,Bfresh at first     S5G
+OL,18,Balong the north    S5G                 
+OL,19,Bcoast, will ease   S5G
+OL,20,Bthrough the day.   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/10C01:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E27/10C01:36:37
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSUNDAY
-OL,8,BMainly dry with    S5CSTATISTICS       
-OL,9,Bplenty of sunshine S5C 
-OL,10,Bbut still a few    S5G   Maximum       
-OL,11,Blight showers      S5GTemperatureC10C 
-OL,12,Btowards the North  S5G                 
-OL,13,BCoast.             S5G   Minumum       
-OL,14,BNorthwesterly windsS5GTemperatureC2C 
-OL,15,Bbecoming light.    S5C                 
-OL,16,B                   S5G
-OL,17,B                   S5G
-OL,18,B                   S5G                 
+OL,6,CTONIGHT
+OL,8,BA mainly dry       S5CSTATISTICS       
+OL,9,Bevening and night  S5C 
+OL,10,Bwith clear spells. S5G   Maximum       
+OL,11,BA few showers      S5GTemperatureC11C 
+OL,12,Bpossible along the S5G                 
+OL,13,Bnorth coast,       S5G   Minumum       
+OL,14,Botherwise dry.     S5GTemperatureC-4C 
+OL,15,BLight winds will   S5C                 
+OL,16,Ballow a widespread S5G
+OL,17,Bfrost to form      S5G
+OL,18,Bovernight.         S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
