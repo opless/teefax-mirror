@@ -5,24 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/10C13:34:28
+OL,0,XXXXXXXXBNMPSERVER2      E27/10C14:35:23
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FFine and dry with long sunny spells in
-OL,9,Fcentral and southern UK. Showers in the
-OL,10,Fnorth, these heaviest and most frequent
-OL,11,Facross Scotland with coastal gales in
-OL,12,FNE.
-OL,4,                                    1/2 
-OL,14,GTonight
-OL,15,FLong clear periods with daytime showers
-OL,16,Fbecoming confined to coastal counties
-OL,17,Fof Scotland, Northern Ireland and north
-OL,18,FWales. Cold for many with some frost
-OL,19,Fand a few fog patches.
+OL,7,GThis Evening and Tonight
+OL,8,FScattered showers in the north, most
+OL,9,Ffrequent near coasts in north and
+OL,10,Fnortheast Scotland, with a little snow
+OL,11,Fon higher hills. Elsewhere long clear
+OL,12,Fspells leading to a fairly widespread
+OL,13,Ffrost and also fog patches in some
+OL,14,Fareas.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,17 +25,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/10C13:34:28
+OL,0,XXXXXXXXBNMPSERVER2      E27/10C14:35:23
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FRather cold with sunny spells and a few
-OL,9,Fshowers through Tuesday and much of
-OL,10,FWednesday with some frost overnight.
-OL,11,FRain and strong winds spreading from
-OL,12,Fthe west on Thursday.
+OL,8,FDry and chilly with sunny spells on
+OL,9,FTuesday. Cloudier with some rain at
+OL,10,Ftimes in the south-west, this slowly
+OL,11,Fspreading to most areas by Thursday.
+OL,12,FBecoming windy in western areas.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
