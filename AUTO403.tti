@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/10C02:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E28/10C03:34:42
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FScattered showers in the north, most
-OL,9,Ffrequent near coasts in north and
-OL,10,Fnortheast Scotland, with a little snow
-OL,11,Fon higher hills. Elsewhere long clear
-OL,12,Fspells leading to a fairly widespread
-OL,13,Ffrost and also fog patches in some
-OL,14,Fareas.
+OL,7,GToday
+OL,8,FMost areas bright with long periods of
+OL,9,Fsunshine, albeit hazy across southern
+OL,10,FEngland. Most parts dry, but some
+OL,11,Fshowers over northern Scotland and the
+OL,12,Ffar east of England. Cloudier and windy
+OL,13,Fover Cornwall where rain at times for
+OL,14,Fsome.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FAnother cold night with a touch of
+OL,18,Ffrost for many. Most areas dry, but a
+OL,19,Ffew showers over northern and eastern
+OL,20,FScotland and eastern England. Windy in
+OL,21,Fthe far southwest.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/10C02:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E28/10C03:34:42
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Tuesday to Thursday
-OL,8,FDry and chilly with sunny spells on
-OL,9,FTuesday. Cloudier with some rain at
-OL,10,Ftimes in the south-west, this slowly
-OL,11,Fspreading to most areas by Thursday.
-OL,12,FBecoming windy in western areas.
+OL,7,GOutlook for Wednesday to Friday
+OL,8,FAreas of extensive cloud, rain and
+OL,9,Fdrizzle push northeast, replacing the
+OL,10,Fcold and clear conditions seen on
+OL,11,Fprevious days. Temperatures will
+OL,12,Fgradually recover to near average.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
