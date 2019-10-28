@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/10C00:38:24
+OL,0,XXXXXXXXBNMPSERVER2      E28/10C01:33:50
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BA mainly dry       S5CSTATISTICS       
-OL,9,Bevening and night  S5C 
-OL,10,Bwith clear spells. S5G   Maximum       
-OL,11,BA few showers      S5GTemperatureC10C 
-OL,12,Bpossible along     S5G                 
-OL,13,Bnorthern and       S5G   Minumum       
-OL,14,Beastern coasts,    S5GTemperatureC-4C 
-OL,15,Botherwise dry.     S5C                 
-OL,16,BLight winds will   S5G
-OL,17,Ballow a widespread S5G
-OL,18,Bfrost to form      S5G                 
-OL,19,Bovernight, as well S5G
-OL,20,Bas some areas of   S5G
+OL,6,CTODAY
+OL,8,BA frosty start willS5CSTATISTICS       
+OL,9,Blead to a cold     S5C 
+OL,10,Bmainly dry day withS5G   Maximum       
+OL,11,Bplenty of sunshine,S5GTemperatureC10C 
+OL,12,Bjust a few isolatedS5G                 
+OL,13,Bshowers possible   S5G   Minumum       
+OL,14,Bnear the north     S5GTemperatureC-3C 
+OL,15,Bcoast. Light north S5C                 
+OL,16,Bbecoming northeast S5G
+OL,17,Bwinds.             S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,22 +32,22 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/10C00:38:24
+OL,0,XXXXXXXXBNMPSERVER2      E28/10C01:33:50
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CMONDAY
-OL,8,BA cold mainly dry  S5CSTATISTICS       
-OL,9,Bday with plenty of S5C 
-OL,10,Bsunshine, just a   S5G   Maximum       
-OL,11,Bfew isolated       S5GTemperatureC10C 
-OL,12,Bshowers possible   S5G                 
-OL,13,Bnear the north     S5G   Minumum       
-OL,14,Bcoast. Light north S5GTemperatureC-4C 
-OL,15,Bbecoming northeast S5C                 
-OL,16,Bwinds.             S5G
-OL,17,B                   S5G
+OL,6,CTONIGHT
+OL,8,BDry with clear     S5CSTATISTICS       
+OL,9,Bskies and light    S5C 
+OL,10,Bnortheasterly windsS5G   Maximum       
+OL,11,Bthrough this       S5GTemperatureC10C 
+OL,12,Bevening and        S5G                 
+OL,13,Bovernight. This    S5G   Minumum       
+OL,14,Bwill lead to       S5GTemperatureC-3C 
+OL,15,Banother cold night S5C                 
+OL,16,Bwith a widespread  S5G
+OL,17,Bfrost.             S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
