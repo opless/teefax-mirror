@@ -5,19 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/10C01:32:16
+OL,0,XXXXXXXXBNMPSERVER2      E29/10C02:33:18
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FMost parts seeing clear periods leading
-OL,9,Fto frost and patchy rural fog. However
-OL,10,Fsome coastal fringes in the east and
-OL,11,Ffar north will be cloudier with
-OL,12,Fscattered showers, while the far
-OL,13,Fsouthwest will be cloudy with
-OL,14,Fintermittent rain
+OL,7,GToday
+OL,8,FA cold start then most areas dry with
+OL,9,Flong spells of sunshine, albeit hazy
+OL,10,Fover southern England. Expect some
+OL,11,Fshowers over eastern parts of England,
+OL,12,FScotland and Northern Ireland whilst
+OL,13,Ffar southwest England will be windy
+OL,14,Fwith rain at times.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FAnother cold, dry and frosty night for
+OL,18,Fmany with a few fog patches about by
+OL,19,Fdawn whilst southwest England remains
+OL,20,Fcloudy and windy with rain at times.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,18 +31,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/10C01:32:16
+OL,0,XXXXXXXXBNMPSERVER2      E29/10C02:33:18
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FCold, settled weather slowly giving way
-OL,9,Fto wind, outbreaks of rain and
-OL,10,Fextensive low cloud spreading northeast
-OL,11,Fthrough Wednesday and Thursday.
-OL,12,FOvernight frosts in the north
-OL,13,Finitially, becoming widely mild.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FBright but cold on Thursday in the
+OL,9,Fnortheast. Milder, murky conditions in
+OL,10,Fthe southwest with some rain extending
+OL,11,Fnortheast to all parts by Friday.
+OL,12,FGenerally unsettled and windy on
+OL,13,FSaturday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
