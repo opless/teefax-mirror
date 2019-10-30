@@ -5,23 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/10C01:33:48
+OL,0,XXXXXXXXBNMPSERVER2      E30/10C02:31:56
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FA few showers in the east, else most
-OL,9,Fparts dry. Frost and a few fog patches
-OL,10,Fdeveloping in the north. Windy in the
-OL,11,Fsouthwest with rain at times.
-OL,4,                                    1/2 
-OL,13,GWednesday
-OL,14,FCentral, northern and eastern areas
-OL,15,Fmostly dry with sunny spells after a
-OL,16,Fcold start. Cloudy and windy in the
-OL,17,Fsouthwest with rain edging slowly
-OL,18,Fnortheastwards.
+OL,7,GToday
+OL,8,FRain will continue at times across
+OL,9,Fparts of southwest England, perhaps
+OL,10,Fheavy in the far southwest. Otherwise,
+OL,11,Fapart from the odd shower near to
+OL,12,Feast-facing coasts, most areas fine
+OL,13,Fwith some sunshine after any fog
+OL,14,Fclears.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -29,18 +25,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/10C01:33:48
+OL,0,XXXXXXXXBNMPSERVER2      E30/10C02:31:56
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
-OL,8,FCloud and rain in the southwest
-OL,9,Fspreading northeast, reaching all parts
-OL,10,Fby Friday evening. Clearing east
-OL,11,FSaturday to a mixture of rain, showers
-OL,12,Fand drier spells, with locally strong
-OL,13,Fwinds.
+OL,7,GOutlook for Friday to Sunday
+OL,8,FMany areas starting fine with patchy
+OL,9,Fnight frost. Rain and misty conditions
+OL,10,Fin southwest England will become more
+OL,11,Fwidespread by Friday, before heavy rain
+OL,12,Fand gales sweep in for Saturday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
