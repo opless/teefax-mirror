@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E30/10C03:32:00
+OL,0,XXXXXXXXBNMPSERVER2      E30/10C04:34:58
 OL,1,T]G        Wednesday Evening            
 OL,2,           ^ZU 4`~|}            G 1/2 
 OL,3,           ZU`?0~G00U%  EMisty          
@@ -15,11 +15,11 @@ OL,6,            ZV!'~G03V!FCloudy
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZS*y?sp  CClear         
 OL,9,           ^ZSj)"G 03S}  C             
-OL,10,       ^ZVp|t SxVg0 B             
-OL,11,       ZVnG08VtS+"VG04V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BSome Cloud
-OL,14,B            ^ZV`  R*G 07R}  B         
+OL,10,       ^ZVp|t SxRg0 BSome Cloud   
+OL,11,       ZVnG08VtS+"RG04R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  B          
+OL,14,B            ^ZV`  R*G 07R} B          
 OL,15,B            ^ZVk|R            
 OL,16,B            ^ZV'oG 04R}zt B       
 OL,17,B              ZVj^RG 06R B       
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E30/10C03:32:00
+OL,0,XXXXXXXXBNMPSERVER2      E30/10C04:34:58
 OL,1,T]G             Thursday                
 OL,2,           ^ZR 4`~|}            G 2/2 
 OL,3,           ZR`?0~G08R%  B               
