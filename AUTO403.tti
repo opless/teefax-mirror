@@ -5,24 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/11C01:34:43
+OL,0,XXXXXXXXBNMPSERVER2      E01/11C02:32:52
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FFog patches and a frost in northern
-OL,9,FScotland at first, else cloudier skies
-OL,10,Fand outbreaks of rain and drizzle in
-OL,11,Fthe west moving east to all but the far
-OL,12,Fnorth by morning.
+OL,7,GToday
+OL,8,FBands of rain and drizzle moving
+OL,9,Fnortheastwards across most parts,
+OL,10,Faccompanied by low cloud, mist and hill
+OL,11,Ffog. Some bright interludes are
+OL,12,Fpossible too, mainly in the south, and
+OL,13,Fit will feel milder than recently.
 OL,4,                                    1/2 
-OL,14,GFriday
-OL,15,FMostly cloudy with bands of rain moving
-OL,16,Feastwards across most areas. Some drier
-OL,17,Fand brighter intervals to the east of
-OL,18,Fthe hills of Wales and southwest
-OL,19,FEngland. Milder than recently.
+OL,15,GTonight
+OL,16,FFurther rain affecting many areas,
+OL,17,Fheavy in places. Clearer weather
+OL,18,Ffollowing from the southwest before
+OL,19,Fblustery showers develop. Gales
+OL,20,Fdeveloping in the southwest, severe
+OL,21,Flater.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,18 +32,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/11C01:34:43
+OL,0,XXXXXXXXBNMPSERVER2      E01/11C02:32:52
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Saturday to Monday
-OL,8,FUnsettled with spells of heavy rain
-OL,9,Finterspersed with bright spells and
-OL,10,Fshowers. Windy for many with coastal
-OL,11,Fgales. Gradually turning drier,
-OL,12,Fbrighter and colder from the northwest
-OL,13,Fon Monday.
+OL,7,GOutlook for Sunday to Tuesday
+OL,8,FRemaining unsettled with areas of rain
+OL,9,Fand strong winds at first, gradually
+OL,10,Fclearing away south-eastwards to drier,
+OL,11,Fbrighter and colder conditions with a
+OL,12,Ffew wintry showers on Scottish
+OL,13,Fmountains.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
