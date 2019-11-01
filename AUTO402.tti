@@ -5,22 +5,22 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/11C02:32:52
+OL,0,XXXXXXXXBNMPSERVER2      E01/11C03:31:51
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BWidespread rain    S5CSTATISTICS       
-OL,9,Bwill spread        S5C 
-OL,10,Bnortheast across   S5G   Maximum       
-OL,11,Ball parts this     S5GTemperatureC11C 
-OL,12,Bevening. Then a    S5G                 
-OL,13,Bcloudy and damp    S5G   Minumum       
-OL,14,Bnight to come but  S5GTemperatureC7C 
-OL,15,Brain easing off    S5C                 
-OL,16,Bacross the south   S5G
-OL,17,Blater.             S5G
+OL,6,CTODAY
+OL,8,BA cloudy day with  S5CSTATISTICS       
+OL,9,Brain at times, moreS5C 
+OL,10,Bespecially later inS5G   Maximum       
+OL,11,Bthe afternoon when S5GTemperatureC13C 
+OL,12,Bit may turn brieflyS5G                 
+OL,13,Bheavy. Feeling a   S5G   Minumum       
+OL,14,Blittle milder than S5GTemperatureC4C 
+OL,15,Bof late.           S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
@@ -32,21 +32,21 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/11C02:32:52
+OL,0,XXXXXXXXBNMPSERVER2      E01/11C03:31:51
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CFRIDAY
-OL,8,BA cloudy day with  S5CSTATISTICS       
-OL,9,Brain at times, moreS5C 
-OL,10,Bespecially in the  S5G   Maximum       
-OL,11,Bafternoon when it  S5GTemperatureC11C 
-OL,12,Bmay turn briefly   S5G                 
-OL,13,Bheavy. A little    S5G   Minumum       
-OL,14,Bmilder than of     S5GTemperatureC7C 
-OL,15,Blate.              S5C                 
-OL,16,B                   S5G
+OL,6,CTONIGHT
+OL,8,BRain this evening, S5CSTATISTICS       
+OL,9,Bheavy at times.    S5C 
+OL,10,BTurning mainly dry S5G   Maximum       
+OL,11,Bin the early hours S5GTemperatureC13C 
+OL,12,Bwith cloud breakingS5G                 
+OL,13,Bto allow some mist S5G   Minumum       
+OL,14,Band fog patches,   S5GTemperatureC4C 
+OL,15,Bespecially in the  S5C                 
+OL,16,Beast.              S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
