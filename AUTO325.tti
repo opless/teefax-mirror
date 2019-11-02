@@ -5,17 +5,17 @@ CT,10,T
 PN,32501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/11C00:35:48
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C12:32:20
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BCHAMPIONSHIP 
-OL,6, GNov 01 21:46    P  W  D  L   F   A Pts
+OL,6, GNov 02 12:30    P  W  D  L   F   A Pts
 OL,8, G1 West Brom    14  7  6  1  26  17  27
-OL,9, F2 Preston      14  7  4  3  27  16  25
+OL,9, F2 Swansea      15  7  5  3  18  13  26
 OL,10,B---------------------------------------
-OL,11, G3 Leeds        14  7  4  3  17   8  25
-OL,12, F4 Swansea      14  7  4  3  18  13  25
+OL,11, G3 Preston      14  7  4  3  27  16  25
+OL,12, F4 Leeds        14  7  4  3  17   8  25
 OL,13, G5 Bristol City 15  6  7  2  24  21  25
 OL,14, F6 Sheff Wed    14  7  3  4  18  10  24
 OL,15,B---------------------------------------
@@ -35,19 +35,19 @@ CT,10,T
 PN,32502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/11C00:35:48
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C12:32:20
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BCHAMPIONSHIP 
-OL,6, GNov 01 21:46    P  W  D  L   F   A Pts
+OL,6, GNov 02 12:30    P  W  D  L   F   A Pts
 OL,8,F12 Brentford    14  6  3  5  18  12  21
 OL,9,G13 Hull         14  5  4  5  20  20  19
 OL,10,F14 Cardiff      14  4  6  4  19  20  18
 OL,11,G15 Millwall     14  4  6  4  16  19  18
 OL,12,F16 Derby        14  4  6  4  16  20  18
-OL,13,G17 Blackburn    14  4  3  7  17  21  15
-OL,14,F18 Wigan        14  4  3  7  12  19  15
+OL,13,G17 Wigan        15  4  4  7  12  19  16
+OL,14,F18 Blackburn    14  4  3  7  17  21  15
 OL,15,G19 Luton        14  4  2  8  21  25  14
 OL,16,F20 H'field      14  3  4  7  16  21  13
 OL,17,G21 Reading      13  3  3  7  14  19  12
@@ -65,12 +65,12 @@ CT,10,T
 PN,32503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/11C00:35:48
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C12:32:20
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BCHAMPIONSHIP 
-OL,6, GNov 01 21:46    P  W  D  L   F   A Pts
+OL,6, GNov 02 12:30    P  W  D  L   F   A Pts
 OL,8,F24 Stoke        14  2  2 10  13  25   8
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
