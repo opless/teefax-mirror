@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/11C08:09:34
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C11:38:13
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BPerhaps a few mist S5CSTATISTICS       
-OL,9,Bor fog patches thisS5C 
-OL,10,Bmorning but most   S5G   Maximum       
-OL,11,Bwill be dry with   S5GTemperatureC12C 
-OL,12,Bsome sunshine.     S5G                 
-OL,13,BPossibly an east   S5G   Minumum       
-OL,14,Bcoast shower.      S5GTemperatureC3C 
-OL,15,BCloudier skies and S5C                 
-OL,16,Boccasional rain    S5G
-OL,17,Bwill affect        S5G
-OL,18,BFermanagh,         S5G                 
-OL,19,Bextending east to  S5G
-OL,20,BArmagh later. LightS5G
+OL,6,C
+OL,8,B                   S5CSTATISTICS       
+OL,9,B                   S5C 
+OL,10,B                   S5G   Maximum       
+OL,11,B                   S5GTemperatureC 
+OL,12,B                   S5G                 
+OL,13,B                   S5G   Minumum       
+OL,14,B                   S5GTemperatureC 
+OL,15,B                   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/11C08:09:34
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C11:38:13
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BCloud and light    S5CSTATISTICS       
-OL,9,Brain in southern   S5C 
-OL,10,Bcounties soon      S5G   Maximum       
-OL,11,Bclearing this      S5GTemperatureC12C 
-OL,12,Bevening. Then      S5G                 
-OL,13,Bmostly dry with    S5G   Minumum       
-OL,14,Bsome clear spells, S5GTemperatureC3C 
-OL,15,Bpatchy fog, though S5C                 
-OL,16,Ba few showers      S5G
-OL,17,Bpossible in the    S5G
-OL,18,Bnorthwest.         S5G                 
+OL,6,C
+OL,8,B                   S5CSTATISTICS       
+OL,9,B                   S5C 
+OL,10,B                   S5G   Maximum       
+OL,11,B                   S5GTemperatureC 
+OL,12,B                   S5G                 
+OL,13,B                   S5G   Minumum       
+OL,14,B                   S5GTemperatureC 
+OL,15,B                   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
