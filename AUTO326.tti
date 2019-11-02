@@ -5,25 +5,25 @@ CT,10,T
 PN,32601
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E31/10C20:10:02
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C17:43:11
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GOct 31 19:48    P  W  D  L   F   A Pts
-OL,8, G1 Ipswich      14  9  3  2  24  10  30
-OL,9, F2 Wycombe      15  8  6  1  24  14  30
+OL,6, GNov 02 17:00    P  W  D  L   F   A Pts
+OL,8, G1 Wycombe      16  9  6  1  25  14  33
+OL,9, F2 Ipswich      14  9  3  2  24  10  30
 OL,10,B---------------------------------------
-OL,11, G3 Peterborough 15  8  4  3  36  18  28
-OL,12, F4 Fleetwood    14  8  2  4  26  17  26
-OL,13, G5 Oxford Utd   15  7  4  4  32  18  25
-OL,14, F6 Coventry     15  6  7  2  20  18  25
+OL,11, G3 Peterborough 16  8  4  4  39  22  28
+OL,12, F4 Oxford Utd   16  7  5  4  33  19  26
+OL,13, G5 Fleetwood    15  8  2  5  27  19  26
+OL,14, F6 Coventry     16  6  8  2  20  18  26
 OL,15,B---------------------------------------
-OL,16, G7 Doncaster    13  6  4  3  22  14  22
-OL,17, F8 Sunderland   14  6  4  4  21  16  22
-OL,18, G9 Blackpool    15  5  7  3  18  16  22
-OL,19,F10 Bristol Rove 15  6  4  5  17  18  22
-OL,20,G11 Rotherham    14  6  3  5  21  13  21
+OL,16, G7 Sunderland   15  7  4  4  22  16  25
+OL,17, F8 Blackpool    16  6  7  3  22  19  25
+OL,18, G9 Bristol Rove 16  7  4  5  19  19  25
+OL,19,F10 Rotherham    15  7  3  5  24  13  24
+OL,20,G11 Doncaster    14  6  5  3  24  16  23
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
@@ -35,25 +35,25 @@ CT,10,T
 PN,32602
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E31/10C20:10:02
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C17:43:11
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GOct 31 19:48    P  W  D  L   F   A Pts
-OL,8,F12 Shrewsbury   14  5  6  3  12  14  21
-OL,9,G13 Burton       13  5  4  4  16  13  19
-OL,10,F14 Rochdale     15  5  4  6  19  25  19
-OL,11,G15 Gillingham   15  4  6  5  20  17  18
-OL,12,F16 Portsmouth   13  4  5  4  15  14  17
-OL,13,G17 Lincoln City 15  5  2  8  17  20  17
-OL,14,F18 Accrington   15  3  5  7  17  26  14
-OL,15,G19 Tranmere     14  3  4  7  17  27  13
-OL,16,F20 MK Dons      15  4  1 10  12  22  13
+OL,6, GNov 02 17:00    P  W  D  L   F   A Pts
+OL,8,F12 Shrewsbury   15  5  6  4  12  15  21
+OL,9,G13 Burton       14  5  5  4  18  15  20
+OL,10,F14 Rochdale     16  5  4  7  20  27  19
+OL,11,G15 Portsmouth   14  4  6  4  16  15  18
+OL,12,F16 Gillingham   16  4  6  6  20  20  18
+OL,13,G17 Lincoln City 16  5  3  8  18  21  18
+OL,14,F18 Tranmere     15  4  4  7  20  28  16
+OL,15,G19 Accrington   16  3  6  7  17  26  15
+OL,16,F20 Wimbledon    16  3  4  9  20  26  13
 OL,17,B---------------------------------------
-OL,18,G21 Wimbledon    15  3  3  9  19  25  12
-OL,19,F22 Southend     15  1  2 12  16  43   5
-OL,20,G23 Bolton       12  1  4  7   5  28  -5
+OL,18,G21 MK Dons      16  4  1 11  13  25  13
+OL,19,F22 Southend     16  1  2 13  16  44   5
+OL,20,G23 Bolton       13  2  4  7   7  29  -2
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
@@ -65,12 +65,12 @@ CT,10,T
 PN,32603
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E31/10C20:10:02
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C17:43:11
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GOct 31 19:48    P  W  D  L   F   A Pts
+OL,6, GNov 02 17:00    P  W  D  L   F   A Pts
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 

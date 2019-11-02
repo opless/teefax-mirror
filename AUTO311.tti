@@ -1,29 +1,30 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 311 Rangers
+DE,Sport Page 311 Championship
 CT,10,T
 PN,31100
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E02/11C14:32:25
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C17:41:25
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BRangers announce #11.3m annual loss,
-OL,5,Bwith turnover up 63%
-OL,6, Rangers have announced a loss of
-OL,7, &pound;11.3m for the year ending 30
-OL,8, June, a decrease of &pound;3m from the
-OL,9, previous 12 months.
-OL,11,FTurnover has risen by 63% to
-OL,12,F&pound;53.2m, up from &pound;32.6m due
-OL,13,Fto reaching the Europa League group
-OL,14,Fstage and record season-ticket sales.
-OL,16,FStaff costs increased from &pound;24.1m
-OL,17,Fto &pound;34.5m and cash spent on
-OL,18,Fplayer signings rose from &pound;15.1m
-OL,19,Fto &pound;23m.
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BLeeds United 2-0 Queens Park Rangers:
+OL,5,BTyler Roberts & Jack Harrison send
+OL,6,BWhites top
+OL,7, Leeds United returned to the summit of
+OL,8, the Championship table with a
+OL,9, hard-fought home victory over Queens
+OL,10, Park Rangers.
+OL,12,FTyler Roberts put the hosts in front
+OL,13,Fbefore half-time, slotting in from the
+OL,14,Fedge of the box after being teed up by
+OL,15,FJack Harrison.
+OL,17,FHarrison then capitalised on a mix-up
+OL,18,Fin the QPR backline to fire home and
+OL,19,Fmake the game safe in the final 10
+OL,20,Fminutes.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,312,302,301,300,8FF,199
