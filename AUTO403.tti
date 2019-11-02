@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/11C02:32:10
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C03:30:51
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FFurther rain for many areas, heavy in
-OL,9,Fplaces. Clearer weather following for
-OL,10,FEngland/Wales and Northern Ireland.
-OL,11,FBecoming windier, particularly in the
-OL,12,Fsouthwest with some very strong winds
-OL,13,Fhere at the end of the night.
+OL,7,GToday
+OL,8,FVery windy in the south, particularly
+OL,9,Fover south-west England and southern
+OL,10,Fcoasts. Further rain for many areas,
+OL,11,Fmost persistent in the southwest, Wales
+OL,12,Fand far north. Northern Ireland and
+OL,13,Fsouthern Scotland drier with sunny
+OL,14,Fspells.
 OL,4,                                    1/2 
-OL,15,GSaturday
-OL,16,FVery windy in the south, particularly
-OL,17,Fover southwest England and southern
-OL,18,Fcoasts. Further rain for many, most
-OL,19,Fpersistent in the southwest and far
-OL,20,Fnorth. Northern Ireland and southern
-OL,21,FScotland drier.
+OL,16,GTonight
+OL,17,FFurther rain across northern areas, as
+OL,18,Fwell as in Wales, whilst blustery
+OL,19,Fshowers affect other southern areas.
+OL,20,FClear spells developing over Northern
+OL,21,FIreland with a few fog patches.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/11C02:32:10
+OL,0,XXXXXXXXBNMPSERVER2      E02/11C03:30:51
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FStaying unsettled with further rain or
-OL,9,Fshowers Sunday and Monday, and often
-OL,10,Fwindy, though some brighter, calmer
-OL,11,Finterludes also likely. Becoming
-OL,12,Fbrighter, drier and colder from the
-OL,13,Fwest through Tuesday
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FCloudy with rain or showers on Monday.
+OL,9,FDrier for most on Tuesday, but colder
+OL,10,Fwith some overnight frost and fog.
+OL,11,FCloudier from the west on Wednesday
+OL,12,Fwith further rain.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
