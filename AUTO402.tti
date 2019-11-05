@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/11C14:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E05/11C15:33:32
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BA mainly cloudy    S5CSTATISTICS       
-OL,9,Bstart with a few   S5C 
-OL,10,Bshowers in the eastS5G   Maximum       
-OL,11,Bbut these clearing S5GTemperatureC11C 
-OL,12,Bthrough the        S5G                 
-OL,13,Bmorning. Then a    S5G   Minumum       
-OL,14,Bmainly dry day withS5GTemperatureC-1C 
-OL,15,Bsunny spells but a S5C                 
-OL,16,Bfew light showers  S5G
-OL,17,Bwill develop in theS5G
-OL,18,Bafternoon. Fresh   S5G                 
-OL,19,Bnortherly winds    S5G
-OL,20,Beasing.            S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BShowers will becomeS5CSTATISTICS       
+OL,9,Bconfined to coastalS5C 
+OL,10,Bareas then mainly  S5G   Maximum       
+OL,11,Bdry with clear     S5GTemperatureC8C 
+OL,12,Bspells leading to  S5G                 
+OL,13,Bpatchy frost and   S5G   Minumum       
+OL,14,Bfog. Becoming      S5GTemperatureC-1C 
+OL,15,Bcloudy in the      S5C                 
+OL,16,Bsouthwest later.   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/11C14:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E05/11C15:33:32
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BShowers will becomeS5CSTATISTICS       
-OL,9,Bconfined to coastalS5C 
-OL,10,Bareas then mainly  S5G   Maximum       
-OL,11,Bdry with clear     S5GTemperatureC11C 
-OL,12,Bspells leading to  S5G                 
-OL,13,Bpatchy frost and   S5G   Minumum       
-OL,14,Bfog. Becoming      S5GTemperatureC-1C 
-OL,15,Bcloudy in the      S5C                 
-OL,16,Bsouthwest later.   S5G
-OL,17,B                   S5G
-OL,18,B                   S5G                 
+OL,6,CWEDNESDAY
+OL,8,BMainly dry with    S5CSTATISTICS       
+OL,9,Bsome hazy sunshine,S5C 
+OL,10,Bshowers possible   S5G   Maximum       
+OL,11,Balong the Antrim   S5GTemperatureC8C 
+OL,12,Bcoast. Thickening  S5G                 
+OL,13,Bcloud will bring   S5G   Minumum       
+OL,14,Brain to the far    S5GTemperatureC-1C 
+OL,15,Bsouth around dusk, S5C                 
+OL,16,Bthis rain spreadingS5G
+OL,17,Bnortheast in the   S5G
+OL,18,Bevening.           S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
