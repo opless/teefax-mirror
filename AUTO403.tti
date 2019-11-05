@@ -5,25 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/11C01:32:17
+OL,0,XXXXXXXXBNMPSERVER2      E05/11C02:32:40
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FFurther rain across eastern Scotland,
-OL,9,Fwhilst showers continue across other
-OL,10,Feastern and southern areas. Some fog
-OL,11,Fpatches developing over England and
-OL,12,FWales. Drier in the northwest with
-OL,13,Fpatchy frost.
+OL,7,GToday
+OL,8,FA murky start for the southeast but
+OL,9,Fthis clearing during the morning. Still
+OL,10,Fsome rain and showers, mainly in the
+OL,11,FEast, with drier and brighter weather
+OL,12,Fin western parts. Windy for a time over
+OL,13,Fparts of England and Wales.
 OL,4,                                    1/2 
-OL,15,GTuesday
-OL,16,FRain and showers clear slowly
-OL,17,Fsouth-east, with drier, brighter
-OL,18,Fweather following from the northwest.
-OL,19,FBrisk winds slowly easing. Cold for
-OL,20,Fall, with frost developing later.
+OL,15,GTonight
+OL,16,FA few showers around northern and
+OL,17,Feastern coasts as well as around Irish
+OL,18,FSea coastal areas. Cold inland with a
+OL,19,Flocal frost likely, particularly in
+OL,20,Fcentral and northern parts.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +31,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/11C01:32:17
+OL,0,XXXXXXXXBNMPSERVER2      E05/11C02:32:40
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FCold, frosty start on Wednesday, before
-OL,9,Ffurther rain and hill snow spread east
-OL,10,Fovernight and into Thursday. Heavy
-OL,11,Fshowers follow in the west and south;
-OL,12,Fgenerally drier Friday. Remaining cold.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FShowers for many on Thursday; heavy
+OL,9,Frain likely in northeast England.
+OL,10,FBrighter and drier for many on Friday
+OL,11,Fbefore further rain spreads east on
+OL,12,FSaturday. Cold generally with night
+OL,13,Ffrosts.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
