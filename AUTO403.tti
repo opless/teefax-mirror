@@ -5,23 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/11C00:38:51
+OL,0,XXXXXXXXBNMPSERVER2      E06/11C01:33:50
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FSome showers persisting around coasts.
-OL,9,FWinds falling light and skies clearing
-OL,10,Ffor many inland areas, allowing patchy
-OL,11,Ffrost and a few fog patches to form.
+OL,7,GToday
+OL,8,FRain across west and southwestern
+OL,9,Fparts, heavy in places, will edge
+OL,10,Fslowly eastwards. Many northern and
+OL,11,Feastern areas staying dry and bright
+OL,12,Fbut feeling cold.
 OL,4,                                    1/2 
-OL,13,GWednesday
-OL,14,FRain across west and southwestern
-OL,15,Fparts, heavy in places, edging slowly
-OL,16,Feastwards. Many northern and eastern
-OL,17,Fareas staying dry and bright but
-OL,18,Ffeeling cold.
+OL,14,GTonight
+OL,15,FBand of rain moving northeast and
+OL,16,Fbecoming slow moving across northern
+OL,17,Fand eastern England by dawn. Showers
+OL,18,Facross parts of Scotland.  Cold with
+OL,19,Fpatchy frost in far north.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -29,18 +30,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/11C00:38:51
+OL,0,XXXXXXXXBNMPSERVER2      E06/11C01:33:50
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
-OL,8,FUnsettled and rather cold. Heavy rain
-OL,9,Faffecting parts of northern and eastern
-OL,10,FEngland on Thursday, with brighter,
-OL,11,Fshowery conditions elsewhere. Drier on
-OL,12,FFriday. Further rain on Saturday
-OL,13,Ffollowing overnight frost.
+OL,7,GOutlook for Friday to Sunday
+OL,8,FRain easing on Friday, then drier and
+OL,9,Fbrighter for most. Further rain, with
+OL,10,Fhill snow in the north Saturday. Sunday
+OL,11,Fdrier in the south, showers in the
+OL,12,Fnorth. Remaining cold.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
