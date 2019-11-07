@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/11C01:34:52
+OL,0,XXXXXXXXBNMPSERVER2      E07/11C02:32:32
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain moving northeastwards across
-OL,9,FEngland and Wales, heavy at times.
-OL,10,FShowery rain affecting Scotland with
-OL,11,Fsnow on mountains. Clearer, showery
-OL,12,Fweather into the southwest later with
-OL,13,Fcoastal gales.
+OL,7,GToday
+OL,8,FRain across northern England and north
+OL,9,FWales, will be heavy at times with a
+OL,10,Frisk of flooding. Brighter elsewhere
+OL,11,Fbut with showers, heavy near coasts.
+OL,12,FWindy in places coastal gales in parts
+OL,13,Fof southwest and northeast England.
+OL,14,FFeeling cold.
 OL,4,                                    1/2 
-OL,15,GThursday
-OL,16,FRain across northern England and north
-OL,17,FWales, heavy at times with a risk of
-OL,18,Fflooding. Brighter elsewhere but with
-OL,19,Fshowers, heavy near coasts. Windy in
-OL,20,Fplaces and feeling cold.
+OL,16,GTonight
+OL,17,FRain gradually easing across northern
+OL,18,FEngland and north Wales. Clearer skies
+OL,19,Fin south with areas of mist and fog
+OL,20,Fdeveloping by dawn. Cold and frosty in
+OL,21,FScotland and Northern Ireland.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/11C01:34:52
+OL,0,XXXXXXXXBNMPSERVER2      E07/11C02:32:32
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FUnsettled and rather cold. Rain
-OL,9,Fclearing southeastwards on Friday,
-OL,10,Fturning brighter. Frosty on Friday
-OL,11,Fnight, then further rain at the weekend
-OL,12,Fwith snow on northern hills.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FCold with patchy fog early Saturday
+OL,9,Fbefore rain, with hill snow in the
+OL,10,Fnorth, spreads east, clearing south
+OL,11,Fthrough Sunday. Showers follow, ahead
+OL,12,Fof further rain and hill snow Monday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
