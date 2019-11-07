@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/11C00:44:33
+OL,0,XXXXXXXXBNMPSERVER2      E07/11C01:34:52
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,C
-OL,8,B                   S5CSTATISTICS       
-OL,9,B                   S5C 
-OL,10,B                   S5G   Maximum       
-OL,11,B                   S5GTemperatureC 
-OL,12,B                   S5G                 
-OL,13,B                   S5G   Minumum       
-OL,14,B                   S5GTemperatureC 
-OL,15,B                   S5C                 
-OL,16,B                   S5G
-OL,17,B                   S5G
-OL,18,B                   S5G                 
-OL,19,B                   S5G
-OL,20,B                   S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BA few coastal      S5CSTATISTICS       
+OL,9,Bshowers at first,  S5C 
+OL,10,Bthese tending to   S5G   Maximum       
+OL,11,Bspread inland      S5GTemperatureC9C 
+OL,12,Bthrough the        S5G                 
+OL,13,Bevening, perhaps   S5G   Minumum       
+OL,14,Bturning heavy at   S5GTemperatureC2C 
+OL,15,Btimes. Otherwise   S5C                 
+OL,16,Blargely cloudy withS5G
+OL,17,Ba few spells of    S5G
+OL,18,Brain. NortheasterlyS5G                 
+OL,19,Bwinds freshening   S5G
+OL,20,Blater.             S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/11C00:44:33
+OL,0,XXXXXXXXBNMPSERVER2      E07/11C01:34:52
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,C
-OL,8,B                   S5CSTATISTICS       
-OL,9,B                   S5C 
-OL,10,B                   S5G   Maximum       
-OL,11,B                   S5GTemperatureC 
-OL,12,B                   S5G                 
-OL,13,B                   S5G   Minumum       
-OL,14,B                   S5GTemperatureC 
-OL,15,B                   S5C                 
-OL,16,B                   S5G
-OL,17,B                   S5G
-OL,18,B                   S5G                 
+OL,6,CTHURSDAY
+OL,8,BMainly cloudy with S5CSTATISTICS       
+OL,9,Bshowers, perhaps   S5C 
+OL,10,Blonger spells of   S5G   Maximum       
+OL,11,Brain across County S5GTemperatureC9C 
+OL,12,BDown. A few        S5G                 
+OL,13,Bbrighter intervals S5G   Minumum       
+OL,14,Bin the west.       S5GTemperatureC2C 
+OL,15,BFeeling cold with  S5C                 
+OL,16,Bbrisk east or      S5G
+OL,17,Bnortheasterly      S5G
+OL,18,Bwinds.             S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
