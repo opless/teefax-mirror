@@ -5,20 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/11C14:33:22
+OL,0,XXXXXXXXBNMPSERVER2      E08/11C15:33:31
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FFog patches slow to clear from southern
-OL,9,FEngland. A band of rain across Wales
-OL,10,Fand the Midlands will edge
-OL,11,Fsoutheastwards and die out.
-OL,12,FNorthwestern areas dry with plenty of
-OL,13,Fsunshine. Showers affecting
-OL,14,Fnortheastern parts. Windy in places and
-OL,15,Ffeeling cold.
+OL,7,GThis Evening and Tonight
+OL,8,FShowers becoming restricted to eastern
+OL,9,Fcoastal counties of England, with clear
+OL,10,Fperiods elsewhere allowing a widespread
+OL,11,Ffrost and also some patchy freezing fog
+OL,12,Fto form. Turning cloudy and breezy in
+OL,13,Fthe far west with rain moving east
+OL,14,Facross Northern Ireland.
+OL,4,                                    1/2 
+OL,16,GSaturday
+OL,17,FFog clearing slowly, then mostly dry
+OL,18,Fwith sunny spells in the north and
+OL,19,Feast. Rain then showers affecting the
+OL,20,Fwest and south, with hill snow for
+OL,21,Fparts of Wales.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +32,19 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/11C14:33:22
+OL,0,XXXXXXXXBNMPSERVER2      E08/11C15:33:31
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Sunday to Tuesday
-OL,8,FRain clearing southern areas early
-OL,9,FSunday then most parts dry with sunny
-OL,10,Fspells. Further rain or showers on
-OL,11,FMonday and Tuesday. Often windy and
-OL,12,Fstaying rather cold.
+OL,8,FLargely fine Sunday with residual
+OL,9,Fcloud/rain clearing the south-east.
+OL,10,FRain and strong winds crossing the
+OL,11,Fcountry early Monday (mountain snow
+OL,12,FScotland), followed by blustery
+OL,13,Fshowers, mainly in west. Cold
+OL,14,Fthroughout.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
