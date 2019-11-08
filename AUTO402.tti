@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/11C02:32:24
+OL,0,XXXXXXXXBNMPSERVER2      E08/11C03:32:07
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BAny remaining      S5CSTATISTICS       
-OL,9,Bpatchy rain soon   S5C 
-OL,10,Bclears to give a   S5G   Maximum       
-OL,11,Bdry evening and    S5GTemperatureC9C 
-OL,12,Bnight with         S5G                 
-OL,13,Boccasional clear   S5G   Minumum       
-OL,14,Bperiods. Moderate  S5GTemperatureC-2C 
-OL,15,Bnortheast winds    S5C                 
-OL,16,Beasing later in theS5G
-OL,17,Bnight with a frost S5G
-OL,18,Bunder any lengthy  S5G                 
-OL,19,Bclear spells.      S5G
-OL,20,B                   S5G
+OL,6,CTODAY
+OL,8,BA cold, frosty     S5CSTATISTICS       
+OL,9,Bstart with a few   S5C 
+OL,10,Bfog patches likely S5G   Maximum       
+OL,11,Brural parts, these S5GTemperatureC9C 
+OL,12,Bsoon lifting to    S5G                 
+OL,13,Bleave a dry day    S5G   Minumum       
+OL,14,Bwith long spells ofS5GTemperatureC-1C 
+OL,15,Bautumnal sunshine. S5C                 
+OL,16,BSunshine turning   S5G
+OL,17,Bhazy in the west   S5G
+OL,18,Blater. Feeling     S5G                 
+OL,19,Bquite pleasant     S5G
+OL,20,Bunder light winds. S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,22 +32,22 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/11C02:32:24
+OL,0,XXXXXXXXBNMPSERVER2      E08/11C03:32:07
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CFRIDAY
-OL,8,BA rather cold but  S5CSTATISTICS       
-OL,9,Bdry day with plentyS5C 
-OL,10,Bof crisp autumnal  S5G   Maximum       
-OL,11,Bsunshine and light S5GTemperatureC9C 
-OL,12,Bwinds.             S5G                 
-OL,13,B                   S5G   Minumum       
-OL,14,B                   S5GTemperatureC-2C 
-OL,15,B                   S5C                 
-OL,16,B                   S5G
-OL,17,B                   S5G
+OL,6,CTONIGHT
+OL,8,BA dry evening with S5CSTATISTICS       
+OL,9,Bcloud thickening   S5C 
+OL,10,Bfrom the west, but S5G   Maximum       
+OL,11,Bunder light winds aS5GTemperatureC9C 
+OL,12,Brural frost may    S5G                 
+OL,13,Bform. Areas of     S5G   Minumum       
+OL,14,Bheavy rain will    S5GTemperatureC-1C 
+OL,15,Bpush eastwards     S5C                 
+OL,16,Bthrough Saturday   S5G
+OL,17,Bmorning.           S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
