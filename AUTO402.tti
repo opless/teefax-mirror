@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/11C23:33:18
+OL,0,XXXXXXXXBNMPSERVER2      E09/11C00:39:48
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BA dry evening with S5CSTATISTICS       
-OL,9,Bsome clear spells  S5C 
-OL,10,Ballowing a touch ofS5G   Maximum       
-OL,11,Bfrost. Then        S5GTemperatureC8C 
-OL,12,Bbecoming cloudy    S5G                 
-OL,13,Bovernight with     S5G   Minumum       
-OL,14,Bheavy rain reachingS5GTemperatureC-1C 
-OL,15,Bwestern counties inS5C                 
-OL,16,Bthe early hours    S5G
-OL,17,Bcrossing to the    S5G
-OL,18,Beast by morning.   S5G                 
-OL,19,BFreshening         S5G
-OL,20,Bsoutheasterly      S5G
+OL,6,C
+OL,8,B                   S5CSTATISTICS       
+OL,9,B                   S5C 
+OL,10,B                   S5G   Maximum       
+OL,11,B                   S5GTemperatureC 
+OL,12,B                   S5G                 
+OL,13,B                   S5G   Minumum       
+OL,14,B                   S5GTemperatureC 
+OL,15,B                   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,24 +32,24 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/11C23:33:18
+OL,0,XXXXXXXXBNMPSERVER2      E09/11C00:39:48
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSATURDAY
-OL,8,BA cloudy and wet   S5CSTATISTICS       
-OL,9,Bday with the       S5C 
-OL,10,Bheaviest rain      S5G   Maximum       
-OL,11,Blikely across      S5GTemperatureC8C 
-OL,12,BAntrim and Down,   S5G                 
-OL,13,Bleading to some    S5G   Minumum       
-OL,14,Blocalised flooding.S5GTemperatureC-1C 
-OL,15,BPerhaps becoming   S5C                 
-OL,16,Bdrier and brighter S5G
-OL,17,Bin Fermanagh. Rain S5G
-OL,18,Bclearing during    S5G                 
-OL,19,Bevening.           S5G
+OL,6,C
+OL,8,B                   S5CSTATISTICS       
+OL,9,B                   S5C 
+OL,10,B                   S5G   Maximum       
+OL,11,B                   S5GTemperatureC 
+OL,12,B                   S5G                 
+OL,13,B                   S5G   Minumum       
+OL,14,B                   S5GTemperatureC 
+OL,15,B                   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
