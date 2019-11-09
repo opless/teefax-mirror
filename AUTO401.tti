@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E09/11C18:33:48
+OL,0,XXXXXXXXBNMPSERVER2      E09/11C19:34:16
 OL,1,T]G           This Evening              
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G03V%  B               
@@ -15,16 +15,16 @@ OL,6,            ZV!'~G02V!FSome Cloud
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 02V} B              
-OL,10,       ^ZRp|t VxRg0 B             
-OL,11,       ZRnG04RtV+"RG01R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" R *u  BCloudy    
-OL,14,B            ^ZR`  R*G 04R}  B         
-OL,15,CHeavy Rain  ^ZRk|V            
-OL,16,C            ^ZR'oG 03S}zt B       
-OL,17,B              ZRj^VG 03S B       
-OL,18,B            ZRx|^G 05S'         
-OL,19,             ^ZR! +/'iUqp0        
+OL,10,       ^ZUp|t VxVg0 B             
+OL,11,       ZUnG04UtV+"VG01V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" R *u  BCloudy    
+OL,14,B            ^ZU`  R*G 03R}  B         
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 03U}zt B       
+OL,17,B              ZUj^RG 03U B       
+OL,18,B            ZUx|^G 05U'         
+OL,19,             ^ZU! +/'iUqp0        
 OL,20,ELight Rain  ^ZU  tG 06U/!        
 OL,21,E            ZU zG06U^/s/U/? B         
 OL,22,            ZU8?' "'    "    B         
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E09/11C18:33:48
+OL,0,XXXXXXXXBNMPSERVER2      E09/11C19:34:16
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZU 4`~|}            G 2/2 
 OL,3,           ZU`?0~G07U%  ECloudy         
