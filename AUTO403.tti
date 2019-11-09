@@ -5,12 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/11C07:06:32
+OL,0,XXXXXXXXBNMPSERVER2      E09/11C08:30:50
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
+OL,7,GToday
+OL,8,FRain in the west, heavy at times,
+OL,9,Fmoving slowly eastwards into central
+OL,10,Fareas; some snow on hills. Fog patches
+OL,11,Felsewhere slowly clearing then some
+OL,12,Fsunshine, but cloud increasing. Feeling
+OL,13,Fcold.
 OL,4,                                    1/2 
+OL,15,GTonight
+OL,16,FRain, with some snow on hills, clearing
+OL,17,Fsouthwards across England and Wales.
+OL,18,FClear skies in the north leading to a
+OL,19,Fsharp frost and a few fog patches.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -18,11 +30,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/11C07:06:32
+OL,0,XXXXXXXXBNMPSERVER2      E09/11C08:30:50
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FUnsettled with early rain on Monday
+OL,9,Fclearing to showers, these heaviest and
+OL,10,Fmost frequent in the west. Generally
+OL,11,Fdrier and brighter in the east. Often
+OL,12,Fwindy and feeling cold.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
