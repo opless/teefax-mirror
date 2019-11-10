@@ -5,12 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/11C22:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E09/11C23:48:51
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
+OL,7,GThis Evening and Tonight
+OL,8,FRain and showers in the south and west,
+OL,9,Fwith a little snow over the high ground
+OL,10,Fof Wales, will slowly die out
+OL,11,Fovernight. Clearer and cold further
+OL,12,Fnorth with a few fog patches possible.
+OL,13,FWindy in the far southwest.
 OL,4,                                    1/2 
+OL,15,GSunday
+OL,16,FCold on Sunday with a few showers in
+OL,17,Fthe south and east but plenty of sunny
+OL,18,Fspells. Rain and stronger winds into
+OL,19,FNorthern Ireland Saturday evening,
+OL,20,Fmoving eastwards overnight.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -18,11 +31,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/11C22:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E09/11C23:48:51
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FUnsettled on Monday with early rain
+OL,9,Fclearing to showers, these heaviest and
+OL,10,Fmost frequent in the west. Generally
+OL,11,Fdrier and brighter in the east. Often
+OL,12,Fwindy and feeling cold.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
