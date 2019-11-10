@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/11C04:32:15
+OL,0,XXXXXXXXBNMPSERVER2      E10/11C05:35:33
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BA cold frosty startS5CSTATISTICS       
-OL,9,Bwith some freezing S5C 
-OL,10,Bfog patchy,        S5G   Maximum       
-OL,11,Bparticularly in theS5GTemperatureC6C 
-OL,12,Bsouth. Then a dry  S5G                 
-OL,13,Bsunny morning, someS5G   Minumum       
-OL,14,Bicy surfaces likelyS5GTemperatureC2C 
-OL,15,Bon untreated roads S5C                 
-OL,16,Bin the east. High  S5G
-OL,17,Bcloud thickens thisS5G
-OL,18,Bafternoon with rainS5G                 
-OL,19,Breaching the west  S5G
-OL,20,Baround dusk.       S5G
+OL,6,C
+OL,8,B                   S5CSTATISTICS       
+OL,9,B                   S5C 
+OL,10,B                   S5G   Maximum       
+OL,11,B                   S5GTemperatureC 
+OL,12,B                   S5G                 
+OL,13,B                   S5G   Minumum       
+OL,14,B                   S5GTemperatureC 
+OL,15,B                   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/11C04:32:15
+OL,0,XXXXXXXXBNMPSERVER2      E10/11C05:35:33
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BPersistent         S5CSTATISTICS       
-OL,9,Boccasionally heavy S5C 
-OL,10,Brain spreads east  S5G   Maximum       
-OL,11,Bin the evening     S5GTemperatureC6C 
-OL,12,Bbefore clearing to S5G                 
-OL,13,Bscattered showers  S5G   Minumum       
-OL,14,Bfrom the west      S5GTemperatureC2C 
-OL,15,Baround midnight    S5C                 
-OL,16,Bwith the odd clear S5G
-OL,17,Bspells between     S5G
-OL,18,Bshowers. Breezy.   S5G                 
+OL,6,C
+OL,8,B                   S5CSTATISTICS       
+OL,9,B                   S5C 
+OL,10,B                   S5G   Maximum       
+OL,11,B                   S5GTemperatureC 
+OL,12,B                   S5G                 
+OL,13,B                   S5G   Minumum       
+OL,14,B                   S5GTemperatureC 
+OL,15,B                   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
