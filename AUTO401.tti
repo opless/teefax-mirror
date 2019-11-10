@@ -5,21 +5,21 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E10/11C18:33:01
+OL,0,XXXXXXXXBNMPSERVER2      E10/11C19:33:55
 OL,1,T]G           This Evening              
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G04R%  BHeavy Rain     
-OL,4,           RZj**gppp  B              
-OL,5,           ^ZV({5                
-OL,6,            ZV!'~G03V!FLight Rain     
-OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 03V} B              
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G04V%  B               
+OL,4,           VZj**gppp B               
+OL,5,           ^ZR({5                
+OL,6,            ZR!'~G03R!BHeavy Rain     
+OL,7,           ^ZR ~ow1  B              
+OL,8,B          ^ZV*y?sp  FLight Rain    
+OL,9,           ^ZVj)"G 02V}  F             
 OL,10,       ^ZVp|t VxVg0 B             
 OL,11,       ZVnG05VtV+"VG03V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 05V} B          
+OL,14,B            ^ZV`  V*G 04V} B          
 OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 05V}zt B       
 OL,17,B              ZVj^VG 04V B       
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E10/11C18:33:01
+OL,0,XXXXXXXXBNMPSERVER2      E10/11C19:33:55
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZR 4`~|}            G 2/2 
 OL,3,           ZR`?0~G07R%  B               
