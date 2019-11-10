@@ -5,24 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/11C13:33:23
+OL,0,XXXXXXXXBNMPSERVER2      E10/11C14:33:58
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FCloud and occasional rain or drizzle in
-OL,9,Fthe south clearing, then most places
-OL,10,Fdry with sunny spells, except for a few
-OL,11,Fshowers affecting eastern coasts of
-OL,12,FEngland and Scotland. Rather cold.
-OL,4,                                    1/2 
-OL,14,GTonight
-OL,15,FCold in the east at first, but a band
-OL,16,Fof rain, with hill snow for northern
-OL,17,Fareas, moving eastwards through the
-OL,18,Fnight. Blustery showers following into
-OL,19,Fthe west by morning.
+OL,7,GThis Evening and Tonight
+OL,8,FA clear start to the night in eastern
+OL,9,Fparts with an isolated frost possible.
+OL,10,FHowever, a band of rain will move
+OL,11,Feastwards overnight, with hill snow in
+OL,12,Fthe north, and strengthening winds.
+OL,13,FBlustery showers following into the
+OL,14,Fwest by morning.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,16 +25,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/11C13:33:23
+OL,0,XXXXXXXXBNMPSERVER2      E10/11C14:33:58
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FRemaining unsettled, breezy and rather
-OL,9,Fcold, with showers and also some longer
-OL,10,Fspells of rain at times, falling as
-OL,11,Fsnow over northern hills.
+OL,8,FFurther rain or showers on Tuesday,
+OL,9,Fbefore more persistent rain and hill
+OL,10,Fsnow spread east through Wednesday.
+OL,11,FRain and hill snow clear slowly
+OL,12,Fsoutheast through Thursday. Cold and
+OL,13,Foften windy.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
