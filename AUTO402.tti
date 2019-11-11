@@ -5,23 +5,23 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/11C02:31:54
+OL,0,XXXXXXXXBNMPSERVER2      E11/11C03:31:57
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BPersistent         S5CSTATISTICS       
-OL,9,Boccasionally heavy S5C 
-OL,10,Brain spreads east  S5G   Maximum       
-OL,11,Bin the evening     S5GTemperatureC6C 
-OL,12,Bbefore clearing to S5G                 
-OL,13,Bscattered showers  S5G   Minumum       
-OL,14,Bfrom the west      S5GTemperatureC2C 
-OL,15,Baround midnight    S5C                 
-OL,16,Bwith a few clear   S5G
-OL,17,Bspells between     S5G
-OL,18,Bshowers. Breezy.   S5G                 
+OL,6,CTODAY
+OL,8,BA bright day with  S5CSTATISTICS       
+OL,9,Bsunny spells and   S5C 
+OL,10,Bblustery showers,  S5G   Maximum       
+OL,11,Bheavy at times. It S5GTemperatureC7C 
+OL,12,Bwill be a cold day S5G                 
+OL,13,Bwith a strong,     S5G   Minumum       
+OL,14,Bgusty westerly     S5GTemperatureC3C 
+OL,15,Bwind, with gales   S5C                 
+OL,16,Bdeveloping along   S5G
+OL,17,Bthe north coast.   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
@@ -32,22 +32,22 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/11C02:31:54
+OL,0,XXXXXXXXBNMPSERVER2      E11/11C03:31:57
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CMONDAY
-OL,8,BA bright day with  S5CSTATISTICS       
-OL,9,Bsunny spells and   S5C 
-OL,10,Bblustery showers,  S5G   Maximum       
-OL,11,Bheavy at times. It S5GTemperatureC6C 
-OL,12,Bbe a cold day with S5G                 
-OL,13,Ba strong, gusty    S5G   Minumum       
-OL,14,Bwesterly wind.     S5GTemperatureC2C 
-OL,15,B                   S5C                 
-OL,16,B                   S5G
-OL,17,B                   S5G
+OL,6,CTONIGHT
+OL,8,BA very windy       S5CSTATISTICS       
+OL,9,Bevening and night  S5C 
+OL,10,Bwith westerly galesS5G   Maximum       
+OL,11,Bsevere along the   S5GTemperatureC7C 
+OL,12,Bnorth coast.       S5G                 
+OL,13,BShowers will merge S5G   Minumum       
+OL,14,Binto some longer   S5GTemperatureC3C 
+OL,15,Bspells of heavy    S5C                 
+OL,16,Brain later in the  S5G
+OL,17,Bnight.             S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
