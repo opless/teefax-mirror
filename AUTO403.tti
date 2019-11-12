@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/11C02:02:02
+OL,0,XXXXXXXXBNMPSERVER2      E12/11C03:32:12
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FClear intervals and showers, although
-OL,9,Fsome sheltered eastern and southern
-OL,10,Fareas escaping. Showers frequent and
-OL,11,Fheavy for some, with possible hail and
-OL,12,Fthunder and some hill snow. Icy patches
-OL,13,Fare possible mainly in Scotland. Gales
-OL,14,Fwill affect some western areas.
+OL,7,GToday
+OL,8,FBright spells for most but also some
+OL,9,Frain or showers. The far south and the
+OL,10,Fnorthwest of England the driest. Cold
+OL,11,Fand windy, particularly the west with
+OL,12,Fcoastal gales. Very strong winds this
+OL,13,Fmorning for north Wales and Liverpool
+OL,14,FBay.
 OL,4,                                    1/2 
-OL,16,GTuesday
-OL,17,FMost places seeing some sunshine but
-OL,18,Foccasional showers for many, these
-OL,19,Fstill possibly heavy and prolonged,
-OL,20,Fwith a risk of hail and thunder. Cold
-OL,21,Fand windy, gales near western coasts.
+OL,16,GTonight
+OL,17,FShowers dying out for many areas away
+OL,18,Ffrom the far north and Irish Sea
+OL,19,Fcoastal areas. Cold with widespread
+OL,20,Ffrost in the north and a few fog
+OL,21,Fpatches. Winds easing.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/11C02:02:02
+OL,0,XXXXXXXXBNMPSERVER2      E12/11C03:32:12
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FRain and hill snow spread east across
-OL,9,Fmuch of England and Wales Wednesday,
-OL,10,Fonly slowly clearing to the south
-OL,11,FThursday. Sunny spells and showers
-OL,12,Felsewhere. Breezy and cold for all.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FShowers in the north will be wintry of
+OL,9,Fthe hills throughout. For central and
+OL,10,Fsouthern areas in addition to showers,
+OL,11,Fsome heavier rainfall is likely during
+OL,12,FThursday. Staying cold.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
