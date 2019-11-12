@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/11C14:33:25
+OL,0,XXXXXXXXBNMPSERVER2      E12/11C15:32:39
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FBright spells for most but also some
-OL,9,Frain or showers. The far south and the
-OL,10,Fnorthwest of England the driest. Cold
-OL,11,Fand windy, particularly the west with
-OL,12,Fcoastal gales. Very strong winds this
-OL,13,Fmorning for north Wales and Liverpool
-OL,14,FBay.
+OL,7,GThis Evening and Tonight
+OL,8,FShowers will tend to die back to some
+OL,9,Fexposed areas such as north Wales and
+OL,10,Faround Liverpool Bay. Many areas
+OL,11,Fturning clearer and cold, with a fairly
+OL,12,Fwidespread frost. A few fog patches are
+OL,13,Falso likely.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FShowers dying out for many areas away
-OL,18,Ffrom the far north and Irish Sea
-OL,19,Fcoastal areas. Cold with widespread
-OL,20,Ffrost in the north and a few fog
-OL,21,Fpatches. Winds easing.
+OL,15,GWednesday
+OL,16,FMany areas starting fine and frosty.
+OL,17,FMany northern and eastern areas should
+OL,18,Fstay dry, although early sunshine
+OL,19,Ffading. The southwest turning cloudy
+OL,20,Fand windier, heavy rain arriving
+OL,21,Fafternoon or evening.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/11C14:33:25
+OL,0,XXXXXXXXBNMPSERVER2      E12/11C15:32:39
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Thursday to Saturday
-OL,8,FShowers in the north will be wintry of
-OL,9,Fthe hills throughout. For central and
-OL,10,Fsouthern areas in addition to showers,
-OL,11,Fsome heavier rainfall is likely during
-OL,12,FThursday. Staying cold.
+OL,8,FCold in the north, with showers turning
+OL,9,Fwintry over hills. Further south, some
+OL,10,Fheavier rainfall is likely at times
+OL,11,Ftoo, especially on Thursday when it
+OL,12,Fwill also be windy.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
