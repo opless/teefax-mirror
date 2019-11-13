@@ -5,19 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/11C14:33:42
+OL,0,XXXXXXXXBNMPSERVER2      E13/11C15:34:16
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FCold start for Scotland. Showers over
-OL,9,Fsome northern and western coasts but
-OL,10,Fmany places dry with some sunny spells.
-OL,11,FSouthwestern parts seeing more
-OL,12,Fwidespread rain during the afternoon
-OL,13,Fwith some gusty winds, particularly
-OL,14,Fnear coasts. Staying cold.
+OL,7,GThis Evening and Tonight
+OL,8,FRain over south Wales, with hill snow
+OL,9,Fpossible here, and southern England.
+OL,10,FShowers feeding onto north and east
+OL,11,Fcoasts of England, Scotland and
+OL,12,FNorthern Ireland. Less cold than
+OL,13,FTuesday night, but some icy patches
+OL,14,Fpossible across eastern Scotland.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,7 +25,7 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/11C14:33:42
+OL,0,XXXXXXXXBNMPSERVER2      E13/11C15:34:16
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
