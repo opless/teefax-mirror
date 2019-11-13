@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/11C02:32:59
+OL,0,XXXXXXXXBNMPSERVER2      E13/11C03:33:00
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FShowers will tend to die back to some
-OL,9,Fexposed areas such as north Wales and
-OL,10,Faround Liverpool Bay. Many areas
-OL,11,Fturning clearer and cold, with a fairly
-OL,12,Fwidespread frost. A few fog patches are
-OL,13,Falso likely.
-OL,4,                                    1/2 
-OL,15,GWednesday
-OL,16,FMany areas starting fine and frosty.
-OL,17,FMany northern and eastern areas should
-OL,18,Fstay dry, although early sunshine
-OL,19,Ffading. The southwest turning cloudy
-OL,20,Fand windier, heavy rain arriving
-OL,21,Fafternoon or evening.
+OL,7,GToday
+OL,8,FCold start for Scotland. Showers over
+OL,9,Fsome northern and western coasts but
+OL,10,Fmany places dry with some sunny spells.
+OL,11,FSouthwestern parts seeing more
+OL,12,Fwidespread rain during the afternoon
+OL,13,Fwith some gusty winds, particularly
+OL,14,Fnear coasts. Staying cold.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +25,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/11C02:32:59
+OL,0,XXXXXXXXBNMPSERVER2      E13/11C03:33:00
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
-OL,8,FCold in the north, with showers turning
-OL,9,Fwintry over hills. Further south, some
-OL,10,Fheavier rainfall is likely at times
-OL,11,Ftoo, especially on Thursday when it
-OL,12,Fwill also be windy.
+OL,7,GOutlook for Friday to Sunday
+OL,8,FFriday, bright in the northwest with a
+OL,9,Ffew showers, but cloudier with more
+OL,10,Ffrequent showers towards the southeast.
+OL,11,FOver the weekend showers becoming more
+OL,12,Fisolated with many places dry. Cold.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
