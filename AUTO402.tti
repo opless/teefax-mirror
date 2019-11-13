@@ -5,24 +5,24 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/11C01:33:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/11C02:32:59
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BScattered showers  S5CSTATISTICS       
-OL,9,Bwill gradually fadeS5C 
-OL,10,Baway this evening  S5G   Maximum       
-OL,11,Band becoming       S5GTemperatureC8C 
-OL,12,Bconfined to the    S5G                 
-OL,13,Bnorth coast,       S5G   Minumum       
-OL,14,Bleaving most parts S5GTemperatureC-3C 
-OL,15,Bdry overnight with S5C                 
-OL,16,Bclear spells       S5G
-OL,17,Bleading to a frost.S5G
-OL,18,BPatchy fog may     S5G                 
-OL,19,Bdevelop by dawn.   S5G
+OL,6,CTODAY
+OL,8,BMainly dry, bright S5CSTATISTICS       
+OL,9,Bthis morning with  S5C 
+OL,10,Bsome sunshine.     S5G   Maximum       
+OL,11,BClouding over this S5GTemperatureC8C 
+OL,12,Bafternoon with     S5G                 
+OL,13,Bpatchy light rain, S5G   Minumum       
+OL,14,Bmainly in the southS5GTemperatureC1C 
+OL,15,Band east. Easterly S5C                 
+OL,16,Bbreeze picking up  S5G
+OL,17,Blater.             S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
@@ -32,22 +32,22 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/11C01:33:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/11C02:32:59
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CWEDNESDAY
-OL,8,BA dry bright       S5CSTATISTICS       
-OL,9,Bmorning with some  S5C 
-OL,10,Bsunshine, then     S5G   Maximum       
-OL,11,Bclouding over in   S5GTemperatureC8C 
-OL,12,Bthe afternoon as a S5G                 
-OL,13,Bband of rain edges S5G   Minumum       
-OL,14,Bin from the west,  S5GTemperatureC-3C 
-OL,15,Bperhaps stalling   S5C                 
-OL,16,Bover Fermanagh,    S5G
-OL,17,BArmagh and Down.   S5G
+OL,6,CTONIGHT
+OL,8,BCloudy at first    S5CSTATISTICS       
+OL,9,Bwith the odd patch S5C 
+OL,10,Bof light rain in   S5G   Maximum       
+OL,11,Bsouth soon dying   S5GTemperatureC8C 
+OL,12,Bout. Then dry      S5G                 
+OL,13,Bovernight with longS5G   Minumum       
+OL,14,Bclear periods      S5GTemperatureC1C 
+OL,15,Bdeveloping. Fresh  S5C                 
+OL,16,Bnortheasterly      S5G
+OL,17,Bwinds.             S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
