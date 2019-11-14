@@ -5,19 +5,20 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/11C01:32:14
+OL,0,XXXXXXXXBNMPSERVER2      E14/11C02:33:10
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain over south Wales, with hill snow
-OL,9,Fpossible here, and southern England.
-OL,10,FShowers feeding onto north and east
-OL,11,Fcoasts of England, Scotland and
-OL,12,FNorthern Ireland. Less cold than
-OL,13,FTuesday night, but some icy patches
-OL,14,Fpossible across eastern Scotland.
+OL,7,GToday
+OL,8,FPersistent rain and some hill snow
+OL,9,Fcontinues to affect parts of Wales and
+OL,10,FEngland with possible flooding. Further
+OL,11,Fsouth, patchy fog clears but with
+OL,12,Fscattered heavy showers. Further north,
+OL,13,Fsunny spells but showers towards
+OL,14,Fnorthern and eastern coasts. Cold,
+OL,15,Fbreezy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +26,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/11C01:32:14
+OL,0,XXXXXXXXBNMPSERVER2      E14/11C02:33:10
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FFriday, bright in the northwest with a
-OL,9,Ffew showers, but cloudier with more
-OL,10,Ffrequent showers towards the southeast.
-OL,11,FOver the weekend showers becoming more
-OL,12,Fisolated with many places dry. Cold.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FRain and hill snow spreading west
+OL,9,Fwhilst easing Saturday. Further rain
+OL,10,Fwith hill snow for eastern and northern
+OL,11,Fareas through Sunday and Monday. Cold
+OL,12,Fwith some frost and fog.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
