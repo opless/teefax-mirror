@@ -5,20 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/11C12:32:32
+OL,0,XXXXXXXXBNMPSERVER2      E14/11C13:33:26
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FPersistent rain and some hill snow
-OL,9,Fcontinues to affect parts of Wales and
-OL,10,FEngland with possible flooding. Further
-OL,11,Fsouth, patchy fog clears but with
-OL,12,Fscattered heavy showers. Further north,
-OL,13,Fsunny spells but showers towards
-OL,14,Fnorthern and eastern coasts. Cold,
-OL,15,Fbreezy.
+OL,7,GThis Evening and Tonight
+OL,8,FRain and hill snow over England and
+OL,9,FWales becoming confined to northern
+OL,10,FEngland and far south of Scotland by
+OL,11,Fdawn. Northern Ireland and the rest of
+OL,12,FScotland clearer but also wintry
+OL,13,Fshowers and isolated icy patches in
+OL,14,Fsome coastal areas.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +25,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/11C12:32:32
+OL,0,XXXXXXXXBNMPSERVER2      E14/11C13:33:26
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Saturday to Monday
-OL,8,FRain and hill snow spreading west
-OL,9,Fwhilst easing Saturday. Further rain
-OL,10,Fwith hill snow for eastern and northern
-OL,11,Fareas through Sunday and Monday. Cold
-OL,12,Fwith some frost and fog.
+OL,8,FRemaining rather cold with further rain
+OL,9,Fand showers, along with patchy
+OL,10,Fovernight frost and fog. Fog/frost
+OL,11,Fbecoming more widespread by Monday as
+OL,12,Fdrier, colder weather spreads in from
+OL,13,Fthe north-west.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
