@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E14/11C04:32:09
+OL,0,XXXXXXXXBNMPSERVER2      E14/11C05:32:19
 OL,1,T]G         Thursday Evening            
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G02V%  B               
@@ -15,15 +15,15 @@ OL,6,            ZV!'~G03V!FSome Cloud
 OL,7,           ^ZV ~ow1  F              
 OL,8,CClear     ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 03V} B              
-OL,10,       ^ZSp|t VxUg0 ELight Rain   
-OL,11,       ZSnG05StV+"UG05U  E            
+OL,10,       ^ZSp|t VxUg0 B             
+OL,11,       ZSnG05StV+"UG05U B             
 OL,12,       ZS+U`4U+|0             
 OL,13,        ZS+%*o!U" T *u  DHeavy Rain
 OL,14,C            ^ZR`  T*G 06T}  D         
-OL,15,AOvercast    ^ZRk|R            
-OL,16,A            ^ZR'oG 03Q}zt B       
-OL,17,B              ZRj^RG 04Q B       
-OL,18,B            ZRx|^G 05Q'         
+OL,15,ELight Rain  ^ZRk|R            
+OL,16,E            ^ZR'oG 04U}zt B       
+OL,17,B              ZRj^RG 04U B       
+OL,18,B            ZRx|^G 05U'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 06R/!        
 OL,21,B            ZR zG04R^/s/R/? BCloudy   
@@ -34,10 +34,10 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E14/11C04:32:09
+OL,0,XXXXXXXXBNMPSERVER2      E14/11C05:32:19
 OL,1,T]G              Friday                 
 OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G07U%  ESome Cloud     
+OL,3,           ZU`?0~G06U%  ESome Cloud     
 OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G07V!FCloudy         
