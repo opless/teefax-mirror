@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E15/11C02:34:01
+OL,0,XXXXXXXXBNMPSERVER2      E15/11C03:32:36
 OL,1,T]G          Friday Evening             
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G01V%  B               
@@ -13,19 +13,19 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 06V} B              
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG06VtV+"RG07R B             
+OL,8,B          ^ZR*y?sp  BLight Rain    
+OL,9,           ^ZRj)"G 06R}  B             
+OL,10,       ^ZVp|t RxRg0 B             
+OL,11,       ZVnG07VtR+"RG07R B             
 OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  BLight Rain
-OL,14,B            ^ZV`  R*G 07R}  B         
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 06R}zt B       
-OL,17,B              ZVj^VG 04R B       
+OL,13,        ZV+%*o!R" R *u  B          
+OL,14,B            ^ZV`  R*G 08R} B          
+OL,15,B            ^ZVk|U            
+OL,16,B            ^ZV'oG 06R}zt EOvercas
+OL,17,B              ZVj^UG 04R Et      
 OL,18,B            ZVx|^G 07R'         
 OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 05R/!        
+OL,20,B            ^ZV  tG 06R/!        
 OL,21,B            ZV zG06V^/s/R/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E15/11C02:34:01
+OL,0,XXXXXXXXBNMPSERVER2      E15/11C03:32:36
 OL,1,T]G             Saturday                
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G06V%  B               
@@ -42,12 +42,12 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BLight Rain    
+OL,8,B          ^ZR*y?sp  BHeavy Rain    
 OL,9,           ^ZRj)"G 07R}  B             
-OL,10,       ^ZVp|t RxUg0 EHeavy Rain   
-OL,11,       ZVnG08VtR+"UG08U  E            
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" V *u  B          
+OL,10,       ^ZVp|t RxRg0 B             
+OL,11,       ZVnG09VtR+"RG08R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZV`  V*G 09V} B          
 OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 08V}zt B       
