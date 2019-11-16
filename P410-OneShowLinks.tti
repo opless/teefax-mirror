@@ -6,11 +6,11 @@ SC,0001
 PS,8000
 CT,8,T
 RE,0
-OL,0,        CEEFAX 2 624 Wed 22 AprC20:12/13
+OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
 OL,2,Vj5k7j5 Sj5 j7ju>jwsCENTERTAINMENT  
 OL,3,Vj5j5"m' S*-$/*%/*%/(,/C               
-OL,4,V*-,,,,,,/F ``````````````````````G 1/12
+OL,4,V*-,,,,,,/F ``````````````````````G 1/5 
 OL,5,CThe ONE SHOW      F                    
 OL,6,FThe magazine-style show tackles current
 OL,7,Faffairs and other issues in the UK     
@@ -30,17 +30,17 @@ OL,20,Fhttps://twitter.com/bbctheoneshow
 OL,21,CEMAIL:                                 
 OL,22,Ftheoneshow@bbc.co.uk                   
 OL,24,A NextBTeletext artCMake artFIndex      
-FL,411,100,104,150,8ff,8ff
+FL,411,411,412,150,8ff,8ff
 PN,41002
 SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0,        CEEFAX 2 624 Wed 22 AprC20:12/13
+OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
 OL,2,Vj5k7j5 Sj5 j7ju>jwsCENTERTAINMENT  
 OL,3,Vj5j5"m' S*-$/*%/*%/(,/C               
-OL,4,V*-,,,,,,/F ``````````````````````G 2/12
+OL,4,V*-,,,,,,/F ``````````````````````G 2/5 
 OL,5,CThe ONE SHOW                           
 OL,6,FWhat was teletext? It was an electronic
 OL,7,Fmagazine hidden in the TV signal that  
@@ -49,25 +49,25 @@ OL,9,Fa decoder. It delivered news, sport,
 OL,10,Fweather, TV and radio schedules. The   
 OL,11,Fcommercial channels also sold holidays 
 OL,12,Fand other services. In the era before  
-OL,13,Fthe internet it was the fastest media  
-OL,14,Fsource.                                
+OL,13,Fthe internet it was the fastest way to 
+OL,14,Fget information.                       
 OL,16,FUsing the technology of the 1970s it   
 OL,17,Fwas limited to 24 rows of 40 characters
 OL,18,For blocky graphics and seven colours.  
 OL,20,FThis meant that stories were stripped  
 OL,21,Fto the essentials and perfect for      
 OL,22,Fquick catchups.                        
-FL,411,100,104,150,8ff,8ff
+FL,411,411,412,150,8ff,8ff
 PN,41003
 SC,0003
 PS,8000
 CT,8,T
 RE,0
-OL,0,        CEEFAX 2 624 Wed 22 AprC20:12/13
+OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
 OL,2,Vj5k7j5 Sj5 j7ju>jwsCENTERTAINMENT  
 OL,3,Vj5j5"m' S*-$/*%/*%/(,/C               
-OL,4,V*-,,,,,,/F ``````````````````````G 3/12
+OL,4,V*-,,,,,,/F ``````````````````````G 3/5 
 OL,5,CThe ONE SHOW                           
 OL,6,FTeletext pages are selected by typing  
 OL,7,Fin a three digit page number on your   
@@ -78,14 +78,14 @@ OL,12, 104 BBC News
 OL,13, 150 Bamboozle quizzes                  
 OL,14, 160 Stories from LA                    
 OL,19, 302 BBC Sport                          
-FL,411,100,104,150,8ff,8ff
+FL,411,411,412,150,8ff,8ff
 PN,41004
 SC,0004
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,New subpage inserted 4/4                
+OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
+OL,1,New subpage inserted 4/4           C4/5 
 OL,3, These pages are a placeholder for      
 OL,4, The One Show.                          
 OL,6, This carousel will probably be a       
@@ -94,4 +94,32 @@ OL,8, information pages.
 OL,10, 411 is a gallery of selected art       
 OL,12, 412 will be for art contributions      
 OL,13, created by One Show viewers.           
-FL,411,100,104,150,8ff,8ff
+FL,411,411,412,150,8ff,8ff
+PN,41005
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
+OL,1, Weekdays at 1900                  C5/5 
+OL,3,]Q      h4 |                            
+OL,4,]Q      o? >}0 >/t                     
+OL,5,]Q      j5  j5j=,/                     
+OL,6,]Q      "}% j5"m|=                     
+OL,7,]Q    `x|t0    pp `p|p0       pp        
+OL,8,]Q  `~/o}0  x/}    x//t     
+OL,9,]Q  ~!   #o  7    *5  ~!   "4    
+OL,10,]Q j%     "5        h     5   
+OL,11,]Q j       5        j!   
+OL,12,]Q "t     h!        *           
+OL,13,]Q  *|0 p|'          *tp  p|0    
+OL,14,]Q   "+/!      p     "///'     
+OL,15,]Q               pp                    
+OL,16,]Q              jw! >o4`>/t*u 0`?     
+OL,17,]Q              `#}  j5j5  kz%oz!     
+OL,18,]Q              +/' / *% +/!  / *%      
+OL,20, Matt Baker and Angellica Bell bring you
+OL,21, the big stories from across the country
+OL,22, C                    Details follow -->
+OL,23,AFastext                                
+FL,411,411,412,150,8ff,8ff
