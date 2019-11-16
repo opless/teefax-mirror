@@ -1,0 +1,243 @@
+DE,Teltext Wne Bottle by pixelblip
+DS,inserter
+SP,C:\Teefax\P558WineBottle.tti
+PN,55801
+SC,0001
+PS,8000
+CT,8,T
+RE,0
+OL,0,W     R%                       %        
+OL,1,W           R!      !                   
+OL,2,R"   "          0    !     $(           
+OL,3,W R$     $      !                       
+OL,4,R(           p   (     0`      "     $  
+OL,5,W   R4      "7                         !
+OL,6,W           R`n=           (     0      
+OL,7,R0      !     "`8#q80              $    
+OL,8,W             R~i76|  h                
+OL,9,W  R!    *     5~'p,90      ! 0        
+OL,10,W             R)?i7fbd              ! 
+OL,11,R%   j     `    *5^oueeQ R`            
+OL,12,W               R"owo%18^0       $     
+OL,13,R`     `        !  !k^7b`d            
+OL,14,R"     "            kn?y~vf$           
+OL,15,W          R!    `   +h?`x^8          
+OL,16,W R"               `  "n?da|g5         
+OL,17,W      R$          "   "%j?*?b5      $  
+OL,18,W           R"           &o}^?!         
+OL,19,R!  4          "      !          !      
+OL,20,W       R(                              
+OL,21,W         R(      (     !    $      !   
+OL,22,R%   `                                  
+OL,23,W     R`      `          0      0       
+OL,24,W                                       
+PN,55802
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,W           R`                          
+OL,1,WR0                  `            `     
+OL,2,W R`     `      `          "            
+OL,3,W R"     "      "                       
+OL,4,WR!          p    !    (        !    " `
+OL,5,W   R"      "7                          
+OL,6,W      R`"    ~=            !    (      
+OL,7,R(            "`8#q10              "    
+OL,8,W  Rh          ~|76|   !    h          
+OL,9,W        R!  " 5~'`,90        (        
+OL,10,R`             )?l7fb`              " 
+OL,11,W    R%  *  %   *5^zueeQ               
+OL,12,W              R`"o7o%1980       ( (   
+OL,13,WR$     $          #k~'b^d            
+OL,14,W                  Rkz?|~vf$           
+OL,15,W  R0       "     $  +h?`|x8          
+OL,16,W      R`           $ "n?p!zc5      `  
+OL,17,W      R"     0        "%k(?b5      "  
+OL,18,R`              0     `  2o}~?!         
+OL,19,W  R"                       "    "      
+OL,20,W        R!                         `   
+OL,21,R`          !      !         "          
+OL,22,W    R%                                 
+OL,23,W      R$      $    `    (   `  (       
+OL,24,W                                       
+PN,55803
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,W            R%     `                   
+OL,1,WR(                   $  "   `          
+OL,2,W  R$     $      $          !           
+OL,3,W                R`             `       
+OL,4,W    R0      p          $"            ! 
+OL,5,W          R"7!                         
+OL,6,W       R$    n=            "     $ 0   
+OL,7,WR!           "`8#y0^                   
+OL,8,W   R4    j    ~h76|   "     4         
+OL,9,W             R5^'`,90         $      0
+OL,10,WR$   `        )?z7f^`    `           
+OL,11,W          R*   *5^jueeQ               
+OL,12,W               R&o7^%1890        !    
+OL,13,WR"     (      (   )k~'b`d            
+OL,14,W           R0      kj^x~vf$  $        
+OL,15,W  R`             (  +h?hx^8          
+OL,16,W       R0          " "n?a!yc5       $ 
+OL,17,W       R!    `        "%n?(b5         
+OL,18,WR$             (      0 bo}|?!   0     
+OL,19,W   R!                       !          
+OL,20,W        R" `                        $  
+OL,21,W                 R"          !         
+OL,22,W    R*                                 
+OL,23,W      R"$     (     $    $      !      
+OL,24,W                                       
+PN,55804
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,W                R`  %    0             
+OL,1,W                    R"     `           
+OL,2,W  R"     "      "                      
+OL,3,W                 R0             $    ` 
+OL,4,W    R`      p          "               
+OL,5,W          R"7               4          
+OL,6,W       R(    n=    (             " `   
+OL,7,WR"           "a8#u0^    0              
+OL,8,W   R"     !   ~h76|         "         
+OL,9,W             R7~'b,90         "      (
+OL,10,WR(    $  (  0 )^h7fb`  (             
+OL,11,W              R*5^jueeQ  R*      `    
+OL,12,W               R"o7o%98^0     (       
+OL,13,W R!     !         !o~'bd^   `        
+OL,14,W           R(      kj?x~vf$  "        
+OL,15,WR`  $`            !`;j?dx^8          
+OL,16,W       R(            "n?`#xc5       " 
+OL,17,W             R$       "%z?(?r5         
+OL,18,W   R`           !     ( "}|!   (     
+OL,19,W         R4                            
+OL,20,W           R0      0         `   "  "  
+OL,21,W     R0                                
+OL,22,W                               R`      
+OL,23,W       R)      !    "    "   "         
+OL,24,W                                       
+PN,55805
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,W                     R`   %        `   
+OL,1,W   R(     `      `          "          
+OL,2,W                  R4             0     
+OL,3,W            R`     !    (        !     
+OL,4,W     R"     p                          
+OL,5,W        Rh "7     " h      h !    "    
+OL,6,W R(          n=                     "  
+OL,7,W    R`     0 "`8gq0^   ` !    (        
+OL,8,W             R~h76|            "      
+OL,9,W             Ru~/`,90    `            
+OL,10,W      R!      )?h7fb`     (          
+OL,11,W              R*u^jueeQ       R`  *   
+OL,12,W  R$     $      "o7o-18^0             
+OL,13,W            R`    !k~'v`d    (       
+OL,14,W    R0       "     oj?xvf$           
+OL,15,W                   R+l^`xx8         `
+OL,16,W        R"     $     "n?`%xc5         
+OL,17,W                R0    "%j?8?j5         
+OL,18,W    R"     0            "o}|?!    "    
+OL,19,W                                    Rh 
+OL,20,W      R(     !     "          (        
+OL,21,W      R!                               
+OL,22,W        Re      %         *      *     
+OL,23,W                                       
+OL,24,W                                       
+PN,55806
+SC,0006
+PS,8000
+CT,8,T
+RE,0
+OL,0,W      R`               %      `     %  
+OL,1,W    R!     $      $          !         
+OL,2,W                                R(     
+OL,3,W      Rp      0          $         (   
+OL,4,W           Rp      0         `         
+OL,5,W         R4"7  "     4             ! 4 
+OL,6,W  R!         n=                        
+OL,7,W     R$    ( b`x3q0^     " `   $       
+OL,8,W             R~h76|             !     
+OL,9,W      R`      5~g`,90     0           
+OL,10,W             R+?h7fb`      $      0  
+OL,11,W              R*5^jueeQ               
+OL,12,W  R"     (      "o7oe18^0             
+OL,13,W             R$   !k~/b`d     !      
+OL,14,W    R`             kj?x~vf$           
+OL,15,W         R0         +x?ax^8          
+OL,16,W              R(     "n?b1xc5         
+OL,17,W                R(    "%j?i?b5     0   
+OL,18,W     R!    `            "o}|?!         
+OL,19,W            Rh                        !
+OL,20,W                   R!          !       
+OL,21,W      R" `                        0    
+OL,22,W   R%           *          %           
+OL,23,W                                       
+OL,24,W                                       
+PN,55807
+SC,0007
+PS,8000
+CT,8,T
+RE,0
+OL,0,W    R`  %                    ` %       
+OL,1,W          R"      (`                   
+OL,2,W   R$              (     `      (      
+OL,3,W      R(      (          "             
+OL,4,W           Rp   0           ` $    `   
+OL,5,W          R"7        "               h 
+OL,6,W  R"         n=           0            
+OL,7,W     R"     !"`8#q0^           " `     
+OL,8,W             R~j76|                   
+OL,9,W       R$     5~7`,90     (           
+OL,10,W             R)?h7fb`      "   `  (  
+OL,11,W   R0          *5^jueeQ               
+OL,12,W   R!     !     "o7o518^0      `      
+OL,13,W             R"   !k~gb`d            
+OL,14,W     R$            kj?z~vf$           
+OL,15,W         R(         +h?`x^8          
+OL,16,W               R! 0  "o?h!xk5         
+OL,17,W     R`           !   "%j?,?b5     (   
+OL,18,W           R$           "o|?!        `
+OL,19,W             Ri     h          h       
+OL,20,W       R0                              
+OL,21,W   R`     0      0    (    `   (  (    
+OL,22,W                                       
+OL,23,W                                       
+OL,24,W                                       
+PN,55808
+SC,0008
+PS,8000
+CT,8,T
+RE,0
+OL,0,W    R`  %                    ` %       
+OL,1,W          R"      (`                   
+OL,2,W   R$              (     `      (      
+OL,3,W      R(      (          "             
+OL,4,W           Rp   0           ` $    `   
+OL,5,W          R"7        "               h 
+OL,6,W  R"         n=           0            
+OL,7,W     R"     !"`8#q0^           " `     
+OL,8,W             R~j76|                   
+OL,9,W       R$     5~7`,90     (           
+OL,10,W             R)?h7fb`      "   `  (  
+OL,11,W   R0          *5^jueeQ               
+OL,12,W   R!     !     "o7o518^0      `      
+OL,13,W             R"   !k~gb`d            
+OL,14,W     R$            kj?z~vf$           
+OL,15,W         R(         +h?`x^8          
+OL,16,W               R! 0  "o?h!xk5         
+OL,17,W     R`           !   "%j?,?b5     (   
+OL,18,W           R$           "o|?!        `
+OL,19,W             Ri     h          h       
+OL,20,W       R0                              
+OL,21,W   R`     0      0    (    `   (  (    
+OL,22,W                                       
+OL,23,W                                       
+OL,24,W                                       
