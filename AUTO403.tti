@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E16/11C02:32:08
+OL,0,XXXXXXXXBNMPSERVER2      E16/11C03:32:11
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FOutbreaks of rain spreading north and
-OL,9,Fwest across much England and Wales,
-OL,10,Ffollowed by clear spells and a few
-OL,11,Fcoastal showers in the south and east.
-OL,12,FSome clear spells across Scotland and
-OL,13,FNorthern Ireland with local frost and
-OL,14,Ffog.
+OL,7,GToday
+OL,8,FMost of southern UK and Scotland dry
+OL,9,Fwith sunny spells. Some heavy showers
+OL,10,Fin the far west of Wales and Cornwall.
+OL,11,FMany other regions cloudier with some
+OL,12,Frain at times, especially northeast
+OL,13,FEngland. Less windy than yesterday and
+OL,14,Ffeeling chilly.
 OL,4,                                    1/2 
-OL,16,GSaturday
-OL,17,FFurther rain at times across northern
-OL,18,FEngland and southern Scotland. Showers
-OL,19,Fin other western and northern areas,
-OL,20,Fbut mainly dry elsewhere with some
-OL,21,Fsunshine.
+OL,16,GTonight
+OL,17,FSouthern UK and much of Scotland and
+OL,18,FNorthern Ireland cold with frost and
+OL,19,Ffog patches. Elsewhere, cloudier and
+OL,20,Fless cold with rain at times for some,
+OL,21,Fmainly northern England
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,18 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E16/11C02:32:08
+OL,0,XXXXXXXXBNMPSERVER2      E16/11C03:32:11
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FCloudy conditions with outbreaks of
-OL,9,Frain steadily replaced by drier,
-OL,10,Fbrighter but colder conditions from the
-OL,11,Fnorth-west. Frost/freezing fog becoming
-OL,12,Fmore widespread by Tuesday morning,
-OL,13,Fahead of further rain.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FRain clearing the east then Monday
+OL,9,Flargely fine and dry. A widespread
+OL,10,Fovernight frost followed by rain into
+OL,11,Fthe west Tuesday. Becoming windier and
+OL,12,Fmilder Wednesday but for many dry.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
