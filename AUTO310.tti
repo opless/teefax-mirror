@@ -1,23 +1,31 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 310 Football
+DE,Sport Page 310 Scottish Championship
 CT,10,T
 PN,31000
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E16/11C16:32:37
+OL,0,XXXXXXXXBNMPSERVER2      E16/11C17:34:04
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Sane, Sancho,
-OL,5,BCeballos, Haaland, Ferguson, Chilwell
-OL,9,FShare this with
-OL,11,FLeroy Sane's Manchester City team-mates
-OL,12,Fare increasingly convinced the
-OL,13,F23-year-old Germany midfielder will
-OL,14,Fleave the club for Bayern Munich next
-OL,15,Fyear. (Telegraph)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BDundee Utd 3-0 Queen of South:
+OL,5,BMcMullan, Clark & Stanton earn win
+OL,6, Dundee United seized command of the
+OL,7, Scottish Championship, opening a
+OL,8, nine-point lead at the summit after a
+OL,9, thumping win over Queen of the South.
+OL,11,FWith Lawrence Shankland absent on
+OL,12,Finternational duty, Paul McMullan and
+OL,13,FNicky Clark stepped up in the first
+OL,14,Fhalf to set Robbie Neilson's side on
+OL,15,Fcourse for a fifth consecutive win.
+OL,17,FSam Stanton added a splendid third
+OL,18,Fafter the break as United moved nine
+OL,19,Fpoints clear of Ayr United, with Dundee
+OL,20,Fa further three back and Inverness
+OL,21,FCaledonian Thistle one more adrift.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,311,302,301,300,8FF,199
