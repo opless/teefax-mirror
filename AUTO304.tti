@@ -1,20 +1,28 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 304 Football
+DE,Sport Page 304 Women's Football
 CT,10,T
 PN,30400
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E17/11C18:32:15
+OL,0,XXXXXXXXBNMPSERVER2      E17/11C19:31:57
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BKosovo v England: Player Rater
-OL,8,FShare this with
-OL,10,FRate players out of 10 throughout or
-OL,11,Fafter the game. The rater will close 30
-OL,12,Fminutes after the final whistle.
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BWomen's Super League: Tottenham Hotspur
+OL,5,B0-2 Arsenal
+OL,6, The Women's Super League crowd record
+OL,7, was smashed for the second time this
+OL,8, season but the 38,262 fans at Tottenham
+OL,9, Hotspur Stadium saw Arsenal claim the
+OL,10, north London bragging rights.
+OL,12,FScotland star Kim Little and
+OL,13,FNetherlands striker Vivianne Miedema's
+OL,14,Fsecond-half goals won the division's
+OL,15,Ffirst derby between the two sides to
+OL,16,Fkeep Arsenal a point behind leaders
+OL,17,FChelsea.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,305,302,301,300,8FF,199
