@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/11C02:34:16
+OL,0,XXXXXXXXBNMPSERVER2      E17/11C03:37:20
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain or showers at times across Wales,
-OL,9,Fnorthern England, the far south-west
-OL,10,Fand also north-west UK. Clear spells
-OL,11,Felsewhere with a frost in places and
-OL,12,Falso some patches of mist and fog 
-OL,13,Fdeveloping.
+OL,7,GToday
+OL,8,FEarly cloud and rain over Northern
+OL,9,FIreland and most of Scotland clearing
+OL,10,Fto brighter weather. Far south of
+OL,11,FScotland and much of England and Wales
+OL,12,Ffairly cloudy with occasional rain,
+OL,13,Fmainly northern England. Southern UK
+OL,14,Fmostly dry with brighter spells.
 OL,4,                                    1/2 
-OL,15,GSunday
-OL,16,FRather cloudy with occasional showers
-OL,17,Facross northern and western areas
-OL,18,Fextending south through the day.
-OL,19,FOtherwise, fog patches slow to clear,
-OL,20,Fbut some sunny spells developing, best
-OL,21,Facross northwestern areas.
+OL,16,GTonight
+OL,17,FMost areas becoming cold, dry and
+OL,18,Ffrosty with clearer skies. Daytime
+OL,19,Fcloud and rain over parts of England
+OL,20,Fgradually becoming confined to the far
+OL,21,Feast and southeast of England.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/11C02:34:16
+OL,0,XXXXXXXXBNMPSERVER2      E17/11C03:37:21
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Monday to Wednesday
-OL,8,FMonday largely dry with sunny periods,
-OL,9,Ffrosty overnight. Some rain into the
-OL,10,Fwest Tuesday, elsewhere another fine
-OL,11,Fday. Windier and less cold Wednesday;
-OL,12,Frain in the west, drier further east.
+OL,7,GOutlook for Tuesday to Thursday
+OL,8,FCold start then sunshine Tuesday, but
+OL,9,Frain in the east at first, and west
+OL,10,Flater. Some bight spells Wednesday and
+OL,11,FThursday, but often cloudy with
+OL,12,Fshowers. Breezy, but less cold.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

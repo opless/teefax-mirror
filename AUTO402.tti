@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/11C02:34:16
+OL,0,XXXXXXXXBNMPSERVER2      E17/11C03:37:20
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BA cloudy evening   S5CSTATISTICS       
-OL,9,Band night. A dry   S5C 
-OL,10,Bstart in the east  S5G   Maximum       
-OL,11,Botherwise there    S5GTemperatureC8C 
-OL,12,Bwill be some       S5G                 
-OL,13,Boutbreaks of rain  S5G   Minumum       
-OL,14,Bfrom time to time. S5GTemperatureC2C 
-OL,15,BWinds will be      S5C                 
-OL,16,Blight.             S5G
-OL,17,B                   S5G
-OL,18,B                   S5G                 
-OL,19,B                   S5G
-OL,20,B                   S5G
+OL,6,CTODAY
+OL,8,BA cloudy morning   S5CSTATISTICS       
+OL,9,Bwith outbreaks of  S5C 
+OL,10,Brain for most, but S5G   Maximum       
+OL,11,Bturning mostly dry S5GTemperatureC9C 
+OL,12,Bwith sunny spells  S5G                 
+OL,13,Bfrom the northwest S5G   Minumum       
+OL,14,Blate morning.      S5GTemperatureC-6C 
+OL,15,BPatchy cloud and a S5C                 
+OL,16,Bfew afternoon      S5G
+OL,17,Bshowers near the   S5G
+OL,18,Bnorth coast, drier S5G                 
+OL,19,Bwith more sunny    S5G
+OL,20,Bspells in the      S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,20 +32,20 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/11C02:34:16
+OL,0,XXXXXXXXBNMPSERVER2      E17/11C03:37:20
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CSUNDAY
-OL,8,BA cloudy, morning  S5CSTATISTICS       
-OL,9,Bfor most with some S5C 
-OL,10,Brain. Brightening  S5G   Maximum       
-OL,11,Bup with some       S5GTemperatureC8C 
-OL,12,Bsunshine developingS5G                 
-OL,13,Bbut still a few    S5G   Minumum       
-OL,14,Bshowers in the     S5GTemperatureC2C 
-OL,15,Beast.              S5C                 
+OL,6,CTONIGHT
+OL,8,BCloud breaks up    S5CSTATISTICS       
+OL,9,Bthrough the eveningS5C 
+OL,10,Bto give a cold dry S5G   Maximum       
+OL,11,Bnight with largely S5GTemperatureC9C 
+OL,12,Bclear skies and a  S5G                 
+OL,13,Bwidespread sharp   S5G   Minumum       
+OL,14,Bfrost.             S5GTemperatureC-6C 
+OL,15,B                   S5C                 
 OL,16,B                   S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
