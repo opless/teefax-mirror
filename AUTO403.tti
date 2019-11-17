@@ -5,26 +5,24 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/11C13:34:23
+OL,0,XXXXXXXXBNMPSERVER2      E17/11C14:32:50
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FEarly cloud and rain over Northern
-OL,9,FIreland and most of Scotland clearing
-OL,10,Fto brighter weather. Far south of
-OL,11,FScotland and much of England and Wales
-OL,12,Ffairly cloudy with occasional rain,
-OL,13,Fmainly northern England. Southern UK
-OL,14,Fmostly dry with brighter spells.
+OL,7,GThis Evening and Tonight
+OL,8,FMost areas becoming cold, dry and
+OL,9,Ffrosty with clearer skies. Cloud and
+OL,10,Fsporadic rain over parts of England
+OL,11,Fgradually becoming confined to the far
+OL,12,Feast and southeast of England where
+OL,13,Fbecoming windy overnight.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FMost areas becoming cold, dry and
-OL,18,Ffrosty with clearer skies. Daytime
-OL,19,Fcloud and rain over parts of England
-OL,20,Fgradually becoming confined to the far
-OL,21,Feast and southeast of England.
+OL,15,GMonday
+OL,16,FFine and dry for most with good sunny
+OL,17,Fspells. Cloudier and windy over the far
+OL,18,Feast of England where a little rain
+OL,19,Fpossible. Cold.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +30,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E17/11C13:34:23
+OL,0,XXXXXXXXBNMPSERVER2      E17/11C14:32:50
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FCold start then sunshine Tuesday, but
-OL,9,Frain in the east at first, and west
-OL,10,Flater. Some bight spells Wednesday and
-OL,11,FThursday, but often cloudy with
-OL,12,Fshowers. Breezy, but less cold.
+OL,8,FBecoming increasingly unsettled as rain
+OL,9,Farrives across the southwest, where it
+OL,10,Fmay turn heavier at times from
+OL,11,FWednesday onwards. As a milder
+OL,12,Fsoutheasterly breeze develops
+OL,13,Ftemperatures recover the near average.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
