@@ -1,21 +1,28 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 311 Football
+DE,Sport Page 311 Women's Football
 CT,10,T
 PN,31100
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E18/11C21:33:13
+OL,0,XXXXXXXXBNMPSERVER2      E18/11C22:36:49
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Emery, Upamecano,
-OL,5,BRakitic, Edouard, Skriniar, Young,
-OL,6,BChong
-OL,10,FShare this with
-OL,12,FArsenal manager Unai Emery has been
-OL,13,Fgiven a month to save his job. (Sun)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BWomen's football: Spain's top players'
+OL,5,Bstrike called off after negotiations
+OL,6,Breopen
+OL,7, A strike by women footballers in
+OL,8, Spain's top division has ended after
+OL,9, securing an agreement to reopen
+OL,10, negotiations over pay.
+OL,12,FAll eight top-flight fixtures were
+OL,13,Fpostponed over the weekend.
+OL,15,FBut now the Association of Women's
+OL,16,Fplayers (AFE) has confirmed
+OL,17,Fnegotiations will resume and that the
+OL,18,Fstrike is off.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,312,302,301,300,8FF,199
