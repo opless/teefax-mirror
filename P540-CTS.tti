@@ -1,129 +1,133 @@
 DE,CTS Main Index
 DS,inserter
 SP,C:\Users\Chace\Desktop\Teletext-CTS\P540-CTS.tti
-CT,6,C
 PN,54001
 SC,0001
 PS,8000
+CT,6,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
-OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
-OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
-OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
-OL,6, Reflection ...C541C]FA abridged        
-OL,7, Ahh, Teacher .B542  Faccount of when I 
-OL,8, Art ..........B543  Fdiscovered the    
-OL,9, Pages in GreekB544  FTXT button, back  
-OL,10, In the KitchenB545  Fin November 1987. 
-OL,11,                     F                  
-OL,12,                     F                  
-OL,13,                     F                  
-OL,14,                     G                  
-OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,R  5G                               Rj  
-OL,19,R  5G                               Rj  
-OL,20,R  5G                               Rj  
-OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,1,Q|<,<,l,l|R|<,l,,<,l,,|,l<l,||Q|<,<,l,l|
+OL,2,Q uz 5*,R  /5*o o5* u*`Q uz 5*,
+OL,3,Q 7k 7k R  5j 5j 7h"Q 7k 7k 
+OL,4,Q/-,/,/,./R//,/,,-,.,/-.,-.,//Q/-,/,/,./
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,6,M A warm welcome to viewers on BBC One  
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,9,     T]GBy Christopher Tsangari  \      
+OL,11,           REFLECTION ...C541           
+OL,12,           SPORT ........B542           
+OL,13,           ART ..........B543           
+OL,14,           MISCELLANY ...B544           
+OL,15,           IN THE KITCHENB545           
+OL,17,RZ <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,RZ 5CREFLECTIONGAn account of my    Rj  
+OL,19,RZ 5Gexperience of discovering      Rj  
+OL,20,RZ 5Gteletext back in 1987          Rj  
+OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
 PN,54002
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
-OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
-OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
-OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
-OL,6, Reflection ...B541  B                  
-OL,7, Ahh, Teacher .C542C]BThe world's second
-OL,8, Art ..........B543  Bteletext soap     
-OL,9, Pages in GreekB544  Bopera... except   
-OL,10, In the KitchenB545  Bit's not as well  
-OL,11,                     Bdeveloped as Park 
-OL,12,                     BAvenue was.       
-OL,13,                     B                  
-OL,14,                     G                  
-OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,R  5G                               Rj  
-OL,19,R  5G                               Rj  
-OL,20,R  5G                               Rj  
-OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,1,Q|<,<,l,l|R|<,l,,<,l,,|,l<l,||Q|<,<,l,l|
+OL,2,Q uz 5*,R  /5*o o5* u*`Q uz 5*,
+OL,3,Q 7k 7k R  5j 5j 7h"Q 7k 7k 
+OL,4,Q/-,/,/,./R//,/,,-,.,/-.,-.,//Q/-,/,/,./
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,6,M        www.bbc.co.uk/theoneshow       
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,9,     T]GBy Christopher Tsangari  \      
+OL,11,           REFLECTION ...B541           
+OL,12,           SPORT ........C542           
+OL,13,           ART ..........B543           
+OL,14,           MISCELLANY ...B544           
+OL,15,           IN THE KITCHENB545           
+OL,17,RZ <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,RZ 5CSPORTSGFixtures and results    Rj  
+OL,19,RZ 5Gfrom school matches in the     Rj  
+OL,20,RZ 5GLondon Borough of Enfield      Rj  
+OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
 PN,54003
 SC,0003
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
-OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
-OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
-OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
-OL,6, Reflection ...B541  E                  
-OL,7, Ahh, Teacher .B542  E                  
-OL,8, Art ..........C543C]EIncludes my       
-OL,9, Pages in GreekB544  ETeletext selfie,  
-OL,10, In the KitchenB545  Eplus an unfinished
-OL,11,                     EEnfield.          
-OL,12,                     E                  
-OL,13,                     E                  
-OL,14,                     G                  
-OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,R  5G                               Rj  
-OL,19,R  5G                               Rj  
-OL,20,R  5G                               Rj  
-OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,1,Q|<,<,l,l|R|<,l,,<,l,,|,l<l,||Q|<,<,l,l|
+OL,2,Q uz 5*,R  /5*o o5* u*`Q uz 5*,
+OL,3,Q 7k 7k R  5j 5j 7h"Q 7k 7k 
+OL,4,Q/-,/,/,./R//,/,,-,.,/-.,-.,//Q/-,/,/,./
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,6,M A warm welcome to viewers on BBC One  
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,9,     T]GBy Christopher Tsangari  \      
+OL,11,           REFLECTION ...B541           
+OL,12,           SPORT ........B542           
+OL,13,           ART ..........C543           
+OL,14,           MISCELLANY ...B544           
+OL,15,           IN THE KITCHENB545           
+OL,17,RZ <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,RZ 5CARTGPersonal attempts with     Rj  
+OL,19,RZ 5Ggraphics (I think I should let Rj  
+OL,20,RZ 5Gthe experts carry on!)         Rj  
+OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
 PN,54004
 SC,0004
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
-OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
-OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
-OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
-OL,6, Reflection ...B541  G                  
-OL,7, Ahh, Teacher .B542  G                  
-OL,8, Art ..........B543  G                  
-OL,9, Pages in GreekC544C]GDoes your TV      
-OL,10, In the KitchenB545  Gsupport this      
-OL,11,                     Gcharacter set?    
-OL,12,                     G                  
-OL,13,                     G                  
-OL,14,                     G                  
-OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,R  5G                               Rj  
-OL,19,R  5G                               Rj  
-OL,20,R  5G                               Rj  
-OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,1,Q|<,<,l,l|R|<,l,,<,l,,|,l<l,||Q|<,<,l,l|
+OL,2,Q uz 5*,R  /5*o o5* u*`Q uz 5*,
+OL,3,Q 7k 7k R  5j 5j 7h"Q 7k 7k 
+OL,4,Q/-,/,/,./R//,/,,-,.,/-.,-.,//Q/-,/,/,./
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,6,M A warm welcome to viewers on BBC One  
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,9,     T]GBy Christopher Tsangari  \      
+OL,11,           REFLECTION ...B541           
+OL,12,           SPORT ........B542           
+OL,13,           ART ..........B543           
+OL,14,           MISCELLANY ...C544           
+OL,15,           IN THE KITCHENB545           
+OL,17,RZ <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,RZ 5CMISCELLANYGNothing special to  Rj  
+OL,19,RZ 5Gsee here, keep moving :-)      Rj  
+OL,20,RZ 5G                               Rj  
+OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
 PN,54005
 SC,0005
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,T|<,<,l,l|V|<,l,,<,l,,|,l<l,||W|<,<,l,l|
-OL,2,T uz 5*,V  /5*o o5* u*`W uz 5*,
-OL,3,T 7k 7k V  5j 5j 7h"W 7k 7k 
-OL,4,T/-,/,/,./V//,/,,-,.,/-.,-.,//W/-,/,/,./
-OL,6, Reflection ...B541  G                  
-OL,7, Ahh, Teacher .B542  G                  
-OL,8, Art ..........B543  G                  
-OL,9, Pages in GreekC544C                    
-OL,10, In the KitchenB545C]FThis was what     
-OL,11,                     Fteletext was made 
-OL,12,                     Ffor: to carry     
-OL,13,                     Frecipes           
-OL,14,                     G                  
-OL,17,R  <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,R  5G                               Rj C
-OL,19,R  5G                               Rj  
-OL,20,R  5G                               Rj  
-OL,21,R  -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
+OL,1,Q|<,<,l,l|R|<,l,,<,l,,|,l<l,||Q|<,<,l,l|
+OL,2,Q uz 5*,R  /5*o o5* u*`Q uz 5*,
+OL,3,Q 7k 7k R  5j 5j 7h"Q 7k 7k 
+OL,4,Q/-,/,/,./R//,/,,-,.,/-.,-.,//Q/-,/,/,./
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,6,M A warm welcome to viewers on BBC One  
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,9,     T]GBy Christopher Tsangari  \      
+OL,11,           REFLECTION ...B541           
+OL,12,           SPORT ........B542           
+OL,13,           ART ..........B543           
+OL,14,           MISCELLANY ...B544           
+OL,15,           IN THE KITCHENC545           
+OL,17,RZ <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
+OL,18,RZ 5CRECIPEGThis is what teletext   Rj  
+OL,19,RZ 5Gwas made for. Actually we know Rj  
+OL,20,RZ 5Git wasn't. Have a go.          Rj  
+OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
