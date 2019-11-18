@@ -5,10 +5,10 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E18/11C09:37:18
+OL,0,XXXXXXXXBNMPSERVER2      E18/11C10:32:38
 OL,1,T]G              Today                  
 OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G04V%  B               
+OL,3,           ZV`?0~G03V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSunny          
@@ -34,25 +34,25 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E18/11C09:37:18
+OL,0,XXXXXXXXBNMPSERVER2      E18/11C10:32:38
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G08V%  B               
+OL,3,           ZV`?0~G07V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G03V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 03V} B              
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG10VtV+"RG03R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  BSome Cloud
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG10VtV+"VG03V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  BSome Cloud
 OL,14,B            ^ZV`  R*G 05R}  B         
 OL,15,B            ^ZVk|U            
 OL,16,B            ^ZV'oG 06V}zt ESunny  
-OL,17,B              ZVj^UG 05V  E      
-OL,18,B            ZVx|^G 09V'         
+OL,17,B              ZVj^UG 06V  E      
+OL,18,B            ZVx|^G 10V'         
 OL,19,             ^ZV! +/'iRqp0        
 OL,20,B            ^ZV  tG 07R/!        
 OL,21,B            ZV zG11V^/s/R/? B         
