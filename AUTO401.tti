@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E18/11C20:35:57
+OL,0,XXXXXXXXBNMPSERVER2      E18/11C21:33:55
 OL,1,T]G           This Evening              
 OL,2,           ^ZU 4`~|}            G 1/2 
 OL,3,           ZU`?0~G02U%  B               
@@ -14,47 +14,47 @@ OL,5,           ^ZV({5
 OL,6,            ZV!'~G-1V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G -2V} B              
-OL,10,       ^ZUp|t VxVg0 B             
-OL,11,       ZUnG02UtV+"VG-2V B             
-OL,12,       ZU+V`4V+|0             
-OL,13,        ZU+%*o!V" R *u  BClear     
+OL,9,           ^ZVj)"G -3V} B              
+OL,10,       ^ZUp|t VxRg0 B             
+OL,11,       ZUnG02UtV+"RG-2R B             
+OL,12,       ZU+R`4R+|0             
+OL,13,        ZU+%*o!R" R *u  BClear     
 OL,14,B            ^ZU`  R*G 00R}  B         
 OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 00V}zt B       
-OL,17,ECloudy        ZUj^VG 01V B       
-OL,18,E            ZUx|^G 02V'         
+OL,16,B            ^ZU'oG 01R}zt B       
+OL,17,B              ZUj^VG 01R B       
+OL,18,B            ZUx|^G 01R'         
 OL,19,             ^ZU! +/'iRqp0        
-OL,20,B            ^ZV  tG 01R/!        
-OL,21,B            ZV zG05V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,20,ECloudy      ^ZU  tG 01R/!        
+OL,21,E            ZU zG04U^/s/R/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E18/11C20:35:57
+OL,0,XXXXXXXXBNMPSERVER2      E18/11C21:33:55
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G08V%  B               
+OL,3,           ZV`?0~G07V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G03V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,ELight Rain^ZV*y?sp  B              
+OL,8,EHeavy Rain^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 03V} B              
 OL,10,       ^ZUp|t VxVg0 B             
 OL,11,       ZUnG10UtV+"VG03V B             
 OL,12,       ZU+V`4V+|0             
-OL,13,        ZU+%*o!V" V *u  B          
-OL,14,E            ^ZV`  V*G 05V} B          
+OL,13,        ZU+%*o!V" S *u  CSome Cloud
+OL,14,E            ^ZV`  S*G 05S}  C         
 OL,15,B            ^ZVk|R            
 OL,16,B            ^ZV'oG 06V}zt BSunny  
 OL,17,B              ZVj^RG 06V  B      
 OL,18,B            ZVx|^G 10V'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 07V/!        
+OL,20,B            ^ZV  tG 08V/!        
 OL,21,B            ZV zG12V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
