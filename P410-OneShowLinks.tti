@@ -87,7 +87,7 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
-OL,1,New subpage inserted 4/4           C4/5 
+OL,1,New subpage inserted 4/4                
 OL,3, These pages are a placeholder for      
 OL,4, The One Show.                          
 OL,6, This carousel will probably be a       
@@ -96,6 +96,7 @@ OL,8, information pages.
 OL,10, 411 is a gallery of selected art       
 OL,12, 412 will be for art contributions      
 OL,13, created by One Show viewers.           
+OL,23,                                    C4/5
 OL,24,A NextBTeletext artCMake artFIndex      
 FL,411,411,412,100,8ff,8ff
 PN,41005
@@ -104,7 +105,7 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
-OL,1, Weekdays at 1900                  C5/5 
+OL,1,M Weekdays at 1900                      
 OL,3,]Q      h4 |                            
 OL,4,]Q      o? >}0 >/t                     
 OL,5,]Q      j5  j5j=,/                     
@@ -123,6 +124,6 @@ OL,17,]Q              `#}  j5j5  kz%oz!
 OL,18,]Q              +/' / *% +/!  / *%      
 OL,21, Matt Baker and Angellica Bell bring you
 OL,22, the big stories from across the country
-OL,23, C                    Details follow -->
+OL,23, C            Details follow -->    C5/5
 OL,24,A NextBTeletext artCMake artFIndex      
 FL,411,411,412,100,8ff,8ff

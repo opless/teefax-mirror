@@ -7,11 +7,12 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Trying TTI                              
 OL,2, ONE SHOW VIEWERS' GALLERY              
 OL,4, Make your teletext art and send it     
 OL,5, to peterkvt80@gmail.com                
 OL,7, You can use edit.tf or                 
-OL,8, temp.zxnet.co.uk/editor.               
+OL,8, zxnet.co.uk/teletext/editor            
 OL,10, To save just copy the URL and email it 
 OL,11, to peterkvt80@gmail.com and it might   
 OL,12, appear here.                           
