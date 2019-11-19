@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E19/11C14:34:55
+OL,0,XXXXXXXXBNMPSERVER2      E19/11C15:34:21
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FA cold and frosty start for many areas
-OL,9,Fwith some dense fog patches slow to
-OL,10,Fclear across central and south-eastern
-OL,11,FEngland. Remaining dry with sunny
-OL,12,Fspells in the east, but cloudier in the
-OL,13,Fwest with outbreaks of rain arriving.
+OL,7,GThis Evening and Tonight
+OL,8,FWindy in the west with rain edging
+OL,9,Fslowly eastwards. Clearer across
+OL,10,FNorthern Ireland for a time with some
+OL,11,Ffrost and fog. Central and eastern
+OL,12,Fareas mostly dry with some frost in
+OL,13,Fplaces, though less widespread than
+OL,14,Flast night.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FPatchy frost and fog in the east, and
-OL,17,Fpossibly in the west of Northern
-OL,18,FIreland, but cloudier and windier for
-OL,19,Fother western parts with further rain
-OL,20,Fat times.
+OL,16,GWednesday
+OL,17,FWestern areas often cloudy with
+OL,18,Foccasional rain. Mostly dry and bright
+OL,19,Felsewhere. Feeling cold in brisk
+OL,20,Fsoutheasterly winds, with coastal gales
+OL,21,Fin the west.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,19 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E19/11C14:34:55
+OL,0,XXXXXXXXBNMPSERVER2      E19/11C15:34:21
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Thursday to Saturday
-OL,8,FRain will be heavy at times often
-OL,9,Faffecting southwestern areas; this
-OL,10,Ftending to become light and
-OL,11,Fincreasingly patchy as it pushes
-OL,12,Fnortheast. Brisk southeasterly breeze,
-OL,13,Ftemperatures recovering to near
-OL,14,Faverage.
+OL,8,FNorthern and eastern areas should be
+OL,9,Fdry on Thursday. Bands of rain, already
+OL,10,Fin the southwest, will move slowly and
+OL,11,Ferratically northeast to much of the UK
+OL,12,Fthrough the period.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
