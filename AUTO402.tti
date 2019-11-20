@@ -5,23 +5,23 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E20/11C01:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E20/11C02:33:55
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BClear skies in     S5CSTATISTICS       
-OL,9,Bwestern and centralS5C 
-OL,10,Bareas will lead to S5G   Maximum       
-OL,11,Bfog, and patchy    S5GTemperatureC11C 
-OL,12,Bfrost this evening S5G                 
-OL,13,Band early tonight. S5G   Minumum       
-OL,14,BCloud, rain and    S5GTemperatureC2C 
-OL,15,Bbreezy conditions  S5C                 
-OL,16,Bwill push west     S5G
-OL,17,Bbefore morning.    S5G
-OL,18,B                   S5G                 
+OL,6,CTODAY
+OL,8,BA few sunny        S5CSTATISTICS       
+OL,9,Bintervals          S5C 
+OL,10,Bdeveloping in the  S5G   Maximum       
+OL,11,Bwest for a time,   S5GTemperatureC11C 
+OL,12,Botherwise cloudy   S5G                 
+OL,13,Bwith some outbreaksS5G   Minumum       
+OL,14,Bof rain. A fresh   S5GTemperatureC7C 
+OL,15,Bsoutheasterly      S5C                 
+OL,16,Bbreeze, strong     S5G
+OL,17,Baround North       S5G
+OL,18,BChannel coasts.    S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
@@ -32,22 +32,22 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E20/11C01:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E20/11C02:33:55
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CWEDNESDAY
-OL,8,BCloudy with        S5CSTATISTICS       
-OL,9,Boutbreaks of rain, S5C 
-OL,10,Bthese clearing awayS5G   Maximum       
-OL,11,Bwest during the    S5GTemperatureC11C 
-OL,12,Bafternoon, leading S5G                 
-OL,13,Bto the chance of   S5G   Minumum       
-OL,14,Bsome late hazy     S5GTemperatureC2C 
-OL,15,Bsunshine. Fresh    S5C                 
-OL,16,Bsoutheasterly      S5G
-OL,17,Bwinds.             S5G
+OL,6,CTONIGHT
+OL,8,BBecoming dry this  S5CSTATISTICS       
+OL,9,Bevening and most   S5C 
+OL,10,Bplaces will stay   S5G   Maximum       
+OL,11,Bdry, though cloudy S5GTemperatureC11C 
+OL,12,Btonight. Rain may  S5G                 
+OL,13,Breturn to FermanaghS5G   Minumum       
+OL,14,Blater in the night.S5GTemperatureC7C 
+OL,15,BMild and breezy.   S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
