@@ -1,57 +1,77 @@
 DE,CTS - Holding page
 DS,Wales
 SP,C:\Users\Chace\Desktop\Teletext-CTS\P542-CTS.tti
-CT,24,C
 PN,54201
 SC,0001
-PS,8000
+PS,c000
+CT,24,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||||||||||||||||||||||||||||||||||||||
-OL,2,Q]CAh, teacher?  T]G01 The Deadline     
+OL,2,Q]CChace Sports   T]GBoys football      
 OL,3,T||||||||||||||||~
-OL,5, In need of some escapism... have a     
-OL,6, deadline to meet at midnight tonight   
-OL,7, (Wed 19 Oct at 2359:59) which means if 
-OL,8, I don't get the data in, armageddon    
-OL,9, will kick in. Bit of a shame really, am
-OL,10, doing really well at the moment.       
-OL,12, In other areas, lessons are just nicer 
-OL,13, to teach, getting on top of marking,   
-OL,14, planning even better lessons, thinking 
-OL,15, how to improve on present best, that   
-OL,16, sort of thing.                         
-OL,18, Mmmm... there might be an audience for 
-OL,19, a new teletext soap-opera, the first   
-OL,20, one since 1988. And why not? There     
-OL,21, might be some interest in it :-)       
-OL,22,                                    1/2 
-OL,23,Q] C@                                   
-OL,24,AMain indexBMugshotCWorld ClockFUkelele 
+OL,5,CYear 7 A-League                        
+OL,7,BDate        Opposition         H/A     
+OL,8, Wed 18 Sep  Ed Co (Cup)        Away    
+OL,9, Wed 25 Sep  Latymer            Home    
+OL,10, Tue 01 Oct  Southgate          Home    
+OL,11, Tue 08 Oct  Heron Hall         Away    
+OL,12,C*** ** ***  Oasis Hadley       TBA     
+OL,14, Tue 10 Mar  Lea Valley         Home    
+OL,15, Tue 17 Mar  Broomfield         Home    
+OL,16, Tue 24 Mar  Winchmore          Away    
+OL,22,                                    1/3 
+OL,23,Q] C                      GMore follows 
 FL,540,548,142,600,0,100
 PN,54202
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||||||||||||||||||||||||||||||||||||||
-OL,2,Q]CAh, teacher?  T]G02 \-term reflection
+OL,2,Q]CChace Sports   T]GBoys football      
 OL,3,T||||||||||||||||~
-OL,5,COh yeah, Chris, you and your half-term 
-OL,6,Cand your summer AND xmas holidays, AND 
-OL,7,Cyou get paid for it too, what more can 
-OL,8,Cyou ask for?!BThat's where you're wrong
-OL,10,BD'you know that on this Sunday night,  
-OL,11,BI have to format and build 32 SD-cards 
-OL,12,Bwith the latest RasPi operating system 
-OL,13,Bso my students can do controlled       
-OL,14,Bassessment from tomorrow until         
-OL,15,BWednesday. Then I have to spend an hour
-OL,16,Bper person marking them (all 18), and  
-OL,17,Bif I find time, I might spend it with  
-OL,18,BElena. There's only so many flowers I  
-OL,19,Bcan buy to cover up her dismay. Even   
-OL,20,Bchocolates aren't good enough.         
-OL,22,CDo what with an SD card?BOh, forget it!
-OL,23,Q] C                              @     
+OL,5,CYear 8 Championship                    
+OL,7,BDate        Opposition         H/A     
+OL,8, Wed 25 Sep  Aylward            Away    
+OL,9,C            Bishops            TBA     
+OL,10, Tue 08 Oct  Broomfield         Home    
+OL,12, Thu 05 Mar  Ark                Home    
+OL,13,C            Nightingale        TBA     
+OL,14,C            Oasis Hadley       TBA     
+OL,15,C            St Ignatius        TBA     
+OL,16, Thu 02 Apr  Heron Hall         Home    
+OL,22,                                    2/3 
+OL,23,Q] C                                    
+FL,540,548,142,600,0,100
+PN,54203
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W]Q                  hz                
+OL,2,W]Q                x|                
+OL,3,W]Q              ~~                
+OL,4,W]Q      x|      "+/  t             
+OL,5,W]Q      /5p     h~  }0           
+OL,6,W]Q      *o}   x~?             
+OL,7,W]Q    (~5 j! ju           
+OL,8,W]Q       bp0j             
+OL,9,W]Q       z?j~ *t          
+OL,10,W]Q       "!/o0 k          
+OL,11,W]Q           jt ou         
+OL,12,W]Q            }0"o        
+OL,13,W]Q        *}t?/#c{| +        
+OL,14,W]Q        |5"htx?        
+OL,15,W]Q       ('?/o5 ~#o?         
+OL,16,W]Q            "!  k?o           
+OL,17,W]Q          " `0  j% j            
+OL,18,W]Q           h~}pp{   +o0 @Chace    
+OL,19,W]Q          "5    o4@Community
+OL,20,W]Q           /o?'#        j!@School   
+OL,21,W]Q            .!          j           
+OL,22,W]Q                      x z           
+OL,23,W]Q                      o?           
 FL,540,548,142,600,0,100
