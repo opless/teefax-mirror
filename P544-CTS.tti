@@ -1,16 +1,99 @@
 DE,CTS - Banners
 DS,inserter
 SP,C:\Users\Chace\Desktop\Teletext-CTS\P544-CTS.tti
-CT,8,T
 PN,54401
-SC,0000
-PS,8380
-RE,6
+SC,0001
+PS,8000
+CT,8,T
+RE,0
 OL,0,                                        
 OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q|<,|,||| 
 OL,2,Q5j5j5j5jR 5j %z %j uz  oQ uz 7k 
 OL,3,Q5j5ju*%zR 5j 5j 5j 7k  Q 7kp1b 
 OL,4,Q/-.-./-./R//-,/,-.,-.-,/,.,./Q/-,//-./ 
-OL,5, Auti tgm sekida eimai cia poukila.     
-OL,7,MTik: 0800 555 111                      
+FL,540,540,540,540,100,100
+PN,54402
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,V7w3s7s35                          C    
+OL,2,V55555555CTEEFAX FEATURED IN THE        
+OL,3,Vu5u5u5u5CPRESS AND ON NEWS AT TEN      
+OL,5, Teefax, the newest teletext service in 
+OL,6, the world, was featured today in the UK
+OL,7, press in print and online.             
+OL,9, Teefax's lead software engineer, Peter 
+OL,10, Kwan, was interviewed yesterday by The 
+OL,11, Times and will also feature in the     
+OL,12, 10 Aug 2016 edition of News At Ten.    
+OL,14, The Times wrote: "a gaggle of software 
+OL,15, engineers, digital artists and other   
+OL,16, devotees are attempting to ressurect   
+OL,17, the defunct information service."      
+OL,19, Peter told devotee Chris Tsangari: "I  
+OL,20, want Teefax to be something that people
+OL,21, use every day."                        
+OL,23,V]                                      
+FL,540,540,540,540,100,100
+PN,54403
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppW (<p04p000$p0$p0p0        
+OL,2,Q 5|jR5|jT5|jT]W5=%5=%555-455555        
+OL,3,Q 5/jR5/jT5/jT]W!#!!#!" !#!!#!!!        
+OL,4,Q ###R###T###WGBank Holiday Monday      
+OL,6,C0600GGOOD MORNING GLOUCESTERSHIRE      
+OL,7,     FWith special mystery guest        
+OL,8,C0900GPAGES FROM TEEFAX                 
+OL,9,     FIncldes the test card             
+OL,10,C1000GHOMES UNDER THE HAMMMER SPECIALE@ 
+OL,11,     F#500k flat sells in error to a man
+OL,12,C    Fmerely pointing at the lights.    
+OL,13,     FBaliffs seize all his posessions  
+OL,14,C1110GFILM: FISTFUL OF RASPBERRY PI'S   
+OL,15,     G(1964)FSpaghetti western. Two     
+OL,16,     Ffamilies feud over a box of       
+OL,17,     Fmicrocontrollers                  
+OL,18,C1300GBBC NEWS AT ONE                   
+OL,19,     FRead by Sir Alistair Newsreader   
+OL,20,C1330GNEIGHBOURSE@                      
+OL,21,     FBouncer leaves Erinsborough for   
+OL,22,     FSummer Bay.                       
+OL,23,T]E@FSubtitles on page 888              
+OL,24,A Index BChris T.C World Clock FUkelele 
+FL,540,540,540,540,100,100
+PN,54404
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppW (<p04p000$p0$p0p0        
+OL,2,Q 5|jR5|jT5|jT]W5=%5=%555-455555        
+OL,3,Q 5/jR5/jT5/jT]W!#!!#!" !#!!#!!!        
+OL,4,Q ###R###T###WGBank Holiday Monday      
+OL,6,C1350GFILM: YOU ONLY CODE TWICE (1980)  
+OL,7,     FBank Holiday action and adventure.
+OL,8,C    FIn Java with Python subtitles.    
+OL,9,C1600GFILM: CARRY ON SKYTEXT            
+OL,10,C    FFarcial comedy with the gang      
+OL,11,C1800GONE O'CLOCK NEWS                  
+OL,12,C    FDue to industrial action, the news
+OL,13,     Fwill be read by our caretaker     
+OL,14,C1805GFILM: A REALLY EPIC FILM          
+OL,15,     G(1979)FATV's epic story, showing  
+OL,16,     Ffoe the first time uncut and no   
+OL,17,     Fadverts. Gives us controllers a   
+OL,18,     Fgood few hours at the pub getting 
+OL,19,     Fslaughtered. If the film falls    
+OL,20,C    Foff the capstan, ring The Stroud  
+OL,21,_    FInn and ask for Harry.            
+OL,22,C0200GWEATHER; CLOSE                    
+OL,23,T]E@FSubtitles on page 888              
+OL,24,A Index BChris T.C World Clock FUkelele 
 FL,540,540,540,540,100,100
