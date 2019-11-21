@@ -1,10 +1,10 @@
 DE,New York News
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P130-NY_News.tti
-CT,8,T
+SP,J:\peter\teefax\P130-NY_News.tti
 PN,13000
 SC,0000
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]S                                     
@@ -14,11 +14,10 @@ OL,4,D]S         j5o5h4j//
 OL,5,D]S         j5z5j5*/           
 OL,6,D]S         j5|4~}h|           
 OL,7,D]S                                     
-OL,9,      Teefax is proud to announce the   
-OL,10,      opening of ourFNew York Bureau.   
-OL,12,      Pages 130 to 139 will bring the   
-OL,13,      latest news, weather and recipes  
-OL,14,      at the touch of a selector key.   
+OL,9,      Hey, who wants to grab this bit   
+OL,10,      of fine teletext real estate?     
+OL,12,      Pages 130 to 139 are in a prime   
+OL,13,      spot but have nothing on them!    
 OL,15,R               +}4`|?!                 
 OL,16,R                "k&#                   
 OL,17,Q              x||}|t                

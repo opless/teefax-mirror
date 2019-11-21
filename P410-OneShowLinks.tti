@@ -42,21 +42,21 @@ OL,2,Vj5k7j5 Sj5 j7ju>jwsCENTERTAINMENT
 OL,3,Vj5j5"m' S*-$/*%/*%/(,/C               
 OL,4,V*-,,,,,,/F ``````````````````````G 2/5 
 OL,5,CThe ONE SHOW                           
-OL,6,FWhat was teletext? It was an electronic
-OL,7,Fmagazine hidden in the TV signal that  
-OL,8,Fcould be viewed using any TV that had  
-OL,9,Fa decoder. It delivered news, sport,   
-OL,10,Fweather, TV and radio schedules. The   
-OL,11,Fcommercial channels also sold holidays 
-OL,12,Fand other services. In the era before  
-OL,13,Fthe internet it was the fastest way to 
-OL,14,Fget information.                       
+OL,6, What was teletext? It was an electronic
+OL,7, magazine hidden in the TV signal that  
+OL,8, could be viewed using any TV that had  
+OL,9, a decoder. It delivered news, sport,   
+OL,10, weather, TV and radio schedules. The   
+OL,11, commercial channels also sold holidays 
+OL,12, and other services. In the era before  
+OL,13, the internet it was the fastest way to 
+OL,14, get information.                       
 OL,16,FUsing the technology of the 1970s it   
 OL,17,Fwas limited to 24 rows of 40 characters
 OL,18,For blocky graphics and seven colours.  
 OL,20,FThis meant that stories were stripped  
 OL,21,Fto the essentials and perfect for      
-OL,22,Fquick catchups.                        
+OL,22,Fstaying up to date on the news.        
 OL,24,A NextBTeletext artCMake artFIndex      
 FL,411,411,412,100,8ff,8ff
 PN,41003
@@ -79,6 +79,8 @@ OL,12, 104 BBC News
 OL,13, 150 Bamboozle quizzes                  
 OL,14, 160 Stories from LA                    
 OL,19, 302 BBC Sport                          
+OL,20, 500 Teletext artists                   
+OL,21, 700 Teletext engineering               
 OL,24,A NextBTeletext artCMake artFIndex      
 FL,411,411,412,100,8ff,8ff
 PN,41004
