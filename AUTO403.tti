@@ -5,26 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E21/11C14:32:46
+OL,0,XXXXXXXXBNMPSERVER2      E21/11C15:34:31
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSouthwest England will see showery rain
-OL,9,Fspreading in, this heavy in places. A
-OL,10,Ffew showers will affect east and
-OL,11,Fnortheast Scotland. Most other areas
-OL,12,Fwill be dry but also cloudy and cold.
-OL,13,FNorthwest Britain should fare best for
-OL,14,Fsunshine.
+OL,7,GThis Evening and Tonight
+OL,8,FSome clear spells in the northwest,
+OL,9,Falong with patchy frost. Many other
+OL,10,Fareas will be cloudy, with showery rain
+OL,11,Fin places, heavy in parts of the south
+OL,12,Fand southwest.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FSome clear spells in the northwest,
-OL,18,Falong with patchy frost. Many other
-OL,19,Fareas will be cloudy, with showery rain
-OL,20,Fin places, heavy in parts of the south
-OL,21,Fand southwest.
+OL,14,GFriday
+OL,15,FMany areas staying mostly cloudy, with
+OL,16,Fshowery rain, this turning heavy and
+OL,17,Fpersistent in parts of southwest
+OL,18,FBritain. Northwestern areas likely to
+OL,19,Fbe brightest again. Slightly less cold
+OL,20,Fgenerally.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,7 +31,7 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E21/11C14:32:46
+OL,0,XXXXXXXXBNMPSERVER2      E21/11C15:34:31
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
