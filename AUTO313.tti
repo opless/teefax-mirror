@@ -1,22 +1,30 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 313 Football
+DE,Sport Page 313 Women's Football
 CT,10,T
 PN,31300
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E20/11C22:32:46
+OL,0,XXXXXXXXBNMPSERVER2      E20/11C23:30:55
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Sterling, Pochettino,
-OL,5,BParrott, Haaland, Moreno
-OL,9,FShare this with
-OL,11,FManchester City have opened talks over
-OL,12,Fa new contract with England
-OL,13,Finternational forward Raheem Sterling,
-OL,14,F24. (Mirror)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BWomen's Continental League Cup: Chelsea
+OL,5,Bfirst through to knockout stage
+OL,6, Chelsea became the first team through
+OL,7, to the Women's Continental League Cup
+OL,8, quarter-finals after beating Tottenham
+OL,9, 5-1 at Kingsmeadow.
+OL,11,FBeth England scored two of Chelsea's
+OL,12,Ffive second-half goals to ensure
+OL,13,FChelsea progressed and extended their
+OL,14,Funbeaten run in all competitions to 10
+OL,15,Fgames this season.
+OL,17,FElsewhere, there were also wins for
+OL,18,Ffellow WSL sides Brighton and West Ham.
+OL,20,FBrighton's 5-0 win over London Bees
+OL,21,Fmoved them top of Group B.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,314,302,301,300,8FF,199
