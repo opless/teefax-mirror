@@ -1,24 +1,31 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 311 England
+DE,Sport Page 311 Premier League
 CT,10,T
 PN,31100
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E22/11C11:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E22/11C12:32:12
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BEngland quiz: Can you name England's
-OL,5,BEuropean Championship scorers?
-OL,6, England's men have qualified for their
-OL,7, 10th European Championship finals.
-OL,9,FIn their nine previous tournaments, 24
-OL,10,Fplayers have scored 40 goals in 31
-OL,11,Fmatches. But can you name them all?
-OL,14,F     
-OL,16,FShare this with
-OL,22,D]CCEEFAX SPORT SECTION PAGE 300
-OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
+OL,4,BPremier League predictions: Lawro vs
+OL,5,BWWE star Seth Rollins
+OL,6, Jose Mourinho is back in the Premier
+OL,7, League after 11 months out of
+OL,8, management, but will he get off to a
+OL,9, winning start with Tottenham against
+OL,10, London rivals West Ham?
+OL,12,FBBC football expert Mark Lawrenson
+OL,13,Fsaid: "West Ham are really toiling at
+OL,14,Fthe moment, with only two points from
+OL,15,Ftheir past six league games, just when
+OL,16,FI thought they would kick on after
+OL,17,Fbeating Manchester United to go fifth.
+OL,19,F"I thought the Hammers had banished
+OL,20,Fthis sort of form but they are on a
+OL,21,Fterrible run.
+OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
+OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,312,302,301,300,8FF,199
