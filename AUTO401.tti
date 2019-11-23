@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E23/11C10:32:04
+OL,0,XXXXXXXXBNMPSERVER2      E23/11C11:32:04
 OL,1,T]G              Today                  
 OL,2,           ^ZU 4`~|}            G 1/2 
 OL,3,           ZU`?0~G09U%  B               
@@ -18,15 +18,15 @@ OL,9,           ^ZRj)"G 09R}  B
 OL,10,       ^ZVp|t RxRg0 B             
 OL,11,       ZVnG10VtR+"RG09R B             
 OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZV`  R*G 10R} B          
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 09V}zt B       
-OL,17,B              ZVj^VG 10V B       
+OL,13,        ZV+%*o!R" V *u  B          
+OL,14,B            ^ZV`  V*G 10V} B          
+OL,15,B            ^ZVk|U            
+OL,16,B            ^ZV'oG 09V}zt ECloudy 
+OL,17,B              ZVj^UG 10V  E      
 OL,18,B            ZVx|^G 09V'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,ECloudy      ^ZU  tG 11V/!        
-OL,21,E            ZU zG12U^/s/V/? B         
+OL,20,B            ^ZU  tG 11V/!        
+OL,21,B            ZU zG12U^/s/V/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
@@ -34,25 +34,25 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E23/11C10:32:04
+OL,0,XXXXXXXXBNMPSERVER2      E23/11C11:32:04
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G09V%  B               
-OL,4,           VZj**gppp B               
-OL,5,           ^ZR({5                
-OL,6,            ZR!'~G09R!BLight Rain     
-OL,7,           ^ZR ~ow1  B              
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G09R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZU({5                
+OL,6,            ZU!'~G09U!ELight Rain     
+OL,7,           ^ZU ~ow1  E              
 OL,8,B          ^ZV*y?sp  FCloudy        
 OL,9,           ^ZVj)"G 09V}  F             
 OL,10,       ^ZVp|t VxVg0 B             
 OL,11,       ZVnG10VtV+"VG09V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 10V} B          
-OL,15,EOvercast    ^ZVk|V            
-OL,16,E            ^ZV'oG 09U}zt B       
-OL,17,B              ZVj^VG 10U B       
-OL,18,B            ZVx|^G 11U'         
+OL,13,        ZV+%*o!V" R *u  BOvercast  
+OL,14,B            ^ZV`  R*G 10R}  B         
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 10R}zt B       
+OL,17,B              ZVj^VG 11R B       
+OL,18,B            ZVx|^G 11R'         
 OL,19,             ^ZV! +/'iVqp0        
 OL,20,B            ^ZV  tG 12V/!        
 OL,21,B            ZV zG11V^/s/V/? B         
