@@ -7,39 +7,48 @@ PS,8000
 CT,6,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q|<,<,l,l|R|<,l,,<,l,,|,l<l,||Q|<,<,l,l|
-OL,2,Q uz 5*,R  /5*o o5* u*`Q uz 5*,
-OL,3,Q 7k 7k R  5j 5j 7h"Q 7k 7k 
-OL,4,Q/-,/,/,./R//,/,,-,.,/-.,-.,//Q/-,/,/,./
-OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
-OL,6,M A warm welcome to viewers on BBC One  
-OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
-OL,9,     T]GBy Christopher Tsangari  \      
-OL,11,           REFLECTION ...C541           
-OL,12,           SPORT ........B542           
-OL,13,           ART ..........B543           
-OL,14,           MISCELLANY ...B544           
-OL,15,           IN THE KITCHENB545           
-OL,17,RZ <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l  
-OL,18,RZ 5CREFLECTIONGAn account of my    Rj  
-OL,19,RZ 5Gexperience of discovering      Rj  
-OL,20,RZ 5Gteletext back in 1987          Rj  
-OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
-OL,23,T]     GBy Christopher Tsangari         
+OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q|<,|,||| 
+OL,2,Q5j5j5j5jR 5j %z %j uz  oQ uz 7k 
+OL,3,Q5j5ju*%zR 5j 5j 5j 7k  Q 7kp1b 
+OL,4,Q/-.-./-./R//-,/,-.,-.-,/,.,./Q/-,//-./ 
 FL,150,140,790,142,8ff,100
 PN,54002
 SC,0002
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q|<,<,l,l|R|<,l,,<,l,,|,l<l,||Q|<,<,l,l|
-OL,2,Q uz 5*,R  /5*o o5* u*`Q uz 5*,
-OL,3,Q 7k 7k R  5j 5j 7h"Q 7k 7k 
-OL,4,Q/-,/,/,./R//,/,,-,.,/-.,-.,//Q/-,/,/,./
-OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
-OL,6,M        www.bbc.co.uk/theoneshow       
-OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q|<,|,||||
+OL,2,Q5j5j5j5jR 5j %z %j uz  oQ uz 7k
+OL,3,Q5j5ju*%zR 5j 5j 5j 7k  Q 7kp1b
+OL,4,Q/-.-./-./R//-,/,-.,-.-,/,.,./Q/-,//-.//
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,6,M  Teefax feature in News At Ten  541   
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9,                                 \      
+OL,10,           NEWS .........B541           
+OL,11,           SPORT ........B542           
+OL,12,           ART ..........B543           
+OL,13,           MISCELLANY ...B544           
+OL,14,           IN THE KITCHENB545           
+OL,15,           REFLECTION ...B546           
+OL,17,QZ,,,,,,,,Belsewhere on TEEFAXQ,,,,,,,, 
+OL,21,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,23,T]     GBy Christopher Tsangari         
+FL,150,140,790,142,8ff,100
+PN,54003
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,R||<,|,|||Q||<,|,,|<,|<,|,|,l|R|<,|,||||
+OL,2,R uz 7kQ 5j %z %j uz  oR uz 7k
+OL,3,R 7kp1bQ 5j 5j 5j 7k  R 7kp1b
+OL,4,R//-,//-./Q//-,/,-.,-.-,/,.,./R/-,//-.//
+OL,5,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,6,M  Enfield schools sports news    542   
+OL,8,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,9,     T]GBy Christopher Tsangari  \      
 OL,11,           REFLECTION ...B541           
 OL,12,           SPORT ........C542           
@@ -53,8 +62,8 @@ OL,20,RZ 5GLondon Borough of Enfield      Rj
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
-PN,54003
-SC,0003
+PN,54004
+SC,0004
 PS,8000
 CT,8,T
 RE,0
@@ -79,8 +88,8 @@ OL,20,RZ 5Gthe experts carry on!)         Rj
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
-PN,54004
-SC,0004
+PN,54005
+SC,0005
 PS,8000
 CT,8,T
 RE,0
@@ -105,8 +114,8 @@ OL,20,RZ 5G                               Rj
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
-PN,54005
-SC,0005
+PN,54006
+SC,0006
 PS,8000
 CT,8,T
 RE,0
