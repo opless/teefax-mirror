@@ -1,0 +1,56 @@
+DE,One Show teletext links
+DS,inserter
+SP,J:\peter\teefax\P413-OneShowTeletextLinks.tti
+PN,41301
+SC,0001
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX %%# %%b %d %%a C %H:%M.%S
+OL,1,Q pppRpppTpppW   <$p0p0$p0p0p0p0$p0p0   
+OL,2,Q 5|jR5|jT5|jT]W 7 55-5555=%=%5 555-5   
+OL,3,Q 5/jR5/jT5/jT]W #!!!,%!!!#!#!! !!!,%   
+OL,4,Q ###R###T###WG      Information        
+OL,5,FTeletext is being kept alive by many   
+OL,6,Fpeople working behind the scenes       
+OL,7,Fmaintaining the technology. Here are   
+OL,8,Fa few of the people involved.          
+OL,10,CJason Robertson:GRecovering teletext   
+OL,11, from old tapes and adding to the       
+OL,12, archives every day.                    
+OL,14,CAlistair Buxton:GWrote the Raspberry   
+OL,15, Pi teletext generator raspi-teletext   
+OL,16, for showing teletext on old TVs.       
+OL,18,CNat Dane:GManufacturer of teletext     
+OL,19, inserters.                             
+OL,21,CAlistair Cree:GTeletext software for   
+OL,22, viewers, editors, recovery that closely
+OL,23, follows the teletext standards.        
+OL,24,ANext                       FEngineering
+FL,414,411,8ff,700,8ff,8ff
+PN,41302
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX %%# %%b %d %%a C %H:%M.%S
+OL,1,Q pppRpppTpppW   <$p0p0$p0p0p0p0$p0p0   
+OL,2,Q 5|jR5|jT5|jT]W 7 55-5555=%=%5 555-5   
+OL,3,Q 5/jR5/jT5/jT]W #!!!,%!!!#!#!! !!!,%   
+OL,4,Q ###R###T###WG      Information        
+OL,5,CSimon Rawles:GTeletext enthusiast and  
+OL,6, creator of edit.tf, the most accessible
+OL,7, teletext editor.                       
+OL,9,CPeter Kwan:GCreator of the Raspberry   
+OL,10, Pi teletext system VBIT2 and the Teefax
+OL,11, service for showing teletext on TVs.   
+OL,12, Also the wxTED windows teletext editor 
+OL,13, and Muttlee - Multi User Tele Text Live
+OL,14, Editing Environment.                   
+OL,16,FThanks also to the many people who     
+OL,17,Fhave saved equipment and manuals and   
+OL,18,Fwho have documented the history on     
+OL,19,Fwhich we can use to persue everything  
+OL,20,Fteletext.                              
+OL,24,ANext                       FEngineering
+FL,414,411,8ff,700,8ff,8ff
