@@ -1,19 +1,26 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 303 Football
+DE,Sport Page 303 Premier League
 CT,10,T
 PN,30300
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E24/11C17:36:14
+OL,0,XXXXXXXXBNMPSERVER2      E24/11C18:36:01
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BPremier League: Sheffield United v Man
-OL,5,BUtd - rate the players
-OL,9,FShare this with
-OL,11,FFollow Sheffield United v Manchester
-OL,12,FUnited here
+OL,4,BSheff Utd 3-3 Man Utd: Oliver McBurnie
+OL,5,Bscores dramatic late equaliser
+OL,6, Sheffield United scored a dramatic late
+OL,7, equaliser to salvage a point against
+OL,8, Manchester United, after Ole Gunnar
+OL,9, Solskjaer's had recovered from two
+OL,10, goals down to lead at Bramall Lane. 
+OL,12,FMore to follow.
+OL,14,FMatch ends, Sheffield United 3,
+OL,15,FManchester United 3.
+OL,17,FSecond Half ends, Sheffield United 3,
+OL,18,FManchester United 3.
 OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 OL,24,ANext page  BFootball CHeadlines FSport
