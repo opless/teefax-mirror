@@ -1,6 +1,6 @@
 DE,The One Show
 DS,inserter
-SP,J:\peter\teefax\P410-OneShowLinks.tti
+SP,C:\Users\Dan\Desktop\Teefax\P410-OneShowLinks.tti
 PN,41001
 SC,0001
 PS,8000
@@ -10,7 +10,7 @@ OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
 OL,2,Vj5k7j5 Sj5 j7ju>jwsCENTERTAINMENT  
 OL,3,Vj5j5"m' S*-$/*%/*%/(,/C               
-OL,4,V*-,,,,,,/F ``````````````````````G 1/5 
+OL,4,V*-,,,,,,/F ``````````````````````G 1/7 
 OL,5,CThe ONE SHOW      F                    
 OL,6,FThe magazine-style show tackles current
 OL,7,Faffairs and other issues in the UK     
@@ -40,7 +40,7 @@ OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
 OL,2,Vj5k7j5 Sj5 j7ju>jwsCENTERTAINMENT  
 OL,3,Vj5j5"m' S*-$/*%/*%/(,/C               
-OL,4,V*-,,,,,,/F ``````````````````````G 2/5 
+OL,4,V*-,,,,,,/F ``````````````````````G 2/7 
 OL,5,CThe ONE SHOW                           
 OL,6, What was teletext? It was an electronic
 OL,7, magazine hidden in the TV signal that  
@@ -68,7 +68,7 @@ OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
 OL,2,Vj5k7j5 Sj5 j7ju>jwsCENTERTAINMENT  
 OL,3,Vj5j5"m' S*-$/*%/*%/(,/C               
-OL,4,V*-,,,,,,/F ``````````````````````G 3/5 
+OL,4,V*-,,,,,,/F ``````````````````````G 3/7 
 OL,5,CThe ONE SHOW                           
 OL,6,FTeletext pages are selected by typing  
 OL,7,Fin a three digit page number on your   
@@ -98,7 +98,7 @@ OL,8, information pages.
 OL,10, 411 is a gallery of selected art       
 OL,12, 412 will be for art contributions      
 OL,13, created by One Show viewers.           
-OL,23,                                    C4/5
+OL,23,                                    C4/7
 OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41005
@@ -126,6 +126,66 @@ OL,17,]Q              `#}  j5j5  kz%oz!
 OL,18,]Q              +/' / *% +/!  / *%      
 OL,21, Matt Baker and Angellica Bell bring you
 OL,22, the big stories from across the country
-OL,23, C            Details follow -->    C5/5
+OL,23, C            Details follow -->    C5/7
 OL,24,A NextBTeletext artCMake artFEngineering
+FL,411,411,412,413,8ff,8ff
+PN,41006
+SC,0006
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q'##/##//////o
+OL,2,QWppjup0 pp0Q+G@illarterateQ
+OL,3,QW##j7#j7#Q0"o
+OL,4,QW  j5 j7#sQ"d +
+OL,5,Q?'W+//*% /"//'Q  ) "o?'#     "+o
+OL,6,Q'Wx~}t  ot~}t  `||0Q+
+OL,7,Q%W~} j4`0Q"o
+OL,8,Q7Wj'#+5j7Q Wk5z7   ku   
+OL,9,Q5W5QdWjj5Q Wj55   jQ  
+OL,10,Q5WQ  )Wj5Q Wj5}|||~Q  
+OL,11,Q5W     j5Q Wj5Q  
+OL,12,Q5W5   jj5Q Wj55Q         
+OL,13,Q}Wktpx7j5Q Wj5kuQ  WQ0 
+OL,14,Q0W!j5Q Wj5"5Q"d
+OL,15,Q}W"//! j5 p j5 "/?'Q   
+OL,16,Q}0      (0 Wx||0||0x||0|h4|Q0      
+OL,17,Qt      "dWpr! j5 j5j5Q"d     
+OL,18,Q}0      Wr#k5 j5 j5j5Q  )0   
+OL,19,Qt     W+//!/ *%+//!+//'Q0  "d  
+OL,20,Qh<,,|4h<,,|4h|,,|4A```````````Q"d   )0
+OL,21,Qj5*%z5j5*%z5j5juz5 GWeeknights  Q)0  "
+OL,22,Qj5j5j5j5j5j5j5j7k5tG at 7PM, BBC1Q"d  
+OL,23,Q*-,,/%*-,,/%*/,,/%}0A```````````  Q)0
+FL,411,411,412,413,8ff,8ff
+PN,41007
+SC,0007
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W?/o///####+/
+OL,2,W/s<&#)s,c3(3/'   "$    #o
+OL,3,W9'a80q 0&! )0d"?!  $   " !   k
+OL,4,W`&a>#b%"d ` "d)2o!    ($p       o
+OL,5,W!x' h%`i~h m0"4k2o? `~g9,  p&p|?t j
+OL,6,Wx% x%`a4m k h"}"5 i?u!j
+OL,7,W% >!`5~2m2m0 *u*5 a?u!j
+OL,8,W ~!`>z} m0k"0o0o5 !?5 bo
+OL,9,Wz5h?)//o4 u*th"}"j0h?sssogss;0zj
+OL,10,W?`?(sccm{g<$"mz" k067j>y8h1at$|;>5zj
+OL,11,W5~a~}~}}b~vz4+ 5j5o}kz4~w=5
+OL,12,W`jj 0k0}j/"j?)u&?5.o
+OL,13,Wj5?guo 4 %j   jk7xv/a~vo75  
+OL,14,Wj5wcn}s/'po? 5 `j   *6uw#ssss3{zi%  
+OL,15,W"5j~ucsss3c5>!h5$jz   `+:}0`p`~e'   
+OL,16,W  +}8,$`~>!`? j"4   }0k<l7 p   
+OL,17,Wx'h 2os{?!x?  "uku   oto?`6    
+OL,18,W!`54k};o?' ~70 h0j ot  "o}s//cx?     
+OL,19,Wxo!5j||0 i2n40 k e o90  k?!     
+OL,20,Wa>`%"45&x}(2m {|?   +%      
+OL,21,W'`>hh;ja~u+7o/gyt0   +//!       
+OL,22,W`'`%~}2eyu+2eo5@ILLARTERATE 
+OL,23,W`8a~6?z4x6}|0 `         
 FL,411,411,412,413,8ff,8ff
