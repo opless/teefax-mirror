@@ -1,22 +1,30 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 313 Football
+DE,Sport Page 313 Women's Football
 CT,10,T
 PN,31300
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E25/11C11:38:22
+OL,0,XXXXXXXXBNMPSERVER2      E25/11C13:38:07
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BMonday's gossip column: Silva, Emery,
-OL,5,BPellegrini, Sancho, Sterling, Brewster
-OL,9,FShare this with
-OL,11,FEverton boss Marco Silva's Goodison
-OL,12,FPark fate has been sealed, with David
-OL,13,FMoyes set to return as manager.
-OL,14,F(Mirror)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BScottish Women's Cup: Glasgow City 4-3
+OL,5,BHibernian
+OL,6, Clare Shine's stunning late goal
+OL,7, settled a thrilling Scottish Women's
+OL,8, Cup final as Glasgow City beat
+OL,9, Hibernian 4-3 at Tynecastle.
+OL,11,FChampions City clinched the trophy for
+OL,12,Fthe ninth time in their history, and
+OL,13,Ffor the first occasion since 2015.
+OL,15,FThe lead changed three times as the
+OL,16,Faction raged from end-to-end.
+OL,18,FShine headed City level and, as
+OL,19,Fextra-time loomed, she struck again
+OL,20,Fwith a late run into the box before
+OL,21,Ffinishing high into the net.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,314,302,301,300,8FF,199
