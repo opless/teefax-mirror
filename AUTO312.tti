@@ -1,30 +1,29 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 312 European Football
+DE,Sport Page 312 Women's Football
 CT,10,T
 PN,31200
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E24/11C19:07:15
+OL,0,XXXXXXXXBNMPSERVER2      E24/11C23:08:26
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BRoma 3-0 Brescia: Man Utd loanee Chris
-OL,5,BSmalling scores one and assists two
-OL,6, Chris Smalling scored one goal and
-OL,7, assisted two others as Roma moved into
-OL,8, the Serie A top four with a comfortable
-OL,9, win over bottom-of-the-table Brescia.
-OL,11,FOn-loan Manchester United defender
-OL,12,FSmalling headed in from Lorenzo
-OL,13,FPellegrini's corner after 49 minutes.
-OL,15,FUp for another corner eight minutes
-OL,16,Flater, Smalling's cushioned header set
-OL,17,Fup fellow centre-back Gianluca Mancini.
-OL,19,FThe England international met a third
-OL,20,FPellegrini cross as Edin Dzeko sealed
-OL,21,Fthe points for Paulo Fonseca's side.
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BWSL: Leaders Chelsea, Manchester City,
+OL,5,BArsenal, Manchester United & Everton
+OL,6,Ball win
+OL,7, It is as you were at the summit of the
+OL,8, Women's Super League as the top five
+OL,9, all triumphed on Sunday.
+OL,11,FLeaders Chelsea thrashed Birmingham
+OL,12,F6-0, second-placed Manchester City won
+OL,13,F5-0 at Bristol City and Manchester
+OL,14,FUnited - in fifth - beat Brighton 4-0.
+OL,16,FThere were tougher tests for Everton
+OL,17,Fand last season's champions Arsenal -
+OL,18,Fwho defeated Tottenham and bottom side
+OL,19,FLiverpool respectively.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,313,302,301,300,8FF,199
