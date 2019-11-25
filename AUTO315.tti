@@ -1,22 +1,30 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 315 Football
+DE,Sport Page 315 Champions League
 CT,10,T
 PN,31500
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E25/11C16:07:10
+OL,0,XXXXXXXXBNMPSERVER2      E25/11C17:39:29
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BMonday's gossip column: Silva, Emery,
-OL,5,BPellegrini, Sancho, Sterling, Brewster
-OL,9,FShare this with
-OL,11,FEverton boss Marco Silva's Goodison
-OL,12,FPark fate has been sealed, with David
-OL,13,FMoyes set to return as manager.
-OL,14,F(Mirror)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BTottenham v Olympiakos: Jose Mourinho
+OL,5,Bset for first Spurs home game
+OL,6, Jose Mourinho will aim to take
+OL,7, Tottenham into the Champions League
+OL,8, knockout stages by beating Olympiakos
+OL,9, in his first home match in charge.
+OL,11,FMourinho, who won the tournament with
+OL,12,FPorto and Inter Milan, replaced the
+OL,13,Fsacked Mauricio Pochettino last week
+OL,14,Fand won 3-2 at West Ham on Saturday.
+OL,16,FSpurs are second in Group B and will
+OL,17,Fqualify if they beat the Greek side.
+OL,19,F"With these boys I will never be afraid
+OL,20,Fof a Champions League match," said
+OL,21,FMourinho.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,324,302,301,300,8FF,199
