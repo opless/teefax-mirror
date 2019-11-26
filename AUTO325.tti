@@ -5,25 +5,25 @@ CT,10,T
 PN,32501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/11C16:07:25
+OL,0,XXXXXXXXBNMPSERVER2      E26/11C21:05:40
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BCHAMPIONSHIP 
-OL,6, GNov 25 15:43    P  W  D  L   F   A Pts
+OL,6, GNov 26 21:01    P  W  D  L   F   A Pts
 OL,8, G1 West Brom    17 10  6  1  31  18  36
-OL,9, F2 Leeds        17 10  4  3  23  10  34
+OL,9, F2 Leeds        18 10  5  3  23  10  35
 OL,10,B---------------------------------------
-OL,11, G3 Preston      17  9  4  4  31  18  31
-OL,12, F4 Fulham       17  8  5  4  26  18  29
-OL,13, G5 Nottm Forest 16  8  5  3  20  13  29
-OL,14, F6 Swansea      17  8  5  4  22  17  29
+OL,11, G3 Fulham       18  9  5  4  28  18  32
+OL,12, F4 Preston      17  9  4  4  31  18  31
+OL,13, G5 Swansea      18  8  6  4  23  18  30
+OL,14, F6 Nottm Forest 16  8  5  3  20  13  29
 OL,15,B---------------------------------------
 OL,16, G7 Bristol City 17  7  8  2  25  21  29
 OL,17, F8 Brentford    17  8  3  6  22  13  27
 OL,18, G9 Sheff Wed    17  7  4  6  22  16  25
-OL,19,F10 Millwall     17  6  6  5  20  22  24
-OL,20,G11 Derby        17  6  6  5  19  21  24
+OL,19,F10 Cardiff      18  6  7  5  26  25  25
+OL,20,G11 Millwall     18  6  6  6  21  24  24
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
@@ -35,44 +35,18 @@ CT,10,T
 PN,32502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/11C16:07:25
+OL,0,XXXXXXXXBNMPSERVER2      E26/11C21:05:40
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BCHAMPIONSHIP 
-OL,6, GNov 25 15:43    P  W  D  L   F   A Pts
-OL,8,F12 QPR          17  7  3  7  27  32  24
-OL,9,G13 Charlton     17  6  5  6  24  21  23
-OL,10,F14 Hull         17  6  5  6  25  23  23
-OL,11,G15 Birmingham   17  7  2  8  17  22  23
-OL,12,F16 Cardiff      17  5  7  5  25  25  22
+OL,6, GNov 26 21:01    P  W  D  L   F   A Pts
+OL,8,F12 Derby        18  6  6  6  19  23  24
+OL,9,G13 QPR          17  7  3  7  27  32  24
+OL,10,F14 Charlton     18  6  5  7  25  23  23
+OL,11,G15 Hull         17  6  5  6  25  23  23
+OL,12,F16 Birmingham   17  7  2  8  17  22  23
 OL,13,G17 Blackburn    17  6  3  8  23  26  21
-OL,14,F18 Reading      16  5  3  8  19  21  18
-OL,15,G19 H'field      17  4  5  8  19  25  17
-OL,16,F20 Wigan        17  4  3 10  14  26  15
-OL,17,G21 Middlesbroug 17  2  8  7  15  23  14
-OL,18,B---------------------------------------
-OL,19,F22 Luton        17  4  2 11  23  32  14
-OL,20,G23 Stoke        17  4  2 11  19  30  14
-OL,22,D]CFootballG302CFront pageG100CTV  G600 
-OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
-OL,24,ANext page  BFootball CHeadlines FSport 
-FL,326,302,301,300,8FF,320
-DS,inserter
-SP,/home/pi/ceefax/
-DE,Football League Table
-CT,10,T
-PN,32503
-SC,0003
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E25/11C16:07:25
-OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
-OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
-OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4, BCHAMPIONSHIP 
-OL,6, GNov 25 15:43    P  W  D  L   F   A Pts
-OL,8,F24 Barnsley     17  1  6 10  18  36   9
-OL,22,D]CFootballG302CFront pageG100CTV  G600 
-OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
-OL,24,ANext page  BFootball CHeadlines FSport 
-FL,326,302,301,300,8FF,320
+OL,14,F18 Reading      17  5  4  8  19  21  19
+OL,15,G19 H'field      18  4  6  8  20  26  18
+OL,16,F20 Wigan        18  5  3 10  16  27  18
