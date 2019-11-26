@@ -5,27 +5,27 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E26/11C11:37:35
+OL,0,XXXXXXXXBNMPSERVER2      E26/11C12:39:58
 OL,1,T]G              Today                  
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G10U%  B               
-OL,4,           UZj**gppp B               
-OL,5,           ^ZT({5                
-OL,6,            ZT!'~G10T!DOvercast       
-OL,7,           ^ZT ~ow1  D              
-OL,8,CHeavy Rain^ZV*y?sp  FLight Rain    
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G10R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZU({5                
+OL,6,            ZU!'~G10U!EOvercast       
+OL,7,           ^ZU ~ow1  E              
+OL,8,DHeavy Rain^ZV*y?sp  FLight Rain    
 OL,9,           ^ZVj)"G 09V}  F             
-OL,10,       ^ZSp|t VxSg0 B             
-OL,11,       ZSnG11StV+"SG09S B             
-OL,12,       ZS+S`4S+|0             
-OL,13,        ZS+%*o!S" V *u  B          
-OL,14,C            ^ZR`  V*G 11V} B          
-OL,15,ECloudy      ^ZRk|V            
-OL,16,E            ^ZR'oG 12U}zt B       
-OL,17,B              ZRj^VG 12U B       
-OL,18,B            ZRx|^G 14U'         
-OL,19,             ^ZR! +/'iVqp0        
-OL,20,BSome Cloud  ^ZR  tG 13V/!        
+OL,10,       ^ZTp|t VxVg0 B             
+OL,11,       ZTnG11TtV+"VG09V B             
+OL,12,       ZT+V`4V+|0             
+OL,13,        ZT+%*o!V" R *u  BCloudy    
+OL,14,D            ^ZS`  R*G 11R}  B         
+OL,15,B            ^ZSk|R            
+OL,16,B            ^ZS'oG 12R}zt B       
+OL,17,CSome Cloud    ZSj^RG 11R B       
+OL,18,C            ZSx|^G 14R'         
+OL,19,             ^ZS! +/'iVqp0        
+OL,20,B            ^ZR  tG 13V/!        
 OL,21,B            ZR zG14R^/s/V/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
@@ -34,25 +34,25 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E26/11C11:37:36
+OL,0,XXXXXXXXBNMPSERVER2      E26/11C12:39:58
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G09R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G09U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G10V!FOvercast       
+OL,6,            ZV!'~G09V!FOvercast       
 OL,7,           ^ZV ~ow1  F              
-OL,8,ECloudy    ^ZV*y?sp  B              
+OL,8,CCloudy    ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 09V} B              
-OL,10,       ^ZUp|t VxRg0 BLight Rain   
-OL,11,       ZUnG10UtV+"RG09R  B            
-OL,12,       ZU+R`4R+|0             
-OL,13,        ZU+%*o!R" R *u  B          
-OL,14,E            ^ZR`  R*G 10R} B          
+OL,10,       ^ZSp|t VxRg0 BLight Rain   
+OL,11,       ZSnG10StV+"RG09R  B            
+OL,12,       ZS+R`4R+|0             
+OL,13,        ZS+%*o!R" U *u  EHeavy Rain
+OL,14,C            ^ZR`  U*G 10U}  E         
 OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 09R}zt B       
-OL,17,B              ZRj^RG 11R B       
-OL,18,B            ZRx|^G 11R'         
+OL,16,B            ^ZR'oG 09V}zt B       
+OL,17,B              ZRj^RG 11V B       
+OL,18,B            ZRx|^G 11V'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 12R/!        
 OL,21,B            ZR zG11R^/s/R/? B         
