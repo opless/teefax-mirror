@@ -1,874 +1,965 @@
 DE,Illarterate Art
 DS,inserter
-SP,C:\Users\Dan\Desktop\TeletextFest2016\P510-Illarterate.tti
-CT,8,T
-PS,8000
-RE,0
+SP,C:\Users\Dan\Desktop\Teefax\P510-Illarterate.tti
 PN,51001
 SC,0001
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ì73ck3csk3c3csk73ck3csk#o'k
-OL,2,ì5j5bj5jo5bj5j5bj= (
-OL,3,ìqrqrszqrqzqrszqrqrszp~tz
-OL,4,î??+?o/+oo?/
-OL,5,îo?!'ìp  p p|0`d ptî//
-OL,6,î?+%ìp|8o}?;}?;~mzt}$î/o
-OL,7,îìx<(9{'ó  ppppppppì##*o}?qpîo
-OL,8,î?ì~=!b&óx|o}|ì#go}giîk
-OL,9,îì:$`óh??9'#   "#o}ì){?-î
-OL,10,îìu~4ógfn5ë )  9=ó={ìjo=î
-OL,11,î4ì{gó"m}9|p   `x~?ì;}îh
-OL,12,î}ìyy=ó"/./o'+?ì0~"î`
-OL,13,î}ì/wt~7`<ó##+/o/'ì pt `ot~7îx
-OL,14,î4ì+go||{t0p|~$z}t/'!îz
-OL,15,îìmt0#+//go~/'"#   îh
-OL,16,î}ì}||0pp`0pd88898  î`
-OL,17,îuì~?}?;v>;vfff& î`?w?
-OL,18,îtìown9{n9999!î`{nw}g
-OL,19,î}tpì+m?}ygmyg&&"î|?}mw}{w}
-OL,20,î}||pppppx|~
-OL,21,ìc#3'+3c3oc#3
-OL,22,ì 5*%j5b!~ 
-OL,23,ìwp{uzuzqzuzwp{
-OL,24,  ÇÖ                                    
-FL,500,520,800,200,100,100
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,S73ck3csk3c3csk73ck3csk#o'k
+OL,2,S5j5bj5jo5bj5j5bj= (
+OL,3,Sqrqrszqrqzqrszqrqrszp~tz
+OL,4,T??+?o/+oo?/
+OL,5,To?!'Sp  p p|0`d ptT//
+OL,6,T?+%Sp|8o}?;}?;~mzt}$T/o
+OL,7,TSx<(9{'W  ppppppppS##*o}?qpTo
+OL,8,T?S~=!b&Wx|o}|S#go}giTk
+OL,9,TS:$`Wh??9'#   "#o}S){?-T
+OL,10,TSu~4Wgfn5Q )  9=W={Sjo=T
+OL,11,T4S{gW"m}9|p   `x~?S;}Th
+OL,12,T}Syy=W"/./o'+?S0~"T`
+OL,13,T}S/wt~7`<W##+/o/'S pt `ot~7Tx
+OL,14,T4S+go||{t0p|~$z}t/'!Tz
+OL,15,TSmt0#+//go~/'"#   Th
+OL,16,T}S}||0pp`0pd88898  T`
+OL,17,TuS~?}?;v>;vfff& T`?w?
+OL,18,TtSown9{n9999!T`{nw}g
+OL,19,T}tpS+m?}ygmyg&&"T|?}mw}{w}
+OL,20,T}||pppppx|~
+OL,21,Sc#3'+3c3oc#3
+OL,22,S 5*%j5b!~ 
+OL,23,Swp{uzuzqzuzwp{
+OL,24,  BE                                    
+FL,520,520,800,200,100,100
 PN,51002
 SC,0002
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ëùáç1914: TELETEXT ENGINE, C.BABBAGE    
-OL,2,ëùÉ1914: TELETEXT ENGINE, C.BABBAGE     
-OL,3,ëjÉp 101ë+?ìö,(,(,$,,,(,$,$,ôëo'É HOLDë5
-OL,4,ïh4 `t  |ñ`~#7k'3o#3o#3o#7k}0ï|  x0 h4
-OL,5,ë }`37qh5í~ 0j 0j p~ p~p0j}ëj4rkc0~ 
-OL,6,ïh4 `q  |ñ<m~<-.l/,/,looï|  r0 h4
-OL,7,ëj5zk0í4j |t 5h|0juxzë`7uj5
-OL,8,ïj5o|~%ñ?%*o0"#`u #!zï*};?j5
-OL,9,ëj5"+/# í7c+7k#;w#{#7kc+?c+7kkë #/'!j5
-OL,10,ïj5||}|4ñ5("5j 8  0jj 5` u zïö"77ôj5
-OL,11,ëj5wznr5í}<.m.l-,o,->,>m.</lëöbogôj5
-OL,12,ïj%uu`u5oño} ~ {  {4h5b="(} ~?ï?ö***ô*5
-OL,13,ë 4}z{x54í2opp{p{p{uzuruzpp?aëhöhhhôh 
-OL,14,ïh05jk 5xñ%$Ü-=SLOWTEXT tm=-ñ(*ïtÉDINGï4
-OL,15,ëj5=>?<5ì~ooooooooooooooooooootptë5 j5
-OL,16,ïj5wwww5ì+///////??/oo////////! !ï5jj5
-OL,17,ëj5}}}}5óh'm ì"m455|jjh>!ó >+4ë|hjjjjj5
-OL,18,ïj5#77#!ó"-'p,|ì155#jjbó||p+.!ïj5
-OL,19,ëj5óx?%j/tëj5
-OL,20,îö4$4|ôó`~/yj5j<m.<m.<m5*n|->}0îö|h(h4
-OL,21,îö51usôóo55j5jsw{sw{sw5j5v/w{?îöszbj5
-OL,22,îö5$ôóp1"ccssssss1j5jbspîö(j5
-OL,23,îö51ôó x? KLIK 0   îöbj5
-OL,24,  ÇÖ                                    
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q]GM1914: TELETEXT ENGINE, C.BABBAGE    
+OL,2,Q]C1914: TELETEXT ENGINE, C.BABBAGE     
+OL,3,QjCp 101Q+?SZ,(,(,$,,,(,$,$,YQo'C HOLDQ5
+OL,4,Uh4 `t  |V`~#7k'3o#3o#3o#7k}0U|  x0 h4
+OL,5,Q }`37qh5R~ 0j 0j p~ p~p0j}Qj4rkc0~ 
+OL,6,Uh4 `q  |V<m~<-.l/,/,looU|  r0 h4
+OL,7,Qj5zk0R4j |t 5h|0juxzQ`7uj5
+OL,8,Uj5o|~%V?%*o0"#`u #!zU*};?j5
+OL,9,Qj5"+/# R7c+7k#;w#{#7kc+?c+7kkQ #/'!j5
+OL,10,Uj5||}|4V5("5j 8  0jj 5` u zUZ"77Yj5
+OL,11,Qj5wznr5R}<.m.l-,o,->,>m.</lQZbogYj5
+OL,12,Uj%uu`u5oVo} ~ {  {4h5b="(} ~?U?Z***Y*5
+OL,13,Q 4}z{x54R2opp{p{p{uzuruzpp?aQhZhhhYh 
+OL,14,Uh05jk 5xV%$F-=SLOWTEXT tm=-V(*UtCDINGU4
+OL,15,Qj5=>?<5S~ooooooooooooooooooootptQ5 j5
+OL,16,Uj5wwww5S+///////??/oo////////! !U5jj5
+OL,17,Qj5}}}}5Wh'm S"m455|jjh>!W >+4Q|hjjjjj5
+OL,18,Uj5#77#!W"-'p,|S155#jjbW||p+.!Uj5
+OL,19,Qj5Wx?%j/tQj5
+OL,20,TZ4$4|YW`~/yj5j<m.<m.<m5*n|->}0TZ|h(h4
+OL,21,TZ51usYWo55j5jsw{sw{sw5j5v/w{?TZszbj5
+OL,22,TZ5$YWp1"ccssssss1j5jbspTZ(j5
+OL,23,TZ51YW x? KLIK 0   TZbj5
+OL,24,  BE                                    
 FL,520,520,800,200,100,100
 PN,51003
 SC,0003
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ó?oo?o/o?ooo/ 
-OL,2,ób1w{jw{b1w{b9w{b1w{hyjs5sj 
-OL,3,ó.-o?,,?/.=//<n/>-/o./.?-/n 
-OL,4,ó  5j5j5j5hy 5j5j  5j 
-OL,5,ó?k s(5b{5b{5b{5j 5b1j 3`5j+ 
-OL,6,óg~j  5j5j5j5j 5j5j  5jjvo 
-OL,7,ób'j||~}||}||}~}~|}~}~||}~jj 
-OL,8,óh}:?s||xppp|txv;?zj 
-OL,9,óvovsssss3z7:z5?24o2ssssss~g~ 
-OL,10,ó};//////%k|iej5}*~k5///////y 
-OL,11,ó'`   7~7~?zuu55(0 "o 
-OL,12,óqpqp  'kuo+7o5 `rpp{ 
-OL,13,ó4e}j5n7j ju%~ 
-OL,14,ó}jjh6?zj?xkjhÜMONDAYSó 
-OL,15,ó'#   #+ju}i5eujáCOWSWAPó 
-OL,16,ó?!`>#!8c?"oj5jj 
-OL,17,ó! c?a&x'$8"uoueÜTUESDAYS ó 
-OL,18,ó(,' -.! &( 5w<,,,,v55STEAK THROWj 
-OL,19,ó ~#4s!s! uoyotqq~e 
-OL,20,ó4+,!/  /  h=!  ,,,/yÜWEDNESDAYSó 
-OL,21,ótáTRIPEóxwx!0 áUDDER GRABó 
-OL,22,ó}|ppp|~ouz}j 
-OL,23,ó###################################### 
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W?oo?o/o?ooo/ 
+OL,2,Wb1w{jw{b1w{b9w{b1w{hyjs5sj 
+OL,3,W.-o?,,?/.=//<n/>-/o./.?-/n 
+OL,4,W  5j5j5j5hy 5j5j  5j 
+OL,5,W?k s(5b{5b{5b{5j 5b1j 3`5j+ 
+OL,6,Wg~j  5j5j5j5j 5j5j  5jjvo 
+OL,7,Wb'j||~}||}||}~}~|}~}~||}~jj 
+OL,8,Wh}:?s||xppp|txv;?zj 
+OL,9,Wvovsssss3z7:z5?24o2ssssss~g~ 
+OL,10,W};//////%k|iej5}*~k5///////y 
+OL,11,W'`   7~7~?zuu55(0 "o 
+OL,12,Wqpqp  'kuo+7o5 `rpp{ 
+OL,13,W4e}j5n7j ju%~ 
+OL,14,W}jjh6?zj?xkjhFMONDAYSW 
+OL,15,W'#   #+ju}i5eujGCOWSWAPW 
+OL,16,W?!`>#!8c?"oj5jj 
+OL,17,W! c?a&x'$8"uoueFTUESDAYS W 
+OL,18,W(,' -.! &( 5w<,,,,v55STEAK THROWj 
+OL,19,W ~#4s!s! uoyotqq~e 
+OL,20,W4+,!/  /  h=!  ,,,/yFWEDNESDAYSW 
+OL,21,WtGTRIPEWxwx!0 GUDDER GRABW 
+OL,22,W}|ppp|~ouz}j 
+OL,23,W###################################### 
 FL,520,520,800,200,100,100
 PN,51004
 SC,0004
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ë0"}  0 d"}0 }0 "$(7  x ~|0  (= 
-OL,2,ì( z5`t  k5 o|0 t " wf5`  " 
-OL,3,ë h5jo} z}  +u k}  5*!b$ 
-OL,4,ì(;5"?}'7 pxt~t~!  j4 
-OL,5,ë"~u g5 +' ou~g/??o7{u  z5 
-OL,6,ìhw" ju ë`ì"-?4omo'9b?7(ogo?  ` 
-OL,7,ë*4*u ?4ë !  "  !!  ""   !! ëk5 ~ 
-OL,8,ì0*u k4ó2~?ottv`~wv~|}y8ì j!~?`
-OL,9,ëi00 !joó7à     ppp0    âkìë z?{58
-OL,10,ì"~5` z%ó5à   `~t   âj'ì `/`f
-OL,11,ë "o}j}5óz%à p jo??o `0âj1ëh# "8!
-OL,12,ìh0ì+}9!ó1à #mjj0z0zjh'!âj?ì;}?ì0 `p 
-OL,13,ë"}tëk|0 óo5à    +q{?!   âjtë>='ë~5z 
-OL,14,ì tìo0ó85à  `4*++++ t  âj?ìf$ì?`7 
-OL,15,ët"të5ó~5à |'  m}}% "m4âjë x%>'  
-OL,16,ìtjìón}pppppppp00ppppp~gìz~'! (!
-OL,17,ë*?o ooeó#&//'////////----ëx>{?ax|6  
-OL,18,ì0"+;)  ! ) , $ó(990    ì$,$&!.!! " ) (!
-OL,19,î   (vx0x óp||t(lx|tptp||t< î(tv;l~~xy0 
-OL,20,î8"~}z?!ózyy90;y'b&c=1:î"o}v;?0
-OL,21,î"z7ón39y/'6.*o)-y}?}?.n}îk?ó`îov 
-OL,22,î0fo5ó|<8||||p(|px<xdp||||$`|îjó.'îz!
-OL,23,î )tó                     îx}||~?! 
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q0"}  0 d"}0 }0 "$(7  x ~|0  (= 
+OL,2,S( z5`t  k5 o|0 t " wf5`  " 
+OL,3,Q h5jo} z}  +u k}  5*!b$ 
+OL,4,S(;5"?}'7 pxt~t~!  j4 
+OL,5,Q"~u g5 +' ou~g/??o7{u  z5 
+OL,6,Shw" ju Q`S"-?4omo'9b?7(ogo?  ` 
+OL,7,Q*4*u ?4Q !  "  !!  ""   !! Qk5 ~ 
+OL,8,S0*u k4W2~?ottv`~wv~|}y8S j!~?`
+OL,9,Qi00 !joW7H     ppp0    IkSQ z?{58
+OL,10,S"~5` z%W5H   `~t   Ij'S `/`f
+OL,11,Q "o}j}5Wz%H p jo??o `0Ij1Qh# "8!
+OL,12,Sh0S+}9!W1H #mjj0z0zjh'!Ij?S;}?S0 `p 
+OL,13,Q"}tQk|0 Wo5H    +q{?!   IjtQ>='Q~5z 
+OL,14,S tSo0W85H  `4*++++ t  Ij?Sf$S?`7 
+OL,15,Qt"tQ5W~5H |'  m}}% "m4IjQ x%>'  
+OL,16,StjSWn}pppppppp00ppppp~gSz~'! (!
+OL,17,Q*?o ooeW#&//'////////----Qx>{?ax|6  
+OL,18,S0"+;)  ! ) , $W(990    S$,$&!.!! " ) (!
+OL,19,T   (vx0x Wp||t(lx|tptp||t< T(tv;l~~xy0 
+OL,20,T8"~}z?!Wzyy90;y'b&c=1:T"o}v;?0
+OL,21,T"z7Wn39y/'6.*o)-y}?}?.n}Tk?W`Tov 
+OL,22,T0fo5W|<8||||p(|px<xdp||||$`|TjW.'Tz!
+OL,23,T )tW                     Tx}||~?! 
 FL,520,520,800,200,100,100
 PN,51005
 SC,0005
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ñ?/o?/?o?/?/?/o/o?/o/o//oo?/
-OL,2,ñ ?h}* ;j?h~ %~4o /%5b%~ ~~
-OL,3,ñ 5j  j5j?/  5j 55j5};
-OL,4,ñ uj` jujj 05z 55j55j
-OL,5,ñwps~tq~wp{rtq~v8}rxwp{q{qru{vp~
-OL,6,ñ}(f}h}(f7,kxhz4d 7|{(f5557l}(z)~
-OL,7,ñ?*?*?*55j?*%'!bou/{j5u%5?e?*k/z
-OL,8,ñeu*};o/
-OL,9,ó?////////////o7~/ csx4|4o?6'~
-OL,10,óÖMay-Aug 1985ów3x|~//eu*/c#1o~
-OL,11,óÇ Gagged and óew!`}| j3i|,,ojj
-OL,12,óÇ Bound from ój5j "!ziww}kj ??
-OL,13,óÇ just #4.25 ó55*5o!u vong~*/%k~
-OL,14,ó}|<,,,,,,,,l0nuo} }pxo4k;...{6u*o
-OL,15,ówÉWalk theó|2o60"/'`:~#3o~}k 
-OL,16,ó7 É Plank! ót"&|<,/g$kp|{?/`i0k
-OL,17,ó j}|||||t<|~4ì`l~}<tp  08ó+u%*
-OL,18,îzów?"o4ì;t~'o|r&   dd 88
-OL,19,î+}ó/?'ît ó+/oì"f}o|||qqp"&
-OL,20,î}ztó!î`~}yvtpó!##!ì k%"oog
-OL,21,î?sx~}|}p3//}l|tì !);;î`}ì)+;??9!)
-OL,22,î?~?o{}    p~|p0 px
-OL,23,ÖùáCall the Pirate HotlineÉ0800-000-000 
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,V?/o?/?o?/?/?/o/o?/o/o//oo?/
+OL,2,V ?h}* ;j?h~ %~4o /%5b%~ ~~
+OL,3,V 5j  j5j?/  5j 55j5};
+OL,4,V uj` jujj 05z 55j55j
+OL,5,Vwps~tq~wp{rtq~v8}rxwp{q{qru{vp~
+OL,6,V}(f}h}(f7,kxhz4d 7|{(f5557l}(z)~
+OL,7,V?*?*?*55j?*%'!bou/{j5u%5?e?*k/z
+OL,8,Veu*};o/
+OL,9,W?////////////o7~/ csx4|4o?6'~
+OL,10,WEMay-Aug 1985Ww3x|~//eu*/c#1o~
+OL,11,WB Gagged and Wew!`}| j3i|,,ojj
+OL,12,WB Bound from Wj5j "!ziww}kj ??
+OL,13,WB just #4.25 W55*5o!u vong~*/%k~
+OL,14,W}|<,,,,,,,,l0nuo} }pxo4k;...{6u*o
+OL,15,WwCWalk theW|2o60"/'`:~#3o~}k 
+OL,16,W7 C Plank! Wt"&|<,/g$kp|{?/`i0k
+OL,17,W j}|||||t<|~4S`l~}<tp  08W+u%*
+OL,18,TzWw?"o4S;t~'o|r&   dd 88
+OL,19,T+}W/?'Tt W+/oS"f}o|||qqp"&
+OL,20,T}ztW!T`~}yvtpW!##!S k%"oog
+OL,21,T?sx~}|}p3//}l|tS !);;T`}S)+;??9!)
+OL,22,T?~?o{}    p~|p0 px
+OL,23,E]GCall the Pirate HotlineC0800-000-000 
 FL,520,520,800,200,100,100
 PN,51006
 SC,0006
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ñ////'ó rw/ñk
-OL,2,ñ//##!       ïp0ñ+?!ó""){~;}ñ
-OL,3,î?'! ï0p`x4|'!~/!o' }î'      ó"o?î?
-OL,4,ñï`~=juo:u kx5+}0*?!*ñ7ó|$ p `|$ +wî 
-OL,5,îïj7  ~5'*wp`r? ?'"îuó- ~u"-$`x~}í~
-OL,6,ñï*|tk5j|%/# #!îñ`x4ójpx~í
-OL,7,îu ï#!"!îppp||0 n?ó`on?í
-OL,8,î||||?#######d +o?ó8{?7í
-OL,9,îìjzj15j{î|p{?ó~}íj
-OL,10,î'óp ì***$-*îx/o'óz}~í~o
-OL,11,îóyî}0`|||>óxt       #jwí
-OL,12,î7ó"î5z'ó`xtzzít   ó`~5 ;íw
-OL,13,î?óp~î}{ók?íóp|~%"íz
-OL,14,îó~g7îó"o?íx5ócs{?'{5ípx?
-OL,15,îó z!'îj/ó~*íxóhh4|4|>a}ík?;
-OL,16,î5ó/}~uî`ó ríh?7ó(*j?*q~wb5í~
-OL,17,î/!óo?î'ó~/íz5ó`rx|o%í?
-OL,18,íx|ó  x5 +/#íx>ó`wbw&!í~v~
-OL,19,ío5ó~?5ípx~5ó~~'! |í"o
-OL,20,ì}y5ó5oìzw~uó+??!#   ~tìo
-OL,21,í?ón/"íxwf}tó        `~}í+
-OL,22,ì|||~!ó       `~}ìk
-OL,23,ì?!óxt"
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,V////'W rw/Vk
+OL,2,V//##!       Up0V+?!W""){~;}V
+OL,3,T?'! U0p`x4|'!~/!o' }T'      W"o?T?
+OL,4,VU`~=juo:u kx5+}0*?!*V7W|$ p `|$ +wT 
+OL,5,TUj7  ~5'*wp`r? ?'"TuW- ~u"-$`x~}R~
+OL,6,VU*|tk5j|%/# #!TV`x4Wjpx~R
+OL,7,Tu U#!"!Tppp||0 n?W`on?R
+OL,8,T||||?#######d +o?W8{?7R
+OL,9,TSjzj15j{T|p{?W~}Rj
+OL,10,T'Wp S***$-*Tx/o'Wz}~R~o
+OL,11,TWyT}0`|||>Wxt       #jwR
+OL,12,T7W"T5z'W`xtzzRt   W`~5 ;Rw
+OL,13,T?Wp~T}{Wk?RWp|~%"Rz
+OL,14,TW~g7TW"o?Rx5Wcs{?'{5Rpx?
+OL,15,TW z!'Tj/W~*RxWhh4|4|>a}Rk?;
+OL,16,T5W/}~uT`W rRh?7W(*j?*q~wb5R~
+OL,17,T/!Wo?T'W~/Rz5W`rx|o%R?
+OL,18,Rx|W  x5 +/#Rx>W`wbw&!R~v~
+OL,19,Ro5W~?5Rpx~5W~~'! |R"o
+OL,20,S}y5W5oSzw~uW+??!#   ~tSo
+OL,21,R?Wn/"Rxwf}tW        `~}R+
+OL,22,S|||~!W       `~}Sk
+OL,23,S?!Wxt"
 FL,520,520,800,200,100,100
 PN,51007
 SC,0007
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,Ñùó p  x0 x0 x0 ë `|0 (`<` ó     x   0  
-OL,2,Ñùó k}~~~}pë +}0 xw  9 $ót0hux~5  
-OL,3,Ñùó xy65,~p?z%ëa~?#  k="dó p//ooo}t0
-OL,4,Ñùóng~?jg>o}0ë #m0)(7 (1ó#o5jjg~' 
-OL,5,Ñùó {ll?,n=.3ë1h' ì ppp ë)ó|~|~.n} 
-OL,6,Ñùó.o5555{51j?!ë0ì `,s||vsm0ó#}? !
-OL,7,Ñùóx=-m}|-m?.   ì`|o's  "+};0ó'!+,~o 
-OL,8,Ñùó!   +!ïpp,,ì`xo'{?ax<o>)hïp0ó"l?  
-OL,9,Ñùóh0 ñ`r;c ìx>'+}tk~/!  `$09ñb#ot$ó  
-OL,10,Ñùó"k'ï.os !ì~7`~%z?'  p~$(9! ï$,tó 
-OL,11,Ñùó ñ`rr=,ì*:tx>!nur|v?cb>! ñ r{~-ó  
-OL,12,Ñùó  ï"+|0ì"><3;//,-/+c`f'  ïx/#!ó0  
-OL,13,Ñùñ +$"#+/o}ì"/vv}yyyxx9!!ñp</#! ó`~}~? 
-OL,14,Ñùì   ï!  !+ot0ì"####ïpp|<'3 .' $ ó+7#  
-OL,15,Ñùì  ` `5ñ("#/-,.'###         "  ó    
-OL,16,Ñùì  ~4~5ÉJuicy  ì|     h4  h4h4      
-OL,17,Ñùì h5`||0`|x4||h4h4|0 |h~}4x|t  
-OL,18,Ñùì 7j%5}~%!5j7 ~!~i7"h ! ot#  
-OL,19,Ñùìz? j? 5p|jz u4x?zux7z5jxht{5  
-OL,20,Ñùìsqppqpsqrsqpsqs "# r%ssspsqpsqpssp  
-OL,21,ÑùÉBrought to youì(///'!Éby Yakfu Corp  
-OL,22,ÉùçÑThe Beefiest of Breakfast Biscuits  
-OL,23,ó                                       
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,D]Spppppppppp   pppp   pppp             
+OL,2,D]S5h~h,,45(~h,,45(jh,<l|||||||| 
+OL,3,D]Sur{j {5ur{j {5uzzj$1n 
+OL,4,D]S         (.,,%  (.,/%  (.,-.//////// 
+OL,5,D]W<l,4<,,4<l|4<,lh,,|h,,lh,<lh,,l      
+OL,6,D]W5b 55j 55j5 j 5jj 1jjp1jjp3kS|||| 
+OL,7,D]W-.,%-,,%-,,%-,.*,,/*,-.*,,.*,,.S% 
+OL,8,D]FHolidays full indexB...401S"+o/#  
+OL,9,D]FOffersB402FCity breaksB403S"   1  "  
+OL,10,D]V                         S"   S$   " 
+OL,11,D]G           Wh,GEUROPE SPECIALS '88W,4
+OL,12,D]R`<~''o|0   WjCFRANCEBParisF.....406W5
+OL,13,D]R# xl?|r}$ WjCSPAINBIbizaF......407W5
+OL,14,D]R ~+"QxR{6oqWjCITALYBNaplesF.....409W5
+OL,15,D]Rz" Qz%Rn%&}WjCGERMANYBBerlinF...410W5
+OL,16,D]   Qh?Rr7 ":W*,,,,,,,,,,,,,,,,,,,,,,,%
+OL,17,D]   Q%R>    G  Europe indexF.....405  
+OL,18,D]  Qj       W                         
+OL,19,C]Q `7 V"#####///oww{{w/ww{
+OL,20,C]Q z5 T,|p||,     V"#+///////////////#
+OL,21,C]T ##////#{'otD Departures indexA470  
+OL,22,S///////////////////////////////////////
+OL,23,D]GTRAVEL HEADLINES 460GGMAIN MENU 100  
 FL,520,520,800,200,100,100
 PN,51008
 SC,0008
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ë4  "%  ì ñ 8t   ë '  ~
-OL,2,ì1 ###/%      ó~/?o/}    ìo//'#z
-OL,3,ët         ó 0,=n/,        ë`~
-OL,4,ìu       ó z:<=n,,       ì`
-OL,5,ë4     óhe==n,|?xt    ën
-OL,6,ì/##       óh7~,=n,j;5     ì"#+o
-OL,7,ë|p      óh? |}~|6/#p    ë `x~
-OL,8,ì,   óhe ?opp?/s|}  ì(n
-OL,9,ë/'#    óh9 5j `e~%   ë "#/o
-OL,10,ìt0     ó zv }~#i?/?gqt      ì p~
-OL,11,ë|p    ó~=!/?ot3sy~%   ë`x~
-OL,12,ì$  ó$,=fy~?'   ìn
-OL,13,ë?'    ó5,=*v{/g1      ë"/
-OL,14,ì?#      ón5|}d<||}      ì "+
-OL,15,ë}||<ó`(8{5v;n'   ë(|||
-OL,16,ì' óxv~5#7k7i |#!     ì"o
-OL,17,ë?!ó`f~5??oo        ë +
-OL,18,ì' ó89};uo||||?    ì(|||ppr
-OL,19,ë?!ó`ffnowo$!######      ë"+
-OL,20,Ñùìp000p `0`p p p0p`p `0`0 p0` 00p ` p  
-OL,21,Ñùìj u5u jju%j5 j55zj5 j 55e5u%u555 
-OL,22,Ñùìj 555 jj55j54j55jj5 j 55 55 5555 
-OL,23,Ñùì" !!# "!"!!# # #"!!#""# ! " # ! !!#  
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q4  "%  S V 8t   Q '  ~
+OL,2,S1 ###/%      W~/?o/}    So//'#z
+OL,3,Qt         W 0,=n/,        Q`~
+OL,4,Su       W z:<=n,,       S`
+OL,5,Q4     Whe==n,|?xt    Qn
+OL,6,S/##       Wh7~,=n,j;5     S"#+o
+OL,7,Q|p      Wh? |}~|6/#p    Q `x~
+OL,8,S,   Whe ?opp?/s|}  S(n
+OL,9,Q/'#    Wh9 5j `e~%   Q "#/o
+OL,10,St0     W zv }~#i?/?gqt      S p~
+OL,11,Q|p    W~=!/?ot3sy~%   Q`x~
+OL,12,S$  W$,=fy~?'   Sn
+OL,13,Q?'    W5,=*v{/g1      Q"/
+OL,14,S?#      Wn5|}d<||}      S "+
+OL,15,Q}||<W`(8{5v;n'   Q(|||
+OL,16,S' Wxv~5#7k7i |#!     S"o
+OL,17,Q?!W`f~5??oo        Q +
+OL,18,S' W89};uo||||?    S(|||ppr
+OL,19,Q?!W`ffnowo$!######      Q"+
+OL,20,D]Sp000p `0`p p p0p`p `0`0 p0` 00p ` p  
+OL,21,D]Sj u5u jju%j5 j55zj5 j 55e5u%u555 
+OL,22,D]Sj 555 jj55j54j55jj5 j 55 55 5555 
+OL,23,D]S" !!# "!"!!# # #"!!#""# ! " # ! !!#  
 FL,520,520,800,200,100,100
 PN,51009
 SC,0009
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ÜùÑ  www.blogtalkradio.com/ru-network   
-OL,2,Ñùñ   0  t    ì `px|||||pp  ñ   0 h0 (  
-OL,3,Ñùñ0<,,4`5 "ìp|?s| k?/?/}t0ñ   j  <,4
-OL,4,Ñùñ 7##5b!ìx/s;%k0"ro&j5j}0ñj  7#5
-OL,5,Ñùñ|5 |5ì`~?q$5"25j 1~5h$+otñ  p5p5
-OL,6,Ñùñ#! #ìx?q k55( ju 4 %"pjt+o}0ñ/%/%
-OL,7,Ñùñ t"ìhuo4(55~$j k5  (}j? =k} ñ 0 
-OL,8,Ñùñ 5ì`?y"j}(0$o5* *  jwj7h'(uñ$` 
-OL,9,Ñùñ5ì~{60""d!j 4"4 j=z5 $k{4ñj!
-OL,10,Ñùñ ì`%+}k} k5j  55 5n5{5 j5`?!eñ~ 
-OL,11,Ñùñ$ó xgy|||||||||||||||||||||||||sm0ñ# 
-OL,12,Ñùó p>%)?!x|tk4jtpzpuppppppppppp5/t0 
-OL,13,Ñùó>9~5n5j5b4k} } |"} x"} nd5+|;4
-OL,14,Ñùó5b}59u"o?k5j5j  ` `u"z5f55
-OL,15,Ñùó595b?-,,,/,,-,-,> l/? l/o/x/5)55
-OL,16,Ñùó5b}5;?###k7k7k7######+'###5f55
-OL,17,Ñùó585f5j5`p0j5  ##`0##+5)55
-OL,18,Ñùó5f}5x}pppzuzuzuppppsssx5f55
-OL,19,Ñùó585>c ñ`ppppppppppppppppppp0ób+5f55
-OL,20,Ñùó5f}u ( ñj({(}h5f7655565jhhk5ó( `x55
-OL,21,Ñùó5x/##!!ñjzzrzuu}y}yuuu{zzzz5ó!##+o55
-OL,22,Ñùóu!     `>ÇChiptunes for teaóu      a5
-OL,23,Ñùó"+,,,,.# Üw/90snintendodudeó"+,,,,.# 
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T   x0 S`,l<0G .      .W `x|||,,,|||t0G.
+OL,2,T   b  S5({nj V`, `,dG Wh'||%6#i*||+64
+OL,3,T  xy0S)prq&V`1`~4G . Wwrsqprsqprsq{j
+OL,4,T`~'02ot    V`!~7   `0W(<,dk(l, l,,2(
+OL,5,Tj!6x20kG. *Vj5j x?-!rW5}<&jjjj,,a7`
+OL,6,T*tyrxqn    Vj}j  h= W%5+4+/j*/j*7"
+OL,7,Tj5$$$ wG . WV444! Wrspsqrsspsqv*
+OL,8,T~!5915wt V`~$}v}v6  W]D HERE LIES   \
+OL,9,Tb5`<t wb5V~5 o;/wseG*Wwc7{k7{3{c77wcb
+OL,10,T)5kj*5=)5Vtrs/|s{G.Wj5~j5~5h76j7"
+OL,11,Tf%k:(5wf5V"ovo% Wzu{rusuruuzvb
+OL,12,R`> x%h  x& V+/'RiW]D1973 - ????  \
+OL,13,R/ak%4n}2+ .0V`|}0R|7W#+o?'##o'#+?#+*
+OL,14,Rx`tjuh2}m2}xVj?#'R"Q`|t0 x?)0`8#0(nt 
+OL,15,Rm2otk'k70k=&Vz| U`dQm'c+(& %cp2/=0Rr
+OL,16,Rt+"ka~*x&UxdVk=UfmtQ=! q||0+'( R tf
+OL,17,Ra>jnw}'QU.{qVo1U(;}9"mpQng"(Ux<Rijt
+OL,18,Ra>uc'Ux~}t+}10 88{wo4  90Q8,  ('R`u 1
+OL,19,Rv'Qp~mw' U"~kn~~kw'  ("q2  8, Rz4'ja
+OL,20,R/#Upp"/ov 8'pUs+owg `0Qx?!( 2  Rd#a6"o
+OL,21,QQ(/.'-",$#(/+/.+U+/-+$!.' " "' R$+ / .'
+OL,22,QM]C Rise from your grave,Gteletext!   \
+OL,23,C                                       
 FL,520,520,800,200,100,100
 PN,51010
 SC,0010
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,áùÅ** Incoming message from 198X... **  
-OL,2,Åùá   Come and try your hand at...      
-OL,3,áùÖ * *ï`Ö  *  *   *  ïpÖ *  *   *  *   
-OL,4,áùÖ*ï`x~%x?hÖ*ï`~?`x~'x?j}  ~%p|~?Ö   
-OL,5,áùï ~?7a~' ju  'p+oa~g0 ou~%~'5ÅWhy 
-OL,6,áùï ' 5y? j  ~' jj}?a xu ! 5Ånot 
-OL,7,áùÖ *ï5'p<jx4a~4jjwx'x'4  5Ådrop
-OL,8,áùÖ* ï5o?a*?!o'0j'2/'z?at*=h05Åin? 
-OL,9,áùÖ *ï?a|||?}rx||>/,~tj'x//-|u+5ÅIt's
-OL,10,áùÖ* ïx'x2o5*-b|~| h~}0ÅFREE
-OL,11,áùï `~ux||puz}ppzt    
-OL,12,Öùáat Manchester's fantastically retro  
-OL,13,Ñùì `||$| t ||t`|<$x|t h<th4  | px<`x|  
-OL,14,Ñùìhwp j5`?j7`?jup`?`>!`:" z%&{%`?#p  
-OL,15,Ñùó #{%~!z%#!`?#!j7+tj7+| k~! ` ~/#p  
-OL,16,Ñùó./! +/!*%  *-/!/  +*-'!x?!  *% //'!  
-OL,17,ÜùÅ---------------------ó"'Å----------  
-OL,18,Üùëw! w! w1 k! k! 55 v4 5 ì(c$ 6i j *3  
-OL,19,Üùî%  -$ ,% *  .$ )! %% -$ï(-$ )& * (&  
-OL,20,ÜùÑChiptune, low-tech & 8-bit art fest  
-OL,21,ÉùÑ-----------------------------------  
-OL,22,ÉùÅTHE SANDBAR, 120 GROSVENOR ST., MCR  
-OL,23,ÉùÅFrom 12.00pm, Saturday 12 Sept 2015  
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,R p`p p `0p0 Q0 " 2 2>8)y-w}ux/g{t  
+OL,2,R*}j>j=5 $Q: 82$&"8:{fs</sy</sy~5@
+OL,3,S('*%*%%+$/$Q!8bp!8fv{</gs|.gs|~o'& !I
+OL,4,V-t0C.  .  Q"``a|/gs|>/sy|??;!! Sp0L
+OL,5,V}w|pC*  SQ%)!s||/gs|.#Rpp0Q""S  p|%L
+OL,6,V{ovm0C.Q* &&r{|'Rp|{}t0Sl?ga$A
+OL,7,V=wt Qh &&>+!sR`~{~tSg!819 R
+OL,8,Us}{j:}0S  0d$9Rh}=}Sf$r|5T
+OL,9,V}o5}kjtS   p8Rww5S~=' E
+OL,10,Uw7~io:ztS"&/Rh?{~o}S`x>5R
+OL,11,Unz?wjz%{?4S pRjumzSv>?WA
+OL,12,Ue?}~??c6o0SaRjgp2ok'p;S&W0T
+OL,13,T~}?e5k~}S$Rj7  };j?y5 +Wv:!E
+OL,14,Ukg~o/6~5~g5 R"}0 5bog 5 x?Wg&h% 
+OL,15,T;".!2?j{%;5k>wm  R*t" zzz0"`~!W()!  
+OL,16,T f$"&85f &( 1on (0R+}~'7o|?!       
+OL,17,T !( $!    "   "    R"oko? W`pppp  
+OL,18,A   NOW WITH  T"     R"o}ppx?W0h77737} 
+OL,19,Qh|4|`|h|4||0x|0      R o||~? W#k}h5%= 
+OL,20,Qj= b1  ~%n5    R x5t+/'xh0W +////! 
+OL,21,U*/%/!/ / /*%/*%  R`x~%*}t       
+OL,22,E TERRESTRIALS! Rp~yppvt0    
+OL,23,W             R`~}tssx~}   
 FL,520,520,800,200,100,100
 PN,51011
 SC,0011
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ï   `|~//o3#                  b~u     
-OL,2,ì   i=`/-                     a}4 
-OL,3,ï  `q {&                        ao+(g} 
-OL,4,ì `~$!                          " (5 
-OL,5,ïz:u                             /' 
-OL,6,ìw/"!                              ~t
-OL,7,ï?yr        ó  pp0d ``   ï          'gg
-OL,8,ì*u$      ó  k|t0 ì           {
-OL,9,ïx/!        ó(####k?#"# ï           k
-OL,10,ì9?        ó i>?$`~} h|<4ì           j
-OL,11,ï+,        ó(6b p`5w3+$ï           {
-OL,12,ì|</        ó`}50ì          b
-OL,13,ï0       ó j?'##+&$ï          
-OL,14,ì+!      ó *}x||4bo7! ì          {
-OL,15,ï +04     ó "g<??-&+5  ï          
-OL,16,ì  "o0     ól%'pp0      ì        48
-OL,17,ï   "/5    ókwh~o?'     ï       h}?'
-OL,18,ì     j}||0   ó#"           ì      `!  
-OL,19,ï      #/|   ó `|~}t    ï    x~tx|
-OL,20,ì       xk5    ó#!" !   ì     ### #+'!
-OL,21,ï     x~?'óh  `~}0           `          
-OL,22,ì    z'ó`nt`hz}0         "ot        
-OL,23,ï  `~% ó*vhz7         h`0kt      
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,U   `|~//o3#                  b~u     
+OL,2,S   i=`/-                     a}4 
+OL,3,U  `q {&                        ao+(g} 
+OL,4,S `~$!                          " (5 
+OL,5,Uz:u                             /' 
+OL,6,Sw/"!                              ~t
+OL,7,U?yr        W  pp0d ``   U          'gg
+OL,8,S*u$      W  k|t0 S           {
+OL,9,Ux/!        W(####k?#"# U           k
+OL,10,S9?        W i>?$`~} h|<4S           j
+OL,11,U+,        W(6b p`5w3+$U           {
+OL,12,S|</        W`}50S          b
+OL,13,U0       W j?'##+&$U          
+OL,14,S+!      W *}x||4bo7! S          {
+OL,15,U +04     W "g<??-&+5  U          
+OL,16,S  "o0     Wl%'pp0      S        48
+OL,17,U   "/5    Wkwh~o?'     U       h}?'
+OL,18,S     j}||0   W#"           S      `!  
+OL,19,U      #/|   W `|~}t    U    x~tx|
+OL,20,S       xk5    W#!" !   S     ### #+'!
+OL,21,U     x~?'Wh  `~}0           `          
+OL,22,S    z'W`nt`hz}0         "ot        
+OL,23,U  `~% W*vhz7         h`0kt      
 FL,520,520,800,200,100,100
 PN,51012
 SC,0012
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ìö          ppx|||pp   Ü  Dunk says...  
-OL,2,ìö      0p~gs{t ík!w*:"7jdnhijij1
-OL,3,ìö   `|g~}g<n}0j uhi 5j j*:j:j0
-OL,4,ìö `|i' |~5 ñpp p`0p p0`p  
-OL,5,ìö`~i? ./0ñ{5j5 13  
-OL,6,ìö~7~?v!xvouók4z500r*5
-OL,7,ìö5g1"/jj'co6ó#"!"# #!#!#!" 
-OL,8,ìö5}e|p"cj&dp.s|~} ï~?455~74
-OL,9,ìöouo5'co5'x~}|;4ë55w  x?!
-OL,10,ìö*::tp>s|5bc{}ëo}%55 s1 
-OL,11,ìö ouo?ry~k?a~j//%            
-OL,12,ìö *:o'}ss3(/y?ëx<|t           
-OL,13,ìö  o}kuo7r//o?'ópì*oë~df}óp        
-OL,14,ìö  "6}0ó,ìx~5!ë?)xó|0     
-OL,15,ìö   k}k?/o?/l~?'ó~ëow&n?óìht0  
-OL,16,ìö   "6/ |ó`|tppx|}ë+-/'ó47ì?}p
-OL,17,óö   x,,,|ì+}ókyw~?/|4 h}+'ìrs~
-OL,18,óö   h|2)ìk}p0pppppxtó5 j'ìxw*
-OL,19,óö  `oo4ì~v3#///!óë||| ì~;}h5'
-OL,20,óö  j6~ì~};otó|||}h|4ìxk:}k5 
-OL,21,óö  j*ìo}kój-ìo}kvy0#  
-OL,22,óö  ~ìx4y?óx?/# îp ìo}vs3!   
-OL,23,óö  ////ìx;//!#ó"'#  îj / +ì#//!    
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,SZ          ppx|||pp   F  Dunk says...  
+OL,2,SZ      0p~gs{t Rk!w*:"7jdnhijij1
+OL,3,SZ   `|g~}g<n}0j uhi 5j j*:j:j0
+OL,4,SZ `|i' |~5 Vpp p`0p p0`p  
+OL,5,SZ`~i? ./0V{5j5 13  
+OL,6,SZ~7~?v!xvouWk4z500r*5
+OL,7,SZ5g1"/jj'co6W#"!"# #!#!#!" 
+OL,8,SZ5}e|p"cj&dp.s|~} U~?455~74
+OL,9,SZouo5'co5'x~}|;4Q55w  x?!
+OL,10,SZ*::tp>s|5bc{}Qo}%55 s1 
+OL,11,SZ ouo?ry~k?a~j//%            
+OL,12,SZ *:o'}ss3(/y?Qx<|t           
+OL,13,SZ  o}kuo7r//o?'WpS*oQ~df}Wp        
+OL,14,SZ  "6}0W,Sx~5!Q?)xW|0     
+OL,15,SZ   k}k?/o?/l~?'W~Qow&n?WSht0  
+OL,16,SZ   "6/ |W`|tppx|}Q+-/'W47S?}p
+OL,17,WZ   x,,,|S+}Wkyw~?/|4 h}+'Srs~
+OL,18,WZ   h|2)Sk}p0pppppxtW5 j'Sxw*
+OL,19,WZ  `oo4S~v3#///!WQ||| S~;}h5'
+OL,20,WZ  j6~S~};otW|||}h|4Sxk:}k5 
+OL,21,WZ  j*So}kWj-So}kvy0#  
+OL,22,WZ  ~Sx4y?Wx?/# Tp So}vs3!   
+OL,23,WZ  ////Sx;//!#W"'#  Tj / +S#//!    
 FL,520,520,800,200,100,100
 PN,51013
 SC,0013
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ó    z h'~7 <'    ((0 4}*vm2$!2m0"d     
-OL,2,ó    7 en?9hw!`<!xaw>hm}h1 +0  "% *     
-OL,3,ó    ?" "~%>{>af>yaw'$ "0  " h     
-OL,4,ó    5`&jj ~9q'e5u !       e    
-OL,5,ó   `& &!z %'{4z7jt        *    
-OL,6,ó   > "h`#4 "z}{w~:o}0      `    
-OL,7,ó   u`&*  50"~/m~?///wd     b    
-OL,8,ó   !%>2  uz0p|dp#+?! ppp " e     4   
-OL,9,ó   je="  on?-$"!j?/5`&q||34 "     5   
-OL,10,ó   "45  `t+}|0`tz.42rt p j`      !   
-OL,11,ó    {`<jjuo?yh7(:=d7?          
-OL,12,ó    8c$u"t;a5(;og>!  (0  1   
-OL,13,ó    &q$l$wq~o= kt3/#        5   
-OL,14,ó      1*$k5x         :    
-OL,15,ó      # 3j}#o/!" '   1 " h     
-OL,16,ó      "`"*==   ({}0   % : 5     
-OL,17,ó       "$ ?t4 "f&!   !  :      
-OL,18,ó       ""0+7prqp#p  p00  0  :       
-OL,19,ó        `8 k3##!";/!  `e&        
-OL,20,ó       "!  0+tppp0   ( #)p        
-OL,21,ó        p|u2o?!`& 0   #),,ppp 
-OL,22,ó     `~i}t+oo/' 0! h         (9s
-OL,23,ó  `x>#}nt    ,#   0       `bf~
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W    z h'~7 <'    ((0 4}*vm2$!2m0"d     
+OL,2,W    7 en?9hw!`<!xaw>hm}h1 +0  "% *     
+OL,3,W    ?" "~%>{>af>yaw'$ "0  " h     
+OL,4,W    5`&jj ~9q'e5u !       e    
+OL,5,W   `& &!z %'{4z7jt        *    
+OL,6,W   > "h`#4 "z}{w~:o}0      `    
+OL,7,W   u`&*  50"~/m~?///wd     b    
+OL,8,W   !%>2  uz0p|dp#+?! ppp " e     4   
+OL,9,W   je="  on?-$"!j?/5`&q||34 "     5   
+OL,10,W   "45  `t+}|0`tz.42rt p j`      !   
+OL,11,W    {`<jjuo?yh7(:=d7?          
+OL,12,W    8c$u"t;a5(;og>!  (0  1   
+OL,13,W    &q$l$wq~o= kt3/#        5   
+OL,14,W      1*$k5x         :    
+OL,15,W      # 3j}#o/!" '   1 " h     
+OL,16,W      "`"*==   ({}0   % : 5     
+OL,17,W       "$ ?t4 "f&!   !  :      
+OL,18,W       ""0+7prqp#p  p00  0  :       
+OL,19,W        `8 k3##!";/!  `e&        
+OL,20,W       "!  0+tppp0   ( #)p        
+OL,21,W        p|u2o?!`& 0   #),,ppp 
+OL,22,W     `~i}t+oo/' 0! h         (9s
+OL,23,W  `x>#}nt    ,#   0       `bf~
 FL,520,520,800,200,100,100
 PN,51014
 SC,0014
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,î"+/ltp||.'+-ïa aî+'/o3+,"+o?,`pp||~/!
-OL,2,î,/w#/owqó|ï$ $î.ïxu ìu z î#owsa `ss?
-OL,3,ë `pppppp  ó    ï} ì?o`p   p0  îc{/
-OL,4,ë u&d&d&d5ñ~}} ï ì}~jzx0zz}t|<   
-OL,5,ë"7;3;3;37ñ~~{{{{| ï{; ìkj?#o'+t   
-OL,6,î(|~|~|~=ñ{5j~~~qïx~~`ì~j5 j  bj 
-OL,7,Ñ//// Anti Robot Force Field (ARFF) ////
-OL,8,ëwwwwwww(j{{}0   #ccc3sk{{{{}0   ###www
-OL,9,ëw?######b"ck~t áCommunication Centreë{
-OL,10,ë `,<d  ( *j?}}0      h||||||40||`h|<
-OL,11,ë uy}q5 b *j7$&o?51}o(8   (j//o
-OL,12,ì{ e&7d% ( bj~111;o5$wbf   bj  j
-OL,13,ì  #7!  b hjwtt|}51~p1 pp(bppz
-OL,14,ìáPowerì( (j'        $  +{51~bj  j
-OL,15,íáPlantíb *jáBroadcastsí {{5$}(*  j
-OL,16,í~ 7k{{5 ( bj#3####{sw#333w7!!{{3b"{
-OL,17,íjuz~~tb `~ $ áCinemaí-?5     ( }
-OL,18,ñ?|||||||(h? 1      0444?/%áW.Cíb }{
-OL,19,ñ?='%oo~bjwptppttuuuuuuqpp``pppppw
-OL,20,ñ?11q?/(*.////-//-//-///.///(*{??}
-OL,21,ï?$$n  b ws5 ze0 7#k s1s1s1 b ?wbbbbb
-OL,22,ï111o0 ( =,5áFood storageï$ ( }(((((
-OL,23,ïo~|}trpwsuzupupzpsqsqsqprp~vvr~
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T"+/ltp||.'+-Ua aT+'/o3+,"+o?,`pp||~/!
+OL,2,T,/w#/owqW|U$ $T.Uxu Su z T#owsa `ss?
+OL,3,Q `pppppp  W    U} S?o`p   p0  Tc{/
+OL,4,Q u&d&d&d5V~}} U S}~jzx0zz}t|<   
+OL,5,Q"7;3;3;37V~~{{{{| U{; Skj?#o'+t   
+OL,6,T(|~|~|~=V{5j~~~qUx~~`S~j5 j  bj 
+OL,7,D//// Anti Robot Force Field (ARFF) ////
+OL,8,Qwwwwwww(j{{}0   #ccc3sk{{{{}0   ###www
+OL,9,Qw?######b"ck~t GCommunication CentreQ{
+OL,10,Q `,<d  ( *j?}}0      h||||||40||`h|<
+OL,11,Q uy}q5 b *j7$&o?51}o(8   (j//o
+OL,12,S{ e&7d% ( bj~111;o5$wbf   bj  j
+OL,13,S  #7!  b hjwtt|}51~p1 pp(bppz
+OL,14,SGPowerS( (j'        $  +{51~bj  j
+OL,15,RGPlantRb *jGBroadcastsR {{5$}(*  j
+OL,16,R~ 7k{{5 ( bj#3####{sw#333w7!!{{3b"{
+OL,17,Rjuz~~tb `~ $ GCinemaR-?5     ( }
+OL,18,V?|||||||(h? 1      0444?/%GW.CRb }{
+OL,19,V?='%oo~bjwptppttuuuuuuqpp``pppppw
+OL,20,V?11q?/(*.////-//-//-///.///(*{??}
+OL,21,U?$$n  b ws5 ze0 7#k s1s1s1 b ?wbbbbb
+OL,22,U111o0 ( =,5GFood storageU$ ( }(((((
+OL,23,Uo~|}trpwsuzupupzpsqsqsqprp~vvr~
 FL,520,520,800,200,100,100
 PN,51015
 SC,0015
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ï?;)ó``p|||tppï##////////////////////o
-OL,2,ï)ó0p())#{{;-}||0Ö>ÜSYSTEMA TV BOYï
-OL,3,óx.3x|?ic,0 "##/g&8` Ö>ÜYEAR:á1992ï
-OL,4,ó9bjt#qr~5}2d 0$#(&p)a&880`ï ,|||||~
-OL,5,ó`*??gr#'2x{%jfñh>/mtpó ""(af$0ï#/
-OL,6,ó"ge1$,/'#a8/!`?gñ}t "+o}tp ó!&8ad$ï#/
-OL,7,ó  !#,, "#   x?ñ`f~?!`~lp~?|p ó)a&88ï"
-OL,8,ód        `(3nñx}7 x%`.#!p~|0ó2*8ae
-OL,9,ó #,,`(,$#! !pñ);o~%  p|'a"9p ó!g
-OL,10,ó0         `&  +dñ+f/|w $h>a25k}y$ó0
-OL,11,ó)    2l0  `` x|0#-pñ,so}|w('x%"#o} "
-OL,12,óprt  ")2d "$0+?   +d0ñls/}~1x?'##   
-OL,13,ó0p`!"d "$3d "d0 ë~tó")d0ñ,soo?cóx|>'s!
-OL,14,ó&8yf8p)d ",2d0"(ë"/'ó`|t" f ñ+ó!f'y>c~
-OL,15,ó "(a&9a )` "(`&3d#,0 "o%  4    7:ia?{
-OL,16,ó   !&<yg<0!d *2': 0 "$0 `.     j 5jjwf
-OL,17,ó    ""(a&8a "(2# (`!$0 #       b  *"}go
-OL,18,ó       !&8yf<p !$0 "(d1(`      *   !"-/
-OL,19,Ö>ÜORIGIN:ó)c.yg<p !$0  !$` ÖUNLICENSED 
-OL,20,ï0ááFRANCEó  ")a&8c<p !    áÖATARI 2600 
-OL,21,ïtáá(AS AKORó  "(c&9g<p "` ÜÖEMULATOR  
-OL,22,ï}0ááTV BOY)ó    "('>yg>`+|pp         
-OL,23,ï|0Ö>ÜGAMES:á126/7ó #(a$*=++=<tpp   
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,U?;)W``p|||tppU##////////////////////o
+OL,2,U)W0p())#{{;-}||0E>FSYSTEMA TV BOYU
+OL,3,Wx.3x|?ic,0 "##/g&8` E>FYEAR:G1992U
+OL,4,W9bjt#qr~5}2d 0$#(&p)a&880`U ,|||||~
+OL,5,W`*??gr#'2x{%jfVh>/mtpW ""(af$0U#/
+OL,6,W"ge1$,/'#a8/!`?gV}t "+o}tp W!&8ad$U#/
+OL,7,W  !#,, "#   x?V`f~?!`~lp~?|p W)a&88U"
+OL,8,Wd        `(3nVx}7 x%`.#!p~|0W2*8ae
+OL,9,W #,,`(,$#! !pV);o~%  p|'a"9p W!g
+OL,10,W0         `&  +dV+f/|w $h>a25k}y$W0
+OL,11,W)    2l0  `` x|0#-pV,so}|w('x%"#o} "
+OL,12,Wprt  ")2d "$0+?   +d0Vls/}~1x?'##   
+OL,13,W0p`!"d "$3d "d0 Q~tW")d0V,soo?cWx|>'s!
+OL,14,W&8yf8p)d ",2d0"(Q"/'W`|t" f V+W!f'y>c~
+OL,15,W "(a&9a )` "(`&3d#,0 "o%  4    7:ia?{
+OL,16,W   !&<yg<0!d *2': 0 "$0 `.     j 5jjwf
+OL,17,W    ""(a&8a "(2# (`!$0 #       b  *"}go
+OL,18,W       !&8yf<p !$0 "(d1(`      *   !"-/
+OL,19,E>FORIGIN:W)c.yg<p !$0  !$` EUNLICENSED 
+OL,20,U0GGFRANCEW  ")a&8c<p !    GEATARI 2600 
+OL,21,UtGG(AS AKORW  "(c&9g<p "` FEEMULATOR  
+OL,22,U}0GGTV BOY)W    "('>yg>`+|pp         
+OL,23,U|0E>FGAMES:G126/7W #(a$*=++=<tpp   
 FL,520,520,800,200,100,100
 PN,51016
 SC,0016
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,Ç"I'm looking for digitiser2000.com..." 
-OL,2,í        `p|~=,t0             
-OL,3,í      x~w{sss}~wsssssw{t3m0           
-OL,4,í    `~}~||<,<<,,}|||0ëpp0      
-OL,5,í   h?#    #o}|>////o|,'###/}ë#+}0    
-OL,6,í  `7 ópppp í#o}||>'!ó`ppppí+uë *4   
-OL,7,í  jóx'+t í #"# óx~?#o}íkë$ k4  
-OL,8,í   óo  ?í`tppp|óo5 j%íë$!j50 
-OL,9,í   pó#/,,/#í +%ó+-,./'í|të" 5*u 
-OL,10,í  j}tpp|/# h~}|t  ,||~ëa~?   
-OL,11,í  jw+/'! pp`5,tp##cy5ë/'p$` 
-OL,12,í  "}|~'!"o'ñpí#o5ë /! "o 
-OL,13,í   o?'ñp<tí+?ñxwomí  x|/}t 
-OL,14,í   "o7ñx?~w?}l0 xowouí?!`>s|;}
-OL,15,í     ñ`~?>?{}o{jw}ov?í*! a~/s
-OL,16,ñ`    `~}??}{w?"ov?}w0íh/c|/o
-OL,17,ñ"}tp~?}//#íp|pñ+/~{0í.#ñxí
-OL,18,ñ j7í||>ccca`cc)lpñ"//{oy||?ío
-OL,19,ñ  o?# í*}0`````` x'ë>/-tñ{n'ë~4í"
-OL,20,ë   ñ#!    í+||||||&ë8!0a("}   x? í *
-OL,21,ë#m<,tppp    í#/o'ë`& $0$`~7`~'     
-OL,22,ë`? 8!5 :k+ll,,p    `w $!p|'p~/!      
-OL,23,ë'  ).! )& u. j:#+l' +m|}/#         
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W          "     Vppppp   F@illarterate 
+OL,2,W YACK   0  V`8,##     ##,d0W      `    
+OL,3,W  IN     Vp&!  W`       0V")p W        
+OL,4,WSPAAACEV`&    W`?       o4  V)0W   G.  
+OL,5,W      V8!`~!  W~5       j5   V"dW$     
+OL,6,W     V8!`% W 0=`|||||4~5    V"dW     
+OL,7,W  G.Vh!`! W`~5h`?}0   V"4W0   
+OL,8,W   V 5 ~%  W*7 j5jjjt"    Vj W G.
+OL,9,W   Vj j'    W  25jj5j0!     V5W   
+OL,10,W ( V:       W  55o47 +j5      VeW   
+OL,11,W   V5    W`|///o}rpqrx}      V*W " 
+OL,12,W   V5  W x'      #+t##x   S   00   
+OL,13,W"  Ve  Wh5V>}0 x?mW*%*   S ~j5`  
+OL,14,W   Vj  WjuV "% '  W 'z4o   S j5jt 
+OL,15,W   V"4 Wjt0      p~/a45j   S j5j 
+OL,16,W    Vi W"#-,||</#x45a   S ~uj 
+OL,17,W G. V e W"o}2-4|4555%~k S0   
+OL,18,W      Ve W +o}ts!/%/%/a~?a~Sjt0o 
+OL,19,W      V )0 W "+//////'sq| So~ 
+OL,20,W  !  !  V",0W o'V,S+? 
+OL,21,W          V"!W ########## V! S "////#  
+OL,22,W  G.  R"///////////////////////! px|}
+OL,23,W $  Rp|v{ssssssssssssssss{wa~
 FL,520,520,800,200,100,100
 PN,51017
 SC,0017
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ó             h04|$4 4 <$<4<0 lhlhlhphh 
-OL,2,ó    ìj|t0   *"%-$--% ' -%'$ *"+"+*.(( 
-OL,3,ó? ì"k5|pó#/
-OL,4,ó} ì j5 /%tó"#/oáTHE ULTIMATE 
-OL,5,ó5ì 5 0  j}4pó#/oáSHOWDOWN 
-OL,6,ó5ì 5 5 j7!o}4pó#+/
-OL,7,ó%í 5 #ì ju  7!}hpó+//
-OL,8,ó íh5`p  j?%ì5 "jj5|pó+
-OL,9,ó íj5j |j5 ì5 |"5oó
-OL,10,ó0  ` í"### #//j 5ì# ! óz
-OL,11,ó}|||tppp0í  ## /5 ìj0 ó
-OL,12,ó}|~u í   +ojj5 ó
-OL,13,ó}h}h7|6}b~i~44i~}pí  "*oj5 ó
-OL,14,óue5|<j}k5%}k}|t í "! oó
-OL,15,ó////.//,./,-,//,--,/////////$      ////
-OL,16,ï/##k'##k?#+'#o///mppx~
-OL,17,ïñ|t h|| `ppï+'ñh|4x||0ïo'##
-OL,18,ïñ j0j/ppï"#  ñ||~e?o    h|4ïz
-OL,19,ïñ5?5i?+4~j!kj5jj}}jï
-OL,20,ïìj}%o}j{1 {1}!jo joj}5j~bw#jo5ï
-OL,21,ïó=== jnnj{1 {1=5 *;=?1==?onbww jo5ï+
-OL,22,ïó""ï~ó))"ffff$f$ïtppppppp4ó(99 *;9ïx
-OL,23,ï||||}||||||~}pp~
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W             h04|$4 4 <$<4<0 lhlhlhphh 
+OL,2,W    Sj|t0   *"%-$--% ' -%'$ *"+"+*.(( 
+OL,3,W? S"k5|pW#/
+OL,4,W} S j5 /%tW"#/oGTHE ULTIMATE 
+OL,5,W5S 5 0  j}4pW#/oGSHOWDOWN 
+OL,6,W5S 5 5 j7!o}4pW#+/
+OL,7,W%R 5 #S ju  7!}hpW+//
+OL,8,W Rh5`p  j?%S5 "jj5|pW+
+OL,9,W Rj5j |j5 S5 |"5oW
+OL,10,W0  ` R"### #//j 5S# ! Wz
+OL,11,W}|||tppp0R  ## /5 Sj0 W
+OL,12,W}|~u R   +ojj5 W
+OL,13,W}h}h7|6}b~i~44i~}pR  "*oj5 W
+OL,14,Wue5|<j}k5%}k}|t R "! oW
+OL,15,W////.//,./,-,//,--,/////////$      ////
+OL,16,U/##k'##k?#+'#o///mppx~
+OL,17,UV|t h|| `ppU+'Vh|4x||0Uo'##
+OL,18,UV j0j/ppU"#  V||~e?o    h|4Uz
+OL,19,UV5?5i?+4~j!kj5jj}}jU
+OL,20,USj}%o}j{1 {1}!jo joj}5j~bw#jo5U
+OL,21,UW=== jnnj{1 {1=5 *;=?1==?onbww jo5U+
+OL,22,UW""U~W))"ffff$f$Utppppppp4W(99 *;9Ux
+OL,23,U||||}||||||~}pp~
 FL,520,520,800,200,100,100
 PN,51018
 SC,0018
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,î         ó `8|}}|p  î   p,&#($#),`   
-OL,2,î        ó`n~tî,&sñh,048dh,îs),
-OL,3,î       ó`oguî/#ñj,153lj#î#/m
-OL,4,î      ó 9;7???7?o$îñ`r`q!b1"30î  
-OL,5,î      óbf~'8ag&ee+vo}1îñj,jp%5jjjjî  
-OL,6,î    `pó;w=ì|}}tówîñ* * %)&***î  
-OL,7,î`p,&q|ó>'ìn}0|k|`~ó+wîñ"466ij 57iîpp
-OL,8,îqprss3ó?}1ì9?jóaîsñj e:*p%7iî##
-OL,9,îwóo~vìbo'"n'+7óyîñ8dh,08dhhh,î}
-OL,10,î4h4h4hó;~wtp||~|px=îñ5lj,1=njjj#î4
-OL,11,îqr12aró*w}7ppk?!îñ"#" !!" !"#î!
-OL,12,îs+o/$+!ófwo7î"/o4{5js+o4{5
-OL,13,î/óp8tff`({w~};?)!xyyx0î/ "////-/ 
-OL,14,ó|oo}}q*gw~'f"`~9+?|p  î  `<$
-OL,15,ó?9)! o}0##     #!ht"&fo} î  *p8
-OL,16,ówfì`>óz#    ï 8x}}ó#wìt0ó9{uî     
-OL,17,ó9ìh'`ók!     ï`nwf}9ó"7ì0+4ón4î 4  
-OL,18,óì`7`óh5      ï ;=ój4ì0ó(uî 5  
-OL,19,ì ~ !ó        ïfooog$ó 4ì*uónî !  
-OL,20,ìh5 ón/        ï  !!!ó  /=ì o4ó5î5  
-OL,21,ìj5 ó" `                 0 !ì j}ó;}î5  
-OL,22,ì~  óx4ïf$ó           ht ì {ó24   
-OL,23,ì óx}               ~t ì~óbo}   
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T         W `8|}}|p  T   p,&#($#),`   
+OL,2,T        W`n~tT,&sVh,048dh,Ts),
+OL,3,T       W`oguT/#Vj,153lj#T#/m
+OL,4,T      W 9;7???7?o$TV`r`q!b1"30T  
+OL,5,T      Wbf~'8ag&ee+vo}1TVj,jp%5jjjjT  
+OL,6,T    `pW;w=S|}}tWwTV* * %)&***T  
+OL,7,T`p,&q|W>'Sn}0|k|`~W+wTV"466ij 57iTpp
+OL,8,Tqprss3W?}1S9?jWaTsVj e:*p%7iT##
+OL,9,TwWo~vSbo'"n'+7WyTV8dh,08dhhh,T}
+OL,10,T4h4h4hW;~wtp||~|px=TV5lj,1=njjj#T4
+OL,11,Tqr12arW*w}7ppk?!TV"#" !!" !"#T!
+OL,12,Ts+o/$+!Wfwo7T"/o4{5js+o4{5
+OL,13,T/Wp8tff`({w~};?)!xyyx0T/ "////-/ 
+OL,14,W|oo}}q*gw~'f"`~9+?|p  T  `<$
+OL,15,W?9)! o}0##     #!ht"&fo} T  *p8
+OL,16,WwfS`>Wz#    U 8x}}W#wSt0W9{uT     
+OL,17,W9Sh'`Wk!     U`nwf}9W"7S0+4Wn4T 4  
+OL,18,WS`7`Wh5      U ;=Wj4S0W(uT 5  
+OL,19,S ~ !W        Ufooog$W 4S*uWnT !  
+OL,20,Sh5 Wn/        U  !!!W  /=S o4W5T5  
+OL,21,Sj5 W" `                 0 !S j}W;}T5  
+OL,22,S~  Wx4Uf$W           ht S {W24   
+OL,23,S Wx}               ~t S~Wbo}   
 FL,520,520,800,200,100,100
 PN,51019
 SC,0019
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,Ñùáà *   â.à     *   .â*à âó|  l<t l<t  
-OL,2,Ñùáà.âìppppp0áà*  â.à   .âóz{5 ju? j5j5 
-OL,3,Ñùì p|///o||páà* . âó`5`0zuk4zu>! 
-OL,4,Ñùì~gyl|{w}|ls3/mt0ó á  * T E X T *  
-OL,5,ì z?yoogggggog'  "+|páÜ1980 - 2015  
-OL,6,ìjio?=1!    !      +táà   .   .  .
-OL,7,ì !#"###"              k|0áà  * â.à 
-OL,8,í nho}ho}ho}       ì}+otáà  . â* 
-OL,9,í j*~b~wjj       ìk5`+}0áà *   
-OL,10,í j`pzjzjz       ìb(82otáà â* 
-OL,11,í "#"##! ##! ##!       ì(5ftk}0áà  
-OL,12,ÖÜVOYAGER 1 captures   ì 5"};}0áà.
-OL,13,Ü photographs of the   ì 5 "?}k0á 
-OL,14,ÅÜRINGS OF SATURN.     ì(%  *?uo}á 
-OL,15,áà     .âì`0`0p`ó      ìj?á *ìo:} 
-OL,16,áà* â.à ìâ+|;k{{x0ó   ì/!á.ì`{50
-OL,17,áàâ.à    âì"+|:nnnnd` `|~!á.ì`~?~55
-OL,18,áà    *  . *âì+o}v+{{{y/! pxn{i%
-OL,19,áà *â.à  *  . âì"/~r.nn~}/y? 
-OL,20,áà.    *     â*à âì#/o}|vs/////gs|'ó 
-OL,21,Ñùáà .   â*à     *â.àâì#+/o?/'!ó  
-OL,22,ÑùçÜ***áAlles Gute zum GeburtstagÜ***   
-OL,23,ó                                       
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,D]GH *   I.H     *   .I*H IW|  l<t l<t  
+OL,2,D]GH.ISppppp0GH*  I.H   .IWz{5 ju? j5j5 
+OL,3,D]S p|///o||pGH* . IW`5`0zuk4zu>! 
+OL,4,D]S~gyl|{w}|ls3/mt0W G  * T E X T *  
+OL,5,S z?yoogggggog'  "+|pGF1980 - 2015  
+OL,6,Sjio?=1!    !      +tGH   .   .  .
+OL,7,S !#"###"              k|0GH  * I.H 
+OL,8,R nho}ho}ho}       S}+otGH  . I* 
+OL,9,R j*~b~wjj       Sk5`+}0GH *   
+OL,10,R j`pzjzjz       Sb(82otGH I* 
+OL,11,R "#"##! ##! ##!       S(5ftk}0GH  
+OL,12,EFVOYAGER 1 captures   S 5"};}0GH.
+OL,13,F photographs of the   S 5 "?}k0G 
+OL,14,AFRINGS OF SATURN.     S(%  *?uo}G 
+OL,15,GH     .IS`0`0p`W      Sj?G *So:} 
+OL,16,GH* I.H SI+|;k{{x0W   S/!G.S`{50
+OL,17,GHI.H    IS"+|:nnnnd` `|~!G.S`~?~55
+OL,18,GH    *  . *IS+o}v+{{{y/! pxn{i%
+OL,19,GH *I.H  *  . IS"/~r.nn~}/y? 
+OL,20,GH.    *     I*H IS#/o}|vs/////gs|'W 
+OL,21,D]GH .   I*H     *I.HIS#+/o?/'!W  
+OL,22,D]MF***GAlles Gute zum GeburtstagF***   
+OL,23,W                                       
 FL,520,520,800,200,100,100
 PN,51020
 SC,0020
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ë |||h4|  h4   h||0||| ì|4h| ||| |4h|   
-OL,2,ë    !  j5   j}~!|  ì+/ojp57!   
-OL,3,ë ||  ||j}|4 j}~%|| ì||~?j#57k}h4 
-OL,4,ó ||`~h|||||||||||||||||<,,,|||||||||,  
-OL,5,ó "!~"#################h!"#######!zî 
-OL,6,î óhî h}$ ó`x0 pp0  `7xzî  h?!ó`4 
-OL,7,î ójuî "# ó wxwx~'zh0u î o!ó`~% 
-OL,8,î ój?`î  ó`~z}j%î"o7óx  
-OL,9,î ó oh|4xo'î  óx~%î 
-OL,10,î  ó +bgg5/'c0px|~tk'î  
-OL,11,î   ó  !-91///////'cx|eg*?!î `5
-OL,12,î     ó  j!p0     +4 j5.?;99%#î   z5
-OL,13,î       ó*0"m0 h0    j/-"&"  î `t h5
-OL,14,î       ó 5    zt  xt î    x~}~5
-OL,15,î  z     ó"d0`~?/}t î (.//////%
-OL,16,î     óp||px>/%z|2o}|?,,tp 
-OL,17,î j4ó x#o!x}wx>os#/d+||t"/
-OL,18,î z5ó"mx|?//4?//}2tq}||
-OL,19,î } ó #+?'x/}oh0mrq'
-OL,20,î   `4ó"##(qx/o4*5tkh?!
-OL,21,î`5 ju    ó k727zj'h0j!h
-OL,22,îj j|0  ó *h5h2x*4thj!
-OL,23,îj|tó`~ o}~}|2t4ok?
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q |||h4|  h4   h||0||| S|4h| ||| |4h|   
+OL,2,Q    !  j5   j}~!|  S+/ojp57!   
+OL,3,Q ||  ||j}|4 j}~%|| S||~?j#57k}h4 
+OL,4,W ||`~h|||||||||||||||||<,,,|||||||||,  
+OL,5,W "!~"#################h!"#######!zT 
+OL,6,T WhT h}$ W`x0 pp0  `7xzT  h?!W`4 
+OL,7,T WjuT "# W wxwx~'zh0u T o!W`~% 
+OL,8,T Wj?`T  W`~z}j%T"o7Wx  
+OL,9,T W oh|4xo'T  Wx~%T 
+OL,10,T  W +bgg5/'c0px|~tk'T  
+OL,11,T   W  !-91///////'cx|eg*?!T `5
+OL,12,T     W  j!p0     +4 j5.?;99%#T   z5
+OL,13,T       W*0"m0 h0    j/-"&"  T `t h5
+OL,14,T       W 5    zt  xt T    x~}~5
+OL,15,T  z     W"d0`~?/}t T (.//////%
+OL,16,T     Wp||px>/%z|2o}|?,,tp 
+OL,17,T j4W x#o!x}wx>os#/d+||t"/
+OL,18,T z5W"mx|?//4?//}2tq}||
+OL,19,T } W #+?'x/}oh0mrq'
+OL,20,T   `4W"##(qx/o4*5tkh?!
+OL,21,T`5 ju    W k727zj'h0j!h
+OL,22,Tj j|0  W *h5h2x*4thj!
+OL,23,Tj|tW`~ o}~}|2t4ok?
 FL,520,520,800,200,100,100
 PN,51021
 SC,0021
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,î?# p|s#!ax~///'##!   "#o
-OL,2,î| "#+/o~-,       (-/'ì```ó`zzzzpzk0 
-OL,3,î}0ì$  (   (  ó       ñ      ó****j*.  
-OL,4,î}-  ì) *  &   ó(==<5     ë`x|t   ójî p~
-OL,5,î?/, ï~{wq10 ó  `u      ó 8|`   ójî r
-OL,6,î<$ ëhwn}     ìh||$8ÅTAPó##+~$  ójî#c{
-OL,7,î{3 ïj}{     ìj ,ÅTAPóbs~? ï0ójî"+o
-OL,8,î$ì  ë#k#ì`     j0)ÅTAPï x||0j}ójî#+
-OL,9,îuì `" ëjí` ì0óh444|||tï($d~ke5j~ójî(o
-OL,10,î?!ì!  ëjí~4  ój!MICRO"}ï#m||~?!&.ó*î n
-OL,11,îw#"  ëjío% ñh|||||||||||4,,,,||<<(í `p
-OL,12,î/'   ëj"7 ñ ï,,,,ñgfoì f$ñjw?í(
-OL,13,í|t0   ñxlllll$Ö4MPHñ}yëbxrñj{'í$,,mo
-OL,14,íw?=ñ .-m=m=,$ï,,,,ñpuzë 5ñj'í#cw
-OL,15,í??ñ##/wd+t+t {{{puz(,,l<'#í+w??
-OL,16,í7ñ  `t"}92m2b3csssssssssqr`7`~4 í"~
-OL,17,í?ñ   "o}*vfd+t+t+///////o' > ~'   í*~{
-OL,18,í5ñ î5ñ! ))!)"-"######### *!  î5  í~w
-OL,19,ó}       hw?{}ñ     óhw
-OL,20,óu      $,,m/?wo}?u    íó,>
-OL,21,ó}}p  `abr{ss{sw~}tppprrs{{
-OL,22,ëùçá  1920: FORD MODEL TTX, H. FORD     
-OL,23,í
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T?# p|s#!ax~///'##!   "#o
+OL,2,T| "#+/o~-,       (-/'S```W`zzzzpzk0 
+OL,3,T}0S$  (   (  W       V      W****j*.  
+OL,4,T}-  S) *  &   W(==<5     Q`x|t   WjT p~
+OL,5,T?/, U~{wq10 W  `u      W 8|`   WjT r
+OL,6,T<$ Qhwn}     Sh||$8ATAPW##+~$  WjT#c{
+OL,7,T{3 Uj}{     Sj ,ATAPWbs~? U0WjT"+o
+OL,8,T$S  Q#k#S`     j0)ATAPU x||0j}WjT#+
+OL,9,TuS `" QjR` S0Wh444|||tU($d~ke5j~WjT(o
+OL,10,T?!S!  QjR~4  Wj!MICRO"}U#m||~?!&.W*T n
+OL,11,Tw#"  QjRo% Vh|||||||||||4,,,,||<<(R `p
+OL,12,T/'   Qj"7 V U,,,,VgfoS f$Vjw?R(
+OL,13,R|t0   Vxlllll$E4MPHV}yQbxrVj{'R$,,mo
+OL,14,Rw?=V .-m=m=,$U,,,,VpuzQ 5Vj'R#cw
+OL,15,R??V##/wd+t+t {{{puz(,,l<'#R+w??
+OL,16,R7V  `t"}92m2b3csssssssssqr`7`~4 R"~
+OL,17,R?V   "o}*vfd+t+t+///////o' > ~'   R*~{
+OL,18,R5V T5V! ))!)"-"######### *!  T5  R~w
+OL,19,W}       hw?{}V     Whw
+OL,20,Wu      $,,m/?wo}?u    RW,>
+OL,21,W}}p  `abr{ss{sw~}tppprrs{{
+OL,22,Q]MG  1920: FORD MODEL TTX, H. FORD     
+OL,23,R
 FL,520,520,800,200,100,100
 PN,51022
 SC,0022
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,îùáç1968: TELETEXT POCKET CALCULATOR    
-OL,2,óz5}}}}
-OL,3,ó
-OL,4,ógíp0p0p000p0p0ïp000p0óp <l<,<,4bo
-OL,5,ó5ì=%555 =1= j ëj ( j ó=!j55555j5
-OL,6,ójí1pcqcqqasa20ï20q120ó! -,-,-,%jj
-OL,7,ój5ëppppíppppìppppîppppïppppñppppój
-OL,8,ójiöxl|ll<|,|,l,|,l||,lll,l|l||tôhkj
-OL,9,ó*:öj1{bjjjwzjjjkbzg~jk5{ô*:j
-OL,10,ó 5ö/,.....,/-/..,.//./..,.,....ô 5j
-OL,11,óbsss############csssssssssssssssssj
-OL,12,ój,,5ëíìîó7ÜPiFax   Ép100ókj
-OL,13,ój?sq pp$pp$pp$pp 5ñw3c#s{{{{{{{{ójj
-OL,14,ójjy5jy5jy5jy5jy5 5ñ5j (,7,&}#~ójj
-OL,15,ój"pp&pp&`0&pp&pp 5ñ/,.-../-/--/.ójj
-OL,16,ójjy5jy5 5jy5jy5 5ÅNews --------ójj
-OL,17,ój"pp& x45&pp&pp 5É3.14159265358ójj
-OL,18,ójjy%x455jy5jy5 5É9793238462643ójj{
-OL,19,ó}{j"h55u5"p0j5 5É3832795028841ójjv
-OL,20,ó&oj j}5j7~j?  5Å-----1/971693ójj9;
-OL,21,ó({j0jv~"  `uÜPi-rates..340ózjd"
-OL,22,ó n 3j?!####################1j1 
-OL,23,ó "mrp;cppssprrsqpsrppsqssqpprx'  
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T]GM1968: TELETEXT POCKET CALCULATOR    
+OL,2,Wz5}}}}
+OL,3,W
+OL,4,WgRp0p0p000p0p0Up000p0Wp <l<,<,4bo
+OL,5,W5S=%555 =1= j Qj ( j W=!j55555j5
+OL,6,WjR1pcqcqqasa20U20q120W! -,-,-,%jj
+OL,7,Wj5QppppRppppSppppTppppUppppVppppWj
+OL,8,WjiZxl|ll<|,|,l,|,l||,lll,l|l||tYhkj
+OL,9,W*:Zj1{bjjjwzjjjkbzg~jk5{Y*:j
+OL,10,W 5Z/,.....,/-/..,.//./..,.,....Y 5j
+OL,11,Wbsss############csssssssssssssssssj
+OL,12,Wj,,5QRSTW7FPiFax   Cp100Wkj
+OL,13,Wj?sq pp$pp$pp$pp 5Vw3c#s{{{{{{{{Wjj
+OL,14,Wjjy5jy5jy5jy5jy5 5V5j (,7,&}#~Wjj
+OL,15,Wj"pp&pp&`0&pp&pp 5V/,.-../-/--/.Wjj
+OL,16,Wjjy5jy5 5jy5jy5 5ANews --------Wjj
+OL,17,Wj"pp& x45&pp&pp 5C3.14159265358Wjj
+OL,18,Wjjy%x455jy5jy5 5C9793238462643Wjj{
+OL,19,W}{j"h55u5"p0j5 5C3832795028841Wjjv
+OL,20,W&oj j}5j7~j?  5A-----1/971693Wjj9;
+OL,21,W({j0jv~"  `uFPi-rates..340Wzjd"
+OL,22,W n 3j?!####################1j1 
+OL,23,W "mrp;cppssprrsqpsrppsqssqpprx'  
 FL,520,520,800,200,100,100
 PN,51023
 SC,0023
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,óö               0``  00  000 00        
-OL,2,óö  df$  ff fd(9bf(9 b&&`2b"&"&&(9`d`dd 
-OL,3,óö (!!it(8 m0!"&(9 b|}||' )!f$`dbf(9 1)!
-OL,4,óö`ffdp{}|||||}t)x?##!)9`d)!8a 1"`~'80
-OL,5,óö)!  d$b'c##3+/,99  ` )j~!91b~?!`b 
-OL,6,óö  080x?! 91"f$j5`d 80 91xqprx'#!))!
-OL,7,óö f&b`"`` b `ddj5(90bf b~/////!)08880
-OL,8,óö  (9! ))!o}pqqzu`&`d)pup2&& 000"""&
-OL,9,óö` 8880 89!+o///}09! `//w#"&&&ff$ 
-OL,10,óö91"""ht"`f$80(9"o  x?add"oe8880 `` 
-OL,11,óö"0(99 +}89 f$`d$j"o(95 !100 """p&))!
-OL,12,óö*|||||~|t  99!j"o x7#"&&ff&`~?!   
-OL,13,óö "###{'#3+}6 89j~~?af&`||||/,fffd
-OL,14,óö `dd.!ff&`~o|||~'7  !x'cc#)0 000!
-OL,15,óö )!!   0x?! +/o/oo}0u~tq1882#&&f$
-OL,16,óö  ` `t"&"  (99! j#+' 802o}0bb" " ( 
-OL,17,óö $`  ! ! "   ` `~ n?5` "ff #0))! (   
-OL,18,óö  +!(  0"  x0  *z?# 5 `    0 0  " x0!
-OL,19,óö (    "'  $" 0  j+1 5 +!(   0  " `"  
-OL,20,óö   x0"  `  `  ` j`{/!5 $ 0 0"' ! x0  !
-OL,21,óö " " (     +!   z}pu  "'  ( ! $" "  
-OL,22,óö `~t|}xx|~||$`~?{s#q0(t~t||t~|x~|0 
-OL,23,óö ###########! ## "####"# "########### 
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,WZ               0``  00  000 00        
+OL,2,WZ  df$  ff fd(9bf(9 b&&`2b"&"&&(9`d`dd 
+OL,3,WZ (!!it(8 m0!"&(9 b|}||' )!f$`dbf(9 1)!
+OL,4,WZ`ffdp{}|||||}t)x?##!)9`d)!8a 1"`~'80
+OL,5,WZ)!  d$b'c##3+/,99  ` )j~!91b~?!`b 
+OL,6,WZ  080x?! 91"f$j5`d 80 91xqprx'#!))!
+OL,7,WZ f&b`"`` b `ddj5(90bf b~/////!)08880
+OL,8,WZ  (9! ))!o}pqqzu`&`d)pup2&& 000"""&
+OL,9,WZ` 8880 89!+o///}09! `//w#"&&&ff$ 
+OL,10,WZ91"""ht"`f$80(9"o  x?add"oe8880 `` 
+OL,11,WZ"0(99 +}89 f$`d$j"o(95 !100 """p&))!
+OL,12,WZ*|||||~|t  99!j"o x7#"&&ff&`~?!   
+OL,13,WZ "###{'#3+}6 89j~~?af&`||||/,fffd
+OL,14,WZ `dd.!ff&`~o|||~'7  !x'cc#)0 000!
+OL,15,WZ )!!   0x?! +/o/oo}0u~tq1882#&&f$
+OL,16,WZ  ` `t"&"  (99! j#+' 802o}0bb" " ( 
+OL,17,WZ $`  ! ! "   ` `~ n?5` "ff #0))! (   
+OL,18,WZ  +!(  0"  x0  *z?# 5 `    0 0  " x0!
+OL,19,WZ (    "'  $" 0  j+1 5 +!(   0  " `"  
+OL,20,WZ   x0"  `  `  ` j`{/!5 $ 0 0"' ! x0  !
+OL,21,WZ " " (     +!   z}pu  "'  ( ! $" "  
+OL,22,WZ `~t|}xx|~||$`~?{s#q0(t~t||t~|x~|0 
+OL,23,WZ ###########! ## "####"# "########### 
 FL,520,520,800,200,100,100
 PN,51024
 SC,0024
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ó2/t+'# !#! !" ##ì## ##ó## !" "#" #+'x/a
-OL,2,ó|2-4ì7ij#j#45jj#45 56ih#4 k!7!=zóh.a|
-OL,3,ñg~|0í=fj,j,!5jj,15 55 j,5 j =$5jñ`|};
-OL,4,ó)o?s4í5jjpj  e:jp%u05e:j 5 j u05jóhso?&
-OL,5,ñ  "+eppp0 ppp`p pìp pñp p0ppp `ppp:'!  
-OL,6,ë    ó"#y||0,|tlt(ìk#7ó$x<x|,`||v#!     
-OL,7,ë öxki0ñô#)||0,tl4ì*s%ñh<x,`||&#öï`4jt ô
-OL,8,ëöj}~|0  x0ñ,|0(88ì|ñdd$`|, ï`  `5j?%ô
-OL,9,ëö~k75 j{{ x0ñ ""$ (!! ï`` /b1 by4h~}ô
-OL,10,ëözu5 j }5ó5%ï* hhjjj sb1 h|4h||ô
-OL,11,î|||||||,ll<||t4$`pxxp`((|d<,,|l,|||||,l
-OL,12,î|<-/m|?#####     ###!!  "#######o}~{ssw
-OL,13,î?ï(3"7hy"7jhiji  w$wj9j 574î
-OL,14,î/-  ñ`: 5jj 5j*:jj"!u%ujjj0555î )/o
-OL,15,î#`p|x|}ppppppppppppppppppppppppp|||pp0#
-OL,16,Ñùì||th4 x|t`||0| | h||0x|th||0|||h4h4  
-OL,17,Ñùì j5  j5*%x? j5j5 j5j5  juj5  
-OL,18,Ñùì/}j5  j5  ot j?/!/j?o4  "o?a0 
-OL,19,Ñùìpju0pjuz5  j5   j5j5   j5`& 
-OL,20,Ñùó##!"#!"#! ## # # "!  # #"!"! #  "!"# 
-OL,21,ÉùÑçLearn to create a teletext service  
-OL,22,ÉùÑ                                     
-OL,23,ÜùÑ Tuesday 3 May 2016á*Ñ3.00pm-6.00pm  
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W2/t+'# !#! !" ##S## ##W## !" "#" #+'x/a
+OL,2,W|2-4S7ij#j#45jj#45 56ih#4 k!7!=zWh.a|
+OL,3,Vg~|0R=fj,j,!5jj,15 55 j,5 j =$5jV`|};
+OL,4,W)o?s4R5jjpj  e:jp%u05e:j 5 j u05jWhso?&
+OL,5,V  "+eppp0 ppp`p pSp pVp p0ppp `ppp:'!  
+OL,6,Q    W"#y||0,|tlt(Sk#7W$x<x|,`||v#!     
+OL,7,Q Zxki0VY#)||0,tl4S*s%Vh<x,`||&#ZU`4jt Y
+OL,8,QZj}~|0  x0V,|0(88S|Vdd$`|, U`  `5j?%Y
+OL,9,QZ~k75 j{{ x0V ""$ (!! U`` /b1 by4h~}Y
+OL,10,QZzu5 j }5W5%U* hhjjj sb1 h|4h||Y
+OL,11,T|||||||,ll<||t4$`pxxp`((|d<,,|l,|||||,l
+OL,12,T|<-/m|?#####     ###!!  "#######o}~{ssw
+OL,13,T?U(3"7hy"7jhiji  w$wj9j 574T
+OL,14,T/-  V`: 5jj 5j*:jj"!u%ujjj0555T )/o
+OL,15,T#`p|x|}ppppppppppppppppppppppppp|||pp0#
+OL,16,D]S||th4 x|t`||0| | h||0x|th||0|||h4h4  
+OL,17,D]S j5  j5*%x? j5j5 j5j5  juj5  
+OL,18,D]S/}j5  j5  ot j?/!/j?o4  "o?a0 
+OL,19,D]Spju0pjuz5  j5   j5j5   j5`& 
+OL,20,D]W##!"#!"#! ## # # "!  # #"!"! #  "!"# 
+OL,21,C]DMLearn to create a teletext service  
+OL,22,C]D                                     
+OL,23,F]D Tuesday 3 May 2016G*D3.00pm-6.00pm  
 FL,520,520,800,200,100,100
 PN,51025
 SC,0025
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,Éùî x|0`p  x0  p t ` `pp `4 x|0`|t0p `4 
-OL,2,Éùï*b  z'0~/5`? "b5u k5{ j7 k4~! 
-OL,3,Éùî /}0 0z5 0o4  'ju j1 j50 o7  
-OL,4,Éùî x>!p2?!~% 0  ~'k4j7} j5o0z%  
-OL,5,Éùî*/' "## "  "!"! " "#(/  !#!"!## +'   
-OL,6,ì +/|tp#/'!ÉùÑ  Berlin   
-OL,7,ì    "##/?/$ `r{v( '+??
-OL,8,ì  `pps/'#  px|?//}  !0t" 2os0 
-OL,9,ì "##/}||pps'  0 "% z/!"(z~wsq  
-OL,10,ì  l|=`t}}}0  !`xt{3!
-OL,11,ì  ,n}3o!fno~'#      "#/w1(n
-OL,12,ì x~3!  `|5xx& ` t d  d2{}|
-OL,13,ìpx~'` #ot `'!` "/?! 8 ? *}0 o~
-OL,14,ìaz>.,0#$"  z~~|x$ m u  p*?/
-OL,15,ï?!`tt     ##/ x5 u$ jt}tp 
-OL,16,ì}}?'! (   ,p` #o~5ju$ ?, 
-OL,17,ï7 xh: x0k`"/~ttk5ju x/#  (
-OL,18,ï #/w`}a~u"x`"o!z}?/#   
-OL,19,ï "+/}0jx?/##o /##!    
-OL,20,î,|||||, (||||4 ||p0(,||4`||px<,$ pp||||
-OL,21,îpp"#/'#!`p| j|/ j}||pp ###/o
-OL,22,îs!  #s?5*7 "? ?+}|<$ p|
-OL,23,ÑùáRepublica FestÇ3 May 2016É3.0-6.0pm  
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,C]T x|0`p  x0  p t ` `pp `4 x|0`|t0p `4 
+OL,2,C]U*b  z'0~/5`? "b5u k5{ j7 k4~! 
+OL,3,C]T /}0 0z5 0o4  'ju j1 j50 o7  
+OL,4,C]T x>!p2?!~% 0  ~'k4j7} j5o0z%  
+OL,5,C]T*/' "## "  "!"! " "#(/  !#!"!## +'   
+OL,6,S +/|tp#/'!C]D  Berlin   
+OL,7,S    "##/?/$ `r{v( '+??
+OL,8,S  `pps/'#  px|?//}  !0t" 2os0 
+OL,9,S "##/}||pps'  0 "% z/!"(z~wsq  
+OL,10,S  l|=`t}}}0  !`xt{3!
+OL,11,S  ,n}3o!fno~'#      "#/w1(n
+OL,12,S x~3!  `|5xx& ` t d  d2{}|
+OL,13,Spx~'` #ot `'!` "/?! 8 ? *}0 o~
+OL,14,Saz>.,0#$"  z~~|x$ m u  p*?/
+OL,15,U?!`tt     ##/ x5 u$ jt}tp 
+OL,16,S}}?'! (   ,p` #o~5ju$ ?, 
+OL,17,U7 xh: x0k`"/~ttk5ju x/#  (
+OL,18,U #/w`}a~u"x`"o!z}?/#   
+OL,19,U "+/}0jx?/##o /##!    
+OL,20,T,|||||, (||||4 ||p0(,||4`||px<,$ pp||||
+OL,21,Tpp"#/'#!`p| j|/ j}||pp ###/o
+OL,22,Ts!  #s?5*7 "? ?+}|<$ p|
+OL,23,D]GRepublica FestB3 May 2016C3.0-6.0pm  
 FL,520,520,800,200,100,100
 PN,51026
 SC,0026
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ñ?////////////o?'+o'#'/
-OL,2,ñáSYSTEM ERRORñ?# ó$!   ` ñ#+o?
-OL,3,ñ?-,,,,,,,,,,,,~'# ó  0     ((` ñ"noo
-OL,4,ñ5áArnie says:ñe8ó`xyrp  pp (00#ltñ{
-OL,5,ñ5`p p0pp`p pp o?óxt>vt!)ñjo~
-OL,6,ñ5j=1$j5j=1j {ó(=9y2fñ{{
-OL,7,ñ5*%%/$*%*%%/. 4ó:{2"btñno
-OL,8,ñ5j55t5 jkk $ófonnf$ )ñj{
-OL,9,ñ5*u%"50jjj wó,--/?//?/o++++)1!"`ñw
-OL,10,ñ5 44444h hdh$ ?ó  `>!   ! h'    0"&`(ñ?
-OL,11,ñ5 ee%5uj0j9j1 4ó      `|        ( 8"ñ
-OL,12,ñ5h<t`<t`<th4| =uó   0  z4   08  (90ñ(=
-OL,13,ñ5jw}j7j5pj7} wó4`&&  hvd &"   n~$ñbw
-OL,14,ñ5"#!"!# #!"!# 5óz}tp`t/?o=atdd"`g ñj1
-OL,15,ñ5áE M A I L :ñ5ó7}|p0 p;}!h! ñz"
-OL,16,ñ5á  admin@   ñ5ó!?= nwd)ñ>(
-OL,17,ñ5áretrounlim.ñ5$óo?z'qrsp;t *?9ñaw$
-OL,18,ñ5á   com     ñ51ój=}}3#y~7} "%"ñ(=!
-OL,19,ñ-,,,,,,,,,,,,,%ó0"5+ !0    $
-OL,20,ñ0!0!0!0!0!0!óq<#  b=!  bf   (0
-OL,21,ó           p>! 00 j};?!  (9=  ff~
-OL,22,óÜYalgh.ó `~'  &n~tjv#///#   `fvv (89
-OL,23,ó        x'  f$  !!j}p0  `88{991 fg%
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,V?////////////o?'+o'#'/
+OL,2,VGSYSTEM ERRORV?# W$!   ` V#+o?
+OL,3,V?-,,,,,,,,,,,,~'# W  0     ((` V"noo
+OL,4,V5GArnie says:Ve8W`xyrp  pp (00#ltV{
+OL,5,V5`p p0pp`p pp o?Wxt>vt!)Vjo~
+OL,6,V5j=1$j5j=1j {W(=9y2fV{{
+OL,7,V5*%%/$*%*%%/. 4W:{2"btVno
+OL,8,V5j55t5 jkk $Wfonnf$ )Vj{
+OL,9,V5*u%"50jjj wW,--/?//?/o++++)1!"`Vw
+OL,10,V5 44444h hdh$ ?W  `>!   ! h'    0"&`(V?
+OL,11,V5 ee%5uj0j9j1 4W      `|        ( 8"V
+OL,12,V5h<t`<t`<th4| =uW   0  z4   08  (90V(=
+OL,13,V5jw}j7j5pj7} wW4`&&  hvd &"   n~$Vbw
+OL,14,V5"#!"!# #!"!# 5Wz}tp`t/?o=atdd"`g Vj1
+OL,15,V5GE M A I L :V5W7}|p0 p;}!h! Vz"
+OL,16,V5G  admin@   V5W!?= nwd)V>(
+OL,17,V5Gretrounlim.V5$Wo?z'qrsp;t *?9Vaw$
+OL,18,V5G   com     V51Wj=}}3#y~7} "%"V(=!
+OL,19,V-,,,,,,,,,,,,,%W0"5+ !0    $
+OL,20,V0!0!0!0!0!0!Wq<#  b=!  bf   (0
+OL,21,W           p>! 00 j};?!  (9=  ff~
+OL,22,WFYalgh.W `~'  &n~tjv#///#   `fvv (89
+OL,23,W        x'  f$  !!j}p0  `88{991 fg%
 FL,520,520,800,200,100,100
 PN,51027
 SC,0027
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,Ñùó,,,,$p0,,,,,,,$0,,,$ ó`,,d Ü---------
-OL,2,Ñùñ#s3a~'+b3c3#c3!}"cs!ó8!   5áFriendly 
-OL,3,Ñùñ~!j5  j5j5x?+ h7j5ó#4   5áservice  
-OL,4,Ñùí#cj5 h*}z5   j7#1 ó)p 8!Ü---------
-OL,5,Ñùío|'*|' "o5o}>`?*}>!ó`&  "dÉPrivate  
-OL,6,Ñùó|4|4|4(///!,,,,,,,ó`8!    jÉviewings 
-OL,7,Ñùñ55}'rsssss#!ó`8!  `8  jÉavailable
-OL,8,Ñùñ55}0(,,ó`t `8!  p6!   jÜ---------
-OL,9,Ñùíu55+t óx181 `8# 5    jÇBOOK A   
-OL,10,Ñùírssqsqprsqó"ot&&!   5    jÇTEST RIDE
-OL,11,Ñùë8,d óö`ppppô`!  8,,,-    jÇTODAY!   
-OL,12,Ñùë5/j óöjô~%  6         jöx|||||t  
-OL,13,Ñùë5/j óö*?ô0  5 d`pppppp&ö  
-OL,14,Ñùë"!  óp{s{q~?t 5  5"///}  #wss3k#  
-OL,15,Ñùë    ór///t"o}5  5 5xl0jt|///ot  
-OL,16,Ñùë  ó`&8&+k=2o}05  5 5c1z9&+#,2o} 
-OL,17,Ñùë óha&` "~a"dk?-,,up5"#ha'otb `"dk}
-OL,18,Ñùë ó56  (z=  "4ppppoo||56  +}8  "4?
-OL,19,Ñùë ó57""bog"""57/{{{{{{??//oog"""55
-OL,20,Ñùë ói*0( ( ( :h%  ######}*0( ( ( :h!
-OL,21,Åùë###ó)2d0b p&8!+         *!)2d0b p&8! 
-OL,22,Åùó     ",rss8&Éecycleuk.comó ",rss8&   
-OL,23,Åùá 10 John St, Stroud, Glos. GL5 2HA   
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,D]W,,,,$p0,,,,,,,$0,,,$ W`,,d F---------
+OL,2,D]V#s3a~'+b3c3#c3!}"cs!W8!   5GFriendly 
+OL,3,D]V~!j5  j5j5x?+ h7j5W#4   5Gservice  
+OL,4,D]R#cj5 h*}z5   j7#1 W)p 8!F---------
+OL,5,D]Ro|'*|' "o5o}>`?*}>!W`&  "dCPrivate  
+OL,6,D]W|4|4|4(///!,,,,,,,W`8!    jCviewings 
+OL,7,D]V55}'rsssss#!W`8!  `8  jCavailable
+OL,8,D]V55}0(,,W`t `8!  p6!   jF---------
+OL,9,D]Ru55+t Wx181 `8# 5    jBBOOK A   
+OL,10,D]RrssqsqprsqW"ot&&!   5    jBTEST RIDE
+OL,11,D]Q8,d WZ`ppppY`!  8,,,-    jBTODAY!   
+OL,12,D]Q5/j WZjY~%  6         jZx|||||t  
+OL,13,D]Q5/j WZ*?Y0  5 d`pppppp&Z  
+OL,14,D]Q"!  Wp{s{q~?t 5  5"///}  #wss3k#  
+OL,15,D]Q    Wr///t"o}5  5 5xl0jt|///ot  
+OL,16,D]Q  W`&8&+k=2o}05  5 5c1z9&+#,2o} 
+OL,17,D]Q Wha&` "~a"dk?-,,up5"#ha'otb `"dk}
+OL,18,D]Q W56  (z=  "4ppppoo||56  +}8  "4?
+OL,19,D]Q W57""bog"""57/{{{{{{??//oog"""55
+OL,20,D]Q Wi*0( ( ( :h%  ######}*0( ( ( :h!
+OL,21,A]Q###W)2d0b p&8!+         *!)2d0b p&8! 
+OL,22,A]W     ",rss8&Cecycleuk.comW ",rss8&   
+OL,23,A]G 10 John St, Stroud, Glos. GL5 2HA   
 FL,520,520,800,200,100,100
 PN,51028
 SC,0028
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ÅùÉweb:áwww.facebook.com/MrTwitchetts   
-OL,2,áùë         pp              pp          
-OL,3,áùëx'm   `|7`&ml0&yl8t`p `<>)0k|0   >+t 
-OL,4,áùëu ! x.! ",& kh7:hw~%!7 ),! "-t " z 
-OL,5,áùë"///!  "-&  (!"!!"!# !"$  ).!  "///! 
-OL,6,áùë  8.o||$    x0      d0          h}   
-OL,7,áùë j h`6!0 ` `#`xu p `~a  `0 xu xu(!p  
-OL,8,áùë ",!~an%4za!x?`~+en=!xw?z7 x'  nu! 
-OL,9,áùëh= x?hu~x'}&=ku8i?h&q&~}n<!jt% 
-OL,10,áùë"-.'  #"! "! "  # "  ! "! "! #   #!  
-OL,11,áùÅ  ï  `&ÅCOFFEE HOUSE AND BARÖ   Live 
-OL,12,áùë  ï )0)0(0ë`p  `$`` d  `p    ÖMusic/ 
-OL,13,áùë  ï`&`&`& ëw`#d2dpep&p&ab5ÖTheatre/  
-OL,14,áùë  ï ) ) ) ë"!  "!   #   #ÖSport      
-OL,15,áùï/?/?/o?o `p0 Ö                 
-OL,16,áùïu/z5s~5,o5vj}?/4Ö Teas, coffees,  
-OL,17,áùï?###og;7o'7  *Öbacon sandwiches,
-OL,18,áùï5  jh45}5}~    Ölight lunches &  
-OL,19,áùïu # jn}m?-?o0  h?Ösnacks, beer and 
-OL,20,áùï?/ jj51j5{tx?!Öwine. Free wi-fi.
-OL,21,áùï}ppp~ruuzu{!##  Ö  Regular live   
-OL,22,áùÖùáMon - Sat. áù    Ö     music.      
-OL,23,ÅùáSubscription Rms, George St, Stroud  
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,A]Cweb:Gwww.facebook.com/MrTwitchetts   
+OL,2,G]Q         pp              pp          
+OL,3,G]Qx'm   `|7`&ml0&yl8t`p `<>)0k|0   >+t 
+OL,4,G]Qu ! x.! ",& kh7:hw~%!7 ),! "-t " z 
+OL,5,G]Q"///!  "-&  (!"!!"!# !"$  ).!  "///! 
+OL,6,G]Q  8.o||$    x0      d0          h}   
+OL,7,G]Q j h`6!0 ` `#`xu p `~a  `0 xu xu(!p  
+OL,8,G]Q ",!~an%4za!x?`~+en=!xw?z7 x'  nu! 
+OL,9,G]Qh= x?hu~x'}&=ku8i?h&q&~}n<!jt% 
+OL,10,G]Q"-.'  #"! "! "  # "  ! "! "! #   #!  
+OL,11,G]A  U  `&ACOFFEE HOUSE AND BARE   Live 
+OL,12,G]Q  U )0)0(0Q`p  `$`` d  `p    EMusic/ 
+OL,13,G]Q  U`&`&`& Qw`#d2dpep&p&ab5ETheatre/  
+OL,14,G]Q  U ) ) ) Q"!  "!   #   #ESport      
+OL,15,G]U/?/?/o?o `p0 E                 
+OL,16,G]Uu/z5s~5,o5vj}?/4E Teas, coffees,  
+OL,17,G]U?###og;7o'7  *Ebacon sandwiches,
+OL,18,G]U5  jh45}5}~    Elight lunches &  
+OL,19,G]Uu # jn}m?-?o0  h?Esnacks, beer and 
+OL,20,G]U?/ jj51j5{tx?!Ewine. Free wi-fi.
+OL,21,G]U}ppp~ruuzu{!##  E  Regular live   
+OL,22,G]E]GMon - Sat. G]    E     music.      
+OL,23,A]GSubscription Rms, George St, Stroud  
 FL,520,520,800,200,100,100
 PN,51029
 SC,0029
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ï|0+w0%"' 8l}%}=*/ iw5?ñ>  *0ï pp0hp3"1
-OL,2,ï?$ /ñx0ï #ut0#p `|w!c+ñh!   iï,+/0+}4 
-OL,3,îbx0ñ`'"mtî+/!ku"#=$z,ñj5 h%jîbtqy503
-OL,4,ïp3ñ"4  "mpï(~7#!t7 "ñ`    j4ï47s{<|
-OL,5,î%o?"ñe d  +}0   î+% ñ0z7  & j1î/   #/'#
-OL,6,îp i0ñ"4 m  btxoll|}}wp   {!îpl! o`x
-OL,7,î.4 rñi0+!(y?g5%+'#o}2oo|x%îmv3502#
-OL,8,î5h,j}ñm  x'x>!,k3t`3/w/?ouîd"%,' z|
-OL,9,îp q0"oñ"mz%zi~m  *4b}")"}{?}0î`xt w0 
-OL,10,î/4+/$*$ñx?h5n*~t0*tk0+}0}"+};0î+/o!$ (
-OL,11,î|%t0|tñn?{5j"4`t*!u(t1+vl;w0îhz|~px~
-OL,12,î+u! "#ñz2oja>!~ta: "o0 "k)î kz0##
-OL,13,î +o~4ñ*a mj j'!  {m0l0d9  gotî"' "4 
-OL,14,îlt "#+mñ'5% +t&}p num82o!"1?îhxtp?0 
-OL,15,î/%b?mxñ(  zf>k!"o?$kw0+e5acu8î+5'ko|
-OL,16,î *d44 j3ñj}8  +"'   x~02od0+5jw îo+=###
-OL,17,î/"#####!hñ~}0* $j|,>+!* ;dk"7î  ! `?
-OL,18,î4ÜHAPPY  ñbwd  h e  `% `  1lt`|px&îz0
-OL,19,Ü BIRTHDAYñ#mu>4%4 !    2 0"0!now}0ï*/
-OL,20,î0ÜSTEVE!ñ ñb4" ( ` 6 j20k0m5n5wfwk{<î"
-OL,21,ï#   p `p|< ñ+0n$ ":   i!2o~"55`"m3}}
-OL,22,ï$h4"o  n7 ~4ñ.|00  & *  h**? ~$;vu4+v?
-OL,23,ï"#  }t+% ?ktñm& `!  % "bm z7 )u~ 5&7'
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,GH* . IV`ndG .            F@illarterate 
+OL,2,G  . V hi5}i R645746$647464747GH* I.  * 
+OL,3,T<,, V rrqsr0R)055555757 55747  W`|~|0 
+OL,4,T5??V`qqqqqqS4555555555 55555 Wh?co} 
+OL,5,T5wwVh<<<<<|S)!%%%)!%%% )!%%- W~u*? 
+OL,6,T5?}Vj55%%5C FORMULA ONE GPG.W}"G.
+OL,7,T%wV(,`8p(,B]D18 SEPTEMBER  \W?}  
+OL,8,Vpp0 `xn;s;{lp  ppppppppppp G W o2ou 
+OL,9,Vsq`rsqqqsqqqss0pssssssssss!G* W"o?!z 
+OL,10,Vll2s#s#sss#s#s!|ll<<|ll<<|`0G.W pp~? 
+OL,11,V++%| | sss?##############oj5Wh'{?V4
+OL,12,V#s!  }|~5S///////////-Vjj5'W5j?V>%
+OL,13,V    7"5h,<,|SxtV|jj% WktVn5w
+OL,14,V    5 5j<-,/S/y<  fV+z W(t;}V%}
+OL,15,V,,,o,/,-,o5*S./4  ##go   h/-W+/ouVw
+OL,16,VsssS(      "+,S5  +qpqs0  j  8##W#oVj
+OL,17,Tx|tSj(,j 0pp06####*?"####i pp`W} 
+OL,18,TSj*/j |||45pppp0:`ppppz |||Wj 
+OL,19,TSj"#j ,,($%   pp2}?o7pp0  + $,,Wj 
+OL,20,T"oSj"#j R`4|<||t S ktx5  R`|<|4tSWj7 
+OL,21,QtT#m0S *R j5v~||4 S ##   R|~v~5 Wj% 
+OL,22,W||tT#otR(/,,,,,./,,,-,-,,./,,,,.-Wz'Tx
+OL,23,Q||||tT+tW"##Tx~
 FL,520,520,800,200,100,100
 PN,51030
 SC,0030
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,ñ`~?a  `th t j4ó   ppppp ì É Q U E E N  
-OL,2,ñ7h4}j?j}j}z5ó x/tì   pp0n$pp0  
-OL,3,ó+tk}~%~j+ó`~}2mñ 6  "l&  "4 
-OL,4,óx? + !n'*t "ó~'p{wp+25ìeë~ìjë}ñ`% 
-OL,5,ó"# ïÉVS ë`p0 óuj##5z55ì(-,,.,,,-  
-OL,6,ëh?tk5t ~j?c0 óorr/m%öo{{{{{{{{%ô
-OL,7,ïj}%j5?}j' #ó"o?'#+o?!x?>É Tournament 
-OL,8,ïj5 .%%"/*}>!   ëhtóje5ì    ó`p0    
-OL,9,ë `0`0 |p x h>/!ëj??ñ?zÑBLOCK ñ"}   
-OL,10,ëh?j{${% *' ëpuz%ói%ÑPARTY óxo%  
-OL,11,ïj=j5 ?  +}$o?!ë+//'ñ~zÑ 2017ó`~w7   
-OL,12,ï"%"*%ìx/}t ì pp ñx||~7 ñ pp|~?'x'x}  
-OL,13,ë``dí`x|<2g$x>-)9óo?5 hq~/a~o'ë8
-OL,14,ë999í'###&$~yvw<2$óumñ?sx-'q|/y'ïëf
-OL,15,î|<||,//!ì "!  !f$ójñwsx~?/q>!x}î<
-OL,16,îy~' pë`(}+tó(tì)ó~0o?/q</cx>{nî?
-OL,17,î~%`~%ëy|2y|89ó"+l~vwy|'za>î~
-OL,18,îu4tëa2/q2/3&ñtó+/ss|>a>î:w
-OL,19,îo{/'ëo?"o?"-9ñkhxj?gs|'îx?+
-OL,20,í px<ë n4n98 ñ +///'#îx~1{~
-OL,21,ì{7 htëc|t"í`= i|p0  î0`    ``dd+&by~'o
-OL,22,íww$ k}pppp|7 (ww|pî)gbfrpc9x~.m{~y
-OL,23,ì{?}||www}l|~{~~~w|0î!y/m||{
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,V`~?a  `th t j4W   ppppp S C Q U E E N  
+OL,2,V7h4}j?j}j}z5W x/tS   pp0n$pp0  
+OL,3,W+tk}~%~j+W`~}2mV 6  "l&  "4 
+OL,4,Wx? + !n'*t "W~'p{wp+25SeQ~SjQ}V`% 
+OL,5,W"# UCVS Q`p0 Wuj##5z55S(-,,.,,,-  
+OL,6,Qh?tk5t ~j?c0 Worr/m%Zo{{{{{{{{%Y
+OL,7,Uj}%j5?}j' #W"o?'#+o?!x?>C Tournament 
+OL,8,Uj5 .%%"/*}>!   QhtWje5S    W`p0    
+OL,9,Q `0`0 |p x h>/!Qj??V?zDBLOCK V"}   
+OL,10,Qh?j{${% *' Qpuz%Wi%DPARTY Wxo%  
+OL,11,Uj=j5 ?  +}$o?!Q+//'V~zD 2017W`~w7   
+OL,12,U"%"*%Sx/}t S pp Vx||~7 V pp|~?'x'x}  
+OL,13,Q``dR`x|<2g$x>-)9Wo?5 hq~/a~o'Q8
+OL,14,Q999R'###&$~yvw<2$WumV?sx-'q|/y'UQf
+OL,15,T|<||,//!S "!  !f$WjVwsx~?/q>!x}T<
+OL,16,Ty~' pQ`(}+tW(tS)W~0o?/q</cx>{nT?
+OL,17,T~%`~%Qy|2y|89W"+l~vwy|'za>T~
+OL,18,Tu4tQa2/q2/3&VtW+/ss|>a>T:w
+OL,19,To{/'Qo?"o?"-9Vkhxj?gs|'Tx?+
+OL,20,R px<Q n4n98 V +///'#Tx~1{~
+OL,21,S{7 htQc|t"R`= i|p0  T0`    ``dd+&by~'o
+OL,22,Rww$ k}pppp|7 (ww|pT)gbfrpc9x~.m{~y
+OL,23,S{?}||www}l|~{~~~w|0T!y/m||{
 FL,520,520,800,200,100,100
 PN,51031
 SC,0031
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,î ppppppppppppppppppppppppppppppppppppp 
-OL,2,óÑùáFRI 31 MARCH-SUNDAY 16 APRIL 2017  ú
-OL,3,óö`<dñ           ó8l0ôí|h|h4|`|lth<|h<t 
-OL,4,ñö7ó mñ         ó>ñ oôíjj5j"#j5j5 
-OL,5,ñö5 ó"}ñ       óz% ñjôíjj5jjj=j5 
-OL,6,ñömó  *}ñ     óz'  ñ:ôíjj5jjj5j5 
-OL,7,ñö"4óbd&mñ   óh99$ñh!ôíjj5jjj5j5 
-OL,8,ñö +tós=9e p``gn3ñ8! ôízz5*z?j5j5 
-OL,9,ñö  "-ó`l-gs;-=0`&   ôëx<|0h|lt(||$x||0 
-OL,10,ñö   ójg<a` 02l;5    ôë5jj5j'o 
-OL,11,ñö  óh'n0ej 5:`=+4   ôëujz%*t* 
-OL,12,ñö  ó*8 ;vf 9yg d%   ôë5jj5h2o}2 
-OL,13,ñö   ó-&f> m9)/    ôë5jj5j k 
-OL,14,ñö   óa~=z   un}2    ôë5jj5"o}' 
-OL,15,ñö   ój'x%8 d*t+5    ôë/%//*/*/%//ñxth4 
-OL,16,ñö   ó"8!8! "d"d!    ôñ!!~!k7zj55kj5 
-OL,17,ñö   ó*}0)   &`~%    ôñ   j5j55jj5 
-OL,18,ñö    ó>     m     ôñ!!+}j5j55kj5 
-OL,19,ñö    ói6mppp>i6     ôñ   j5j55jj5 
-OL,20,ñö     ó+d   8'áHi! ñô    j5j55/**- 
-OL,21,ñö       ó###ñ       ô / /$.'*%/ +É2017 
-OL,22,óÑùáMusic, art, poetry, comedy & film  ú
-OL,23,î ##################################### 
-OL,24,                                        
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T px|>/#####/?'ZSx|0YT#sC@illarterate 
+OL,2,T(l}0Wde$T#o1  ZS+/!YT   #/|pp|~'W~?'
+OL,3,Tps{'R(8=8VT`~?U`|gkwmtT  p||?#W`ppx3 
+OL,4,T"/! WdnndT lw Q5j55T#/o}0Why/'! ~
+OL,5,V R`u``iya``T"Uhuzu} T(1 V>?a< ~{
+OL,6,V Rn$);;9!.$Qx{wwww??w}0T #Uh=w%j7~
+OL,7,V  Q$h  4 *" j}~~~~}}}  T(/# +' !*
+OL,8,W'{s+oow/o?5Vl8tl<,|8||$W'{/3/s{{
+OL,9,W~w+?#|}/,.-V +.'  "/.!W(///o}~7+?c5
+OL,10,W% n?!     Sx/?/# W+$ o0
+OL,11,W+uxt+5      S+}ppppx$       W?a~}p'
+OL,12,W=W"o}2%   pp            `p0   'x/# n
+OL,13,Vt~aW#o4  ~?   x~|0  *4  ~'V`~=
+OL,14,W'~?+}W+}0 2o%  z?#+'k0  o'0 x' `x|'' 
+OL,15,Vjv~>!W+|  `5j 4ju  j}~'V`wtn}Wh
+OL,16,W"?{}~}tW+wo0 j5* %*  z'?! p{?/?Wj
+OL,17,V z?=;;}W* m0"/|~||?' x%*Vxot"W`
+OL,18,W wgbf5V`S`|V`tSh~uVktWh?19?4W~'
+OL,19,V }y}%W%So'W~4So%WoV*vv5Wq~
+OL,20,V *'Vr7     z?*0    "}0"o?Wh
+OL,21,W}V"+//'Vh?/,$   z?! k<,$  "/t +/#Wx?o
+OL,22,W|tpppV*}0    x?Wx}Vo}0    x?Wx||/#p0+
+OL,23,Wwxsqxts}V"+////'Wx}V#/////#W~||~~
+FL,520,520,800,200,100,100
+PN,51032
+SC,0032
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,U x||||||||||<,,,l||||||||||||||||||||t 
+OL,2,U~?///'S`|tU##Q`p0U"ou"o1"o}
+OL,3,U7Sx|0  *Qp||}0Uk?! k$ 
+OL,4,U5S}Q`x|//#{4kUj'  x?!`~
+OL,5,U?'Q`x~/'#S ``Q+u>Uj! `~7 h
+OL,6,U7Q`|?'#W Up|S(;|pWU+}0 k}0 k
+OL,7,UQh;?#WU`x~}Sb"o|0U+w x?! z
+OL,8,U5Q.|s0SxuUo?/#!S)8+;0Uo' `~
+OL,9,U7QhfSkuU#!S``dftt|pr2%U +/}|
+OL,10,UQ`w!j?g>So}p(99{{????}t0U #/
+OL,11,U5Qz1 +,.# S9}"f~f$&$&"ot jtU+
+OL,12,WQj1U `pp  Sdn!({}!! p|./}0tUk
+OL,13,WQx?Uh'Sp0(;?= bfo}~'!`0l*}*7Uj
+OL,14,WQbtUz5S:{t f$` !9=? k"%b0o{41Uj
+OL,15,Q(1U{5Sfn{}0 "m0"boo4(4k %*}o}(tU3
+OL,16,Q`>!U{{1S9{{=0"ot );{u q(4k 945 
+OL,17,Q+}Ubff$Sbn{www "} bf0* q(4*vn}*! 
+OL,18,Q~1U$$$$S0+{==9 ~7 8;{u"5* ax={7T  
+OL,19,Q"gW    S+|r/wg z0  ffftp|~>'pW  
+OL,20,Q(1W     S+o<!) +'o}t !9{{/!px.!W  
+OL,21,WQ*=tW        Q`vS*mx  ""./'q|?'!W    
+OL,22,W Q ++t0`W   Qh2&S/|rs!   px~?'!W       
+OL,23,W    Q!+t+d)t+$!W  S"#/o?'!           
 FL,520,520,800,200,100,100
