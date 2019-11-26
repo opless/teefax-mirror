@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/11C02:36:33
+OL,0,XXXXXXXXBNMPSERVER2      E26/11C03:38:09
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BCloudy and misty   S5CSTATISTICS       
-OL,9,Bwith showery rain  S5C 
-OL,10,Bin the evening,    S5G   Maximum       
-OL,11,Bsome heavy,        S5GTemperatureC11C 
-OL,12,Bespecially in east.S5G                 
-OL,13,BBecoming drier     S5G   Minumum       
-OL,14,Bovernight, with    S5GTemperatureC6C 
-OL,15,Bperhaps a few clearS5C                 
-OL,16,Bspells in west, butS5G
-OL,17,Bstill some rain andS5G
-OL,18,Bgenerally murky    S5G                 
-OL,19,Bwith extensive low S5G
-OL,20,Bcloud and patchy   S5G
+OL,6,CTODAY
+OL,8,BMainly dry start   S5CSTATISTICS       
+OL,9,Bwith mist and fog  S5C 
+OL,10,Bgradually clearing,S5G   Maximum       
+OL,11,Bbut occasionally   S5GTemperatureC11C 
+OL,12,Bheavy rain will    S5G                 
+OL,13,Bspread north in theS5G   Minumum       
+OL,14,Bmorning. Rain      S5GTemperatureC4C 
+OL,15,Bclearing north     S5C                 
+OL,16,Bduring the late    S5G
+OL,17,Bafternoon. Brisk   S5G
+OL,18,Beasterly winds,    S5G                 
+OL,19,Beasing later.      S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,24 +32,24 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E26/11C02:36:33
+OL,0,XXXXXXXXBNMPSERVER2      E26/11C03:38:09
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTUESDAY
-OL,8,BMainly dry start   S5CSTATISTICS       
-OL,9,Bwith mist and fog  S5C 
-OL,10,Bgradually clearing,S5G   Maximum       
-OL,11,Bbut occasionally   S5GTemperatureC11C 
-OL,12,Bheavy rain will    S5G                 
-OL,13,Bspread north in theS5G   Minumum       
-OL,14,Bmorning. Clearing  S5GTemperatureC6C 
-OL,15,Blate afternoon, butS5C                 
-OL,16,Bthen some heavy    S5G
-OL,17,Bshowers.           S5G
-OL,18,BStrengthening      S5G                 
-OL,19,Beasterly winds.    S5G
+OL,6,CTONIGHT
+OL,8,BClear spells in theS5CSTATISTICS       
+OL,9,Bevening with a few S5C 
+OL,10,Bsharp showers      S5G   Maximum       
+OL,11,Bmoving north.      S5GTemperatureC11C 
+OL,12,BShowers will die   S5G                 
+OL,13,Bout overnight to   S5G   Minumum       
+OL,14,Bleave clear spells.S5GTemperatureC4C 
+OL,15,BA few isolated mistS5C                 
+OL,16,Bor fog patches     S5G
+OL,17,Bdeveloping.        S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
