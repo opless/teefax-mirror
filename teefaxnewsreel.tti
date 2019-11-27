@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,8 +15,7 @@ OL,4,MSturgeon pledges to 'protect       C104
 OL,6,GScotland from Tories'                  
 OL,8,GIslamists sentenced to death for   C105
 OL,9,G2016 cafe attack                       
-OL,10,GGary Rhodes, celebrity chef, dies  C106
-OL,11,Gat 59                                  
+OL,10,GTV chef Gary Rhodes dies aged 59   C106
 OL,12,GTrump invited to impeachment       C107
 OL,13,Ghearing                                
 OL,14,GFirst bodies of UK lorry victims   C108
@@ -25,14 +24,14 @@ OL,16,GUS to designate Mexican drug       C109
 OL,17,Gcartels as terrorists                  
 OL,18,GRapman questions 'hidden reasons'  C110
 OL,19,Gfor film ban                           
-OL,20,GAlbania quake toll worsens as      C111
-OL,21,Gtremors continue                       
+OL,20,GQuake toll rises as Albania shocks C111
+OL,21,Gcontinue                               
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +49,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 08:30GWinnersF81GLosersA20
-OL,14,C FTSE100    G7444.27 F+41.13 Fat 08:30
-OL,15,C techMARK100G5789.10 F+15.52 Fat 08:30
+OL,12,  FTSE100Fat 09:35GWinnersF75GLosersA26
+OL,14,C FTSE100    G7442.77 F+39.63 Fat 09:35
+OL,15,C techMARK100G5794.08 F+20.50 Fat 09:35
 OL,16,C Dow Jones  G28121.68F+55.21 Fat CLOSE
 OL,17,C Nasdaq     G8385.75 F+13.82 Fat CLOSE
 OL,18,C Nikkei     G23437.77F+6,444.Fat 07:45
-OL,19,C DJEurStoxx G3718.06 F+12.51 Fat 08:30
+OL,19,C DJEurStoxx G3720.34 F+14.79 Fat 09:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -73,73 +72,74 @@ OL,8,FJose Mourinho praises ball boy as  G306
 OL,9,FRobert Lewandowski scores four     G307
 OL,10,FFrench side battle back to top     G308
 OL,12,FZlatan Ibrahimovic becomes         G309
-OL,13,FSpurs fight back in Jose Mourinho  G310
-OL,14,FVisitors have two sent off in      G311
-OL,15,FNuno, Emery, Aubameyang, Sancho,   G312
+OL,13,FVisitors have two sent off in      G310
+OL,14,FGuess six of the stadiums staging  G311
+OL,15,FSpurs fight back in Jose Mourinho  G312
+OL,17,FNuno, Emery, Aubameyang, Sancho,   G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G09U%  B               
-OL,4,           UZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G09R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G10V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 08V} B              
-OL,10,       ^ZVp|t VxRg0 BLight Rain   
-OL,11,       ZVnG10VtV+"RG08R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" U *u  EHeavy Rain
-OL,14,B            ^ZR`  U*G 09U}  E         
-OL,15,COvercast    ^ZRk|R            
-OL,16,C            ^ZR'oG 09S}zt B       
-OL,17,B              ZRj^RG 10S B       
-OL,18,B            ZRx|^G 11S'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 11R/!        
-OL,21,B            ZR zG11R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,10,       ^ZVp|t VxSg0 CDrizzle      
+OL,11,       ZVnG10VtV+"SG08S  C            
+OL,12,       ZV+S`4S+|0             
+OL,13,        ZV+%*o!S" R *u  BHeavy Rain
+OL,14,B            ^ZU`  R*G 09R}  B         
+OL,15,DOvercast    ^ZUk|U            
+OL,16,D            ^ZU'oG 09T}zt B       
+OL,17,B              ZUj^UG 10T B       
+OL,18,B            ZUx|^G 11T'         
+OL,19,             ^ZU! +/'iUqp0        
+OL,20,B            ^ZV  tG 11U/!        
+OL,21,B            ZV zG11V^/s/U/?     ELight
+OL,22,            ZV8?' "'    "    ERain     
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G07R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G07V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G07V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BSome Cloud    
-OL,9,           ^ZRj)"G 06R}  B             
-OL,10,       ^ZVp|t RxUg0 ELight Rain   
-OL,11,       ZVnG09VtR+"UG08U  E            
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" U *u  B          
-OL,14,B            ^ZV`  U*G 09U} B          
-OL,15,COvercast    ^ZVk|U            
+OL,8,B          ^ZU*y?sp  ESome Cloud    
+OL,9,           ^ZUj)"G 07U}  E             
+OL,10,       ^ZVp|t UxRg0 BLight Rain   
+OL,11,       ZVnG09VtU+"RG08R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  B          
+OL,14,B            ^ZV`  R*G 09R} B          
+OL,15,COvercast    ^ZVk|R            
 OL,16,C            ^ZV'oG 09S}zt B       
-OL,17,B              ZVj^UG 09S B       
+OL,17,B              ZVj^RG 09S B       
 OL,18,B            ZVx|^G 10S'         
-OL,19,             ^ZV! +/'iUqp0        
-OL,20,B            ^ZV  tG 10U/!        
-OL,21,B            ZV zG11V^/s/U/? B         
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 10R/!        
+OL,21,B            ZV zG11V^/s/R/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -186,7 +186,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -212,16 +212,16 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CGary Rhodes, celebrity chef, dies at 59
+OL,4,CTV chef Gary Rhodes dies aged 59
 OL,5, Gary Rhodes, the celebrity chef known
-OL,6, for his passion for British cuisine,
-OL,7, has died at the age of 59.
+OL,6, for his spiky hair and passion for
+OL,7, British cuisine, has died aged 59.
 OL,9,FAccording to a family statement, he
 OL,10,Fdied on Tuesday "with his beloved wife
 OL,11,FJennie by his side".
@@ -237,7 +237,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +262,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -288,7 +288,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,7 +314,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,18 +340,18 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAlbania quake toll worsens as tremors
+OL,4,CQuake toll rises as Albania shocks
 OL,5,Ccontinue
 OL,6, Rescuers are scrambling to find
 OL,7, survivors under the rubble of buildings
 OL,8, in Albania, where a strong earthquake
-OL,9, has killed 24 people and injured 650. 
+OL,9, has killed 26 people and injured 650. 
 OL,11,FThe magnitude-6.4 tremor struck 34km
 OL,12,F(21 miles) north-west of the capital,
 OL,13,FTirana, as people slept in their beds
@@ -364,7 +364,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -390,33 +390,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CUK would be 'outgunned' in Russia
-OL,5,Cconflict
-OL,6, British ground forces would be
-OL,7, "comprehensively outgunned" in a
-OL,8, conflict with Russia in Eastern Europe,
-OL,9, according to a defence think-tank.
-OL,11,FResearch by the Royal United Services
-OL,12,FInstitute (Rusi) found that the Army,
-OL,13,Fas well as Nato allies, has a "critical
-OL,14,Fshortage" of artillery and ammunition.
-OL,16,FIt concluded that it could not maintain
-OL,17,Fa credible defence position. 
-OL,19,FThe Ministry of Defence (MoD) said the
-OL,20,FUK works closely with Nato and is "well
-OL,21,Fequipped to take on a leading role".
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CRussian cows get VR headsets 'to reduce
+OL,5,Canxiety'
+OL,6, A Russian farm has given its dairy cows
+OL,7, virtual reality headsets in a bid to
+OL,8, reduce their anxiety.
+OL,10,FThe herd donned VR systems adapted for
+OL,11,Fthe "structural features of cow heads"
+OL,12,Fand were shown a "unique summer field
+OL,13,Fsimulation program".
+OL,15,FMoscow's Ministry of Agriculture and
+OL,16,FFood cited research which they say has
+OL,17,Fshown a link between a cow's emotional
+OL,18,Fexperience and its milk yield.
+OL,20,FInitial tests reportedly boosted "the
+OL,21,Foverall emotional mood of the herd".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -442,7 +442,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -468,7 +468,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -494,7 +494,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C09:45:19
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C10:48:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
