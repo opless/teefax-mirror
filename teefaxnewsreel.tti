@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7403.14 F+6.85  Fat CLOSE
 OL,15,C techMARK100G5773.58 F+33.98 Fat CLOSE
 OL,16,C Dow Jones  G28121.68F+55.21 Fat CLOSE
 OL,17,C Nasdaq     G8385.75 F+13.82 Fat CLOSE
-OL,18,C Nikkei     G23445.74F+72.42 Fat 00:05
+OL,18,C Nikkei     G23462.46F+89.14 Fat 00:25
 OL,19,C DJEurStoxx G3705.55 A-2.13  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,7 +83,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G        Wednesday Evening            
@@ -112,36 +112,36 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Thursday                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G07R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G07V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G06V!FSome Cloud     
+OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
-OL,9,           ^ZRj)"G 06R}  B             
-OL,10,       ^ZRp|t RxUg0 ELight Rain   
-OL,11,       ZRnG09RtR+"UG08U  E            
-OL,12,       ZR+U`4U+|0             
-OL,13,        ZR+%*o!U" U *u  B          
-OL,14,B            ^ZV`  U*G 09U} B          
-OL,15,B            ^ZVk|U            
-OL,16,B            ^ZV'oG 08U}zt B       
-OL,17,B              ZVj^UG 09U B       
-OL,18,B            ZVx|^G 11U'         
-OL,19,             ^ZV! +/'iUqp0        
-OL,20,B            ^ZR  tG 10U/!        
-OL,21,B            ZR zG11R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZU*y?sp  ESome Cloud    
+OL,9,           ^ZUj)"G 07U}  E             
+OL,10,       ^ZRp|t UxRg0 BLight Rain   
+OL,11,       ZRnG09RtU+"RG08R  B            
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  B          
+OL,14,B            ^ZV`  R*G 09R} B          
+OL,15,B            ^ZVk|R            
+OL,16,B            ^ZV'oG 08R}zt B       
+OL,17,B              ZVj^RG 09R B       
+OL,18,B            ZVx|^G 11R'         
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 10R/!        
+OL,21,B            ZV zG11V^/s/R/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -188,7 +188,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -239,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -265,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -291,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -343,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -369,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -394,7 +394,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -420,7 +420,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -446,7 +446,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -472,7 +472,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
@@ -498,7 +498,7 @@ OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
