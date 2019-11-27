@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -21,8 +21,8 @@ OL,12,GAustralian broadcaster Clive James C107
 OL,13,Gdies aged 80                           
 OL,14,GSNP vote 'will send clear message  C108
 OL,15,Gon indyref2'                           
-OL,16,GRescuers scramble to find Albania  C109
-OL,17,Gquake survivors                        
+OL,16,GSwiss condemn 'attack' on Sri LankaC109
+OL,17,Gembassy worker                         
 OL,18,GTata Steel to cut 1,000 jobs acrossC110
 OL,19,Gthe UK                                 
 OL,20,GRussia hails spy who 'foiled       C111
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -54,92 +54,94 @@ OL,12,  FTSE100Fat CLOSEGWinnersF71GLosersA30
 OL,14,C FTSE100    G7429.78 F+26.64 Fat CLOSE
 OL,15,C techMARK100G5778.70 F+5.12  Fat CLOSE
 OL,16,C Dow Jones  G28164.00F+42.32 Fat 20:30
-OL,17,C Nasdaq     G8444.71 F+58.96 Fat 20:30
+OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
 OL,18,C Nikkei     G23437.77F+6,444.Fat 07:45
 OL,19,C DJEurStoxx G3712.85 F+7.30  Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MChelsea draw at Valencia in        G303
-OL,6,FNuno Espirito Santo is a potential G304
-OL,7,FChelsea hopeful on injury after    G305
-OL,8,F'Pep Guardiola's team need their   G306
-OL,9,FRobert Moreno was 'disloyal', says G307
-OL,10,FManchester United teenager on his  G308
-OL,12,FWhy has the Swedish striker        G309
-OL,13,FDick Advocaat recalls 'most        G310
-OL,14,FAnkle injury rules out defender    G311
-OL,15,FDaniel Stendel latest to have      G312
+OL,4,MDefending champions must wait on   G303
+OL,6,FChelsea draw at Valencia in        G304
+OL,7,FNuno Espirito Santo is a potential G305
+OL,8,FBaggies win to return to top of    G306
+OL,9,FTigers ease to comfortable win     G307
+OL,10,F'Pep Guardiola's team need their   G308
+OL,12,FChelsea striker plays down         G309
+OL,13,FMessi inspires on 700th club       G310
+OL,14,FRobert Moreno was 'disloyal', says G311
+OL,15,FManchester United teenager on his  G312
+OL,17,FFive Napoli fans arrested before   G313
+OL,18,FDick Advocaat recalls 'most        G314
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G06S%  COvercast       
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G06U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FLight Rain     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 06V} B              
 OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG07VtV+"RG08R B             
+OL,11,       ZVnG06VtV+"RG07R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  BHeavy Rain
 OL,14,B            ^ZU`  R*G 09R}  B         
 OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 08U}zt B       
-OL,17,ECloudy        ZUj^VG 08U B       
-OL,18,E            ZUx|^G 07U'         
+OL,16,B            ^ZU'oG 07U}zt B       
+OL,17,B              ZUj^VG 08U B       
+OL,18,B            ZUx|^G 08U'         
 OL,19,             ^ZU! +/'iUqp0        
-OL,20,B            ^ZV  tG 09U/!        
-OL,21,B            ZV zG09V^/s/U/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,20,B            ^ZU  tG 08U/!        
+OL,21,B            ZU zG08U^/s/U/? ECloudy   
+OL,22,            ZU8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G07R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G07V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZU*y?sp  ESunny         
+OL,8,B          ^ZU*y?sp  ESome Cloud    
 OL,9,           ^ZUj)"G 07U}  E             
-OL,10,       ^ZVp|t UxRg0 BLight Rain   
-OL,11,       ZVnG09VtU+"RG08R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
-OL,14,B            ^ZS`  V*G 09V} B          
-OL,15,B            ^ZSk|R            
-OL,16,B            ^ZS'oG 09R}zt B       
-OL,17,CSome Cloud    ZSj^RG 09R B       
-OL,18,C            ZSx|^G 11R'         
-OL,19,             ^ZS! +/'iVqp0        
+OL,10,       ^ZRp|t UxRg0 B             
+OL,11,       ZRnG09RtU+"RG08R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" V *u  B          
+OL,14,B            ^ZV`  V*G 09V} B          
+OL,15,BLight Rain  ^ZVk|S            
+OL,16,B            ^ZV'oG 09R}zt   CHeavy
+OL,17,B              ZVj^SG 09R CRain   
+OL,18,B            ZVx|^G 11R'         
+OL,19,             ^ZV! +/'iVqp0        
 OL,20,B            ^ZV  tG 10V/!        
-OL,21,B            ZV zG12V^/s/V/? B         
+OL,21,B            ZV zG11V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -186,7 +188,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -212,7 +214,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -237,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -263,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -289,33 +291,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRescuers scramble to find Albania quake
-OL,5,Csurvivors
-OL,6, Rescuers from several countries are
-OL,7, scrambling to find survivors of the
-OL,8, earthquake which hit Albania, killing
-OL,9, 30 people and injuring hundreds more.
-OL,11,FUsing sniffer dogs, they are sifting
-OL,12,Fthrough rubble, 36 hours after the
-OL,13,Fmagnitude-6.4 tremor.
-OL,15,FWhole families have perished - and
-OL,16,Fthousands are staying out in the open
-OL,17,Fas powerful aftershocks hit. 
-OL,19,FMost of the deaths occurred in the
-OL,20,Fcoastal city of Durres and the town of
-OL,21,FThumane, close to the epicentre.
+OL,4,CSwiss condemn 'attack' on Sri Lanka
+OL,5,Cembassy worker
+OL,6, Switzerland has summoned the Sri Lankan
+OL,7, ambassador and demanded an inquiry
+OL,8, after a local embassy employee was
+OL,9, "detained and threatened" in Colombo.
+OL,11,FSwiss officials said unidentified men
+OL,12,Ftried to force the woman to "disclose
+OL,13,Fembassy-related information".
+OL,15,FThe incident came after a top Sri
+OL,16,FLankan police officer left, reportedly
+OL,17,Fto seek asylum in Switzerland.
+OL,19,FIt is thought he feared for his safety
+OL,20,Fafter Gotabaya Rajapaksa was elected
+OL,21,Fpresident earlier this month.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
@@ -341,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -367,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,7 +394,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -418,33 +420,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoy, 14, 'killed by rival gang in
-OL,5,Cfrenzied attack'
-OL,6, A 14-year-old boy was knocked off a
-OL,7, moped and then stabbed to death by a
-OL,8, rival gang in a "violent and frenzied"
-OL,9, attack, a court has heard.
-OL,11,FJaden Moodie was allegedly dealing
-OL,12,Fdrugs for a gang when he was targeted
-OL,13,Fby a group of five men on 8 January.
-OL,15,FAyoub Majdouline was in a stolen
-OL,16,FMercedes which was driven at Jaden,
-OL,17,Fcausing him to be "catapulted" over the
-OL,18,Fbonnet, the Old Bailey heard.
-OL,20,FMr Majdouline, 19 and of London, denies
-OL,21,Fmurder and possession of a knife.
+OL,4,CVue boss hoping to rescreen banned film
+OL,5, The boss of a cinema chain that banned
+OL,6, a London gang film after a mass brawl
+OL,7, in Birmingham has told the BBC he hopes
+OL,8, to resume screenings by the weekend. 
+OL,10,FVue banned Blue Story after saying
+OL,11,Fthere had been 25 serious incidents in
+OL,12,F16 of its cinemas. 
+OL,14,FBut its chief executive, Tim Richards,
+OL,15,Fsaid it was now looking at "beefing up
+OL,16,Fsecurity" to restart screenings.
+OL,18,FIt comes after Blue Story's director,
+OL,19,FRapman, questioned whether there were
+OL,20,F"hidden reasons" for the ban.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -470,7 +471,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -496,26 +497,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C21:40:34
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C22:36:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMexico rejects US intervention against
-OL,5,Cdrug gangs
-OL,6, Mexico's president has rejected any US
-OL,7, intervention in his country, after
-OL,8, President Donald Trump said US forces
-OL,9, were willing to "go in and clear out"
-OL,10, drug cartels.
-OL,12,F"Co-operation, yes; intervention, no,"
-OL,13,FAndres Manuel Lopez Obrador said in
-OL,14,Fresponse to Mr Trump's comments.
-OL,16,FThe US president announced in a Tuesday
-OL,17,Finterview he would legally designate
-OL,18,FMexican drug gangs as terrorist groups.
-OL,20,FEarlier this month nine US citizens
-OL,21,Fwere killed in an ambush in Mexico.
+OL,4,CRescuers scramble to find Albania quake
+OL,5,Csurvivors
+OL,6, Rescuers from several countries are
+OL,7, scrambling to find survivors of the
+OL,8, earthquake which hit Albania, killing
+OL,9, 30 people and injuring hundreds more.
+OL,11,FUsing sniffer dogs, they are sifting
+OL,12,Fthrough rubble, 36 hours after the
+OL,13,Fmagnitude-6.4 tremor.
+OL,15,FWhole families have perished - and
+OL,16,Fthousands are staying out in the open
+OL,17,Fas powerful aftershocks hit. 
+OL,19,FMost of the deaths occurred in the
+OL,20,Fcoastal city of Durres and the town of
+OL,21,FThumane, close to the epicentre.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
