@@ -5,14 +5,14 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MSturgeon pledges to 'protect       C104
-OL,6,GScotland from Tories'                  
+OL,4,MSNP vote 'will send clear message  C104
+OL,6,Gon indyref2'                           
 OL,8,GIslamists sentenced to death for   C105
 OL,9,G2016 cafe attack                       
 OL,10,G'Proof NHS at risk under US trade  C106
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -49,17 +49,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 10:30GWinnersF73GLosersA28
-OL,14,C FTSE100    G7430.64 F+27.50 Fat 10:30
-OL,15,C techMARK100G5795.67 F+22.09 Fat 10:30
+OL,12,  FTSE100Fat 11:30GWinnersF74GLosersA27
+OL,14,C FTSE100    G7437.58 F+34.44 Fat 11:30
+OL,15,C techMARK100G5795.97 F+22.39 Fat 11:30
 OL,16,C Dow Jones  G28121.68F+55.21 Fat CLOSE
 OL,17,C Nasdaq     G8385.75 F+13.82 Fat CLOSE
 OL,18,C Nikkei     G23437.77F+6,444.Fat 07:45
-OL,19,C DJEurStoxx G3714.88 F+9.33  Fat 10:30
+OL,19,C DJEurStoxx G3711.19 F+5.64  Fat 11:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -67,21 +67,22 @@ OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MCity move into Champions League    G303
 OL,6,FManchester United teenager on his  G304
-OL,7,FChelsea manager Frank Lampard says G305
-OL,8,FJose Mourinho praises ball boy as  G306
-OL,9,FJurgen Klinsmann named Hertha      G307
-OL,10,FRobert Lewandowski scores four     G308
-OL,12,FFrench side battle back to top     G309
+OL,7,FJurgen Klopp expects tough         G305
+OL,8,FFrank Lampard says Chelsea 'must   G306
+OL,9,FLionel Messi set for 700th Barca   G307
+OL,10,FJoao Felix named best under-21     G308
+OL,12,FJose Mourinho praises ball boy as  G309
 OL,13,FZlatan Ibrahimovic becomes         G310
-OL,14,FVisitors have two sent off in      G311
+OL,14,FJurgen Klinsmann named Hertha      G311
 OL,15,FGuess six of the stadiums staging  G312
-OL,17,FNuno, Emery, Aubameyang, Sancho,   G313
+OL,17,FHow to follow the action on the BBCG313
+OL,18,FNuno, Emery, Aubameyang, Sancho,   G314
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -91,55 +92,55 @@ OL,4,           RZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G10V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 08V} B              
-OL,10,       ^ZVp|t VxUg0 EDrizzle      
-OL,11,       ZVnG10VtV+"UG08U  E            
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" S *u  CHeavy Rain
-OL,14,B            ^ZR`  S*G 09S}  C         
-OL,15,DOvercast    ^ZRk|R            
-OL,16,D            ^ZR'oG 09T}zt   BLight
-OL,17,B              ZRj^RG 10T BRain   
-OL,18,B            ZRx|^G 11T'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZV  tG 12R/!        
-OL,21,B            ZV zG11V^/s/R/? B         
+OL,8,B          ^ZS*y?sp  CFoggy         
+OL,9,           ^ZSj)"G 08S}  C             
+OL,10,       ^ZVp|t SxTg0 DDrizzle      
+OL,11,       ZVnG10VtS+"TG08T  D            
+OL,12,       ZV+T`4T+|0             
+OL,13,        ZV+%*o!T" R *u  BHeavy Rain
+OL,14,B            ^ZU`  R*G 09R}  B         
+OL,15,B            ^ZUk|U            
+OL,16,B            ^ZU'oG 09U}zt B       
+OL,17,ELight Rain    ZUj^UG 10U B       
+OL,18,E            ZUx|^G 11U'         
+OL,19,             ^ZU! +/'iVqp0        
+OL,20,B            ^ZV  tG 12V/!        
+OL,21,B            ZV zG11V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G07R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G07U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G07V!FLight Rain     
+OL,6,            ZV!'~G07V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZU*y?sp  ESome Cloud    
-OL,9,           ^ZUj)"G 07U}  E             
-OL,10,       ^ZRp|t UxVg0 B             
-OL,11,       ZRnG09RtU+"VG08V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 09V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 09V}zt B       
-OL,17,B              ZRj^VG 09V B       
-OL,18,B            ZRx|^G 10V'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 10R/!        
-OL,21,B            ZR zG11R^/s/R/? BCloudy   
-OL,22,            ZR8?' "'    "     B        
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 07V} B              
+OL,10,       ^ZUp|t VxRg0 BLight Rain   
+OL,11,       ZUnG09UtV+"RG08R  B            
+OL,12,       ZU+R`4R+|0             
+OL,13,        ZU+%*o!R" R *u  B          
+OL,14,B            ^ZU`  R*G 09R} B          
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 09R}zt B       
+OL,17,B              ZUj^RG 09R B       
+OL,18,B            ZUx|^G 10R'         
+OL,19,             ^ZU! +/'iUqp0        
+OL,20,B            ^ZU  tG 10U/!        
+OL,21,B            ZU zG11U^/s/U/? ECloudy   
+OL,22,            ZU8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,33 +161,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CSturgeon pledges to 'protect Scotland
-OL,5,Cfrom Tories'
-OL,6, Nicola Sturgeon has accused Prime
-OL,7, Minister Boris Johnson of being
-OL,8, "dangerous and unfit for office" as she
-OL,9, launched the SNP's election manifesto.
-OL,11,FThe SNP leader said that a vote for her
-OL,12,Fparty on 12 December will be a vote to
-OL,13,F"escape Brexit and put Scotland's
-OL,14,Ffuture in Scotland's hands".
-OL,16,FShe also claimed that the prime
-OL,17,Fminister's proposed Brexit deal would
-OL,18,Fbe a "nightmare" for Scotland.
-OL,20,FAnd she will call for a big increase in
-OL,21,Ffunding for the NHS across the UK.
+OL,4,CSNP vote 'will send clear message on
+OL,5,Cindyref2'
+OL,6, Nicola Sturgeon has said that a vote
+OL,7, for the SNP would be a vote to "escape
+OL,8, Brexit and put Scotland's future in
+OL,9, Scotland's hands" as she launched her
+OL,10, party's election manifesto. 
+OL,12,FThe manifesto says that the SNP winning
+OL,13,Fthe most seats in Scotland would send a
+OL,14,F"clear" message that an independence
+OL,15,Freferendum must be held next year.
+OL,17,FMs Sturgeon said Scotland faced a
+OL,18,F"fundamental question" over who should
+OL,19,Fdecide its future. 
+OL,21,FThe vote will be held on 12 December. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -202,17 +203,17 @@ OL,11,FThe attack on the Holey Artisan cafe in
 OL,12,FDhaka was carried out by a group of
 OL,13,Ffive men, who took diners hostage.
 OL,15,FEight people were on trial, accused of
-OL,16,Fplanning and supplying the attackers
-OL,17,Fwith weapons. One man was acquitted.
+OL,16,Fplanning the attack and supplying
+OL,17,Fweapons. One man was acquitted.
 OL,19,FThe 12-hour siege was Bangladesh's
-OL,20,Fdeadliest terrorist attack. Most of the
+OL,20,Fdeadliest Islamist attack. Most of the
 OL,21,Fvictims were Italian or Japanese.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -220,25 +221,23 @@ OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,C'Proof NHS at risk under US trade deal'
 OL,5,C- Labour
-OL,6, Labour says it has evidence the NHS is
-OL,7, at risk under a post-Brexit trade deal
-OL,8, with the US.
+OL,6, Labour says it has evidence the NHS
+OL,7, would be at risk under a post-Brexit
+OL,8, trade deal with the US.
 OL,10,FAt a press conference in London, Labour
 OL,11,Fleader Jeremy Corbyn said he had a
 OL,12,F451-page dossier showing talks had
-OL,13,Ftaken place on drug pricing and access
-OL,14,Fto NHS contracts.
-OL,16,FHe warned it could lead to the NHS
-OL,17,Fpaying more for drugs and "run-away
-OL,18,Fprivatisation" of health care.
-OL,20,FThe Tories have said the NHS is not at
-OL,21,Frisk under a future trade deal.
+OL,13,Ftaken place on drug pricing and NHS
+OL,14,Faccess.
+OL,16,FHe warned it could lead to the health
+OL,17,Fservice paying more for drugs and
+OL,18,F"runaway privatisation".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -263,7 +262,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,7 +287,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,7 +313,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,7 +339,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -364,33 +363,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CIntruder hunted over sex attack on boy
-OL,5,Cin bedroom
-OL,6, A CCTV image of a man suspected of
-OL,7, sexually assaulting a young boy in his
-OL,8, bedroom has been issued by detectives.
-OL,10,FThe Met Police was called to a home in
-OL,11,FThe Greenway in Ickenham, west London,
-OL,12,Fearly on Saturday morning to reports an
-OL,13,Fintruder had been inside the property.
-OL,15,FOfficers said there was no sign of a
-OL,16,Fbreak-in at the property but the man
-OL,17,Fmade his way into the boy's room and
-OL,18,Fsexually assaulted him.
-OL,20,FThe man fled when the child told him he
-OL,21,Fwould phone the police.  
+OL,4,CTheatre director Sir Jonathan Miller
+OL,5,Cdies aged 85
+OL,6, Sir Jonathan Miller, the distinguished
+OL,7, theatre and opera director who famously
+OL,8, starred in the Beyond the Fringe comedy
+OL,9, revue, has died at the age of 85.
+OL,11,FA man of many parts, Miller was also an
+OL,12,Fauthor, a photographer, a sculptor, a
+OL,13,Fbroadcaster and a qualified doctor.
+OL,15,FBorn in London in 1934, Miller studied
+OL,16,Fmedicine at Cambridge before embarking
+OL,17,Fon a career in the arts.
+OL,19,FThe catalyst was Beyond the Fringe, in
+OL,20,Fwhich he appeared with Peter Cook,
+OL,21,FDudley Moore and Alan Bennett.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -416,33 +415,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CCorbyn: Lower earners could pay more
-OL,5,Ctax under Labour
-OL,6, Jeremy Corbyn has admitted some of
-OL,7, those on lower incomes could pay more
-OL,8, tax under a future Labour government. 
-OL,10,FThe Labour leader had previously
-OL,11,Finsisted only the richest 5% of
-OL,12,Ftaxpayers, those earning about #80,000
-OL,13,Fa year or more, would face tax rises.
-OL,15,FBut he was forced to concede a plan to
-OL,16,Fscrap a tax break for married couples
-OL,17,Fwould impact those earning less.
-OL,19,FMr Corbyn argued in a BBC interview
-OL,20,Fthat those affected would benefit from
-OL,21,Fa higher living wage.
+OL,4,CIntruder hunted over sex attack on boy
+OL,5,Cin bedroom
+OL,6, A CCTV image of a man suspected of
+OL,7, sexually assaulting a young boy in his
+OL,8, bedroom has been issued by detectives.
+OL,10,FThe Met Police was called to a home in
+OL,11,FThe Greenway in Ickenham, west London,
+OL,12,Fearly on Saturday morning to reports an
+OL,13,Fintruder had been inside the property.
+OL,15,FOfficers said there was no sign of a
+OL,16,Fbreak-in at the property but the man
+OL,17,Fmade his way into the boy's room and
+OL,18,Fsexually assaulted him.
+OL,20,FThe man fled when the child told him he
+OL,21,Fwould phone the police.  
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -468,33 +467,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CFirst bodies of UK lorry victims arrive
-OL,5,Cin Vietnam
-OL,6, The bodies of 16 Vietnamese people who
-OL,7, were found dead in a refrigerated lorry
-OL,8, in the UK have arrived back in Vietnam.
-OL,10,FThey were among 39 migrants - eight
-OL,11,Fwomen and 31 males, including two boys
-OL,12,Faged 15 - found in Essex on 23 October.
-OL,14,FThe bodies were flown to Hanoi's Noi
-OL,15,FBai Airport, and will be taken by
-OL,16,Fambulance to their family homes.
-OL,18,FInvestigations are under way in both
-OL,19,Fthe UK and Vietnam, and a lorry driver
-OL,20,Fhas admitted plotting to assist illegal
-OL,21,Fimmigration.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CUK would be 'outgunned' in Russia
+OL,5,Cconflict
+OL,6, British ground forces would be
+OL,7, "comprehensively outgunned" in a
+OL,8, conflict with Russia in Eastern Europe,
+OL,9, according to a defence think-tank.
+OL,11,FResearch by the Royal United Services
+OL,12,FInstitute (Rusi) found that the Army,
+OL,13,Fas well as Nato allies, has a "critical
+OL,14,Fshortage" of artillery and ammunition.
+OL,16,FIt concluded that it could not maintain
+OL,17,Fa credible defence position. 
+OL,19,FThe Ministry of Defence (MoD) said the
+OL,20,FUK works closely with Nato and is "well
+OL,21,Fequipped to take on a leading role".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:47:07
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:49:10
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -508,12 +507,9 @@ OL,8, queue for those who want to splurge on
 OL,9, Black Friday deals. 
 OL,11,F"My husband has great ways of thinking
 OL,12,Fwhen it comes to money," says Alexis
-OL,13,FGranados, of her partner Bill.
-OL,15,FHe recently lost his job as a scale
-OL,16,Foperator for a recycling company. 
-OL,18,FThe pair are charging $50 (#38) each to
-OL,19,Fwait outside any store in Upland,
-OL,20,FCalifornia, the night before the Black
-OL,21,FFriday sales. 
+OL,13,FGranados, of her partner Steven
+OL,14,FVelasquez.
+OL,16,FHe recently lost his job as a scale
+OL,17,Foperator for a recycling company. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160

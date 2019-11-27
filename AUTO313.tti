@@ -1,23 +1,30 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 313 Football
+DE,Sport Page 313 FA Cup
 CT,10,T
 PN,31300
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C11:39:54
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C12:39:09
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BWednesday's gossip column: Nuno, Emery,
-OL,5,BAubameyang, Sancho, Moyes, Sterling,
-OL,6,BSane
-OL,10,FShare this with
-OL,12,FWolves manager Nuno Espirito Santo has
-OL,13,Femerged as the leading candidate to
-OL,14,Freplace Unai Emery as Arsenal manager.
-OL,15,F(Mail)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BFA Cup second round: How to follow the
+OL,5,Baction on the BBC
+OL,6, Twenty ties, 12 non-league clubs, one
+OL,7, win from a potential tie with a Premier
+OL,8, League club - the FA Cup second round
+OL,9, takes place this weekend and you can
+OL,10, follow all the action on the BBC.
+OL,12,FIt starts on Friday when Essex
+OL,13,Fpart-timers Maldon & Tiptree, who play
+OL,14,Fin the eighth tier of English football,
+OL,15,Fentertain League Two Newport County
+OL,16,Flive on BBC Two.
+OL,18,FBuild-up begins at 19:30 GMT, with
+OL,19,Fkick-off at the Wallace Binder Ground
+OL,20,Fat 19:55.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,314,302,301,300,8FF,199
