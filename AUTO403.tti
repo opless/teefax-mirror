@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C03:36:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FFurther showers or longer spells of
-OL,9,Frain for many areas, especially
-OL,10,Fnorthern Scotland. Showery rain over
-OL,11,Fparts of England and southwest Wales
-OL,12,Fmay be heavy at times, especially
-OL,13,Flater. Windy in the far north of
-OL,14,FScotland and far southwest UK.
+OL,7,GToday
+OL,8,FAreas of rain or showers for many, the
+OL,9,Frain becoming more focused across parts
+OL,10,Fof northern Scotland and eastern
+OL,11,FEngland but with scattered heavy
+OL,12,Fshowers elsewhere. Some sunnier breaks,
+OL,13,Fmainly in western areas of the UK. A
+OL,14,Flittle less mild.
+OL,4,                                    1/2 
+OL,16,GTonight
+OL,17,FRain in parts of east, northeast and
+OL,18,Fcentral Britain, with a scattering of
+OL,19,Fshowers in coastal areas elsewhere.
+OL,20,FWindy in northern areas and turning
+OL,21,Fcolder there with patchy frost.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C03:36:19
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Thursday to Saturday
-OL,8,FTurning colder, but also drier and
-OL,9,Fbrighter than of late. Still a few
-OL,10,Fshowers in northern Scotland and North
-OL,11,FSea coasts, and a chance of rain in
-OL,12,Fsouthwest UK Saturday.
+OL,7,GOutlook for Friday to Sunday
+OL,8,FColder and mainly dry away from
+OL,9,Fnorthern and eastern coasts; here some
+OL,10,Fwintry showers are likely. Cloudier for
+OL,11,Fa time Saturday into Sunday in the
+OL,12,Fsouth with some rain.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
