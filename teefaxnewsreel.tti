@@ -5,20 +5,20 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MAustralian broadcaster Clive James C104
-OL,6,Gdies at 80                             
+OL,6,Gdies aged 80                           
 OL,8,GIslamists sentenced to death for   C105
 OL,9,G2016 cafe attack                       
 OL,10,GRow over Labour's 'NHS for sale'   C106
 OL,11,Gclaim                                  
 OL,12,GAustralian broadcaster Clive James C107
-OL,13,Gdies at 80                             
+OL,13,Gdies aged 80                           
 OL,14,GSNP vote 'will send clear message  C108
 OL,15,Gon indyref2'                           
 OL,16,GRescuers scramble to find Albania  C109
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -49,17 +49,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 15:35GWinnersF69GLosersA32
-OL,14,C FTSE100    G7425.30 F+22.16 Fat 15:35
-OL,15,C techMARK100G5770.29 A-3.29  Fat 15:35
-OL,16,C Dow Jones  G28108.68A-13.00 Fat 15:35
-OL,17,C Nasdaq     G8425.13 F+39.38 Fat 15:35
+OL,12,  FTSE100Fat CLOSEGWinnersF71GLosersA30
+OL,14,C FTSE100    G7429.78 F+26.64 Fat CLOSE
+OL,15,C techMARK100G5778.70 F+5.12  Fat CLOSE
+OL,16,C Dow Jones  G28127.25F+5.57  Fat 16:25
+OL,17,C Nasdaq     G8437.07 F+51.33 Fat 16:25
 OL,18,C Nikkei     G23437.77F+6,444.Fat 07:45
-OL,19,C DJEurStoxx G3711.03 F+5.48  Fat 15:35
+OL,19,C DJEurStoxx G3712.85 F+7.30  Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -71,19 +71,17 @@ OL,7,FRobert Moreno was 'disloyal', says G305
 OL,8,FManchester United teenager on his  G306
 OL,9,FWhy has the Swedish striker        G307
 OL,10,FJurgen Klopp expects tough         G308
-OL,12,FFrank Lampard says Chelsea 'must   G309
-OL,13,FLionel Messi set for 700th Barca   G310
+OL,12,FLionel Messi set for 700th Barca   G309
+OL,13,FDick Advocaat recalls 'most        G310
 OL,14,FFormer Tottenham defender leaves   G311
 OL,15,FJoao Felix named best under-21     G312
-OL,17,FJose Mourinho praises ball boy as  G313
-OL,18,FJurgen Klinsmann named Hertha      G314
-OL,19,FDaniel Stendel latest to have      G315
+OL,17,FJurgen Klinsmann named Hertha      G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -112,7 +110,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -141,7 +139,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,14 +160,14 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CAustralian broadcaster Clive James dies
-OL,5,Cat 80
+OL,5,Caged 80
 OL,6, Clive James, the Australian writer and
 OL,7, broadcaster known around the world for
 OL,8, his dry wit, has died at the age of 80.
@@ -188,7 +186,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -214,7 +212,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -239,14 +237,14 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CAustralian broadcaster Clive James dies
-OL,5,Cat 80
+OL,5,Caged 80
 OL,6, Clive James, the Australian writer and
 OL,7, broadcaster known around the world for
 OL,8, his dry wit, has died at the age of 80.
@@ -265,7 +263,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -291,7 +289,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,7 +315,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -342,7 +340,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -367,7 +365,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -393,33 +391,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUS to designate Mexican drug cartels as
-OL,5,Cterrorists
-OL,6, The US will legally designate Mexican
-OL,7, drug cartels as terrorist groups,
-OL,8, President Donald Trump says.
-OL,10,FThe move would enable a wider scope of
-OL,11,FUS action. Mr Trump also said he had
-OL,12,Ftold Mexico the US was ready to "go in
-OL,13,Fand clear out" the cartels.
-OL,15,FIn response Mexico's foreign minister
-OL,16,Fsaid his country would not allow any
-OL,17,F"violation of national sovereignty".
-OL,19,FEarlier this month Mr Trump vowed to
-OL,20,F"wage war on the drug cartels" after a
-OL,21,Fdeadly attack on US citizens in Mexico.
+OL,4,CUN troops suspected in DR Congo
+OL,5,Cprotester's death
+OL,6, The UN peacekeeping mission in the
+OL,7, Democratic Republic of Congo is opening
+OL,8, an investigation after gathering
+OL,9, evidence that its troops may have
+OL,10, killed a protester, a spokesman says.
+OL,12,FThe man died on Tuesday in the eastern
+OL,13,Fcity of Beni, where locals accuse the
+OL,14,FUN and government troops of failing to
+OL,15,Fprotect them from an Islamist militia.
+OL,17,FThe Allied Democratic Forces (ADF) have
+OL,18,Fstepped up their attacks in response to
+OL,19,Fa government offensive against them.
+OL,21,FThey have killed dozens of people.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -445,7 +443,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -463,15 +461,15 @@ OL,13,FGoogle's sister company Deepmind.
 OL,15,FIn 2016, he took part in a five-match
 OL,16,Fshowdown against AlphaGo, losing four
 OL,17,Ftimes but beating the computer once.
-OL,19,FHe said he had decided to retire after
-OL,20,Frealising: "I'm not at the top even if
-OL,21,FI become the number one."
+OL,19,FThe South Korean said he had decided to
+OL,20,Fretire after realising: "I'm not at the
+OL,21,Ftop even if I become the number one."
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -497,26 +495,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C16:46:51
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRussian cows get VR headsets 'to reduce
-OL,5,Canxiety'
-OL,6, A Russian farm has given its dairy cows
-OL,7, virtual reality headsets in a bid to
-OL,8, reduce their anxiety.
-OL,10,FThe herd donned VR systems adapted for
-OL,11,Fthe "structural features of cow heads"
-OL,12,Fand were shown a "unique summer field
-OL,13,Fsimulation program".
-OL,15,FMoscow's Ministry of Agriculture and
-OL,16,FFood cited research which they say has
-OL,17,Fshown a link between a cow's emotional
-OL,18,Fexperience and its milk yield.
-OL,20,FInitial tests reportedly boosted "the
-OL,21,Foverall emotional mood of the herd".
+OL,4,CUS to designate Mexican drug cartels as
+OL,5,Cterrorists
+OL,6, The US will legally designate Mexican
+OL,7, drug cartels as terrorist groups,
+OL,8, President Donald Trump says.
+OL,10,FThe move would enable a wider scope of
+OL,11,FUS action. Mr Trump also said he had
+OL,12,Ftold Mexico the US was ready to "go in
+OL,13,Fand clear out" the cartels.
+OL,15,FIn response Mexico's foreign minister
+OL,16,Fsaid his country would not allow any
+OL,17,F"violation of national sovereignty".
+OL,19,FEarlier this month Mr Trump vowed to
+OL,20,F"wage war on the drug cartels" after a
+OL,21,Fdeadly attack on US citizens in Mexico.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
