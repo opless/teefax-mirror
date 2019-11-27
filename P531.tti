@@ -6,16 +6,16 @@ SC,0001
 OL,1,Übedford weather  Çcy2.uk/weatherá   1/2
 OL,2,îù ìh40|x|t`<l0,,j=l0x|t`<,            
 OL,3,îù ì"--'+,$*'+% / *%*%+,$*%             
-OL,5,Tue, 26 Nov at 10:50 GMT
-OL,6,Temperature: 11.9C
-OL,7,Humidity:    95%
-OL,8,Wind: E, 2 mph
+OL,5,Wed, 27 Nov at 10:50 GMT
+OL,6,Temperature: 12.1C
+OL,7,Humidity:    97%
+OL,8,Wind: S, 0 mph
 OL,9,Rain: 0.0 mm
-OL,10,Pressure: 993 hPa, falling
-OL,11,Cloud base: 97 m
+OL,10,Pressure: 982 hPa, falling slowly
+OL,11,Cloud base: 58 m
 OL,12,12 hour weather forecast, computed on
-OL,13,Tue, 26 Nov at 08:50 GMT:
-OL,14,Occasional rain, worsening.
+OL,13,Wed, 27 Nov at 08:50 GMT:
+OL,14,Rain, very unsettled.
 OL,15,This forecast is highly experimental!
 OL,23,Ñùá                     More followsà>
 OL,24,ÅGallery ÇSnowman ÉLabyrinth ÜLA Weather
@@ -33,9 +33,9 @@ OL, 8,  27ë
 OL, 9,  24ï                        
 OL,10,  21ï                        
 OL,11,  18ï                        
-OL,12,  15ñ                        
-OL,13,  12ñ     ppppppp ppppppp    
-OL,14,   9ñ,####       #       ####
+OL,12,  15ñ       pp               
+OL,13,  12ñ   pp,#  ,,,pp          
+OL,14,   9ñ###           ##,#######
 OL,15,   6ñ                        
 OL,16,   3î                        
 OL,17,   0î                        
