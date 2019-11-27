@@ -1,11 +1,11 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Newsreel
+DE,Teefax opt
 CT,30,T
-PN,15201
+PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -29,10 +29,10 @@ OL,20,GUK would be 'outgunned' in Russia  C111
 OL,21,Gconflict                               
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
-PN,15202
+PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -57,10 +57,10 @@ OL,16,C Dow Jones  G28121.68F+55.21 Fat CLOSE
 OL,17,C Nasdaq     G8385.75 F+13.82 Fat CLOSE
 OL,18,C Nikkei     G23445.74F+72.42 Fat 00:05
 OL,19,C DJEurStoxx G3705.55 A-2.13  Fat CLOSE
-PN,15203
+PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -80,10 +80,10 @@ OL,17,FJack Harrison's winner sends Leeds G313
 OL,18,FNuno, Emery, Aubameyang, Sancho,   G314
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
-PN,15204
+PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G        Wednesday Evening            
@@ -109,10 +109,10 @@ OL,20,B            ^ZV  tG 08U/!
 OL,21,B            ZV zG09V^/s/U/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
-PN,15205
+PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Thursday                
@@ -138,10 +138,10 @@ OL,20,B            ^ZR  tG 10U/!
 OL,21,B            ZR zG11R^/s/U/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
-PN,15206
+PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,10 +159,10 @@ OL,14,CSouth East   G433
 OL,15,CWeekend      G439                      
 OL,17,CLondon Tube  G439                      
 OL,23,F]D  RoadsA431DRailA432DFlightsA440     
-PN,15207
+PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -185,10 +185,10 @@ OL,20,Fnew poison - sanctioned from the very
 OL,21,Ftop - has taken root" in Labour.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15208
+PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,10 +210,10 @@ OL,19,FJuly phone call between Mr Trump and
 OL,20,FUkrainian President Volodymyr Zelensky.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15209
+PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,10 +236,10 @@ OL,20,Fparty members guilty of Islamophobia
 OL,21,F"are out first bounce". 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15210
+PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,10 +262,10 @@ OL,20,FTents have been set up for those left
 OL,21,Fhomeless by the disaster. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15211
+PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,10 +288,10 @@ OL,20,FUK works closely with Nato and is "well
 OL,21,Fequipped to take on a leading role".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15212
+PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,10 +314,10 @@ OL,20,Fminister with shouts of "mafia" when he
 OL,21,Fwalked into parliament.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15213
+PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -340,10 +340,10 @@ OL,20,FDr Bill Kirkup says it suggests failure
 OL,21,Fmight be more widespread in the NHS.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15214
+PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -366,10 +366,10 @@ OL,20,FUK works closely with Nato and is "well
 OL,21,Fequipped to take on a leading role".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15215
+PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -391,10 +391,10 @@ OL,19,FWitness Tina Rooney told the BBC they
 OL,20,Flooked "traumatised and frightened".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15216
+PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,10 +417,10 @@ OL,20,Fconvicted of obtaining money
 OL,21,Funder false pretences and forgery. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15217
+PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -443,10 +443,10 @@ OL,20,FBut really terrifying nightmares were
 OL,21,Ffound to have a negative impact.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15218
+PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -469,10 +469,10 @@ OL,20,Fregular, have special connections, or
 OL,21,Fgo through a top hotel.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,15219
+PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
@@ -495,10 +495,10 @@ OL,20,Fdozen other boys who were being abused
 OL,21,Fby men in this group.
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400
-PN,15220
+PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:10:22
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:21:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
