@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7403.14 F+6.85  Fat CLOSE
 OL,15,C techMARK100G5773.58 F+33.98 Fat CLOSE
 OL,16,C Dow Jones  G28121.68F+55.21 Fat CLOSE
 OL,17,C Nasdaq     G8385.75 F+13.82 Fat CLOSE
-OL,18,C Nikkei     G23462.46F+89.14 Fat 00:25
+OL,18,C Nikkei     G23456.18F+82.86 Fat 01:30
 OL,19,C DJEurStoxx G3705.55 A-2.13  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,7 +83,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G        Wednesday Evening            
@@ -96,23 +96,23 @@ OL,7,           ^ZV ~ow1  F
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 06V} B              
 OL,10,       ^ZUp|t VxRg0 BHeavy Rain   
-OL,11,       ZUnG07UtV+"RG07R  B            
+OL,11,       ZUnG08UtV+"RG07R  B            
 OL,12,       ZU+R`4R+|0             
-OL,13,        ZU+%*o!R" V *u  B          
-OL,14,B            ^ZS`  V*G 09V} B          
-OL,15,ECloudy      ^ZSk|R            
-OL,16,E            ^ZS'oG 08U}zt B       
+OL,13,        ZU+%*o!R" R *u  B          
+OL,14,B            ^ZS`  R*G 08R} B          
+OL,15,B            ^ZSk|R            
+OL,16,B            ^ZS'oG 08U}zt B       
 OL,17,CSome Cloud    ZSj^RG 08U B       
 OL,18,C            ZSx|^G 08U'         
 OL,19,             ^ZS! +/'iUqp0        
-OL,20,B            ^ZV  tG 08U/!        
-OL,21,B            ZV zG09V^/s/U/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,20,ECloudy      ^ZU  tG 08U/!        
+OL,21,E            ZU zG09U^/s/U/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Thursday                
@@ -133,15 +133,15 @@ OL,15,B            ^ZVk|R
 OL,16,B            ^ZV'oG 08R}zt B       
 OL,17,B              ZVj^RG 09R B       
 OL,18,B            ZVx|^G 11R'         
-OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 10R/!        
-OL,21,B            ZV zG11V^/s/R/? B         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 10V/!        
+OL,21,B            ZV zG11V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -188,7 +188,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -239,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -265,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -291,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -343,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -369,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -394,33 +394,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNigerian prison chief arrested after
-OL,5,C$1m scam
-OL,6, The head of a maximum-security jail and
-OL,7, a prison doctor have been arrested in
-OL,8, Nigeria, following allegations that
-OL,9, they enabled a prisoner to conduct
-OL,10, internet scams. 
-OL,12,FHope Olusegun Aroke carried out a
-OL,13,Fmillion-dollar fraud while serving a
-OL,14,F24-year jail sentence - for fraud. 
-OL,16,FHe had access to a mobile phone and the
-OL,17,Finternet.  
-OL,19,FHe was originally arrested in 2012 and
-OL,20,Fconvicted of obtaining money
-OL,21,Funder false pretences and forgery. 
+OL,4,CBolivia appoints first US ambassador in
+OL,5,C11 years
+OL,6, Bolivia's interim leader has appointed
+OL,7, the country's first US ambassador in 11
+OL,8, years, after vowing to overturn many of
+OL,9, ex-President Evo Morales' policies.
+OL,11,FThe new ambassador, Walter Oscar
+OL,12,FSerrate Cuellar, used to be the
+OL,13,Fcountry's representative to the UN.
+OL,15,FMr Morales, a socialist who led Bolivia
+OL,16,Ffor almost 14 years and was its first
+OL,17,Findigenous president, resigned on 10
+OL,18,FNovember and fled to Mexico.
+OL,20,FHe stepped down after a disputed
+OL,21,Fpresidential election last month.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -446,7 +446,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -472,7 +472,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
@@ -498,7 +498,7 @@ OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C01:39:42
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C02:39:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
