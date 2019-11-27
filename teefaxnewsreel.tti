@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -23,7 +23,8 @@ OL,14,GSNP vote 'will send clear message  C108
 OL,15,Gon indyref2'                           
 OL,16,GRescuers scramble to find Albania  C109
 OL,17,Gquake survivors                        
-OL,18,GTV chef Gary Rhodes dies aged 59   C110
+OL,18,GTata Steel to cut 1,000 jobs acrossC110
+OL,19,Gthe UK                                 
 OL,20,GTrump invited to impeachment       C111
 OL,21,Ghearing                                
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -31,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -52,14 +53,14 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF71GLosersA30
 OL,14,C FTSE100    G7429.78 F+26.64 Fat CLOSE
 OL,15,C techMARK100G5778.70 F+5.12  Fat CLOSE
-OL,16,C Dow Jones  G28127.25F+5.57  Fat 16:25
-OL,17,C Nasdaq     G8437.07 F+51.33 Fat 16:25
+OL,16,C Dow Jones  G28169.96F+48.28 Fat 17:35
+OL,17,C Nasdaq     G8435.54 F+49.80 Fat 17:35
 OL,18,C Nikkei     G23437.77F+6,444.Fat 07:45
 OL,19,C DJEurStoxx G3712.85 F+7.30  Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -70,55 +71,54 @@ OL,6,F'Pep Guardiola's team need their   G304
 OL,7,FRobert Moreno was 'disloyal', says G305
 OL,8,FManchester United teenager on his  G306
 OL,9,FWhy has the Swedish striker        G307
-OL,10,FJurgen Klopp expects tough         G308
-OL,12,FLionel Messi set for 700th Barca   G309
-OL,13,FDick Advocaat recalls 'most        G310
-OL,14,FFormer Tottenham defender leaves   G311
-OL,15,FJoao Felix named best under-21     G312
-OL,17,FJurgen Klinsmann named Hertha      G313
+OL,10,FDick Advocaat recalls 'most        G308
+OL,12,FFormer Tottenham defender leaves   G309
+OL,13,FJurgen Klinsmann named Hertha      G310
+OL,14,FAnkle injury rules out defender    G311
+OL,15,FDaniel Stendel latest to have      G312
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G              Today                  
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G09R%  B               
-OL,4,           RZj**gppp B               
+OL,1,T]G           This Evening              
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G06V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G10V!FMisty          
+OL,6,            ZV!'~G06V!FLight Rain     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 08V} B              
-OL,10,       ^ZUp|t VxRg0 BHeavy Rain   
-OL,11,       ZUnG10UtV+"RG08R  B            
-OL,12,       ZU+R`4R+|0             
-OL,13,        ZU+%*o!R" R *u  B          
+OL,8,B          ^ZR*y?sp  BHeavy Rain    
+OL,9,           ^ZRj)"G 06R}  B             
+OL,10,       ^ZVp|t RxRg0 B             
+OL,11,       ZVnG08VtR+"RG07R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  B          
 OL,14,B            ^ZU`  R*G 09R} B          
-OL,15,CLight Rain  ^ZUk|U            
-OL,16,C            ^ZU'oG 09S}zt B       
-OL,17,B              ZUj^UG 10S B       
-OL,18,B            ZUx|^G 11S'         
-OL,19,             ^ZU! +/'iSqp0        
-OL,20,ECloudy      ^ZU  tG 12S/!        
-OL,21,E            ZU zG11U^/s/S/? B         
+OL,15,B            ^ZUk|V            
+OL,16,B            ^ZU'oG 07U}zt B       
+OL,17,B              ZUj^VG 08U B       
+OL,18,B            ZUx|^G 08U'         
+OL,19,             ^ZU! +/'iUqp0        
+OL,20,ECloudy      ^ZU  tG 08U/!        
+OL,21,E            ZU zG09U^/s/U/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G07U%  B               
-OL,4,           UZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G07V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G07V!FSome Cloud     
+OL,6,            ZV!'~G07V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 07V} B              
@@ -126,20 +126,20 @@ OL,10,       ^ZRp|t VxRg0 BLight Rain
 OL,11,       ZRnG09RtV+"RG08R  B            
 OL,12,       ZR+R`4R+|0             
 OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZU`  R*G 09R} B          
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 09R}zt B       
-OL,17,B              ZUj^RG 09R B       
-OL,18,B            ZUx|^G 10R'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,B            ^ZU  tG 10U/!        
-OL,21,B            ZU zG11U^/s/U/? ECloudy   
-OL,22,            ZU8?' "'    "     E        
+OL,14,B            ^ZV`  R*G 09R} B          
+OL,15,EHeavy Rain  ^ZVk|R            
+OL,16,E            ^ZV'oG 09U}zt B       
+OL,17,B              ZVj^RG 09U B       
+OL,18,B            ZVx|^G 10U'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 10V/!        
+OL,21,B            ZV zG11V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -186,7 +186,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -212,7 +212,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -228,7 +228,7 @@ OL,11,Fdossier showing initial talks had taken
 OL,12,Fplace, proving the NHS was "for sale".
 OL,14,FBut Prime Minister Boris Johnson said
 OL,15,Fthe claims were "nonsense" and the NHS
-OL,16,Fwould not be part of formal talks.
+OL,16,Fwould not be part of trade talks.
 OL,18,FThe Tory manifesto explicitly states
 OL,19,Fneither the price paid for drugs nor
 OL,20,FNHS services will be "on the table".
@@ -237,7 +237,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -263,7 +263,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -289,7 +289,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -315,32 +315,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTV chef Gary Rhodes dies aged 59
-OL,5, Gary Rhodes, the celebrity chef known
-OL,6, for his spiky hair and passion for
-OL,7, British cuisine, has died aged 59.
-OL,9,FAccording to a family statement, he
-OL,10,Fdied on Tuesday "with his beloved wife
-OL,11,FJennie by his side".
-OL,13,F"The Rhodes family are deeply saddened
-OL,14,Fto announce the passing of beloved
-OL,15,Fhusband, father and brother, Gary
-OL,16,FRhodes OBE," the statement read.
-OL,18,F"The family would like to thank
-OL,19,Feveryone for their support and ask for
-OL,20,Fprivacy during this time."
+OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
+OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
+OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
+OL,4,CTata Steel to cut 1,000 jobs across the
+OL,5,CUK
+OL,6, Tata Steel has announced it expects to
+OL,7, cut 1,000 jobs across the UK as part of
+OL,8, the company's restructuring plans.
+OL,10,FTwo thirds of the job losses will be
+OL,11,Fmanagement and office-based roles, Tata
+OL,12,Fsaid.
+OL,14,F1,600 positions are also set to go in
+OL,15,Fthe Netherlands, with 350 others
+OL,16,Felsewhere in the world.
+OL,18,FTata Steel's Europe CEO, Henrik Adam,
+OL,19,Fsaid the company "cannot afford to
+OL,20,Fstand still" as "the world around us is
+OL,21,Fchanging fast and we have to adapt".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -365,33 +366,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoy, 14, 'killed by rival gang in
-OL,5,Cfrenzied attack'
-OL,6, A 14-year-old boy was knocked off a
-OL,7, moped and then stabbed to death by a
-OL,8, rival gang in a "violent and frenzied"
-OL,9, attack, a court has heard.
-OL,11,FJaden Moodie was allegedly dealing
-OL,12,Fdrugs for a gang when he was targeted
-OL,13,Fby a group of five men on 8 January.
-OL,15,FAyoub Majdouline was in a stolen
-OL,16,FMercedes which was driven at the
-OL,17,Fvictim, causing him to be "catapulted"
-OL,18,Fover the bonnet, the Old Bailey heard.
-OL,20,FThe 19-year-old, of London, denies
-OL,21,Fmurder and possession of a knife.
+OL,4,CTV chef Gary Rhodes dies aged 59
+OL,5, Gary Rhodes, the celebrity chef known
+OL,6, for his spiky hair and passion for
+OL,7, British cuisine, has died aged 59.
+OL,9,FAccording to a family statement, he
+OL,10,Fdied on Tuesday "with his beloved wife
+OL,11,FJennie by his side".
+OL,13,F"The Rhodes family are deeply saddened
+OL,14,Fto announce the passing of beloved
+OL,15,Fhusband, father and brother, Gary
+OL,16,FRhodes OBE," the statement read.
+OL,18,F"The family would like to thank
+OL,19,Feveryone for their support and ask for
+OL,20,Fprivacy during this time."
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,33 +417,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTheatre director Sir Jonathan Miller
-OL,5,Cdies aged 85
-OL,6, Sir Jonathan Miller, the distinguished
-OL,7, theatre and opera director who famously
-OL,8, starred in the Beyond the Fringe
-OL,9, satirical revue, has died aged 85.
-OL,11,FIn a statement, his family said he had
-OL,12,Fdied "peacefully at home... following a
-OL,13,Flong battle with Alzheimer's".
-OL,15,FA man of many parts, Miller was also an
-OL,16,Fauthor, a photographer, a sculptor, a
-OL,17,Fbroadcaster and a qualified doctor.
-OL,19,FBorn in London in 1934, Miller studied
-OL,20,Fmedicine at Cambridge before embarking
-OL,21,Fon a career in the arts.
+OL,4,CBoy, 14, 'killed by rival gang in
+OL,5,Cfrenzied attack'
+OL,6, A 14-year-old boy was knocked off a
+OL,7, moped and then stabbed to death by a
+OL,8, rival gang in a "violent and frenzied"
+OL,9, attack, a court has heard.
+OL,11,FJaden Moodie was allegedly dealing
+OL,12,Fdrugs for a gang when he was targeted
+OL,13,Fby a group of five men on 8 January.
+OL,15,FAyoub Majdouline was in a stolen
+OL,16,FMercedes which was driven at Jaden,
+OL,17,Fcausing him to be "catapulted" over the
+OL,18,Fbonnet, the Old Bailey heard.
+OL,20,FMr Majdouline, 19 and of London, denies
+OL,21,Fmurder and possession of a knife.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -469,52 +469,52 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,COpen door on 80mph train 'due to loose
-OL,5,Cscrews'
-OL,6, Loose screws were to blame for a door
-OL,7, being open on a passenger train going
-OL,8, at 80mph (128km/h), a report found.
-OL,10,FThe train travelled 16 miles through
-OL,11,FEssex once the screws fell out, before
-OL,12,Fa passenger alerted the driver.
-OL,14,FA Rail Accident Investigation Board
-OL,15,F(RAIB) report said operator Greater
-OL,16,FAnglia had since found loose screws on
-OL,17,F"at least 60 doorways" in its fleet of
-OL,18,Frefurbished class 321 carriages.
-OL,20,FThe company said it had improved safety
-OL,21,Fprocedures and brought in extra checks.
+OL,4,CTheatre director Sir Jonathan Miller
+OL,5,Cdies aged 85
+OL,6, Sir Jonathan Miller, the distinguished
+OL,7, theatre and opera director who famously
+OL,8, starred in the Beyond the Fringe
+OL,9, satirical revue, has died aged 85.
+OL,11,FIn a statement, his family said he had
+OL,12,Fdied "peacefully at home... following a
+OL,13,Flong battle with Alzheimer's".
+OL,15,FA man of many parts, Miller was also an
+OL,16,Fauthor, a photographer, a sculptor, a
+OL,17,Fbroadcaster and a qualified doctor.
+OL,19,FBorn in London in 1934, Miller studied
+OL,20,Fmedicine at Cambridge before embarking
+OL,21,Fon a career in the arts.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E27/11C17:44:38
+OL,0,XXXXXXXXBNMPSERVER2      E27/11C18:46:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUS to designate Mexican drug cartels as
-OL,5,Cterrorists
-OL,6, The US will legally designate Mexican
-OL,7, drug cartels as terrorist groups,
-OL,8, President Donald Trump says.
-OL,10,FThe move would enable a wider scope of
-OL,11,FUS action. Mr Trump also said he had
-OL,12,Ftold Mexico the US was ready to "go in
-OL,13,Fand clear out" the cartels.
-OL,15,FIn response Mexico's foreign minister
-OL,16,Fsaid his country would not allow any
-OL,17,F"violation of national sovereignty".
-OL,19,FEarlier this month Mr Trump vowed to
-OL,20,F"wage war on the drug cartels" after a
-OL,21,Fdeadly attack on US citizens in Mexico.
+OL,4,CGerman murderer wins 'right to be
+OL,5,Cforgotten'
+OL,6, A German man convicted of murder in
+OL,7, 1982 has the right to have his name
+OL,8, removed from online search results,
+OL,9, Germany's highest court has ruled. 
+OL,11,FThe constitutional court in Karlsruhe
+OL,12,Fruled in favour of the man, who was
+OL,13,Fhanded a life sentence for murdering
+OL,14,Ftwo people on a yacht in 1982.
+OL,16,FHe was released from jail in 2002 and
+OL,17,Fsays he wants his family name to be
+OL,18,Fdistanced from his crime.
+OL,20,FThe ruling could force publications to
+OL,21,Frestrict access to online archives.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
