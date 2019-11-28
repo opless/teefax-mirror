@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -21,8 +21,8 @@ OL,12,GTurkey accuses Macron of sponsoringC107
 OL,13,Gterrorism                              
 OL,14,GTory and Labour spending plans 'notC108
 OL,15,Gcredible' - IFS                        
-OL,16,GEscalating Iraq protests leave 30  C109
-OL,17,Gdead                                   
+OL,16,GEscalating Iraq protests leave     C109
+OL,17,Gdozens dead                            
 OL,18,GBoys admit threatening women who   C110
 OL,19,Grefused to kiss                        
 OL,20,GZimbabwe 'on brink of man-made     C111
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,28 +60,29 @@ OL,19,C DJEurStoxx G3704.48 A-8.37  Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MSolskjaer says youngsters          G303
-OL,6,FPremier league side progress after G304
-OL,7,FAlfredo Morelos heads side closer  G305
-OL,8,FIs Bayern Munich striker on course G306
-OL,9,FGranit Xhaka returns after         G307
-OL,10,F'I gave the best of me' - former   G308
-OL,12,FRobert Moreno unclear why          G309
-OL,13,FBBC to broadcast every match live  G310
-OL,14,FNuno Espirito Santo is a potential G311
-OL,15,FTottenham ball boy says Jose       G312
+OL,4,MKamada double adds to Unai Emery   G303
+OL,6,FSolskjaer says youngsters          G304
+OL,7,FPremier league side progress after G305
+OL,8,FNeil Lennon's side top group with  G306
+OL,9,FAlfredo Morelos heads side closer  G307
+OL,10,FIs Bayern Munich striker on course G308
+OL,12,F'I gave the best of me' - former   G309
+OL,13,FRobert Moreno unclear why          G310
+OL,14,FBBC to broadcast every match live  G311
+OL,15,FNuno Espirito Santo is a potential G312
+OL,17,FTottenham ball boy says Jose       G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -91,26 +92,26 @@ OL,4,           RZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G02V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZU*y?sp  EClear         
-OL,9,           ^ZUj)"G 02U}  E             
-OL,10,       ^ZVp|t UxVg0 B             
-OL,11,       ZVnG04VtU+"VG02V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 04V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 02V}zt B       
-OL,17,B              ZRj^VG 03V B       
-OL,18,B            ZRx|^G 05V'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 05R/!        
-OL,21,B            ZR zG07R^/s/R/? BCloudy   
-OL,22,            ZR8?' "'    "     B        
+OL,8,B          ^ZS*y?sp  CClear         
+OL,9,           ^ZSj)"G 01S}  C             
+OL,10,       ^ZVp|t SxUg0 B             
+OL,11,       ZVnG03VtS+"UG02U B             
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" V *u  B          
+OL,14,B            ^ZU`  V*G 04V} B          
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 01V}zt BCloudy 
+OL,17,ELight Rain    ZUj^RG 04V  B      
+OL,18,E            ZUx|^G 05V'         
+OL,19,             ^ZU! +/'iRqp0        
+OL,20,B            ^ZR  tG 04R/!        
+OL,21,B            ZR zG07R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -122,14 +123,14 @@ OL,6,            ZV!'~G04V!FSome Cloud
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BSunny         
 OL,9,           ^ZRj)"G 04R}  B             
-OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG07VtR+"VG05V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
+OL,10,       ^ZVp|t RxRg0 B             
+OL,11,       ZVnG06VtR+"RG04R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZR`  V*G 06V} B          
-OL,15,B            ^ZRk|R            
+OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^RG 07R B       
+OL,17,B              ZRj^VG 07R B       
 OL,18,B            ZRx|^G 07R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,ECloudy      ^ZU  tG 07R/!        
@@ -139,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -186,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -212,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -238,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -263,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -289,32 +290,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CEscalating Iraq protests leave 30 dead
-OL,5, More than 30 people have been killed in
-OL,6, Iraq on one of the bloodiest days since
-OL,7, anti-government protests began last
-OL,8, month, medics and officials say.
-OL,10,FAt least 25 people died when security
-OL,11,Fforces opened fire to clear bridges in
-OL,12,Fthe southern city of Nasiriya.
-OL,14,FAnother four protesters died in Baghdad
-OL,15,Fand four more in the city of Najaf,
-OL,16,Fwhere Iran's consulate was also burnt.
-OL,18,FIraqis have been taking to the streets
-OL,19,Fto demand more jobs, an end to
-OL,20,Fcorruption and better public services.
+OL,4,CEscalating Iraq protests leave dozens
+OL,5,Cdead
+OL,6, Nearly 40 people have been killed in
+OL,7, Iraq on one of the bloodiest days since
+OL,8, anti-government protests began last
+OL,9, month, medics and officials say.
+OL,11,FAt least 25 people died when security
+OL,12,Fforces opened fire to clear bridges in
+OL,13,Fthe southern city of Nasiriya.
+OL,15,FAnother four protesters died in Baghdad
+OL,16,Fand 10 more in the city of Najaf, where
+OL,17,FIran's consulate was also burnt.
+OL,19,FIraqis have been taking to the streets
+OL,20,Fto demand more jobs, an end to
+OL,21,Fcorruption and better public services.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,7 +342,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,7 +368,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -391,7 +393,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,7 +419,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -443,7 +445,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -469,7 +471,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -495,7 +497,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C21:34:21
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C22:34:43
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
