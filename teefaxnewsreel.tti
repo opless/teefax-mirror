@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -24,14 +24,14 @@ OL,16,GUS envoy to EU accused of sexual   C109
 OL,17,Gmisconduct                             
 OL,18,GViolence during consensual sex     C110
 OL,19,G'normalised'                           
-OL,20,GImmunotherapy hope for advanced    C111
-OL,21,Gprostate cancer                        
+OL,20,GMadonna cancels shows amid         C111
+OL,21,G'overwhelming pain'                    
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -49,17 +49,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 10:25GWinnersF35GLosersA66
-OL,14,C FTSE100    G7398.17 A-31.61 Fat 10:25
-OL,15,C techMARK100G5781.41 F+2.71  Fat 10:25
+OL,12,  FTSE100Fat 11:25GWinnersF37GLosersA64
+OL,14,C FTSE100    G7404.60 A-25.18 Fat 11:25
+OL,15,C techMARK100G5777.52 A-1.18  Fat 11:25
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
 OL,18,C Nikkei     G23409.14A-2,862.Fat 07:44
-OL,19,C DJEurStoxx G3704.81 A-8.04  Fat 10:30
+OL,19,C DJEurStoxx G3705.22 A-7.63  Fat 11:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -70,55 +70,54 @@ OL,6,FBBC to broadcast every match live  G304
 OL,7,FNuno Espirito Santo is a potential G305
 OL,8,FLiverpool boss Jurgen Klopp did    G306
 OL,9,FWhat Liverpool and Chelsea need to G307
-OL,10,FDefending champions must wait on   G308
-OL,12,FChelsea draw at Valencia in        G309
-OL,13,FBaggies win to return to top of    G310
-OL,14,FMessi inspires on 700th club       G311
-OL,15,FTigers ease to comfortable win     G312
+OL,10,FSolskjaer's young squad 'not       G308
+OL,12,FRyan Bennett remains out for       G309
+OL,13,FCeltic v Rennes - team news,       G310
+OL,14,FGranit Xhaka could make return     G311
+OL,15,FManchester City's parent company   G312
 OL,17,FFive ties to look out for this     G313
 OL,18,FWhich clubs have won the most      G314
-OL,19,FSwedish striker's new bronze       G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G07R%  B               
-OL,4,           RZj**gppp B               
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G06U!ESome Cloud     
-OL,7,           ^ZU ~ow1  E              
-OL,8,B          ^ZS*y?sp  CSunny         
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G07V%  B               
+OL,4,           VZj**gppp B               
+OL,5,           ^ZV({5                
+OL,6,            ZV!'~G06V!FCloudy         
+OL,7,           ^ZV ~ow1  F              
+OL,8,B          ^ZS*y?sp  CSome Cloud    
 OL,9,           ^ZSj)"G 07S}  C             
-OL,10,       ^ZVp|t SxVg0 FLight Rain   
-OL,11,       ZVnG09VtS+"VG07V  F            
+OL,10,       ^ZVp|t SxVg0 B             
+OL,11,       ZVnG09VtS+"VG07V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 09V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 09V}zt B       
-OL,17,B              ZRj^VG 09V B       
-OL,18,B            ZRx|^G 11V'         
-OL,19,             ^ZR! +/'iTqp0        
-OL,20,BCloudy      ^ZR  tG 10T/!        
-OL,21,B            ZR zG11R^/s/T/? DOvercast 
-OL,22,            ZR8?' "'    "     D        
+OL,13,        ZV+%*o!V" R *u  BLight Rain
+OL,14,B            ^ZV`  R*G 09R}  B         
+OL,15,EOvercast    ^ZVk|R            
+OL,16,E            ^ZV'oG 09U}zt B       
+OL,17,B              ZVj^RG 09U B       
+OL,18,B            ZVx|^G 11U'         
+OL,19,             ^ZV! +/'iUqp0        
+OL,20,B            ^ZR  tG 10U/!        
+OL,21,B            ZR zG11R^/s/U/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G05V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G05R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
@@ -135,13 +134,13 @@ OL,17,B              ZRj^VG 07R B
 OL,18,B            ZRx|^G 07R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,ECloudy      ^ZU  tG 07R/!        
-OL,21,E            ZU zG08U^/s/R/? B         
+OL,21,E            ZU zG09U^/s/R/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -188,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -214,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -222,25 +221,25 @@ OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CEU net migration to UK at lowest for 16
 OL,5,Cyears
-OL,6, The overall number of EU citizens
-OL,7, moving to the UK has fallen to its
-OL,8, lowest level for 16 years, while the
-OL,9, UK's net migration rate remains more
-OL,10, than 200,000, ONS figures show.
-OL,12,FNet migration - the difference between
-OL,13,Fhow many people came to the UK for at
-OL,14,Fleast 12 months and how many left - was
-OL,15,F212,000 in the year to the end of June.
-OL,17,FEU net migration dropped to 48,000 -
-OL,18,Fits lowest level since 2003.
-OL,20,FThe ONS says this was down to fewer
-OL,21,Fpeople coming to Britain for work.
+OL,6, EU net migration to the UK has fallen
+OL,7, to its lowest level for 16 years, ONS
+OL,8, figures show.
+OL,10,FThe difference between how many people
+OL,11,Fcame to the UK for at least 12 months
+OL,12,Fand how many people left dropped to
+OL,13,F48,000 - its lowest level since 2003.
+OL,15,FThe ONS says this was down to fewer
+OL,16,Fpeople coming to Britain for work,
+OL,17,Fwhile a record high returned home.
+OL,19,FIn the year to June, overall net
+OL,20,Fmigration from both EU and non-EU
+OL,21,Fcountries was 212,000.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -265,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -291,7 +290,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,7 +316,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -343,33 +342,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CImmunotherapy hope for advanced
-OL,5,Cprostate cancer
-OL,6, A major trial of an immunotherapy drug
-OL,7, has shown it can be effective in some
-OL,8, men with advanced prostate cancer.
-OL,10,FThe men had stopped responding to the
-OL,11,Fmain treatment options. 
-OL,13,FResearchers found that a small
-OL,14,Fproportion of men, described as "super
-OL,15,Fresponders", remained well even after
-OL,16,Fthe trial ended, despite a very poor
-OL,17,Fprognosis before treatment. 
-OL,19,FLast week it was reported the same drug
-OL,20,Fhad proved effective in treating
-OL,21,Fadvanced head and neck cancers. 
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CMadonna cancels shows amid
+OL,5,C'overwhelming pain'
+OL,6, Madonna has cancelled three dates of
+OL,7, her Madame X tour dates in Boston,
+OL,8, saying she was experiencing
+OL,9, "overwhelming" pain.
+OL,11,F"Please forgive this unexpected turn of
+OL,12,Fevents," she told fans on Facebook. 
+OL,14,F"Doing my show every night brings me so
+OL,15,Fmuch joy and to cancel is a kind of
+OL,16,Fpunishment... But the pain I'm in right
+OL,17,Fnow is overwhelming, and I must rest
+OL,18,Fand follow doctor's orders."
+OL,20,FThe star did not specify the cause of
+OL,21,Fher injury.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -393,7 +392,110 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CEU net migration to UK at lowest for 16
+OL,5,Cyears
+OL,6, EU net migration to the UK has fallen
+OL,7, to its lowest level for 16 years, ONS
+OL,8, figures show.
+OL,10,FThe difference between how many people
+OL,11,Fcame to the UK for at least 12 months
+OL,12,Fand how many people left dropped to
+OL,13,F48,000 - its lowest level since 2003.
+OL,15,FThe ONS says this was down to fewer
+OL,16,Fpeople coming to Britain for work,
+OL,17,Fwhile a record high returned home.
+OL,19,FIn the year to June, overall net
+OL,20,Fmigration from both EU and non-EU
+OL,21,Fcountries was 212,000.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40517
+SC,0017
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
+OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
+OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
+OL,4,CBoys to be admitted to last all-girl
+OL,5,Cstate school
+OL,6, The last state all-girls school in
+OL,7, Scotland is to admit boys for the first
+OL,8, time in 2021.
+OL,10,FCouncillors voted unanimously to allow
+OL,11,Fboys to attend Notre Dame High School
+OL,12,Fin Glasgow, which has taught only girls
+OL,13,Fsince its opening in 1897.
+OL,15,FIt follows fierce debate among parents
+OL,16,Fand a lengthy consultation about the
+OL,17,Fschool's future.
+OL,19,FEducation officers recommended making
+OL,20,Fthe school "co-educational" after a
+OL,21,Fvote at Glasgow City Council.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40518
+SC,0018
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
+OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
+OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
+OL,4,CImmunotherapy hope for advanced
+OL,5,Cprostate cancer
+OL,6, A major trial of an immunotherapy drug
+OL,7, has shown it can be effective in some
+OL,8, men with advanced prostate cancer.
+OL,10,FThe men had stopped responding to the
+OL,11,Fmain treatment options. 
+OL,13,FResearchers found that a small
+OL,14,Fproportion of men, described as "super
+OL,15,Fresponders", remained well even after
+OL,16,Fthe trial ended, despite a very poor
+OL,17,Fprognosis before treatment. 
+OL,19,FLast week it was reported the same drug
+OL,20,Fhad proved effective in treating
+OL,21,Fadvanced head and neck cancers. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CVue boss plans to rescreen banned film
+OL,5, The boss of a cinema chain that banned
+OL,6, a London gang film after a mass brawl
+OL,7, in Birmingham has told the BBC he plans
+OL,8, to resume screenings by the weekend. 
+OL,10,FVue banned Blue Story after saying
+OL,11,Fthere had been 25 serious incidents in
+OL,12,F16 of its cinemas. 
+OL,14,FBut its chief executive, Tim Richards,
+OL,15,Fsaid it was now looking at "beefing up
+OL,16,Fsecurity" to restart screenings.
+OL,18,FIt comes after Blue Story's director,
+OL,19,FRapman, questioned whether there were
+OL,20,F"hidden reasons" for the ban.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40520
+SC,0020
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -414,108 +516,5 @@ OL,17,Ffirst made the same comment in May.
 OL,19,FShe is accused of involvement in a 2008
 OL,20,Fblast that killed six people and
 OL,21,Finjured 100 others.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40517
-SC,0017
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,C'Dystopian' Christmas decorations
-OL,5,Cridiculed
-OL,6, A display of four illuminated Christmas
-OL,7, presents has been ridiculed online and
-OL,8, described as an embarrassing waste of
-OL,9, money.
-OL,11,FDerby City Council spent #112,000 on
-OL,12,Fthe replacement for the ice skating
-OL,13,Frink it had in previous years.
-OL,15,FPeople on social media described the
-OL,16,Fnew feature as a "disappointment",
-OL,17,F"ridiculous", and "dystopian".
-OL,19,FThe council said it was embracing a
-OL,20,F"brand new concept" that could be
-OL,21,Fadapted year by year.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40518
-SC,0018
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CVlogger reignites Chinese domestic
-OL,5,Cviolence debate
-OL,6, A Chinese beauty vlogger's claims of
-OL,7, suffering domestic violence have
-OL,8, reignited conversations about whether
-OL,9, enough is being done to help victims.
-OL,11,FHe Yuhong, who goes by the online name
-OL,12,F"Yuyamika", is known for transforming
-OL,13,Fherself into celebrities, including
-OL,14,FJohn Lennon and Taylor Swift.
-OL,16,FOn Monday, she released a video on her
-OL,17,FSina Weibo account on the United
-OL,18,FNations' International Day for the
-OL,19,FElimination of Violence Against Women. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40519
-SC,0019
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBags for life 'adding to rising plastic
-OL,5,Cwaste'
-OL,6, Sales of "bags for life" rose to 1.5bn
-OL,7, last year as the amount of plastic used
-OL,8, by supermarkets increased to 900,000
-OL,9, tonnes, Greenpeace research has found.
-OL,11,FCampaigners are calling for higher
-OL,12,Fcharges for the bags or a complete ban
-OL,13,Fas the research showed households
-OL,14,Fbought an average of 54 a year.
-OL,16,FIn 2016, there were 2bn single-use bags
-OL,17,Fsold. Bags for life must be used four
-OL,18,Ftimes to be better for the environment.
-OL,20,FRetailers say they have reduced plastic
-OL,21,Fpackaging for their own-brand products.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40520
-SC,0020
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CVolunteer firefighters 'did not start
-OL,5,CAmazon fires'
-OL,6, A Brazilian NGO based in the Amazon has
-OL,7, denied that four volunteer firefighters
-OL,8, arrested by police had intentionally
-OL,9, started fires in the rainforest.
-OL,11,FThe men were part of the Alter do Chão
-OL,12,Fbrigade, which helped battle huge fires
-OL,13,Fthis year in the northern Para state.
-OL,15,FThey were arrested after police raided
-OL,16,Fthe offices of Projeto Saúde e Alegria
-OL,17,F(PSA), or Health and Happiness Project,
-OL,18,Fwhich has links to the brigade.
-OL,20,FRights groups and critics claimed the
-OL,21,Foperation was politically motivated.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
