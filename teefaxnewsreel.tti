@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -13,15 +13,15 @@ OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MHillsborough police chief cleared  C104
 OL,6,Gof manslaughter                        
-OL,8,GTurkey accuses Macron of sponsoringC105
-OL,9,Gterrorism                              
+OL,8,GTrump makes first Afghan trip for  C105
+OL,9,GThanksgiving                           
 OL,10,GPM refuses to confirm Andrew Neil  C106
 OL,11,Ginterview                              
-OL,12,GTrump makes unannounced visit to   C107
-OL,13,GAfghanistan                            
+OL,12,GTurkey accuses Macron of sponsoringC107
+OL,13,Gterrorism                              
 OL,14,GTory and Labour spending plans 'notC108
 OL,15,Gcredible' - IFS                        
-OL,16,GEscalating Iraq protests leave 27  C109
+OL,16,GEscalating Iraq protests leave 30  C109
 OL,17,Gdead                                   
 OL,18,GBoys admit threatening women who   C110
 OL,19,Grefused to kiss                        
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,85 +60,87 @@ OL,19,C DJEurStoxx G3704.48 A-8.37  Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MSolskjaer's youngsters suffer      G303
-OL,6,FGranit Xhaka returns after         G304
-OL,7,F'I gave the best of me' - former   G305
-OL,8,FKlopp faces wait over fitness of   G306
-OL,9,FBBC to broadcast every match live  G307
-OL,10,FNuno Espirito Santo is a potential G308
-OL,12,FLiverpool boss Jurgen Klopp did    G309
-OL,13,FTottenham ball boy says Jose       G310
-OL,14,F'I don't talk about future' -      G311
+OL,4,MSolskjaer says youngsters          G303
+OL,6,FPremier league side progress after G304
+OL,7,FAlfredo Morelos heads side closer  G305
+OL,8,FGranit Xhaka returns after         G306
+OL,9,F'I gave the best of me' - former   G307
+OL,10,FRobert Moreno unclear why          G308
+OL,12,FKlopp faces wait over fitness of   G309
+OL,13,FBBC to broadcast every match live  G310
+OL,14,FNuno Espirito Santo is a potential G311
+OL,15,FLiverpool boss Jurgen Klopp did    G312
+OL,17,FTottenham ball boy says Jose       G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G03V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G02R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G02V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZS*y?sp  CClear         
 OL,9,           ^ZSj)"G 02S}  C             
-OL,10,       ^ZVp|t SxRg0 B             
-OL,11,       ZVnG04VtS+"RG02R B             
+OL,10,       ^ZVp|t SxRg0 BCloudy       
+OL,11,       ZVnG04VtS+"RG02R  B            
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZU`  V*G 04V} B          
 OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 02V}zt B       
-OL,17,ELight Rain    ZUj^VG 03V B       
-OL,18,E            ZUx|^G 05V'         
+OL,16,B            ^ZU'oG 02U}zt B       
+OL,17,B              ZUj^VG 03U B       
+OL,18,B            ZUx|^G 05U'         
 OL,19,             ^ZU! +/'iUqp0        
-OL,20,BCloudy      ^ZR  tG 05U/!        
-OL,21,B            ZR zG07R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,20,ELight Rain  ^ZU  tG 05U/!        
+OL,21,E            ZU zG07U^/s/U/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G05R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G05V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G04V!FCloudy         
+OL,6,            ZV!'~G04V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZU*y?sp  B              
-OL,9,           ^ZUj)"G 04U} B              
-OL,10,       ^ZRp|t UxVg0 B             
-OL,11,       ZRnG07RtU+"VG05V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZU`  V*G 06V} B          
-OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 05U}zt B       
-OL,17,ESunny         ZUj^VG 07U B       
-OL,18,E            ZUx|^G 07U'         
-OL,19,             ^ZU! +/'iRqp0        
-OL,20,B            ^ZV  tG 07R/!        
-OL,21,B            ZV zG09V^/s/R/?      BSome
-OL,22,            ZV8?' "'    "    BCloud    
+OL,8,B          ^ZR*y?sp  BSunny         
+OL,9,           ^ZRj)"G 04R}  B             
+OL,10,       ^ZVp|t RxVg0 B             
+OL,11,       ZVnG07VtR+"VG05V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZR`  V*G 06V} B          
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 05R}zt B       
+OL,17,B              ZRj^VG 07R B       
+OL,18,B            ZRx|^G 07R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,ECloudy      ^ZU  tG 07R/!        
+OL,21,E            ZU zG09U^/s/R/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -185,32 +187,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTurkey accuses Macron of sponsoring
-OL,5,Cterrorism
-OL,6, Turkey's foreign minister has accused
-OL,7, French President Emmanuel Macron of
-OL,8, being a "sponsor of terrorism",
-OL,9, dismissing the French leader's
-OL,10, criticism of Turkey's Syria offensive.
-OL,12,FMevlut Cavusoglu told reporters that Mr
-OL,13,FMacron wanted to be the leader of
-OL,14,FEurope but was "wobbling".
-OL,16,FLast month Mr Macron angered Turkey by
-OL,17,Fhosting an official from the
-OL,18,FKurdish-led Syrian Democratic Forces
-OL,19,F(SDF).
+OL,4,CTrump makes first Afghan trip for
+OL,5,CThanksgiving
+OL,6, US President Donald Trump has made an
+OL,7, unannounced visit to American troops in
+OL,8, Afghanistan, his first trip to the
+OL,9, country since taking office in 2017.
+OL,11,FThe visit for Thanksgiving comes a week
+OL,12,Fafter a prisoner swap with the Taliban
+OL,13,Faimed at restarting peace talks.
+OL,15,F"The Taliban wants to make a deal," Mr
+OL,16,FTrump told troops at Bagram airbase.
+OL,18,FMr Trump, who also met Afghan President
+OL,19,FAshraf Ghani, said the US was
+OL,20,F"substantially" reducing troop numbers
+OL,21,Fin Afghanistan, without giving details.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,33 +239,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTrump makes unannounced visit to
-OL,5,CAfghanistan
-OL,6, US President Donald Trump has made an
-OL,7, unannounced visit to American troops in
-OL,8, Afghanistan, his first trip to the
-OL,9, country since taking office in 2017.
-OL,11,FSpeaking to troops at Bagram Air Field,
-OL,12,FMr Trump said the US was
-OL,13,F"substantially" drawing down its troops
-OL,14,Fin Afghanistan, without giving specific
-OL,15,Fnumbers.
-OL,17,FThe visit comes a week after a prisoner
-OL,18,Fswap with the Taliban aimed at
-OL,19,Frestarting talks with the group.
-OL,21,FHe also met President Ashraf Ghani.
+OL,4,CTurkey accuses Macron of sponsoring
+OL,5,Cterrorism
+OL,6, Turkey's foreign minister has accused
+OL,7, French President Emmanuel Macron of
+OL,8, being a "sponsor of terrorism",
+OL,9, dismissing the French leader's
+OL,10, criticism of Turkey's Syria offensive.
+OL,12,FMevlut Cavusoglu told reporters that Mr
+OL,13,FMacron wanted to be the leader of
+OL,14,FEurope but was "wobbling".
+OL,16,FLast month Mr Macron angered Turkey by
+OL,17,Fhosting an official from the
+OL,18,FKurdish-led Syrian Democratic Forces
+OL,19,F(SDF).
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,22 +290,22 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CEscalating Iraq protests leave 27 dead
-OL,5, At least 27 people have been killed in
+OL,4,CEscalating Iraq protests leave 30 dead
+OL,5, More than 30 people have been killed in
 OL,6, Iraq on one of the bloodiest days since
 OL,7, anti-government protests began last
 OL,8, month, medics and officials say.
-OL,10,FAt least 20 people died when security
+OL,10,FAt least 25 people died when security
 OL,11,Fforces opened fire to clear bridges in
 OL,12,Fthe southern city of Nasiriya.
 OL,14,FAnother four protesters died in Baghdad
-OL,15,Fand three more in the city of Najaf,
+OL,15,Fand four more in the city of Najaf,
 OL,16,Fwhere Iran's consulate was also burnt.
 OL,18,FIraqis have been taking to the streets
 OL,19,Fto demand more jobs, an end to
@@ -313,7 +315,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -339,7 +341,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -365,7 +367,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -390,7 +392,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -416,7 +418,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -442,7 +444,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -455,9 +457,9 @@ OL,7, a plot to form a new Nazi party and
 OL,8, seized weapons including rifles and
 OL,9, swords in searches across the country.
 OL,11,FOfficers raided the homes of 19
-OL,12,Fsuspects. They also also found Nazi
-OL,13,Fflags and books on Hitler and Italian
-OL,14,Ffascist leader Benito Mussolini.
+OL,12,Fsuspects. They also found Nazi flags
+OL,13,Fand books on Hitler and Italian fascist
+OL,14,Fleader Benito Mussolini.
 OL,16,FThe target was the self-styled Italian
 OL,17,FNational Socialist Workers' Party. The
 OL,18,Fnumber of arrests made is not clear.
@@ -468,7 +470,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -494,7 +496,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C19:34:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C20:34:39
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
