@@ -1,6 +1,6 @@
 DE,The One Show
 DS,inserter
-SP,C:\Users\Dan\Desktop\Teefax\P410-OneShowLinks.tti
+SP,J:\peter\teefax\P410-OneShowLinks.tti
 PN,41001
 SC,0001
 PS,8000
@@ -89,16 +89,24 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
-OL,1,New subpage inserted 4/4                
-OL,3, These pages are a placeholder for      
-OL,4, The One Show.                          
-OL,6, This carousel will probably be a       
-OL,7, full screen One Show logo and some     
-OL,8, information pages.                     
-OL,10, 411 is a gallery of selected art       
-OL,12, 412 will be for art contributions      
-OL,13, created by One Show viewers.           
-OL,23,                                    C4/7
+OL,1,Vh<,,,,,,|F`````````````````````````````
+OL,2,Vj5k7j5 Sj5 j7ju>jwsCENTERTAINMENT  
+OL,3,Vj5j5"m' S*-$/*%/*%/(,/C               
+OL,4,V*-,,,,,,/F ``````````````````````G 4/7 
+OL,6,FTeletext also had its own soap called  
+OL,7,FPark Lane, and comics such as Turner   
+OL,8,Fthe Worm and the Adventures of 4-T.    
+OL,10, Also fondly remembered is Digitiser    
+OL,11, which was avidly read by fans of video 
+OL,12, games. It was a magazine that included 
+OL,13, reviews, fake adverts and a huge array 
+OL,14, of surreal characters.                 
+OL,16, Teefax has a couple of examples but    
+OL,17, Turner the Worm couldn't come because  
+OL,18, he was sick.                           
+OL,19,C                                       
+OL,20,CM The Adventures of 4-T........184     
+OL,22,CM Digitiser....................470     
 OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41005
@@ -134,7 +142,7 @@ SC,0006
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Q'##/##//////o
 OL,2,QWppjup0 pp0Q+G@illarterateQ
 OL,3,QW##j7#j7#Q0"o
@@ -164,7 +172,7 @@ SC,0007
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,W?/o///####+/
 OL,2,W/s<&#)s,c3(3/'   "$    #o
 OL,3,W9'a80q 0&! )0d"?!  $   " !   k

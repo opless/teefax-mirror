@@ -1,6 +1,6 @@
-DE,One Show teletext links
+DE,One Show teletechs. Geddit? Oh nevermind.
 DS,inserter
-SP,J:\peter\teefax\P413-OneShowTeletextLinks.tti
+SP,J:\peter\teefax\P413-OneShowTeletechs.tti
 PN,41301
 SC,0001
 PS,8000
@@ -25,7 +25,7 @@ OL,18,CNat Dane:GManufacturer of teletext
 OL,19, inserters.                             
 OL,21,CAlistair Cree:GTeletext software for   
 OL,22, viewers, editors, recovery that closely
-OL,23, follows the teletext standards.        
+OL,23, follows the teletext standards.    C1/2
 OL,24,ANext                       FEngineering
 FL,414,411,8ff,700,8ff,8ff
 PN,41302
@@ -52,5 +52,6 @@ OL,17,Fhave saved equipment and manuals and
 OL,18,Fwho have documented the history on     
 OL,19,Fwhich we can use to persue everything  
 OL,20,Fteletext.                              
+OL,23,                                    C2/2
 OL,24,ANext                       FEngineering
 FL,414,411,8ff,700,8ff,8ff
