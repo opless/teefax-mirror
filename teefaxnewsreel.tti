@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,24 +15,23 @@ OL,4,MDunn family begin Foreign Office   C104
 OL,6,Glegal proceedings                      
 OL,8,GTrump signs law backing Hong Kong  C105
 OL,9,Gprotesters                             
-OL,10,GLabour promises to plant two       C106
-OL,11,Gbillion trees by 2040                  
+OL,10,GLabour to change election strategy C106
 OL,12,GTikTok apologises and reinstates   C107
 OL,13,Gbanned US teen                         
-OL,14,GJohnson vows to help women reach   C108
-OL,15,G'full potential'                       
-OL,16,GVolunteer firefighters 'did not    C109
-OL,17,Gstart Amazon fires'                    
+OL,14,GJohnson vows to help women in      C108
+OL,15,Gpolitics                               
+OL,16,GIraqi protesters set fire to       C109
+OL,17,GIranian consulate                      
 OL,18,GViolence during consensual sex     C110
 OL,19,G'normalised'                           
-OL,20,GIraqi protesters set fire to       C111
-OL,21,GIranian consulate                      
+OL,20,GSydney ends controversial 'lockout'C111
+OL,21,Glaws                                   
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +54,12 @@ OL,14,C FTSE100    G7429.78 F+26.64 Fat CLOSE
 OL,15,C techMARK100G5778.70 F+5.12  Fat CLOSE
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
-OL,18,C Nikkei     G23406.79A-30.98 Fat 04:25
+OL,18,C Nikkei     G23409.14A-28.63 Fat 05:20
 OL,19,C DJEurStoxx G3712.85 F+7.30  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,36 +82,36 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G         Thursday Evening            
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G03R%  B               
-OL,4,           RZj**gppp B               
+OL,1,T]G             Thursday                
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G07V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G02V!FSome Cloud     
+OL,6,            ZV!'~G07V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZS*y?sp  CClear         
-OL,9,           ^ZSj)"G 01S}  C             
-OL,10,       ^ZVp|t SxRg0 BCloudy       
-OL,11,       ZVnG04VtS+"RG02R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
-OL,14,B            ^ZU`  V*G 03V} B          
-OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 02U}zt B       
-OL,17,ELight Rain    ZUj^VG 03U B       
-OL,18,E            ZUx|^G 05U'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,B            ^ZR  tG 05U/!        
-OL,21,B            ZR zG07R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZS*y?sp  CSunny         
+OL,9,           ^ZSj)"G 07S}  C             
+OL,10,       ^ZRp|t SxRg0 B             
+OL,11,       ZRnG09RtS+"RG08R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  BLight Rain
+OL,14,B            ^ZU`  R*G 09R}  B         
+OL,15,B            ^ZUk|T            
+OL,16,B            ^ZU'oG 09R}zt   DHeavy
+OL,17,B              ZUj^TG 09R DRain   
+OL,18,B            ZUx|^G 11R'         
+OL,19,             ^ZU! +/'iQqp0        
+OL,20,ECloudy      ^ZU  tG 10Q/!        
+OL,21,E            ZU zG11U^/s/Q/? AOvercast 
+OL,22,            ZU8?' "'    "     A        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Friday                 
@@ -124,16 +123,16 @@ OL,6,            ZV!'~G04V!FSome Cloud
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BSunny         
 OL,9,           ^ZRj)"G 03R}  B             
-OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG06VtR+"VG04V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 06V} B          
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 05R}zt B       
-OL,17,B              ZVj^VG 07R B       
-OL,18,B            ZVx|^G 07R'         
-OL,19,             ^ZV! +/'iRqp0        
+OL,10,       ^ZUp|t RxVg0 B             
+OL,11,       ZUnG07UtR+"VG04V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" V *u  B          
+OL,14,B            ^ZR`  V*G 06V} B          
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 05R}zt B       
+OL,17,B              ZRj^VG 07R B       
+OL,18,B            ZRx|^G 07R'         
+OL,19,             ^ZR! +/'iRqp0        
 OL,20,ECloudy      ^ZU  tG 07R/!        
 OL,21,E            ZU zG09U^/s/R/? B         
 OL,22,            ZU8?' "'    "    B         
@@ -141,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -188,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -214,33 +213,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLabour promises to plant two billion
-OL,5,Ctrees by 2040
-OL,6, Labour claims it would plant two
-OL,7, billion new trees in England by 2040 if
-OL,8, they win the general election. 
-OL,10,FThe party is also promising 10 new
-OL,11,Fnational parks during its first term,
-OL,12,Fas part of its "plan for nature".
-OL,14,FThe Tories want to plant 30 million
-OL,15,Ftrees a year, the Lib Dems have pledged
-OL,16,F60 million if they win power. 
-OL,18,FFriends of the Earth has hailed
-OL,19,FLabour's plan - which would mean more
-OL,20,Fthan 270,000 trees being planted a day
-OL,21,F- as the most ambitious of the three.
+OL,4,CLabour to change election strategy
+OL,5, The Labour Party is to re-shape their
+OL,6, general election campaign strategy -
+OL,7, particularly in Leave-voting areas - to
+OL,8, try to turn around a stubborn
+OL,9, Conservative opinion poll lead. 
+OL,11,FInsiders say in the first half of the
+OL,12,Felection campaign, a key error was that
+OL,13,Fthe Liberal Democrat threat was
+OL,14,Foverestimated, while the willingness of
+OL,15,FLeave voters to switch from Labour to
+OL,16,Fthe Conservatives was underestimated.
+OL,18,FIn the last two weeks of the campaign,
+OL,19,Fthis will change.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -267,59 +265,58 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CJohnson vows to help women reach 'full
-OL,5,Cpotential'
-OL,6, Boris Johnson will vow to "support
-OL,7, women to reach their full potential" in
-OL,8, the workplace if the Conservatives win
-OL,9, the general election.
-OL,11,FHe will also announce the "biggest
-OL,12,Fdrive" to recruit female Tory
-OL,13,Factivists, members and candidates.
-OL,15,FOn the 100th anniversary of the first
-OL,16,Ffemale MP, the PM will pledge to make
-OL,17,F50% of future Tory candidates women.
-OL,19,FIn this election, 30% of Conservative
-OL,20,FParty candidates are women compared
-OL,21,Fwith 53% of Labour candidates.
+OL,4,CJohnson vows to help women in politics
+OL,5, Boris Johnson will vow to "support
+OL,6, women to reach their full potential" in
+OL,7, the workplace if the Conservatives win
+OL,8, the general election.
+OL,10,FHe will also announce the "biggest
+OL,11,Fdrive" to recruit female Tory
+OL,12,Factivists, members and candidates.
+OL,14,FOn the 100th anniversary of the first
+OL,15,Ffemale MP, the PM will pledge to make
+OL,16,F50% of future Tory candidates women.
+OL,18,FIn this election, 30% of Conservative
+OL,19,FParty candidates are women compared
+OL,20,Fwith 53% of Labour candidates.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CVolunteer firefighters 'did not start
-OL,5,CAmazon fires'
-OL,6, A Brazilian NGO based in the Amazon has
-OL,7, denied that four volunteer firefighters
-OL,8, arrested by police had intentionally
-OL,9, started fires in the rainforest.
-OL,11,FThe men were part of the Alter do Chão
-OL,12,Fbrigade, which helped battle huge fires
-OL,13,Fthis year in the northern Para state.
-OL,15,FThey were arrested after police raided
-OL,16,Fthe offices of Projeto Saúde e Alegria
-OL,17,F(PSA), or Health and Happiness Project,
-OL,18,Fwhich has links to the brigade.
-OL,20,FRights groups and critics claimed the
-OL,21,Foperation was politically motivated.
+OL,4,CIraqi protesters set fire to Iranian
+OL,5,Cconsulate
+OL,6, A group of protesters in Iraq have set
+OL,7, fire to Iran's consulate in the
+OL,8, southern city of Najaf amid ongoing
+OL,9, anti-government demonstrations.
+OL,11,FProtesters chanted "Iran out of Iraq"
+OL,12,Fas flames engulfed the building.
+OL,14,FReports say staff at the consulate
+OL,15,Fmanaged to flee just before protesters
+OL,16,Fbroke in.
+OL,18,FThis is the second attack on an Iranian
+OL,19,Fconsulate in Iraq this month after the
+OL,20,Foffice in the Shia holy city of Karbala
+OL,21,Fwas targeted three weeks ago.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -345,33 +342,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIraqi protesters set fire to Iranian
-OL,5,Cconsulate
-OL,6, A group of protesters in Iraq have set
-OL,7, fire to Iran's consulate in the
-OL,8, southern city of Najaf amid ongoing
-OL,9, anti-government demonstrations.
-OL,11,FProtesters chanted "Iran out of Iraq"
-OL,12,Fas flames engulfed the building.
-OL,14,FReports say staff at the consulate
-OL,15,Fmanaged to flee just before protesters
-OL,16,Fbroke in.
-OL,18,FThis is the second attack on an Iranian
-OL,19,Fconsulate in Iraq this month after the
-OL,20,Foffice in the Shia holy city of Karbala
-OL,21,Fwas targeted three weeks ago.
+OL,4,CSydney ends controversial 'lockout'
+OL,5,Claws
+OL,6, Controversial laws blamed for ruining
+OL,7, nightlife in Australia's largest city,
+OL,8, Sydney, will be almost completely
+OL,9, scrapped from January, officials say.
+OL,11,FThe so-called "lockout" laws, enacted
+OL,12,Fin 2014, installed bar curfews in
+OL,13,Fpopular areas and restricted when
+OL,14,Falcohol could be served.
+OL,16,FWhile the laws reduced the rates of
+OL,17,Fdrunken violence, critics accused them
+OL,18,Fof changing the fabric of the city.
+OL,20,FThe laws will be wound back in all
+OL,21,Fprecincts except one - Kings Cross.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -396,33 +393,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSydney ends controversial 'lockout'
-OL,5,Claws
-OL,6, Controversial laws blamed for ruining
-OL,7, nightlife in Australia's largest city,
-OL,8, Sydney, will be almost completely
-OL,9, scrapped from January, officials say.
-OL,11,FThe so-called "lockout" laws, enacted
-OL,12,Fin 2014, installed bar curfews in
-OL,13,Fpopular areas and restricted when
-OL,14,Falcohol could be served.
-OL,16,FWhile the laws reduced the rates of
-OL,17,Fdrunken violence, critics accused them
-OL,18,Fof changing the fabric of the city.
-OL,20,FThe laws will be wound back in all
-OL,21,Fprecincts except one - Kings Cross.
+OL,4,CUtah family terrorised by Hawaii
+OL,5,C'extreme stalker'
+OL,6, A Hawaii man accused of terrorising a
+OL,7, family with threats and unsolicited
+OL,8, deliveries to their home in Utah has
+OL,9, appeared in court in Honolulu.
+OL,11,FProsecutors say Loren Okamura, 44, sent
+OL,12,Fhundreds of people - from locksmiths to
+OL,13,Fdrug dealers to sex workers - to the
+OL,14,Ffamily's home over more than a year.
+OL,16,FThe victims were "tormented" by
+OL,17,F"extreme cyberstalking", federal
+OL,18,Fprosecutor John Huber said.
+OL,20,FMr Okamura will remain in detention
+OL,21,Funtil he is sent to Utah for a hearing.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -448,78 +445,77 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUtah family terrorised by Hawaii
-OL,5,C'extreme stalker'
-OL,6, A Hawaii man accused of terrorising a
-OL,7, family with threats and unsolicited
-OL,8, deliveries to their home in Utah has
-OL,9, appeared in court in Honolulu.
-OL,11,FProsecutors say Loren Okamura, 44, sent
-OL,12,Fhundreds of people - from locksmiths to
-OL,13,Fdrug dealers to sex workers - to the
-OL,14,Ffamily's home over more than a year.
-OL,16,FThe victims were "tormented" by
-OL,17,F"extreme cyberstalking", federal
-OL,18,Fprosecutor John Huber said.
-OL,20,FMr Okamura will remain in detention
-OL,21,Funtil he is sent to Utah for a hearing.
+OL,4,CVolunteer firefighters 'did not start
+OL,5,CAmazon fires'
+OL,6, A Brazilian NGO based in the Amazon has
+OL,7, denied that four volunteer firefighters
+OL,8, arrested by police had intentionally
+OL,9, started fires in the rainforest.
+OL,11,FThe men were part of the Alter do Chão
+OL,12,Fbrigade, which helped battle huge fires
+OL,13,Fthis year in the northern Para state.
+OL,15,FThey were arrested after police raided
+OL,16,Fthe offices of Projeto Saúde e Alegria
+OL,17,F(PSA), or Health and Happiness Project,
+OL,18,Fwhich has links to the brigade.
+OL,20,FRights groups and critics claimed the
+OL,21,Foperation was politically motivated.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
-OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
-OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
-OL,4,CTata Steel to cut 1,000 jobs across the
-OL,5,CUK
-OL,6, Tata Steel has announced it expects to
-OL,7, cut 1,000 jobs across the UK as part of
-OL,8, the company's restructuring plans.
-OL,10,FTwo thirds of the job losses will be
-OL,11,Fmanagement and office-based roles, Tata
-OL,12,Fsaid.
-OL,14,FIn the Netherlands 1,600 positions are
-OL,15,Falso set to go, with 350 others cut
-OL,16,Felsewhere in the world.
-OL,18,FTata Steel's Europe CEO, Henrik Adam,
-OL,19,Fsaid the company "cannot afford to
-OL,20,Fstand still" as "the world around us is
-OL,21,Fchanging fast and we have to adapt".
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CLabour promises to plant two billion
+OL,5,Ctrees by 2040
+OL,6, Labour claims it would plant two
+OL,7, billion new trees in England by 2040 if
+OL,8, they win the general election. 
+OL,10,FThe party is also promising 10 new
+OL,11,Fnational parks during its first term,
+OL,12,Fas part of its "plan for nature".
+OL,14,FThe Tories want to plant 30 million
+OL,15,Ftrees a year, the Lib Dems have pledged
+OL,16,F60 million if they win power. 
+OL,18,FFriends of the Earth has hailed
+OL,19,FLabour's plan - which would mean more
+OL,20,Fthan 270,000 trees being planted a day
+OL,21,F- as the most ambitious of the three.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C05:32:47
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C06:33:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSwiss condemn 'attack' on Sri Lanka
-OL,5,Cembassy worker
-OL,6, An employee of the Swiss embassy in Sri
-OL,7, Lanka has been "detained and
-OL,8, threatened" in Colombo, sparking anger
-OL,9, from Swiss authorities.
-OL,11,FSwitzerland summoned the Sri Lankan
-OL,12,Fambassador and demanded an inquiry
-OL,13,Fafter the incident came to light. 
-OL,15,FSwiss officials said unidentified men
-OL,16,Ftried to force the woman to "disclose
-OL,17,Fembassy-related information".
-OL,19,FThey did not provide more details, but
-OL,20,Fit comes after a top Sri Lankan police
-OL,21,Fofficer reportedly sought Swiss asylum.
+OL,4,CHuge blasts at Texas chemical plant
+OL,5, About 60,000 people have been evacuated
+OL,6, from the area surrounding Port Neches
+OL,7, in Texas after a series of huge
+OL,8, explosions at a chemical plant.
+OL,10,FFootage shows a flash of light before
+OL,11,Fthe plant was engulfed by flames. One
+OL,12,Fvideo shows the door of a nearby house
+OL,13,Fbeing blown off its hinges.
+OL,15,FThree employees were injured in the
+OL,16,Finitial explosion. 
+OL,18,FThe first blast at 01:00 local time
+OL,19,F(07:00 GMT) on Wednesday was followed
+OL,20,Fby a series of secondary explosions.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
