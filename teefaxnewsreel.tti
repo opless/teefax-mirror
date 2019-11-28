@@ -5,26 +5,26 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MAustralian broadcaster Clive James C104
-OL,6,Gdies aged 80                           
+OL,4,MDunn family begin Foreign Office   C104
+OL,6,Glegal proceedings                      
 OL,8,GTrump signs law backing Hong Kong  C105
 OL,9,Gprotesters                             
-OL,10,GRow over Labour's 'NHS for sale'   C106
-OL,11,Gclaim                                  
+OL,10,GLabour vow to plant two billion    C106
+OL,11,Gtrees by 2040                          
 OL,12,GSwiss condemn 'attack' on Sri LankaC107
 OL,13,Gembassy worker                         
-OL,14,GSNP vote 'will send clear message  C108
-OL,15,Gon indyref2'                           
+OL,14,GJohnson vows to help women reach   C108
+OL,15,G'full potential'                       
 OL,16,GIraqi protesters set fire to       C109
 OL,17,GIranian consulate                      
-OL,18,GDunn family begin Foreign Office   C110
-OL,19,Glegal proceedings                      
+OL,18,GViolence during consensual sex     C110
+OL,19,G'normalised'                           
 OL,20,GTikTok apologises and reinstates   C111
 OL,21,Gbanned US teen                         
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7429.78 F+26.64 Fat CLOSE
 OL,15,C techMARK100G5778.70 F+5.12  Fat CLOSE
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
-OL,18,C Nikkei     G23440.26F+2.49  Fat 00:30
+OL,18,C Nikkei     G23446.55F+8.78  Fat 01:25
 OL,19,C DJEurStoxx G3712.85 F+7.30  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,65 +83,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G         Thursday Evening            
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G03R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G03V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G02V!FSome Cloud     
+OL,6,            ZV!'~G02V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZS*y?sp  CClear         
-OL,9,           ^ZSj)"G 01S}  C             
-OL,10,       ^ZVp|t SxVg0 B             
-OL,11,       ZVnG03VtS+"VG02V B             
+OL,8,B          ^ZU*y?sp  EClear         
+OL,9,           ^ZUj)"G 01U}  E             
+OL,10,       ^ZVp|t UxVg0 B             
+OL,11,       ZVnG04VtU+"VG02V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZU`  V*G 03V} B          
-OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 02U}zt B       
-OL,17,ELight Rain    ZUj^VG 03U B       
-OL,18,E            ZUx|^G 05U'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,BCloudy      ^ZR  tG 05U/!        
-OL,21,B            ZR zG07R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,13,        ZV+%*o!V" S *u  CSome Cloud
+OL,14,B            ^ZV`  S*G 03S}  C         
+OL,15,BLight Rain  ^ZVk|V            
+OL,16,B            ^ZV'oG 02R}zt B       
+OL,17,B              ZVj^VG 03R B       
+OL,18,B            ZVx|^G 05R'         
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 05R/!        
+OL,21,B            ZV zG07V^/s/R/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Friday                 
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G05R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G05U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BSunny         
 OL,9,           ^ZRj)"G 03R}  B             
-OL,10,       ^ZUp|t RxRg0 B             
-OL,11,       ZUnG06UtR+"RG04R B             
-OL,12,       ZU+R`4R+|0             
-OL,13,        ZU+%*o!R" U *u  ECloudy    
-OL,14,B            ^ZV`  U*G 05U}  E         
+OL,10,       ^ZRp|t RxVg0 B             
+OL,11,       ZRnG06RtR+"VG04V B             
+OL,12,       ZR+V`4V+|0             
+OL,13,        ZR+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 05V} B          
 OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 05R}zt B       
 OL,17,B              ZVj^VG 07R B       
 OL,18,B            ZVx|^G 07R'         
 OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZU  tG 07R/!        
-OL,21,B            ZU zG08U^/s/R/? B         
+OL,20,ECloudy      ^ZU  tG 07R/!        
+OL,21,E            ZU zG08U^/s/R/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,33 +162,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CAustralian broadcaster Clive James dies
-OL,5,Caged 80
-OL,6, Clive James, the Australian writer and
-OL,7, broadcaster known around the world for
-OL,8, his dry wit, has died at the age of 80.
-OL,10,FDiagnosed with leukaemia in 2010, the
-OL,11,Fauthor and critic had movingly written
-OL,12,Fabout his terminal illness during the
-OL,13,Ffinal years of his life.
-OL,15,FBorn Vivian James in 1939, he moved to
-OL,16,FEngland in 1961 and rose to prominence
-OL,17,Fas a literary critic and TV columnist.
-OL,19,FHe went on to deliver wry commentary on
-OL,20,Finternational programming in such shows
-OL,21,Fas Clive James On Television.
+OL,4,CDunn family begin Foreign Office legal
+OL,5,Cproceedings
+OL,6, The family of Harry Dunn have begun
+OL,7, their legal proceeding against the
+OL,8, Foreign and Commonwealth Office (FCO).
+OL,10,FMr Dunn, 19, died in a crash in
+OL,11,FNorthamptonshire in August which led to
+OL,12,Fthe suspect, Anne Sacoolas, leaving for
+OL,13,Fthe USA under diplomatic immunity.
+OL,15,FHis parents have filed a claim for
+OL,16,Fjudicial review in the High Court in
+OL,17,FLondon against Foreign Secretary
+OL,18,FDominic Raab.
+OL,20,FFamily spokesman Radd Seiger said the
+OL,21,FFCO was "wrong in law".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -199,47 +199,48 @@ OL,5,Cprotesters
 OL,6, US President Donald Trump has signed
 OL,7, into law a bill that supports
 OL,8, pro-democracy protesters in Hong Kong.
-OL,10,FThe Human Rights and Democracy Act will
-OL,11,Fmandate an annual review, to ensure
-OL,12,FHong Kong has significant autonomy from
-OL,13,Fthe rest of China.
+OL,10,FThe Human Rights and Democracy Act
+OL,11,Fmandates an annual review, to check if
+OL,12,FHong Kong has enough autonomy to
+OL,13,Fjustify its special status with the US.
 OL,15,FMr Trump said he signed the law "out of
 OL,16,Frespect for President Xi (Jinping),
 OL,17,FChina, and the people of Hong Kong".
-OL,19,FBut the law will anger Beijing -
-OL,20,FChinese officials have previously
-OL,21,Fcalled for the US to "stop meddling".
+OL,19,FHong Kong's government said the bill
+OL,20,Fwould send the wrong signal and would
+OL,21,Fnot help to ease the situation.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CRow over Labour's 'NHS for sale' claim
-OL,5, A row has broken out after Labour
-OL,6, leader Jeremy Corbyn claimed he had
-OL,7, "proof" the NHS was at risk under a
-OL,8, post-Brexit trade deal with the US.
-OL,10,FMr Corbyn said he had a 451-page
-OL,11,Fdossier showing initial talks had taken
-OL,12,Fplace, proving the NHS was "for sale".
-OL,14,FBut Prime Minister Boris Johnson said
-OL,15,Fthe claims were "nonsense" and the NHS
-OL,16,Fwould not be part of trade talks.
-OL,18,FThe Tory manifesto explicitly states
-OL,19,Fneither the price paid for drugs nor
-OL,20,FNHS services will be "on the table".
+OL,4,CLabour vow to plant two billion trees
+OL,5,Cby 2040
+OL,6, Labour claims it would plant two
+OL,7, billion new trees in England by 2040 if
+OL,8, they win the general election. 
+OL,10,FThe party is also promising 10 new
+OL,11,Fnational parks during its first term,
+OL,12,Fas part of its "plan for nature".
+OL,14,FThe Tories want to plant 30 million
+OL,15,Ftrees a year, the Lib Dems have pledged
+OL,16,F60 million if they win power. 
+OL,18,FFriends of the Earth has hailed
+OL,19,FLabour's plan - which would mean more
+OL,20,Fthan 270,000 trees being planted a day
+OL,21,F- as the most ambitious of the three.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -265,33 +266,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CSNP vote 'will send clear message on
-OL,5,Cindyref2'
-OL,6, Nicola Sturgeon has launched the SNP
-OL,7, election manifesto with a pledge to
-OL,8, "escape Brexit and put Scotland's
-OL,9, future in Scotland's hands".
-OL,11,FThe manifesto says that the SNP winning
-OL,12,Fthe most seats in Scotland would send a
-OL,13,F"clear" message that an independence
-OL,14,Freferendum must be held next year.
-OL,16,FMs Sturgeon said the country faced a
-OL,17,F"fundamental question" over who should
-OL,18,Fdecide its future.
-OL,20,FAnd she called for a big increase in
-OL,21,FNHS funding across the UK.
+OL,4,CJohnson vows to help women reach 'full
+OL,5,Cpotential'
+OL,6, Boris Johnson will vow to "support
+OL,7, women to reach their full potential" in
+OL,8, the workplace if the Conservatives win
+OL,9, the general election.
+OL,11,FHe will also announce the "biggest
+OL,12,Fdrive" to recruit female Tory
+OL,13,Factivists, members and candidates.
+OL,15,FOn the 100th anniversary of the first
+OL,16,Ffemale MP, the PM will pledge to make
+OL,17,F50% of future Tory candidates women.
+OL,19,FIn this election, 30% of Conservative
+OL,20,FParty candidates are women compared
+OL,21,Fwith 53% of Labour candidates.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,33 +318,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CDunn family begin Foreign Office legal
-OL,5,Cproceedings
-OL,6, The family of Harry Dunn have begun
-OL,7, their legal proceeding against the
-OL,8, Foreign and Commonwealth Office (FCO).
-OL,10,FMr Dunn, 19, died in a crash in
-OL,11,FNorthamptonshire in August which led to
-OL,12,Fthe suspect, Anne Sacoolas, leaving for
-OL,13,Fthe USA under diplomatic immunity.
-OL,15,FHis parents have filed a claim for
-OL,16,Fjudicial review in the High Court in
-OL,17,FLondon against Foreign Secretary
-OL,18,FDominic Raab.
-OL,20,FFamily spokesman Radd Seiger said the
-OL,21,FFCO was "wrong in law".
+OL,4,CViolence during consensual sex
+OL,5,C'normalised'
+OL,6, Violence during consensual sex has
+OL,7, become normalised, campaigners have
+OL,8, warned.
+OL,10,FIt comes after more than a third of UK
+OL,11,Fwomen under the age of 40 have
+OL,12,Fexperienced unwanted slapping, choking,
+OL,13,Fgagging or spitting during consensual
+OL,14,Fsex, research for BBC Radio 5 Live
+OL,15,Fsuggests.  
+OL,17,FOf the women who had experienced any of
+OL,18,Fthese acts, wanted or otherwise, 20%
+OL,19,Fsaid they had been left upset or
+OL,20,Ffrightened.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -370,33 +371,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
-OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
-OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
-OL,4,CTata Steel to cut 1,000 jobs across the
-OL,5,CUK
-OL,6, Tata Steel has announced it expects to
-OL,7, cut 1,000 jobs across the UK as part of
-OL,8, the company's restructuring plans.
-OL,10,FTwo thirds of the job losses will be
-OL,11,Fmanagement and office-based roles, Tata
-OL,12,Fsaid.
-OL,14,FIn the Netherlands 1,600 positions are
-OL,15,Falso set to go, with 350 others cut
-OL,16,Felsewhere in the world.
-OL,18,FTata Steel's Europe CEO, Henrik Adam,
-OL,19,Fsaid the company "cannot afford to
-OL,20,Fstand still" as "the world around us is
-OL,21,Fchanging fast and we have to adapt".
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CVue boss plans to rescreen banned film
+OL,5, The boss of a cinema chain that banned
+OL,6, a London gang film after a mass brawl
+OL,7, in Birmingham has told the BBC he plans
+OL,8, to resume screenings by the weekend. 
+OL,10,FVue banned Blue Story after saying
+OL,11,Fthere had been 25 serious incidents in
+OL,12,F16 of its cinemas. 
+OL,14,FBut its chief executive, Tim Richards,
+OL,15,Fsaid it was now looking at "beefing up
+OL,16,Fsecurity" to restart screenings.
+OL,18,FIt comes after Blue Story's director,
+OL,19,FRapman, questioned whether there were
+OL,20,F"hidden reasons" for the ban.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -422,32 +422,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTV chef Gary Rhodes dies aged 59
-OL,5, Gary Rhodes, the celebrity chef known
-OL,6, for his spiky hair and passion for
-OL,7, British cuisine, has died aged 59.
-OL,9,FAccording to a family statement, he
-OL,10,Fdied on Tuesday "with his beloved wife
-OL,11,FJennie by his side".
-OL,13,F"The Rhodes family are deeply saddened
-OL,14,Fto announce the passing of beloved
-OL,15,Fhusband, father and brother, Gary
-OL,16,FRhodes OBE," the statement read.
-OL,18,F"The family would like to thank
-OL,19,Feveryone for their support and ask for
-OL,20,Fprivacy during this time."
+OL,4,CBags for life 'adding to rising plastic
+OL,5,Cwaste'
+OL,6, Sales of "bags for life" rose to 1.5bn
+OL,7, last year as the amount of plastic used
+OL,8, by supermarkets increased to 900,000
+OL,9, tonnes, Greenpeace research has found.
+OL,11,FCampaigners are calling for higher
+OL,12,Fcharges for the bags or a complete ban
+OL,13,Fas the research showed households
+OL,14,Fbought an average of 54 a year.
+OL,16,FIn 2016, there were 2bn single-use bags
+OL,17,Fsold. Bags for life must be used four
+OL,18,Ftimes to be better for the environment.
+OL,20,FRetailers say they have reduced plastic
+OL,21,Fpackaging for their own-brand products.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -473,32 +474,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CVue boss plans to rescreen banned film
-OL,5, The boss of a cinema chain that banned
-OL,6, a London gang film after a mass brawl
-OL,7, in Birmingham has told the BBC he plans
-OL,8, to resume screenings by the weekend. 
-OL,10,FVue banned Blue Story after saying
-OL,11,Fthere had been 25 serious incidents in
-OL,12,F16 of its cinemas. 
-OL,14,FBut its chief executive, Tim Richards,
-OL,15,Fsaid it was now looking at "beefing up
-OL,16,Fsecurity" to restart screenings.
-OL,18,FIt comes after Blue Story's director,
-OL,19,FRapman, questioned whether there were
-OL,20,F"hidden reasons" for the ban.
+OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
+OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
+OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
+OL,4,CTata Steel to cut 1,000 jobs across the
+OL,5,CUK
+OL,6, Tata Steel has announced it expects to
+OL,7, cut 1,000 jobs across the UK as part of
+OL,8, the company's restructuring plans.
+OL,10,FTwo thirds of the job losses will be
+OL,11,Fmanagement and office-based roles, Tata
+OL,12,Fsaid.
+OL,14,FIn the Netherlands 1,600 positions are
+OL,15,Falso set to go, with 350 others cut
+OL,16,Felsewhere in the world.
+OL,18,FTata Steel's Europe CEO, Henrik Adam,
+OL,19,Fsaid the company "cannot afford to
+OL,20,Fstand still" as "the world around us is
+OL,21,Fchanging fast and we have to adapt".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:36:03
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$

@@ -5,20 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:15
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain across some northern and
-OL,9,Fparticularly central areas of the UK,
-OL,10,Fpersistent and heavy for a time across
-OL,11,Fsouth-east Scotland and north-east
-OL,12,FEngland. Scattered showers in coastal
-OL,13,Fareas elsewhere, these heavy across
-OL,14,Fsouth-west England. Windy in the
-OL,15,Fnorth-east.
+OL,7,GToday
+OL,8,FMost of England and Wales rather cloudy
+OL,9,Fwith rain at times. Northern England
+OL,10,Fdrier and brighter later though, whilst
+OL,11,Fsouthern UK mostly dry at first.
+OL,12,FBrighter for Scotland and Northern
+OL,13,FIreland. Cold and windy in the north
+OL,14,Fand far east.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -26,17 +25,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:15
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Friday to Sunday
-OL,8,FTurning colder but also drier and
-OL,9,Fsunnier than of late. Still some
-OL,10,Fshowers in northern Scotland and North
-OL,11,FSea coasts, and a chance of rain in
-OL,12,Fsouthwest UK on Saturday.
+OL,7,GOutlook for Saturday to Monday
+OL,8,FWet and windy across southwest England
+OL,9,Fon Saturday. Otherwise mainly dry with
+OL,10,Fsunny spells for most. Cold with
+OL,11,Fovernight frosts. Turning milder and
+OL,12,Fcloudier with rain over Scotland on
+OL,13,FMonday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
