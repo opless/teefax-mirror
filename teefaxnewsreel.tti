@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -17,21 +17,21 @@ OL,8,GChina rebukes US for backing Hong  C105
 OL,9,GKong protesters                        
 OL,10,GEU net migration to UK at lowest   C106
 OL,11,Gfor 16 years                           
-OL,12,GEscalating Iraq protests leave 15  C107
+OL,12,GEscalating Iraq protests leave 24  C107
 OL,13,Gdead                                   
 OL,14,GLabour to change election strategy C108
 OL,16,GUS envoy to EU accused of sexual   C109
 OL,17,Gmisconduct                             
 OL,18,GGary Rhodes died from head injury, C110
 OL,19,Gfamily confirms                        
-OL,20,GMadonna cancels shows amid         C111
-OL,21,G'overwhelming pain'                    
+OL,20,GMacron stands by 'brain dead' Nato C111
+OL,21,Gcomments                               
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -49,17 +49,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 12:25GWinnersF35GLosersA66
-OL,14,C FTSE100    G7403.65 A-26.13 Fat 12:25
-OL,15,C techMARK100G5775.88 A-2.82  Fat 12:25
+OL,12,  FTSE100Fat 13:25GWinnersF40GLosersA61
+OL,14,C FTSE100    G7405.18 A-24.60 Fat 13:25
+OL,15,C techMARK100G5782.96 F+4.26  Fat 13:25
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
 OL,18,C Nikkei     G23409.14A-2,862.Fat 07:44
-OL,19,C DJEurStoxx G3703.52 A-9.33  Fat 12:25
+OL,19,C DJEurStoxx G3701.21 A-11.64 Fat 13:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -82,7 +82,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -92,55 +92,55 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZU*y?sp  ESome Cloud    
-OL,9,           ^ZUj)"G 07U}  E             
-OL,10,       ^ZVp|t UxRg0 BLight Rain   
-OL,11,       ZVnG09VtU+"RG08R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZV`  R*G 09R} B          
-OL,15,COvercast    ^ZVk|R            
-OL,16,C            ^ZV'oG 09S}zt B       
-OL,17,B              ZVj^RG 09S B       
-OL,18,B            ZVx|^G 11S'         
+OL,8,B          ^ZR*y?sp  BSome Cloud    
+OL,9,           ^ZRj)"G 07R}  B             
+OL,10,       ^ZVp|t RxUg0 ELight Rain   
+OL,11,       ZVnG09VtR+"UG08U  E            
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" V *u  B          
+OL,14,B            ^ZV`  V*G 09V} B          
+OL,15,DOvercast    ^ZVk|V            
+OL,16,D            ^ZV'oG 09T}zt B       
+OL,17,B              ZVj^VG 09T B       
+OL,18,B            ZVx|^G 11T'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 10V/!        
-OL,21,B            ZV zG11V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,20,CHeavy Rain  ^ZS  tG 10V/!        
+OL,21,C            ZS zG11S^/s/V/? B         
+OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G05V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G05U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BSunny         
 OL,9,           ^ZRj)"G 03R}  B             
-OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG06VtR+"VG04V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" U *u  ELight Rain
-OL,14,B            ^ZR`  U*G 05U}  E         
+OL,10,       ^ZRp|t RxVg0 B             
+OL,11,       ZRnG06RtR+"VG04V B             
+OL,12,       ZR+V`4V+|0             
+OL,13,        ZR+%*o!V" V *u  B          
+OL,14,B            ^ZR`  V*G 06V} B          
 OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 05R}zt B       
 OL,17,B              ZRj^VG 07R B       
 OL,18,B            ZRx|^G 07R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,CCloudy      ^ZS  tG 07R/!        
-OL,21,C            ZS zG09S^/s/R/? B         
-OL,22,            ZS8?' "'    "    B         
+OL,20,ECloudy      ^ZU  tG 07R/!        
+OL,21,E            ZU zG09U^/s/R/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -171,8 +171,8 @@ OL,4,CTory and Labour spending plans 'not
 OL,5,Ccredible' - IFS
 OL,6, Neither the Conservatives nor Labour
 OL,7, are offering "credible" spending plans
-OL,8, ahead of the election, an influential
-OL,9, research group has said.
+OL,8, ahead of the general election, an
+OL,9, influential research group has said.
 OL,11,FThe Institute for Fiscal Studies (IFS)
 OL,12,Fsaid it was "highly likely" the Tories
 OL,13,Fwould end up spending more than their
@@ -180,14 +180,14 @@ OL,14,Fmanifesto pledges.
 OL,16,FLabour, it warned, would be unable to
 OL,17,Fdeliver its spending increases as it
 OL,18,Fhas promised.
-OL,20,FNeither was being "honest" with voters,
-OL,21,Fdirector Paul Johnson said.
+OL,20,FNeither party was being "honest" with
+OL,21,Fvoters, IFS director Paul Johnson said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -225,9 +225,9 @@ OL,6, EU net migration to the UK has fallen
 OL,7, to its lowest level for 16 years, ONS
 OL,8, figures show.
 OL,10,FThe difference between how many people
-OL,11,Fcame to the UK for at least 12 months
-OL,12,Fand how many people left dropped to
-OL,13,F48,000 - its lowest level since 2003.
+OL,11,Ffrom the EU came to the UK for at least
+OL,12,F12 months and how many left dropped to
+OL,13,F48,000 - the lowest level since 2003.
 OL,15,FThe ONS says this was down to fewer
 OL,16,Fpeople coming to Britain for work,
 OL,17,Fwhile a record high returned home.
@@ -239,32 +239,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CEscalating Iraq protests leave 15 dead
-OL,5, At least 15 people have been killed in
-OL,6, Iraq in a fresh wave of protests in the
-OL,7, southern city of Nasiriya. 
-OL,9,FSecurity forces opened fire and used
-OL,10,Ftear gas on Thursday to clear two
-OL,11,Fbridges blocked by protesters. At least
-OL,12,F150 people were injured.
-OL,14,FIraqis have been taking to the streets
-OL,15,Fto demand more jobs, an end to
-OL,16,Fcorruption, and better public services.
-OL,18,FThe Iraqi military announced it was
-OL,19,Fsetting up military "crisis cells" to
-OL,20,Fquell unrest. 
+OL,4,CEscalating Iraq protests leave 24 dead
+OL,5, At least 24 people have been killed in
+OL,6, Iraq, on one of the bloodiest days
+OL,7, since anti-government protests began
+OL,8, last month, medics and officials say.
+OL,10,FAt least 20 people were killed when
+OL,11,Fsecurity forces opened fire to clear
+OL,12,Fbridges occupied by protesters in the
+OL,13,Fsouthern city of Nasiriya.
+OL,15,FAnother four protesters were killed on
+OL,16,Fthe strategic Ahrar Bridge in Baghdad.
+OL,18,FIraqis have been taking to the streets
+OL,19,Fto demand more jobs, an end to
+OL,20,Fcorruption, and better public services.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -290,7 +290,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -316,7 +316,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -341,33 +341,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMadonna cancels shows amid
-OL,5,C'overwhelming pain'
-OL,6, Madonna has cancelled three dates of
-OL,7, her Madame X tour dates in Boston,
-OL,8, saying she was experiencing
-OL,9, "overwhelming" pain.
-OL,11,F"Please forgive this unexpected turn of
-OL,12,Fevents," she told fans on Facebook. 
-OL,14,F"Doing my show every night brings me so
-OL,15,Fmuch joy and to cancel is a kind of
-OL,16,Fpunishment... But the pain I'm in right
-OL,17,Fnow is overwhelming, and I must rest
-OL,18,Fand follow doctor's orders."
-OL,20,FThe star did not specify the cause of
-OL,21,Fher injury.
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CMacron stands by 'brain dead' Nato
+OL,5,Ccomments
+OL,6, French President Emmanuel Macron has
+OL,7, said he stands by comments he made
+OL,8, three weeks ago when he described Nato
+OL,9, as "brain dead".
+OL,11,FHe said members of the alliance needed
+OL,12,Fa "wake-up call" as they were no longer
+OL,13,Fco-operating on a range of key issues.
+OL,15,FIn a 7 November interview, Mr Macron
+OL,16,Fstressed what he saw as a waning
+OL,17,Fcommitment to the transatlantic
+OL,18,Falliance by its main guarantor, the US.
+OL,20,FAllies said at the time they disagreed
+OL,21,Fwith his assessment.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -391,33 +391,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CEU net migration to UK at lowest for 16
-OL,5,Cyears
-OL,6, EU net migration to the UK has fallen
-OL,7, to its lowest level for 16 years, ONS
-OL,8, figures show.
-OL,10,FThe difference between how many people
-OL,11,Fcame to the UK for at least 12 months
-OL,12,Fand how many people left dropped to
-OL,13,F48,000 - its lowest level since 2003.
-OL,15,FThe ONS says this was down to fewer
-OL,16,Fpeople coming to Britain for work,
-OL,17,Fwhile a record high returned home.
-OL,19,FIn the year to June, overall net
-OL,20,Fmigration from both EU and non-EU
-OL,21,Fcountries was 212,000.
+OL,4,CMadonna cancels shows amid
+OL,5,C'overwhelming pain'
+OL,6, Madonna has cancelled three dates of
+OL,7, her Madame X tour dates in Boston,
+OL,8, saying she was experiencing
+OL,9, "overwhelming" pain.
+OL,11,F"Please forgive this unexpected turn of
+OL,12,Fevents," she told fans on Facebook. 
+OL,14,F"Doing my show every night brings me so
+OL,15,Fmuch joy and to cancel is a kind of
+OL,16,Fpunishment... But the pain I'm in right
+OL,17,Fnow is overwhelming, and I must rest
+OL,18,Fand follow doctor's orders."
+OL,20,FThe star did not specify the cause of
+OL,21,Fher injury.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -443,59 +443,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CImmunotherapy hope for advanced
-OL,5,Cprostate cancer
-OL,6, A major trial of an immunotherapy drug
-OL,7, has shown it can be effective in some
-OL,8, men with advanced prostate cancer.
-OL,10,FThe men had stopped responding to the
-OL,11,Fmain treatment options. 
-OL,13,FResearchers found that a small
-OL,14,Fproportion of men, described as "super
-OL,15,Fresponders", remained well even after
-OL,16,Fthe trial ended, despite a very poor
-OL,17,Fprognosis before treatment. 
-OL,19,FLast week it was reported the same drug
-OL,20,Fhad proved effective in treating
-OL,21,Fadvanced head and neck cancers. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40519
-SC,0019
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CBoys to be admitted to last all-girl
-OL,5,Cstate school
-OL,6, The last state all-girls school in
-OL,7, Scotland is to admit boys for the first
-OL,8, time in 2021.
-OL,10,FCouncillors voted unanimously to allow
-OL,11,Fboys to attend Notre Dame High School
-OL,12,Fin Glasgow, which has taught only girls
-OL,13,Fsince its opening in 1897.
-OL,15,FIt follows fierce debate among parents
-OL,16,Fand a lengthy consultation about the
-OL,17,Fschool's future.
-OL,19,FEducation officers recommended making
-OL,20,Fthe school "co-educational" after a
-OL,21,Fvote at Glasgow City Council.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40520
-SC,0020
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -516,5 +464,56 @@ OL,17,Ffirst made the same comment in May.
 OL,19,FShe is accused of involvement in a 2008
 OL,20,Fblast that killed six people and
 OL,21,Finjured 100 others.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,C'Woman hating' anthrax hoaxer targeted
+OL,5,Cfemale MPs
+OL,6, A hoaxer with a "hatred of women" has
+OL,7, been jailed for five years for sending
+OL,8, packages of white powder to female MPs,
+OL,9, a Euro MP and local councillors.
+OL,11,FRichard Hayes, 40, from Brixham, Devon,
+OL,12,Fsent packages some marked as "anthrax"
+OL,13,Fto 16 victims, the majority women,
+OL,14,Fbetween May 2011 and April 2014. 
+OL,16,FJudge Mrs Justice May at Exeter Crown
+OL,17,FCourt told Hayes he "caused distress".
+OL,19,FHe had admitted 16 charges of
+OL,20,Fcommitting a hoax by sending a noxious
+OL,21,Fsubstance under anti-terror law.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40520
+SC,0020
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C14:36:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CVlogger reignites Chinese domestic
+OL,5,Cviolence debate
+OL,6, A Chinese beauty vlogger's claims of
+OL,7, suffering domestic violence have
+OL,8, reignited conversations about whether
+OL,9, enough is being done to help victims.
+OL,11,FHe Yuhong, who goes by the online name
+OL,12,F"Yuyamika", is known for transforming
+OL,13,Fherself into celebrities, including
+OL,14,FJohn Lennon and Taylor Swift.
+OL,16,FOn Monday, she released a video on her
+OL,17,FSina Weibo account on the United
+OL,18,FNations' International Day for the
+OL,19,FElimination of Violence Against Women. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
