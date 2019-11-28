@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -17,13 +17,13 @@ OL,8,GChina rebukes US for backing Hong  C105
 OL,9,GKong protesters                        
 OL,10,GEU net migration to UK at lowest   C106
 OL,11,Gfor 16 years                           
-OL,12,GEscalating Iraq protests leave 13  C107
+OL,12,GEscalating Iraq protests leave 15  C107
 OL,13,Gdead                                   
 OL,14,GLabour to change election strategy C108
 OL,16,GUS envoy to EU accused of sexual   C109
 OL,17,Gmisconduct                             
-OL,18,GViolence during consensual sex     C110
-OL,19,G'normalised'                           
+OL,18,GGary Rhodes died from head injury, C110
+OL,19,Gfamily confirms                        
 OL,20,GMadonna cancels shows amid         C111
 OL,21,G'overwhelming pain'                    
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -49,17 +49,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 11:25GWinnersF37GLosersA64
-OL,14,C FTSE100    G7404.60 A-25.18 Fat 11:25
-OL,15,C techMARK100G5777.52 A-1.18  Fat 11:25
+OL,12,  FTSE100Fat 12:25GWinnersF35GLosersA66
+OL,14,C FTSE100    G7403.65 A-26.13 Fat 12:25
+OL,15,C techMARK100G5775.88 A-2.82  Fat 12:25
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
 OL,18,C Nikkei     G23409.14A-2,862.Fat 07:44
-OL,19,C DJEurStoxx G3705.22 A-7.63  Fat 11:25
+OL,19,C DJEurStoxx G3703.52 A-9.33  Fat 12:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -82,7 +82,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -92,32 +92,32 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZS*y?sp  CSome Cloud    
-OL,9,           ^ZSj)"G 07S}  C             
-OL,10,       ^ZVp|t SxVg0 B             
-OL,11,       ZVnG09VtS+"VG07V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BLight Rain
-OL,14,B            ^ZV`  R*G 09R}  B         
-OL,15,EOvercast    ^ZVk|R            
-OL,16,E            ^ZV'oG 09U}zt B       
-OL,17,B              ZVj^RG 09U B       
-OL,18,B            ZVx|^G 11U'         
-OL,19,             ^ZV! +/'iUqp0        
-OL,20,B            ^ZR  tG 10U/!        
-OL,21,B            ZR zG11R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZU*y?sp  ESome Cloud    
+OL,9,           ^ZUj)"G 07U}  E             
+OL,10,       ^ZVp|t UxRg0 BLight Rain   
+OL,11,       ZVnG09VtU+"RG08R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  B          
+OL,14,B            ^ZV`  R*G 09R} B          
+OL,15,COvercast    ^ZVk|R            
+OL,16,C            ^ZV'oG 09S}zt B       
+OL,17,B              ZVj^RG 09S B       
+OL,18,B            ZVx|^G 11S'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 10V/!        
+OL,21,B            ZV zG11V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G05R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G05V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
@@ -126,21 +126,21 @@ OL,9,           ^ZRj)"G 03R}  B
 OL,10,       ^ZVp|t RxVg0 B             
 OL,11,       ZVnG06VtR+"VG04V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 06V} B          
+OL,13,        ZV+%*o!V" U *u  ELight Rain
+OL,14,B            ^ZR`  U*G 05U}  E         
 OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 05R}zt B       
 OL,17,B              ZRj^VG 07R B       
 OL,18,B            ZRx|^G 07R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,ECloudy      ^ZU  tG 07R/!        
-OL,21,E            ZU zG09U^/s/R/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,20,CCloudy      ^ZS  tG 07R/!        
+OL,21,C            ZS zG09S^/s/R/? B         
+OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -187,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -239,20 +239,20 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CEscalating Iraq protests leave 13 dead
-OL,5, At least 13 people have been killed in
+OL,4,CEscalating Iraq protests leave 15 dead
+OL,5, At least 15 people have been killed in
 OL,6, Iraq in a fresh wave of protests in the
 OL,7, southern city of Nasiriya. 
 OL,9,FSecurity forces opened fire and used
 OL,10,Ftear gas on Thursday to clear two
-OL,11,Fbridges blocked by protesters. Another
-OL,12,F70 people were injured.
+OL,11,Fbridges blocked by protesters. At least
+OL,12,F150 people were injured.
 OL,14,FIraqis have been taking to the streets
 OL,15,Fto demand more jobs, an end to
 OL,16,Fcorruption, and better public services.
@@ -264,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -290,7 +290,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -316,33 +316,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CViolence during consensual sex
-OL,5,C'normalised'
-OL,6, Violence during consensual sex has
-OL,7, become normalised, campaigners have
-OL,8, warned.
-OL,10,FIt comes after more than a third of UK
-OL,11,Fwomen under the age of 40 have
-OL,12,Fexperienced unwanted slapping, choking,
-OL,13,Fgagging or spitting during consensual
-OL,14,Fsex, research for BBC Radio 5 Live
-OL,15,Fsuggests.  
-OL,17,FOf the women who had experienced any of
-OL,18,Fthese acts, wanted or otherwise, 20%
-OL,19,Fsaid they had been left upset or
-OL,20,Ffrightened.
+OL,4,CGary Rhodes died from head injury,
+OL,5,Cfamily confirms
+OL,6, Celebrity chef Gary Rhodes died from a
+OL,7, head injury, his family has confirmed. 
+OL,9,FThey released a statement to the London
+OL,10,FEvening Standard "in order to end
+OL,11,Fpainful speculation."
+OL,13,FIt confirmed Rhodes, who died aged 59,
+OL,14,Fcollapsed at his home in Dubai with a
+OL,15,Fsubdural hematoma, which is usually
+OL,16,Fassociated with a brain injury.
+OL,18,FHis death was widely reported on
+OL,19,FWednesday, followed by some press
+OL,20,Fspeculation as to the cause.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -368,7 +367,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,7 +391,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -418,33 +417,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CBoys to be admitted to last all-girl
-OL,5,Cstate school
-OL,6, The last state all-girls school in
-OL,7, Scotland is to admit boys for the first
-OL,8, time in 2021.
-OL,10,FCouncillors voted unanimously to allow
-OL,11,Fboys to attend Notre Dame High School
-OL,12,Fin Glasgow, which has taught only girls
-OL,13,Fsince its opening in 1897.
-OL,15,FIt follows fierce debate among parents
-OL,16,Fand a lengthy consultation about the
-OL,17,Fschool's future.
-OL,19,FEducation officers recommended making
-OL,20,Fthe school "co-educational" after a
-OL,21,Fvote at Glasgow City Council.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CRadio 2 DJ in #20m bid for fire-hit
+OL,5,Ccancer unit
+OL,6, Broadcaster Mark Radcliffe has launched
+OL,7, a campaign to raise #20m to help build
+OL,8, a new cancer research centre at
+OL,9, Manchester's Christie Hospital.
+OL,11,FThe Re-Write Cancer campaign aims to
+OL,12,Fhelp meet the cost of a new #150m
+OL,13,Fresearch facility.
+OL,15,FIt will replace the old Paterson
+OL,16,Fbuilding on Wilmslow Road, which was
+OL,17,Fdestroyed by fire in 2017. 
+OL,19,FRadcliffe, 61, was diagnosed with
+OL,20,Fcancer last year and had a tumour
+OL,21,Fremoved from his tongue.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -470,32 +469,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CVue boss plans to rescreen banned film
-OL,5, The boss of a cinema chain that banned
-OL,6, a London gang film after a mass brawl
-OL,7, in Birmingham has told the BBC he plans
-OL,8, to resume screenings by the weekend. 
-OL,10,FVue banned Blue Story after saying
-OL,11,Fthere had been 25 serious incidents in
-OL,12,F16 of its cinemas. 
-OL,14,FBut its chief executive, Tim Richards,
-OL,15,Fsaid it was now looking at "beefing up
-OL,16,Fsecurity" to restart screenings.
-OL,18,FIt comes after Blue Story's director,
-OL,19,FRapman, questioned whether there were
-OL,20,F"hidden reasons" for the ban.
+OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
+OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
+OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
+OL,4,CBoys to be admitted to last all-girl
+OL,5,Cstate school
+OL,6, The last state all-girls school in
+OL,7, Scotland is to admit boys for the first
+OL,8, time in 2021.
+OL,10,FCouncillors voted unanimously to allow
+OL,11,Fboys to attend Notre Dame High School
+OL,12,Fin Glasgow, which has taught only girls
+OL,13,Fsince its opening in 1897.
+OL,15,FIt follows fierce debate among parents
+OL,16,Fand a lengthy consultation about the
+OL,17,Fschool's future.
+OL,19,FEducation officers recommended making
+OL,20,Fthe school "co-educational" after a
+OL,21,Fvote at Glasgow City Council.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C12:35:11
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C13:34:48
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
