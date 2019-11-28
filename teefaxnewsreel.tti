@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7429.78 F+26.64 Fat CLOSE
 OL,15,C techMARK100G5778.70 F+5.12  Fat CLOSE
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
-OL,18,C Nikkei     G23446.55F+8.78  Fat 01:25
+OL,18,C Nikkei     G23453.96F+16.19 Fat 01:55
 OL,19,C DJEurStoxx G3712.85 F+7.30  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,36 +83,36 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G         Thursday Evening            
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G03V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G03R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G02V!FCloudy         
+OL,6,            ZV!'~G02V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZU*y?sp  EClear         
-OL,9,           ^ZUj)"G 01U}  E             
-OL,10,       ^ZVp|t UxVg0 B             
-OL,11,       ZVnG04VtU+"VG02V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" S *u  CSome Cloud
-OL,14,B            ^ZV`  S*G 03S}  C         
-OL,15,BLight Rain  ^ZVk|V            
-OL,16,B            ^ZV'oG 02R}zt B       
-OL,17,B              ZVj^VG 03R B       
-OL,18,B            ZVx|^G 05R'         
-OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 05R/!        
-OL,21,B            ZV zG07V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,8,B          ^ZS*y?sp  CClear         
+OL,9,           ^ZSj)"G 01S}  C             
+OL,10,       ^ZVp|t SxRg0 BCloudy       
+OL,11,       ZVnG04VtS+"RG02R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" V *u  B          
+OL,14,B            ^ZU`  V*G 03V} B          
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 02U}zt B       
+OL,17,ELight Rain    ZUj^RG 03U B       
+OL,18,E            ZUx|^G 05U'         
+OL,19,             ^ZU! +/'iUqp0        
+OL,20,B            ^ZR  tG 05U/!        
+OL,21,B            ZR zG07R^/s/U/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Friday                 
@@ -124,24 +124,24 @@ OL,6,            ZV!'~G04V!FSome Cloud
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BSunny         
 OL,9,           ^ZRj)"G 03R}  B             
-OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG06RtR+"VG04V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 05V} B          
+OL,10,       ^ZUp|t RxVg0 B             
+OL,11,       ZUnG06UtR+"VG04V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 06V} B          
 OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 05R}zt B       
 OL,17,B              ZVj^VG 07R B       
 OL,18,B            ZVx|^G 07R'         
 OL,19,             ^ZV! +/'iRqp0        
 OL,20,ECloudy      ^ZU  tG 07R/!        
-OL,21,E            ZU zG08U^/s/R/? B         
+OL,21,E            ZU zG09U^/s/R/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -188,7 +188,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -206,15 +206,15 @@ OL,13,Fjustify its special status with the US.
 OL,15,FMr Trump said he signed the law "out of
 OL,16,Frespect for President Xi (Jinping),
 OL,17,FChina, and the people of Hong Kong".
-OL,19,FHong Kong's government said the bill
-OL,20,Fwould send the wrong signal and would
-OL,21,Fnot help to ease the situation.
+OL,19,FChina's foreign ministry said it would
+OL,20,Ftake "firm counter measures" - accusing
+OL,21,Fthe US of "sinister intentions".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -240,7 +240,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -266,7 +266,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -292,7 +292,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -318,7 +318,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -344,7 +344,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -371,7 +371,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -396,7 +396,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -422,7 +422,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -448,33 +448,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRussia hails spy who 'foiled Churchill
-OL,5,Cdeath plot'
-OL,6, Russia has paid tribute to a former
-OL,7, Soviet intelligence officer it credits
-OL,8, with uncovering a Nazi plot to kill the
-OL,9, Allied leaders Churchill, Stalin and
-OL,10, Roosevelt during World War Two.
-OL,12,FGoar Vartanyan died on Monday at the
-OL,13,Fage of 93. She was married to Soviet
-OL,14,Fspy Gevork Vartanian, who died in 2012.
-OL,16,FWithout the pair "the history of our
-OL,17,Fworld could have been different",
-OL,18,FKremlin spokesman Dmitry Peskov said.
-OL,20,F"These are people who left their mark
-OL,21,Fon the history of mankind."
+OL,4,CUtah family terrorised by Hawaii
+OL,5,C'extreme stalker'
+OL,6, A Hawaii man accused of terrorising a
+OL,7, family with threats and unsolicited
+OL,8, deliveries to their home in Utah has
+OL,9, appeared in court in Honolulu.
+OL,11,FProsecutors say Loren Okamura, 44, sent
+OL,12,Fhundreds of people - from locksmiths to
+OL,13,Fdrug dealers to sex workers - to the
+OL,14,Ffamily's home over more than a year.
+OL,16,FThe victims were "tormented" by
+OL,17,F"extreme cyberstalking", federal
+OL,18,Fprosecutor John Huber said.
+OL,20,FMr Okamura will remain in detention
+OL,21,Funtil he is sent to Utah for a hearing.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
@@ -500,26 +500,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C03:31:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CAustralian broadcaster Clive James dies
-OL,5,Caged 80
-OL,6, Clive James, the Australian writer and
-OL,7, broadcaster known around the world for
-OL,8, his dry wit, has died at the age of 80.
-OL,10,FDiagnosed with leukaemia in 2010, the
-OL,11,Fauthor and critic had movingly written
-OL,12,Fabout his terminal illness during the
-OL,13,Ffinal years of his life.
-OL,15,FBorn Vivian James in 1939, he moved to
-OL,16,FEngland in 1961 and rose to prominence
-OL,17,Fas a literary critic and TV columnist.
-OL,19,FHe went on to deliver wry commentary on
-OL,20,Finternational programming in such shows
-OL,21,Fas Clive James On Television.
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CRussia hails spy who 'foiled Churchill
+OL,5,Cdeath plot'
+OL,6, Russia has paid tribute to a former
+OL,7, Soviet intelligence officer it credits
+OL,8, with uncovering a Nazi plot to kill the
+OL,9, Allied leaders Churchill, Stalin and
+OL,10, Roosevelt during World War Two.
+OL,12,FGoar Vartanyan died on Monday at the
+OL,13,Fage of 93. She was married to Soviet
+OL,14,Fspy Gevork Vartanian, who died in 2012.
+OL,16,FWithout the pair "the history of our
+OL,17,Fworld could have been different",
+OL,18,FKremlin spokesman Dmitry Peskov said.
+OL,20,F"These are people who left their mark
+OL,21,Fon the history of mankind."
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
