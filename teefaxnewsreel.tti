@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,15 +15,15 @@ OL,4,MTory and Labour spending plans 'notC104
 OL,6,Gcredible' - IFS                        
 OL,8,GChina rebukes US for backing Hong  C105
 OL,9,GKong protesters                        
-OL,10,GLabour to change election strategy C106
+OL,10,GEU net migration to UK at lowest   C106
+OL,11,Gfor 16 years                           
 OL,12,GEscalating Iraq protests leave 13  C107
 OL,13,Gdead                                   
-OL,14,GViolence during consensual sex     C108
-OL,15,G'normalised'                           
+OL,14,GLabour to change election strategy C108
 OL,16,GUS envoy to EU accused of sexual   C109
 OL,17,Gmisconduct                             
-OL,18,GUK house price growth 'low for a   C110
-OL,19,Gyear'                                  
+OL,18,GViolence during consensual sex     C110
+OL,19,G'normalised'                           
 OL,20,GImmunotherapy hope for advanced    C111
 OL,21,Gprostate cancer                        
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -49,17 +49,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 09:30GWinnersF24GLosersA77
-OL,14,C FTSE100    G7394.81 A-34.97 Fat 09:30
-OL,15,C techMARK100G5780.39 F+1.69  Fat 09:30
+OL,12,  FTSE100Fat 10:25GWinnersF35GLosersA66
+OL,14,C FTSE100    G7398.17 A-31.61 Fat 10:25
+OL,15,C techMARK100G5781.41 F+2.71  Fat 10:25
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
 OL,18,C Nikkei     G23409.14A-2,862.Fat 07:44
-OL,19,C DJEurStoxx G3704.87 A-7.98  Fat 09:30
+OL,19,C DJEurStoxx G3704.81 A-8.04  Fat 10:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,42 +83,42 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G07S%  B               
-OL,4,           SZj**gppp B               
-OL,5,           ^ZV({5                
-OL,6,            ZV!'~G06V!FSome Cloud     
-OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 07V} B              
-OL,10,       ^ZSp|t VxRg0 B             
-OL,11,       ZSnG09StV+"RG08R B             
-OL,12,       ZS+R`4R+|0             
-OL,13,        ZS+%*o!R" R *u  BLight Rain
-OL,14,B            ^ZV`  R*G 09R}  B         
-OL,15,B            ^ZVk|U            
-OL,16,B            ^ZV'oG 09R}zt B       
-OL,17,B              ZVj^UG 09R B       
-OL,18,B            ZVx|^G 11R'         
-OL,19,             ^ZV! +/'iUqp0        
-OL,20,CCloudy      ^ZS  tG 10U/!        
-OL,21,C            ZS zG11S^/s/U/? EOvercast 
-OL,22,            ZS8?' "'    "     E        
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G07R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZU({5                
+OL,6,            ZU!'~G06U!ESome Cloud     
+OL,7,           ^ZU ~ow1  E              
+OL,8,B          ^ZS*y?sp  CSunny         
+OL,9,           ^ZSj)"G 07S}  C             
+OL,10,       ^ZVp|t SxVg0 FLight Rain   
+OL,11,       ZVnG09VtS+"VG07V  F            
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZR`  V*G 09V} B          
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 09V}zt B       
+OL,17,B              ZRj^VG 09V B       
+OL,18,B            ZRx|^G 11V'         
+OL,19,             ^ZR! +/'iTqp0        
+OL,20,BCloudy      ^ZR  tG 10T/!        
+OL,21,B            ZR zG11R^/s/T/? DOvercast 
+OL,22,            ZR8?' "'    "     D        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G05U%  ECloudy         
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G05V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
@@ -134,14 +134,14 @@ OL,16,B            ^ZR'oG 05R}zt B
 OL,17,B              ZRj^VG 07R B       
 OL,18,B            ZRx|^G 07R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,COvercast    ^ZS  tG 07R/!        
-OL,21,C            ZS zG08S^/s/R/? B         
-OL,22,            ZS8?' "'    "    B         
+OL,20,ECloudy      ^ZU  tG 07R/!        
+OL,21,E            ZU zG08U^/s/R/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -174,9 +174,9 @@ OL,6, Neither the Conservatives nor Labour
 OL,7, are offering "credible" spending plans
 OL,8, ahead of the election, an influential
 OL,9, research group has said.
-OL,11,FThe Institute for Fiscal Studies said
-OL,12,Fit was "highly likely" the Tories would
-OL,13,Fend up spending more than their
+OL,11,FThe Institute for Fiscal Studies (IFS)
+OL,12,Fsaid it was "highly likely" the Tories
+OL,13,Fwould end up spending more than their
 OL,14,Fmanifesto pledges.
 OL,16,FLabour, it warned, would be unable to
 OL,17,Fdeliver its spending increases as it
@@ -188,7 +188,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -214,33 +214,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLabour to change election strategy
-OL,5, The Labour Party is to re-shape its
-OL,6, general election campaign strategy -
-OL,7, particularly in Leave-voting areas - to
-OL,8, try to turn around a stubborn
-OL,9, Conservative opinion poll lead. 
-OL,11,FInsiders told the BBC that in the first
-OL,12,Fhalf of the election campaign, a key
-OL,13,Ferror was that the Liberal Democrat
-OL,14,Fthreat had been overestimated, while
-OL,15,Fthe willingness of Leave voters to
-OL,16,Fswitch from Labour to the Conservatives
-OL,17,Fhad been underestimated.
-OL,19,FIn the last two weeks of the campaign,
-OL,20,Fthis will change.
+OL,4,CEU net migration to UK at lowest for 16
+OL,5,Cyears
+OL,6, The overall number of EU citizens
+OL,7, moving to the UK has fallen to its
+OL,8, lowest level for 16 years, while the
+OL,9, UK's net migration rate remains more
+OL,10, than 200,000, ONS figures show.
+OL,12,FNet migration - the difference between
+OL,13,Fhow many people came to the UK for at
+OL,14,Fleast 12 months and how many left - was
+OL,15,F212,000 in the year to the end of June.
+OL,17,FEU net migration dropped to 48,000 -
+OL,18,Fits lowest level since 2003.
+OL,20,FThe ONS says this was down to fewer
+OL,21,Fpeople coming to Britain for work.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -265,33 +265,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CViolence during consensual sex
-OL,5,C'normalised'
-OL,6, Violence during consensual sex has
-OL,7, become normalised, campaigners have
-OL,8, warned.
-OL,10,FIt comes after more than a third of UK
-OL,11,Fwomen under the age of 40 have
-OL,12,Fexperienced unwanted slapping, choking,
-OL,13,Fgagging or spitting during consensual
-OL,14,Fsex, research for BBC Radio 5 Live
-OL,15,Fsuggests.  
-OL,17,FOf the women who had experienced any of
-OL,18,Fthese acts, wanted or otherwise, 20%
-OL,19,Fsaid they had been left upset or
-OL,20,Ffrightened.
+OL,4,CLabour to change election strategy
+OL,5, The Labour Party is to re-shape its
+OL,6, general election campaign strategy -
+OL,7, particularly in Leave-voting areas - to
+OL,8, try to turn around a stubborn
+OL,9, Conservative opinion poll lead. 
+OL,11,FInsiders told the BBC that in the first
+OL,12,Fhalf of the election campaign, a key
+OL,13,Ferror was that the Liberal Democrat
+OL,14,Fthreat had been overestimated, while
+OL,15,Fthe willingness of Leave voters to
+OL,16,Fswitch from Labour to the Conservatives
+OL,17,Fhad been underestimated.
+OL,19,FIn the last two weeks of the campaign,
+OL,20,Fthis will change.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,31 +317,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CUK house price growth 'low for a year'
-OL,5, Annual growth in UK house prices has
-OL,6, been below 1% each month for the last
-OL,7, year in a relatively stagnant market, a
-OL,8, major mortgage lender has said.
-OL,10,FPrices rose 0.8% in the year to late
-OL,11,FNovember, the Nationwide said - a
-OL,12,Fslight pick-up on the previous month.
-OL,14,FIt said the housing market was being
-OL,15,Faffected by wider economic uncertainty
-OL,16,Fover weak global growth and Brexit.
-OL,18,FThe average UK home costs #215,734, the
-OL,19,Fbuilding society said.
+OL,4,CViolence during consensual sex
+OL,5,C'normalised'
+OL,6, Violence during consensual sex has
+OL,7, become normalised, campaigners have
+OL,8, warned.
+OL,10,FIt comes after more than a third of UK
+OL,11,Fwomen under the age of 40 have
+OL,12,Fexperienced unwanted slapping, choking,
+OL,13,Fgagging or spitting during consensual
+OL,14,Fsex, research for BBC Radio 5 Live
+OL,15,Fsuggests.  
+OL,17,FOf the women who had experienced any of
+OL,18,Fthese acts, wanted or otherwise, 20%
+OL,19,Fsaid they had been left upset or
+OL,20,Ffrightened.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -367,33 +369,31 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBags for life 'adding to rising plastic
-OL,5,Cwaste'
-OL,6, Sales of "bags for life" rose to 1.5bn
-OL,7, last year as the amount of plastic used
-OL,8, by supermarkets increased to 900,000
-OL,9, tonnes, Greenpeace research has found.
-OL,11,FCampaigners are calling for higher
-OL,12,Fcharges for the bags or a complete ban
-OL,13,Fas the research showed households
-OL,14,Fbought an average of 54 a year.
-OL,16,FIn 2016, there were 2bn single-use bags
-OL,17,Fsold. Bags for life must be used four
-OL,18,Ftimes to be better for the environment.
-OL,20,FRetailers say they have reduced plastic
-OL,21,Fpackaging for their own-brand products.
+OL,4,CUK house price growth 'low for a year'
+OL,5, Annual growth in UK house prices has
+OL,6, been below 1% each month for the last
+OL,7, year in a relatively stagnant market, a
+OL,8, major mortgage lender has said.
+OL,10,FPrices rose 0.8% in the year to late
+OL,11,FNovember, the Nationwide said - a
+OL,12,Fslight pick-up on the previous month.
+OL,14,FIt said the housing market was being
+OL,15,Faffected by wider economic uncertainty
+OL,16,Fover weak global growth and Brexit.
+OL,18,FThe average UK home costs #215,734, the
+OL,19,Fbuilding society said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -419,7 +419,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -445,59 +445,58 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CFacebook posts corrected under 'fake
-OL,5,Cnews' law
-OL,6, Singapore has ordered a fringe news
-OL,7, site to correct a post made on its
-OL,8, Facebook page, under a controversial
-OL,9, "fake news" law. 
-OL,11,FIt is the second time in less than a
-OL,12,Fweek that the law - which was passed
-OL,13,Fearlier this year - has been invoked. 
-OL,15,FThe government said a post by the
-OL,16,FStates Times Review (STR) contained
-OL,17,F"false statements of fact".
-OL,19,FBut the STR editor, Alex Tan, said he
-OL,20,Fwould "not comply with any order from a
-OL,21,Fforeign government".
+OL,4,CVlogger reignites Chinese domestic
+OL,5,Cviolence debate
+OL,6, A Chinese beauty vlogger's claims of
+OL,7, suffering domestic violence have
+OL,8, reignited conversations about whether
+OL,9, enough is being done to help victims.
+OL,11,FHe Yuhong, who goes by the online name
+OL,12,F"Yuyamika", is known for transforming
+OL,13,Fherself into celebrities, including
+OL,14,FJohn Lennon and Taylor Swift.
+OL,16,FOn Monday, she released a video on her
+OL,17,FSina Weibo account on the United
+OL,18,FNations' International Day for the
+OL,19,FElimination of Violence Against Women. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CImmunotherapy hope for advanced
-OL,5,Cprostate cancer
-OL,6, A major trial of an immunotherapy drug
-OL,7, has shown it can be effective in some
-OL,8, men with advanced prostate cancer.
-OL,10,FThe men had stopped responding to the
-OL,11,Fmain treatment options. 
-OL,13,FResearchers found that a small
-OL,14,Fproportion of men, described as "super
-OL,15,Fresponders", remained well even after
-OL,16,Fthe trial ended, despite a very poor
-OL,17,Fprognosis before treatment. 
-OL,19,FLast week it was reported the same drug
-OL,20,Fhad proved effective in treating
-OL,21,Fadvanced head and neck cancers. 
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CBags for life 'adding to rising plastic
+OL,5,Cwaste'
+OL,6, Sales of "bags for life" rose to 1.5bn
+OL,7, last year as the amount of plastic used
+OL,8, by supermarkets increased to 900,000
+OL,9, tonnes, Greenpeace research has found.
+OL,11,FCampaigners are calling for higher
+OL,12,Fcharges for the bags or a complete ban
+OL,13,Fas the research showed households
+OL,14,Fbought an average of 54 a year.
+OL,16,FIn 2016, there were 2bn single-use bags
+OL,17,Fsold. Bags for life must be used four
+OL,18,Ftimes to be better for the environment.
+OL,20,FRetailers say they have reduced plastic
+OL,21,Fpackaging for their own-brand products.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C10:35:17
+OL,0,XXXXXXXXBNMPSERVER2      E28/11C11:34:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
