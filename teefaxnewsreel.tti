@@ -5,13 +5,13 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MPeople 'injured' after London      C104
+OL,4,MMan shot by police after London    C104
 OL,6,GBridge stabbing                        
 OL,8,GSudan's women hail end of strict   C105
 OL,9,Gpublic order law                       
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,37 +50,39 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 14:30GWinnersF27GLosersA74
-OL,14,C FTSE100    G7377.94 A-38.49 Fat 14:30
-OL,15,C techMARK100G5770.38 A-15.68 Fat 14:30
-OL,16,C Dow Jones  G28107.90A-56.10 Fat 14:30
-OL,17,C Nasdaq     G8434.15 A-10.56 Fat 14:30
+OL,12,  FTSE100Fat 15:30GWinnersF21GLosersA80
+OL,14,C FTSE100    G7359.70 A-56.73 Fat 15:30
+OL,15,C techMARK100G5769.26 A-16.80 Fat 15:30
+OL,16,C Dow Jones  G28080.11A-83.89 Fat 15:30
+OL,17,C Nasdaq     G8421.47 A-23.24 Fat 15:30
 OL,18,C Nikkei     G23293.91A-11,523Fat 07:44
-OL,19,C DJEurStoxx G3711.95 F+7.47  Fat 14:30
+OL,19,C DJEurStoxx G3705.80 F+1.32  Fat 15:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MManager leaves after 18 months in  G303
-OL,6,FInjured Liverpool midfielder out   G304
-OL,7,FAston Villa manager signs new      G305
-OL,8,FLawro vs Sonny Bill Williams       G306
-OL,9,FThe telling stats behind Arsenal   G307
-OL,10,FWhat you need to know              G308
-OL,12,FDutch police made 42 arrests but   G309
-OL,13,FMaidstone United looking to join   G310
-OL,14,FCan you name all 11 European       G311
+OL,6,FDavid Pemsel resigns as chief      G304
+OL,7,FInjured Liverpool midfielder out   G305
+OL,8,FMarco Silva not losing sleep over  G306
+OL,9,FAston Villa manager signs new      G307
+OL,10,FLawro vs Sonny Bill Williams       G308
+OL,12,FThe telling stats behind Arsenal   G309
+OL,13,FWhat you need to know              G310
+OL,14,FDutch police made 42 arrests but   G311
+OL,15,FMaidstone United looking to join   G312
+OL,17,FCan you name all 11 European       G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -102,14 +104,14 @@ OL,16,B            ^ZR'oG 06V}zt B
 OL,17,B              ZRj^RG 07V B       
 OL,18,B            ZRx|^G 07V'         
 OL,19,             ^ZR! +/'iVqp0        
-OL,20,ECloudy      ^ZU  tG 08V/!        
+OL,20,ECloudy      ^ZU  tG 07V/!        
 OL,21,E            ZU zG09U^/s/V/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -138,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,33 +161,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CPeople 'injured' after London Bridge
+OL,4,CMan shot by police after London Bridge
 OL,5,Cstabbing
-OL,6, A number of people are believed to have
-OL,7, been injured after a stabbing at London
-OL,8, Bridge, police have said. 
-OL,10,FThe Met said one man had been shot by
-OL,11,Fpolice and it was treating the incident
-OL,12,F"as though it is terror related".
-OL,14,FThe force earlier said it had detained
-OL,15,Fa man. London Ambulance Service has
-OL,16,Fdeclared a "major incident".
-OL,18,FThe BBC's John McManus, at the scene,
-OL,19,Fsaid he had seen a group of men in a
-OL,20,Ffight on the bridge. Police then
-OL,21,Farrived and shots were fired, he said. 
+OL,6, A number of people have been stabbed
+OL,7, and a man has been shot dead by police
+OL,8, in an incident at London Bridge.
+OL,10,FThe Met Police said it was treating the
+OL,11,Fstabbing attack as "terror related".
+OL,13,FEarlier, the force said it had detained
+OL,14,Fa man. London Ambulance Service has
+OL,15,Fdeclared a "major incident".
+OL,17,FBBC reporter John McManus said he saw a
+OL,18,Ffight on the bridge, with several men
+OL,19,Fattacking one man. Police then arrived
+OL,20,Fquickly and a number of shots were
+OL,21,Ffired at the man, he said. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -211,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -223,7 +225,7 @@ OL,6, Energy firm Npower is to cut up to
 OL,7, 4,500 UK jobs as part of a plan to make
 OL,8, it more profitable.
 OL,10,FThree call centres are under threat of
-OL,11,Fclosure, at Houghton le Spring, near
+OL,11,Fclosure, at Houghton-le-Spring, near
 OL,12,FSunderland, an office in Hull and one
 OL,13,Fin Worcester.
 OL,15,FUnions called the action a "cruel blow"
@@ -237,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -263,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -289,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -315,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -341,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -367,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -393,33 +395,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIraq PM to resign after bloodiest day
-OL,5,Cin protests
-OL,6, Iraqi Prime Minister Adel Abdul Mahdi
-OL,7, is to submit his resignation, his
-OL,8, office says, after more than 40 people
-OL,9, were killed on the bloodiest day since
-OL,10, anti-government protests began.
-OL,12,FMr Abdul Mahdi's decision comes after
-OL,13,FIraq's top Shia Muslim cleric condemned
-OL,14,Fthe use of force against protesters and
-OL,15,Fcalled for a new government.
-OL,17,FNearly 400 people have been killed in
-OL,18,Fprotests since the start of October.
-OL,20,FIraqis are demanding jobs, an end to
-OL,21,Fcorruption and better public services.
+OL,4,CAmazon Mexico ex-head wanted after
+OL,5,Cwife's murder
+OL,6, The former head of Amazon Mexico is
+OL,7, wanted for questioning after his wife
+OL,8, was killed by an apparent hitman in
+OL,9, Mexico City. 
+OL,11,FAbril Perez Sagaon was shot dead in a
+OL,12,Fcar on Monday in front of two of her
+OL,13,Fteenage children.
+OL,15,FJuan Carlos Garcia has not commented
+OL,16,Fpublicly. 
+OL,18,FThe couple were in the middle of a
+OL,19,Fdivorce battle and Mr Garcia had been
+OL,20,Ffreed on bail after a prior allegation
+OL,21,Fof violence against her.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -444,33 +446,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTwo K-pop stars sentenced to prison for
-OL,5,Cgang rape
-OL,6, A South Korean court has sentenced
-OL,7, K-pop stars Jung Joon-young and Choi
-OL,8, Jong-hoon to six and five years in
-OL,9, prison for gang raping drunk
-OL,10, unconscious women.
-OL,12,FJung was also charged with filming the
-OL,13,Fassault and distributing the footage.
-OL,15,FThe men will have to do 80 hours of
-OL,16,Fsexual violence treatment courses and
-OL,17,Fare banned from working with children.
-OL,19,FThe case is one of several sex and
-OL,20,Fabuse scandals that have rocked the
-OL,21,FK-pop world in recent years. 
+OL,4,CIraq PM to resign after bloodiest day
+OL,5,Cin protests
+OL,6, Iraqi Prime Minister Adel Abdul Mahdi
+OL,7, is to submit his resignation, his
+OL,8, office says, after more than 40 people
+OL,9, were killed on the bloodiest day since
+OL,10, anti-government protests began.
+OL,12,FMr Abdul Mahdi's decision comes after
+OL,13,FIraq's top Shia Muslim cleric condemned
+OL,14,Fthe use of force against protesters and
+OL,15,Fcalled for a new government.
+OL,17,FNearly 400 people have been killed in
+OL,18,Fprotests since the start of October.
+OL,20,FIraqis are demanding jobs, an end to
+OL,21,Fcorruption and better public services.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -496,26 +498,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:48
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C16:34:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAmazon protests disrupt Black Friday in
-OL,5,CFrance
-OL,6, Activists across France have staged
-OL,7, Black Friday protests against Amazon,
-OL,8, decrying consumerism and its impact on
-OL,9, the environment. 
-OL,11,FDozens of protesters gathered outside
-OL,12,Fthe company's French headquarters in
-OL,13,FClichy, north of Paris.
-OL,15,FProtesters also tried to blockade a
-OL,16,Fshopping centre in Paris and a
-OL,17,Flogistics centre near the eastern city
-OL,18,Fof Lyon.
-OL,20,FIn video from Lyon riot police can be
-OL,21,Fseen dragging activists away.
+OL,4,CVet's burnt body found after suspected
+OL,5,Cgang rape
+OL,6, An investigation has been launched
+OL,7, after a young woman's charred body was
+OL,8, found on the outskirts of the southern
+OL,9, Indian city of Hyderabad.
+OL,11,FThe 27-year-old vet disappeared on
+OL,12,FWednesday evening, after attending a
+OL,13,Fdoctor's appointment.
+OL,15,FHer badly burnt body was found the next
+OL,16,Fmorning. Police allege she was
+OL,17,Fgang-raped before she was killed.
+OL,19,FFour men have been arrested in
+OL,20,Fconnection with the case, senior police
+OL,21,Fofficial Prakash Reddy said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
