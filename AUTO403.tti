@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:33:50
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C03:32:03
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain moving southwards, becoming
-OL,9,Ffocussed over the far south of England
-OL,10,Fby the end of the night. Colder to the
-OL,11,Fnorth with a widespread frost and some
-OL,12,Ficy stretches likely. A few showers for
-OL,13,Fnorthern Scotland and eastern Scotland.
-OL,4,                                    1/2 
-OL,15,GFriday
-OL,16,FMost areas dry and bright. Northern
-OL,17,FScotland and some North Sea coastal
-OL,18,Fareas will catch occasional showers
-OL,19,Fwhilst southwest England has a cloudier
-OL,20,Fday with patchy rain during the
-OL,21,Fmorning.
+OL,7,GToday
+OL,8,FMost areas will be fine, dry and
+OL,9,Fbright. Cloudier for southwest England
+OL,10,Fthough, cloud thick enough for a little
+OL,11,Fpatchy rain here. Meanwhile, a few
+OL,12,Fshowers will affect northern Scotland
+OL,13,Fand eastern and northeastern England.
+OL,14,FFeeling cold.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +25,16 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:33:50
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C03:32:03
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Saturday to Monday
-OL,8,FWet and windy across the far south-west
-OL,9,FSaturday. For most dry with overnight
-OL,10,Ffrost and fog, and sunshine by day.
-OL,11,FBecoming milder and windier with some
-OL,12,Frain for Scotland Monday.
+OL,7,GOutlook for Sunday to Tuesday
+OL,8,FFor most, dry and fine throughout, with
+OL,9,Ffrost and fog by night and sunshine by
+OL,10,Fday. Milder and windier across Scotland
+OL,11,Fon Monday with some outbreaks of rain.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
