@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7416.43 A-13.35 Fat CLOSE
 OL,15,C techMARK100G5786.06 F+7.36  Fat CLOSE
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
-OL,18,C Nikkei     G23409.14A-2,862.Fat 07:44
-OL,19,C DJEurStoxx G3704.48 A-8.37  Fat 16:10
+OL,18,C Nikkei     G23470.86F+61.72 Fat 23:25
+OL,19,C DJEurStoxx G3704.48 A-8.37  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -76,71 +76,70 @@ OL,12,FIs Bayern Munich striker on course G309
 OL,13,F'I gave the best of me' - former   G310
 OL,14,FRobert Moreno unclear why          G311
 OL,15,FBBC to broadcast every match live  G312
-OL,17,FNuno Espirito Santo is a potential G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G           This Evening              
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G03R%  B               
-OL,4,           RZj**gppp B               
+OL,1,T]G          Friday Evening             
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G-1V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G02V!FSome Cloud     
+OL,6,            ZV!'~G-1V!FClear          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZS*y?sp  CClear         
-OL,9,           ^ZSj)"G 01S}  C             
-OL,10,       ^ZVp|t SxUg0 B             
-OL,11,       ZVnG04VtS+"UG02U B             
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" V *u  B          
-OL,14,B            ^ZR`  V*G 03V} B          
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 02V}zt BCloudy 
-OL,17,B              ZRj^RG 04V  B      
-OL,18,B            ZRx|^G 05V'         
-OL,19,             ^ZR! +/'iUqp0        
-OL,20,B            ^ZR  tG 05U/!        
-OL,21,B            ZR zG07R^/s/U/?     ELight
-OL,22,            ZR8?' "'    "    ERain     
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G -1V} B              
+OL,10,       ^ZUp|t VxVg0 B             
+OL,11,       ZUnG03UtV+"VG-2V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" R *u  BSome Cloud
+OL,14,B            ^ZU`  R*G 03R}  B         
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 02R}zt B       
+OL,17,B              ZUj^RG -1R B       
+OL,18,B            ZUx|^G 03R'         
+OL,19,             ^ZU! +/'iSqp0        
+OL,20,ECloudy      ^ZU  tG 05S/!        
+OL,21,E            ZU zG08U^/s/S/?     CLight
+OL,22,            ZU8?' "'    "    CRain     
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G             Tomorrow                
+OL,1,T]G             Saturday                
 OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G05V%  B               
+OL,3,           ZV`?0~G04V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G04V!FSome Cloud     
+OL,6,            ZV!'~G02V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BSunny         
-OL,9,           ^ZRj)"G 04R}  B             
-OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG06VtR+"VG04V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 06V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^VG 07R B       
-OL,18,B            ZRx|^G 07R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,ECloudy      ^ZU  tG 07R/!        
-OL,21,E            ZU zG09U^/s/R/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 02V} B              
+OL,10,       ^ZRp|t VxVg0 B             
+OL,11,       ZRnG07RtV+"VG04V B             
+OL,12,       ZR+V`4V+|0             
+OL,13,        ZR+%*o!V" R *u  BSome Cloud
+OL,14,B            ^ZU`  R*G 06R}  B         
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 05V}zt B       
+OL,17,ECloudy        ZUj^RG 07V B       
+OL,18,E            ZUx|^G 07V'         
+OL,19,             ^ZU! +/'iVqp0        
+OL,20,CHeavy Rain  ^ZS  tG 07V/!        
+OL,21,C            ZS zG10S^/s/V/? B         
+OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -187,7 +186,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,7 +212,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -239,7 +238,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -264,7 +263,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -290,7 +289,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -299,7 +298,7 @@ OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
 OL,4,CFree solo climber falls to his death
 OL,5, A world-renowned American free solo
 OL,6, climber has died attempting to descend
-OL,7, down the side of a cliff face.
+OL,7, the side of a cliff face.
 OL,9,FBrad Gobright, 31, fell around 300
 OL,10,Fmeters (1,000 ft) to his death in El
 OL,11,FPortero Chico in northern Mexico. 
@@ -315,7 +314,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -341,7 +340,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -367,7 +366,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,7 +391,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -418,7 +417,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -444,7 +443,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -470,7 +469,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -496,7 +495,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E28/11C23:35:22
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C00:36:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
