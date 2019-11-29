@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -23,8 +23,8 @@ OL,14,GDaily Mail owner buys i newspaper  C108
 OL,15,Gfor #50m                               
 OL,16,GFamous free solo climber falls to  C109
 OL,17,Ghis death                              
-OL,18,GEx-MP secures #900k Met payout overC110
-OL,19,G'Nick' claims                          
+OL,18,GCrossbow killer jailed for         C110
+OL,19,Gex-wife's murder                       
 OL,20,GStore 'rethinks' badges for staff  C111
 OL,21,Gon periods                             
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,36 +50,37 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 10:30GWinnersF37GLosersA64
-OL,14,C FTSE100    G7403.34 A-13.09 Fat 10:30
-OL,15,C techMARK100G5772.00 A-14.06 Fat 10:30
+OL,12,  FTSE100Fat 11:25GWinnersF34GLosersA67
+OL,14,C FTSE100    G7398.39 A-18.04 Fat 11:25
+OL,15,C techMARK100G5776.30 A-9.76  Fat 11:25
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
 OL,18,C Nikkei     G23293.91A-11,523Fat 07:44
-OL,19,C DJEurStoxx G3708.44 F+3.96  Fat 10:30
+OL,19,C DJEurStoxx G3711.50 F+7.02  Fat 11:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MManager leaves after 18 months in  G303
-OL,6,FSolskjaer says youngsters          G304
-OL,7,FEverton manager 'understands       G305
-OL,8,FMaidstone United looking to join   G306
-OL,9,FPremier League side progress after G307
-OL,10,FNeil Lennon's side top group with  G308
-OL,12,FCan you name all 11 European       G309
-OL,13,FRoland Duchatelet agrees sale to   G310
+OL,6,FLawro vs Sonny Bill Williams       G304
+OL,7,FSolskjaer says youngsters          G305
+OL,8,FEverton manager 'understands       G306
+OL,9,FMaidstone United looking to join   G307
+OL,10,FPremier League side progress after G308
+OL,12,FNeil Lennon's side top group with  G309
+OL,13,FCan you name all 11 European       G310
+OL,14,FRoland Duchatelet agrees sale to   G311
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -91,16 +92,16 @@ OL,6,            ZV!'~G04V!FSome Cloud
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BSunny         
 OL,9,           ^ZRj)"G 03R}  B             
-OL,10,       ^ZUp|t RxVg0 B             
-OL,11,       ZUnG07UtR+"VG05V B             
-OL,12,       ZU+V`4V+|0             
-OL,13,        ZU+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 06V} B          
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 04V}zt B       
-OL,17,B              ZVj^VG 07V B       
-OL,18,B            ZVx|^G 06V'         
-OL,19,             ^ZV! +/'iRqp0        
+OL,10,       ^ZVp|t RxVg0 B             
+OL,11,       ZVnG07VtR+"VG05V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZU`  V*G 06V} B          
+OL,15,B            ^ZUk|S            
+OL,16,B            ^ZU'oG 04V}zt   CLight
+OL,17,B              ZUj^SG 07V CRain   
+OL,18,B            ZUx|^G 06V'         
+OL,19,             ^ZU! +/'iRqp0        
 OL,20,ECloudy      ^ZU  tG 07R/!        
 OL,21,E            ZU zG09U^/s/R/? B         
 OL,22,            ZU8?' "'    "    B         
@@ -108,7 +109,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -116,28 +117,28 @@ OL,2,           ^ZV 4`~|}            G 2/2
 OL,3,           ZV`?0~G03V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G03V!FSunny          
+OL,6,            ZV!'~G02V!FSunny          
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 02V} B              
-OL,10,       ^ZRp|t VxVg0 B             
-OL,11,       ZRnG06RtV+"VG04V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" R *u  BSome Cloud
-OL,14,B            ^ZU`  R*G 05R}  B         
-OL,15,DOvercast    ^ZUk|V            
-OL,16,D            ^ZU'oG 03T}zt B       
-OL,17,ECloudy        ZUj^VG 06T B       
-OL,18,E            ZUx|^G 07T'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,CLight Rain  ^ZS  tG 07U/!        
-OL,21,C            ZS zG10S^/s/U/? B         
-OL,22,            ZS8?' "'    "    B         
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG07VtV+"VG04V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" U *u  ESome Cloud
+OL,14,B            ^ZR`  U*G 05U}  E         
+OL,15,COvercast    ^ZRk|V            
+OL,16,C            ^ZR'oG 03S}zt B       
+OL,17,B              ZRj^VG 06S B       
+OL,18,B            ZRx|^G 07S'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,BCloudy      ^ZR  tG 07R/!        
+OL,21,B            ZR zG10R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +159,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -183,7 +184,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -209,7 +210,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -217,7 +218,7 @@ OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CEnergy supplier Npower to axe up to
 OL,5,C4,500 jobs
-OL,6, Energy firm Npower is cut to up to
+OL,6, Energy firm Npower is to cut up to
 OL,7, 4,500 UK jobs as part of a plan to make
 OL,8, it more profitable.
 OL,10,FThree call centres are under threat of
@@ -235,7 +236,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -261,7 +262,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -287,7 +288,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -313,33 +314,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CEx-MP secures #900k Met payout over
-OL,5,C'Nick' claims
-OL,6, A former MP is to receive compensation
-OL,7, and costs from the Metropolitan Police
-OL,8, of nearly #900,000 over the force's
-OL,9, disastrous investigation into false
-OL,10, claims of a VIP paedophile ring.
-OL,12,FHarvey Proctor, an ex-Tory politician,
-OL,13,Fhad his home raided following claims by
-OL,14,Ffantasist Carl Beech.
-OL,16,FMr Proctor, 72, said he would now
-OL,17,Fattempt to repair his "damaged life in
-OL,18,Fthe years that are left to me". 
-OL,20,FThe Met confirmed a settlement was
-OL,21,Freached late on Thursday evening.
+OL,4,CCrossbow killer jailed for ex-wife's
+OL,5,Cmurder
+OL,6, A man who shot dead his heavily
+OL,7, pregnant ex-wife with a crossbow in a
+OL,8, "brutal and evil attack" has been
+OL,9, jailed.
+OL,11,FSana Muhammad, 35, was shot in the
+OL,12,Fabdomen by Ramanodge Unmathallegadoo at
+OL,13,Fher Ilford home on 12 November, 2018.
+OL,15,FHe hid in the shed in his ex-partner's
+OL,16,Fgarden armed with two crossbows, bolts,
+OL,17,Fa knife, duct tape, cable ties and a
+OL,18,Fhammer, the Old Bailey heard.
+OL,20,FUnmathallegadoo, 51, was jailed for
+OL,21,Flife with a minimum of 33 years. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -365,33 +366,85 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CDeadline for UK drone registration
-OL,5,Capproaches
-OL,6, UK drone pilots must register their
-OL,7, details with the Civil Aviation
-OL,8, Authority (CAA) by the end of 29
-OL,9, November or face a fine of #1,000.
-OL,11,FAnyone responsible for a drone which
-OL,12,Fweighs more than 250g (8.8oz) must
-OL,13,Fregister it with the regulator online.
-OL,15,FThe drone operator must be over 18 and
-OL,16,Fpay a #9 annual fee.
-OL,18,FThe CAA estimates that there are
-OL,19,F130,000 drone users in Britain, but so
-OL,20,Ffar only around 50,000 people have
-OL,21,Fregistered. 
+OL,4,CEx-MP secures #900k Met payout over
+OL,5,C'Nick' claims
+OL,6, A former MP is to receive compensation
+OL,7, and costs from the Metropolitan Police
+OL,8, of nearly #900,000 over the force's
+OL,9, disastrous investigation into false
+OL,10, claims of a VIP paedophile ring.
+OL,12,FHarvey Proctor, an ex-Tory politician,
+OL,13,Fhad his home raided following claims by
+OL,14,Ffantasist Carl Beech.
+OL,16,FMr Proctor, 72, said he would now
+OL,17,Fattempt to repair his "damaged life in
+OL,18,Fthe years that are left to me". 
+OL,20,FThe Met confirmed a settlement was
+OL,21,Freached late on Thursday evening.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CTop Shia cleric condemns Iraq protest
+OL,5,Cshootings
+OL,6, Iraq's top Shia Muslim cleric has
+OL,7, condemned the use of force against
+OL,8, protesters after more than 40 people
+OL,9, were killed in the bloodiest day since
+OL,10, anti-government protests began.
+OL,12,FGrand Ayatollah Ali al-Sistani also
+OL,13,Fsuggested lawmakers withdraw their
+OL,14,Fsupport for the government.
+OL,16,FPrime Minister Adel Abdul Mahdi has
+OL,17,Fordered an investigation into violence
+OL,18,Fin Dhi Qar and Najaf provinces.
+OL,20,FNearly 400 people have been killed in
+OL,21,Fprotests since the start of October.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40517
+SC,0017
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CScale of maternity failings 'may never
+OL,5,Cbe known'
+OL,6, A senior midwife leading an
+OL,7, investigation into baby deaths has
+OL,8, warned it is unlikely the full extent
+OL,9, of the scandal will ever be known.
+OL,11,FDonna Ockenden said it was unlikely
+OL,12,Frecords more than two decades old would
+OL,13,Fbe accessible to the inquiry into
+OL,14,Fmaternity failings at Shrewsbury and
+OL,15,FTelford Hospital NHS Trust.
+OL,17,FBut she vowed she would strive to get
+OL,18,Fanswers for families affected. 
+OL,20,FOne mother said the inquiry "has to be
+OL,21,Fdone once and done right".
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40518
+SC,0018
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -414,36 +467,36 @@ OL,20,Fabuse scandals that have rocked the
 OL,21,FK-pop world in recent years. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40517
-SC,0017
+PN,40519
+SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,COfficer facing probe over child abuse
-OL,5,Cclip contact
-OL,6, A senior Met Police officer is facing
-OL,7, an inquiry over his contact with
-OL,8, another officer prior to her conviction
-OL,9, for possession of an indecent image.
-OL,11,FSupt Robyn Williams was sentenced this
-OL,12,Fmonth after failing to report her
-OL,13,Fsister for sending a "disturbing" clip
-OL,14,Fof child abuse on WhatsApp.
-OL,16,FIt has emerged she contacted Ch Supt
-OL,17,FSimon Ovens for advice.
-OL,19,FThe Met says it is alleged he may have
-OL,20,Ffailed to disclose information that
-OL,21,Fcould have helped in an investigation.
+OL,4,CDeadline for UK drone registration
+OL,5,Capproaches
+OL,6, UK drone pilots must register their
+OL,7, details with the Civil Aviation
+OL,8, Authority (CAA) by the end of 29
+OL,9, November or face a fine of #1,000.
+OL,11,FAnyone responsible for a drone which
+OL,12,Fweighs more than 250g (8.8oz) must
+OL,13,Fregister it with the regulator online.
+OL,15,FThe drone operator must be over 18 and
+OL,16,Fpay a #9 annual fee.
+OL,18,FThe CAA estimates that there are
+OL,19,F130,000 drone users in Britain, but so
+OL,20,Ffar only around 50,000 people have
+OL,21,Fregistered. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40518
-SC,0018
+PN,40520
+SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C12:32:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -463,57 +516,5 @@ OL,16,FThey also blocked lorries from passing
 OL,17,Fthrough.
 OL,19,FPolice dispersed the activists, whose
 OL,20,Faim was to disrupt Black Friday sales.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40519
-SC,0019
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CHSBC and Santander customers set for
-OL,5,Crefund
-OL,6, People who bank with HSBC and Santander
-OL,7, are in line for a refund after a
-OL,8, watchdog said they had failed to alert
-OL,9, customers who went into the red.
-OL,11,FThe Competition and Market Authority
-OL,12,Fsaid they broke rules by not sending
-OL,13,Ftext messages allowing people to avoid
-OL,14,Funarranged overdraft charges.
-OL,16,FHSBC said it would refund a total of
-OL,17,F#8m to 115,000 customers. 
-OL,19,FSantander also said it would comply,
-OL,20,Fbut has not worked out the cost of the
-OL,21,Frefunds yet.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40520
-SC,0020
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C11:35:42
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRugby Crusaders keep name despite
-OL,5,Cmosque killings
-OL,6, New Zealand's most successful rugby
-OL,7, side, the Crusaders, have decided to
-OL,8, keep their name - after a review that
-OL,9, began when 51 people died in the
-OL,10, Christchurch mosque attacks.
-OL,12,FConcerns had been raised about the
-OL,13,Fassociation with the medieval religious
-OL,14,Fwars between Christians and Muslims.
-OL,16,FThe club had already said it was
-OL,17,Fdropping its knight and sword logo.
-OL,19,FBut the name will remain - with the
-OL,20,Fclub saying it stood for crusading for
-OL,21,Fsocial improvement and inclusiveness.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
