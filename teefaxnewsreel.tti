@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -19,12 +19,12 @@ OL,10,GPM refuses to confirm Andrew Neil  C106
 OL,11,Ginterview                              
 OL,12,GTurkey accuses Macron of sponsoringC107
 OL,13,Gterrorism                              
-OL,14,GTory and Labour spending plans 'notC108
-OL,15,Gcredible' - IFS                        
+OL,14,GYoung people 'panicky' when denied C108
+OL,15,Gmobile phones                          
 OL,16,GFree solo climber falls to his     C109
 OL,17,Gdeath                                  
-OL,18,GBoys admit threatening women who   C110
-OL,19,Grefused to kiss                        
+OL,18,GTory and Labour spending plans 'notC110
+OL,19,Gcredible' - IFS                        
 OL,20,GEscalating Iraq protests leave     C111
 OL,21,Gdozens dead                            
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7416.43 A-13.35 Fat CLOSE
 OL,15,C techMARK100G5786.06 F+7.36  Fat CLOSE
 OL,16,C Dow Jones  G28164.00F+42.32 Fat CLOSE
 OL,17,C Nasdaq     G8444.71 F+58.96 Fat CLOSE
-OL,18,C Nikkei     G23447.80F+38.66 Fat 00:20
+OL,18,C Nikkei     G23400.88A-8.26  Fat 01:25
 OL,19,C DJEurStoxx G3704.48 A-8.37  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -81,7 +81,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Friday Evening             
@@ -92,25 +92,25 @@ OL,5,           ^ZV({5
 OL,6,            ZV!'~G-1V!FClear          
 OL,7,           ^ZV ~ow1  F              
 OL,8,CSome Cloud^ZV*y?sp  B              
-OL,9,           ^ZVj)"G -1V} B              
+OL,9,           ^ZVj)"G -2V} B              
 OL,10,       ^ZSp|t VxVg0 B             
 OL,11,       ZSnG03StV+"VG-2V B             
 OL,12,       ZS+V`4V+|0             
 OL,13,        ZS+%*o!V" R *u  BMisty     
 OL,14,C            ^ZU`  R*G 00R}  B         
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 00U}zt B       
-OL,17,B              ZUj^RG -1U B       
-OL,18,B            ZUx|^G 03U'         
-OL,19,             ^ZU! +/'iSqp0        
-OL,20,ECloudy      ^ZU  tG 02S/!        
-OL,21,E            ZU zG08U^/s/S/? B         
+OL,15,B            ^ZUk|S            
+OL,16,B            ^ZU'oG 00V}zt B       
+OL,17,B              ZUj^SG 00V B       
+OL,18,B            ZUx|^G 03V'         
+OL,19,             ^ZU! +/'iRqp0        
+OL,20,ECloudy      ^ZU  tG 02R/!        
+OL,21,E            ZU zG08U^/s/R/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Saturday                
@@ -118,28 +118,28 @@ OL,2,           ^ZV 4`~|}            G 2/2
 OL,3,           ZV`?0~G04V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G02V!FSunny          
+OL,6,            ZV!'~G03V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 02V} B              
-OL,10,       ^ZRp|t VxRg0 BSome Cloud   
-OL,11,       ZRnG07RtV+"RG04R  B            
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" S *u  CMisty     
-OL,14,B            ^ZU`  S*G 04S}  C         
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 03U}zt B       
-OL,17,ECloudy        ZUj^RG 06U B       
-OL,18,E            ZUx|^G 07U'         
-OL,19,             ^ZU! +/'iUqp0        
+OL,8,B          ^ZR*y?sp  BSunny         
+OL,9,           ^ZRj)"G 02R}  B             
+OL,10,       ^ZVp|t RxRg0 B             
+OL,11,       ZVnG07VtR+"RG04R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" V *u  B          
+OL,14,B            ^ZS`  V*G 05V} B          
+OL,15,CCloudy      ^ZSk|U            
+OL,16,C            ^ZS'oG 04S}zt B       
+OL,17,B              ZSj^UG 07S B       
+OL,18,B            ZSx|^G 07S'         
+OL,19,             ^ZS! +/'iUqp0        
 OL,20,DHeavy Rain  ^ZT  tG 07U/!        
-OL,21,D            ZT zG10T^/s/U/? B         
-OL,22,            ZT8?' "'    "    B         
+OL,21,D            ZT zG10T^/s/U/? EMisty    
+OL,22,            ZT8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -186,7 +186,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -212,7 +212,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -238,7 +238,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -263,33 +263,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTory and Labour spending plans 'not
-OL,5,Ccredible' - IFS
-OL,6, Neither the Conservatives nor Labour
-OL,7, are offering "credible" spending plans
-OL,8, ahead of the general election, an
-OL,9, influential research group has said.
-OL,11,FThe Institute for Fiscal Studies (IFS)
-OL,12,Fsaid it was "highly likely" the Tories
-OL,13,Fwould end up spending more than their
-OL,14,Fmanifesto pledges.
-OL,16,FLabour, it warned, would be unable to
-OL,17,Fdeliver its spending increases as it
-OL,18,Fhas promised.
-OL,20,FNeither party was being "honest" with
-OL,21,Fvoters, IFS director Paul Johnson said.
+OL,4,CYoung people 'panicky' when denied
+OL,5,Cmobile phones
+OL,6, Almost a quarter of young people are so
+OL,7, dependent on their smartphones that it
+OL,8, becomes like an addiction, research by
+OL,9, psychiatrists concludes.
+OL,11,FThe study, from King's College London,
+OL,12,Fsays such addictive behaviour means
+OL,13,Fthat people become "panicky" or "upset"
+OL,14,Fif they are denied constant access.
+OL,16,FThe youngsters also cannot control the
+OL,17,Famount of time they spend on the phone.
+OL,19,FThe study warns that such addictions
+OL,20,Fhave "serious consequences" for mental
+OL,21,Fhealth.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,33 +314,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoys admit threatening women who
-OL,5,Crefused to kiss
-OL,6, Three teenage boys have admitted
-OL,7, threatening two women who refused to
-OL,8, kiss each other on a bus.
-OL,10,FMelania Geymonat, 28, and her date
-OL,11,FChristine Hannigan were pelted with
-OL,12,Fcoins on a Camden night bus on 30 May.
-OL,14,FThe teenagers, aged 15, 16 and 17, had
-OL,15,Fpreviously denied charges of harassment
-OL,16,Fby using threatening or abusive words
-OL,17,For behaviour.
-OL,19,FThey admitted the public order offences
-OL,20,Fahead of a scheduled trial at Highbury
-OL,21,FCorner Youth Court.
+OL,4,CTory and Labour spending plans 'not
+OL,5,Ccredible' - IFS
+OL,6, Neither the Conservatives nor Labour
+OL,7, are offering "credible" spending plans
+OL,8, ahead of the general election, an
+OL,9, influential research group has said.
+OL,11,FThe Institute for Fiscal Studies (IFS)
+OL,12,Fsaid it was "highly likely" the Tories
+OL,13,Fwould end up spending more than their
+OL,14,Fmanifesto pledges.
+OL,16,FLabour, it warned, would be unable to
+OL,17,Fdeliver its spending increases as it
+OL,18,Fhas promised.
+OL,20,FNeither party was being "honest" with
+OL,21,Fvoters, IFS director Paul Johnson said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,32 +366,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CGary Rhodes died from head injury,
-OL,5,Cfamily confirms
-OL,6, Celebrity chef Gary Rhodes died from a
-OL,7, head injury, his family has confirmed. 
-OL,9,FThey released a statement to the London
-OL,10,FEvening Standard "in order to end
-OL,11,Fpainful speculation."
-OL,13,FIt confirmed Rhodes, who died aged 59,
-OL,14,Fcollapsed at his home in Dubai with a
-OL,15,Fsubdural hematoma, which is usually
-OL,16,Fassociated with a brain injury.
-OL,18,FHis death was widely reported on
-OL,19,FWednesday, followed by some press
-OL,20,Fspeculation as to the cause.
+OL,4,CPrince Andrew accuser gives first UK
+OL,5,Cinterview
+OL,6, A US woman who says she was forced to
+OL,7, have sex with the Duke of York aged 17
+OL,8, has given her first UK television
+OL,9, interview - on Monday's BBC Panorama.
+OL,11,FVirginia Giuffre, one of convicted sex
+OL,12,Foffender Jeffrey Epstein's accusers,
+OL,13,Fsays both she and Prince Andrew "know
+OL,14,Fwhat happened".
+OL,16,FThe prince "categorically" denies
+OL,17,Fhaving any sexual contact with her.
+OL,19,FEarlier the Met Police defended its
+OL,20,Fdecision not to probe a trafficking
+OL,21,Fclaim by Ms Giuffre against Epstein.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,33 +418,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CPrince Andrew accuser gives first UK
-OL,5,Cinterview
-OL,6, A US woman who says she was forced to
-OL,7, have sex with the Duke of York aged 17
-OL,8, has given her first UK television
-OL,9, interview - on Monday's BBC Panorama.
-OL,11,FVirginia Giuffre, one of convicted sex
-OL,12,Foffender Jeffrey Epstein's accusers,
-OL,13,Fsays both she and Prince Andrew "know
-OL,14,Fwhat happened".
-OL,16,FThe prince "categorically" denies
-OL,17,Fhaving any sexual contact with her.
-OL,19,FEarlier the Met Police defended its
-OL,20,Fdecision not to probe a trafficking
-OL,21,Fclaim by Ms Giuffre against Epstein.
+OL,4,CTories pledge to boost Ofsted rather
+OL,5,Cthan scrap it
+OL,6, The Conservatives are promising to
+OL,7, strengthen England's education watchdog
+OL,8, Ofsted, as they attack Labour and
+OL,9, Liberal Democrat plans to replace the
+OL,10, current inspection system.
+OL,12,FPrime Minister Boris Johnson is
+OL,13,Fannouncing plans for longer inspections
+OL,14,Fand an extra #10m funding for Ofsted.
+OL,16,FThere will also be trials of "no-notice
+OL,17,Finspections", where schools could be
+OL,18,Fvisited without any prior warning.
+OL,20,FBut Labour and the Lib Dems want to
+OL,21,Freplace Ofsted with different bodies.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -469,33 +470,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CDying Star Wars fan to get early
-OL,5,Cscreening
-OL,6, A dying man and his son will be able to
-OL,7, watch the new Star Wars film before it
-OL,8, goes on general release, Disney's CEO
-OL,9, Bob Iger has said.
-OL,11,FRowans Hospice in Waterlooville,
-OL,12,FHampshire, sent out a plea on Twitter
-OL,13,Fasking for an early screening of the
-OL,14,Fmovie, which is due out on 20 December.
-OL,16,FThe hospice said: "This is our most
-OL,17,Fdesperate hour. Sadly, time is not on
-OL,18,Fhis side for 20th Dec." 
-OL,20,FAfter receiving confirmation, Rowans
-OL,21,Fsaid it "cannot thank Disney enough"
+OL,4,CElizabeth I is secret scribe of ancient
+OL,5,Cmanuscript
+OL,6, A manuscript written by Queen Elizabeth
+OL,7, I has been discovered after lying
+OL,8, unnoticed for more than a century.
+OL,10,FA literary historian from the
+OL,11,FUniversity of East Anglia made the
+OL,12,Fstartling find in Lambeth Palace
+OL,13,FLibrary in London. 
+OL,15,FHe turned detective to piece together a
+OL,16,Fseries of clues to establish the queen
+OL,17,Fwas the author of the writings.
+OL,19,FThe work is a translation of a book in
+OL,20,Fwhich the Roman historian Tacitus wrote
+OL,21,Fof the benefits of monarchical rule. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C01:32:26
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C02:34:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
