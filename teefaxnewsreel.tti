@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -17,22 +17,22 @@ OL,8,GNo immunity for Malta journalist   C105
 OL,9,Gmurder suspect                         
 OL,10,GEnergy supplier Npower to axe up toC106
 OL,11,G4,500 jobs                             
-OL,12,GSeveral hurt in Hague stabbing     C107
+OL,12,GThree injured in Hague stabbing    C107
 OL,13,Gattack                                 
 OL,14,GPM pledges help for struggling     C108
 OL,15,Gfirms after Brexit                     
-OL,16,GSudan's women hail end of strict   C109
-OL,17,Gpublic order law                       
+OL,16,GBlack Friday protests in France    C109
+OL,17,Gtarget Amazon                          
 OL,18,GJohnson warns Trump against        C110
 OL,19,Gelection endorsement                   
-OL,20,GFamous free solo climber falls to  C111
-OL,21,Ghis death                              
+OL,20,GSudan's women hail end of strict   C111
+OL,21,Gpublic order law                       
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,54 +60,59 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MSpanish boss wishes he could have  G303
-OL,6,FPatrick Vieira 'right man' to take G304
-OL,7,FGareth Southgate believes England  G305
-OL,8,FDavid Pemsel resigns as chief      G306
-OL,9,FInjured Liverpool midfielder out   G307
-OL,10,FSerie A clubs pledge to combat     G308
-OL,12,FLawro vs Sonny Bill Williams       G309
+OL,6,FAleksander Mitrovic double helps   G304
+OL,7,FPep Guardiola 'open' to new        G305
+OL,8,FJose Mourinho says he had no       G306
+OL,9,FPatrick Vieira 'right man' to take G307
+OL,10,FGareth Southgate believes England  G308
+OL,12,FNewport County need late winner    G309
+OL,13,FLawro vs Sonny Bill Williams       G310
+OL,14,FDavid Pemsel resigns as chief      G311
+OL,15,FBrighton 2-2 Reading               G312
+OL,17,FInjured Liverpool midfielder out   G313
+OL,18,FSerie A clubs pledge to combat     G314
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
 OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G-1V%  B               
+OL,3,           ZV`?0~G00V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G-1V!FClear          
+OL,6,            ZV!'~G00V!FClear          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
+OL,8,ESome Cloud^ZV*y?sp  B              
 OL,9,           ^ZVj)"G -2V} B              
-OL,10,       ^ZRp|t VxVg0 B             
-OL,11,       ZRnG03RtV+"VG-2V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" R *u  BSome Cloud
-OL,14,B            ^ZU`  R*G 00R}  B         
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 00R}zt B       
-OL,17,B              ZUj^RG 00R B       
-OL,18,B            ZUx|^G 04R'         
-OL,19,             ^ZU! +/'iVqp0        
-OL,20,ECloudy      ^ZU  tG 02V/!        
-OL,21,E            ZU zG08U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,10,       ^ZUp|t VxVg0 B             
+OL,11,       ZUnG02UtV+"VG-2V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" R *u  B          
+OL,14,E            ^ZS`  R*G 00R} B          
+OL,15,BMisty       ^ZSk|U            
+OL,16,B            ^ZS'oG 00R}zt B       
+OL,17,CCloudy        ZSj^UG 00R B       
+OL,18,C            ZSx|^G 04R'         
+OL,19,             ^ZS! +/'iVqp0        
+OL,20,DLight Rain  ^ZT  tG 01V/!        
+OL,21,D            ZT zG08T^/s/V/? B         
+OL,22,            ZT8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -117,26 +122,26 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G02V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
+OL,8,ESome Cloud^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 02V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG07VtV+"VG03V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" U *u  ESome Cloud
-OL,14,B            ^ZR`  U*G 05U}  E         
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 03R}zt B       
-OL,17,B              ZRj^VG 07R B       
-OL,18,B            ZRx|^G 07R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,BCloudy      ^ZR  tG 07R/!        
-OL,21,B            ZR zG11R^/s/R/? B         
+OL,10,       ^ZUp|t VxVg0 B             
+OL,11,       ZUnG07UtV+"VG04V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" V *u  B          
+OL,14,E            ^ZR`  V*G 05V} B          
+OL,15,COvercast    ^ZRk|V            
+OL,16,C            ^ZR'oG 03S}zt B       
+OL,17,B              ZRj^VG 07S B       
+OL,18,B            ZRx|^G 07S'         
+OL,19,             ^ZR! +/'iUqp0        
+OL,20,BCloudy      ^ZR  tG 07U/!        
+OL,21,B            ZR zG10R^/s/U/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -157,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -183,7 +188,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -209,7 +214,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -235,32 +240,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSeveral hurt in Hague stabbing attack
-OL,5, At least three people have been stabbed
-OL,6, in an attack at a department store in a
-OL,7, busy shopping street in The Hague,
-OL,8, Dutch police say.
-OL,10,FPolice are searching for a man aged
-OL,11,Fbetween 45 and 50, wearing a grey
-OL,12,Fjogging tracksuit, who they believe may
-OL,13,Fbe behind the attack. 
-OL,15,FImages on social media showed emergency
-OL,16,Fservices at the scene amid crowds of
-OL,17,FBlack Friday shoppers.
-OL,19,FThe condition of those injured and the
-OL,20,Fmotive for the attack remain unclear. 
+OL,4,CThree injured in Hague stabbing attack
+OL,5, At least three people were stabbed in
+OL,6, an attack on a busy shopping street in
+OL,7, The Hague, officials say. 
+OL,9,FPolice said they were still searching
+OL,10,Ffor a suspect and no arrests had been
+OL,11,Fmade after the attack at about 19:45
+OL,12,Flocal time (18:45 GMT).
+OL,14,FImages and videos on social media
+OL,15,Fshowed dozens of Black Friday shoppers
+OL,16,Frunning away from the scene. 
+OL,18,FThe condition of those injured, the
+OL,19,Fmotive for the attack and who was
+OL,20,Fbehind it remain unclear. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -286,33 +291,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSudan's women hail end of strict public
-OL,5,Corder law
-OL,6, Sudan has repealed a restrictive public
-OL,7, order law that controlled how women
-OL,8, acted and dressed in public. 
-OL,10,FOn Twitter, Prime Minister Abdalla
-OL,11,FHamdok paid tribute to women who had
-OL,12,F"endured the atrocities that resulted
-OL,13,Ffrom the implementation of this law".
-OL,15,FThe country's transitional authorities
-OL,16,Falso dissolved the party of former
-OL,17,FPresident Omar al-Bashir.
-OL,19,FMr Bashir seized power in a 1989 coup
-OL,20,Fand ruled for nearly 30 years before
-OL,21,Fpeaceful protests ousted him in April.
+OL,4,CBlack Friday protests in France target
+OL,5,CAmazon
+OL,6, Activists across France have staged
+OL,7, Black Friday protests against Amazon,
+OL,8, decrying consumerism and its impact on
+OL,9, the environment. 
+OL,11,FDozens of protesters gathered outside
+OL,12,Fthe company's French headquarters in
+OL,13,FClichy, north of Paris.
+OL,15,FProtesters also tried to blockade a
+OL,16,Fshopping centre in Paris and a
+OL,17,Flogistics centre near the eastern city
+OL,18,Fof Lyon.
+OL,20,FIn video from Lyon riot police can be
+OL,21,Fseen dragging activists away.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -338,33 +343,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CFamous free solo climber falls to his
-OL,5,Cdeath
-OL,6, A world-renowned American free solo
-OL,7, climber has died attempting to descend
-OL,8, the side of a cliff face.
-OL,10,FBrad Gobright, 31, fell around 300m
-OL,11,F(1,000ft) to his death in El Potrero
-OL,12,FChico in northern Mexico. 
-OL,14,FHis companion, fellow climber Aidan
-OL,15,FJacobson, 26, fell a shorter distance
-OL,16,Fand survived with injuries.
-OL,18,FGobright was best known for free
-OL,19,Fsoloing, or climbing without any safety
-OL,20,Fgear, but at the time the two were
-OL,21,Fabseiling, a technique using ropes.
+OL,4,CSudan's women hail end of strict public
+OL,5,Corder law
+OL,6, Sudan has repealed a restrictive public
+OL,7, order law that controlled how women
+OL,8, acted and dressed in public. 
+OL,10,FOn Twitter, Prime Minister Abdalla
+OL,11,FHamdok paid tribute to women who had
+OL,12,F"endured the atrocities that resulted
+OL,13,Ffrom the implementation of this law".
+OL,15,FThe country's transitional authorities
+OL,16,Falso dissolved the party of former
+OL,17,FPresident Omar al-Bashir.
+OL,19,FMr Bashir seized power in a 1989 coup
+OL,20,Fand ruled for nearly 30 years before
+OL,21,Fpeaceful protests ousted him in April.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -389,33 +394,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIraq PM to resign after bloodiest day
-OL,5,Cin protests
-OL,6, Iraqi Prime Minister Adel Abdul Mahdi
-OL,7, is to submit his resignation, his
-OL,8, office says, after more than 40 people
-OL,9, were killed on the bloodiest day since
-OL,10, anti-government protests began.
-OL,12,FIraq's top Shia Muslim cleric condemned
-OL,13,Fthe use of force against protesters and
-OL,14,Fcalled for a new government.
-OL,16,FAbout 400 people have been killed in
-OL,17,Fprotests since the start of October,
-OL,18,Fand at least 15 died on Friday.
-OL,20,FIraqis are demanding jobs, an end to
-OL,21,Fcorruption and better public services.
+OL,4,CFamous free solo climber falls to his
+OL,5,Cdeath
+OL,6, A world-renowned American free solo
+OL,7, climber has died attempting to descend
+OL,8, the side of a cliff face.
+OL,10,FBrad Gobright, 31, fell around 300m
+OL,11,F(1,000ft) to his death in El Potrero
+OL,12,FChico in northern Mexico. 
+OL,14,FHis companion, fellow climber Aidan
+OL,15,FJacobson, 26, fell a shorter distance
+OL,16,Fand survived with injuries.
+OL,18,FGobright was best known for free
+OL,19,Fsoloing, or climbing without any safety
+OL,20,Fgear, but at the time the two were
+OL,21,Fabseiling, a technique using ropes.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -441,33 +446,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUS police investigate body-slamming
-OL,5,Cvideo
-OL,6, Police in Chicago say they are
-OL,7, investigating a video that shows an
-OL,8, officer body-slamming a man to the
-OL,9, ground after he allegedly spat in the
-OL,10, officer's face.
-OL,12,FIn the video, the man lies motionless
-OL,13,Fafter his head hits the pavement.
-OL,15,FThe 29-year-old man, who had been
-OL,16,Fdrinking alcohol at a bus stop, became
-OL,17,F"irate" when police approached him,
-OL,18,Fofficials said.
-OL,20,FThe man was taken to hospital and was
-OL,21,Fsaid to be in a stable condition.
+OL,4,CIraq PM to resign after bloodiest day
+OL,5,Cin protests
+OL,6, Iraqi Prime Minister Adel Abdul Mahdi
+OL,7, is to submit his resignation, his
+OL,8, office says, after more than 40 people
+OL,9, were killed on the bloodiest day since
+OL,10, anti-government protests began.
+OL,12,FIraq's top Shia Muslim cleric condemned
+OL,13,Fthe use of force against protesters and
+OL,14,Fcalled for a new government.
+OL,16,FAbout 400 people have been killed in
+OL,17,Fprotests since the start of October,
+OL,18,Fand at least 15 died on Friday.
+OL,20,FIraqis are demanding jobs, an end to
+OL,21,Fcorruption and better public services.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -492,26 +497,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C21:39:25
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C22:42:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CGreenland judged security risk amid
-OL,5,CArctic tension
-OL,6, Denmark has for the first time put
-OL,7, mineral-rich Greenland top of its
-OL,8, national security agenda, ahead of
-OL,9, terrorism and cybercrime.
-OL,11,FThe Defence Intelligence Service (FE)
-OL,12,Flinked its change in priorities to US
-OL,13,Finterest in Greenland, expressed in
-OL,14,FPresident Donald Trump's desire to buy
-OL,15,Fthe vast Arctic territory.
-OL,17,FGreenland is part of Denmark, but has
-OL,18,Fsignificant autonomy, including freedom
-OL,19,Fto sign major business deals.
-OL,21,FChina has mining deals with Greenland.
+OL,4,CUS police investigate body-slamming
+OL,5,Cvideo
+OL,6, Police in Chicago say they are
+OL,7, investigating a video that shows an
+OL,8, officer body-slamming a man to the
+OL,9, ground after he allegedly spat in the
+OL,10, officer's face.
+OL,12,FIn the video, the man lies motionless
+OL,13,Fafter his head hits the pavement.
+OL,15,FThe 29-year-old man, who had been
+OL,16,Fdrinking alcohol at a bus stop, became
+OL,17,F"irate" when police approached him,
+OL,18,Fofficials said.
+OL,20,FThe man was taken to hospital and was
+OL,21,Fsaid to be in a stable condition.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
