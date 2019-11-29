@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -53,14 +53,14 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF19GLosersA82
 OL,14,C FTSE100    G7346.53 A-69.90 Fat CLOSE
 OL,15,C techMARK100G5755.25 A-30.81 Fat CLOSE
-OL,16,C Dow Jones  G28051.41A-112.59Fat 17:25
-OL,17,C Nasdaq     G8403.68 A-41.02 Fat 17:25
+OL,16,C Dow Jones  G28051.41A-112.59Fat 18:05
+OL,17,C Nasdaq     G8403.68 A-41.02 Fat 18:25
 OL,18,C Nikkei     G23293.91A-11,523Fat 07:44
 OL,19,C DJEurStoxx G3703.58 A-0.90  Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -76,13 +76,12 @@ OL,12,FLawro vs Sonny Bill Williams       G309
 OL,13,FMarco Silva not losing sleep over  G310
 OL,14,FChelsea v West Ham United          G311
 OL,15,FAston Villa manager signs new      G312
-OL,17,FThe telling stats behind Arsenal   G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -111,7 +110,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -140,7 +139,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -170,24 +169,24 @@ OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CTwo killed in London Bridge stabbing
 OL,5,Cattack
 OL,6, Two members of the public have died
-OL,7, after an attack on London Bridge in
-OL,8, which police also shot dead a man.
-OL,10,FThe Met Police has declared the attack
-OL,11,Fa terrorist incident.
-OL,13,FThe suspect, who died at the scene, was
-OL,14,Fbelieved to have been wearing a hoax
-OL,15,Fexplosive device, police said.
-OL,17,FVideos on social media appear to show a
-OL,18,Fgroup of passers-by holding down a man
-OL,19,Fon the bridge. A firearms officer
-OL,20,Farrives, seems to indicate to the group
-OL,21,Fto get clear, and fires a shot.
+OL,7, after a stabbing attack at London
+OL,8, Bridge, in which police also shot dead
+OL,9, the suspect.
+OL,11,FThe Met Police has declared the attack
+OL,12,Fa terrorist incident.
+OL,14,FThe suspect, who died at the scene, was
+OL,15,Fbelieved to have been wearing a hoax
+OL,16,Fexplosive device, police said.
+OL,18,FVideos on social media appear to show
+OL,19,Fpassers-by holding down a man. An
+OL,20,Fofficer arrives, seems to indicate to
+OL,21,Fthe group to move, and fires a shot.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,7 +212,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -239,7 +238,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -265,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -291,7 +290,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,7 +316,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -343,7 +342,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -369,7 +368,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -394,7 +393,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -420,7 +419,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -446,33 +445,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CGreenland judged security risk amid
-OL,5,CArctic tension
-OL,6, Denmark has for the first time put
-OL,7, mineral-rich Greenland top of its
-OL,8, national security agenda, ahead of
-OL,9, terrorism and cybercrime.
-OL,11,FThe Defence Intelligence Service (FE)
-OL,12,Flinked its change in priorities to US
-OL,13,Finterest in Greenland, expressed in
-OL,14,FPresident Donald Trump's desire to buy
-OL,15,Fthe vast Arctic territory.
-OL,17,FGreenland is part of Denmark, but has
-OL,18,Fsignificant autonomy, including freedom
-OL,19,Fto sign major business deals.
-OL,21,FChina has mining deals with Greenland.
+OL,4,CStore 'rethinks' badges for staff on
+OL,5,Cperiods
+OL,6, A Japanese department store where staff
+OL,7, could wear badges if they were on their
+OL,8, period has said it will "rethink" that
+OL,9, policy.
+OL,11,FThe badges - which featured a cartoon
+OL,12,Fcharacter known as Miss Period - were
+OL,13,Fintroduced in October.
+OL,15,FThe intention was that staff could get
+OL,16,Fextra help, or longer breaks, if they
+OL,17,Fwere wearing one.
+OL,19,F"It was never the intention to share
+OL,20,Fthe menstrual information with their
+OL,21,Fcustomers," a spokeswoman told the BBC.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -497,26 +496,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C18:40:01
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C19:40:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAmazon Mexico ex-head wanted after
-OL,5,Cwife's murder
-OL,6, The former head of Amazon Mexico is
-OL,7, wanted for questioning after his wife
-OL,8, was apparently killed by a hitman in
-OL,9, Mexico City.
-OL,11,FAbril Perez Sagaon was shot dead in a
-OL,12,Fcar on Monday in front of two of her
-OL,13,Fteenage children.
-OL,15,FJuan Carlos Garcia has not commented
-OL,16,Fpublicly. 
-OL,18,FThe couple were in the middle of a
-OL,19,Fdivorce battle and Mr Garcia had been
-OL,20,Ffreed on bail after a prior allegation
-OL,21,Fof violence against her.
+OL,4,CGreenland judged security risk amid
+OL,5,CArctic tension
+OL,6, Denmark has for the first time put
+OL,7, mineral-rich Greenland top of its
+OL,8, national security agenda, ahead of
+OL,9, terrorism and cybercrime.
+OL,11,FThe Defence Intelligence Service (FE)
+OL,12,Flinked its change in priorities to US
+OL,13,Finterest in Greenland, expressed in
+OL,14,FPresident Donald Trump's desire to buy
+OL,15,Fthe vast Arctic territory.
+OL,17,FGreenland is part of Denmark, but has
+OL,18,Fsignificant autonomy, including freedom
+OL,19,Fto sign major business deals.
+OL,21,FChina has mining deals with Greenland.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
