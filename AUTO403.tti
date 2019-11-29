@@ -5,19 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C14:33:00
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:28
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FMost areas will be fine, dry and
-OL,9,Fbright. Cloudier for southwest England
-OL,10,Fthough, cloud thick enough for a little
-OL,11,Fpatchy rain here. Meanwhile, a few
-OL,12,Fshowers will affect northern Scotland
-OL,13,Fand eastern and northeastern England.
-OL,14,FFeeling cold.
+OL,7,GThis Evening and Tonight
+OL,8,FFrosty and clear for many but fog is
+OL,9,Flikely to develop across some central
+OL,10,Fareas, perhaps dense and freezing
+OL,11,Flater. The odd shower near northeastern
+OL,12,Fcoasts while parts of southwest England
+OL,13,Fare cloudier and windier, with a little
+OL,14,Frain.
+OL,4,                                    1/2 
+OL,16,GSaturday
+OL,17,FDry for most, although fog may be slow
+OL,18,Fto clear from some areas.The odd shower
+OL,19,Frunning onto northeastern coasts, and
+OL,20,Fthe far southwest will be windy with
+OL,21,Frain, possibly heavy.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,16 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E29/11C14:33:00
+OL,0,XXXXXXXXBNMPSERVER2      E29/11C15:32:28
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Sunday to Tuesday
-OL,8,FFor most, dry and fine throughout, with
-OL,9,Ffrost and fog by night and sunshine by
-OL,10,Fday. Milder and windier across Scotland
-OL,11,Fon Monday with some outbreaks of rain.
+OL,8,FLargely settled with sunny periods but
+OL,9,Falso some patchy fog, this locally
+OL,10,Fpersistent. Rain or showers affecting
+OL,11,Fthe far north at times. Rather cold
+OL,12,Fwith overnight frost.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
