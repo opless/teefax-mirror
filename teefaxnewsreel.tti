@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,12 +15,12 @@ OL,4,MLondon Bridge attacker had terror  C104
 OL,6,Gconviction                             
 OL,8,GLondon Bridge attacker had terror  C105
 OL,9,Gconviction                             
-OL,10,GEnergy supplier Npower to axe up toC106
-OL,11,G4,500 jobs                             
+OL,10,GClutha pilot "trusted implicitly"  C106
+OL,11,Gby his crew                            
 OL,12,GNo immunity for Malta journalist   C107
 OL,13,Gmurder suspect                         
-OL,14,GPM pledges help for struggling     C108
-OL,15,Gfirms after Brexit                     
+OL,14,GRail fares to rise by 2.7% in      C108
+OL,15,GJanuary                                
 OL,16,GApple to take 'deeper look' at     C109
 OL,17,Gdisputed borders                       
 OL,18,GFinal day for Help to Buy Isa      C110
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -81,7 +81,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G         Saturday Evening            
@@ -110,7 +110,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Sunday                 
@@ -139,7 +139,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -186,7 +186,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -212,33 +212,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CEnergy supplier Npower to axe up to
-OL,5,C4,500 jobs
-OL,6, Energy firm Npower is to cut up to
-OL,7, 4,500 UK jobs as part of a plan to make
-OL,8, it more profitable.
-OL,10,FThree call centres are under threat of
-OL,11,Fclosure, at Houghton-le-Spring, near
-OL,12,FSunderland, an office in Hull and one
-OL,13,Fin Worcester.
-OL,15,FUnions called the action a "cruel blow"
-OL,16,Ffor the company's workers in the run-up
-OL,17,Fto Christmas.
-OL,19,FUnder the restructuring, Npower's owner
-OL,20,FE.On will merge computer systems to
-OL,21,Fsave money.
+OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
+OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
+OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
+OL,4,CClutha pilot "trusted implicitly" by
+OL,5,Chis crew
+OL,6, Two police officers killed in the
+OL,7, Clutha helicopter crash "trusted
+OL,8, implicitly" the pilot blamed for their
+OL,9, deaths, according to their families. 
+OL,11,FPCs Tony Collins and Kirsty Nelis were
+OL,12,Fon the aircraft when it crashed into
+OL,13,Fthe Glasgow pub on 29 November 2013. 
+OL,15,FA sheriff ruled that the crash happened
+OL,16,Fbecause pilot David Traill "took a
+OL,17,Fchance" and ignored fuel warnings. 
+OL,19,FMark Nelis, the widower of PC Nelis,
+OL,20,Fsaid the ruling had not changed his
+OL,21,Fopinion of Captain Traill. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -264,33 +264,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CPM pledges help for struggling firms
-OL,5,Cafter Brexit
-OL,6, Boris Johnson has pledged to make it
-OL,7, easier to help struggling UK companies
-OL,8, after Brexit, if the Tories win the
-OL,9, general election.
-OL,11,FThe PM said being free of EU rules on
-OL,12,Fstate aid would make it quicker to
-OL,13,Fintervene, and bring in "buy British"
-OL,14,Fguidelines for public bodies.
-OL,16,FHe added that an Australian-style
-OL,17,Fimmigration system would be in place in
-OL,18,Fplace by 1 January, 2021. 
-OL,20,FBut Labour criticised the Tories' past
-OL,21,Frecord of supporting industry.
+OL,4,CRail fares to rise by 2.7% in January
+OL,5, Millions of commuters will have to pay
+OL,6, an average of 2.7% more for rail
+OL,7, tickets from 2 January. 
+OL,9,FThe rise, announced by industry body
+OL,10,Fthe Rail Delivery Group, is lower than
+OL,11,Fthe 3.1% increase at the start of 2019.
+OL,13,FTrain companies say this is the third
+OL,14,Fyear in a row that average fares have
+OL,15,Fbeen held below the benchmark inflation
+OL,16,Fmeasure on which rises are based.
+OL,18,FBut many commuters will still face an
+OL,19,Fincrease of more than #100 in the
+OL,20,Fannual cost of getting to work.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -316,7 +315,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -342,7 +341,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -368,33 +367,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CJohnson warns Trump against election
-OL,5,Cendorsement
-OL,6, Boris Johnson has warned the US
-OL,7, president against giving him an
-OL,8, endorsement ahead of the general
-OL,9, election on 12 December.
-OL,11,FDonald Trump has previously backed the
-OL,12,Fprime minister, calling him "the exact
-OL,13,Fright guy for the times".
-OL,15,FBut during an interview with LBC, Mr
-OL,16,FJohnson said it was "best... for
-OL,17,Fneither side to be involved in the
-OL,18,Fother's election campaigns". 
-OL,20,FMr Trump is due in the UK next week to
-OL,21,Fjoin world leaders for a Nato summit.
+OL,4,CRunner who collapsed at half marathon
+OL,5,Cgiven medal
+OL,6,  A woman who collapsed during a half
+OL,7, marathon has thanked the other runners
+OL,8, who took care of her and accepted a
+OL,9, medal from the race director.
+OL,11,FHelen Lester passed out at mile 11 of
+OL,12,FRun Silverstone last Sunday and was
+OL,13,Fhelped into an ambulance by other
+OL,14,Fcompetitors.
+OL,16,FShe said she was "really shocked" to
+OL,17,Freceive a phone call offering her a
+OL,18,Fmedal while she was in hospital.
+OL,20,FThe mother-of-three has been invited to
+OL,21,Fstart the race next year.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -419,32 +418,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CManchester bombing survivor defies
-OL,5,Cmedics
-OL,6, A survivor of the Manchester Arena
-OL,7, attack has defied medical experts who
-OL,8, told him he would never walk again.
-OL,10,FMartin Hibbert, who was the closest
-OL,11,Fcasualty to the bomb blast to survive,
-OL,12,Fsuffered 22 shrapnel wounds. 
-OL,14,FThe dad, from Bolton, was left
-OL,15,Fparalysed from the waist down.
-OL,17,FHowever, after brain-training treatment
-OL,18,Fin Australia, he has been able to stand
-OL,19,Fup to kiss his wife after regaining
-OL,20,Fsome movement in his legs.
+OL,4,CPM pledges help for struggling firms
+OL,5,Cafter Brexit
+OL,6, Boris Johnson has pledged to make it
+OL,7, easier to help struggling UK companies
+OL,8, after Brexit, if the Tories win the
+OL,9, general election.
+OL,11,FThe PM said being free of EU rules on
+OL,12,Fstate aid would make it quicker to
+OL,13,Fintervene, and bring in "buy British"
+OL,14,Fguidelines for public bodies.
+OL,16,FHe added that an Australian-style
+OL,17,Fimmigration system would be in place in
+OL,18,Fplace by 1 January, 2021. 
+OL,20,FBut Labour criticised the Tories' past
+OL,21,Frecord of supporting industry.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -470,33 +470,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CCrossbow killer jailed for ex-wife's
-OL,5,Cmurder
-OL,6, A man who shot dead his heavily
-OL,7, pregnant ex-wife with a crossbow in a
-OL,8, "brutal and evil attack" has been
-OL,9, jailed.
-OL,11,FSana Muhammad, 35, was shot in the
-OL,12,Fabdomen by Ramanodge Unmathallegadoo at
-OL,13,Fher Ilford home on 12 November, 2018.
-OL,15,FHe hid in the shed in his ex-partner's
-OL,16,Fgarden armed with two crossbows, bolts,
-OL,17,Fa knife, duct tape, cable ties and a
-OL,18,Fhammer, the Old Bailey heard.
-OL,20,FUnmathallegadoo, 51, was jailed for
-OL,21,Flife with a minimum of 33 years. 
+OL,4,CJohnson warns Trump against election
+OL,5,Cendorsement
+OL,6, Boris Johnson has warned the US
+OL,7, president against giving him an
+OL,8, endorsement ahead of the general
+OL,9, election on 12 December.
+OL,11,FDonald Trump has previously backed the
+OL,12,Fprime minister, calling him "the exact
+OL,13,Fright guy for the times".
+OL,15,FBut during an interview with LBC, Mr
+OL,16,FJohnson said it was "best... for
+OL,17,Fneither side to be involved in the
+OL,18,Fother's election campaigns". 
+OL,20,FMr Trump is due in the UK next week to
+OL,21,Fjoin world leaders for a Nato summit.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C03:38:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C04:36:08
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
