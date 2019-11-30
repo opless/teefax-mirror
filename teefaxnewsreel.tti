@@ -5,23 +5,23 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MLondon Bridge attack victim named  C104
-OL,8,GN Korea threatens Japan with 'real C105
-OL,9,Gmissile'                               
+OL,8,GMalta businessman charged over     C105
+OL,9,Gjournalist murder                      
 OL,10,G'Heroes' praised for confronting   C106
 OL,11,Gbridge attacker                        
-OL,12,GBrazil's leader accuses DiCaprio   C107
-OL,13,Gover Amazon fires                      
+OL,12,GN Korea threatens Japan with 'real C107
+OL,13,Gmissile'                               
 OL,14,GPM to appear on Marr amid BBC      C108
 OL,15,Ginterview row                          
-OL,16,GMalta businessman charged over     C109
-OL,17,Gjournalist murder                      
+OL,16,GBrazil's leader accuses DiCaprio   C109
+OL,17,Gover Amazon fires                      
 OL,18,GParties row over early release of  C110
 OL,19,Gbridge attacker                        
 OL,20,GDutch police arrest man after HagueC111
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -59,7 +59,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -74,31 +74,32 @@ OL,10,FSaints fightback eases pressure on G308
 OL,12,FLate Jonjo Shelvey strike holds    G309
 OL,13,FLate Tony Andreu penalty miss      G310
 OL,14,FDavid Martin 'in tears' after      G311
+OL,15,FMateusz Klich scores two as Whites G312
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
 OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G01R%  B               
+OL,3,           ZR`?0~G00R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G-1V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G -2V} B              
-OL,10,       ^ZVp|t VxRg0 BCloudy       
-OL,11,       ZVnG03VtV+"RG-1R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZV`  R*G 01R} B          
+OL,9,           ^ZVj)"G -3V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG04VtV+"VG-1V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 01V} B          
 OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 01R}zt B       
-OL,17,B              ZVj^RG 03R B       
+OL,16,B            ^ZV'oG 02R}zt BCloudy 
+OL,17,B              ZVj^RG 03R  B      
 OL,18,B            ZVx|^G 03R'         
 OL,19,             ^ZV! +/'iVqp0        
 OL,20,ELight Rain  ^ZU  tG 04V/!        
@@ -108,12 +109,12 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Sunday                 
 OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G06U%  ESome Cloud     
+OL,3,           ZU`?0~G06U%  ELight Rain     
 OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSunny          
@@ -123,21 +124,21 @@ OL,9,           ^ZVj)"G 03V} B
 OL,10,       ^ZVp|t VxVg0 B             
 OL,11,       ZVnG07VtV+"VG03V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BCloudy    
+OL,13,        ZV+%*o!V" R *u  BSome Cloud
 OL,14,B            ^ZV`  R*G 06R}  B         
 OL,15,B            ^ZVk|R            
 OL,16,B            ^ZV'oG 05V}zt B       
 OL,17,B              ZVj^RG 07V B       
 OL,18,B            ZVx|^G 07V'         
-OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 07R/!        
-OL,21,B            ZV zG08V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,19,             ^ZV! +/'iSqp0        
+OL,20,B            ^ZV  tG 07S/!        
+OL,21,B            ZV zG08V^/s/S/? CCloudy   
+OL,22,            ZV8?' "'    "     C        
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +159,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -183,33 +184,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CN Korea threatens Japan with 'real
-OL,5,Cmissile'
-OL,6, North Korea has branded Japan's PM
-OL,7, Shinzo Abe an "imbecile" and "political
-OL,8, dwarf", accusing him of mislabelling
-OL,9, its latest weapons test.
-OL,11,FMr Abe condemned the North for
-OL,12,F"repeated launches of ballistic
-OL,13,Fmissiles" after two projectiles were
-OL,14,Ffired on Thursday.
-OL,16,FBut the North insisted it was testing a
-OL,17,F"super-large multiple-rocket launcher".
-OL,19,FOn Saturday, state media said Japan
-OL,20,F"may see what a real ballistic missile
-OL,21,Fis in the not distant future".
+OL,4,CMalta businessman charged over
+OL,5,Cjournalist murder
+OL,6, Maltese businessman Yorgen Fenech has
+OL,7, been charged with complicity in the
+OL,8, murder of investigative journalist
+OL,9, Daphne Caruana Galizia in 2017.
+OL,11,FHe pleaded not guilty to that charge
+OL,12,Fand four others others including
+OL,13,Fmembership of a criminal gang. 
+OL,15,FRelatives of the assassinated blogger
+OL,16,Fwere present in the court in Valletta.
+OL,18,FThe investigation into Caruana
+OL,19,FGalizia's death has rocked the island's
+OL,20,Fgovernment. Prime Minister Joseph
+OL,21,FMuscat is under pressure to resign. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -235,33 +236,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CBrazil's leader accuses DiCaprio over
-OL,5,CAmazon fires
-OL,6, Brazil's President Jair Bolsonaro has
-OL,7, accused Hollywood actor Leonardo
-OL,8, DiCaprio of "giving money to set the
-OL,9, Amazon on fire".
-OL,11,FThe president gave no evidence but in
-OL,12,Fthe past has accused NGOs critical of
-OL,13,Fhis policies of starting fires that
-OL,14,Fravaged the rainforest this year.
-OL,16,FSeveral arrests have been made amid
-OL,17,Fcontroversial and unproven allegations
-OL,18,Ffires were started to obtain funding.
-OL,20,FDiCaprio, who has pledged $5m for the
-OL,21,FAmazon, denied Mr Bolsonaro's claim.
+OL,4,CN Korea threatens Japan with 'real
+OL,5,Cmissile'
+OL,6, North Korea has branded Japan's PM
+OL,7, Shinzo Abe an "imbecile" and "political
+OL,8, dwarf", accusing him of mislabelling
+OL,9, its latest weapons test.
+OL,11,FMr Abe condemned the North for
+OL,12,F"repeated launches of ballistic
+OL,13,Fmissiles" after two projectiles were
+OL,14,Ffired on Thursday.
+OL,16,FBut the North insisted it was testing a
+OL,17,F"super-large multiple-rocket launcher".
+OL,19,FOn Saturday, state media said Japan
+OL,20,F"may see what a real ballistic missile
+OL,21,Fis in the not distant future".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -287,33 +288,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMalta businessman charged over
-OL,5,Cjournalist murder
-OL,6, Maltese businessman Yorgen Fenech has
-OL,7, been charged with complicity in the
-OL,8, murder of investigative journalist
-OL,9, Daphne Caruana Galizia in 2017.
-OL,11,FHe pleaded not guilty in the court in
-OL,12,FValletta on Saturday evening, with
-OL,13,Frelatives of the assassinated blogger
-OL,14,Fpresent.  
-OL,16,FThe investigation into Caruana
-OL,17,FGalizia's death has rocked the island's
-OL,18,Fgovernment.
-OL,20,FPrime Minister Joseph Muscat has been
-OL,21,Funder pressure to resign. 
+OL,4,CBrazil's leader accuses DiCaprio over
+OL,5,CAmazon fires
+OL,6, Brazil's President Jair Bolsonaro has
+OL,7, accused Hollywood actor Leonardo
+OL,8, DiCaprio of "giving money to set the
+OL,9, Amazon on fire".
+OL,11,FThe president gave no evidence but in
+OL,12,Fthe past has accused NGOs critical of
+OL,13,Fhis policies of starting fires that
+OL,14,Fravaged the rainforest this year.
+OL,16,FSeveral arrests have been made amid
+OL,17,Fcontroversial and unproven allegations
+OL,18,Ffires were started to obtain funding.
+OL,20,FDiCaprio, who has pledged $5m for the
+OL,21,FAmazon, denied Mr Bolsonaro's claim.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -339,7 +340,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -365,7 +366,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -391,7 +392,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,7 +418,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -443,7 +444,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -466,7 +467,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -492,7 +493,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C19:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
