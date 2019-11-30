@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -23,8 +23,8 @@ OL,14,GPM pledges help for struggling     C108
 OL,15,Gfirms after Brexit                     
 OL,16,GBlack Friday protests in France    C109
 OL,17,Gtarget Amazon                          
-OL,18,GJohnson warns Trump against        C110
-OL,19,Gelection endorsement                   
+OL,18,GFinal day for Help to Buy Isa      C110
+OL,19,Gapplications                           
 OL,20,GThree injured in Hague stabbing    C111
 OL,21,Gattack                                 
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -81,65 +81,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G          Friday Evening             
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G01R%  B               
-OL,4,           RZj**gppp B               
+OL,1,T]G         Saturday Evening            
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G01V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G00V!FClear          
+OL,6,            ZV!'~G-1V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,ESome Cloud^ZV*y?sp  B              
-OL,9,           ^ZVj)"G -3V} B              
-OL,10,       ^ZUp|t VxVg0 B             
-OL,11,       ZUnG02UtV+"VG-2V B             
-OL,12,       ZU+V`4V+|0             
-OL,13,        ZU+%*o!V" V *u  B          
-OL,14,E            ^ZR`  V*G 00V} B          
-OL,15,CFoggy       ^ZRk|U            
-OL,16,C            ^ZR'oG -1S}zt B       
-OL,17,B              ZRj^UG 00S B       
-OL,18,B            ZRx|^G 04S'         
-OL,19,             ^ZR! +/'iVqp0        
-OL,20,BCloudy      ^ZR  tG 02V/!        
-OL,21,B            ZR zG08R^/s/V/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZR*y?sp  BSome Cloud    
+OL,9,           ^ZRj)"G -1R}  B             
+OL,10,       ^ZVp|t RxVg0 B             
+OL,11,       ZVnG03VtR+"VG-1V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 02V} B          
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 02V}zt B       
+OL,17,B              ZVj^VG 03V B       
+OL,18,B            ZVx|^G 03V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,ELight Rain  ^ZU  tG 04V/!        
+OL,21,E            ZU zG03U^/s/V/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G             Saturday                
-OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G03V%  B               
-OL,4,           VZj**gppp B               
+OL,1,T]G              Sunday                 
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G06U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G02V!FSunny          
+OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,ESome Cloud^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 02V} B              
-OL,10,       ^ZUp|t VxVg0 B             
-OL,11,       ZUnG07UtV+"VG04V B             
-OL,12,       ZU+V`4V+|0             
-OL,13,        ZU+%*o!V" V *u  B          
-OL,14,E            ^ZR`  V*G 05V} B          
-OL,15,COvercast    ^ZRk|V            
-OL,16,C            ^ZR'oG 03S}zt B       
-OL,17,B              ZRj^VG 07S B       
-OL,18,B            ZRx|^G 07S'         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 03V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG07VtV+"VG03V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  BSome Cloud
+OL,14,B            ^ZR`  R*G 06R}  B         
+OL,15,B            ^ZRk|U            
+OL,16,B            ^ZR'oG 05R}zt ECloudy 
+OL,17,B              ZRj^UG 07R  E      
+OL,18,B            ZRx|^G 06R'         
 OL,19,             ^ZR! +/'iUqp0        
-OL,20,BCloudy      ^ZR  tG 07U/!        
-OL,21,B            ZR zG10R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,20,B            ^ZV  tG 07U/!        
+OL,21,B            ZV zG07V^/s/U/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -170,23 +170,23 @@ OL,4,CLondon Bridge attacker had terror
 OL,5,Cconviction
 OL,6, The man who carried out the stabbing
 OL,7, attack at London Bridge was a former
-OL,8, prisoner convicted of a terrorism
-OL,9, offence, the BBC has learned.
-OL,11,FThe attacker was out of prison on
-OL,12,Flicence at the time of the attack, in
-OL,13,Fwhich two people were killed and three
-OL,14,Fwere injured, sources said. 
-OL,16,FThe man was shot dead by officers after
-OL,17,Fmembers of the public confronted and
-OL,18,Frestrained him.
-OL,20,FPolice have declared the attack a
-OL,21,Fterrorist incident.
+OL,8, prisoner convicted of terrorism
+OL,9, offences.
+OL,11,FThe attacker, named by police as
+OL,12,F28-year-old Usman Khan, was out of
+OL,13,Fprison on licence at the time of the
+OL,14,Fattack, in which two people were killed
+OL,15,Fand three were injured.
+OL,17,FHe was shot dead by officers after
+OL,18,Fmembers of the public restrained him.
+OL,20,FPolice declared the attack a terrorist
+OL,21,Fincident.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -196,23 +196,23 @@ OL,4,CLondon Bridge attacker had terror
 OL,5,Cconviction
 OL,6, The man who carried out the stabbing
 OL,7, attack at London Bridge was a former
-OL,8, prisoner convicted of a terrorism
-OL,9, offence, the BBC has learned.
-OL,11,FThe attacker was out of prison on
-OL,12,Flicence at the time of the attack, in
-OL,13,Fwhich two people were killed and three
-OL,14,Fwere injured, sources said. 
-OL,16,FThe man was shot dead by officers after
-OL,17,Fmembers of the public confronted and
-OL,18,Frestrained him.
-OL,20,FPolice have declared the attack a
-OL,21,Fterrorist incident.
+OL,8, prisoner convicted of terrorism
+OL,9, offences.
+OL,11,FThe attacker, named by police as
+OL,12,F28-year-old Usman Khan, was out of
+OL,13,Fprison on licence at the time of the
+OL,14,Fattack, in which two people were killed
+OL,15,Fand three were injured.
+OL,17,FHe was shot dead by officers after
+OL,18,Fmembers of the public restrained him.
+OL,20,FPolice declared the attack a terrorist
+OL,21,Fincident.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -238,7 +238,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -254,17 +254,17 @@ OL,10, he knows about the case.
 OL,12,FBusinessman Yorgen Fenech had requested
 OL,13,Fa presidential pardon in exchange for
 OL,14,Finformation. 
-OL,16,FCaruana Galizia, a prominent
-OL,17,Fanti-corruption blogger, was killed by
-OL,18,Fa car bomb in 2017.
-OL,20,FMr Muscat is under increasing pressure
-OL,21,Fto resign over the case.
+OL,16,FCaruana Galizia, an anti-corruption
+OL,17,Factivist, was killed by a car bomb. 
+OL,19,FMr Fenech appeared in court on Friday
+OL,20,Fto argue the chief investigator of the
+OL,21,Fcase, Keith Arnaud, should be removed. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -290,7 +290,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -316,33 +316,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CJohnson warns Trump against election
-OL,5,Cendorsement
-OL,6, Boris Johnson has warned the US
-OL,7, president against giving him an
-OL,8, endorsement ahead of the general
-OL,9, election on 12 December.
-OL,11,FDonald Trump has previously backed the
-OL,12,Fprime minister, calling him "the exact
-OL,13,Fright guy for the times".
-OL,15,FBut during an interview with LBC, Mr
-OL,16,FJohnson said it was "best... for
-OL,17,Fneither side to be involved in the
-OL,18,Fother's election campaigns". 
-OL,20,FMr Trump is due in the UK next week to
-OL,21,Fjoin world leaders for a Nato summit.
+OL,4,CFinal day for Help to Buy Isa
+OL,5,Capplications
+OL,6, The final providers of the Help to Buy
+OL,7, Isa - aimed at saving for a first home
+OL,8, deposit - will close the window for new
+OL,9, applications on Saturday.
+OL,11,FThe product, which has been available
+OL,12,Fsince December 2015, allowed potential
+OL,13,Ffirst-time buyers aged 16 or over to
+OL,14,Fsave, with the income free from tax.
+OL,16,FThis was then topped up with a
+OL,17,Fgovernment bonus of up to #3,000.
+OL,19,FNearly 260,000 properties have been
+OL,20,Fbought using the Isa across the UK,
+OL,21,FTreasury figures show.  
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -367,7 +367,59 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CJohnson warns Trump against election
+OL,5,Cendorsement
+OL,6, Boris Johnson has warned the US
+OL,7, president against giving him an
+OL,8, endorsement ahead of the general
+OL,9, election on 12 December.
+OL,11,FDonald Trump has previously backed the
+OL,12,Fprime minister, calling him "the exact
+OL,13,Fright guy for the times".
+OL,15,FBut during an interview with LBC, Mr
+OL,16,FJohnson said it was "best... for
+OL,17,Fneither side to be involved in the
+OL,18,Fother's election campaigns". 
+OL,20,FMr Trump is due in the UK next week to
+OL,21,Fjoin world leaders for a Nato summit.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40516
+SC,0016
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CVatican to return Jesus manger relic to
+OL,5,CBethlehem
+OL,6, A fragment of wood believed to have
+OL,7, formed part of Jesus' manger is set to
+OL,8, be returned to Bethlehem after more
+OL,9, than 1,000 years in Europe. 
+OL,11,FPope Francis ordered the return of the
+OL,12,Fthumb-sized relic from Rome's Basilica
+OL,13,Fof Santa Maria Maggiore as a gift. 
+OL,15,FThe relic had been in Rome since the
+OL,16,F7th Century. 
+OL,18,FIt was briefly put on display in
+OL,19,FJerusalem before continuing its journey
+OL,20,Fto Bethlehem to coincide with the start
+OL,21,Fof Christmas celebrations there.  
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40517
+SC,0017
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -389,62 +441,10 @@ OL,19,Fup to kiss his wife after regaining
 OL,20,Fsome movement in his legs.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40516
-SC,0016
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSudan's women hail end of strict public
-OL,5,Corder law
-OL,6, Sudan has repealed a restrictive public
-OL,7, order law that controlled how women
-OL,8, acted and dressed in public. 
-OL,10,FOn Twitter, Prime Minister Abdalla
-OL,11,FHamdok paid tribute to women who had
-OL,12,F"endured the atrocities that resulted
-OL,13,Ffrom the implementation of this law".
-OL,15,FThe country's transitional authorities
-OL,16,Falso dissolved the party of former
-OL,17,FPresident Omar al-Bashir.
-OL,19,FMr Bashir seized power in a 1989 coup
-OL,20,Fand ruled for nearly 30 years before
-OL,21,Fpeaceful protests ousted him in April.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40517
-SC,0017
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CCrossbow killer jailed for ex-wife's
-OL,5,Cmurder
-OL,6, A man who shot dead his heavily
-OL,7, pregnant ex-wife with a crossbow in a
-OL,8, "brutal and evil attack" has been
-OL,9, jailed.
-OL,11,FSana Muhammad, 35, was shot in the
-OL,12,Fabdomen by Ramanodge Unmathallegadoo at
-OL,13,Fher Ilford home on 12 November, 2018.
-OL,15,FHe hid in the shed in his ex-partner's
-OL,16,Fgarden armed with two crossbows, bolts,
-OL,17,Fa knife, duct tape, cable ties and a
-OL,18,Fhammer, the Old Bailey heard.
-OL,20,FUnmathallegadoo, 51, was jailed for
-OL,21,Flife with a minimum of 33 years. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -470,32 +470,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CNatWest online glitch resolved
-OL,5, IT problems experienced by NatWest
-OL,6, account holders on Friday have been
-OL,7, resolved, the bank has said.
-OL,9,FThe High Street bank said there had
-OL,10,Fbeen a glitch affecting mobile and
-OL,11,Fonline transactions throughout the day.
-OL,13,FFriday was payday for some customers,
-OL,14,Fand many were seeking out Black Friday
-OL,15,Foffers.
-OL,17,F"All our services are now operating as
-OL,18,Fnormal. We apologise to customers for
-OL,19,Fthe inconvenience caused," a NatWest
-OL,20,Fspokesperson said.
+OL,4,CCrossbow killer jailed for ex-wife's
+OL,5,Cmurder
+OL,6, A man who shot dead his heavily
+OL,7, pregnant ex-wife with a crossbow in a
+OL,8, "brutal and evil attack" has been
+OL,9, jailed.
+OL,11,FSana Muhammad, 35, was shot in the
+OL,12,Fabdomen by Ramanodge Unmathallegadoo at
+OL,13,Fher Ilford home on 12 November, 2018.
+OL,15,FHe hid in the shed in his ex-partner's
+OL,16,Fgarden armed with two crossbows, bolts,
+OL,17,Fa knife, duct tape, cable ties and a
+OL,18,Fhammer, the Old Bailey heard.
+OL,20,FUnmathallegadoo, 51, was jailed for
+OL,21,Flife with a minimum of 33 years. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C00:40:04
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C01:47:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
