@@ -5,25 +5,25 @@ CT,10,T
 PN,32401
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:33:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C16:33:02
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GNov 30 15:26    P  W  D  L   F   A Pts
+OL,6, GNov 30 16:29    P  W  D  L   F   A Pts
 OL,8, G1 Liverpool    14 13  1  0  32  11  40
 OL,9, F2 Man City     14  9  2  3  39  16  29
 OL,10, G3 Leicester    13  9  2  2  31   8  29
-OL,11, F4 Chelsea      14  8  3  3  28  19  27
+OL,11, F4 Chelsea      14  8  2  4  28  20  26
 OL,12,B---------------------------------------
-OL,13, G5 Tottenham    14  5  5  4  22  19  20
+OL,13, G5 Tottenham    14  5  5  4  24  20  20
 OL,14,B---------------------------------------
-OL,15, F6 Burnley      14  5  4  5  20  18  19
-OL,16, G7 Wolves       13  4  7  2  18  16  19
-OL,17, F8 Sheff Utd    13  4  6  3  16  12  18
+OL,15, F6 Wolves       13  4  7  2  18  16  19
+OL,16, G7 Sheff Utd    13  4  6  3  16  12  18
+OL,17, F8 Burnley      14  5  3  6  20  19  18
 OL,18, G9 Arsenal      13  4  6  3  18  19  18
-OL,19,F10 Man Utd      13  4  5  4  19  15  17
-OL,20,G11 Bournemouth  14  4  4  6  16  18  16
+OL,19,F10 C Palace     14  5  3  6  12  18  18
+OL,20,G11 Man Utd      13  4  5  4  19  15  17
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
@@ -35,17 +35,17 @@ CT,10,T
 PN,32402
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:33:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C16:33:02
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GNov 30 15:26    P  W  D  L   F   A Pts
-OL,8,F12 C Palace     14  4  4  6  11  18  16
-OL,9,G13 Newcastle    14  4  4  6  13  22  16
-OL,10,F14 Brighton     14  4  3  7  15  21  15
-OL,11,G15 Aston Villa  13  4  2  7  19  20  14
-OL,12,F16 West Ham     14  3  5  6  16  23  14
+OL,6, GNov 30 16:29    P  W  D  L   F   A Pts
+OL,8,F12 Bournemouth  14  4  4  6  17  20  16
+OL,9,G13 West Ham     14  4  4  6  17  23  16
+OL,10,F14 Newcastle    14  4  4  6  13  22  16
+OL,11,G15 Brighton     14  4  3  7  15  21  15
+OL,12,F16 Aston Villa  13  4  2  7  19  20  14
 OL,13,G17 Everton      13  4  2  7  13  20  14
 OL,14,B---------------------------------------
 OL,15,F18 Norwich      13  3  1  9  13  28  10
