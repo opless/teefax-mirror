@@ -5,26 +5,25 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MLondon Bridge attacker had terror  C104
-OL,6,Gconviction                             
+OL,4,MLondon Bridge attack victim named  C104
 OL,8,GN Korea threatens Japan with 'real C105
 OL,9,Gmissile'                               
-OL,10,GSmoke alarms fail in a third of    C106
-OL,11,Ghouse fires                            
+OL,10,GLondon Bridge attacker had terror  C106
+OL,11,Gconviction                             
 OL,12,GBrazil's leader accuses DiCaprio   C107
 OL,13,Gover Amazon fires                      
-OL,14,GEssex lorry deaths bodies back in  C108
-OL,15,GVietnam                                
+OL,14,G'Heroes' praised for confronting   C108
+OL,15,Gbridge attacker                        
 OL,16,GFacebook bows to Singapore's 'fake C109
 OL,17,Gnews' law                              
-OL,18,GRail fares to rise by 2.7% in      C110
-OL,19,GJanuary                                
+OL,18,GPM to appear on Marr amid BBC      C110
+OL,19,Ginterview row                          
 OL,20,GHague knife attack victims were    C111
 OL,21,Gaged 13-15                             
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +59,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -70,18 +69,14 @@ OL,4,MLate Jonjo Shelvey strike holds    G303
 OL,6,FFrom underwear model to Arsenal    G304
 OL,7,FWhat you need to know              G305
 OL,8,FGareth Bale starts as visitors     G306
-OL,9,FLawro vs Sonny Bill Williams       G307
+OL,9,FFletcher brace beats Addicks at    G307
 OL,10,FHow much do you know next summer's G308
-OL,12,FArsenal interim boss wants 'good   G309
-OL,13,FAleksander Mitrovic double helps   G310
-OL,14,FJose Mourinho says he had no       G311
-OL,15,FPep Guardiola 'open' to new        G312
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -89,34 +84,34 @@ OL,2,           ^ZV 4`~|}            G 1/2
 OL,3,           ZV`?0~G05V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G02V!FSunny          
+OL,6,            ZV!'~G03V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 01V} B              
+OL,8,BSome Cloud^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 02V} B              
 OL,10,       ^ZRp|t VxRg0 B             
 OL,11,       ZRnG07RtV+"RG03R B             
 OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" R *u  BSome Cloud
-OL,14,B            ^ZU`  R*G 06R}  B         
+OL,13,        ZR+%*o!R" V *u  B          
+OL,14,B            ^ZU`  V*G 06V} B          
 OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 04R}zt B       
-OL,17,ECloudy        ZUj^VG 08R B       
-OL,18,E            ZUx|^G 07R'         
-OL,19,             ^ZU! +/'iRqp0        
-OL,20,CLight Rain  ^ZS  tG 07R/!        
-OL,21,C            ZS zG10S^/s/R/? B         
+OL,16,B            ^ZU'oG 04V}zt B       
+OL,17,ECloudy        ZUj^VG 08V B       
+OL,18,E            ZUx|^G 07V'         
+OL,19,             ^ZU! +/'iVqp0        
+OL,20,CLight Rain  ^ZS  tG 07V/!        
+OL,21,C            ZS zG10S^/s/V/? B         
 OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Sunday                 
 OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G06U%  B               
-OL,4,           UZj**gppp B               
+OL,3,           ZU`?0~G06U%  ECloudy         
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
@@ -128,18 +123,18 @@ OL,12,       ZV+V`4V+|0
 OL,13,        ZV+%*o!V" R *u  BSome Cloud
 OL,14,B            ^ZV`  R*G 06R}  B         
 OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 05R}zt B       
-OL,17,B              ZVj^RG 07R B       
-OL,18,B            ZVx|^G 07R'         
-OL,19,             ^ZV! +/'iUqp0        
-OL,20,B            ^ZV  tG 07U/!        
-OL,21,B            ZV zG07V^/s/U/? ECloudy   
-OL,22,            ZV8?' "'    "     E        
+OL,16,B            ^ZV'oG 04V}zt B       
+OL,17,B              ZVj^RG 07V B       
+OL,18,B            ZVx|^G 07V'         
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 07R/!        
+OL,21,B            ZV zG08V^/s/R/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +155,58 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CLondon Bridge attack victim named
+OL,5, One of the people stabbed to death in
+OL,6, Friday's attack at London Bridge has
+OL,7, been named as University of Cambridge
+OL,8, graduate Jack Merritt.
+OL,10,FHe was one of two people killed when
+OL,11,F28-year-old Usman Khan launched the
+OL,12,Fattack at a Cambridge University
+OL,13,Fconference on prisoner rehabilitation.
+OL,15,FKhan was shot dead by officers after
+OL,16,Fmembers of the public restrained him. 
+OL,18,FA woman who died in the attack has not
+OL,19,Fyet been named. Three others were
+OL,20,Finjured.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40508
+SC,0008
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CN Korea threatens Japan with 'real
+OL,5,Cmissile'
+OL,6, North Korea has branded Japan's PM
+OL,7, Shinzo Abe an "imbecile" and "political
+OL,8, dwarf", accusing him of mislabelling
+OL,9, its latest weapons test.
+OL,11,FMr Abe condemned the North for
+OL,12,F"repeated launches of ballistic
+OL,13,Fmissiles" after two projectiles were
+OL,14,Ffired on Thursday.
+OL,16,FBut the North insisted it was testing a
+OL,17,F"super-large multiple-rocket launcher".
+OL,19,FOn Saturday, state media said Japan
+OL,20,F"may see what a real ballistic missile
+OL,21,Fis in the not distant future".
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40509
+SC,0009
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -183,62 +229,10 @@ OL,20,FThe Queen said she was "saddened" by
 OL,21,Fthe attack.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40508
-SC,0008
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CN Korea threatens Japan with 'real
-OL,5,Cmissile'
-OL,6, North Korea has branded Japan's PM
-OL,7, Shinzo Abe an "imbecile" and "political
-OL,8, dwarf", and accused him of mislabelling
-OL,9, its latest weapons test.
-OL,11,FMr Abe condemned the North for
-OL,12,F"repeated launches of ballistic
-OL,13,Fmissiles" after two projectiles were
-OL,14,Ffired on Thursday.
-OL,16,FBut the North insisted it was testing a
-OL,17,F"super-large multiple-rocket launcher".
-OL,19,FOn Saturday, state media said Japan
-OL,20,F"may see what a real ballistic missile
-OL,21,Fis in the not distant future".
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40509
-SC,0009
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CSmoke alarms fail in a third of house
-OL,5,Cfires
-OL,6, Lifesaving battery-powered smoke alarms
-OL,7, failed in more than a third of house
-OL,8, fires in England last year, new
-OL,9, analysis shows.
-OL,11,FFirefighters attended more than 7,500
-OL,12,Ffires in homes with battery-powered
-OL,13,Falarms in 2018, but 38% failed to alert
-OL,14,Fresidents of the danger.
-OL,16,FIncorrect positioning caused 45% of the
-OL,17,Ffailures, while missing or faulty
-OL,18,Fbatteries caused 20%.
-OL,20,FThe failure rate has barely changed
-OL,21,Fsince 2010, Home Office figures show.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -264,33 +258,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CEssex lorry deaths bodies back in
-OL,5,CVietnam
-OL,6, The bodies of all 39 people found in
-OL,7, the back of a refrigerated lorry in
-OL,8, Essex have been returned to Vietnam. 
-OL,10,FAmong the victims were eight women and
-OL,11,F31 men and boys, including two teenager
-OL,12,Faged 15. 
-OL,14,FThe bodies were discovered on 23
-OL,15,FOctober in a trailer in Grays.
-OL,16,FInvestigations are ongoing in the UK
-OL,17,Fand Vietnam. 
-OL,19,FA lorry driver accused of 39 counts of
-OL,20,Fmanslaughter has admitted plotting to
-OL,21,Fassist illegal immigration.
+OL,4,C'Heroes' praised for confronting bridge
+OL,5,Cattacker
+OL,6, Passers-by who tackled a man wielding a
+OL,7, knife on London Bridge have been
+OL,8, praised as "everyday heroes".
+OL,10,FThe man had stabbed two people to death
+OL,11,Fand wounded three others in a
+OL,12,F"terror-related" incident. 
+OL,14,FFootage on social media shows the
+OL,15,Fknifeman being held down by members of
+OL,16,Fthe public before firearms officers
+OL,17,Fintervene and shoot him dead.
+OL,19,FOne man who intervened said they had
+OL,20,Fbeen trying to dislodge a knife from
+OL,21,Fthe man's hand.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -313,32 +307,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CRail fares to rise by 2.7% in January
-OL,5, Millions of commuters will have to pay
-OL,6, an average of 2.7% more for rail
-OL,7, tickets from 2 January. 
-OL,9,FThe rise, announced by industry body
-OL,10,Fthe Rail Delivery Group, is lower than
-OL,11,Fthe 3.1% increase at the start of 2019.
-OL,13,FTrain companies say this is the third
-OL,14,Fyear in a row that average fares have
-OL,15,Fbeen held below the benchmark inflation
-OL,16,Fmeasure on which rises are based.
-OL,18,FBut many commuters will still face an
-OL,19,Fincrease of more than #100 in the
-OL,20,Fannual cost of getting to work.
+OL,4,CPM to appear on Marr amid BBC interview
+OL,5,Crow
+OL,6, Boris Johnson will be interviewed on
+OL,7, Sunday's Andrew Marr Show as it is in
+OL,8, "the public interest" following the
+OL,9, London Bridge attack, the BBC says.
+OL,11,FIt had been reported that the BBC had
+OL,12,Ftold the PM he would not be allowed on
+OL,13,FSunday's show unless he also agreed to
+OL,14,Fbe interviewed by Andrew Neil.
+OL,16,FMr Johnson has so far refused to commit
+OL,17,Fto a one-to-one with Mr Neil - who has
+OL,18,Falready grilled other party leaders.
+OL,20,FLabour called the BBC's move to allow
+OL,21,Fthe PM on the Marr show "shameful".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -364,44 +359,44 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CClutha pilot 'trusted implicitly' by
-OL,5,Chis crew
-OL,6, Two police officers killed in the
-OL,7, Clutha helicopter crash "trusted
-OL,8, implicitly" the pilot blamed for their
-OL,9, deaths, according to their families. 
-OL,11,FPCs Tony Collins and Kirsty Nelis were
-OL,12,Fon the aircraft when it crashed into
-OL,13,Fthe Glasgow pub on 29 November 2013. 
-OL,15,FA sheriff ruled that the crash happened
-OL,16,Fbecause pilot David Traill "took a
-OL,17,Fchance" and ignored fuel warnings. 
-OL,19,FMark Nelis, the widower of PC Nelis,
-OL,20,Fsaid the ruling had not changed his
-OL,21,Fopinion of Captain Traill. 
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CAutomatic early release 'not working' -
+OL,5,CPM
+OL,6, Prime Minister Boris Johnson has said
+OL,7, the practice of cutting prison
+OL,8, sentences in half and letting violent
+OL,9, offenders out "simply isn't working".
+OL,11,FMr Johnson was visiting London Bridge
+OL,12,Fwhere two people were killed on Friday
+OL,13,Fby Usman Khan, who was convicted for
+OL,14,Fterrorism offences in 2012.
+OL,16,FKhan was released from prison on
+OL,17,Flicence in December 2018, after his
+OL,18,Finitial sentence was quashed on appeal.
+OL,20,FThe PM vowed to "toughen up sentences
+OL,21,Ffor serious and violent offences".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CVatican to return Jesus manger relic to
-OL,5,CBethlehem
+OL,4,CChristians welcome Jesus manger relic
+OL,5,Cin Bethlehem
 OL,6, A fragment of wood believed to have
-OL,7, formed part of Jesus' manger is set to
-OL,8, be returned to Bethlehem after more
-OL,9, than 1,000 years in Europe. 
+OL,7, formed part of Jesus' manger has been
+OL,8, returned to Bethlehem after more than
+OL,9, 1,000 years in Europe. 
 OL,11,FPope Francis ordered the return of the
 OL,12,Fthumb-sized relic from Rome's Basilica
 OL,13,Fof Santa Maria Maggiore as a gift. 
@@ -416,33 +411,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CRunner who collapsed at half marathon
-OL,5,Cgiven medal
-OL,6,  A woman who collapsed during a half
-OL,7, marathon has thanked the other runners
-OL,8, who took care of her and accepted a
-OL,9, medal from the race director.
-OL,11,FHelen Lester passed out at mile 11 of
-OL,12,FRun Silverstone last Sunday and was
-OL,13,Fhelped into an ambulance by other
-OL,14,Fcompetitors.
-OL,16,FShe said she was "really shocked" to
-OL,17,Freceive a phone call offering her a
-OL,18,Fmedal while she was in hospital.
-OL,20,FThe mother-of-three has been invited to
-OL,21,Fstart the race next year.
+OL,4,CEssex lorry deaths bodies back in
+OL,5,CVietnam
+OL,6, The bodies of all 39 people found in
+OL,7, the back of a refrigerated lorry in
+OL,8, Essex have been returned to Vietnam. 
+OL,10,FAmong the victims were eight women and
+OL,11,F31 men and boys, including two teenager
+OL,12,Faged 15. 
+OL,14,FThe bodies were discovered on 23
+OL,15,FOctober in a trailer in Grays.
+OL,16,FInvestigations are ongoing in the UK
+OL,17,Fand Vietnam. 
+OL,19,FA lorry driver accused of 39 counts of
+OL,20,Fmanslaughter has admitted plotting to
+OL,21,Fassist illegal immigration.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -467,33 +462,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CFinal day for Help to Buy Isa
-OL,5,Capplications
-OL,6, The final providers of the Help to Buy
-OL,7, Isa - aimed at saving for a first home
-OL,8, deposit - will close the window for new
-OL,9, applications on Saturday.
-OL,11,FThe product, which has been available
-OL,12,Fsince December 2015, allowed potential
-OL,13,Ffirst-time buyers aged 16 or over to
-OL,14,Fsave, with the income free from tax.
-OL,16,FThis was then topped up with a
-OL,17,Fgovernment bonus of up to #3,000.
-OL,19,FNearly 260,000 properties have been
-OL,20,Fbought using the Isa across the UK,
-OL,21,FTreasury figures show.  
+OL,4,C'Minke whale' found dead under
+OL,5,CBattersea Bridge
+OL,6, A dead whale has washed up in the River
+OL,7, Thames for the second time in two
+OL,8, months.
+OL,10,FThe mammal, believed to be a minke
+OL,11,Fwhale which can grow up to 33ft (10m)
+OL,12,Flong, was found motionless on the river
+OL,13,Fbanks under Battersea Bridge late on
+OL,14,FFriday.
+OL,16,FThe Port of London Authority (PLA) said
+OL,17,Fit will "endeavour to get the whale
+OL,18,Frecovered safely" over the weekend.
+OL,20,FA humpback whale was found dead in
+OL,21,FGreenhithe in October. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:34:24
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:35:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0

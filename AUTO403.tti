@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:33:56
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:33:57
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FDry and cold for most, although fog may
-OL,9,Fbe slow to clear from some areas.  A
-OL,10,Ffew showers possible on some
-OL,11,Fnortheastern coasts.  Cloudy in the far
-OL,12,Fsouthwest where it will also be windy
-OL,13,Fwith rain, possibly heavy at times.
+OL,7,GThis Evening and Tonight
+OL,8,FRain clearing the far southwest, but
+OL,9,Fremaining windy, whilst showers affect
+OL,10,Fsome North Sea coastal districts at
+OL,11,Ftimes and also northern Scotland.
+OL,12,FElsewhere, dry with clear periods
+OL,13,Fallowing another cold, frosty night
+OL,14,Fwith a few fog patches.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FRain clearing the far southwest. 
-OL,17,FElsewhere, mainly dry with clear
-OL,18,Fperiods allowing another cold, frosty
-OL,19,Fnight.  A risk of fog patches across
-OL,20,Fnorthern areas.
+OL,16,GSunday
+OL,17,FMost places dry and sunny, but feeling
+OL,18,Fcold, although showers likely in the
+OL,19,Ffar north and east. Fog patches slow to
+OL,20,Fclear in parts of southern Scotland and
+OL,21,Fnorth-west England.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C14:33:56
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C15:33:57
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Monday to Wednesday
-OL,8,FMainly cold and dry with light winds,
-OL,9,Fovernight frosts, and increasing
-OL,10,Famounts of mist and fog in the south.
-OL,11,FScotland breezier, less cold, and often
-OL,12,Fcloudier with outbreaks of rain.
+OL,8,FBreezy and milder in the north, with
+OL,9,Fsome rain, heaviest in the west.
+OL,10,FElsewhere, remaining dry and generally
+OL,11,Fcold, with fog by night, this locally
+OL,12,Fdense and slow to clear.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
