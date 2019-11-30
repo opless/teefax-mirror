@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -14,8 +14,8 @@ OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MLondon Bridge attack victim named  C104
 OL,8,GMalta businessman charged over     C105
 OL,9,Gjournalist murder                      
-OL,10,G'Heroes' praised for confronting   C106
-OL,11,Gbridge attacker                        
+OL,10,GLondon Bridge attack victim had    C106
+OL,11,G'lust for life'                        
 OL,12,GN Korea threatens Japan with 'real C107
 OL,13,Gmissile'                               
 OL,14,GPM to appear on Marr amid BBC      C108
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -59,7 +59,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -69,7 +69,7 @@ OL,4,MEngland drawn against Croatia,     G303
 OL,6,FWhat happened in the Premier       G304
 OL,7,FLeaders move 11 points clear       G305
 OL,8,FEverything you need to know about  G306
-OL,9,FAlli stars as Mourinho makes it    G307
+OL,9,FMourinho praises Alli after third  G307
 OL,10,FSaints fightback eases pressure on G308
 OL,12,FLate Jonjo Shelvey strike holds    G309
 OL,13,FLate Tony Andreu penalty miss      G310
@@ -80,42 +80,42 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G00R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G01V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G-1V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G -3V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG04VtV+"VG-1V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 01V} B          
-OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 02R}zt BCloudy 
-OL,17,B              ZVj^RG 03R  B      
-OL,18,B            ZVx|^G 03R'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,ELight Rain  ^ZU  tG 04V/!        
-OL,21,E            ZU zG04U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,8,B          ^ZR*y?sp  BCloudy        
+OL,9,           ^ZRj)"G -3R}  B             
+OL,10,       ^ZRp|t RxVg0 B             
+OL,11,       ZRnG04RtR+"VG-1V B             
+OL,12,       ZR+V`4V+|0             
+OL,13,        ZR+%*o!V" V *u  B          
+OL,14,B            ^ZU`  V*G 00V} B          
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 02R}zt B       
+OL,17,EClear         ZUj^RG 02R B       
+OL,18,E            ZUx|^G 03R'         
+OL,19,             ^ZU! +/'iVqp0        
+OL,20,B            ^ZR  tG 04V/!        
+OL,21,B            ZR zG04R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Sunday                 
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G06U%  ELight Rain     
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G06R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
@@ -130,15 +130,15 @@ OL,15,B            ^ZVk|R
 OL,16,B            ^ZV'oG 05V}zt B       
 OL,17,B              ZVj^RG 07V B       
 OL,18,B            ZVx|^G 07V'         
-OL,19,             ^ZV! +/'iSqp0        
-OL,20,B            ^ZV  tG 07S/!        
-OL,21,B            ZV zG08V^/s/S/? CCloudy   
-OL,22,            ZV8?' "'    "     C        
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 07R/!        
+OL,21,B            ZV zG08V^/s/R/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,7 +159,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -184,7 +184,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,33 +210,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,C'Heroes' praised for confronting bridge
-OL,5,Cattacker
-OL,6, Passers-by who tackled a man wielding a
-OL,7, knife on London Bridge have been
-OL,8, praised as "amazing heroes".
-OL,10,FThe man had stabbed two people to death
-OL,11,Fand wounded three others in a
-OL,12,Fterror-related attack. 
-OL,14,FFootage on social media shows the
-OL,15,Fknifeman being held down by members of
-OL,16,Fthe public before firearms officers
-OL,17,Fintervene and shoot him dead.
-OL,19,FOne man who intervened said they had
-OL,20,Fbeen trying to dislodge a knife from
-OL,21,Fthe man's hand.
+OL,4,CLondon Bridge attack victim had 'lust
+OL,5,Cfor life'
+OL,6, "A beautiful spirit who always took the
+OL,7, side of the underdog." 
+OL,9,FThat's how David Merritt described his
+OL,10,F25-year-old son Jack, who was stabbed
+OL,11,Fto death in an attack at London Bridge.
+OL,13,FA woman who died in the attack -
+OL,14,Fdeclared by officers as a terrorist
+OL,15,Fincident - has not yet been named.
+OL,16,FThree others were injured.
+OL,18,FA law and criminology graduate, Mr
+OL,19,FMerritt was a course coordinator for
+OL,20,Fthe University of Cambridge's prison
+OL,21,Frehabilitation programme.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +262,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,7 +288,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,7 +314,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,7 +340,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,7 +366,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,7 +392,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -418,33 +418,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CEssex lorry deaths bodies back in
-OL,5,CVietnam
-OL,6, The bodies of all 39 people found in
-OL,7, the back of a refrigerated lorry in
-OL,8, Essex have been returned to Vietnam. 
-OL,10,FAmong the victims were eight women and
-OL,11,F31 men and boys, including two teenager
-OL,12,Faged 15. 
-OL,14,FThe bodies were discovered on 23
-OL,15,FOctober in a trailer in Grays.
-OL,16,FInvestigations are ongoing in the UK
-OL,17,Fand Vietnam. 
-OL,19,FA lorry driver accused of 39 counts of
-OL,20,Fmanslaughter has admitted plotting to
-OL,21,Fassist illegal immigration.
+OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
+OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
+OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
+OL,4,CParents demand answers over troubled
+OL,5,Chospital
+OL,6, The parents of children being treated
+OL,7, at a Glasgow hospital have said they
+OL,8, have "no confidence" in the local
+OL,9, health board. 
+OL,11,FThe Queen Elizabeth University Hospital
+OL,12,F(QEUH) and the adjoining Royal Hospital
+OL,13,Ffor children have been at the centre of
+OL,14,Fconcerns about  contaminated water.
+OL,16,FA group of 15 parents who met on
+OL,17,FSaturday said they did not believe they
+OL,18,Fwere "getting answers".
+OL,20,FHospital bosses have insisted QEUH has
+OL,21,Fa "safe and effective water supply".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -467,33 +467,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CJohn Barrowman suffers 'severe neck
-OL,5,Cinjury'
-OL,6, John Barrowman has been forced to
-OL,7, cancel shows at the start of a UK tour
-OL,8, after suffering "a severe neck injury".
-OL,10,FThe star of Doctor Who and Torchwood
-OL,11,Fwas due to begin his eight-date
-OL,12,F"Fabulous Christmas Tour" at the
-OL,13,FBristol Hippodrome on Saturday.
-OL,15,FBut in a tweet he said he had been
-OL,16,Frushed to hospital with a neck injury
-OL,17,Fthat made it "impossible to sing and
-OL,18,Fmove".
-OL,20,FPerformances are still scheduled for
-OL,21,Fnext week.
+OL,4,CEssex lorry deaths bodies back in
+OL,5,CVietnam
+OL,6, The bodies of all 39 people found in
+OL,7, the back of a refrigerated lorry in
+OL,8, Essex have been returned to Vietnam. 
+OL,10,FAmong the victims were eight women and
+OL,11,F31 men and boys, including two teenager
+OL,12,Faged 15. 
+OL,14,FThe bodies were discovered on 23
+OL,15,FOctober in a trailer in Grays.
+OL,16,FInvestigations are ongoing in the UK
+OL,17,Fand Vietnam. 
+OL,19,FA lorry driver accused of 39 counts of
+OL,20,Fmanslaughter has admitted plotting to
+OL,21,Fassist illegal immigration.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E30/11C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E30/11C21:35:29
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
