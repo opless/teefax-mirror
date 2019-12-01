@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -22,8 +22,8 @@ OL,14,GParties row over early release of  C108
 OL,15,Gbridge attacker                        
 OL,16,GN Korea threatens Japan with 'real C109
 OL,17,Gmissile'                               
-OL,18,GMan died after stabbing near town  C110
-OL,19,Gcentre nightclub                       
+OL,18,GLabour say NHS figures show declineC110
+OL,19,Gin GP services                         
 OL,20,GBrazil's leader accuses DiCaprio   C111
 OL,21,Gover Amazon fires                      
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -59,7 +59,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -72,50 +72,50 @@ OL,8,FHave we underestimated Newcastle   G306
 OL,9,FLeaders move 11 points clear       G307
 OL,10,FEverything you need to know about  G308
 OL,12,FWales manager Ryan Giggs confident G309
-OL,13,FWhat happened in the Premier       G310
-OL,14,FMourinho praises Alli after third  G311
-OL,15,FSaints fightback eases pressure on G312
+OL,13,FI suffer for fans, players and     G310
+OL,14,FWhat happened in the Premier       G311
+OL,15,FMourinho praises Alli after third  G312
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Sunday Evening             
 OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G04U%  B               
-OL,4,           UZj**gppp B               
+OL,3,           ZU`?0~G04U%  ELight Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G04V!FSome Cloud     
+OL,6,            ZV!'~G03V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 01V} B              
 OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG04VtV+"RG00R B             
+OL,11,       ZVnG03VtV+"RG00R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  BClear     
 OL,14,B            ^ZR`  R*G 01R}  B         
-OL,15,ECloudy      ^ZRk|V            
-OL,16,E            ^ZR'oG 01U}zt B       
-OL,17,B              ZRj^VG 02U B       
-OL,18,B            ZRx|^G 00U'         
-OL,19,             ^ZR! +/'iVqp0        
-OL,20,B            ^ZV  tG 04V/!        
-OL,21,B            ZV zG03V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 00R}zt B       
+OL,17,B              ZRj^VG 02R B       
+OL,18,B            ZRx|^G 00R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 01R/!        
+OL,21,B            ZR zG00R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Monday                 
-OL,2,           ^ZS 4`~|}            G 2/2 
-OL,3,           ZS`?0~G09S%  CLight Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G09U%  EHeavy Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
@@ -125,20 +125,20 @@ OL,10,       ^ZVp|t VxVg0 B
 OL,11,       ZVnG07VtV+"VG06V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" R *u  BSunny     
-OL,14,B            ^ZU`  R*G 06R}  B         
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 05R}zt B       
-OL,17,ESome Cloud    ZUj^RG 06R B       
-OL,18,E            ZUx|^G 07R'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,B            ^ZR  tG 07U/!        
-OL,21,B            ZR zG08R^/s/U/? B         
+OL,14,B            ^ZR`  R*G 05R}  B         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 06R}zt B       
+OL,17,B              ZRj^RG 06R B       
+OL,18,B            ZRx|^G 07R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 06R/!        
+OL,21,B            ZR zG07R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,7 +159,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -184,7 +184,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,7 +210,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,7 +236,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +262,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,7 +288,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,33 +314,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan died after stabbing near town
-OL,5,Ccentre nightclub
-OL,6, A 21-year-old man has died after being
-OL,7, stabbed in the early hours near a town
-OL,8, centre nightclub.
-OL,10,FHe died after being taken to hospital
-OL,11,Ffrom the scene in Poplar Road,
-OL,12,FSolihull, at about 03:00 GMT.
-OL,14,FWest Midland Police said extensive CCTV
-OL,15,Finquiries were ongoing and the scene,
-OL,16,Fclose to the Popworld club, has been
-OL,17,Fcordoned off by forensic teams.
-OL,19,FThe victim's family have been informed
-OL,20,Fand are being supported by
-OL,21,Fspecially-trained officers.
+OL,4,CLabour say NHS figures show decline in
+OL,5,CGP services
+OL,6, Labour has highlighted NHS figures
+OL,7, which it claims show a decline of GP
+OL,8, services under the Conservatives.
+OL,10,FThe figures show that in October there
+OL,11,Fwere six million GP appointments - out
+OL,12,Fof 31 million - for which patients had
+OL,13,Fa wait of more than two weeks. 
+OL,15,FLabour said it was "yet more damning
+OL,16,Fevidence of the crisis our NHS is in
+OL,17,Fafter a decade of Tory cuts".  
+OL,19,FThe Tories responded by highlighting
+OL,20,Ftheir plans to deliver 50 million more
+OL,21,FGP appointments by 2024-25 if elected.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,33 +366,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLabour, Lib Dems pledge wider access to
-OL,5,CHIV drug
-OL,6, Labour and the Liberal Democrats have
-OL,7, pledged to roll out access to the
-OL,8, HIV-prevention drug PrEP in England to
-OL,9, anyone who needs it.
-OL,11,FCurrently, access is limited to those
-OL,12,Ftaking part in an NHS trial - there is
-OL,13,Fno cap in Scotland, Wales or Northern
-OL,14,FIreland.
-OL,16,FThe Conservatives said thousands of
-OL,17,Fplaces were still available on the
-OL,18,Ftrial.
-OL,20,FHIV experts and charities welcomed any
-OL,21,Fplans to widen access to the drug.
+OL,4,CMan died after stabbing near town
+OL,5,Ccentre nightclub
+OL,6, A 21-year-old man has died after being
+OL,7, stabbed in the early hours near a town
+OL,8, centre nightclub.
+OL,10,FHe died after being taken to hospital
+OL,11,Ffrom the scene in Poplar Road,
+OL,12,FSolihull, at about 03:00 GMT.
+OL,14,FWest Midland Police said extensive CCTV
+OL,15,Finquiries were ongoing and the scene,
+OL,16,Fclose to the Popworld club, has been
+OL,17,Fcordoned off by forensic teams.
+OL,19,FThe victim's family have been informed
+OL,20,Fand are being supported by
+OL,21,Fspecially-trained officers.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -418,33 +418,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
-OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
-OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
-OL,4,CClimate change 'blueprint' for Wales
-OL,5,Claunched
-OL,6, A five-year blueprint to tackle climate
-OL,7, change in Wales has been launched by
-OL,8, the Welsh Government.
-OL,10,FProsperity for All: A Climate Conscious
-OL,11,FWales sets out plans to improve flood
-OL,12,Fdefences, secure water supplies, and
-OL,13,Fother environmental improvements.
-OL,15,FEnvironment minister Lesley Griffiths
-OL,16,Fsaid the plan is "challenging".
-OL,18,FBut Welsh Conservative Andrew RT Davies
-OL,19,Fsaid "questions must be answered" over
-OL,20,Fif the plans are "workable" and
-OL,21,F"economically viable".
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CLabour, Lib Dems pledge wider access to
+OL,5,CHIV drug
+OL,6, Labour and the Liberal Democrats have
+OL,7, pledged to roll out access to the
+OL,8, HIV-prevention drug PrEP in England to
+OL,9, anyone who needs it.
+OL,11,FCurrently, access is limited to those
+OL,12,Ftaking part in an NHS trial - there is
+OL,13,Fno cap in Scotland, Wales or Northern
+OL,14,FIreland.
+OL,16,FThe Conservatives said thousands of
+OL,17,Fplaces were still available on the
+OL,18,Ftrial.
+OL,20,FHIV experts and charities welcomed any
+OL,21,Fplans to widen access to the drug.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -470,33 +470,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CParents demand answers over troubled
-OL,5,Chospital
-OL,6, The parents of children being treated
-OL,7, at a Glasgow hospital have said they
-OL,8, have "no confidence" in the local
-OL,9, health board. 
-OL,11,FThe Queen Elizabeth University Hospital
-OL,12,F(QEUH) and the adjoining Royal Hospital
-OL,13,Ffor children have been at the centre of
-OL,14,Fconcerns about  contaminated water.
-OL,16,FA group of 15 parents who met on
-OL,17,FSaturday said they did not believe they
-OL,18,Fwere "getting answers".
-OL,20,FHospital bosses have insisted QEUH has
-OL,21,Fa "safe and effective water supply".
+OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
+OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
+OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
+OL,4,CClimate change 'blueprint' for Wales
+OL,5,Claunched
+OL,6, A five-year blueprint to tackle climate
+OL,7, change in Wales has been launched by
+OL,8, the Welsh Government.
+OL,10,FProsperity for All: A Climate Conscious
+OL,11,FWales sets out plans to improve flood
+OL,12,Fdefences, secure water supplies, and
+OL,13,Fother environmental improvements.
+OL,15,FEnvironment minister Lesley Griffiths
+OL,16,Fsaid the plan is "challenging".
+OL,18,FBut Welsh Conservative Andrew RT Davies
+OL,19,Fsaid "questions must be answered" over
+OL,20,Fif the plans are "workable" and
+OL,21,F"economically viable".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C00:35:21
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C01:37:22
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
