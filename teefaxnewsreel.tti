@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -82,13 +82,13 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G06R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G06V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
@@ -99,9 +99,9 @@ OL,11,       ZRnG06RtV+"VG02V B
 OL,12,       ZR+V`4V+|0             
 OL,13,        ZR+%*o!V" R *u  BSome Cloud
 OL,14,B            ^ZR`  R*G 05R}  B         
-OL,15,B            ^ZRk|R            
+OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^RG 07R B       
+OL,17,B              ZRj^VG 07R B       
 OL,18,B            ZRx|^G 06R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZV  tG 07R/!        
@@ -111,7 +111,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -124,7 +124,7 @@ OL,7,           ^ZV ~ow1  F
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 06V} B              
 OL,10,       ^ZVp|t VxSg0 CSome Cloud   
-OL,11,       ZVnG06VtV+"SG05S  C            
+OL,11,       ZVnG07VtV+"SG05S  C            
 OL,12,       ZV+S`4S+|0             
 OL,13,        ZV+%*o!S" R *u  BSunny     
 OL,14,B            ^ZR`  R*G 05R}  B         
@@ -140,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -176,7 +176,7 @@ OL,9, Ministry of Justice following Friday's
 OL,10, London Bridge attack. 
 OL,12,FTwo people were killed and three were
 OL,13,Finjured by Usman Khan, 28, a convicted
-OL,14,Fterrorist who served half of his time.
+OL,14,Fterrorist who served half his time.
 OL,16,FPM Boris Johnson claimed scrapping
 OL,17,Fearly release would have stopped him.
 OL,19,FBut Labour leader Jeremy Corbyn will
@@ -187,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,32 +213,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CMan 'on fire' at city railway station
-OL,5, A man is being treated for burns after
-OL,6, coming into contact with overhead
-OL,7, cables at Birmingham's New Street
-OL,8, railway station.
-OL,10,FIt happened at about 08:00 GMT
-OL,11,Ffollowing reports of a man being
-OL,12,Fseriously injured. One onlooker said he
-OL,13,Fwas "on fire".
-OL,15,FDelays in the area are expected until
-OL,16,F11:00, National Rail said.
-OL,18,FThe man has been taken to hospital in a
-OL,19,Flife-threatening condition. It is not
-OL,20,Fbelieved to be suspicious.
+OL,5, A man is being treated for critical
+OL,6, burns after coming into contact with
+OL,7, overhead cables at Birmingham's New
+OL,8, Street railway station.
+OL,10,FIt happened at about 08:00 GMT. One
+OL,11,Fonlooker said the man was "on fire".
+OL,13,FRail delays in the area were expected
+OL,14,Funtil about 11:00, National Rail said.
+OL,16,FThe man was taken to hospital in a
+OL,17,Flife-threatening condition after an air
+OL,18,Fambulance landed on top of the station
+OL,19,Fcar park.
+OL,21,Fpic.twitter.com/uON9NS8RCW
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -264,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -290,7 +290,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,7 +314,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,7 +340,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,7 +366,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,33 +392,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CCosmic Crisp: New apple that 'lasts for
-OL,5,Ca year'
-OL,6,  A new breed of apple that took two
-OL,7, decades to develop and allegedly lasts
-OL,8, for up to a year in the fridge goes on
-OL,9, sale in the US on Sunday. 
-OL,11,FThe apple - Cosmic Crisp - is a
-OL,12,Fcross-breed of the Honeycrisp and
-OL,13,FEnterprise and was first cultivated by
-OL,14,FWashington State University in 1997.
-OL,16,FThe launch of the "firm, crisp, and
-OL,17,Fjuicy apple" cost $10m (#7.9m). 
-OL,19,FFarmers in the state of Washington are
-OL,20,Fexclusively allowed to grow the fruit
-OL,21,Ffor the next decade. 
+OL,4,CUS man killed by own home booby trap
+OL,5, A 65-year-old American man who rigged
+OL,6, his home with a booby trap to keep out
+OL,7, intruders has been killed by the
+OL,8, device.
+OL,10,FRonald Cyr called police in the town of
+OL,11,FVan Buren in the state of Maine to say
+OL,12,Fhe had been shot.
+OL,14,FPolice found a door had been designed
+OL,15,Fto fire a handgun should anyone attempt
+OL,16,Fto enter. Mr Cyr was taken to hospital
+OL,17,Fbut died of his injuries.
+OL,19,FIt is not uncommon for home-owners to
+OL,20,Finstall such traps - but it is illegal.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -444,32 +443,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNamibian president wins re-election
-OL,5, Namibia's President Hage Geingob has
-OL,6, been re-elected for a second term, the
-OL,7, country's electoral commission says. 
-OL,9,FMr Geingob polled 56.3% in Wednesday's
-OL,10,Felection, well ahead of his nearest
-OL,11,Frival Panduleni Itula with 29.4%.
-OL,13,FHowever, Mr Geingob's tally was well
-OL,14,Fdown from the 87% with which he won his
-OL,15,Ffirst term in 2014.
-OL,17,FHe went on social media to thank
-OL,18,FNamibians for returning him to office,
-OL,19,Fpromising to bring tangible
-OL,20,Fimprovements to their lives.
+OL,4,CHuman urine forces cinema evacuation
+OL,5, A movie theatre in the north-western US
+OL,6, state of Washington had to be evacuated
+OL,7, after it took delivery of a package of
+OL,8, human urine.
+OL,10,FThe package marked "highly contagious
+OL,11,Fhuman substance" was delivered in error
+OL,12,Fto the North Bend Theater, in the city
+OL,13,Fof the same name on Friday evening.
+OL,15,FAfter about an hour, the substance was
+OL,16,Fdetermined to be urine and was disposed
+OL,17,Fof, CNN reported.
+OL,19,FThe package was intended for a medical
+OL,20,Fclinic.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -494,26 +493,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMerkel ally's loss casts doubt on
-OL,5,CGerman coalition
-OL,6, The future of German Chancellor Angela
-OL,7, Merkel's coalition has been thrown into
-OL,8, doubt after her deputy chancellor lost
-OL,9, the leadership race of his party.
-OL,11,FOlaf Scholz, who is also finance
-OL,12,Fminister, lost his bid to become leader
-OL,13,Fof the centre-left SPD.
-OL,15,FThe party is now expected to vote on
-OL,16,Fwhether to stay in the coalition with
-OL,17,FMs Merkel's conservative CDU/CSU.
-OL,19,FMr Scholz's joint challengers, Norbert
-OL,20,FWalter-Borjans and Saskia Esken, have
-OL,21,Fbeen highly critical of the coalition. 
+OL,4,CCosmic Crisp: New apple that 'lasts for
+OL,5,Ca year'
+OL,6,  A new breed of apple that took two
+OL,7, decades to develop and allegedly lasts
+OL,8, for up to a year in the fridge goes on
+OL,9, sale in the US on Sunday. 
+OL,11,FThe apple - Cosmic Crisp - is a
+OL,12,Fcross-breed of the Honeycrisp and
+OL,13,FEnterprise and was first cultivated by
+OL,14,FWashington State University in 1997.
+OL,16,FThe launch of the "firm, crisp, and
+OL,17,Fjuicy apple" cost $10m (#7.9m). 
+OL,19,FFarmers in the state of Washington are
+OL,20,Fexclusively allowed to grow the fruit
+OL,21,Ffor the next decade. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
