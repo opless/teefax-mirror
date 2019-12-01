@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -59,7 +59,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -80,26 +80,26 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Sunday Evening             
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G05S%  CLight Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G05U%  ELight Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G03V!FCloudy         
+OL,6,            ZV!'~G03V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,ESome Cloud^ZU*y?sp  B              
-OL,9,           ^ZUj)"G 01U} B              
-OL,10,       ^ZUp|t UxRg0 B             
-OL,11,       ZUnG04UtU+"RG00R B             
-OL,12,       ZU+R`4R+|0             
-OL,13,        ZU+%*o!R" R *u  BClear     
-OL,14,E            ^ZR`  R*G 01R}  B         
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 00R}zt B       
-OL,17,B              ZRj^VG 02R B       
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 01V} B              
+OL,10,       ^ZVp|t VxRg0 B             
+OL,11,       ZVnG04VtV+"RG00R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  BClear     
+OL,14,B            ^ZR`  R*G 01R}  B         
+OL,15,B            ^ZRk|S            
+OL,16,B            ^ZR'oG 00R}zt CCloudy 
+OL,17,B              ZRj^SG 02R  C      
 OL,18,B            ZRx|^G 00R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 01R/!        
@@ -109,36 +109,36 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Monday                 
-OL,2,           ^ZS 4`~|}            G 2/2 
-OL,3,           ZS`?0~G09S%  CHeavy Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G09U%  EHeavy Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 07V} B              
-OL,10,       ^ZVp|t VxRg0 BSome Cloud   
-OL,11,       ZVnG07VtV+"RG05R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" U *u  ESunny     
-OL,14,B            ^ZU`  U*G 06U}  E         
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 06U}zt B       
-OL,17,B              ZUj^RG 06U B       
-OL,18,B            ZUx|^G 07U'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,B            ^ZU  tG 06U/!        
-OL,21,B            ZU zG08U^/s/U/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG07VtV+"VG05V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  BSunny     
+OL,14,B            ^ZR`  R*G 06R}  B         
+OL,15,B            ^ZRk|S            
+OL,16,B            ^ZR'oG 06R}zt    CSome
+OL,17,B              ZRj^SG 06R CCloud  
+OL,18,B            ZRx|^G 07R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 06R/!        
+OL,21,B            ZR zG08R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,7 +159,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -185,7 +185,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -211,7 +211,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -237,7 +237,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -263,7 +263,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -289,7 +289,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -315,7 +315,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -341,7 +341,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,33 +366,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan died after stabbing near town
-OL,5,Ccentre nightclub
-OL,6, A 21-year-old man has died after being
-OL,7, stabbed in the early hours near a town
-OL,8, centre nightclub.
-OL,10,FHe died after being taken to hospital
-OL,11,Ffrom the scene in Poplar Road,
-OL,12,FSolihull, at about 03:00 GMT.
-OL,14,FWest Midland Police said extensive CCTV
-OL,15,Finquiries were ongoing and the scene,
-OL,16,Fclose to the Popworld club, has been
-OL,17,Fcordoned off by forensic teams.
-OL,19,FThe victim's family have been informed
-OL,20,Fand are being supported by
-OL,21,Fspecially-trained officers.
+OL,4,CLabour plans central train ticket
+OL,5,Cbookings
+OL,6, Train ticket sales could be transformed
+OL,7, under Labour plans for a central online
+OL,8, booking portal.
+OL,10,FThe party wants to replace what it sees
+OL,11,Fas a confusing system of sales by
+OL,12,Fprivate train operators - with around
+OL,13,F55 million types of fare available.
+OL,15,FInstead, it is proposing a "one-stop
+OL,16,Fshop" for fares with no booking fees if
+OL,17,Fit wins the election on 12 December.
+OL,19,FThe proposal is part of broader plans
+OL,20,Fby the party to nationalise the UK's
+OL,21,Ftrain system.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -418,7 +418,59 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CMan died after stabbing near town
+OL,5,Ccentre nightclub
+OL,6, A 21-year-old man has died after being
+OL,7, stabbed in the early hours near a town
+OL,8, centre nightclub.
+OL,10,FHe died after being taken to hospital
+OL,11,Ffrom the scene in Poplar Road,
+OL,12,FSolihull, at about 03:00 GMT.
+OL,14,FWest Midland Police said extensive CCTV
+OL,15,Finquiries were ongoing and the scene,
+OL,16,Fclose to the Popworld club, has been
+OL,17,Fcordoned off by forensic teams.
+OL,19,FThe victim's family have been informed
+OL,20,Fand are being supported by
+OL,21,Fspecially-trained officers.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40518
+SC,0018
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CCosmic Crisp: New apple that 'lasts for
+OL,5,Ca year'
+OL,6,  A new breed of apple that took two
+OL,7, decades to develop and allegedly lasts
+OL,8, for up to a year in the fridge goes on
+OL,9, sale in the US on Sunday. 
+OL,11,FThe apple - Cosmic Crisp - is a
+OL,12,Fcross-breed of the Honeycrisp and
+OL,13,FEnterprise and was first cultivated by
+OL,14,FWashington State University in 1997.
+OL,16,FThe launch of the "firm, crisp, and
+OL,17,Fjuicy apple" cost $10m (#7.9m). 
+OL,19,FFarmers in the state of Washington are
+OL,20,Fexclusively allowed to grow the fruit
+OL,21,Ffor the next decade. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -441,62 +493,10 @@ OL,20,FHIV experts and charities welcomed any
 OL,21,Fplans to widen access to the drug.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40518
-SC,0018
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CChristians welcome Jesus manger relic
-OL,5,Cin Bethlehem
-OL,6, A fragment of wood believed to have
-OL,7, formed part of Jesus' manger has been
-OL,8, returned to Bethlehem after more than
-OL,9, 1,000 years in Europe. 
-OL,11,FPope Francis ordered the return of the
-OL,12,Fthumb-sized relic from Rome's Basilica
-OL,13,Fof Santa Maria Maggiore as a gift. 
-OL,15,FThe relic had been in Rome since the
-OL,16,F7th Century. 
-OL,18,FIt was briefly put on display in
-OL,19,FJerusalem before continuing its journey
-OL,20,Fto Bethlehem to coincide with the start
-OL,21,Fof Christmas celebrations there.  
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40519
-SC,0019
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
-OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
-OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
-OL,4,CClimate change 'blueprint' for Wales
-OL,5,Claunched
-OL,6, A five-year blueprint to tackle climate
-OL,7, change in Wales has been launched by
-OL,8, the Welsh Government.
-OL,10,FProsperity for All: A Climate Conscious
-OL,11,FWales sets out plans to improve flood
-OL,12,Fdefences, secure water supplies, and
-OL,13,Fother environmental improvements.
-OL,15,FEnvironment minister Lesley Griffiths
-OL,16,Fsaid the plan is "challenging".
-OL,18,FBut Welsh Conservative Andrew RT Davies
-OL,19,Fsaid "questions must be answered" over
-OL,20,Fif the plans are "workable" and
-OL,21,F"economically viable".
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C04:31:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C05:33:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
