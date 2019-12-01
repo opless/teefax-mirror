@@ -5,14 +5,14 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MCambridge says ex-student second   C104
-OL,6,Gvictim of attack                       
+OL,4,MSecond London Bridge victim named  C104
+OL,6,Gas Saskia Jones                        
 OL,8,GFreed Taliban captive reveals      C105
 OL,9,Ghostage ordeal                         
 OL,10,GJohnson says 74 terror prisoners   C106
@@ -25,14 +25,14 @@ OL,16,GIraq PM's resignation accepted amidC109
 OL,17,Gunrest                                 
 OL,18,GThree men hit by car during 'fight C110
 OL,19,Gwith weapons'                          
-OL,20,GSongwriter behind calypso hit Day-OC111
-OL,21,Gdies aged 95                           
+OL,20,GWW2 bomb defused in Turin after    C111
+OL,21,Gthousands evacuate                     
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,26 +60,24 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MWatford sack manager after less    G303
-OL,6,FNeil Lennon's side win 10th game   G304
-OL,7,FVivianne Miedema scores six in     G305
-OL,8,FBenik Afobe 'heartbroken' after    G306
-OL,9,FLang hits hat-trick on league      G307
-OL,10,FGianluigi Buffon error gifts       G308
-OL,12,FLawro vs Sonny Bill Williams       G309
-OL,13,FEngland drawn against Croatia,     G310
+OL,6,FGunners winless run continues in   G304
+OL,7,FNeil Lennon's side win 10th game   G305
+OL,8,FMatt Doherty header denies Blades  G306
+OL,9,FBenik Afobe 'heartbroken' after    G307
+OL,10,FLang hits hat-trick on league      G308
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -89,26 +87,26 @@ OL,4,           SZj**gppp  C
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G05V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 02V} B              
-OL,10,       ^ZRp|t VxUg0 B             
-OL,11,       ZRnG06RtV+"UG03U B             
-OL,12,       ZR+U`4U+|0             
-OL,13,        ZR+%*o!U" V *u  B          
-OL,14,B            ^ZU`  V*G 06V} B          
+OL,8,B          ^ZR*y?sp  BSome Cloud    
+OL,9,           ^ZRj)"G 02R}  B             
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG06RtR+"RG03R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  B          
+OL,14,B            ^ZU`  R*G 06R} B          
 OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 05R}zt B       
-OL,17,ESunny         ZUj^RG 08R B       
-OL,18,E            ZUx|^G 07R'         
+OL,16,B            ^ZU'oG 05V}zt B       
+OL,17,B              ZUj^RG 08V B       
+OL,18,B            ZUx|^G 07V'         
 OL,19,             ^ZU! +/'iVqp0        
-OL,20,BSome Cloud  ^ZR  tG 08V/!        
-OL,21,B            ZR zG08R^/s/V/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,20,ESunny       ^ZU  tG 08V/!        
+OL,21,E            ZU zG08U^/s/V/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -137,7 +135,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,33 +156,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CCambridge says ex-student second victim
-OL,5,Cof attack
-OL,6, The woman killed in the London Bridge
-OL,7, terror attack on Friday was a former
-OL,8, University of Cambridge student.
-OL,10,FCambridge University graduate Jack
-OL,11,FMerritt and the woman - who has not yet
-OL,12,Fbeen named - were both fatally stabbed
-OL,13,Fby attacker Usman Khan on Friday.
-OL,15,FThree other people were injured in the
-OL,16,Fattack. Two remain in hospital, while
-OL,17,Fone has been discharged.
-OL,19,FProfessor Stephen J Toope said he was
-OL,20,F"devastated to learn that among the
-OL,21,Fvictims were staff and alumni".
+OL,4,CSecond London Bridge victim named as
+OL,5,CSaskia Jones
+OL,6, The woman killed in Friday's London
+OL,7, Bridge attack has been named by police
+OL,8, as Saskia Jones.
+OL,10,FThe 23-year-old Cambridge University
+OL,11,Fgraduate was fatally stabbed alongside
+OL,12,Fanother ex-student Jack Merritt.
+OL,14,FThe boss of the venue where the attack
+OL,15,Fbegan which killed Ms Jones and Mr
+OL,16,FMerritt said "the building turned into
+OL,17,Fa nightmare".
+OL,19,FToby Williamson, of Fishmongers' Hall,
+OL,20,Fsaid staff who fought attacker Usman
+OL,21,FKhan believed he was wearing a bomb.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,7 +208,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,7 +234,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +260,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,7 +286,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,7 +312,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,33 +338,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSongwriter behind calypso hit Day-O
-OL,5,Cdies aged 95
-OL,6, US composer Irving Burgie, who helped
-OL,7, to popularise Caribbean music with hit
-OL,8, songs like Day-O, has died aged 95.
-OL,10,FHis death was confirmed by Barbados
-OL,11,FPrime Minister Mia Amor Mottley, who
-OL,12,Fcalled for a moment of silence for the
-OL,13,Fman who wrote its national anthem.
-OL,15,FMr Burgie is best known for helping
-OL,16,Fsinger Harry Belafonte bring calypso
-OL,17,Fmusic to the mainstream. 
-OL,19,FThe 1950s song Day-O went on to be used
-OL,20,Fin films, adverts and even as a wake-up
-OL,21,Fcall for astronauts in space. 
+OL,4,CWW2 bomb defused in Turin after
+OL,5,Cthousands evacuate
+OL,6, More than 10,000 people were evacuated
+OL,7, from central Turin on Sunday as experts
+OL,8, worked to defuse a World War Two bomb. 
+OL,10,FResidents of the Italian city were told
+OL,11,Fto vacate a "red zone" in the historic
+OL,12,Fdistrict.
+OL,14,FA further 50,000 living further away
+OL,15,Fwere told either to leave their homes
+OL,16,Fin advance, or to remain inside during
+OL,17,Fthe operation.
+OL,19,FThe British bomb, dropped on the city
+OL,20,F70 years ago, contained 65kg (140lbs)
+OL,21,Fof dynamite, authorities said. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,33 +390,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CChina due to introduce face scans for
-OL,5,Cmobile users
-OL,6, People in China are now required to
-OL,7, have their faces scanned when
-OL,8, registering new mobile phone services,
-OL,9, as the authorities seek to verify the
-OL,10, identities of the country's hundreds of
-OL,11, millions of internet users.
-OL,13,FThe regulation, announced in September,
-OL,14,Fwas due to come into effect on Sunday.
-OL,16,FThe government says it wants to
-OL,17,F"protect the legitimate rights and
-OL,18,Finterest of citizens in cyberspace".
-OL,20,FChina already uses facial recognition
-OL,21,Ftechnology to survey its population.
+OL,4,CSongwriter behind calypso hit Day-O
+OL,5,Cdies aged 95
+OL,6, US composer Irving Burgie, who helped
+OL,7, to popularise Caribbean music with hit
+OL,8, songs like Day-O, has died aged 95.
+OL,10,FHis death was confirmed by Barbados
+OL,11,FPrime Minister Mia Amor Mottley, who
+OL,12,Fcalled for a moment of silence for the
+OL,13,Fman who wrote its national anthem.
+OL,15,FMr Burgie is best known for helping
+OL,16,Fsinger Harry Belafonte bring calypso
+OL,17,Fmusic to the mainstream. 
+OL,19,FThe 1950s song Day-O went on to be used
+OL,20,Fin films, adverts and even as a wake-up
+OL,21,Fcall for astronauts in space. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -444,33 +442,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CWW2 bomb defused in Turin after
-OL,5,Cthousands evacuate
-OL,6, More than 10,000 people were evacuated
-OL,7, from central Turin on Sunday as experts
-OL,8, worked to defuse a World War Two bomb. 
-OL,10,FResidents of the Italian city were told
-OL,11,Fto vacate a "red zone" in the historic
-OL,12,Fdistrict.
-OL,14,FA further 50,000 living further away
-OL,15,Fwere told either to leave their homes
-OL,16,Fin advance, or to remain inside during
-OL,17,Fthe operation.
-OL,19,FThe British bomb, dropped on the city
-OL,20,F70 years ago, contained 65kg (140lbs)
-OL,21,Fof dynamite, authorities said. 
+OL,4,CChina due to introduce face scans for
+OL,5,Cmobile users
+OL,6, People in China are now required to
+OL,7, have their faces scanned when
+OL,8, registering new mobile phone services,
+OL,9, as the authorities seek to verify the
+OL,10, identities of the country's hundreds of
+OL,11, millions of internet users.
+OL,13,FThe regulation, announced in September,
+OL,14,Fwas due to come into effect on Sunday.
+OL,16,FThe government says it wants to
+OL,17,F"protect the legitimate rights and
+OL,18,Finterest of citizens in cyberspace".
+OL,20,FChina already uses facial recognition
+OL,21,Ftechnology to survey its population.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -495,7 +493,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C15:44:12
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C16:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
