@@ -5,22 +5,22 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MGovernment reviews terror sentence C104
-OL,6,Greleases                               
+OL,4,MJohnson says 74 terror prisoners   C104
+OL,6,Greleased early                         
 OL,8,GChina due to introduce face scans  C105
 OL,9,Gfor mobile users                       
-OL,10,GMan 'on fire' at city railway      C106
-OL,11,Gstation                                
+OL,10,GService to be held for London      C106
+OL,11,GBridge victims                         
 OL,12,GFreed Taliban captive reveals      C107
 OL,13,Ghostage ordeal                         
-OL,14,GLabour says NHS figures show       C108
-OL,15,Gdecline in GP services                 
+OL,14,GMan 'on fire' at city railway      C108
+OL,15,Gstation                                
 OL,16,GLisa Smith and daughter back in    C109
 OL,17,GIreland                                
 OL,18,GLabour plans central train ticket  C110
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -75,20 +75,18 @@ OL,10,FChichester City embracing          G308
 OL,12,FBend it like Beckham’s unsung    G309
 OL,13,FLeaders move 11 points clear       G310
 OL,14,FEverything you need to know about  G311
-OL,15,FWales manager Ryan Giggs confident G312
-OL,17,FI suffer for fans, players and     G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G06V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G06R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
@@ -97,42 +95,42 @@ OL,9,           ^ZVj)"G 01V} B
 OL,10,       ^ZRp|t VxVg0 B             
 OL,11,       ZRnG06RtV+"VG02V B             
 OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" R *u  BSome Cloud
-OL,14,B            ^ZR`  R*G 05R}  B         
+OL,13,        ZR+%*o!V" U *u  ECloudy    
+OL,14,B            ^ZR`  U*G 05U}  E         
 OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 05R}zt B       
 OL,17,B              ZRj^VG 07R B       
 OL,18,B            ZRx|^G 06R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZV  tG 07R/!        
-OL,21,B            ZV zG08V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,21,B            ZV zG08V^/s/R/?      BSome
+OL,22,            ZV8?' "'    "    BCloud    
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G09U%  EHeavy Rain     
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZS 4`~|}            G 2/2 
+OL,3,           ZS`?0~G09S%  CLight Rain     
+OL,4,           SZj**gppp  C              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 06V} B              
-OL,10,       ^ZVp|t VxSg0 CSome Cloud   
-OL,11,       ZVnG07VtV+"SG05S  C            
-OL,12,       ZV+S`4S+|0             
-OL,13,        ZV+%*o!S" R *u  BSunny     
-OL,14,B            ^ZR`  R*G 05R}  B         
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^RG 05R B       
-OL,18,B            ZRx|^G 07R'         
-OL,19,             ^ZR! +/'iRqp0        
+OL,10,       ^ZVp|t VxUg0 B             
+OL,11,       ZVnG07VtV+"UG05U B             
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" R *u  BSunny     
+OL,14,B            ^ZU`  R*G 06R}  B         
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 05R}zt B       
+OL,17,ESome Cloud    ZUj^RG 05R B       
+OL,18,E            ZUx|^G 07R'         
+OL,19,             ^ZU! +/'iRqp0        
 OL,20,B            ^ZR  tG 06R/!        
 OL,21,B            ZR zG07R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
@@ -140,7 +138,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,33 +159,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CGovernment reviews terror sentence
-OL,5,Creleases
-OL,6, An urgent review of the licence
-OL,7, conditions of people jailed for terror
-OL,8, offences has been launched by the
-OL,9, Ministry of Justice following Friday's
-OL,10, London Bridge attack. 
-OL,12,FTwo people were killed and three were
-OL,13,Finjured by Usman Khan, 28, a convicted
-OL,14,Fterrorist who served half his time.
-OL,16,FPM Boris Johnson claimed scrapping
-OL,17,Fearly release would have stopped him.
-OL,19,FBut Labour leader Jeremy Corbyn will
-OL,20,Fblame budget cuts for "missed chances
-OL,21,Fto intervene" in a speech on Sunday.
+OL,4,CJohnson says 74 terror prisoners
+OL,5,Creleased early
+OL,6, Boris Johnson has told the BBC that 74
+OL,7, people jailed for terror offences and
+OL,8, released early will have their licence
+OL,9, conditions reviewed.
+OL,11,FThe Ministry of Justice launched the
+OL,12,Furgent review after Friday's London
+OL,13,FBridge attack, where convicted
+OL,14,Fterrorist Usman Khan - who served half
+OL,15,Fhis time - killed two people. 
+OL,17,FThe prime minister claimed scrapping
+OL,18,Fearly release would have stopped him.
+OL,20,FBut Labour is blaming budget cuts for
+OL,21,F"missed chances to intervene".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,32 +211,30 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan 'on fire' at city railway station
-OL,5, A man is being treated for critical
-OL,6, burns after coming into contact with
-OL,7, overhead cables at Birmingham's New
-OL,8, Street railway station.
-OL,10,FIt happened at about 08:00 GMT. One
-OL,11,Fonlooker said the man was "on fire".
-OL,13,FRail delays in the area were expected
-OL,14,Funtil about 11:00, National Rail said.
-OL,16,FThe man was taken to hospital in a
-OL,17,Flife-threatening condition after an air
-OL,18,Fambulance landed on top of the station
-OL,19,Fcar park.
-OL,21,Fpic.twitter.com/uON9NS8RCW
+OL,4,CService to be held for London Bridge
+OL,5,Cvictims
+OL,6, A service for two people killed in the
+OL,7, London Bridge attack is to be held at
+OL,8, Southwark Cathedral.
+OL,10,FCambridge University graduate Jack
+OL,11,FMerritt and a woman, who has not yet
+OL,12,Fbeen named, were both fatally stabbed
+OL,13,Fby attacker Usman Khan on Friday.
+OL,15,FThe Dean of Southwark Cathedral, the
+OL,16,FVery Revd Andrew Nunn, said many people
+OL,17,Fwere struggling with what happened.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -264,57 +260,57 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLabour says NHS figures show decline in
-OL,5,CGP services
-OL,6, Labour has highlighted NHS figures
-OL,7, which it claims show a decline of GP
-OL,8, services under the Conservatives.
-OL,10,FThe figures show that in October there
-OL,11,Fwere six million GP appointments - out
-OL,12,Fof 31 million - for which patients had
-OL,13,Fa wait of more than two weeks. 
-OL,15,FLabour said it was "yet more damning
-OL,16,Fevidence of the crisis our NHS is in
-OL,17,Fafter a decade of Tory cuts".  
-OL,19,FThe Tories responded by highlighting
-OL,20,Ftheir plans to deliver 50 million more
-OL,21,FGP appointments by 2024-25 if elected.
+OL,4,CMan 'on fire' at city railway station
+OL,5, A man is being treated for critical
+OL,6, burns after coming into contact with
+OL,7, overhead cables at Birmingham's New
+OL,8, Street railway station.
+OL,10,FIt happened at about 08:00 GMT. One
+OL,11,Fonlooker said the man was "on fire".
+OL,13,FRail delays in the area were expected
+OL,14,Funtil about 11:00, National Rail said.
+OL,16,FThe man was taken to hospital in a
+OL,17,Flife-threatening condition after an air
+OL,18,Fambulance landed on top of the station
+OL,19,Fcar park.
+OL,21,Fpic.twitter.com/uON9NS8RCW
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
 OL,4,CLisa Smith and daughter back in Ireland
-OL,5, The broadcaster RTE is reporting that
-OL,6, an Irish citizen who became an Islamic
-OL,7, State bride arrived back in Dublin
-OL,8, today.
-OL,10,FLisa Smith and her daughter travelled
-OL,11,Ffrom Turkey.
-OL,13,FIt is expected she will be interviewed
-OL,14,Fby police about suspected terrorist
-OL,15,Foffences.
-OL,17,FPlans have also been made for the care
-OL,18,Fof her two-year-old daughter, who was
-OL,19,Fborn in Syria, but is an Irish citizen.
+OL,5, An Irish citizen who became an Islamic
+OL,6, State bride has been arrested after
+OL,7, arriving back in Dublin.
+OL,9,FLisa Smith and her daughter travelled
+OL,10,Ffrom Turkey after being deported,
+OL,11,Farriving in Ireland on Sunday. 
+OL,13,FShe was arrested on arrival, and it
+OL,14,Fis expected she will now be
+OL,15,Finterviewed by police about suspected
+OL,16,Fterrorist offences.
+OL,18,FPlans have also been made for the care
+OL,19,Fof her two-year-old daughter, who was
+OL,20,Fborn in Syria, but is an Irish citizen.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,7 +336,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,7 +362,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,7 +388,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,33 +413,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLabour, Lib Dems pledge wider access to
-OL,5,CHIV drug
-OL,6, Labour and the Liberal Democrats have
-OL,7, pledged to roll out access to the
-OL,8, HIV-prevention drug PrEP in England to
-OL,9, anyone who needs it.
-OL,11,FCurrently, access is limited to those
-OL,12,Ftaking part in an NHS trial - there is
-OL,13,Fno cap in Scotland, Wales or Northern
-OL,14,FIreland.
-OL,16,FThe Conservatives said thousands of
-OL,17,Fplaces were still available on the
-OL,18,Ftrial.
-OL,20,FHIV experts and charities welcomed any
-OL,21,Fplans to widen access to the drug.
+OL,4,CLabour says NHS figures show decline in
+OL,5,CGP services
+OL,6, Labour has highlighted NHS figures
+OL,7, which it claims show a decline of GP
+OL,8, services under the Conservatives.
+OL,10,FThe figures show that in October there
+OL,11,Fwere six million GP appointments - out
+OL,12,Fof 31 million - for which patients had
+OL,13,Fa wait of more than two weeks. 
+OL,15,FLabour said it was "yet more damning
+OL,16,Fevidence of the crisis our NHS is in
+OL,17,Fafter a decade of Tory cuts".  
+OL,19,FThe Tories responded by highlighting
+OL,20,Ftheir plans to deliver 50 million more
+OL,21,FGP appointments by 2024-25 if elected.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -468,32 +464,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBeloved 100-year-old RAF bear restored
-OL,5, A 100-year-old teddy bear that helped a
-OL,6, World War Two airman convalesce has
-OL,7, undergone a delicate restoration.
-OL,9,FBobby Bear was the childhood toy of RAF
-OL,10,Fwireless operator Joe Mack, who flew
-OL,11,Fwith the elite Cambridgeshire-based
-OL,12,FPathfinder crew.
-OL,14,FThe "treasured keepsake" was faithfully
-OL,15,Fmended by a team of specialists for the
-OL,16,FBBC Repair Shop series.  
-OL,18,FMr Mack's daughter, Kris Johnston, said
-OL,19,Fthe family wanted Bobby "conserved
-OL,20,Frather than changed".
+OL,4,CLabour, Lib Dems pledge wider access to
+OL,5,CHIV drug
+OL,6, Labour and the Liberal Democrats have
+OL,7, pledged to roll out access to the
+OL,8, HIV-prevention drug PrEP in England to
+OL,9, anyone who needs it.
+OL,11,FCurrently, access is limited to those
+OL,12,Ftaking part in an NHS trial - there is
+OL,13,Fno cap in Scotland, Wales or Northern
+OL,14,FIreland.
+OL,16,FThe Conservatives said thousands of
+OL,17,Fplaces were still available on the
+OL,18,Ftrial.
+OL,20,FHIV experts and charities welcomed any
+OL,21,Fplans to widen access to the drug.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C11:38:42
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
