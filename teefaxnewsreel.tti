@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -17,21 +17,22 @@ OL,8,GChina due to introduce face scans  C105
 OL,9,Gfor mobile users                       
 OL,10,GLondon Bridge attack victim had    C106
 OL,11,G'lust for life'                        
-OL,12,GMalta businessman charged over     C107
-OL,13,Gjournalist murder                      
+OL,12,GFreed Taliban captive reveals      C107
+OL,13,Ghostage ordeal                         
 OL,14,GParties row over early release of  C108
 OL,15,Gbridge attacker                        
-OL,16,GN Korea threatens Japan with 'real C109
-OL,17,Gmissile'                               
+OL,16,GMalta businessman charged over     C109
+OL,17,Gjournalist murder                      
 OL,18,GLabour say NHS figures show declineC110
 OL,19,Gin GP services                         
-OL,20,GNamibian president wins re-electionC111
+OL,20,GCosmic Crisp: New apple that 'lastsC111
+OL,21,Gfor a year'                            
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -59,7 +60,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -80,7 +81,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -93,23 +94,23 @@ OL,7,           ^ZV ~ow1  F
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 02V} B              
 OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG07VtV+"VG03V B             
+OL,11,       ZVnG06VtV+"VG03V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BSome Cloud
-OL,14,B            ^ZV`  R*G 06R}  B         
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 05V}zt B       
-OL,17,B              ZVj^VG 07V B       
-OL,18,B            ZVx|^G 07V'         
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 06V} B          
+OL,15,B            ^ZVk|R            
+OL,16,B            ^ZV'oG 05R}zt B       
+OL,17,B              ZVj^RG 07R B       
+OL,18,B            ZVx|^G 06R'         
 OL,19,             ^ZV! +/'iRqp0        
 OL,20,B            ^ZV  tG 07R/!        
-OL,21,B            ZV zG08V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,21,B            ZV zG08V^/s/R/?      BSome
+OL,22,            ZV8?' "'    "    BCloud    
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -121,16 +122,16 @@ OL,6,            ZV!'~G06V!FCloudy
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 07V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG07VtV+"VG05V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BSunny     
-OL,14,B            ^ZS`  R*G 06R}  B         
-OL,15,B            ^ZSk|R            
-OL,16,B            ^ZS'oG 06R}zt B       
-OL,17,CSome Cloud    ZSj^RG 06R B       
-OL,18,C            ZSx|^G 07R'         
-OL,19,             ^ZS! +/'iRqp0        
+OL,10,       ^ZVp|t VxSg0 CSome Cloud   
+OL,11,       ZVnG07VtV+"SG05S  C            
+OL,12,       ZV+S`4S+|0             
+OL,13,        ZV+%*o!S" R *u  BSunny     
+OL,14,B            ^ZR`  R*G 06R}  B         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 05R}zt B       
+OL,17,B              ZRj^RG 05R B       
+OL,18,B            ZRx|^G 07R'         
+OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 06R/!        
 OL,21,B            ZR zG07R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
@@ -138,7 +139,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -168,8 +169,8 @@ OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CGovernment reviews terrorists' prison
 OL,5,Crelease
 OL,6, An urgent review of the licence
-OL,7, conditions of terrorists freed from
-OL,8, prison has been launched by the
+OL,7, conditions of people jailed for terror
+OL,8, offences has been launched by the
 OL,9, Ministry of Justice following Friday's
 OL,10, London Bridge attack. 
 OL,12,FTwo people were killed and three were
@@ -185,7 +186,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -200,7 +201,7 @@ OL,9, as the authorities seek to verify the
 OL,10, identities of the country's hundreds of
 OL,11, millions of internet users.
 OL,13,FThe regulation, announced in September,
-OL,14,Fwas due to come into effect Sunday.
+OL,14,Fwas due to come into effect on Sunday.
 OL,16,FThe government says it wants to
 OL,17,F"protect the legitimate rights and
 OL,18,Finterest of citizens in cyberspace".
@@ -211,7 +212,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -237,33 +238,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMalta businessman charged over
-OL,5,Cjournalist murder
-OL,6, Maltese businessman Yorgen Fenech has
-OL,7, been charged with complicity in the
-OL,8, murder of investigative journalist
-OL,9, Daphne Caruana Galizia in 2017.
-OL,11,FHe pleaded not guilty to that charge
-OL,12,Fand four others others including
-OL,13,Fmembership of a criminal gang. 
-OL,15,FRelatives of the assassinated blogger
-OL,16,Fwere present in the court in Valletta.
-OL,18,FThe investigation into Caruana
-OL,19,FGalizia's death has rocked the island's
-OL,20,Fgovernment. Prime Minister Joseph
-OL,21,FMuscat is under pressure to resign. 
+OL,4,CFreed Taliban captive reveals hostage
+OL,5,Cordeal
+OL,6, An Australian academic freed by the
+OL,7, Taliban in a prisoner swap has spoken
+OL,8, of his "long and tortuous ordeal" as a
+OL,9, hostage in Afghanistan.
+OL,11,FTimothy Weeks said he believed US
+OL,12,Fspecial forces had tried six times to
+OL,13,Frescue him and an American captive,
+OL,14,FKevin King, who was also released. 
+OL,16,FMr Weeks said he did not hate the
+OL,17,FTaliban, saying some of his guards were
+OL,18,F"lovely people" he hugged as he left.
+OL,20,F"I never, ever gave up hope... I knew I
+OL,21,Fwould leave eventually," he said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -289,33 +290,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CN Korea threatens Japan with 'real
-OL,5,Cmissile'
-OL,6, North Korea has branded Japan's PM
-OL,7, Shinzo Abe an "imbecile" and "political
-OL,8, dwarf", accusing him of mislabelling
-OL,9, its latest weapons test.
-OL,11,FMr Abe condemned the North for
-OL,12,F"repeated launches of ballistic
-OL,13,Fmissiles" after two projectiles were
-OL,14,Ffired on Thursday.
-OL,16,FBut the North insisted it was testing a
-OL,17,F"super-large multiple-rocket launcher".
-OL,19,FOn Saturday, state media said Japan
-OL,20,F"may see what a real ballistic missile
-OL,21,Fis in the not distant future".
+OL,4,CMalta businessman charged over
+OL,5,Cjournalist murder
+OL,6, Maltese businessman Yorgen Fenech has
+OL,7, been charged with complicity in the
+OL,8, murder of investigative journalist
+OL,9, Daphne Caruana Galizia in 2017.
+OL,11,FHe pleaded not guilty to that charge
+OL,12,Fand four others others including
+OL,13,Fmembership of a criminal gang. 
+OL,15,FRelatives of the assassinated blogger
+OL,16,Fwere present in the court in Valletta.
+OL,18,FThe investigation into Caruana
+OL,19,FGalizia's death has rocked the island's
+OL,20,Fgovernment. Prime Minister Joseph
+OL,21,FMuscat is under pressure to resign. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -341,32 +342,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNamibian president wins re-election
-OL,5, Namibia's President Hage Geingob has
-OL,6, been re-elected for a second term, the
-OL,7, country's electoral commission says. 
-OL,9,FMr Geingob polled 56.3% in Wednesday's
-OL,10,Felection, well ahead of his nearest
-OL,11,Frival Panduleni Itula with 29.4%.
-OL,13,FHowever, Mr Geingob's tally was well
-OL,14,Fdown from the 87% with which he won his
-OL,15,Ffirst term in 2014.
-OL,17,FHe went on social media to thank
-OL,18,FNamibians for returning him to office,
-OL,19,Fpromising to bring tangible
-OL,20,Fimprovements to their lives.
+OL,4,CCosmic Crisp: New apple that 'lasts for
+OL,5,Ca year'
+OL,6,  A new breed of apple that took two
+OL,7, decades to develop and allegedly lasts
+OL,8, for up to a year in the fridge goes on
+OL,9, sale in the US on Sunday. 
+OL,11,FThe apple - Cosmic Crisp - is a
+OL,12,Fcross-breed of the Honeycrisp and
+OL,13,FEnterprise and was first cultivated by
+OL,14,FWashington State University in 1997.
+OL,16,FThe launch of the "firm, crisp, and
+OL,17,Fjuicy apple" cost $10m (#7.9m). 
+OL,19,FFarmers in the state of Washington are
+OL,20,Fexclusively allowed to grow the fruit
+OL,21,Ffor the next decade. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,33 +394,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CDutch police arrest man after Hague
-OL,5,Cstabbing
-OL,6, Police in the Dutch city of The Hague
-OL,7, have arrested a man aged 35 over a
-OL,8, stabbing attack on a shopping street on
-OL,9, Friday, in which three teenagers were
-OL,10, injured.
-OL,12,FThe suspect, who has no fixed abode,
-OL,13,Fwill be transferred to a police station
-OL,14,Ffor questioning, local police said.
-OL,16,FThose hurt, two girls aged 15 and a boy
-OL,17,Fof 13, did not know each other, and no
-OL,18,Fmotive has been reported.
-OL,20,FAl three were released from hospital
-OL,21,Ffollowing treatment. 
+OL,4,CNamibian president wins re-election
+OL,5, Namibia's President Hage Geingob has
+OL,6, been re-elected for a second term, the
+OL,7, country's electoral commission says. 
+OL,9,FMr Geingob polled 56.3% in Wednesday's
+OL,10,Felection, well ahead of his nearest
+OL,11,Frival Panduleni Itula with 29.4%.
+OL,13,FHowever, Mr Geingob's tally was well
+OL,14,Fdown from the 87% with which he won his
+OL,15,Ffirst term in 2014.
+OL,17,FHe went on social media to thank
+OL,18,FNamibians for returning him to office,
+OL,19,Fpromising to bring tangible
+OL,20,Fimprovements to their lives.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -430,13 +431,13 @@ OL,6, A sonic boom has woken people and
 OL,7, shaken houses across parts of London
 OL,8, and the northern Home Counties.
 OL,10,FPeople tweeted that a loud "explosion"
-OL,11,Fhad woken them up at around 04:20 GMT -
+OL,11,Fhad woken them at about 04:20 GMT -
 OL,12,Fwith houses shaking and reports of
 OL,13,Fpolice sirens straight after.
 OL,15,FThe noise was generated by two Royal
 OL,16,FAir Force Typhoons, which launched from
-OL,17,FConingsby in Lincolnshire to
-OL,18,Finvestigate an unresponsive aircraft.
+OL,17,FConingsby in Lincolnshire and
+OL,18,Fintercepted an unresponsive aircraft.
 OL,20,FThe sonic boom was heard across London,
 OL,21,FHertfordshire and Bedfordshire.
 OL,22,D]CHome news digestG141CWorld digestG142
@@ -444,33 +445,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CCosmic Crisp: New apple that 'lasts for
-OL,5,Ca year'
-OL,6,  A new breed of apple that took two
-OL,7, decades to develop and allegedly lasts
-OL,8, for up to a year in the fridge goes on
-OL,9, sale in the US on Sunday. 
-OL,11,FThe apple - Cosmic Crisp - is a
-OL,12,Fcross-breed of the Honeycrisp and
-OL,13,FEnterprise and was first cultivated by
-OL,14,FWashington State University in 1997.
-OL,16,FThe launch of the "firm, crisp, and
-OL,17,Fjuicy apple" cost $10m (#7.9m). 
-OL,19,FFarmers in the state of Washington are
-OL,20,Fexclusively allowed to grow the fruit
-OL,21,Ffor the next decade. 
+OL,4,CN Korea threatens Japan with 'real
+OL,5,Cmissile'
+OL,6, North Korea has branded Japan's PM
+OL,7, Shinzo Abe an "imbecile" and "political
+OL,8, dwarf", accusing him of mislabelling
+OL,9, its latest weapons test.
+OL,11,FMr Abe condemned the North for
+OL,12,F"repeated launches of ballistic
+OL,13,Fmissiles" after two projectiles were
+OL,14,Ffired on Thursday.
+OL,16,FBut the North insisted it was testing a
+OL,17,F"super-large multiple-rocket launcher".
+OL,19,FOn Saturday, state media said Japan
+OL,20,F"may see what a real ballistic missile
+OL,21,Fis in the not distant future".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -496,24 +497,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C07:38:07
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C08:37:09
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CHIV on the frontline: Soldier who
-OL,5,Csought escape in battle
-OL,6, "I am HIV positive; I already had HIV
-OL,7, when I joined a volunteer battalion to
-OL,8, fight separatists in eastern Ukraine,"
-OL,9, says Ukrainian war veteran Vasyl. "I
-OL,10, had no fear for my life. I had nothing
-OL,11, to lose."
-OL,13,FVasyl is not his real name, but this is
-OL,14,Fthe story of a man with HIV who
-OL,15,Fvolunteered for the front line and was
-OL,16,Fshocked by the level of ignorance that
-OL,17,Fother soldiers had about his virus.
+OL,4,CMerkel ally's loss casts doubt on
+OL,5,CGerman coalition
+OL,6, The future of German Chancellor Angela
+OL,7, Merkel's coalition has been thrown into
+OL,8, doubt after her deputy chancellor lost
+OL,9, the leadership race of his party.
+OL,11,FOlaf Scholz, who is also finance
+OL,12,Fminister, lost his bid to become leader
+OL,13,Fof the centre-left SPD.
+OL,15,FThe party is now expected to vote on
+OL,16,Fwhether to stay in the coalition with
+OL,17,FMs Merkel's conservative CDU/CSU.
+OL,19,FMr Scholz's joint challengers, Norbert
+OL,20,FWalter-Borjans und Saskia Esken, have
+OL,21,Fbeen highly critical of the coalition. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
