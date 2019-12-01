@@ -5,13 +5,14 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MLondon Bridge attack victim named  C104
+OL,4,MGovernment reviews terrorists'     C104
+OL,6,Gprison release                         
 OL,8,GChina due to introduce face scans  C105
 OL,9,Gfor mobile users                       
 OL,10,GLondon Bridge attack victim had    C106
@@ -24,14 +25,13 @@ OL,16,GN Korea threatens Japan with 'real C109
 OL,17,Gmissile'                               
 OL,18,GLabour say NHS figures show declineC110
 OL,19,Gin GP services                         
-OL,20,GBrazil's leader accuses DiCaprio   C111
-OL,21,Gover Amazon fires                      
+OL,20,GNamibian president wins re-electionC111
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -59,7 +59,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -80,23 +80,23 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Sunday Evening             
 OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G04S%  CLight Rain     
+OL,3,           ZS`?0~G05S%  CLight Rain     
 OL,4,           SZj**gppp  C              
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G03U!ECloudy         
-OL,7,           ^ZU ~ow1  E              
-OL,8,B          ^ZV*y?sp  FSome Cloud    
-OL,9,           ^ZVj)"G 01V}  F             
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG03VtV+"RG00R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  BClear     
-OL,14,B            ^ZR`  R*G 01R}  B         
+OL,5,           ^ZV({5                
+OL,6,            ZV!'~G03V!FCloudy         
+OL,7,           ^ZV ~ow1  F              
+OL,8,ESome Cloud^ZU*y?sp  B              
+OL,9,           ^ZUj)"G 01U} B              
+OL,10,       ^ZUp|t UxRg0 B             
+OL,11,       ZUnG04UtU+"RG00R B             
+OL,12,       ZU+R`4R+|0             
+OL,13,        ZU+%*o!R" R *u  BClear     
+OL,14,E            ^ZR`  R*G 01R}  B         
 OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 00R}zt B       
 OL,17,B              ZRj^VG 02R B       
@@ -109,7 +109,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Monday                 
@@ -120,25 +120,25 @@ OL,5,           ^ZV({5
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 06V} B              
+OL,9,           ^ZVj)"G 07V} B              
 OL,10,       ^ZVp|t VxRg0 BSome Cloud   
-OL,11,       ZVnG07VtV+"RG06R  B            
+OL,11,       ZVnG07VtV+"RG05R  B            
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" U *u  ESunny     
-OL,14,B            ^ZU`  U*G 05U}  E         
+OL,14,B            ^ZU`  U*G 06U}  E         
 OL,15,B            ^ZUk|R            
 OL,16,B            ^ZU'oG 06U}zt B       
 OL,17,B              ZUj^RG 06U B       
 OL,18,B            ZUx|^G 07U'         
 OL,19,             ^ZU! +/'iUqp0        
 OL,20,B            ^ZU  tG 06U/!        
-OL,21,B            ZU zG07U^/s/U/? B         
+OL,21,B            ZU zG08U^/s/U/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,32 +159,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLondon Bridge attack victim named
-OL,5, One of the people stabbed to death in
-OL,6, Friday's attack at London Bridge has
-OL,7, been named as 25-year-old University of
-OL,8, Cambridge graduate Jack Merritt.
-OL,10,FHe was one of two people killed when
-OL,11,F28-year-old Usman Khan launched the
-OL,12,Fattack at a Cambridge University
-OL,13,Fconference on prisoner rehabilitation.
-OL,15,FKhan, who had been jailed over a terror
-OL,16,Fplot, was shot dead by police after
-OL,17,Fmembers of the public restrained him. 
-OL,19,FMr Merritt was described by his father
-OL,20,Fon Twitter as a "beautiful spirit".
+OL,4,CGovernment reviews terrorists' prison
+OL,5,Crelease
+OL,6, An urgent review of the licence
+OL,7, conditions of terrorists freed from
+OL,8, prison has been launched by the
+OL,9, Ministry of Justice following Friday's
+OL,10, London Bridge attack. 
+OL,12,FTwo people were killed and three were
+OL,13,Finjured by Usman Khan, 28, a convicted
+OL,14,Fterrorist who served half of his time.
+OL,16,FPM Boris Johnson claimed scrapping
+OL,17,Fearly release would have stopped him.
+OL,19,FBut Labour leader Jeremy Corbyn will
+OL,20,Fblame budget cuts for "missed chances
+OL,21,Fto intervene" in a speech on Sunday.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,7 +211,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,7 +237,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +263,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,7 +289,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,7 +315,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,33 +341,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CBrazil's leader accuses DiCaprio over
-OL,5,CAmazon fires
-OL,6, Brazil's President Jair Bolsonaro has
-OL,7, accused Hollywood actor Leonardo
-OL,8, DiCaprio of "giving money to set the
-OL,9, Amazon on fire".
-OL,11,FThe president gave no evidence but in
-OL,12,Fthe past has accused NGOs critical of
-OL,13,Fhis policies of starting fires that
-OL,14,Fravaged the rainforest this year.
-OL,16,FSeveral arrests have been made amid
-OL,17,Fcontroversial and unproven allegations
-OL,18,Ffires were started to obtain funding.
-OL,20,FDiCaprio, who has pledged $5m for the
-OL,21,FAmazon, denied Mr Bolsonaro's claim.
+OL,4,CNamibian president wins re-election
+OL,5, Namibia's President Hage Geingob has
+OL,6, been re-elected for a second term, the
+OL,7, country's electoral commission says. 
+OL,9,FMr Geingob polled 56.3% in Wednesday's
+OL,10,Felection, well ahead of his nearest
+OL,11,Frival Panduleni Itula with 29.4%.
+OL,13,FHowever, Mr Geingob's tally was well
+OL,14,Fdown from the 87% with which he won his
+OL,15,Ffirst term in 2014.
+OL,17,FHe went on social media to thank
+OL,18,FNamibians for returning him to office,
+OL,19,Fpromising to bring tangible
+OL,20,Fimprovements to their lives.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,7 +392,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -418,7 +418,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -444,7 +444,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -470,7 +470,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
@@ -496,25 +496,24 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C02:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C03:33:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CBreast milk to declare: A journalist
-OL,5,Cpumps on the job
-OL,6, There's one word to sum up my month at
-OL,7, work after maternity leave - intense. 
-OL,9,FI gave birth to my little girl,
-OL,10,FIsadora, in May and then chose to
-OL,11,Freturn in October to cover what was
-OL,12,Fexpected to be an interesting time on
-OL,13,Fmy patch.
-OL,15,FPresidential elections in Bolivia and
-OL,16,FArgentina, protests across the region
-OL,17,Fand the story of Amazon destruction as
-OL,18,Fwell as controversies over Jair
-OL,19,FBolsonaro's leadership in Brazil. 
+OL,4,CHIV on the frontline: Soldier who
+OL,5,Csought escape in battle
+OL,6, "I am HIV positive; I already had HIV
+OL,7, when I joined a volunteer battalion to
+OL,8, fight separatists in eastern Ukraine,"
+OL,9, says Ukrainian war veteran Vasyl. "I
+OL,10, had no fear for my life. I had nothing
+OL,11, to lose."
+OL,13,FVasyl is not his real name, but this is
+OL,14,Fthe story of a man with HIV who
+OL,15,Fvolunteered for the front line and was
+OL,16,Fshocked by the level of ignorance that
+OL,17,Fother soldiers had about his virus.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
