@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -21,18 +21,18 @@ OL,12,GEleven shot near New Orleans'      C107
 OL,13,GFrench Quarter                         
 OL,14,GAircraft radio fault led to RAF    C108
 OL,15,Gjets' sonic booms                      
-OL,16,GIraq PM's resignation accepted amidC109
-OL,17,Gunrest                                 
-OL,18,GThree men hit by car during 'fight C110
-OL,19,Gwith weapons'                          
-OL,20,GWW2 bomb defused in Turin after    C111
-OL,21,Gthousands evacuate                     
+OL,16,GProtests grip Malta as PM defies   C109
+OL,17,Gcalls to quit                          
+OL,18,GThousands facing 'several days'    C110
+OL,19,Gwithout gas                            
+OL,20,GIraq PM's resignation accepted amidC111
+OL,21,Gunrest                                 
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,76 +60,78 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MWatford sack manager after less    G303
-OL,6,FGunners winless run continues in   G304
-OL,7,FSteven Gerrard's side one goal     G305
-OL,8,FNeil Lennon's side win 10th game   G306
-OL,9,FMatt Doherty header denies Blades  G307
-OL,10,FBlackpool 3-1 Maidstone United     G308
-OL,12,FBenik Afobe 'heartbroken' after    G309
-OL,13,FLang hits hat-trick on league      G310
+OL,4,MRed Devils held by resolute VillansG303
+OL,6,FIheanacho grabs late winner for    G304
+OL,7,FGunners winless run continues in   G305
+OL,8,FSteven Gerrard's side one goal     G306
+OL,9,FWatford sack manager after less    G307
+OL,10,FNeil Lennon's side win 10th game   G308
+OL,12,FMatt Doherty header denies Blades  G309
+OL,13,FBenik Afobe 'heartbroken' after    G310
+OL,14,FBlackpool 3-1 Maidstone United     G311
+OL,15,FLang hits hat-trick on league      G312
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G              Today                  
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G07S%  CLight Rain     
-OL,4,           SZj**gppp  C              
+OL,1,T]G           This Evening              
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G05U%  ELight Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G05V!FCloudy         
+OL,6,            ZV!'~G04V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BSome Cloud    
-OL,9,           ^ZRj)"G 02R}  B             
-OL,10,       ^ZRp|t RxRg0 B             
-OL,11,       ZRnG06RtR+"RG03R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZU`  R*G 06R} B          
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 05V}zt B       
-OL,17,B              ZUj^RG 08V B       
-OL,18,B            ZUx|^G 07V'         
-OL,19,             ^ZU! +/'iVqp0        
-OL,20,ESunny       ^ZU  tG 08V/!        
-OL,21,E            ZU zG08U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 00V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG03VtV+"VG-1V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  BClear     
+OL,14,B            ^ZR`  R*G 01R}  B         
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG -1R}zt B       
+OL,17,B              ZRj^VG 02R B       
+OL,18,B            ZRx|^G -1R'         
+OL,19,             ^ZR! +/'iVqp0        
+OL,20,B            ^ZR  tG 01V/!        
+OL,21,B            ZR zG00R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G09U%  ELight Rain     
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZS 4`~|}            G 2/2 
+OL,3,           ZS`?0~G09S%  CLight Rain     
+OL,4,           SZj**gppp  C              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 07V} B              
-OL,10,       ^ZVp|t VxSg0 CSome Cloud   
-OL,11,       ZVnG07VtV+"SG05S  C            
-OL,12,       ZV+S`4S+|0             
-OL,13,        ZV+%*o!S" R *u  BSunny     
-OL,14,B            ^ZR`  R*G 06R}  B         
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^RG 05R B       
-OL,18,B            ZRx|^G 07R'         
-OL,19,             ^ZR! +/'iRqp0        
+OL,10,       ^ZVp|t VxUg0 B             
+OL,11,       ZVnG07VtV+"UG05U B             
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" R *u  BSunny     
+OL,14,B            ^ZU`  R*G 06R}  B         
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 05R}zt B       
+OL,17,ESome Cloud    ZUj^RG 05R B       
+OL,18,E            ZUx|^G 07R'         
+OL,19,             ^ZU! +/'iRqp0        
 OL,20,B            ^ZR  tG 06R/!        
 OL,21,B            ZR zG07R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
@@ -137,7 +139,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -184,7 +186,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,7 +212,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,7 +238,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,7 +290,59 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CProtests grip Malta as PM defies calls
+OL,5,Cto quit
+OL,6, Demonstrators are rallying in the
+OL,7, Maltese capital Valletta to demand
+OL,8, justice for Daphne Caruana Galizia, the
+OL,9, journalist murdered in 2017.
+OL,11,FGathering outside parliament, they
+OL,12,Fmarched under pictures of the victim,
+OL,13,Fand demanded Prime Minister Joseph
+OL,14,FMuscat's immediate resignation.
+OL,16,FA businessman with alleged links to
+OL,17,Fgovernment officials has been charged
+OL,18,Fwith complicity in the murder.   
+OL,20,FBut MPs from the ruling Labour Party
+OL,21,Fgave Mr Muscat their unanimous support.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40513
+SC,0013
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
+OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
+OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
+OL,4,CThousands facing 'several days' without
+OL,5,Cgas
+OL,6, Thousands of homes could be without
+OL,7, heating for "several days" after a gas
+OL,8, main failure in central Scotland. 
+OL,10,FGas infrastructure company SGN said
+OL,11,Fabout 8,000 properties in the Falkirk
+OL,12,Farea had been left without supplies,
+OL,14,FSGN engineers were working to fix
+OL,15,Fequipment that regulates gas pressure
+OL,16,Fbut warned each property would have to
+OL,17,Fbe visited.
+OL,19,FElectric heaters and cookers were being
+OL,20,Foffered to elderly or sick customers,
+OL,21,Fand those with young children. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40514
+SC,0014
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -311,10 +365,10 @@ OL,20,Fprotests began in Baghdad and other
 OL,21,Fcities at the start of October.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40513
-SC,0013
+PN,40515
+SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -337,10 +391,10 @@ OL,20,F32, has been arrested on suspicion of
 OL,21,Fcausing grievous bodily harm.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40514
-SC,0014
+PN,40516
+SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -363,10 +417,10 @@ OL,20,F70 years ago, contained 65kg (140lbs)
 OL,21,Fof dynamite, authorities said. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40515
-SC,0015
+PN,40517
+SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -389,36 +443,36 @@ OL,20,FThe governor said he was "honoured" to
 OL,21,Fbe asked to take on the role.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40516
-SC,0016
+PN,40518
+SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSongwriter behind calypso hit Day-O
-OL,5,Cdies aged 95
-OL,6, US composer Irving Burgie, who helped
-OL,7, to popularise Caribbean music with hit
-OL,8, songs like Day-O, has died aged 95.
-OL,10,FHis death was confirmed by Barbados
-OL,11,FPrime Minister Mia Amor Mottley, who
-OL,12,Fcalled for a moment of silence for the
-OL,13,Fman who wrote its national anthem.
-OL,15,FMr Burgie is best known for helping
-OL,16,Fsinger Harry Belafonte bring calypso
-OL,17,Fmusic to the mainstream. 
-OL,19,FThe 1950s song Day-O went on to be used
-OL,20,Fin films, adverts and even as a wake-up
-OL,21,Fcall for astronauts in space. 
+OL,4,CThree jailed over crash that sparked
+OL,5,Cmass protests
+OL,6, Three people have been handed life
+OL,7, sentences in Bangladesh over a bus
+OL,8, crash that killed two young students
+OL,9, and sparked anti-government protests.
+OL,11,FDemonstrations hit the capital Dhaka
+OL,12,Flast year after two schoolchildren were
+OL,13,Frun over and killed by a speeding bus.
+OL,15,FTens of thousands rallied, demanding
+OL,16,Fthat the government take action to
+OL,17,Fimprove road safety.
+OL,19,FThe city was brought to a standstill,
+OL,20,Fand more than 150 people were injured
+OL,21,Fas authorities waged a heavy crackdown.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40517
-SC,0017
+PN,40519
+SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -441,10 +495,10 @@ OL,20,Fby the party to nationalise the UK's
 OL,21,Ftrain system.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40518
-SC,0018
+PN,40520
+SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C18:40:55
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -465,55 +519,5 @@ OL,17,F"protect the legitimate rights and
 OL,18,Finterest of citizens in cyberspace".
 OL,20,FChina already uses facial recognition
 OL,21,Ftechnology to survey its population.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40519
-SC,0019
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan 'on fire' at city railway station
-OL,5, A man is being treated for critical
-OL,6, burns after coming into contact with
-OL,7, overhead cables at Birmingham's New
-OL,8, Street railway station.
-OL,10,FOne onlooker said the man, who is a
-OL,11,Fmember of the public and not a railway
-OL,12,Fworker, was "on fire" after the
-OL,13,Fincident at 08:00 GMT.
-OL,15,FHe was taken to hospital in a
-OL,16,Flife-threatening condition.
-OL,18,FA British Transport Police (BTP)
-OL,19,Fspokesman said the circumstances were
-OL,20,F"not believed to be suspicious."
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40520
-SC,0020
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C17:41:36
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUS man killed by own home booby trap
-OL,5, A 65-year-old American man who rigged
-OL,6, his home with a booby trap to keep out
-OL,7, intruders has been killed by the
-OL,8, device.
-OL,10,FRonald Cyr called police in the town of
-OL,11,FVan Buren in the state of Maine to say
-OL,12,Fhe had been shot.
-OL,14,FPolice found a door had been designed
-OL,15,Fto fire a handgun should anyone attempt
-OL,16,Fto enter. Mr Cyr was taken to hospital
-OL,17,Fbut died of his injuries.
-OL,19,FIt is not uncommon for home-owners to
-OL,20,Finstall such traps - but it is illegal.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
