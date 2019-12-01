@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,24 +15,24 @@ OL,4,MGovernment reviews terror sentence C104
 OL,6,Greleases                               
 OL,8,GChina due to introduce face scans  C105
 OL,9,Gfor mobile users                       
-OL,10,GLondon Bridge attack victim had    C106
-OL,11,G'lust for life'                        
+OL,10,GMan 'on fire' at city railway      C106
+OL,11,Gstation                                
 OL,12,GFreed Taliban captive reveals      C107
 OL,13,Ghostage ordeal                         
 OL,14,GLabour says NHS figures show       C108
 OL,15,Gdecline in GP services                 
-OL,16,GLisa Smith and daughter returning  C109
-OL,17,Gto Ireland                             
+OL,16,GLisa Smith and daughter back in    C109
+OL,17,GIreland                                
 OL,18,GLabour plans central train ticket  C110
 OL,19,Gbookings                               
-OL,20,GMalta businessman charged over     C111
-OL,21,Gjournalist murder                      
+OL,20,GSongwriter behind calypso hit Day-OC111
+OL,21,Gdies aged 95                           
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -82,13 +82,13 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G06U%  ELight Rain     
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G06R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
@@ -98,12 +98,12 @@ OL,10,       ^ZRp|t VxVg0 B
 OL,11,       ZRnG06RtV+"VG02V B             
 OL,12,       ZR+V`4V+|0             
 OL,13,        ZR+%*o!V" R *u  BSome Cloud
-OL,14,B            ^ZV`  R*G 05R}  B         
-OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 05R}zt B       
-OL,17,B              ZVj^RG 07R B       
-OL,18,B            ZVx|^G 06R'         
-OL,19,             ^ZV! +/'iRqp0        
+OL,14,B            ^ZR`  R*G 05R}  B         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 05R}zt B       
+OL,17,B              ZRj^RG 07R B       
+OL,18,B            ZRx|^G 06R'         
+OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZV  tG 07R/!        
 OL,21,B            ZV zG08V^/s/R/? B         
 OL,22,            ZV8?' "'    "    B         
@@ -111,20 +111,20 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G09U%  ELight Rain     
+OL,3,           ZU`?0~G09U%  EHeavy Rain     
 OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 07V} B              
+OL,9,           ^ZVj)"G 06V} B              
 OL,10,       ^ZVp|t VxSg0 CSome Cloud   
-OL,11,       ZVnG07VtV+"SG05S  C            
+OL,11,       ZVnG06VtV+"SG05S  C            
 OL,12,       ZV+S`4S+|0             
 OL,13,        ZV+%*o!S" R *u  BSunny     
 OL,14,B            ^ZR`  R*G 05R}  B         
@@ -140,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -187,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,33 +213,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLondon Bridge attack victim had 'lust
-OL,5,Cfor life'
-OL,6, "A beautiful spirit who always took the
-OL,7, side of the underdog." 
-OL,9,FThat's how David Merritt described his
-OL,10,F25-year-old son Jack, who was stabbed
-OL,11,Fto death in an attack at London Bridge.
-OL,13,FA woman who died in the attack -
-OL,14,Fdeclared by officers as a terrorist
-OL,15,Fincident - has not yet been named.
-OL,16,FThree others were injured.
-OL,18,FA law and criminology graduate, Mr
-OL,19,FMerritt was a course coordinator for
-OL,20,Fthe University of Cambridge's prison
-OL,21,Frehabilitation programme.
+OL,4,CMan 'on fire' at city railway station
+OL,5, A man is being treated for burns after
+OL,6, coming into contact with overhead
+OL,7, cables at Birmingham's New Street
+OL,8, railway station.
+OL,10,FIt happened at about 08:00 GMT
+OL,11,Ffollowing reports of a man being
+OL,12,Fseriously injured. One onlooker said he
+OL,13,Fwas "on fire".
+OL,15,FDelays in the area are expected until
+OL,16,F11:00, National Rail said.
+OL,18,FThe man has been taken to hospital in a
+OL,19,Flife-threatening condition. It is not
+OL,20,Fbelieved to be suspicious.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -265,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -291,32 +290,31 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CLisa Smith and daughter returning to
-OL,5,CIreland
-OL,6, The broadcaster RTE is reporting that
-OL,7, an Irish citizen who became an Islamic
-OL,8, State bride will arrive back in Dublin
-OL,9, today.
-OL,11,FLisa Smith and her daughter are on
-OL,12,Ftheir way from Turkey.
-OL,14,FIt is expected she will be interviewed
-OL,15,Fby police about suspected terrorist
-OL,16,Foffences.
-OL,18,FPlans have also been made for the care
-OL,19,Fof her two-year-old daughter, who was
-OL,20,Fborn in Syria, but is an Irish citizen.
+OL,4,CLisa Smith and daughter back in Ireland
+OL,5, The broadcaster RTE is reporting that
+OL,6, an Irish citizen who became an Islamic
+OL,7, State bride arrived back in Dublin
+OL,8, today.
+OL,10,FLisa Smith and her daughter travelled
+OL,11,Ffrom Turkey.
+OL,13,FIt is expected she will be interviewed
+OL,14,Fby police about suspected terrorist
+OL,15,Foffences.
+OL,17,FPlans have also been made for the care
+OL,18,Fof her two-year-old daughter, who was
+OL,19,Fborn in Syria, but is an Irish citizen.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -342,33 +340,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMalta businessman charged over
-OL,5,Cjournalist murder
-OL,6, Maltese businessman Yorgen Fenech has
-OL,7, been charged with complicity in the
-OL,8, murder of investigative journalist
-OL,9, Daphne Caruana Galizia in 2017.
-OL,11,FHe pleaded not guilty to that charge
-OL,12,Fand four others others including
-OL,13,Fmembership of a criminal gang. 
-OL,15,FRelatives of the assassinated blogger
-OL,16,Fwere present in the court in Valletta.
-OL,18,FThe investigation into Caruana
-OL,19,FGalizia's death has rocked the island's
-OL,20,Fgovernment. Prime Minister Joseph
-OL,21,FMuscat is under pressure to resign. 
+OL,4,CSongwriter behind calypso hit Day-O
+OL,5,Cdies aged 95
+OL,6, US composer Irving Burgie, who helped
+OL,7, to popularise Caribbean music with hit
+OL,8, songs like Day-O, has died aged 95.
+OL,10,FHis death was confirmed by Barbados
+OL,11,FPrime Minister Mia Amor Mottley, who
+OL,12,Fcalled for a moment of silence for the
+OL,13,Fman who wrote its national anthem.
+OL,15,FMr Burgie is best known for helping
+OL,16,Fsinger Harry Belafonte bring calypso
+OL,17,Fmusic to the mainstream. 
+OL,19,FThe 1950s song Day-O went on to be used
+OL,20,Fin films, adverts and even as a wake-up
+OL,21,Fcall for astronauts in space. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -394,7 +392,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -420,7 +418,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -446,7 +444,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -471,33 +469,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
-OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
-OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
-OL,4,CClimate change 'blueprint' for Wales
-OL,5,Claunched
-OL,6, A five-year blueprint to tackle climate
-OL,7, change in Wales has been launched by
-OL,8, the Welsh Government.
-OL,10,FProsperity for All: A Climate Conscious
-OL,11,FWales sets out plans to improve flood
-OL,12,Fdefences, secure water supplies, and
-OL,13,Fother environmental improvements.
-OL,15,FEnvironment minister Lesley Griffiths
-OL,16,Fsaid the plan is "challenging".
-OL,18,FBut Welsh Conservative Andrew RT Davies
-OL,19,Fsaid "questions must be answered" over
-OL,20,Fif the plans are "workable" and
-OL,21,F"economically viable".
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CBeloved 100-year-old RAF bear restored
+OL,5, A 100-year-old teddy bear that helped a
+OL,6, World War Two airman convalesce has
+OL,7, undergone a delicate restoration.
+OL,9,FBobby Bear was the childhood toy of RAF
+OL,10,Fwireless operator Joe Mack, who flew
+OL,11,Fwith the elite Cambridgeshire-based
+OL,12,FPathfinder crew.
+OL,14,FThe "treasured keepsake" was faithfully
+OL,15,Fmended by a team of specialists for the
+OL,16,FBBC Repair Shop series.  
+OL,18,FMr Mack's daughter, Kris Johnston, said
+OL,19,Fthe family wanted Bobby "conserved
+OL,20,Frather than changed".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C09:38:37
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C10:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
