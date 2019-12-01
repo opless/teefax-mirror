@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,14 +15,14 @@ OL,4,MJohnson says 74 terror prisoners   C104
 OL,6,Greleased early                         
 OL,8,GChina due to introduce face scans  C105
 OL,9,Gfor mobile users                       
-OL,10,GService to be held for London      C106
+OL,10,GHundreds attend service for London C106
 OL,11,GBridge victims                         
 OL,12,GFreed Taliban captive reveals      C107
 OL,13,Ghostage ordeal                         
 OL,14,GMan 'on fire' at city railway      C108
 OL,15,Gstation                                
-OL,16,GLisa Smith and daughter back in    C109
-OL,17,GIreland                                
+OL,16,GIS recruit arrested after arriving C109
+OL,17,Gback in Ireland                        
 OL,18,GLabour plans central train ticket  C110
 OL,19,Gbookings                               
 OL,20,GSongwriter behind calypso hit Day-OC111
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,27 +60,26 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MWatford set to sack manager after  G303
-OL,6,FEngland drawn against Croatia,     G304
+OL,4,MWatford sack manager after less    G303
+OL,6,FBenik Afobe 'heartbroken' after    G304
 OL,7,FMan City will 'fight until the     G305
-OL,8,FFreddie Ljungberg 'has Arsenal     G306
-OL,9,FHave we underestimated Newcastle   G307
-OL,10,FChichester City embracing          G308
-OL,12,FBend it like Beckham’s unsung    G309
-OL,13,FLeaders move 11 points clear       G310
-OL,14,FEverything you need to know about  G311
+OL,8,FHave we underestimated Newcastle   G306
+OL,9,FLawro vs Sonny Bill Williams       G307
+OL,10,FEngland drawn against Croatia,     G308
+OL,12,FFreddie Ljungberg 'has Arsenal     G309
+OL,13,FChichester City embracing          G310
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -95,42 +94,42 @@ OL,9,           ^ZVj)"G 01V} B
 OL,10,       ^ZRp|t VxVg0 B             
 OL,11,       ZRnG06RtV+"VG02V B             
 OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" U *u  ECloudy    
-OL,14,B            ^ZR`  U*G 05U}  E         
-OL,15,B            ^ZRk|V            
+OL,13,        ZR+%*o!V" R *u  BSome Cloud
+OL,14,B            ^ZR`  R*G 05R}  B         
+OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^VG 07R B       
+OL,17,B              ZRj^RG 08R B       
 OL,18,B            ZRx|^G 06R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZV  tG 07R/!        
-OL,21,B            ZV zG08V^/s/R/?      BSome
-OL,22,            ZV8?' "'    "    BCloud    
+OL,21,B            ZV zG08V^/s/R/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZS 4`~|}            G 2/2 
-OL,3,           ZS`?0~G09S%  CLight Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G09U%  EHeavy Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 06V} B              
-OL,10,       ^ZVp|t VxUg0 B             
-OL,11,       ZVnG07VtV+"UG05U B             
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" R *u  BSunny     
-OL,14,B            ^ZU`  R*G 06R}  B         
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 05R}zt B       
-OL,17,ESome Cloud    ZUj^RG 05R B       
-OL,18,E            ZUx|^G 07R'         
-OL,19,             ^ZU! +/'iRqp0        
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG06VtV+"VG05V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  BSunny     
+OL,14,B            ^ZR`  R*G 05R}  B         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 05R}zt B       
+OL,17,B              ZRj^RG 05R B       
+OL,18,B            ZRx|^G 06R'         
+OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 06R/!        
 OL,21,B            ZR zG07R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
@@ -138,7 +137,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,7 +158,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -172,10 +171,10 @@ OL,7, people jailed for terror offences and
 OL,8, released early will have their licence
 OL,9, conditions reviewed.
 OL,11,FThe Ministry of Justice launched the
-OL,12,Furgent review after Friday's London
-OL,13,FBridge attack, where convicted
-OL,14,Fterrorist Usman Khan - who served half
-OL,15,Fhis time - killed two people. 
+OL,12,Furgent review after convicted terrorist
+OL,13,FUsman Khan, who had served half of his
+OL,14,Fsentence, killed two people in a knife
+OL,15,Fattack at London Bridge on Friday. 
 OL,17,FThe prime minister claimed scrapping
 OL,18,Fearly release would have stopped him.
 OL,20,FBut Labour is blaming budget cuts for
@@ -185,7 +184,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -211,30 +210,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CService to be held for London Bridge
-OL,5,Cvictims
-OL,6, A service for two people killed in the
-OL,7, London Bridge attack is to be held at
-OL,8, Southwark Cathedral.
+OL,4,CHundreds attend service for London
+OL,5,CBridge victims
+OL,6, Hundreds have attended a service at
+OL,7, Southwark Cathedral for two people
+OL,8, killed in the London Bridge attack.
 OL,10,FCambridge University graduate Jack
 OL,11,FMerritt and a woman, who has not yet
 OL,12,Fbeen named, were both fatally stabbed
 OL,13,Fby attacker Usman Khan on Friday.
-OL,15,FThe Dean of Southwark Cathedral, the
-OL,16,FVery Revd Andrew Nunn, said many people
-OL,17,Fwere struggling with what happened.
+OL,15,FThree other people were injured in the
+OL,16,Fattack. Two remain in hospital while
+OL,17,Fone has been discharged.
+OL,19,FThe Dean of Southwark Cathedral, the
+OL,20,FVery Revd Andrew Nunn, said many people
+OL,21,Fwere struggling with what happened.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -260,7 +262,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -285,32 +287,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CLisa Smith and daughter back in Ireland
-OL,5, An Irish citizen who became an Islamic
-OL,6, State bride has been arrested after
-OL,7, arriving back in Dublin.
-OL,9,FLisa Smith and her daughter travelled
-OL,10,Ffrom Turkey after being deported,
-OL,11,Farriving in Ireland on Sunday. 
-OL,13,FShe was arrested on arrival, and it
-OL,14,Fis expected she will now be
-OL,15,Finterviewed by police about suspected
-OL,16,Fterrorist offences.
-OL,18,FPlans have also been made for the care
-OL,19,Fof her two-year-old daughter, who was
-OL,20,Fborn in Syria, but is an Irish citizen.
+OL,4,CIS recruit arrested after arriving back
+OL,5,Cin Ireland
+OL,6, An Irish citizen who became an Islamic
+OL,7, State bride has been arrested after
+OL,8, arriving back in Dublin.
+OL,10,FLisa Smith and her daughter travelled
+OL,11,Ffrom Turkey after being deported,
+OL,12,Farriving in Ireland on Sunday. 
+OL,14,FShe was arrested on arrival, and it
+OL,15,Fis expected she will now be
+OL,16,Finterviewed by police about suspected
+OL,17,Fterrorist offences.
+OL,19,FPlans have also been made for the care
+OL,20,Fof her two-year-old daughter, who was
+OL,21,Fborn in Syria, but is an Irish citizen.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -336,7 +339,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -362,7 +365,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -388,7 +391,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -413,7 +416,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -439,32 +442,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CHuman urine forces cinema evacuation
-OL,5, A movie theatre in the north-western US
-OL,6, state of Washington had to be evacuated
-OL,7, after it took delivery of a package of
-OL,8, human urine.
-OL,10,FThe package marked "highly contagious
-OL,11,Fhuman substance" was delivered in error
-OL,12,Fto the North Bend Theater, in the city
-OL,13,Fof the same name on Friday evening.
-OL,15,FAfter about an hour, the substance was
-OL,16,Fdetermined to be urine and was disposed
-OL,17,Fof, CNN reported.
-OL,19,FThe package was intended for a medical
-OL,20,Fclinic.
+OL,4,CEleven shot in New Orleans' French
+OL,5,CQuarter
+OL,6, Police in New Orleans say there have
+OL,7, been 11 victims of a shooting incident
+OL,8, in the city's French Quarter tourist
+OL,9, hub.
+OL,11,FUS media quoted one officer as saying
+OL,12,Ftwo people were in critical condition.
+OL,13,FNo fatalities have been reported.
+OL,15,FThe incident took place on Canal St
+OL,16,Fbetween Bourbon and Chartres streets at
+OL,17,Fabout 03:20 local time (09:20 GMT).
+OL,19,FPolice said on their Twitter feed that
+OL,20,F"one suspect had been apprehended near
+OL,21,Fthe scene".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -490,26 +494,25 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C12:38:25
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C13:39:28
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CCosmic Crisp: New apple that 'lasts for
-OL,5,Ca year'
-OL,6,  A new breed of apple that took two
-OL,7, decades to develop and allegedly lasts
-OL,8, for up to a year in the fridge goes on
-OL,9, sale in the US on Sunday. 
-OL,11,FThe apple - Cosmic Crisp - is a
-OL,12,Fcross-breed of the Honeycrisp and
-OL,13,FEnterprise and was first cultivated by
-OL,14,FWashington State University in 1997.
-OL,16,FThe launch of the "firm, crisp, and
-OL,17,Fjuicy apple" cost $10m (#7.9m). 
-OL,19,FFarmers in the state of Washington are
-OL,20,Fexclusively allowed to grow the fruit
-OL,21,Ffor the next decade. 
+OL,4,CHuman urine forces cinema evacuation
+OL,5, A movie theatre in the north-western US
+OL,6, state of Washington had to be evacuated
+OL,7, after it took delivery of a package of
+OL,8, human urine.
+OL,10,FThe package marked "highly contagious
+OL,11,Fhuman substance" was delivered in error
+OL,12,Fto the North Bend Theater, in the city
+OL,13,Fof the same name on Friday evening.
+OL,15,FAfter about an hour, the substance was
+OL,16,Fdetermined to be urine and was disposed
+OL,17,Fof, CNN reported.
+OL,19,FThe package was intended for a medical
+OL,20,Fclinic.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
