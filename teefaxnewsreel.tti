@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -21,18 +21,18 @@ OL,12,GFreed Taliban captive reveals      C107
 OL,13,Ghostage ordeal                         
 OL,14,GAircraft radio fault led to RAF    C108
 OL,15,Gjets' sonic booms                      
-OL,16,GEleven shot near New Orleans'      C109
-OL,17,GFrench Quarter                         
+OL,16,GAt least 14 killed in Burkina Faso C109
+OL,17,Gchurch attack                          
 OL,18,GThousands facing 'several days'    C110
 OL,19,Gwithout gas                            
-OL,20,GIraq PM's resignation accepted amidC111
-OL,21,Gunrest                                 
+OL,20,GEleven shot near New Orleans'      C111
+OL,21,GFrench Quarter                         
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -79,7 +79,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -92,52 +92,52 @@ OL,7,           ^ZU ~ow1  E
 OL,8,B          ^ZV*y?sp  FSome Cloud    
 OL,9,           ^ZVj)"G 00V}  F             
 OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG03VtV+"RG-1R B             
+OL,11,       ZVnG02VtV+"RG-1R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  BClear     
-OL,14,B            ^ZR`  R*G 01R}  B         
+OL,14,B            ^ZR`  R*G 00R}  B         
 OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG -1R}zt B       
-OL,17,B              ZRj^VG 01R B       
+OL,17,B              ZRj^VG 02R B       
 OL,18,B            ZRx|^G 00R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 01R/!        
+OL,20,B            ^ZR  tG 00R/!        
 OL,21,B            ZR zG00R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZS 4`~|}            G 2/2 
-OL,3,           ZS`?0~G09S%  CLight Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G09U%  EHeavy Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G07V!FCloudy         
+OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 07V} B              
-OL,10,       ^ZVp|t VxUg0 B             
-OL,11,       ZVnG07VtV+"UG05U B             
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" R *u  BSunny     
-OL,14,B            ^ZU`  R*G 06R}  B         
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 05U}zt B       
-OL,17,B              ZUj^RG 05U B       
-OL,18,B            ZUx|^G 07U'         
-OL,19,             ^ZU! +/'iRqp0        
-OL,20,ESome Cloud  ^ZU  tG 06R/!        
-OL,21,E            ZU zG07U^/s/R/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,9,           ^ZVj)"G 06V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG07VtV+"VG06V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  BSunny     
+OL,14,B            ^ZR`  R*G 06R}  B         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 05R}zt B       
+OL,17,B              ZRj^RG 05R B       
+OL,18,B            ZRx|^G 06R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 06R/!        
+OL,21,B            ZR zG07R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +158,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -184,7 +184,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,7 +210,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,7 +236,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +262,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,33 +288,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CEleven shot near New Orleans' French
-OL,5,CQuarter
-OL,6, Police in New Orleans say there have
-OL,7, been 11 victims of a shooting incident
-OL,8, near the French Quarter tourist hub.
-OL,10,FTwo people are in critical condition,
-OL,11,Fwith shots to the chest and torso
-OL,12,Frespectively. No fatalities have been
-OL,13,Freported.
-OL,15,FThe incident took place on Canal St
-OL,16,Fbetween Bourbon and Chartres streets at
-OL,17,Fabout 03:20 local time (09:20 GMT).
-OL,19,FPolice said on their Twitter feed that
-OL,20,F"one suspect had been apprehended near
-OL,21,Fthe scene".
+OL,4,CAt least 14 killed in Burkina Faso
+OL,5,Cchurch attack
+OL,6, At least 14 people have been killed
+OL,7, after gunmen opened fire inside a
+OL,8, church in Burkina Faso. 
+OL,10,FThe victims were attending a service at
+OL,11,Fa church in Hantoukoura, in the eastern
+OL,12,Fpart of the country on Sunday. 
+OL,14,FThe identity of the gunmen is not known
+OL,15,Fand the motive is unclear. 
+OL,17,FHundreds of people have been killed in
+OL,18,Fthe country over the past few years,
+OL,19,Fmostly by jihadist groups, sparking
+OL,20,Fethnic and religious tensions
+OL,21,Fespecially on the border with Mali. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -340,33 +340,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIraq PM's resignation accepted amid
-OL,5,Cunrest
-OL,6, Iraq's parliament has approved the
-OL,7, resignation of Prime Minister Adel
-OL,8, Abdul Mahdi following weeks of unrest.
-OL,10,FIt is unclear who will take over from
-OL,11,FMr Abdul Mahdi. The parliament speaker
-OL,12,Fsaid President Barham Saleh would be
-OL,13,Fasked to name a new prime minister.
-OL,15,FMeanwhile the Pope has become the
-OL,16,Flatest figure to condemn security
-OL,17,Fforces' use of lethal force.
-OL,19,FSome 400 people have been killed since
-OL,20,Fprotests began in Baghdad and other
-OL,21,Fcities at the start of October.
+OL,4,CEleven shot near New Orleans' French
+OL,5,CQuarter
+OL,6, Police in New Orleans say there have
+OL,7, been 11 victims of a shooting incident
+OL,8, near the French Quarter tourist hub.
+OL,10,FTwo people are in critical condition,
+OL,11,Fwith shots to the chest and torso
+OL,12,Frespectively. No fatalities have been
+OL,13,Freported.
+OL,15,FThe incident took place on Canal St
+OL,16,Fbetween Bourbon and Chartres streets at
+OL,17,Fabout 03:20 local time (09:20 GMT).
+OL,19,FPolice said on their Twitter feed that
+OL,20,F"one suspect had been apprehended near
+OL,21,Fthe scene".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -392,7 +392,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -418,7 +418,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -444,33 +444,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CThree jailed over crash that sparked
-OL,5,Cmass protests
-OL,6, Three people have been handed life
-OL,7, sentences in Bangladesh over a bus
-OL,8, crash that killed two young students
-OL,9, and sparked anti-government protests.
-OL,11,FDemonstrations hit the capital Dhaka
-OL,12,Flast year after two schoolchildren were
-OL,13,Frun over and killed by a speeding bus.
-OL,15,FTens of thousands rallied, demanding
-OL,16,Fthat the government take action to
-OL,17,Fimprove road safety.
-OL,19,FThe city was brought to a standstill,
-OL,20,Fand more than 150 people were injured
-OL,21,Fas authorities waged a heavy crackdown.
+OL,4,CIraq PM's resignation accepted amid
+OL,5,Cunrest
+OL,6, Iraq's parliament has approved the
+OL,7, resignation of Prime Minister Adel
+OL,8, Abdul Mahdi following weeks of unrest.
+OL,10,FIt is unclear who will take over from
+OL,11,FMr Abdul Mahdi. The parliament speaker
+OL,12,Fsaid President Barham Saleh would be
+OL,13,Fasked to name a new prime minister.
+OL,15,FMeanwhile the Pope has become the
+OL,16,Flatest figure to condemn security
+OL,17,Fforces' use of lethal force.
+OL,19,FSome 400 people have been killed since
+OL,20,Fprotests began in Baghdad and other
+OL,21,Fcities at the start of October.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -496,26 +496,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C21:32:33
+OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:32:30
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CChina due to introduce face scans for
-OL,5,Cmobile users
-OL,6, People in China are now required to
-OL,7, have their faces scanned when
-OL,8, registering new mobile phone services,
-OL,9, as the authorities seek to verify the
-OL,10, identities of the country's hundreds of
-OL,11, millions of internet users.
-OL,13,FThe regulation, announced in September,
-OL,14,Fwas due to come into effect on Sunday.
-OL,16,FThe government says it wants to
-OL,17,F"protect the legitimate rights and
-OL,18,Finterest of citizens in cyberspace".
-OL,20,FChina already uses facial recognition
-OL,21,Ftechnology to survey its population.
+OL,4,CThree jailed over crash that sparked
+OL,5,Cmass protests
+OL,6, Three people have been handed life
+OL,7, sentences in Bangladesh over a bus
+OL,8, crash that killed two young students
+OL,9, and sparked anti-government protests.
+OL,11,FDemonstrations hit the capital Dhaka
+OL,12,Flast year after two schoolchildren were
+OL,13,Frun over and killed by a speeding bus.
+OL,15,FTens of thousands rallied, demanding
+OL,16,Fthat the government take action to
+OL,17,Fimprove road safety.
+OL,19,FThe city was brought to a standstill,
+OL,20,Fand more than 150 people were injured
+OL,21,Fas authorities waged a heavy crackdown.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
