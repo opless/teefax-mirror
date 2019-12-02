@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -13,26 +13,26 @@ OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MSecond London Bridge victim named  C104
 OL,6,Gas Saskia Jones                        
-OL,8,GMaltese prime minister to resign inC105
-OL,9,Gnew year                               
+OL,8,GTrump declines to attend           C105
+OL,9,Gimpeachment hearing                    
 OL,10,GJohnson says 74 terror prisoners   C106
 OL,11,Greleased early                         
-OL,12,GAustralian blogger being 'shackled C107
-OL,13,Gin China'                              
+OL,12,GMaltese prime minister to resign inC107
+OL,13,Gnew year                               
 OL,14,GMorning-after pill 'should be sold C108
 OL,15,Goff the shelf'                         
-OL,16,GAt least 14 killed in Burkina Faso C109
-OL,17,Gchurch attack                          
-OL,18,GLeaders clash over Brexit in TV    C110
-OL,19,Gdebate                                 
-OL,20,GEleven shot near New Orleans'      C111
-OL,21,GFrench Quarter                         
+OL,16,GAustralian blogger being 'shackled C109
+OL,17,Gin China'                              
+OL,18,GBoy, 16, arrested over stabbing at C110
+OL,19,GCineworld                              
+OL,20,GAt least 14 killed in Burkina Faso C111
+OL,21,Gchurch attack                          
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7346.53 A-69.90 Fat CLOSE
 OL,15,C techMARK100G5755.25 A-30.81 Fat CLOSE
 OL,16,C Dow Jones  G28051.41A-112.59Fat CLOSE
 OL,17,C Nasdaq     G8403.68 A-41.02 Fat CLOSE
-OL,18,C Nikkei     G23518.78F+224.87Fat 01:25
+OL,18,C Nikkei     G23551.88F+257.97Fat 01:55
 OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -79,7 +79,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Monday Evening             
@@ -96,19 +96,19 @@ OL,11,       ZVnG03VtV+"VG04V B
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
 OL,14,B            ^ZR`  V*G 04V} B          
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 03V}zt B       
-OL,17,BSome Cloud    ZRj^RG 01V B       
+OL,15,B            ^ZRk|T            
+OL,16,B            ^ZR'oG 03V}zt DMisty  
+OL,17,B              ZRj^TG 01V  D      
 OL,18,B            ZRx|^G 02V'         
-OL,19,             ^ZR! +/'iTqp0        
-OL,20,AClear       ^ZQ  tG 01T/!        
-OL,21,A            ZQ zG01Q^/s/T/? DMisty    
-OL,22,            ZQ8?' "'    "     D        
+OL,19,             ^ZR! +/'iVqp0        
+OL,20,BSome Cloud  ^ZR  tG 01V/!        
+OL,21,B            ZR zG01R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tuesday                 
@@ -125,19 +125,19 @@ OL,11,       ZVnG06VtR+"VG06V B
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
 OL,14,B            ^ZS`  V*G 07V} B          
-OL,15,B            ^ZSk|U            
-OL,16,B            ^ZS'oG 06U}zt B       
+OL,15,ESome Cloud  ^ZSk|U            
+OL,16,E            ^ZS'oG 06U}zt B       
 OL,17,CSunny         ZSj^UG 06U B       
 OL,18,C            ZSx|^G 07U'         
 OL,19,             ^ZS! +/'iVqp0        
-OL,20,ESome Cloud  ^ZU  tG 06V/!        
-OL,21,E            ZU zG09U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,20,B            ^ZV  tG 06V/!        
+OL,21,B            ZV zG10V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +158,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -184,33 +184,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMaltese prime minister to resign in new
-OL,5,Cyear
-OL,6, Maltese Prime Minister Joseph Muscat
-OL,7, has announced on national TV that he
-OL,8, will step down in the new year, amid a
-OL,9, crisis over a murdered journalist.   
-OL,11,FHe said he would ask the ruling Labour
-OL,12,FParty to begin the process to choose
-OL,13,Fhis successor on 12 January. 
-OL,15,FDemonstrators have demanded his
-OL,16,Fimmediate resignation over the inquiry
-OL,17,Finto Daphne Caruana Galizia's death.
-OL,19,FShe was killed by a car bomb in 2017 as
-OL,20,Fshe investigated corruption among
-OL,21,FMalta's business and political elite.
+OL,4,CTrump declines to attend impeachment
+OL,5,Chearing
+OL,6, The White House has said US President
+OL,7, Donald Trump and his lawyers will not
+OL,8, attend an impeachment hearing in the
+OL,9, House of Representatives on Wednesday. 
+OL,11,FMr Trump could not be expected to
+OL,12,Fparticipate "fairly", White House
+OL,13,Fcounsel Pat Cipollone said in a letter
+OL,14,Fto the House Judiciary Committee. 
+OL,16,FLast week, Chairman Jerrold Nadler said
+OL,17,FMr Trump could either attend or "stop
+OL,18,Fcomplaining about the process".
+OL,20,FThe White House did not say whether Mr
+OL,21,FTrump would attend a second hearing.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,33 +236,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAustralian blogger being 'shackled in
-OL,5,CChina'
-OL,6, Australia says the treatment endured by
-OL,7, one of its citizens in criminal
-OL,8, detention in China is "unacceptable".
-OL,10,FChinese-Australian writer Dr Yang
-OL,11,FHengjun has been held in Beijing since
-OL,12,FJanuary. He has been accused of
-OL,13,Fespionage - charges denied by him and
-OL,14,Fthe Australian government.
-OL,16,FHe now faces daily interrogations while
-OL,17,Fbeing shackled, and has been
-OL,18,Fincreasingly isolated, Canberra said.
-OL,20,FAustralia has consistently lobbied
-OL,21,FChinese authorities for his release.
+OL,4,CMaltese prime minister to resign in new
+OL,5,Cyear
+OL,6, Maltese Prime Minister Joseph Muscat
+OL,7, has announced on national TV that he
+OL,8, will step down in the new year, amid a
+OL,9, crisis over a murdered journalist.   
+OL,11,FHe said he would ask the ruling Labour
+OL,12,FParty to begin the process to choose
+OL,13,Fhis successor on 12 January. 
+OL,15,FDemonstrators have demanded his
+OL,16,Fimmediate resignation over the inquiry
+OL,17,Finto Daphne Caruana Galizia's death.
+OL,19,FShe was killed by a car bomb in 2017 as
+OL,20,Fshe investigated corruption among
+OL,21,FMalta's business and political elite.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -288,7 +288,59 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CAustralian blogger being 'shackled in
+OL,5,CChina'
+OL,6, Australia says the treatment endured by
+OL,7, one of its citizens in criminal
+OL,8, detention in China is "unacceptable".
+OL,10,FChinese-Australian writer Dr Yang
+OL,11,FHengjun has been held in Beijing since
+OL,12,FJanuary. He has been accused of
+OL,13,Fespionage - charges denied by him and
+OL,14,Fthe Australian government.
+OL,16,FHe now faces daily interrogations while
+OL,17,Fbeing shackled, and has been
+OL,18,Fincreasingly isolated, Canberra said.
+OL,20,FAustralia has consistently lobbied
+OL,21,FChinese authorities for his release.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40513
+SC,0013
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CBoy, 16, arrested over stabbing at
+OL,5,CCineworld
+OL,6, A boy aged 16 and a 23-year-old man
+OL,7, have been arrested in connection with a
+OL,8, reported stabbing in Nottingham city
+OL,9, centre.
+OL,11,FPolice were called to Cineworld at
+OL,12,Faround 20:15 BST on Sunday to reports
+OL,13,Fof a stabbing after a fight in the
+OL,14,Fcomplex.
+OL,16,FA 20-year-old man was taken to hospital
+OL,17,Ffor non life-threatening injuries and
+OL,18,Fhe has now been released.  
+OL,20,FThe man is expected to make a full
+OL,21,Frecovery.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40514
+SC,0014
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -311,10 +363,10 @@ OL,20,Fethnic and religious tensions
 OL,21,Fespecially on the border with Mali. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40513
-SC,0013
+PN,40515
+SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -336,10 +388,10 @@ OL,19,FThe UK goes to the polls on 12
 OL,20,FDecember.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40514
-SC,0014
+PN,40516
+SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -362,88 +414,36 @@ OL,20,F"one suspect had been apprehended near
 OL,21,Fthe scene".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40515
-SC,0015
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLabour pledges to cut rail fares by a
-OL,5,Cthird
-OL,6, Labour has announced plans to slash
-OL,7, rail fares by 33% and simplify ticket
-OL,8, prices for part-time workers if it wins
-OL,9, the election on 12 December.
-OL,11,FThe party also wants to make train
-OL,12,Ftravel free for young people under the
-OL,13,Fage of 16 and build a central online
-OL,14,Fbooking portal with no booking fees.
-OL,16,FThe proposal is part of broader plans
-OL,17,Fby the party to nationalise the UK's
-OL,18,Ftrain system.
-OL,20,FConservative Transport Secretary Grant
-OL,21,FShapps said the plan was "desperate".
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40516
-SC,0016
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CWW2 bomb defused in Turin after
-OL,5,Cthousands evacuate
-OL,6, More than 10,000 people were evacuated
-OL,7, from central Turin on Sunday as experts
-OL,8, worked to defuse a World War Two bomb. 
-OL,10,FResidents of the Italian city were told
-OL,11,Fto vacate a "red zone" in the historic
-OL,12,Fdistrict.
-OL,14,FA further 50,000 living further away
-OL,15,Fwere told either to leave their homes
-OL,16,Fin advance, or to remain inside during
-OL,17,Fthe operation.
-OL,19,FThe British bomb, dropped on the city
-OL,20,Fduring WW2, contained 65kg (140lbs) of
-OL,21,Fdynamite, authorities said. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
 OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
 OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CThousands facing 'several days' without
-OL,5,Cgas
-OL,6, Thousands of homes could be without
-OL,7, heating for "several days" after a gas
-OL,8, main failure in central Scotland. 
-OL,10,FGas infrastructure company SGN said
-OL,11,Fabout 8,000 properties in the Falkirk
-OL,12,Farea had been left without supplies,
-OL,14,FSGN engineers were working to fix
-OL,15,Fequipment that regulates gas pressure
-OL,16,Fbut warned each property would have to
-OL,17,Fbe visited.
-OL,19,FElectric heaters and cookers were being
-OL,20,Foffered to elderly or sick customers,
-OL,21,Fand those with young children. 
+OL,4,CHeaters distributed as gas supply fault
+OL,5,Ccontinues
+OL,6, Thousands of homes in the Falkirk area
+OL,7, are spending the night without heat in
+OL,8, freezing temperatures after a major gas
+OL,9, network failure. 
+OL,11,FHeaters and portable cookers have been
+OL,12,Fdistributed to vulnerable residents and
+OL,13,F13 schools and nurseries are closed. 
+OL,15,FGas infrastructure company SGN said it
+OL,16,Fhad drafted in engineers from across
+OL,17,Fthe country to restore supplies to
+OL,18,F8,000 customers. 
+OL,20,FFaulty equipment has been identified
+OL,21,Fbut each property must be visited. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -469,32 +469,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan stabbed in fight at city centre
-OL,5,CCineworld
-OL,6, A man has been stabbed after a
-OL,7, disturbance at a Cineworld in
-OL,8, Nottingham city centre.
-OL,10,FNottinghamshire Police were called at
-OL,11,F20:17 BST on Sunday after it was
-OL,12,Freported that a fight had broken out.
-OL,14,FIt is believed that a 20-year-old man
-OL,15,Fwas stabbed during the incident.
-OL,17,FThe man has been taken to hospital but
-OL,18,Fhis injuries are currently not believed
-OL,19,Fto be life-threatening.
-OL,21,FA cordon was set up inside the cinema. 
+OL,4,CLabour pledges to cut rail fares by a
+OL,5,Cthird
+OL,6, Labour has announced plans to slash
+OL,7, rail fares by 33% and simplify ticket
+OL,8, prices for part-time workers if it wins
+OL,9, the election on 12 December.
+OL,11,FThe party also wants to make train
+OL,12,Ftravel free for young people under the
+OL,13,Fage of 16 and build a central online
+OL,14,Fbooking portal with no booking fees.
+OL,16,FThe proposal is part of broader plans
+OL,17,Fby the party to nationalise the UK's
+OL,18,Ftrain system.
+OL,20,FConservative Transport Secretary Grant
+OL,21,FShapps said the plan was "desperate".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:34:39
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:43:14
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0

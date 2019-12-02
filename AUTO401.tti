@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:31:47
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:39:08
 OL,1,T]G          Monday Evening             
 OL,2,           ^ZS 4`~|}            G 1/2 
 OL,3,           ZS`?0~G08S%  COvercast       
@@ -20,21 +20,21 @@ OL,11,       ZVnG03VtV+"VG04V B
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
 OL,14,B            ^ZR`  V*G 04V} B          
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 03V}zt B       
-OL,17,BSome Cloud    ZRj^RG 01V B       
+OL,15,B            ^ZRk|T            
+OL,16,B            ^ZR'oG 03V}zt DMisty  
+OL,17,B              ZRj^TG 01V  D      
 OL,18,B            ZRx|^G 02V'         
-OL,19,             ^ZR! +/'iTqp0        
-OL,20,AClear       ^ZQ  tG 01T/!        
-OL,21,A            ZQ zG01Q^/s/T/? DMisty    
-OL,22,            ZQ8?' "'    "     D        
+OL,19,             ^ZR! +/'iVqp0        
+OL,20,BSome Cloud  ^ZR  tG 01V/!        
+OL,21,B            ZR zG01R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:31:47
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:39:08
 OL,1,T]G             Tuesday                 
 OL,2,           ^ZR 4`~|}            G 2/2 
 OL,3,           ZR`?0~G09R%  B               
@@ -49,14 +49,14 @@ OL,11,       ZVnG06VtR+"VG06V B
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
 OL,14,B            ^ZS`  V*G 07V} B          
-OL,15,B            ^ZSk|U            
-OL,16,B            ^ZS'oG 06U}zt B       
+OL,15,ESome Cloud  ^ZSk|U            
+OL,16,E            ^ZS'oG 06U}zt B       
 OL,17,CSunny         ZSj^UG 06U B       
 OL,18,C            ZSx|^G 07U'         
 OL,19,             ^ZS! +/'iVqp0        
-OL,20,ESome Cloud  ^ZU  tG 06V/!        
-OL,21,E            ZU zG09U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,20,B            ^ZV  tG 06V/!        
+OL,21,B            ZV zG10V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,8FF,199

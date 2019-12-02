@@ -5,24 +5,24 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:31:59
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:39:17
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTHIS EVENING AND TONIGHT
-OL,8,BClear periods this S5CSTATISTICS       
-OL,9,Bevening will lead  S5C 
-OL,10,Bto an early frost  S5G   Maximum       
-OL,11,Band isolated       S5GTemperatureC6C 
-OL,12,Bfreezing fog       S5G                 
-OL,13,Bpatches. Clouding  S5G   Minumum       
-OL,14,Bover in the early  S5GTemperatureC-1C 
-OL,15,Bhours but staying  S5C                 
-OL,16,Bmostly dry, still  S5G
-OL,17,Ban odd shower alongS5G
-OL,18,Bthe coast.         S5G                 
-OL,19,B                   S5G
+OL,6,CTODAY
+OL,8,BA dry, cold and    S5CSTATISTICS       
+OL,9,Bmostly cloudy day  S5C 
+OL,10,Balthough a little  S5G   Maximum       
+OL,11,Bbrightness possibleS5GTemperatureC6C 
+OL,12,Bthis afternoon     S5G                 
+OL,13,Bespecially in      S5G   Minumum       
+OL,14,Bwestern counties.  S5GTemperatureC-2C 
+OL,15,BFeeling cold with  S5C                 
+OL,16,Bwesterly winds     S5G
+OL,17,Bfreshening along   S5G
+OL,18,Bthe north coast    S5G                 
+OL,19,Blater.             S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
@@ -32,24 +32,24 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C02:31:59
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C03:39:17
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CMONDAY
-OL,8,BA dry, cold and    S5CSTATISTICS       
-OL,9,Bmostly cloudy day  S5C 
-OL,10,Bto come although a S5G   Maximum       
-OL,11,Blittle brightness  S5GTemperatureC6C 
-OL,12,Bpossible in the    S5G                 
-OL,13,Bafternoon          S5G   Minumum       
-OL,14,Bespecially in      S5GTemperatureC-1C 
-OL,15,Bwestern counties.  S5C                 
-OL,16,BWesterly winds     S5G
-OL,17,Bfreshening along   S5G
-OL,18,Bthe north coast    S5G                 
-OL,19,Blater.             S5G
+OL,6,CTONIGHT
+OL,8,BIt will be a dry   S5CSTATISTICS       
+OL,9,Bnight with some    S5C 
+OL,10,Bclear spells and   S5G   Maximum       
+OL,11,Blighter winds for aS5GTemperatureC6C 
+OL,12,Btime. This will    S5G                 
+OL,13,Blead to a          S5G   Minumum       
+OL,14,Bwidespread frost   S5GTemperatureC-2C 
+OL,15,Band a few mist     S5C                 
+OL,16,Bpatches.           S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
+OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
