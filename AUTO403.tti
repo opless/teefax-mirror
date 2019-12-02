@@ -5,26 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:40:27
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:37:23
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FShowers will become restricted to more
-OL,9,Fcoastal parts of east and south-east
-OL,10,FEngland this evening, whilst showers
-OL,11,Fgradually merge into some longer spells
-OL,12,Fof rain for northern Scotland.
-OL,13,FElsewhere, dry with a frost and a few
-OL,14,Fmist or fog patches.
+OL,7,GToday
+OL,8,FMany southern and central areas of
+OL,9,FBritain, dry and cold with wintry
+OL,10,Fsunshine after frost and isolated fog
+OL,11,Fclears. Northern Britain cloudier, with
+OL,12,Fsome rain in northern Scotland where it
+OL,13,Fwill turn windier but less cold.
 OL,4,                                    1/2 
-OL,16,GMonday
-OL,17,FWindy with outbreaks of rain across the
-OL,18,Fnorthern half of Scotland. Dry
-OL,19,Felsewhere with the best of the sunshine
-OL,20,Fin the south, but frost and fog here
-OL,21,Fovernight.
+OL,15,GTonight
+OL,16,FMuch of northern Britain cloudy, breezy
+OL,17,Fand frost-free, rain dying out. Central
+OL,18,Fareas dry and cold, southern parts dry
+OL,19,Fand frosty, probably with quite
+OL,20,Fwidespread fog developing.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +31,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:40:27
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:37:23
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Tuesday to Thursday
-OL,8,FBreezy and mild in the north, with
-OL,9,Foccasional rain, heaviest in the west.
-OL,10,FElsewhere, remaining dry and generally
-OL,11,Fcold, with fog by night, this locally
-OL,12,Fdense and slow to clear.
+OL,7,GOutlook for Wednesday to Friday
+OL,8,FCold with fog for the south on
+OL,9,FWednesday, windy with showers in the
+OL,10,Fnorth. Mild and windy with rain moving
+OL,11,Fsouth Thursday, clearing Friday to
+OL,12,Fbright or sunny spells.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

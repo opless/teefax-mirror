@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7346.53 A-69.90 Fat CLOSE
 OL,15,C techMARK100G5755.25 A-30.81 Fat CLOSE
 OL,16,C Dow Jones  G28051.41A-112.59Fat CLOSE
 OL,17,C Nasdaq     G8403.68 A-41.02 Fat CLOSE
-OL,18,C Nikkei     G23293.91A-11,523Fat 07:44
+OL,18,C Nikkei     G23470.96F+177.05Fat 23:30
 OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -68,21 +68,21 @@ OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MKelechi Iheanacho grabs late       G303
 OL,6,FRed Devils held by resolute VillansG304
-OL,7,FVan Dijk, Grealish, Aubameyang,    G305
-OL,8,FFreddie Ljungberg says Gunners can G306
-OL,9,FSteven Gerrard's side one goal     G307
-OL,10,FNeil Lennon's side win 10th game   G308
-OL,12,FLate Lionel Messi winner sends     G309
-OL,13,FGemma Bonner gives City win        G310
+OL,7,F'Astonishing how often Gunners     G305
+OL,8,FVan Dijk, Grealish, Aubameyang,    G306
+OL,9,FFreddie Ljungberg says Gunners can G307
+OL,10,FSteven Gerrard's side one goal     G308
+OL,12,FNeil Lennon's side win 10th game   G309
+OL,13,FLate Lionel Messi winner sends     G310
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G           This Evening              
+OL,1,T]G          Sunday Evening             
 OL,2,           ^ZS 4`~|}            G 1/2 
 OL,3,           ZS`?0~G05S%  CLight Rain     
 OL,4,           SZj**gppp  C              
@@ -99,7 +99,7 @@ OL,14,B            ^ZR`  R*G 00R}  B
 OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG -1R}zt B       
 OL,17,B              ZRj^VG 01R B       
-OL,18,B            ZRx|^G 00R'         
+OL,18,B            ZRx|^G -1R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 01R/!        
 OL,21,B            ZR zG00R^/s/R/? B         
@@ -108,12 +108,12 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G             Tomorrow                
+OL,1,T]G              Monday                 
 OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G09U%  EHeavy Rain     
+OL,3,           ZU`?0~G09U%  EOvercast       
 OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
@@ -137,7 +137,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +158,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -184,7 +184,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,7 +210,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,7 +236,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +262,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -287,7 +287,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -313,7 +313,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -339,7 +339,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -365,7 +365,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -391,7 +391,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,33 +417,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLib Dems won't support Labour
-OL,5,Cnationalisations
-OL,6, The Lib Dems would not support Labour's
-OL,7, plans to renationalise key industries
-OL,8, in the event of a hung Parliament, the
-OL,9, party's leader Jo Swinson has said. 
-OL,11,FShe told the BBC Radio 5's Pienaar's
-OL,12,FPolitics the policy was a "distraction"
-OL,13,Fand not "the way forward".
-OL,15,FThe Lib Dems and Labour have both ruled
-OL,16,Fout a coalition deal if there is no
-OL,17,Fclear general election winner.
-OL,19,FAsked if she would try to block Labour
-OL,20,Ffrom forming a minority government, she
-OL,21,Fsaid it was a "fantasy situation".
+OL,4,CMan stabbed in fight at city centre
+OL,5,CCineworld
+OL,6, A man has been stabbed after a
+OL,7, disturbance at a Cineworld in
+OL,8, Nottingham city centre.
+OL,10,FNottinghamshire Police were called at
+OL,11,F20:17 BST on Sunday after it was
+OL,12,Freported that a fight had broken out.
+OL,14,FIt is believed that a 20-year-old man
+OL,15,Fwas stabbed during the incident.
+OL,17,FThe man has been taken to hospital but
+OL,18,Fhis injuries are currently not believed
+OL,19,Fto be life-threatening.
+OL,21,FA cordon was set up inside the cinema. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -469,33 +468,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CAircraft radio fault led to RAF jets'
-OL,5,Csonic booms
-OL,6, Two Royal Air Force Typhoons caused
-OL,7, sonic booms as they went to intercept
-OL,8, an aircraft which had lost its radio
-OL,9, contact over south-east England. 
-OL,11,FThe fighters from RAF Coningsby in
-OL,12,FLincolnshire were cleared to go
-OL,13,Fsupersonic because of the emergency.
-OL,15,FThe booms were heard in the early hours
-OL,16,Facross London, Hertfordshire and
-OL,17,FBedfordshire.
-OL,19,FThe aircraft first developed problems
-OL,20,Fas it flew across Germany on its way to
-OL,21,Fthe US, said one of its pilots. 
+OL,4,CLib Dems won't support Labour
+OL,5,Cnationalisations
+OL,6, The Lib Dems would not support Labour's
+OL,7, plans to renationalise key industries
+OL,8, in the event of a hung Parliament, the
+OL,9, party's leader Jo Swinson has said. 
+OL,11,FShe told the BBC Radio 5's Pienaar's
+OL,12,FPolitics the policy was a "distraction"
+OL,13,Fand not "the way forward".
+OL,15,FThe Lib Dems and Labour have both ruled
+OL,16,Fout a coalition deal if there is no
+OL,17,Fclear general election winner.
+OL,19,FAsked if she would try to block Labour
+OL,20,Ffrom forming a minority government, she
+OL,21,Fsaid it was a "fantasy situation".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C23:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
