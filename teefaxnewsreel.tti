@@ -5,14 +5,14 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MVigils held for London Bridge      C104
-OL,6,Gattack victims                         
+OL,4,MFamilies mourn London Bridge       C104
+OL,6,Gvictims at vigil                       
 OL,8,GClimate talks open as 'point of no C105
 OL,9,Greturn' looms                          
 OL,10,GJohnson says 74 terror prisoners   C106
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 10:30GWinnersF53GLosersA48
-OL,14,C FTSE100    G7365.31 F+18.78 Fat 10:30
-OL,15,C techMARK100G5753.82 A-1.43  Fat 10:30
+OL,12,  FTSE100Fat 11:35GWinnersF44GLosersA57
+OL,14,C FTSE100    G7345.81 A-0.72  Fat 11:35
+OL,15,C techMARK100G5733.43 A-21.82 Fat 11:35
 OL,16,C Dow Jones  G28051.41A-112.59Fat CLOSE
 OL,17,C Nasdaq     G8403.68 A-41.02 Fat CLOSE
 OL,18,C Nikkei     G23529.50F+23,558Fat 07:44
-OL,19,C DJEurStoxx G3710.33 F+6.75  Fat 10:30
+OL,19,C DJEurStoxx G3696.76 A-6.82  Fat 11:35
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -68,16 +68,18 @@ OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,M'Astonishing how often Gunners     G303
 OL,6,FVan Dijk, Grealish, Aubameyang,    G304
-OL,7,FRed Devils held by resolute VillansG305
-OL,8,FIs Jack Grealish playing himself   G306
-OL,9,FMessi? Ronaldo? Van Dijk? Men's    G307
-OL,10,FBronze? Hegerberg? Rapinoe?        G308
+OL,7,FMessi? Ronaldo? Van Dijk? Men's    G305
+OL,8,FBronze? Hegerberg? Rapinoe?        G306
+OL,9,FWatford place Hayden Mullins in    G307
+OL,10,FRed Devils held by resolute VillansG308
+OL,12,FIs Jack Grealish playing himself   G309
+OL,13,FFA Cup third round ties to promote G310
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -85,20 +87,20 @@ OL,2,           ^ZR 4`~|}            G 1/2
 OL,3,           ZR`?0~G09R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G07V!FCloudy         
+OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BHeavy Rain    
 OL,9,           ^ZRj)"G 07R}  B             
-OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG07VtR+"VG05V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" U *u  ESunny     
-OL,14,B            ^ZU`  U*G 05U}  E         
-OL,15,CSome Cloud  ^ZUk|U            
-OL,16,C            ^ZU'oG 05S}zt B       
-OL,17,B              ZUj^UG 05S B       
-OL,18,B            ZUx|^G 06S'         
-OL,19,             ^ZU! +/'iUqp0        
+OL,10,       ^ZVp|t RxSg0 CLight Rain   
+OL,11,       ZVnG07VtR+"SG05S  C            
+OL,12,       ZV+S`4S+|0             
+OL,13,        ZV+%*o!S" U *u  ESunny     
+OL,14,B            ^ZT`  U*G 05U}  E         
+OL,15,B            ^ZTk|U            
+OL,16,B            ^ZT'oG 05V}zt B       
+OL,17,DSome Cloud    ZTj^UG 05V B       
+OL,18,D            ZTx|^G 06V'         
+OL,19,             ^ZT! +/'iUqp0        
 OL,20,B            ^ZU  tG 05U/!        
 OL,21,B            ZU zG06U^/s/U/? B         
 OL,22,            ZU8?' "'    "    B         
@@ -106,7 +108,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -118,24 +120,24 @@ OL,6,            ZV!'~G05V!FCloudy
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BOvercast      
 OL,9,           ^ZRj)"G 06R}  B             
-OL,10,       ^ZUp|t RxUg0 ESome Cloud   
-OL,11,       ZUnG06UtR+"UG06U  E            
-OL,12,       ZU+U`4U+|0             
-OL,13,        ZU+%*o!U" S *u  CSunny     
-OL,14,B            ^ZS`  S*G 07S}  C         
-OL,15,B            ^ZSk|U            
-OL,16,B            ^ZS'oG 06S}zt B       
-OL,17,B              ZSj^UG 06S B       
-OL,18,B            ZSx|^G 08S'         
-OL,19,             ^ZS! +/'iVqp0        
-OL,20,B            ^ZU  tG 06V/!        
+OL,10,       ^ZVp|t RxSg0 B             
+OL,11,       ZVnG06VtR+"SG06S B             
+OL,12,       ZV+S`4S+|0             
+OL,13,        ZV+%*o!S" U *u  ESome Cloud
+OL,14,B            ^ZU`  U*G 07U}  E         
+OL,15,CSunny       ^ZUk|V            
+OL,16,C            ^ZU'oG 07S}zt B       
+OL,17,B              ZUj^VG 06S B       
+OL,18,B            ZUx|^G 08S'         
+OL,19,             ^ZU! +/'iVqp0        
+OL,20,B            ^ZU  tG 07V/!        
 OL,21,B            ZU zG10U^/s/V/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -156,14 +158,14 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CVigils held for London Bridge attack
-OL,5,Cvictims
+OL,4,CFamilies mourn London Bridge victims at
+OL,5,Cvigil
 OL,6, Vigils for the victims of the London
 OL,7, Bridge attack have been held in London
 OL,8, and Cambridge.
@@ -173,16 +175,16 @@ OL,12,FGuildhall Yard in the City of London.
 OL,14,FThey were stabbed to death by convicted
 OL,15,Fterrorist Usman Khan, 28, at a prisoner
 OL,16,Frehabilitation conference on Friday.
-OL,18,FThe service came as more details
-OL,19,Femerged of how people at the event
-OL,20,Ftried to keep the attacker at bay with
-OL,21,Fmakeshift weapons.
+OL,18,FMr Merritt's family and girlfriend were
+OL,19,Fat a service and minute's silence in
+OL,20,FCambridge, where mayor Gerri Bird led
+OL,21,Ftributes outside the Guildhall.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -207,7 +209,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -233,7 +235,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -259,7 +261,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -285,7 +287,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -311,7 +313,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -330,14 +332,14 @@ OL,15,FPolice said his injuries were not
 OL,16,Flife-threatening and he was expected to
 OL,17,Fmake a full recovery.
 OL,19,FA 16-year-old boy and a 23-year-old man
-OL,20,Fare in custody and officers have
-OL,21,Frecovered a knife.
+OL,20,Fare in custody on suspicion of the
+OL,21,Fpossession of a bladed article.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -363,7 +365,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -388,7 +390,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -414,33 +416,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
 OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
 OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CThousands could be without gas for five
-OL,5,Cdays
-OL,6, Thousands of homes in the Falkirk area
-OL,7, have spent the night without heat in
-OL,8, freezing temperatures after a major gas
-OL,9, network failure. 
-OL,11,FHeaters and portable cookers have been
-OL,12,Fdistributed to vulnerable residents and
-OL,13,F14 schools and nurseries are closed. 
-OL,15,FEngineers drafted in from around the
-OL,16,Fcountry are going door-to-door visiting
-OL,17,Fmore than 8,000 affected customers. 
-OL,19,FThey have warned some homes could be
-OL,20,Fwithout gas supplies until the weekend
-OL,21,Fin the "worst-case scenario".
+OL,4,CMajor operation under way to restore
+OL,5,Cgas network
+OL,6, Hundreds of engineers are visiting
+OL,7, homes in the Falkirk area as part of a
+OL,8, major operation to tackle a gas network
+OL,9, failure.
+OL,11,FThousands of people spent the night
+OL,12,Fwithout heat in freezing temperatures
+OL,13,Fafter the outage on Sunday morning. 
+OL,15,FHeaters and portable cookers have been
+OL,16,Fdistributed to vulnerable residents and
+OL,17,F14 schools and nurseries are closed. 
+OL,19,FGas infrastructure company SGN said it
+OL,20,Fhoped to visit all 8,000 affected
+OL,21,Fproperties by Monday afternoon.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -466,7 +468,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -492,7 +494,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C12:45:07
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
