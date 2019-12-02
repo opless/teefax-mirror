@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -19,12 +19,12 @@ OL,10,GJohnson says 74 terror prisoners   C106
 OL,11,Greleased early                         
 OL,12,GFreed Taliban captive reveals      C107
 OL,13,Ghostage ordeal                         
-OL,14,GLeaders clash over Brexit in TV    C108
-OL,15,Gdebate                                 
+OL,14,GMorning-after pill 'should be sold C108
+OL,15,Goff the shelf'                         
 OL,16,GAt least 14 killed in Burkina Faso C109
 OL,17,Gchurch attack                          
-OL,18,GLabour pledges to cut rail fares byC110
-OL,19,Ga third                                
+OL,18,GLeaders clash over Brexit in TV    C110
+OL,19,Gdebate                                 
 OL,20,GEleven shot near New Orleans'      C111
 OL,21,GFrench Quarter                         
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7346.53 A-69.90 Fat CLOSE
 OL,15,C techMARK100G5755.25 A-30.81 Fat CLOSE
 OL,16,C Dow Jones  G28051.41A-112.59Fat CLOSE
 OL,17,C Nasdaq     G8403.68 A-41.02 Fat CLOSE
-OL,18,C Nikkei     G23470.96F+177.05Fat 23:30
+OL,18,C Nikkei     G23514.61F+220.70Fat 00:25
 OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -79,65 +79,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G          Sunday Evening             
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G05S%  CLight Rain     
-OL,4,           SZj**gppp  C              
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G04U!ECloudy         
-OL,7,           ^ZU ~ow1  E              
-OL,8,B          ^ZV*y?sp  FSome Cloud    
-OL,9,           ^ZVj)"G 00V}  F             
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG02VtV+"RG-1R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  BClear     
-OL,14,B            ^ZR`  R*G 00R}  B         
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG -1R}zt B       
-OL,17,B              ZRj^VG 01R B       
-OL,18,B            ZRx|^G -1R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 01R/!        
-OL,21,B            ZR zG00R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,1,T]G          Monday Evening             
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G08V%  B               
+OL,4,           VZj**gppp B               
+OL,5,           ^ZT({5                
+OL,6,            ZT!'~G02T!DLight Rain     
+OL,7,           ^ZT ~ow1  D              
+OL,8,B          ^ZV*y?sp  FOvercast      
+OL,9,           ^ZVj)"G 05V}  F             
+OL,10,       ^ZRp|t VxRg0 B             
+OL,11,       ZRnG03RtV+"RG04R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  BCloudy    
+OL,14,B            ^ZU`  R*G 04R}  B         
+OL,15,CSome Cloud  ^ZUk|S            
+OL,16,C            ^ZU'oG 03S}zt B       
+OL,17,B              ZUj^SG 01S B       
+OL,18,B            ZUx|^G 02S'         
+OL,19,             ^ZU! +/'iQqp0        
+OL,20,EClear       ^ZU  tG 01Q/!        
+OL,21,E            ZU zG01U^/s/Q/? AMisty    
+OL,22,            ZU8?' "'    "     A        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G              Monday                 
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G09U%  EOvercast       
-OL,4,           UZj**gppp  E              
+OL,1,T]G             Tuesday                 
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G09R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G06V!FCloudy         
+OL,6,            ZV!'~G05V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 06V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG07VtV+"VG06V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BSunny     
-OL,14,B            ^ZR`  R*G 06R}  B         
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^RG 05R B       
-OL,18,B            ZRx|^G 07R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 06R/!        
-OL,21,B            ZR zG07R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZR*y?sp  BOvercast      
+OL,9,           ^ZRj)"G 05R}  B             
+OL,10,       ^ZVp|t RxUg0 ESome Cloud   
+OL,11,       ZVnG06VtR+"UG06U  E            
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" S *u  CSunny     
+OL,14,B            ^ZS`  S*G 06S}  C         
+OL,15,B            ^ZSk|U            
+OL,16,B            ^ZS'oG 06S}zt B       
+OL,17,B              ZSj^UG 06S B       
+OL,18,B            ZSx|^G 07S'         
+OL,19,             ^ZS! +/'iTqp0        
+OL,20,B            ^ZV  tG 06T/!        
+OL,21,B            ZV zG09V^/s/T/? DMisty    
+OL,22,            ZV8?' "'    "     D        
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +158,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -184,7 +184,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -210,7 +210,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,7 +236,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,32 +262,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLeaders clash over Brexit in TV debate
-OL,5, Leading figures from the UK's political
-OL,6, parties have clashed on Brexit, the NHS
-OL,7, and terror legislation in the latest
-OL,8, televised general election debate.
-OL,10,FLabour's Richard Burgon declined to say
-OL,11,Fduring the ITV programme which way he
-OL,12,Fwould vote in the EU referendum his
-OL,13,Fparty is promising, if it wins power.
-OL,15,FTory Rishi Sunak was pushed to rule out
-OL,16,Fa no-deal Brexit if the Conservatives
-OL,17,Fwon, but did not give a direct answer.
-OL,19,FThe UK goes to the polls on 12
-OL,20,FDecember.
+OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
+OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
+OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
+OL,4,CMorning-after pill 'should be sold off
+OL,5,Cthe shelf'
+OL,6, Women and girls should be able to get
+OL,7, hold of emergency contraception more
+OL,8, easily without the need for a
+OL,9, consultation with a pharmacist, say
+OL,10, women's health experts.
+OL,12,FA report by the Royal College of
+OL,13,FObstetricians and Gynaecologists
+OL,14,Frecommends the morning-after pill
+OL,15,F"should be sold straight off the
+OL,16,Fshelf", like condoms.
+OL,18,FThere are too many barriers to health
+OL,19,Fservices for women in the UK, it says.
+OL,21,FAnd their needs should be a priority.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -313,33 +314,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLabour pledges to cut rail fares by a
-OL,5,Cthird
-OL,6, Labour has announced plans to slash
-OL,7, rail fares by 33% and simplify ticket
-OL,8, prices for part-time workers if it wins
-OL,9, the election on 12 December.
-OL,11,FThe party also wants to make train
-OL,12,Ftravel free for young people under the
-OL,13,Fage of 16 and build a central online
-OL,14,Fbooking portal with no booking fees.
-OL,16,FThe proposal is part of broader plans
-OL,17,Fby the party to nationalise the UK's
-OL,18,Ftrain system.
-OL,20,FConservative Transport Secretary Grant
-OL,21,FShapps said the plan was "desperate".
+OL,4,CLeaders clash over Brexit in TV debate
+OL,5, Leading figures from the UK's political
+OL,6, parties have clashed on Brexit, the NHS
+OL,7, and terror legislation in the latest
+OL,8, televised general election debate.
+OL,10,FLabour's Richard Burgon declined to say
+OL,11,Fduring the ITV programme which way he
+OL,12,Fwould vote in the EU referendum his
+OL,13,Fparty is promising, if it wins power.
+OL,15,FTory Rishi Sunak was pushed to rule out
+OL,16,Fa no-deal Brexit if the Conservatives
+OL,17,Fwon, but did not give a direct answer.
+OL,19,FThe UK goes to the polls on 12
+OL,20,FDecember.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -365,33 +365,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CThousands facing 'several days' without
-OL,5,Cgas
-OL,6, Thousands of homes could be without
-OL,7, heating for "several days" after a gas
-OL,8, main failure in central Scotland. 
-OL,10,FGas infrastructure company SGN said
-OL,11,Fabout 8,000 properties in the Falkirk
-OL,12,Farea had been left without supplies,
-OL,14,FSGN engineers were working to fix
-OL,15,Fequipment that regulates gas pressure
-OL,16,Fbut warned each property would have to
-OL,17,Fbe visited.
-OL,19,FElectric heaters and cookers were being
-OL,20,Foffered to elderly or sick customers,
-OL,21,Fand those with young children. 
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CLabour pledges to cut rail fares by a
+OL,5,Cthird
+OL,6, Labour has announced plans to slash
+OL,7, rail fares by 33% and simplify ticket
+OL,8, prices for part-time workers if it wins
+OL,9, the election on 12 December.
+OL,11,FThe party also wants to make train
+OL,12,Ftravel free for young people under the
+OL,13,Fage of 16 and build a central online
+OL,14,Fbooking portal with no booking fees.
+OL,16,FThe proposal is part of broader plans
+OL,17,Fby the party to nationalise the UK's
+OL,18,Ftrain system.
+OL,20,FConservative Transport Secretary Grant
+OL,21,FShapps said the plan was "desperate".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,32 +417,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan stabbed in fight at city centre
-OL,5,CCineworld
-OL,6, A man has been stabbed after a
-OL,7, disturbance at a Cineworld in
-OL,8, Nottingham city centre.
-OL,10,FNottinghamshire Police were called at
-OL,11,F20:17 BST on Sunday after it was
-OL,12,Freported that a fight had broken out.
-OL,14,FIt is believed that a 20-year-old man
-OL,15,Fwas stabbed during the incident.
-OL,17,FThe man has been taken to hospital but
-OL,18,Fhis injuries are currently not believed
-OL,19,Fto be life-threatening.
-OL,21,FA cordon was set up inside the cinema. 
+OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
+OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
+OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
+OL,4,CThousands facing 'several days' without
+OL,5,Cgas
+OL,6, Thousands of homes could be without
+OL,7, heating for "several days" after a gas
+OL,8, main failure in central Scotland. 
+OL,10,FGas infrastructure company SGN said
+OL,11,Fabout 8,000 properties in the Falkirk
+OL,12,Farea had been left without supplies,
+OL,14,FSGN engineers were working to fix
+OL,15,Fequipment that regulates gas pressure
+OL,16,Fbut warned each property would have to
+OL,17,Fbe visited.
+OL,19,FElectric heaters and cookers were being
+OL,20,Foffered to elderly or sick customers,
+OL,21,Fand those with young children. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -468,33 +469,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLib Dems won't support Labour
-OL,5,Cnationalisations
-OL,6, The Lib Dems would not support Labour's
-OL,7, plans to renationalise key industries
-OL,8, in the event of a hung Parliament, the
-OL,9, party's leader Jo Swinson has said. 
-OL,11,FShe told the BBC Radio 5's Pienaar's
-OL,12,FPolitics the policy was a "distraction"
-OL,13,Fand not "the way forward".
-OL,15,FThe Lib Dems and Labour have both ruled
-OL,16,Fout a coalition deal if there is no
-OL,17,Fclear general election winner.
-OL,19,FAsked if she would try to block Labour
-OL,20,Ffrom forming a minority government, she
-OL,21,Fsaid it was a "fantasy situation".
+OL,4,CMan stabbed in fight at city centre
+OL,5,CCineworld
+OL,6, A man has been stabbed after a
+OL,7, disturbance at a Cineworld in
+OL,8, Nottingham city centre.
+OL,10,FNottinghamshire Police were called at
+OL,11,F20:17 BST on Sunday after it was
+OL,12,Freported that a fight had broken out.
+OL,14,FIt is believed that a 20-year-old man
+OL,15,Fwas stabbed during the incident.
+OL,17,FThe man has been taken to hospital but
+OL,18,Fhis injuries are currently not believed
+OL,19,Fto be life-threatening.
+OL,21,FA cordon was set up inside the cinema. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C00:43:24
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C01:39:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
