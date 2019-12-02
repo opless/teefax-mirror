@@ -5,14 +5,14 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MSecond London Bridge victim named  C104
-OL,6,Gas Saskia Jones                        
+OL,4,MVigil to be held for London Bridge C104
+OL,6,Gvictims                                
 OL,8,GClimate talks to open as 'point of C105
 OL,9,Gno return' looms                       
 OL,10,GJohnson says 74 terror prisoners   C106
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7346.53 A-69.90 Fat CLOSE
 OL,15,C techMARK100G5755.25 A-30.81 Fat CLOSE
 OL,16,C Dow Jones  G28051.41A-112.59Fat CLOSE
 OL,17,C Nasdaq     G8403.68 A-41.02 Fat CLOSE
-OL,18,C Nikkei     G23549.33F+255.42Fat 03:30
+OL,18,C Nikkei     G23527.17F+233.26Fat 04:25
 OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -79,36 +79,36 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Monday Evening             
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G08U%  EOvercast       
-OL,4,           UZj**gppp  E              
-OL,5,           ^ZR({5                
-OL,6,            ZR!'~G02R!BLight Rain     
-OL,7,           ^ZR ~ow1  B              
-OL,8,B          ^ZV*y?sp  FCloudy        
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G08V%  B               
+OL,4,           VZj**gppp B               
+OL,5,           ^ZS({5                
+OL,6,            ZS!'~G02S!CLight Rain     
+OL,7,           ^ZS ~ow1  C              
+OL,8,B          ^ZV*y?sp  FOvercast      
 OL,9,           ^ZVj)"G 05V}  F             
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG03VtV+"VG04V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZT`  V*G 04V} B          
-OL,15,B            ^ZTk|S            
-OL,16,B            ^ZT'oG 03V}zt CMisty  
-OL,17,DSome Cloud    ZTj^SG 01V  C      
-OL,18,D            ZTx|^G 02V'         
-OL,19,             ^ZT! +/'iVqp0        
-OL,20,AClear       ^ZQ  tG 01V/!        
-OL,21,A            ZQ zG01Q^/s/V/? B         
-OL,22,            ZQ8?' "'    "    B         
+OL,10,       ^ZRp|t VxRg0 B             
+OL,11,       ZRnG03RtV+"RG04R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  BCloudy    
+OL,14,B            ^ZT`  R*G 04R}  B         
+OL,15,B            ^ZTk|U            
+OL,16,B            ^ZT'oG 03R}zt B       
+OL,17,DSome Cloud    ZTj^UG 01R B       
+OL,18,D            ZTx|^G 02R'         
+OL,19,             ^ZT! +/'iUqp0        
+OL,20,AClear       ^ZQ  tG 01U/!        
+OL,21,A            ZQ zG01Q^/s/U/? EMisty    
+OL,22,            ZQ8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tuesday                 
@@ -119,17 +119,17 @@ OL,5,           ^ZV({5
 OL,6,            ZV!'~G05V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BOvercast      
-OL,9,           ^ZRj)"G 05R}  B             
+OL,9,           ^ZRj)"G 06R}  B             
 OL,10,       ^ZVp|t RxVg0 B             
 OL,11,       ZVnG06VtR+"VG06V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZS`  V*G 07V} B          
-OL,15,ESome Cloud  ^ZSk|U            
-OL,16,E            ^ZS'oG 06U}zt B       
-OL,17,CSunny         ZSj^UG 06U B       
-OL,18,C            ZSx|^G 07U'         
-OL,19,             ^ZS! +/'iVqp0        
+OL,13,        ZV+%*o!V" S *u  CSome Cloud
+OL,14,B            ^ZU`  S*G 07S}  C         
+OL,15,ESunny       ^ZUk|V            
+OL,16,E            ^ZU'oG 06U}zt B       
+OL,17,B              ZUj^VG 06U B       
+OL,18,B            ZUx|^G 07U'         
+OL,19,             ^ZU! +/'iVqp0        
 OL,20,B            ^ZV  tG 06V/!        
 OL,21,B            ZV zG10V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
@@ -137,7 +137,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,33 +158,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CSecond London Bridge victim named as
-OL,5,CSaskia Jones
-OL,6, The woman killed in Friday's London
-OL,7, Bridge attack has been named by police
-OL,8, as Saskia Jones.
-OL,10,FThe 23-year-old Cambridge University
-OL,11,Fgraduate, from Stratford-upon-Avon, was
-OL,12,Ffatally stabbed alongside another
-OL,13,Fex-student, Jack Merritt.
-OL,15,FThe boss of the venue where the attack
-OL,16,Fbegan which killed the pair said "the
-OL,17,Fbuilding turned into a nightmare".
-OL,19,FToby Williamson, of Fishmongers' Hall,
-OL,20,Fsaid staff who fought attacker Usman
-OL,21,FKhan believed he was wearing a bomb.
+OL,4,CVigil to be held for London Bridge
+OL,5,Cvictims
+OL,6, The Mayor of London is among those
+OL,7, expected to attend a vigil for the
+OL,8, victims of the London Bridge attack in
+OL,9, the capital later.
+OL,11,FJack Merritt, 25, and Saskia Jones, 23,
+OL,12,Fwill be honoured in a remembrance
+OL,13,Fservice at Guildhall Yard in the City.
+OL,15,FIt will pay tribute to those who were
+OL,16,Finjured, the emergency services and
+OL,17,Fmembers of the public who responded.
+OL,19,FIt comes amid an urgent review of the
+OL,20,Flicence conditions of convicted
+OL,21,Fterrorists released from prison.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -209,7 +209,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -235,7 +235,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -261,7 +261,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -287,7 +287,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -313,7 +313,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -339,7 +339,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -365,7 +365,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -390,33 +390,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAt least 14 killed in Burkina Faso
-OL,5,Cchurch attack
-OL,6, At least 14 people have been killed
-OL,7, after gunmen opened fire inside a
-OL,8, church in Burkina Faso. 
-OL,10,FThe victims were attending a service at
-OL,11,Fa church in Hantoukoura, in the eastern
-OL,12,Fpart of the country on Sunday. 
-OL,14,FThe identity of the gunmen is not known
-OL,15,Fand the motive is unclear. 
-OL,17,FHundreds of people have been killed in
-OL,18,Fthe country over the past few years,
-OL,19,Fmostly by jihadist groups, sparking
-OL,20,Fethnic and religious tensions
-OL,21,Fespecially on the border with Mali. 
+OL,4,CAmazon pulls Auschwitz-themed Christmas
+OL,5,Cornaments
+OL,6, Amazon has withdrawn a range of
+OL,7, "Christmas ornaments" displaying images
+OL,8, of a former concentration camp that
+OL,9, sellers had posted on its website. 
+OL,11,FThe move followed a tweet from Poland's
+OL,12,FAuschwitz Memorial calling on the
+OL,13,Fretailer to remove the "disturbing and
+OL,14,Fdisrespectful" merchandise. 
+OL,16,FIt included Christmas tree decorations,
+OL,17,Fa bottle opener and a mouse-pad. 
+OL,19,FAll displayed scenes from the Nazi
+OL,20,Fdeath camp where millions of people
+OL,21,Fwere killed in World War Two. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -442,33 +442,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIraq PM's resignation accepted amid
-OL,5,Cunrest
-OL,6, Iraq's parliament has approved the
-OL,7, resignation of Prime Minister Adel
-OL,8, Abdul Mahdi following weeks of unrest.
-OL,10,FIt is unclear who will take over from
-OL,11,FMr Abdul Mahdi. The parliament speaker
-OL,12,Fsaid President Barham Saleh would be
-OL,13,Fasked to name a new prime minister.
-OL,15,FMeanwhile the Pope has become the
-OL,16,Flatest figure to condemn security
-OL,17,Fforces' use of lethal force.
-OL,19,FSome 400 people have been killed since
-OL,20,Fprotests began in Baghdad and other
-OL,21,Fcities at the start of October.
+OL,4,CAt least 14 killed in Burkina Faso
+OL,5,Cchurch attack
+OL,6, At least 14 people have been killed
+OL,7, after gunmen opened fire inside a
+OL,8, church in Burkina Faso. 
+OL,10,FThe victims were attending a service at
+OL,11,Fa church in Hantoukoura, in the eastern
+OL,12,Fpart of the country on Sunday. 
+OL,14,FThe identity of the gunmen is not known
+OL,15,Fand the motive is unclear. 
+OL,17,FHundreds of people have been killed in
+OL,18,Fthe country over the past few years,
+OL,19,Fmostly by jihadist groups, sparking
+OL,20,Fethnic and religious tensions
+OL,21,Fespecially on the border with Mali. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -494,26 +494,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C04:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C05:40:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CThree jailed over crash that sparked
-OL,5,Cmass protests
-OL,6, Three people have been handed life
-OL,7, sentences in Bangladesh over a bus
-OL,8, crash that killed two young students
-OL,9, and sparked anti-government protests.
-OL,11,FDemonstrations hit the capital Dhaka
-OL,12,Flast year after two schoolchildren were
-OL,13,Frun over and killed by a speeding bus.
-OL,15,FTens of thousands rallied, demanding
-OL,16,Fthat the government take action to
-OL,17,Fimprove road safety.
-OL,19,FThe city was brought to a standstill,
-OL,20,Fand more than 150 people were injured
-OL,21,Fas authorities waged a heavy crackdown.
+OL,4,CIraq PM's resignation accepted amid
+OL,5,Cunrest
+OL,6, Iraq's parliament has approved the
+OL,7, resignation of Prime Minister Adel
+OL,8, Abdul Mahdi following weeks of unrest.
+OL,10,FIt is unclear who will take over from
+OL,11,FMr Abdul Mahdi. The parliament speaker
+OL,12,Fsaid President Barham Saleh would be
+OL,13,Fasked to name a new prime minister.
+OL,15,FMeanwhile the Pope has become the
+OL,16,Flatest figure to condemn security
+OL,17,Fforces' use of lethal force.
+OL,19,FSome 400 people have been killed since
+OL,20,Fprotests began in Baghdad and other
+OL,21,Fcities at the start of October.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
