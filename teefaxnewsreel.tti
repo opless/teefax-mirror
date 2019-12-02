@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -23,16 +23,16 @@ OL,14,GMorning-after pill 'should be sold C108
 OL,15,Goff the shelf'                         
 OL,16,GAustralian blogger being 'shackled C109
 OL,17,Gin China'                              
-OL,18,GBoy, 16, arrested over stabbing at C110
-OL,19,GCineworld                              
-OL,20,GAmazon pulls Auschwitz-themed      C111
-OL,21,GChristmas ornaments                    
+OL,18,GBoy, 16, arrested over Cineworld   C110
+OL,19,Gstabbing                               
+OL,20,GHuawei's Meng details life on bail C111
+OL,21,Gin Canada                              
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,65 +50,64 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat CLOSEGWinnersF19GLosersA82
-OL,14,C FTSE100    G7346.53 A-69.90 Fat CLOSE
-OL,15,C techMARK100G5755.25 A-30.81 Fat CLOSE
+OL,12,  FTSE100Fat 07:35GWinnersF69GLosersA32
+OL,14,C FTSE100    G7377.35 F+30.82 Fat 07:35
+OL,15,C techMARK100G5760.73 F+5.48  Fat 07:35
 OL,16,C Dow Jones  G28051.41A-112.59Fat CLOSE
 OL,17,C Nasdaq     G8403.68 A-41.02 Fat CLOSE
-OL,18,C Nikkei     G23529.50F+235.59Fat CLOSE
-OL,19,C DJEurStoxx G3703.58 A-0.90  Fat CLOSE
+OL,18,C Nikkei     G23529.50F+235.59Fat 07:34
+OL,19,C DJEurStoxx G3717.18 F+13.60 Fat 07:35
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,M'Astonishing how often Gunners     G303
-OL,6,FMessi? Ronaldo? Van Dijk? Men's    G304
-OL,7,FBronze? Hegerberg? Rapinoe?        G305
-OL,8,FVan Dijk, Grealish, Aubameyang,    G306
-OL,9,FKelechi Iheanacho grabs late       G307
-OL,10,FRed Devils held by resolute VillansG308
-OL,12,FSteven Gerrard's side one goal     G309
-OL,13,FFreddie Ljungberg says Gunners can G310
+OL,6,FVan Dijk, Grealish, Aubameyang,    G304
+OL,7,FRed Devils held by resolute VillansG305
+OL,8,FMessi? Ronaldo? Van Dijk? Men's    G306
+OL,9,FBronze? Hegerberg? Rapinoe?        G307
+OL,10,FSteven Gerrard's side one goal     G308
+OL,12,FCan you name all players to have   G309
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G09S%  CHeavy Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G09U%  EHeavy Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G07V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 07V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG07VtV+"VG05V B             
+OL,8,B          ^ZS*y?sp  CLight Rain    
+OL,9,           ^ZSj)"G 07S}  C             
+OL,10,       ^ZVp|t SxVg0 B             
+OL,11,       ZVnG07VtS+"VG05V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" R *u  BSome Cloud
 OL,14,B            ^ZR`  R*G 05R}  B         
-OL,15,B            ^ZRk|U            
+OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^UG 05R B       
-OL,18,B            ZRx|^G 07R'         
-OL,19,             ^ZR! +/'iUqp0        
-OL,20,B            ^ZR  tG 05U/!        
-OL,21,B            ZR zG07R^/s/U/? ESunny    
-OL,22,            ZR8?' "'    "     E        
+OL,17,B              ZRj^RG 05R B       
+OL,18,B            ZRx|^G 06R'         
+OL,19,             ^ZR! +/'iTqp0        
+OL,20,B            ^ZR  tG 05T/!        
+OL,21,B            ZR zG07R^/s/T/? DSunny    
+OL,22,            ZR8?' "'    "     D        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -120,24 +119,24 @@ OL,6,            ZV!'~G05V!FCloudy
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 06V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG06VtV+"VG06V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
+OL,10,       ^ZVp|t VxRg0 B             
+OL,11,       ZVnG06VtV+"RG06R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZR`  V*G 07V} B          
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 06R}zt B       
-OL,17,BSome Cloud    ZRj^RG 06R B       
-OL,18,B            ZRx|^G 08R'         
+OL,15,CSunny       ^ZRk|V            
+OL,16,C            ^ZR'oG 06S}zt B       
+OL,17,B              ZRj^VG 06S B       
+OL,18,B            ZRx|^G 08S'         
 OL,19,             ^ZR! +/'iVqp0        
-OL,20,B            ^ZV  tG 06V/!        
-OL,21,B            ZV zG10V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,20,BSome Cloud  ^ZR  tG 06V/!        
+OL,21,B            ZR zG10R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +157,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -173,9 +172,9 @@ OL,9, the capital later.
 OL,11,FJack Merritt, 25, and Saskia Jones, 23,
 OL,12,Fwill be honoured in a remembrance
 OL,13,Fservice at Guildhall Yard in the City.
-OL,15,FIt will pay tribute to those who were
-OL,16,Finjured, the emergency services and
-OL,17,Fmembers of the public who responded.
+OL,15,FThey were stabbed to death by convicted
+OL,16,Fterrorist Usman Khan, 28, at a prisoner
+OL,17,Frehabilitation event on Friday.
 OL,19,FIt comes amid an urgent review of the
 OL,20,Flicence conditions of convicted
 OL,21,Fterrorists released from prison.
@@ -184,7 +183,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -209,7 +208,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -235,7 +234,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -245,23 +244,23 @@ OL,4,CTrump declines to attend impeachment
 OL,5,Chearing
 OL,6, The White House has said US President
 OL,7, Donald Trump and his lawyers will not
-OL,8, attend an impeachment hearing in the
-OL,9, House of Representatives on Wednesday. 
-OL,11,FMr Trump could not be expected to
-OL,12,Fparticipate "fairly", White House
-OL,13,Fcounsel Pat Cipollone said in a letter
-OL,14,Fto the House Judiciary Committee. 
-OL,16,FLast week, Chairman Jerrold Nadler said
-OL,17,FMr Trump could either attend or "stop
-OL,18,Fcomplaining about the process".
-OL,20,FThe White House did not say whether Mr
-OL,21,FTrump would attend a second hearing.
+OL,8, attend an impeachment hearing on
+OL,9, Wednesday, citing a lack of "fairness".
+OL,11,FThe hearing by the House of
+OL,12,FRepresentatives Judiciary Committee
+OL,13,Fmarks the next stage of the probe, with
+OL,14,Flegal experts giving testimony that
+OL,15,Fcould lead to a vote of impeachment.
+OL,17,FIt is alleged the president pressured
+OL,18,FUkraine to conduct two investigations
+OL,19,Ffor his own political gain.
+OL,21,FMr Trump has denied any wrongdoing.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -287,7 +286,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -313,59 +312,59 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoy, 16, arrested over stabbing at
-OL,5,CCineworld
-OL,6, A boy aged 16 and a 23-year-old man
-OL,7, have been arrested in connection with a
-OL,8, reported stabbing in Nottingham city
-OL,9, centre.
-OL,11,FPolice were called to Cineworld at
-OL,12,Faround 20:15 BST on Sunday to reports
-OL,13,Fof a stabbing after a fight in the
-OL,14,Fcomplex.
-OL,16,FA 20-year-old man was taken to hospital
-OL,17,Ffor non life-threatening injuries and
-OL,18,Fhe has now been released.  
-OL,20,FThe man is expected to make a full
-OL,21,Frecovery.
+OL,4,CBoy, 16, arrested over Cineworld
+OL,5,Cstabbing
+OL,6, Two people have been arrested over a
+OL,7, stabbing at a cinema in Nottingham city
+OL,8, centre.
+OL,10,FA 20-year-old man was taken to hospital
+OL,11,Ffrom Cineworld at 20:15 GMT on Sunday,
+OL,12,Fafter a fight at the entertainment
+OL,13,Fcomplex.
+OL,15,FPolice said his injuries were not
+OL,16,Flife-threatening and he was expected to
+OL,17,Fmake a full recovery.
+OL,19,FA 16-year-old boy and a 23-year-old man
+OL,20,Fare in custody and officers have
+OL,21,Frecovered a knife.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAmazon pulls Auschwitz-themed Christmas
-OL,5,Cornaments
-OL,6, Amazon has withdrawn a range of
-OL,7, "Christmas ornaments" displaying images
-OL,8, of a former concentration camp that
-OL,9, sellers had posted on its website. 
-OL,11,FThe move followed a tweet from Poland's
-OL,12,FAuschwitz Memorial calling on the
-OL,13,Fretailer to remove the "disturbing and
-OL,14,Fdisrespectful" merchandise. 
-OL,16,FIt included Christmas tree decorations,
-OL,17,Fa bottle opener and a mouse-pad. 
-OL,19,FAll displayed scenes from the Nazi
-OL,20,Fdeath camp where millions of people
-OL,21,Fwere killed in World War Two. 
+OL,4,CHuawei's Meng details life on bail in
+OL,5,CCanada
+OL,6, A Chinese Huawei executive who was
+OL,7, arrested in Canada a year ago has
+OL,8, published an open letter detailing her
+OL,9, life on bail and thanking supporters.
+OL,11,FMeng Wanzhou - the chief financial
+OL,12,Fofficer and daughter of Huawei's
+OL,13,Ffounder - is fighting extradition to
+OL,14,Fthe US on charges of violating
+OL,15,Fsanctions against Iran.
+OL,17,FIn her widely read letter, she said she
+OL,18,Fhad time to "read a book" and "complete
+OL,19,Fan oil painting" while on bail. 
+OL,21,FHer arrest sparked a diplomatic row. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -390,33 +389,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMaltese prime minister to resign in new
-OL,5,Cyear
-OL,6, Maltese Prime Minister Joseph Muscat
-OL,7, has announced on national TV that he
-OL,8, will step down in the new year, amid a
-OL,9, crisis over a murdered journalist.   
-OL,11,FHe said he would ask the ruling Labour
-OL,12,FParty to begin the process to choose
-OL,13,Fhis successor on 12 January. 
-OL,15,FDemonstrators have demanded his
-OL,16,Fimmediate resignation over the inquiry
-OL,17,Finto Daphne Caruana Galizia's death.
-OL,19,FShe was killed by a car bomb in 2017 as
-OL,20,Fshe investigated corruption among
-OL,21,FMalta's business and political elite.
+OL,4,CAmazon pulls Auschwitz-themed Christmas
+OL,5,Cornaments
+OL,6, Amazon has withdrawn a range of
+OL,7, "Christmas ornaments" displaying images
+OL,8, of a former concentration camp that
+OL,9, sellers had posted on its website. 
+OL,11,FThe move followed a tweet from Poland's
+OL,12,FAuschwitz Memorial calling on the
+OL,13,Fretailer to remove the "disturbing and
+OL,14,Fdisrespectful" merchandise. 
+OL,16,FIt included Christmas tree decorations,
+OL,17,Fa bottle opener and a mouse-pad. 
+OL,19,FAll displayed scenes from the Nazi
+OL,20,Fdeath camp where millions of people
+OL,21,Fwere killed in World War Two. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -442,31 +441,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CCyber Monday set to deliver 'record US
-OL,5,Csales'
-OL,6, Retailers were poised for
-OL,7, record-breaking Cyber Monday sales
-OL,8, following blockbuster spending in this
-OL,9, year's Black Friday events, a forecast
-OL,10, showed. 
-OL,12,FConsumers in the US were expected to
-OL,13,Fspend $9.4bn (#7.3bn) online on Monday,
-OL,14,Faccording to Adobe Analytics.
-OL,16,FThe report found Black Friday, a global
-OL,17,Fshopping event held last week, raked in
-OL,18,Fa record $7.4bn in the US.
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CThree French rescuers die in helicopter
+OL,5,Ccrash
+OL,6, Three rescue workers on a mission to
+OL,7, help people caught in floods in
+OL,8, southern France were killed when their
+OL,9, helicopter crashed near Marseille.
+OL,11,FThe EC145 aircraft had been on a rescue
+OL,12,Fand reconnaissance flight in the Var
+OL,13,Fregion on Sunday night when contact
+OL,14,Fwith it was lost, officials said.
+OL,16,FThe crashed helicopter and the three
+OL,17,Fcrew were found near the town of Rove.
+OL,18,FAn investigation is under way.
+OL,20,FHeavy rain in south-east France has led
+OL,21,Fto severe flooding and several deaths.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -492,26 +493,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C07:44:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C08:43:51
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIraq PM's resignation accepted amid
-OL,5,Cunrest
-OL,6, Iraq's parliament has approved the
-OL,7, resignation of Prime Minister Adel
-OL,8, Abdul Mahdi following weeks of unrest.
-OL,10,FIt is unclear who will take over from
-OL,11,FMr Abdul Mahdi. The parliament speaker
-OL,12,Fsaid President Barham Saleh would be
-OL,13,Fasked to name a new prime minister.
-OL,15,FMeanwhile the Pope has become the
-OL,16,Flatest figure to condemn security
-OL,17,Fforces' use of lethal force.
-OL,19,FSome 400 people have been killed since
-OL,20,Fprotests began in Baghdad and other
-OL,21,Fcities at the start of October.
+OL,4,CMaltese prime minister to resign in new
+OL,5,Cyear
+OL,6, Maltese Prime Minister Joseph Muscat
+OL,7, has announced on national TV that he
+OL,8, will step down in the new year, amid a
+OL,9, crisis over a murdered journalist.   
+OL,11,FHe said he would ask the ruling Labour
+OL,12,FParty to begin the process to choose
+OL,13,Fhis successor on 12 January. 
+OL,15,FDemonstrators have demanded his
+OL,16,Fimmediate resignation over the inquiry
+OL,17,Finto Daphne Caruana Galizia's death.
+OL,19,FShe was killed by a car bomb in 2017 as
+OL,20,Fshe investigated corruption among
+OL,21,FMalta's business and political elite.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
