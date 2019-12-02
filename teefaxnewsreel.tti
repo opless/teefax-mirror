@@ -5,14 +5,14 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MJohnson and Corbyn to attend LondonC104
-OL,6,GBridge vigil                           
+OL,4,MVigils held for London Bridge      C104
+OL,6,Gattack victims                         
 OL,8,GClimate talks open as 'point of no C105
 OL,9,Greturn' looms                          
 OL,10,GJohnson says 74 terror prisoners   C106
@@ -25,14 +25,14 @@ OL,16,GAustralian blogger being 'shackled C109
 OL,17,Gin China'                              
 OL,18,GBoy, 16, arrested over Cineworld   C110
 OL,19,Gstabbing                               
-OL,20,GWoman survives 12 days in outback  C111
-OL,21,Gon groundwater                         
+OL,20,GIndia MP calls for 'lynching' of   C111
+OL,21,Gmurdered vet's rapists                 
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 09:30GWinnersF59GLosersA42
-OL,14,C FTSE100    G7374.86 F+28.33 Fat 09:30
-OL,15,C techMARK100G5758.75 F+3.50  Fat 09:30
+OL,12,  FTSE100Fat 10:30GWinnersF53GLosersA48
+OL,14,C FTSE100    G7365.31 F+18.78 Fat 10:30
+OL,15,C techMARK100G5753.82 A-1.43  Fat 10:30
 OL,16,C Dow Jones  G28051.41A-112.59Fat CLOSE
 OL,17,C Nasdaq     G8403.68 A-41.02 Fat CLOSE
 OL,18,C Nikkei     G23529.50F+23,558Fat 07:44
-OL,19,C DJEurStoxx G3722.99 F+19.41 Fat 09:30
+OL,19,C DJEurStoxx G3710.33 F+6.75  Fat 10:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -77,7 +77,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -85,28 +85,28 @@ OL,2,           ^ZR 4`~|}            G 1/2
 OL,3,           ZR`?0~G09R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G06V!FCloudy         
+OL,6,            ZV!'~G07V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BHeavy Rain    
-OL,9,           ^ZRj)"G 06R}  B             
+OL,9,           ^ZRj)"G 07R}  B             
 OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG06VtR+"VG05V B             
+OL,11,       ZVnG07VtR+"VG05V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" U *u  ESunny     
-OL,14,B            ^ZS`  U*G 05U}  E         
-OL,15,B            ^ZSk|U            
-OL,16,B            ^ZS'oG 05V}zt B       
-OL,17,CSome Cloud    ZSj^UG 05V B       
-OL,18,C            ZSx|^G 06V'         
-OL,19,             ^ZS! +/'iUqp0        
+OL,14,B            ^ZU`  U*G 05U}  E         
+OL,15,CSome Cloud  ^ZUk|U            
+OL,16,C            ^ZU'oG 05S}zt B       
+OL,17,B              ZUj^UG 05S B       
+OL,18,B            ZUx|^G 06S'         
+OL,19,             ^ZU! +/'iUqp0        
 OL,20,B            ^ZU  tG 05U/!        
-OL,21,B            ZU zG07U^/s/U/? B         
+OL,21,B            ZU zG06U^/s/U/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -118,24 +118,24 @@ OL,6,            ZV!'~G05V!FCloudy
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BOvercast      
 OL,9,           ^ZRj)"G 06R}  B             
-OL,10,       ^ZVp|t RxUg0 ESome Cloud   
-OL,11,       ZVnG06VtR+"UG06U  E            
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" U *u  B          
-OL,14,B            ^ZS`  U*G 07U} B          
+OL,10,       ^ZUp|t RxUg0 ESome Cloud   
+OL,11,       ZUnG06UtR+"UG06U  E            
+OL,12,       ZU+U`4U+|0             
+OL,13,        ZU+%*o!U" S *u  CSunny     
+OL,14,B            ^ZS`  S*G 07S}  C         
 OL,15,B            ^ZSk|U            
-OL,16,B            ^ZS'oG 06U}zt B       
-OL,17,B              ZSj^UG 06U B       
-OL,18,B            ZSx|^G 08U'         
-OL,19,             ^ZS! +/'iUqp0        
-OL,20,CSunny       ^ZS  tG 06U/!        
-OL,21,C            ZS zG10S^/s/U/? B         
-OL,22,            ZS8?' "'    "    B         
+OL,16,B            ^ZS'oG 06S}zt B       
+OL,17,B              ZSj^UG 06S B       
+OL,18,B            ZSx|^G 08S'         
+OL,19,             ^ZS! +/'iVqp0        
+OL,20,B            ^ZU  tG 06V/!        
+OL,21,B            ZU zG10U^/s/V/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -156,33 +156,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CJohnson and Corbyn to attend London
-OL,5,CBridge vigil
-OL,6, Boris Johnson and Jeremy Corbyn are
-OL,7, among those expected to attend a vigil
-OL,8, for the victims of the London Bridge
-OL,9, attack in the capital later.
-OL,11,FJack Merritt, 25, and Saskia Jones, 23,
-OL,12,Fwill be honoured in a remembrance
-OL,13,Fservice at Guildhall Yard in the City.
-OL,15,FThey were stabbed to death by convicted
-OL,16,Fterrorist Usman Khan, 28, at a prisoner
-OL,17,Frehabilitation event on Friday.
-OL,19,FIt comes amid an urgent review of the
-OL,20,Flicence conditions of convicted
-OL,21,Fterrorists released from prison.
+OL,4,CVigils held for London Bridge attack
+OL,5,Cvictims
+OL,6, Vigils for the victims of the London
+OL,7, Bridge attack have been held in London
+OL,8, and Cambridge.
+OL,10,FJack Merritt, 25, and Saskia Jones, 23,
+OL,11,Fwere commemorated in a service at
+OL,12,FGuildhall Yard in the City of London.
+OL,14,FThey were stabbed to death by convicted
+OL,15,Fterrorist Usman Khan, 28, at a prisoner
+OL,16,Frehabilitation conference on Friday.
+OL,18,FThe service came as more details
+OL,19,Femerged of how people at the event
+OL,20,Ftried to keep the attacker at bay with
+OL,21,Fmakeshift weapons.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -207,7 +207,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -233,7 +233,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -259,7 +259,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -285,7 +285,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -311,7 +311,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -337,33 +337,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CWoman survives 12 days in outback on
-OL,5,Cgroundwater
-OL,6, A woman rescued after 12 days stranded
-OL,7, in Australia's remote outback said she
-OL,8, survived by eating biscuits and
-OL,9, drinking from a watering hole.
-OL,11,FTamra McBeath-Riley was with two other
-OL,12,Fpeople who became stranded when their
-OL,13,Fcar got stuck in a riverbed. 
-OL,15,FThe group split up to get help. Ms
-OL,16,FMcBeath-Riley was found near her car
-OL,17,Fbut her companions are still missing.
-OL,19,FPolice said they would be "severely
-OL,20,Fdehydrated" after being stranded in the
-OL,21,Foutback for 13 days. 
+OL,4,CIndia MP calls for 'lynching' of
+OL,5,Cmurdered vet's rapists
+OL,6, An Indian MP has said the men who raped
+OL,7, and murdered a 27-year-old vet in the
+OL,8, city of Hyderabad should be "lynched".
+OL,10,F"I know it sounds harsh, but these kind
+OL,11,Fof people should be brought out in
+OL,12,Fpublic and lynched," Jaya Bachchan said
+OL,13,Fin parliament.
+OL,15,FSeveral other MPs from across the
+OL,16,Fpolitical spectrum also condemned the
+OL,17,Fbrutal gang-rape and murder.
+OL,19,FProtests were held across India after
+OL,20,Fthe victim's charred remains were found
+OL,21,Ffollowing her disappearance last week. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -388,33 +388,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIndia MP calls for 'lynching' of
-OL,5,Cmurdered vet's rapists
-OL,6, An Indian MP has said the men who raped
-OL,7, and murdered a 27-year-old vet in the
-OL,8, city of Hyderabad should be "lynched".
-OL,10,F"I know it sounds harsh, but these kind
-OL,11,Fof people should be brought out in
-OL,12,Fpublic and lynched," Jaya Bachchan said
-OL,13,Fin parliament.
-OL,15,FSeveral other MPs from across the
-OL,16,Fpolitical spectrum also condemned the
-OL,17,Fbrutal gang-rape and murder.
-OL,19,FProtests were held across India after
-OL,20,Fthe victim's charred remains were found
-OL,21,Ffollowing her disappearance last week. 
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,C'Outstanding' conductor Jansons dies at
+OL,5,C76
+OL,6, Tributes have been paid to conductor
+OL,7, Mariss Jansons, who led some of the
+OL,8, world's most renowned orchestras, after
+OL,9, his death at the age of 76.
+OL,11,FThe Latvian had been at the helm of the
+OL,12,FBavarian Radio Symphony Orchestra since
+OL,13,F2003, after leading other ensembles
+OL,14,Fincluding the Amsterdam Concertgebouw.
+OL,16,FJansons died at home in St Petersburg,
+OL,17,FRussia, on Sunday.
+OL,19,FThe city's governor, Alexander Beglov,
+OL,20,Fdescribed him in a statement as "an
+OL,21,Foutstanding conductor".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -440,33 +440,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAmazon pulls Auschwitz-themed Christmas
-OL,5,Cornaments
-OL,6, Amazon has withdrawn a range of
-OL,7, "Christmas ornaments" displaying images
-OL,8, of a former concentration camp that
-OL,9, sellers had posted on its website. 
-OL,11,FThe move followed a tweet from Poland's
-OL,12,FAuschwitz Memorial calling on the
-OL,13,Fretailer to remove the "disturbing and
-OL,14,Fdisrespectful" merchandise. 
-OL,16,FIt included Christmas tree decorations,
-OL,17,Fa bottle opener and a mouse-pad. 
-OL,19,FAll displayed scenes from the Nazi
-OL,20,Fdeath camp where mass killing was
-OL,21,Fconducted in World War Two. 
+OL,4,CThieves snatch medals and gold from
+OL,5,CStasi Museum
+OL,6, Burglars have stolen communist-era
+OL,7, medals and jewellery from the Stasi
+OL,8, Museum in Berlin, housed in the former
+OL,9, secret police headquarters.
+OL,11,FThe break-in happened just six days
+OL,12,Fafter diamonds worth millions of euros
+OL,13,Fwere stolen from the Green Vault, part
+OL,14,Fof a former royal palace in Dresden.
+OL,16,FThe items stolen in Berlin are worth "a
+OL,17,Ffew thousand euros", museum director
+OL,18,FJorg Drieselmann told the BBC.
+OL,20,FThe Stasi had a huge network of spies
+OL,21,Fand informers in former East Germany.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -492,25 +492,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C10:42:15
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C11:41:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CThirteen Pakistanis die in Jordan farm
-OL,5,Cfire
-OL,6, Thirteen Pakistani nationals, including
-OL,7, eight children, have died in a fire at
-OL,8, a farm in Jordan, authorities said.
-OL,10,FThe fire swept through corrugated iron
-OL,11,Fsheds housing labourers at the farm in
-OL,12,FSouth Shouna, a rural area west of the
-OL,13,Fcapital Amman, early on Monday.
-OL,15,FThree other people were injured and
-OL,16,Ftaken to hospital, according to civil
-OL,17,Fdefence officials.
-OL,19,FPolice said an investigation had been
-OL,20,Flaunched into the incident.
+OL,4,CAmazon pulls Auschwitz-themed Christmas
+OL,5,Cornaments
+OL,6, Amazon has withdrawn a range of
+OL,7, "Christmas ornaments" displaying images
+OL,8, of a former concentration camp that
+OL,9, sellers had posted on its website. 
+OL,11,FThe move followed a tweet from Poland's
+OL,12,FAuschwitz Memorial calling on the
+OL,13,Fretailer to remove the "disturbing and
+OL,14,Fdisrespectful" merchandise. 
+OL,16,FIt included Christmas tree decorations,
+OL,17,Fa bottle opener and a mouse-pad. 
+OL,19,FAll displayed scenes from the Nazi
+OL,20,Fdeath camp where mass killing was
+OL,21,Fconducted in World War Two. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
