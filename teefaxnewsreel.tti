@@ -5,22 +5,22 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MBoy, 12, dead and five hurt in     C104
+OL,4,MBoy, 12, killed in 'deliberate'    C104
 OL,6,Ghit-and-run crash                      
 OL,8,GClimate summit told of nation's    C105
 OL,9,G'fight to death'                       
-OL,10,GI saw things I can't unsee - LondonC106
-OL,11,GBridge witness                         
+OL,10,GPrince Andrew must testify in      C106
+OL,11,Gcourt, lawyer says                     
 OL,12,GPrince Andrew accuser calls for    C107
 OL,13,Gpublic support                         
-OL,14,GPrince Andrew accuser calls for    C108
-OL,15,Gpublic support                         
+OL,14,GI saw things I can't unsee - LondonC108
+OL,15,GBridge witness                         
 OL,16,GTyphoon Kammuri slams into         C109
 OL,17,GPhilippines                            
 OL,18,GTriple killer not guilty of murder C110
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -53,92 +53,94 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF18GLosersA83
 OL,14,C FTSE100    G7285.94 A-60.59 Fat CLOSE
 OL,15,C techMARK100G5714.32 A-40.93 Fat CLOSE
-OL,16,C Dow Jones  G27783.04A-268.37Fat 20:30
-OL,17,C Nasdaq     G8309.26 A-94.42 Fat 20:30
+OL,16,C Dow Jones  G27783.04A-268.37Fat CLOSE
+OL,17,C Nasdaq     G8309.26 A-94.42 Fat CLOSE
 OL,18,C Nikkei     G23529.50F+23,558Fat 07:44
 OL,19,C DJEurStoxx G3626.66 A-76.92 Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MBarcelona forward wins Ballon d'Or G303
-OL,6,FLiverpool draw Everton in third    G304
-OL,7,FMegan Rapinoe wins Women's Ballon  G305
-OL,8,FLawro vs University Challenge star G306
-OL,9,FBrendan Rodgers rules out leaving  G307
-OL,10,FMet police investigate alleged     G308
-OL,12,FWatford place Hayden Mullins in    G309
-OL,13,FIs Jack Grealish playing himself   G310
-OL,14,FPlayers threaten strike if wages   G311
+OL,6,FMegan Rapinoe wins Women's Ballon  G304
+OL,7,FCharlie Austin's penalty sends     G305
+OL,8,FLiverpool draw Everton in third    G306
+OL,9,FPep Guardiola rules out January    G307
+OL,10,FLawro vs University Challenge star G308
+OL,12,FWhy is it happening? When are they G309
+OL,13,FBrendan Rodgers rules out leaving  G310
+OL,14,FMet police investigate alleged     G311
+OL,15,FWatford place Hayden Mullins in    G312
+OL,17,FPlayers threaten strike if wages   G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G08S%  COvercast       
-OL,4,           SZj**gppp  C              
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G03U!ELight Rain     
-OL,7,           ^ZU ~ow1  E              
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G08R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZS({5                
+OL,6,            ZS!'~G03S!CLight Rain     
+OL,7,           ^ZS ~ow1  C              
 OL,8,B          ^ZV*y?sp  FCloudy        
-OL,9,           ^ZVj)"G 06V}  F             
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG04VtV+"VG05V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 05V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 02V}zt B       
-OL,17,B              ZRj^VG 01V B       
-OL,18,B            ZRx|^G 01V'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,BSome Cloud  ^ZR  tG 03R/!        
-OL,21,B            ZR zG02R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,9,           ^ZVj)"G 05V}  F             
+OL,10,       ^ZVp|t VxRg0 BOvercast     
+OL,11,       ZVnG04VtV+"RG05R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" V *u  B          
+OL,14,B            ^ZV`  V*G 04V} B          
+OL,15,B            ^ZVk|U            
+OL,16,B            ^ZV'oG 02V}zt B       
+OL,17,B              ZVj^UG 01V B       
+OL,18,B            ZVx|^G 01V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,ESome Cloud  ^ZU  tG 02V/!        
+OL,21,E            ZU zG01U^/s/V/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G09R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G09U%  EOvercast       
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G05V!FCloudy         
+OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BOvercast      
-OL,9,           ^ZRj)"G 06R}  B             
-OL,10,       ^ZVp|t RxUg0 B             
-OL,11,       ZVnG06VtR+"UG06U B             
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" S *u  CSunny     
-OL,14,B            ^ZV`  S*G 07S}  C         
-OL,15,ESome Cloud  ^ZVk|V            
-OL,16,E            ^ZV'oG 07U}zt B       
-OL,17,B              ZVj^VG 07U B       
-OL,18,B            ZVx|^G 08U'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 07V/!        
-OL,21,B            ZV zG10V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 06V} B              
+OL,10,       ^ZVp|t VxRg0 BSome Cloud   
+OL,11,       ZVnG06VtV+"RG06R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" S *u  CSunny     
+OL,14,B            ^ZR`  S*G 07S}  C         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 06R}zt B       
+OL,17,B              ZRj^RG 06R B       
+OL,18,B            ZRx|^G 08R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 07R/!        
+OL,21,B            ZR zG10R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,33 +161,33 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoy, 12, dead and five hurt in
+OL,4,CBoy, 12, killed in 'deliberate'
 OL,5,Chit-and-run crash
 OL,6, A 12-year-old boy has died and five
-OL,7, others were injured in a hit-and-run
-OL,8, crash near a school.
+OL,7, others were injured in a "deliberate"
+OL,8, hit-and-run crash near a school.
 OL,10,FThe crash happened near Debden Park
 OL,11,FHigh School in Loughton, Essex, at
 OL,12,Fabout 15:20 GMT.
-OL,14,FEssex Police said it had launched a
-OL,15,Fmurder investigation.
-OL,17,FTwo 15-year-old boys, one 13-year-old
-OL,18,Fboy, a 16-year-old girl and a
-OL,19,F53-year-old woman were also hurt but
-OL,20,Ftheir injuries are not believed to be
-OL,21,Flife-threatening.
+OL,14,FTwo 15-year-old boys, a 13-year-old
+OL,15,Fboy, a 16-year-old girl and a
+OL,16,F53-year-old woman were also hurt but
+OL,17,Ftheir injuries are not believed to be
+OL,18,Flife-threatening.
+OL,20,FPolice have launched a murder inquiry
+OL,21,Fand want to speak to Terry Glover, 51.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -211,33 +213,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CI saw things I can't unsee - London
-OL,5,CBridge witness
-OL,6, An American academic has given a
-OL,7, graphic account of the moment the
-OL,8, London Bridge stabbing attack began,
-OL,9, saying it "felt like a warzone".
-OL,11,FBryonn Bain told the BBC that victim
-OL,12,FJack Merritt had been the first person
-OL,13,Fto confront Usman Khan when he launched
-OL,14,Fhis knife assault during a prisoner
-OL,15,Frehabilitation conference on Friday.
-OL,17,F"I saw people die, I saw things that I
-OL,18,Fwill never be able to unsee," he said.
-OL,20,FVigils have taken place for Mr Merritt,
-OL,21,F25, and second victim Saskia Jones, 23.
+OL,4,CPrince Andrew must testify in court,
+OL,5,Clawyer says
+OL,6, Five women who accuse Jeffrey Epstein
+OL,7, of abusing them say Prince Andrew
+OL,8, witnessed how people were given
+OL,9, massages at the sex offender's homes.
+OL,11,FThe lawyer for the women has told BBC
+OL,12,FPanorama he plans to serve subpoenas to
+OL,13,Fforce the Duke of York to testify as a
+OL,14,Fwitness in all five cases.
+OL,16,FHe says the prince could have important
+OL,17,Finformation about sex trafficking.
+OL,19,FThe prince says he did not witness or
+OL,20,Fsuspect any suspicious behaviour during
+OL,21,Fvisits to Mr Epstein's homes.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -263,33 +265,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CPrince Andrew accuser calls for public
-OL,5,Csupport
-OL,6, A US woman who says she was brought to
-OL,7, Britain aged 17 to have sex with Prince
-OL,8, Andrew has implored the British public
-OL,9, to "stand beside her" and "not accept
-OL,10, what has happened to her".
-OL,12,FVirginia Giuffre, one of convicted sex
-OL,13,Foffender Jeffrey Epstein's accusers,
-OL,14,Fsays she was trafficked to London by
-OL,15,FEpstein in 2001.
-OL,17,FShe describes how Epstein's girlfriend
-OL,18,Ftold her what "to do for Andrew".
-OL,20,FThe prince has "categorically" denied
-OL,21,Fany sexual contact with Ms Giuffre.
+OL,4,CI saw things I can't unsee - London
+OL,5,CBridge witness
+OL,6, An American academic has given a
+OL,7, graphic account of the moment the
+OL,8, London Bridge stabbing attack began,
+OL,9, saying it "felt like a warzone".
+OL,11,FBryonn Bain told the BBC that victim
+OL,12,FJack Merritt had been the first person
+OL,13,Fto confront Usman Khan when he launched
+OL,14,Fhis knife assault during a prisoner
+OL,15,Frehabilitation conference on Friday.
+OL,17,F"I saw people die, I saw things that I
+OL,18,Fwill never be able to unsee," he said.
+OL,20,FVigils have taken place for Mr Merritt,
+OL,21,F25, and second victim Saskia Jones, 23.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -314,7 +316,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,7 +342,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,33 +368,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CChild life expectancy projections cut
-OL,5,Cby years
-OL,6, Years have been knocked off official
-OL,7, projections of children's life
-OL,8, expectancies in the UK, an Office for
-OL,9, National Statistics (ONS) report shows.
-OL,11,FA baby girl born in 2019 is now
-OL,12,Fexpected to celebrate three fewer
-OL,13,Fbirthdays on average, than under
-OL,14,Fprevious calculations.
-OL,16,FOfficial 2014 data thought that girl
-OL,17,Fwould make it to 93.6. Now the figure
-OL,18,Fis 90.4. 
-OL,20,FThe report also slashed the likelihood
-OL,21,Fof children reaching 100. 
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CDonald Trump arrives in UK for Nato
+OL,5,Csummit
+OL,6, Donald Trump has arrived in the UK for
+OL,7, a meeting of the defence alliance Nato.
+OL,9,FThe US president's plane, Air Force
+OL,10,FOne, landed at Stansted airport ahead
+OL,11,Fof the three-day visit.
+OL,13,FMr Trump is set to attend a reception
+OL,14,Ffor world leaders hosted by the Queen
+OL,15,Fat Buckingham Palace on Tuesday. The
+OL,16,Fsummit marking the 70th anniversary of
+OL,17,FNato starts in Watford on Wednesday.
+OL,19,FHis last UK two visits attracted
+OL,20,Fprotests and more demonstrations are
+OL,21,Fexpected during this stay.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -418,33 +420,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CMorning-after pill 'should be sold off
-OL,5,Cthe shelf'
-OL,6, Women and girls should be able to get
-OL,7, hold of emergency contraception more
-OL,8, easily without the need for a
-OL,9, consultation with a pharmacist, say
-OL,10, women's health experts.
-OL,12,FA report by the Royal College of
-OL,13,FObstetricians and Gynaecologists
-OL,14,Frecommends the morning-after pill
-OL,15,F"should be sold straight off the
-OL,16,Fshelf", like condoms.
-OL,18,FThere are too many barriers to health
-OL,19,Fservices for women in the UK, it says.
-OL,21,FAnd their needs should be a priority.
+OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
+OL,2,Wj $kj $kj 'kT]S     j5s*uu?bs5
+OL,3,W"###"###"###T///////,-.,,/,,.-,.///////
+OL,4,C'Cruel' Super Bowl bomb hoaxer jailed
+OL,5, A computer enthusiast who made 107 hoax
+OL,6, bomb threats to targets including
+OL,7, schools, the Palace of Westminster and
+OL,8, the Super Bowl, has been jailed.
+OL,10,FAndreas Dowling from Torpoint, Cornwall
+OL,11,Fadmitted 30 counts of communicating
+OL,12,Ffalse information with intent.
+OL,14,FHe was sentenced at Exeter Crown Court
+OL,15,Fto four years and five months.
+OL,17,FJudge Mrs Justice May said the
+OL,18,F24-year-old's actions were "pernicious
+OL,19,Fand nasty" and calls targeting Jewish
+OL,20,Fschools were racially motivated.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -470,33 +471,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoy, 16, arrested over Cineworld
-OL,5,Cstabbing
-OL,6, Two people have been arrested over a
-OL,7, stabbing at a cinema in Nottingham city
-OL,8, centre.
-OL,10,FA 20-year-old man was taken to hospital
-OL,11,Ffrom Cineworld at 20:15 GMT on Sunday,
-OL,12,Fafter a fight at the entertainment
-OL,13,Fcomplex.
-OL,15,FPolice said his injuries were not
-OL,16,Flife-threatening and he has since been
-OL,17,Fdischarged from hospital.
-OL,19,FA 16-year-old boy and a 23-year-old man
-OL,20,Fare in custody on suspicion of the
-OL,21,Fpossession of a bladed article.
+OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
+OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
+OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
+OL,4,CChild life expectancy projections cut
+OL,5,Cby years
+OL,6, Years have been knocked off official
+OL,7, projections of children's life
+OL,8, expectancies in the UK, an Office for
+OL,9, National Statistics (ONS) report shows.
+OL,11,FA baby girl born in 2019 is now
+OL,12,Fexpected to celebrate three fewer
+OL,13,Fbirthdays on average, than under
+OL,14,Fprevious calculations.
+OL,16,FOfficial 2014 data thought that girl
+OL,17,Fwould make it to 93.6. Now the figure
+OL,18,Fis 90.4. 
+OL,20,FThe report also slashed the likelihood
+OL,21,Fof children reaching 100. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C21:39:33
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C22:43:49
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
