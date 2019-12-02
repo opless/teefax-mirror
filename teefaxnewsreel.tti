@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,16 +15,16 @@ OL,4,MI saw things I can't unsee - LondonC104
 OL,6,GBridge witness                         
 OL,8,GClimate summit told of nation's    C105
 OL,9,G'fight to death'                       
-OL,10,GTriple killer not guilty of murder C106
-OL,11,Gdue to insanity                        
+OL,10,GPrince Andrew accuser calls for    C106
+OL,11,Gpublic support                         
 OL,12,GPrince Andrew accuser calls for    C107
 OL,13,Gpublic support                         
-OL,14,GChild life expectancy projections  C108
-OL,15,Gcut by years                           
+OL,14,GTriple killer not guilty of murder C108
+OL,15,Gdue to insanity                        
 OL,16,GBushfire victim takes home's       C109
 OL,17,Gremains to parliament                  
-OL,18,GMorning-after pill 'should be sold C110
-OL,19,Goff the shelf'                         
+OL,18,GSeveral hurt in crash outside      C110
+OL,19,Gsecondary school                       
 OL,20,GChina suspends US Navy visits to   C111
 OL,21,GHong Kong                              
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -53,14 +53,14 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF18GLosersA83
 OL,14,C FTSE100    G7285.94 A-60.59 Fat CLOSE
 OL,15,C techMARK100G5714.32 A-40.93 Fat CLOSE
-OL,16,C Dow Jones  G27852.35A-199.06Fat 16:30
-OL,17,C Nasdaq     G8313.46 A-90.22 Fat 16:30
+OL,16,C Dow Jones  G27845.06A-206.35Fat 17:30
+OL,17,C Nasdaq     G8313.40 A-90.28 Fat 17:30
 OL,18,C Nikkei     G23529.50F+23,558Fat 07:44
 OL,19,C DJEurStoxx G3626.66 A-76.92 Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -82,36 +82,36 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G              Today                  
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G10V%  B               
-OL,4,           VZj**gppp B               
+OL,1,T]G           This Evening              
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G09U%  EOvercast       
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G08V!FHeavy Rain     
+OL,6,            ZV!'~G03V!FLight Rain     
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZQ*y?sp  ALight Rain    
-OL,9,           ^ZQj)"G 07Q}  A             
-OL,10,       ^ZUp|t QxUg0 B             
-OL,11,       ZUnG07UtQ+"UG06U B             
-OL,12,       ZU+U`4U+|0             
-OL,13,        ZU+%*o!U" R *u  BSunny     
-OL,14,B            ^ZU`  R*G 07R}  B         
-OL,15,CSome Cloud  ^ZUk|R            
-OL,16,C            ^ZU'oG 06S}zt B       
-OL,17,ECloudy        ZUj^RG 05S B       
-OL,18,E            ZUx|^G 07S'         
-OL,19,             ^ZU! +/'iRqp0        
-OL,20,B            ^ZS  tG 07R/!        
-OL,21,B            ZS zG07S^/s/R/? B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 06V} B              
+OL,10,       ^ZRp|t VxRg0 BCloudy       
+OL,11,       ZRnG04RtV+"RG05R  B            
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  B          
+OL,14,B            ^ZR`  R*G 05R} B          
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 04R}zt B       
+OL,17,B              ZRj^RG 01R B       
+OL,18,B            ZRx|^G 03R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,CClear       ^ZS  tG 02R/!        
+OL,21,C            ZS zG02S^/s/R/? B         
 OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -127,12 +127,12 @@ OL,10,       ^ZVp|t VxRg0 B
 OL,11,       ZVnG06VtV+"RG06R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  BSome Cloud
-OL,14,B            ^ZR`  R*G 07R}  B         
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 07R}zt B       
-OL,17,B              ZRj^VG 06R B       
-OL,18,B            ZRx|^G 08R'         
-OL,19,             ^ZR! +/'iVqp0        
+OL,14,B            ^ZV`  R*G 07R}  B         
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 07R}zt B       
+OL,17,B              ZVj^VG 07R B       
+OL,18,B            ZVx|^G 08R'         
+OL,19,             ^ZV! +/'iVqp0        
 OL,20,B            ^ZV  tG 07V/!        
 OL,21,B            ZV zG10V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
@@ -140,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -187,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -213,33 +213,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTriple killer not guilty of murder due
-OL,5,Cto insanity
-OL,6, A man who killed three elderly men
-OL,7, because he wrongly believed they were
-OL,8, paedophiles has been cleared of murder.
-OL,10,FExeter Crown Court heard Alexander
-OL,11,FLewis-Ranwell battered his victims -
-OL,12,Fall in their 80s - with a shovel and a
-OL,13,Fhammer in a "whirlwind of destruction".
-OL,15,FHe has paranoid schizophrenia and was
-OL,16,Fhaving delusions about saving girls
-OL,17,Ffrom a paedophile ring, jurors heard.
-OL,19,FThe 28-year-old was found not guilty by
-OL,20,Freason of insanity after jurors decided
-OL,21,Fhe "did not know it was illegal".
+OL,4,CPrince Andrew accuser calls for public
+OL,5,Csupport
+OL,6, A US woman who says she was brought to
+OL,7, Britain aged 17 to have sex with Prince
+OL,8, Andrew has implored the British public
+OL,9, to "stand beside her" and "not accept
+OL,10, what has happened to her".
+OL,12,FVirginia Giuffre, one of convicted sex
+OL,13,Foffender Jeffrey Epstein's accusers,
+OL,14,Fsays she was trafficked to London by
+OL,15,FEpstein in 2001.
+OL,17,FShe describes how Epstein's girlfriend
+OL,18,Ftold her what "to do for Andrew".
+OL,20,FThe prince has "categorically" denied
+OL,21,Fany sexual contact with Ms Giuffre.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -265,33 +265,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CChild life expectancy projections cut
-OL,5,Cby years
-OL,6, Years have been knocked off official
-OL,7, projections of children's life
-OL,8, expectancies in the UK, an Office for
-OL,9, National Statistics (ONS) report shows.
-OL,11,FA baby girl born in 2019 is now
-OL,12,Fexpected to celebrate three fewer
-OL,13,Fbirthdays on average, than under
-OL,14,Fprevious calculations.
-OL,16,FOfficial 2014 data thought that girl
-OL,17,Fwould make it to 93.6. Now the figure
-OL,18,Fis 90.4. 
-OL,20,FThe report also slashed the likelihood
-OL,21,Fof children reaching 100. 
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CTriple killer not guilty of murder due
+OL,5,Cto insanity
+OL,6, A man who killed three elderly men
+OL,7, because he wrongly believed they were
+OL,8, paedophiles has been cleared of murder.
+OL,10,FExeter Crown Court heard Alexander
+OL,11,FLewis-Ranwell battered his victims -
+OL,12,Fall in their 80s - with a shovel and a
+OL,13,Fhammer in a "whirlwind of destruction".
+OL,15,FHe has paranoid schizophrenia and was
+OL,16,Fhaving delusions about saving girls
+OL,17,Ffrom a paedophile ring, jurors heard.
+OL,19,FThe 28-year-old was found not guilty by
+OL,20,Freason of insanity after jurors decided
+OL,21,Fhe "did not know it was illegal".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,33 +317,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CMorning-after pill 'should be sold off
-OL,5,Cthe shelf'
-OL,6, Women and girls should be able to get
-OL,7, hold of emergency contraception more
-OL,8, easily without the need for a
-OL,9, consultation with a pharmacist, say
-OL,10, women's health experts.
-OL,12,FA report by the Royal College of
-OL,13,FObstetricians and Gynaecologists
-OL,14,Frecommends the morning-after pill
-OL,15,F"should be sold straight off the
-OL,16,Fshelf", like condoms.
-OL,18,FThere are too many barriers to health
-OL,19,Fservices for women in the UK, it says.
-OL,21,FAnd their needs should be a priority.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CSeveral hurt in crash outside secondary
+OL,5,Cschool
+OL,6, A number of people have been injured in
+OL,7, a serious crash outside a secondary
+OL,8, school.
+OL,10,FThe collision happened near Debden Park
+OL,11,FHigh School in Loughton, Essex, at
+OL,12,Fabout 15:30 GMT.
+OL,14,FEssex Police said there was likely to
+OL,15,Fbe a "serious and prolonged
+OL,16,Finvestigation" and asked the public not
+OL,17,Fto speculate on the circumstances.
+OL,19,FEssex and Herts Air Ambulance said it
+OL,20,Fhad treated "a number of patients" at
+OL,21,Fthe scene.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -369,85 +369,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoy, 16, arrested over Cineworld
-OL,5,Cstabbing
-OL,6, Two people have been arrested over a
-OL,7, stabbing at a cinema in Nottingham city
-OL,8, centre.
-OL,10,FA 20-year-old man was taken to hospital
-OL,11,Ffrom Cineworld at 20:15 GMT on Sunday,
-OL,12,Fafter a fight at the entertainment
-OL,13,Fcomplex.
-OL,15,FPolice said his injuries were not
-OL,16,Flife-threatening and he has since been
-OL,17,Fdischarged from hospital.
-OL,19,FA 16-year-old boy and a 23-year-old man
-OL,20,Fare in custody on suspicion of the
-OL,21,Fpossession of a bladed article.
+OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
+OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
+OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
+OL,4,CChild life expectancy projections cut
+OL,5,Cby years
+OL,6, Years have been knocked off official
+OL,7, projections of children's life
+OL,8, expectancies in the UK, an Office for
+OL,9, National Statistics (ONS) report shows.
+OL,11,FA baby girl born in 2019 is now
+OL,12,Fexpected to celebrate three fewer
+OL,13,Fbirthdays on average, than under
+OL,14,Fprevious calculations.
+OL,16,FOfficial 2014 data thought that girl
+OL,17,Fwould make it to 93.6. Now the figure
+OL,18,Fis 90.4. 
+OL,20,FThe report also slashed the likelihood
+OL,21,Fof children reaching 100. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTrump to restore tariffs on Brazil and
-OL,5,CArgentina
-OL,6, US President Donald Trump has said he
-OL,7, will restore tariffs on steel and
-OL,8, aluminium imports from Brazil and
-OL,9, Argentina.
-OL,11,FHe justified the move saying those
-OL,12,Fcountries' weak currencies had made it
-OL,13,Fharder for US food exports to compete.
-OL,15,F"Brazil and Argentina have been
-OL,16,Fpresiding over a massive devaluation of
-OL,17,Ftheir currencies, which is not good for
-OL,18,Four farmers," Mr Trump said. 
-OL,20,FBrazil's President Jair Bolsonaro said
-OL,21,Fhe would seek talks with Mr Trump.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40517
-SC,0017
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CMajor operation under way to restore
-OL,5,Cgas network
-OL,6, Hundreds of engineers are visiting
-OL,7, homes in the Falkirk area as part of a
-OL,8, major operation to tackle a gas network
-OL,9, failure.
-OL,11,FThousands of people spent the night
-OL,12,Fwithout heat in freezing temperatures
-OL,13,Fafter the outage on Sunday morning. 
-OL,15,FHeaters and portable cookers have been
-OL,16,Fdistributed to vulnerable residents and
-OL,17,F14 schools and nurseries are closed. 
-OL,19,FGas infrastructure company SGN said it
-OL,20,Fhad now begun reconnecting supplies to
-OL,21,Fhomes across the area.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40518
-SC,0018
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -470,36 +418,36 @@ OL,20,FThe searches of three boys, aged 14, 15
 OL,21,Fand 16, are the focus of the inquiry.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40519
-SC,0019
+PN,40517
+SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,C'Fit as fiddle' woman died in Ironman
-OL,5,Ccontest
-OL,6, A 39-year-old woman who was "as fit as
-OL,7, a fiddle" had a heart attack and
-OL,8, drowned during the swim section of an
-OL,9, Ironman triathlon in Spain, an inquest
-OL,10, has heard.
-OL,12,FSharon Lang, from Plymouth, Devon, took
-OL,13,Fpart in the contest in Marbella on 30
-OL,14,FApril 2018.
-OL,16,FShe was found face down in the water by
-OL,17,Fstaff at the event, the inquest was
-OL,18,Ftold. 
-OL,20,FCoroner Ian Arrow recorded a verdict of
-OL,21,Faccidental death.
+OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
+OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
+OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
+OL,4,CMorning-after pill 'should be sold off
+OL,5,Cthe shelf'
+OL,6, Women and girls should be able to get
+OL,7, hold of emergency contraception more
+OL,8, easily without the need for a
+OL,9, consultation with a pharmacist, say
+OL,10, women's health experts.
+OL,12,FA report by the Royal College of
+OL,13,FObstetricians and Gynaecologists
+OL,14,Frecommends the morning-after pill
+OL,15,F"should be sold straight off the
+OL,16,Fshelf", like condoms.
+OL,18,FThere are too many barriers to health
+OL,19,Fservices for women in the UK, it says.
+OL,21,FAnd their needs should be a priority.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40520
-SC,0020
+PN,40518
+SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C17:39:49
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -517,7 +465,60 @@ OL,14,FCrowds watched helplessly for three
 OL,15,Fdays as they waited for emergency
 OL,16,Fservices to rescue him.
 OL,18,FMore than 250 people have been killed
-OL,19,Fand 3 million affected by flash floods
-OL,20,Fand landslides across East Africa. 
+OL,19,Fand three million affected by flash
+OL,20,Ffloods and landslides across East
+OL,21,FAfrica. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CBoy, 16, arrested over Cineworld
+OL,5,Cstabbing
+OL,6, Two people have been arrested over a
+OL,7, stabbing at a cinema in Nottingham city
+OL,8, centre.
+OL,10,FA 20-year-old man was taken to hospital
+OL,11,Ffrom Cineworld at 20:15 GMT on Sunday,
+OL,12,Fafter a fight at the entertainment
+OL,13,Fcomplex.
+OL,15,FPolice said his injuries were not
+OL,16,Flife-threatening and he has since been
+OL,17,Fdischarged from hospital.
+OL,19,FA 16-year-old boy and a 23-year-old man
+OL,20,Fare in custody on suspicion of the
+OL,21,Fpossession of a bladed article.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40520
+SC,0020
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:41:17
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CUS diplomat 'threatened' in Zambia gay
+OL,5,Crights row
+OL,6, The US ambassador to Zambia has said he
+OL,7, has been threatened over his comments
+OL,8, on the sentencing of a gay couple,
+OL,9, deepening a diplomatic row.
+OL,11,FDaniel Foote said he was "horrified" by
+OL,12,Fthe jailing of Japhet Chataba and
+OL,13,FSteven Samba.
+OL,15,FA judge quashed an appeal against their
+OL,16,Fconviction last week, sentencing them
+OL,17,Fboth to 15 years in prison.
+OL,19,FSame-sex relationships are outlawed in
+OL,20,FZambia, where British colonial-era laws
+OL,21,Fon homosexuality still apply.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
