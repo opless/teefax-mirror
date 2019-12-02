@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -21,8 +21,8 @@ OL,12,GChina suspends US Navy visits to   C107
 OL,13,GHong Kong                              
 OL,14,GMorning-after pill 'should be sold C108
 OL,15,Goff the shelf'                         
-OL,16,GAustralian blogger being 'shackled C109
-OL,17,Gin China'                              
+OL,16,GAI cameras to catch texting        C109
+OL,17,GAustralian drivers                     
 OL,18,GBoy, 16, arrested over Cineworld   C110
 OL,19,Gstabbing                               
 OL,20,GAmazon pulls Auschwitz-themed      C111
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 13:30GWinnersF39GLosersA62
-OL,14,C FTSE100    G7334.76 A-11.77 Fat 13:30
-OL,15,C techMARK100G5734.00 A-21.25 Fat 13:30
-OL,16,C Dow Jones  G28051.41A-112.59Fat CLOSE
-OL,17,C Nasdaq     G8403.68 A-41.02 Fat CLOSE
+OL,12,  FTSE100Fat 14:30GWinnersF27GLosersA74
+OL,14,C FTSE100    G7313.58 A-32.95 Fat 14:30
+OL,15,C techMARK100G5726.77 A-28.48 Fat 14:30
+OL,16,C Dow Jones  G27918.86A-132.55Fat 14:30
+OL,17,C Nasdaq     G8326.23 A-77.46 Fat 14:30
 OL,18,C Nikkei     G23529.50F+23,558Fat 07:44
-OL,19,C DJEurStoxx G3674.02 A-29.56 Fat 13:30
+OL,19,C DJEurStoxx G3649.51 A-54.07 Fat 14:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -71,73 +71,75 @@ OL,6,FVan Dijk, Grealish, Aubameyang,    G304
 OL,7,FMessi? Ronaldo? Van Dijk? Men's    G305
 OL,8,FBronze? Hegerberg? Rapinoe?        G306
 OL,9,FKick It Out asks FA to investigate G307
-OL,10,FWatford place Hayden Mullins in    G308
-OL,12,FIs Jack Grealish playing himself   G309
-OL,13,FFA Cup third round ties to promote G310
+OL,10,FIs Jack Grealish playing himself   G308
+OL,12,FWatford place Hayden Mullins in    G309
+OL,13,FPlayers threaten strike if wages   G310
+OL,14,FFA Cup third round ties to promote G311
+OL,15,FTony Adams and Micah Richards to   G312
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G09S%  CHeavy Rain     
-OL,4,           SZj**gppp  C              
-OL,5,           ^ZV({5                
-OL,6,            ZV!'~G08V!FLight Rain     
-OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 07V} B              
-OL,10,       ^ZUp|t VxVg0 B             
-OL,11,       ZUnG07UtV+"VG06V B             
-OL,12,       ZU+V`4V+|0             
-OL,13,        ZU+%*o!V" R *u  BSunny     
-OL,14,B            ^ZQ`  R*G 07R}  B         
-OL,15,ECloudy      ^ZQk|R            
-OL,16,E            ^ZQ'oG 06U}zt B       
-OL,17,ASome Cloud    ZQj^RG 05U B       
-OL,18,A            ZQx|^G 06U'         
-OL,19,             ^ZQ! +/'iRqp0        
-OL,20,B            ^ZR  tG 06R/!        
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G10V%  B               
+OL,4,           VZj**gppp B               
+OL,5,           ^ZS({5                
+OL,6,            ZS!'~G08S!CHeavy Rain     
+OL,7,           ^ZS ~ow1  C              
+OL,8,B          ^ZV*y?sp  FLight Rain    
+OL,9,           ^ZVj)"G 07V}  F             
+OL,10,       ^ZUp|t VxUg0 B             
+OL,11,       ZUnG07UtV+"UG06U B             
+OL,12,       ZU+U`4U+|0             
+OL,13,        ZU+%*o!U" R *u  BSunny     
+OL,14,B            ^ZU`  R*G 07R}  B         
+OL,15,B            ^ZUk|R            
+OL,16,B            ^ZU'oG 06U}zt B       
+OL,17,ECloudy        ZUj^RG 05U B       
+OL,18,E            ZUx|^G 07U'         
+OL,19,             ^ZU! +/'iRqp0        
+OL,20,B            ^ZR  tG 07R/!        
 OL,21,B            ZR zG07R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G09U%  EOvercast       
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G09R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G05V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 06V} B              
-OL,10,       ^ZVp|t VxRg0 BSome Cloud   
-OL,11,       ZVnG06VtV+"RG06R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
-OL,14,B            ^ZR`  V*G 07V} B          
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 07R}zt B       
-OL,17,B              ZRj^RG 06R B       
-OL,18,B            ZRx|^G 08R'         
-OL,19,             ^ZR! +/'iVqp0        
-OL,20,B            ^ZR  tG 07V/!        
-OL,21,B            ZR zG10R^/s/V/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZR*y?sp  BOvercast      
+OL,9,           ^ZRj)"G 06R}  B             
+OL,10,       ^ZVp|t RxVg0 B             
+OL,11,       ZVnG06VtR+"VG06V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" U *u  ESome Cloud
+OL,14,B            ^ZU`  U*G 07U}  E         
+OL,15,B            ^ZUk|V            
+OL,16,B            ^ZU'oG 07U}zt B       
+OL,17,B              ZUj^VG 06U B       
+OL,18,B            ZUx|^G 08U'         
+OL,19,             ^ZU! +/'iUqp0        
+OL,20,B            ^ZU  tG 07U/!        
+OL,21,B            ZU zG10U^/s/U/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -158,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -175,16 +177,16 @@ OL,12,Fwhich included a minute's silence.
 OL,14,FThey were stabbed to death by convicted
 OL,15,Fterrorist Usman Khan, 28, at a prisoner
 OL,16,Frehabilitation conference on Friday.
-OL,18,FThe BBC has learned Khan was given one
-OL,19,Fof the lowest priorities for further
-OL,20,Finvestigation by MI5 when he left
-OL,21,Fprison a year ago.
+OL,18,FThe BBC has learned Khan was under
+OL,19,Finvestigation by MI5 when he left
+OL,20,Fprison a year ago but given one of the
+OL,21,Flowest priorities.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -210,7 +212,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -236,7 +238,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -262,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -288,33 +290,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAustralian blogger being 'shackled in
-OL,5,CChina'
-OL,6, Australia says the treatment endured by
-OL,7, one of its citizens in criminal
-OL,8, detention in China is "unacceptable".
-OL,10,FChinese-Australian writer Dr Yang
-OL,11,FHengjun has been held in Beijing since
-OL,12,FJanuary. He has been accused of
-OL,13,Fespionage - charges denied by him and
-OL,14,Fthe Australian government.
-OL,16,FHe now faces daily interrogations while
-OL,17,Fbeing shackled, and has been
-OL,18,Fincreasingly isolated, Canberra said.
-OL,20,FAustralia has consistently lobbied
-OL,21,FChinese authorities for his release.
+OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
+OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
+OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
+OL,4,CAI cameras to catch texting Australian
+OL,5,Cdrivers
+OL,6, Artificial intelligence (AI) cameras
+OL,7, capable of detecting drivers who are
+OL,8, using their mobiles illegally have been
+OL,9, activated in Australia.
+OL,11,FThe cameras were launched by New South
+OL,12,FWales (NSW) Transport on 1 December.
+OL,14,FDrivers spotted by the AI during its
+OL,15,Ffirst three months of use will receive
+OL,16,Fa warning letter but after that they
+OL,17,Fcould face a fine.
+OL,19,FA trial of the tool in the first half
+OL,20,Fof 2019 successfully detected 100,000
+OL,21,Fdrivers using a mobile illegally.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -340,7 +342,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -366,56 +368,59 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CParties clash over Brexit in TV debate
-OL,5, Leading figures from the UK's political
-OL,6, parties have clashed on Brexit, the NHS
-OL,7, and terror legislation in the latest
-OL,8, televised general election debate.
-OL,10,FLabour's Richard Burgon declined to say
-OL,11,Fduring the ITV programme which way he
-OL,12,Fwould vote in the EU referendum his
-OL,13,Fparty is promising, if it wins power.
-OL,15,FTory Rishi Sunak was pushed to rule out
-OL,16,Fa no-deal Brexit if the Conservatives
-OL,17,Fwon, but did not give a direct answer.
-OL,19,FThe UK goes to the polls on 12
-OL,20,FDecember.
+OL,4,CUK motorists start VW 'dieselgate'
+OL,5,Clegal action
+OL,6, The UK's first major mass litigation
+OL,7, has begun, with about 100,000 motorists
+OL,8, seeking redress from Volkswagen over
+OL,9, the "dieselgate" emissions scandal.
+OL,11,FLawyers representing owners of VW,
+OL,12,FAudi, Seat and Skoda cars told the High
+OL,13,FCourt the German firm misled consumers.
+OL,15,FIn 2015, VW admitted 11 million cars
+OL,16,Fworldwide - including 1.2 million in
+OL,17,Fthe UK - were fitted with software that
+OL,18,Fcut emission readings in tests. 
+OL,20,FBut it denies deceiving regulators,
+OL,21,Fdespite rulings against it elsewhere.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTiger on 'longest walk ever' for mate
-OL,5,Cand prey
-OL,6, A tiger has undertaken the longest walk
-OL,7, ever recorded in India, travelling some
-OL,8, 1,300km (807 miles) in five months.
-OL,10,FExperts believe the
-OL,11,Ftwo-and-a-half-year-old male is
-OL,12,Fpossibly in search of prey, territory
-OL,13,For a mate.
-OL,15,FThe tiger, which is fitted with a radio
-OL,16,Fcollar, left its home in a wildlife
-OL,17,Fsanctuary in the western state of
-OL,18,FMaharashtra in June.
+OL,4,CBoy 'told to hold genitals' during
+OL,5,Cfestival search
+OL,6, A 14-year-old boy was asked to hold his
+OL,7, exposed genitals in one of at least 25
+OL,8, potentially illegal strip-searches at a
+OL,9, Sydney music festival, an inquiry has
+OL,10, heard. 
+OL,12,FPolice carried out the strip-searches
+OL,13,Fat the Lost City Music Festival, an
+OL,14,Funder-18s event held at Sydney Olympic
+OL,15,FPark in February.
+OL,17,FA public hearing into possible police
+OL,18,Fabuses began in Sydney on Monday.
+OL,20,FThe searches of three boys, aged 14, 15
+OL,21,Fand 16, are the focus of the inquiry.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -441,33 +446,31 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CThieves snatch medals and gold from
-OL,5,CStasi Museum
-OL,6, Burglars have stolen communist-era
-OL,7, medals and jewellery from the Stasi
-OL,8, Museum in Berlin, housed in the former
-OL,9, secret police headquarters.
-OL,11,FThe break-in happened just six days
-OL,12,Fafter diamonds worth millions of euros
-OL,13,Fwere stolen from the Green Vault, part
-OL,14,Fof a former royal palace in Dresden.
-OL,16,FThe items stolen in Berlin are worth "a
-OL,17,Ffew thousand euros", museum director
-OL,18,FJorg Drieselmann told the BBC.
-OL,20,FThe Stasi had a huge network of spies
-OL,21,Fand informers in former East Germany.
+OL,4,CTiger on 'longest walk ever' for mate
+OL,5,Cand prey
+OL,6, A tiger has undertaken the longest walk
+OL,7, ever recorded in India, travelling some
+OL,8, 1,300km (807 miles) in five months.
+OL,10,FExperts believe the
+OL,11,Ftwo-and-a-half-year-old male is
+OL,12,Fpossibly in search of prey, territory
+OL,13,For a mate.
+OL,15,FThe tiger, which is fitted with a radio
+OL,16,Fcollar, left its home in a wildlife
+OL,17,Fsanctuary in the western state of
+OL,18,FMaharashtra in June.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -493,13 +496,13 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:41:35
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:41:11
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTrump restores tariffs on Brazil and
+OL,4,CTrump to restore tariffs on Brazil and
 OL,5,CArgentina
 OL,6, US President Donald Trump has said he
 OL,7, will restore tariffs on steel and

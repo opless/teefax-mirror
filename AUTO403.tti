@@ -5,25 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:39:36
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:37:59
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FMany southern and central areas of
-OL,9,FBritain, dry and cold with wintry
-OL,10,Fsunshine after frost and isolated fog
-OL,11,Fclears. Northern Britain cloudier, with
-OL,12,Fsome rain in northern Scotland where it
-OL,13,Fwill turn windier but less cold.
+OL,7,GThis Evening and Tonight
+OL,8,FA cold night for most areas with a
+OL,9,Fwidespread frost, especially over
+OL,10,Fsouthern UK. Freezing fog patches also
+OL,11,Fdeveloping over parts of southern UK.
+OL,12,FMost areas dry, but some rain about
+OL,13,Fover parts of Scotland.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FMuch of northern Britain cloudy, breezy
-OL,17,Fand frost-free, rain dying out. Central
-OL,18,Fareas dry and cold, southern parts dry
-OL,19,Fand frosty, probably with quite
-OL,20,Fwidespread fog developing.
+OL,15,GTuesday
+OL,16,FMost areas fine and dry after a cold
+OL,17,Fstart. Cloudy with rain for northwest
+OL,18,FScotland though and early fog patches
+OL,19,Fin southern UK likely slow to clear in
+OL,20,Fsome places.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +31,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C14:39:36
+OL,0,XXXXXXXXBNMPSERVER2      E02/12C15:37:59
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Wednesday to Friday
-OL,8,FCold with fog for the south on
-OL,9,FWednesday, windy with showers in the
-OL,10,Fnorth. Mild and windy with rain moving
-OL,11,Fsouth Thursday, clearing Friday to
-OL,12,Fbright or sunny spells.
+OL,8,FWindy and mild in the north, with gales
+OL,9,Fand rain, heaviest in the north-west,
+OL,10,Fdeveloping by Thursday. Cold/dry in the
+OL,11,Fsouth, with areas of overnight frost
+OL,12,Fand freezing fog.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
