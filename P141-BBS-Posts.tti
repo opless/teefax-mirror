@@ -1,10 +1,10 @@
 DE,Teefax BBS
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P141-BBS-Posts.tti
-CT,15,C
+SP,C:\Users\General\Desktop\Teefax\P141-BBS-Posts.tti
 PN,14101
 SC,0001
 PS,8000
+CT,f,C
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S<,,,l,,,<,,,<,,,|,,|,|<l|<,,l<,,l|,,l| 
@@ -33,6 +33,7 @@ FL,140,100,100,100,8ff,100
 PN,14102
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,========================================
@@ -62,6 +63,7 @@ FL,140,100,100,100,8ff,100
 PN,14103
 SC,0003
 PS,8000
+CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,========================================
@@ -88,6 +90,7 @@ FL,140,100,100,100,8ff,100
 PN,14104
 SC,0004
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,========================================
@@ -117,6 +120,7 @@ FL,140,100,100,100,8ff,100
 PN,14105
 SC,0005
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,========================================
@@ -146,6 +150,7 @@ FL,140,100,100,100,8ff,100
 PN,14106
 SC,0006
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,========================================
@@ -174,6 +179,7 @@ FL,140,100,100,100,8ff,100
 PN,14107
 SC,0007
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,========================================
@@ -204,6 +210,7 @@ FL,140,100,100,100,8ff,100
 PN,14108
 SC,0008
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,========================================
@@ -211,10 +218,16 @@ OL,2,CBeeblePete 11 Apr 2017 6:68
 OL,3, The power of Cree compels you Beelze-  
 OL,4, bub, hop it                            
 OL,5,========================================
+OL,6, Harold Yack 2 Dec 2019 13:14           
+OL,7, I opened the second door on my Advent  
+OL,8, calendar and received a lump of coal.  
+OL,9, I was hoping to get a solar panel to   
+OL,10, keep me warm for longer than 5 minutes.
 FL,140,100,100,100,8ff,100
 PN,14109
 SC,0009
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,EBLOBU` SBLOBBYEBLOBBYCBLOBBYUBLOBCBLOB 
