@@ -5,34 +5,34 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MBoy, 12, killed in 'deliberate'    C104
+OL,4,MMan held over school fatal         C104
 OL,6,Ghit-and-run crash                      
-OL,8,GClimate summit told of nation's    C105
-OL,9,G'fight to death'                       
+OL,8,GUS mulls retaliation to French techC105
+OL,9,Gtax                                    
 OL,10,GPrince Andrew must testify in      C106
 OL,11,Gcourt, lawyer says                     
-OL,12,GPrince Andrew accuser calls for    C107
-OL,13,Gpublic support                         
+OL,12,GPrince Andrew must testify in      C107
+OL,13,Gcourt, lawyer says                     
 OL,14,GI saw things I can't unsee - LondonC108
 OL,15,GBridge witness                         
-OL,16,GTyphoon Kammuri slams into         C109
-OL,17,GPhilippines                            
+OL,16,GClimate summit told of nation's    C109
+OL,17,G'fight to death'                       
 OL,18,GTriple killer not guilty of murder C110
 OL,19,Gdue to insanity                        
-OL,20,GBushfire victim takes home's       C111
-OL,21,Gremains to parliament                  
+OL,20,GTyphoon Kammuri slams into         C111
+OL,21,GPhilippines                            
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7285.94 A-60.59 Fat CLOSE
 OL,15,C techMARK100G5714.32 A-40.93 Fat CLOSE
 OL,16,C Dow Jones  G27783.04A-268.37Fat CLOSE
 OL,17,C Nasdaq     G8309.26 A-94.42 Fat CLOSE
-OL,18,C Nikkei     G23529.50F+23,558Fat 07:44
-OL,19,C DJEurStoxx G3626.66 A-76.92 Fat 16:10
+OL,18,C Nikkei     G23237.91A-291.59Fat 23:30
+OL,19,C DJEurStoxx G3626.66 A-76.92 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,65 +83,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G           This Evening              
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G08R%  B               
-OL,4,           RZj**gppp B               
-OL,5,           ^ZS({5                
-OL,6,            ZS!'~G03S!CLight Rain     
-OL,7,           ^ZS ~ow1  C              
-OL,8,B          ^ZV*y?sp  FCloudy        
-OL,9,           ^ZVj)"G 06V}  F             
-OL,10,       ^ZVp|t VxRg0 BOvercast     
-OL,11,       ZVnG04VtV+"RG05R  B            
+OL,1,T]G         Tuesday Evening             
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G08U%  ELight Rain     
+OL,4,           UZj**gppp  E              
+OL,5,           ^ZV({5                
+OL,6,            ZV!'~G03V!FCloudy         
+OL,7,           ^ZV ~ow1  F              
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 04V} B              
+OL,10,       ^ZVp|t VxRg0 BSome Cloud   
+OL,11,       ZVnG05VtV+"RG03R  B            
 OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
-OL,14,B            ^ZU`  V*G 05V} B          
-OL,15,B            ^ZUk|U            
-OL,16,B            ^ZU'oG 02V}zt B       
-OL,17,B              ZUj^UG 01V B       
-OL,18,B            ZUx|^G 01V'         
-OL,19,             ^ZU! +/'iVqp0        
-OL,20,ESome Cloud  ^ZU  tG 02V/!        
-OL,21,E            ZU zG01U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,13,        ZV+%*o!R" R *u  B          
+OL,14,B            ^ZV`  R*G 04R} B          
+OL,15,B            ^ZVk|R            
+OL,16,B            ^ZV'oG 02V}zt B       
+OL,17,B              ZVj^RG 02V B       
+OL,18,B            ZVx|^G 03V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZR  tG 02V/!        
+OL,21,B            ZR zG05R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G09U%  EOvercast       
-OL,4,           UZj**gppp  E              
+OL,1,T]G            Wednesday                
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G08R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G06V!FCloudy         
+OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 06V} B              
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG06VtV+"RG06R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" S *u  CSunny     
-OL,14,B            ^ZR`  S*G 07S}  C         
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 06R}zt B       
-OL,17,B              ZRj^VG 06R B       
-OL,18,B            ZRx|^G 08R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 07R/!        
-OL,21,B            ZR zG10R^/s/R/?      BSome
-OL,22,            ZR8?' "'    "    BCloud    
+OL,8,B          ^ZR*y?sp  BLight Rain    
+OL,9,           ^ZRj)"G 09R}  B             
+OL,10,       ^ZVp|t RxUg0 B             
+OL,11,       ZVnG09VtR+"UG08U B             
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" U *u  ESunny     
+OL,14,B            ^ZV`  U*G 06U}  E         
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 07S}zt B       
+OL,17,B              ZVj^VG 06S B       
+OL,18,B            ZVx|^G 07S'         
+OL,19,             ^ZV! +/'iSqp0        
+OL,20,CSome Cloud  ^ZS  tG 07S/!        
+OL,21,C            ZS zG08S^/s/S/? B         
+OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,59 +162,58 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoy, 12, killed in 'deliberate'
-OL,5,Chit-and-run crash
-OL,6, A 12-year-old boy has died and five
-OL,7, others were injured in a "deliberate"
-OL,8, hit-and-run crash near a school.
-OL,10,FThe crash happened near Debden Park
-OL,11,FHigh School in Loughton, Essex, at
-OL,12,Fabout 15:20 GMT.
-OL,14,FTwo 15-year-old boys, a 13-year-old
-OL,15,Fboy, a 16-year-old girl and a
-OL,16,F53-year-old woman were also hurt but
-OL,17,Ftheir injuries are not believed to be
-OL,18,Flife-threatening.
-OL,20,FPolice have launched a murder inquiry
-OL,21,Fand want to speak to Terry Glover, 51.
+OL,4,CMan held over school fatal hit-and-run
+OL,5,Ccrash
+OL,6, A man wanted over a "deliberate"
+OL,7, hit-and-run crash in which a boy died
+OL,8, has been arrested, police say.
+OL,10,FThe 51-year-old was detained on
+OL,11,Fsuspicion of murder and attempted
+OL,12,Fmurder after the car crash outside a
+OL,13,Fschool in Loughton, Essex.
+OL,15,FTwo boys, 15, a 13-year-old boy, a
+OL,16,Fgirl, 16, and a 53-year-old woman were
+OL,17,Falso hurt in the crash.
+OL,19,FEmergency services were called at about
+OL,20,F15:20 GMT after the crash happened
+OL,21,Fclose to Debden Park High School.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
-OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
-OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
-OL,4,CClimate summit told of nation's 'fight
-OL,5,Cto death'
-OL,6, The president of an island nation on
-OL,7, the frontline of climate change says it
-OL,8, is in a "fight to the death" after
-OL,9, freak waves inundated the capital.
-OL,11,FPowerful swells averaging 5m (16ft)
-OL,12,Fwashed across the capital of the
-OL,13,FMarshall Islands, Majuro, last week.
-OL,15,FBut President Hilda Heine said the
-OL,16,FPacific nation had been fighting rising
-OL,17,Ftides even before last week's disaster.
-OL,19,FPolitical leaders and climate diplomats
-OL,20,Fare meeting in Madrid for two weeks of
-OL,21,Ftalks amid a growing sense of crisis.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CUS mulls retaliation to French tech tax
+OL,5, The US is preparing tariffs on $2.4bn
+OL,6, (#1.85bn) worth of French exports as
+OL,7, retaliation against the country's new
+OL,8, digital services tax.
+OL,10,FThe top US trade official said the new
+OL,11,Ftax, which France approved in July,
+OL,12,Funfairly targets American tech giants.
+OL,14,FHe said the potential tariffs were
+OL,15,Fintended to deter other countries from
+OL,16,Ftaking similar steps.
+OL,18,FThe items that could face tariffs at
+OL,19,Frates up to 100% include cheese,
+OL,20,Fsparkling wine, make-up and handbags.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -240,33 +239,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CPrince Andrew accuser calls for public
-OL,5,Csupport
-OL,6, A US woman who says she was brought to
-OL,7, Britain aged 17 to have sex with Prince
-OL,8, Andrew has implored the British public
-OL,9, to "stand beside her" and "not accept
-OL,10, what has happened to her".
-OL,12,FVirginia Giuffre, one of convicted sex
-OL,13,Foffender Jeffrey Epstein's accusers,
-OL,14,Fsays she was trafficked to London by
-OL,15,FEpstein in 2001.
-OL,17,FShe describes how Epstein's girlfriend
-OL,18,Ftold her what "to do for Andrew".
-OL,20,FThe prince has "categorically" denied
-OL,21,Fany sexual contact with Ms Giuffre.
+OL,4,CPrince Andrew must testify in court,
+OL,5,Clawyer says
+OL,6, Five women who accuse Jeffrey Epstein
+OL,7, of abusing them say Prince Andrew
+OL,8, witnessed how people were given
+OL,9, massages at the sex offender's homes.
+OL,11,FThe lawyer for the women has told BBC
+OL,12,FPanorama he plans to serve subpoenas to
+OL,13,Fforce the Duke of York to testify as a
+OL,14,Fwitness in all five cases.
+OL,16,FHe says the prince could have important
+OL,17,Finformation about sex trafficking.
+OL,19,FThe prince says he did not witness or
+OL,20,Fsuspect any suspicious behaviour during
+OL,21,Fvisits to Mr Epstein's homes.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -292,32 +291,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTyphoon Kammuri slams into Philippines
-OL,5, Typhoon Kammuri has made landfall in
-OL,6, the central Philippines, at the
-OL,7, southern end of Luzon island. 
-OL,9,FSome 200,000 residents have been
-OL,10,Fevacuated from coastal and mountainous
-OL,11,Fareas over fears of flooding, storm
-OL,12,Fsurges and landslides. 
-OL,14,FOperations at Manila international
-OL,15,Fairport will be suspended for 12 hours
-OL,16,Ffrom Tuesday morning. 
-OL,18,FSome events at the Southeast Asian
-OL,19,FGames, which opened on Saturday, have
-OL,20,Fbeen cancelled or re-scheduled.
+OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
+OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
+OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
+OL,4,CClimate summit told of nation's 'fight
+OL,5,Cto death'
+OL,6, The president of an island nation on
+OL,7, the frontline of climate change says it
+OL,8, is in a "fight to the death" after
+OL,9, freak waves inundated the capital.
+OL,11,FPowerful swells averaging 5m (16ft)
+OL,12,Fwashed across the capital of the
+OL,13,FMarshall Islands, Majuro, last week.
+OL,15,FBut President Hilda Heine said the
+OL,16,FPacific nation had been fighting rising
+OL,17,Ftides even before last week's disaster.
+OL,19,FPolitical leaders and climate diplomats
+OL,20,Fare meeting in Madrid for two weeks of
+OL,21,Ftalks amid a growing sense of crisis.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -343,33 +343,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CBushfire victim takes home's remains to
-OL,5,Cparliament
-OL,6, A woman in Australia has placed the
-OL,7, remains of her home outside the
-OL,8, country's parliament building, calling
-OL,9, for action on climate change. 
-OL,11,FMelinda Plesman and her partner Dean
-OL,12,FKennedy lost their house after a
-OL,13,Fbushfire ravaged the town of Grafton in
-OL,14,FNew South Wales last month. 
-OL,16,FShe is currently staying in a hotel. 
-OL,18,FLast month New South Wales and
-OL,19,FQueensland both declared a state of
-OL,20,Femergency with thousands evacuated from
-OL,21,Ftheir homes. 
+OL,4,CTyphoon Kammuri slams into Philippines
+OL,5, Typhoon Kammuri has made landfall in
+OL,6, the central Philippines, at the
+OL,7, southern end of Luzon island. 
+OL,9,FSome 200,000 residents have been
+OL,10,Fevacuated from coastal and mountainous
+OL,11,Fareas over fears of flooding, storm
+OL,12,Fsurges and landslides. 
+OL,14,FOperations at Manila international
+OL,15,Fairport will be suspended for 12 hours
+OL,16,Ffrom Tuesday morning. 
+OL,18,FSome events at the Southeast Asian
+OL,19,FGames, which opened on Saturday, have
+OL,20,Fbeen cancelled or re-scheduled.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -395,33 +394,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTrump denies press credentials to
-OL,5,CBloomberg News
-OL,6, The Trump campaign says it will refuse
-OL,7, credentials to reporters with Bloomberg
-OL,8, News, the outlet owned by Democratic
-OL,9, presidential hopeful Michael Bloomberg.
-OL,11,FAfter Mr Bloomberg's official entry to
-OL,12,Fthe 2020 race last week, Bloomberg said
-OL,13,Fit would stop critically covering the
-OL,14,FDemocratic candidates.
-OL,16,FBut the outlet said it would continue
-OL,17,Fto investigate US President Donald
-OL,18,FTrump's administration.
-OL,20,FMr Trump's campaign called the
-OL,21,FBloomberg decision proof of "bias". 
+OL,4,CBushfire victim takes home's remains to
+OL,5,Cparliament
+OL,6, A woman in Australia has placed the
+OL,7, remains of her home outside the
+OL,8, country's parliament building, calling
+OL,9, for action on climate change. 
+OL,11,FMelinda Plesman and her partner Dean
+OL,12,FKennedy lost their house after a
+OL,13,Fbushfire ravaged the town of Grafton in
+OL,14,FNew South Wales last month. 
+OL,16,FShe is currently staying in a hotel. 
+OL,18,FLast month New South Wales and
+OL,19,FQueensland both declared a state of
+OL,20,Femergency with thousands evacuated from
+OL,21,Ftheir homes. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
@@ -446,7 +445,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -472,7 +471,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -498,7 +497,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C23:40:30
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C00:44:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
