@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 13:25GWinnersF8GLosersA93
-OL,14,C FTSE100    G7163.99 A-121.95Fat 13:25
-OL,15,C techMARK100G5649.96 A-64.36 Fat 13:25
-OL,16,C Dow Jones  G27783.04A-268.37Fat CLOSE
-OL,17,C Nasdaq     G8309.26 A-94.42 Fat CLOSE
+OL,12,  FTSE100Fat 14:30GWinnersF7GLosersA94
+OL,14,C FTSE100    G7152.59 A-133.35Fat 14:30
+OL,15,C techMARK100G5649.04 A-65.28 Fat 14:30
+OL,16,C Dow Jones  G27415.00A-368.04Fat 14:30
+OL,17,C Nasdaq     G8195.52 A-113.73Fat 14:30
 OL,18,C Nikkei     G23379.81A-14,969Fat 07:44
-OL,19,C DJEurStoxx G3609.19 A-17.47 Fat 13:30
+OL,19,C DJEurStoxx G3607.43 A-19.23 Fat 14:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -75,20 +75,21 @@ OL,10,FWhy is it happening? When are they G308
 OL,12,FMauricio Pochettino intends to     G309
 OL,13,FHearts offer former Barnsley       G310
 OL,14,FPick your Jose Mourinho all-time XIG311
-OL,15,FDelay in deciding when each club   G312
-OL,17,FIbrahimovic, Giroud, Eriksen,      G313
+OL,15,FManager Frank Lampard says he      G312
+OL,17,FDelay in deciding when each club   G313
+OL,18,FDundee v Motherwell and Dundee     G314
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G10V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZS 4`~|}            G 1/2 
+OL,3,           ZS`?0~G10S%  COvercast       
+OL,4,           SZj**gppp  C              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
@@ -104,14 +105,14 @@ OL,16,E            ^ZR'oG 08U}zt B
 OL,17,B              ZRj^VG 07U B       
 OL,18,B            ZRx|^G 10U'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 08R/!        
-OL,21,B            ZR zG10R^/s/R/?      BSome
-OL,22,            ZR8?' "'    "    BCloud    
+OL,20,B            ^ZV  tG 09R/!        
+OL,21,B            ZV zG10V^/s/R/?      BSome
+OL,22,            ZV8?' "'    "    BCloud    
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -140,7 +141,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -187,7 +188,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -202,9 +203,9 @@ OL,9, "brain dead".
 OL,11,FMr Trump is in London for a summit
 OL,12,Fmarking the Western military alliance's
 OL,13,F70th anniversary.
-OL,15,FMr Trump said Nato served a great
-OL,16,Fpurpose, and Mr Macron's remarks had
-OL,17,Fbeen "very insulting".
+OL,15,FThe US president said Nato served a
+OL,16,Fgreat purpose, and Mr Macron's remarks
+OL,17,Fhad been "very insulting".
 OL,19,FHe also said he could see France
 OL,20,F"breaking off" from Nato, but did not
 OL,21,Fexplain why.
@@ -213,7 +214,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -238,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -264,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -290,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -302,21 +303,21 @@ OL,6, Zimbabwe's former President Robert
 OL,7, Mugabe died with $10m (#7.7m) cash in
 OL,8, the bank, a legal letter from his
 OL,9, daughter quoted by state media says.
-OL,11,FHis other assets included four houses,
-OL,12,F10 cars, a farm and an orchard. But he
-OL,13,Fappears not to have left a will,
-OL,14,Faccording to the family's lawyer.
-OL,16,FMugabe, who died in September aged 95,
-OL,17,Fwas ousted in 2017 after 37 years in
-OL,18,Fpower.
-OL,20,FThere had always been rumours about his
-OL,21,Fwealth, including a Scottish castle.
+OL,11,FBut he appears not to have left a will,
+OL,12,Faccording to the family's lawyer,
+OL,13,FTerrence Hussein. 
+OL,15,FMugabe, who died in September aged 95,
+OL,16,Fwas ousted in 2017 after 37 years in
+OL,17,Fpower.
+OL,19,FThere had always been rumours about his
+OL,20,Fwealth, including him owning a Scottish
+OL,21,Fcastle and a $1m property in Asia.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -341,7 +342,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -353,9 +354,9 @@ OL,6, North Korea has officially opened a new
 OL,7, town its media is calling the "epitome
 OL,8, of modern civilisation". 
 OL,10,FLeader Kim Jong-un cut the red ribbon
-OL,11,Fat Samjiyon - hailed as one of the
-OL,12,Fcountry's most important construction
-OL,13,Fprojects.
+OL,11,Fat Samjiyon near Mount Paektu in the
+OL,12,Fnorth - hailed as one of the country's
+OL,13,Fmost important construction projects.
 OL,15,FState media KCNA said the town - which
 OL,16,Fis able to accommodate 4,000 families -
 OL,17,Fboasts new apartments, a ski slope, and
@@ -367,7 +368,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -393,7 +394,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -419,7 +420,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -445,7 +446,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -471,7 +472,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -497,7 +498,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:36:36
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:36:34
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0

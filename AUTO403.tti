@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:34:29
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:35:39
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FMost areas dry, with variable cloud.
-OL,9,FPatchy fog and frost in the south may
-OL,10,Ftake its time to lift, but should allow
-OL,11,Fsome spells of wintry sunshine in
-OL,12,Fplaces. Northwest Scotland will be
-OL,13,Fmilder but with a little drizzle.
+OL,7,GThis Evening and Tonight
+OL,8,FA cold night for southern and eastern
+OL,9,Fparts with a widespread frost in the
+OL,10,Fsouth. Some fog patches likely,
+OL,11,Fparticularly in the southeast where
+OL,12,Fthey may be thick. Windy in the NW with
+OL,13,Frain arriving here later in the night.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FCloud will come and go across the
-OL,17,Fsouth, allowing patchy frost and fog
-OL,18,Fagain. Many other areas dry but drizzle
-OL,19,Fin far northwest Britain is replaced by
-OL,20,Fwetter, windy weather.
+OL,15,GWednesday
+OL,16,FEngland and Wales fine though
+OL,17,Fsoutheastern parts may be cold with fog
+OL,18,Fonly slowly clearing. Cloud and rain in
+OL,19,Fnorthwest slowly moving southwards,
+OL,20,Freaching northern England late in the
+OL,21,Fafternoon.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,18 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E03/12C14:34:29
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C15:35:39
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Thursday to Saturday
-OL,8,FPatchy frost in the south Thursday,
-OL,9,Fbefore rain, heavy across western
-OL,10,FScotland, pushes southeast. Showers
-OL,11,Ffollow for Friday, before further
-OL,12,Fspells of rain or showers Saturday.
-OL,13,FMilder generally, often windy.
+OL,8,FTurning milder and more unsettled with
+OL,9,Fstrong winds and outbreaks of rain,
+OL,10,Fheaviest in the west, spreading to all
+OL,11,Fparts. A drier, cooler and brighter
+OL,12,Finterlude is likely on Saturday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
