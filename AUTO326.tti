@@ -5,12 +5,12 @@ CT,10,T
 PN,32601
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:04:08
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C21:02:17
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GDec 01 22:02    P  W  D  L   F   A Pts
+OL,6, GDec 03 20:54    P  W  D  L   F   A Pts
 OL,8, G1 Wycombe      19 11  7  1  28  14  40
 OL,9, F2 Ipswich      17 10  5  2  27  12  35
 OL,10,B---------------------------------------
@@ -35,15 +35,15 @@ CT,10,T
 PN,32602
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:04:08
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C21:02:17
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GDec 01 22:02    P  W  D  L   F   A Pts
-OL,8,F12 Shrewsbury   17  6  6  5  16  19  24
-OL,9,G13 Doncaster    15  6  5  4  24  17  23
-OL,10,F14 Burton       16  6  5  5  20  17  23
+OL,6, GDec 03 20:54    P  W  D  L   F   A Pts
+OL,8,F12 Burton       17  6  6  5  21  18  24
+OL,9,G13 Shrewsbury   17  6  6  5  16  19  24
+OL,10,F14 Doncaster    15  6  5  4  24  17  23
 OL,11,G15 Gillingham   18  5  6  7  21  21  21
 OL,12,F16 Rochdale     19  5  4 10  21  33  19
 OL,13,G17 Accrington   18  4  6  8  24  28  18
@@ -52,7 +52,7 @@ OL,15,G19 Wimbledon    18  4  4 10  21  28  16
 OL,16,F20 Tranmere     17  4  4  9  21  32  16
 OL,17,B---------------------------------------
 OL,18,G21 MK Dons      18  4  1 13  15  29  13
-OL,19,F22 Southend     18  1  2 15  17  52   5
+OL,19,F22 Southend     19  1  3 15  18  53   6
 OL,20,G23 Bolton       15  3  4  8   9  36   1
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
@@ -65,12 +65,12 @@ CT,10,T
 PN,32603
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E01/12C22:04:08
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C21:02:17
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BLEAGUE ONE 
-OL,6, GDec 01 22:02    P  W  D  L   F   A Pts
+OL,6, GDec 03 20:54    P  W  D  L   F   A Pts
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
