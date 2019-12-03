@@ -5,12 +5,12 @@ CT,10,T
 PN,32401
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:09:33
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C19:33:50
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GDec 02 17:48    P  W  D  L   F   A Pts
+OL,6, GDec 03 19:31    P  W  D  L   F   A Pts
 OL,8, G1 Liverpool    14 13  1  0  32  12  40
 OL,9, F2 Leicester    14 10  2  2  33   9  32
 OL,10, G3 Man City     14  9  2  3  39  16  29
@@ -21,9 +21,9 @@ OL,14,B---------------------------------------
 OL,15, F6 Wolves       14  4  8  2  19  17  20
 OL,16, G7 Sheff Utd    14  4  7  3  17  13  19
 OL,17, F8 Arsenal      14  4  7  3  20  21  19
-OL,18, G9 Man Utd      14  4  6  4  21  17  18
-OL,19,F10 Burnley      14  5  3  6  20  20  18
-OL,20,G11 C Palace     14  5  3  6  13  18  18
+OL,18, G9 C Palace     15  5  4  6  13  18  19
+OL,19,F10 Man Utd      14  4  6  4  21  17  18
+OL,20,G11 Burnley      14  5  3  6  20  20  18
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
@@ -35,13 +35,13 @@ CT,10,T
 PN,32402
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E02/12C18:09:33
+OL,0,XXXXXXXXBNMPSERVER2      E03/12C19:33:50
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GDec 02 17:48    P  W  D  L   F   A Pts
-OL,8,F12 Bournemouth  14  4  4  6  18  20  16
+OL,6, GDec 03 19:31    P  W  D  L   F   A Pts
+OL,8,F12 Bournemouth  15  4  5  6  18  20  17
 OL,9,G13 West Ham     14  4  4  6  17  23  16
 OL,10,F14 Newcastle    14  4  4  6  13  22  16
 OL,11,G15 Aston Villa  14  4  3  7  21  22  15
