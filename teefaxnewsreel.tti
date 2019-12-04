@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat CLOSEGWinnersF11GLosersA90
-OL,14,C FTSE100    G7158.76 A-127.18Fat CLOSE
-OL,15,C techMARK100G5650.35 A-63.97 Fat CLOSE
+OL,12,  FTSE100Fat 07:25GWinnersF50GLosersA51
+OL,14,C FTSE100    G7143.32 A-15.44 Fat 07:25
+OL,15,C techMARK100G5657.38 F+7.03  Fat 07:25
 OL,16,C Dow Jones  G27502.81A-280.23Fat CLOSE
 OL,17,C Nasdaq     G8254.74 A-54.52 Fat CLOSE
-OL,18,C Nikkei     G23135.23A-244.58Fat CLOSE
-OL,19,C DJEurStoxx G3610.99 A-15.67 Fat CLOSE
+OL,18,C Nikkei     G23135.23A-244.58Fat 07:28
+OL,19,C DJEurStoxx G3617.13 F+6.14  Fat 07:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -69,22 +69,20 @@ OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MWhat awaits Jose Mourinho on Old   G303
 OL,6,FGabriel Jesus scores twice in      G304
 OL,7,FJeffrey Schlupp hits winner as     G305
-OL,8,FArsene Wenger 'available' to talk  G306
-OL,9,FMan Utd boss not 'more concerned'  G307
-OL,10,FAmazon crew help after power       G308
-OL,12,FToney goal wins second-round vote  G309
-OL,13,FAustria & Romania named as         G310
-OL,14,FTottenham boss says Man Utd is a   G311
-OL,15,FWhy is it happening? When are they G312
-OL,17,FRicharlison signs new Everton deal G313
-OL,18,FMauricio Pochettino intends to     G314
-OL,19,FHearts offer former Barnsley       G315
+OL,8,FIs this the most one-sided         G306
+OL,9,FArsene Wenger 'available' to talk  G307
+OL,10,FMan Utd boss not 'more concerned'  G308
+OL,12,FAmazon crew help after power       G309
+OL,13,FHow many goalscorers can you name? G310
+OL,14,FToney goal wins second-round vote  G311
+OL,15,FRicharlison signs new Everton deal G312
+OL,17,FEriksen, Pochettino, Solksjaer,    G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -113,7 +111,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -142,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -189,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -208,14 +206,14 @@ OL,14,Fthe Xinjiang autonomous region, Chen
 OL,15,FQuanguo.
 OL,17,FThe bill still needs approval from the
 OL,18,FSenate and from President Trump.
-OL,20,FChina's foreign ministry reacted
-OL,21,Fangrily, calling the move "malicious".
+OL,20,FChina reacted angrily, calling it a
+OL,21,F"gross interference".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -241,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -267,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -283,17 +281,17 @@ OL,11,FCrews from several fire stations were
 OL,12,Fcalled to the Travelodge on the High
 OL,13,FStreet, Brentford, at 02:52 GMT.
 OL,15,FThe fire started in the "bin room" of
-OL,16,Fthe ground floor of the hotel and had
-OL,17,Falready spread to the five other floors
-OL,18,Fby the time firefighters arrived.
-OL,20,FLondon Fire Brigade said there are no
-OL,21,Freported injuries.
+OL,16,Fthe ground floor of a neighbouring
+OL,17,Fbuilding and had spread to the
+OL,18,Ffive-floor hotel.
+OL,20,FLondon Fire Brigade (LFB) said there
+OL,21,Fare no reported injuries.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -319,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -345,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -371,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -380,23 +378,24 @@ OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
 OL,4,CMusk says 'pedo guy' tweet not meant
 OL,5,Cliterally
 OL,6, Tesla founder Elon Musk has appeared in
-OL,7, court in California to answer a lawsuit
-OL,8, brought by a British cave diver he
-OL,9, called "pedo guy" on Twitter. 
+OL,7, court in Los Angeles to answer a
+OL,8, lawsuit brought by a British cave diver
+OL,9, he called "pedo guy" on Twitter. 
 OL,11,FVernon Unsworth, who helped rescue 12
 OL,12,Fboys trapped in a Thai cave last year,
 OL,13,Fis suing for defamation. 
 OL,15,FMr Musk, the first to testify at the
-OL,16,FLos Angeles court, said Mr Unsworth had
-OL,17,Finsulted him, so he insulted him back.
-OL,19,FHe said the "pedo guy" tweet was not
-OL,20,Fmeant to be taken literally.
+OL,16,Fcourt, said Mr Unsworth had insulted
+OL,17,Fhim, so he had insulted him back.
+OL,19,FThe 48-year-old said the "pedo guy"
+OL,20,Ftweet had not been meant to be taken
+OL,21,Fliterally.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -421,7 +420,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -447,33 +446,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSacked rugby player Folau settles
-OL,5,Canti-gay case
-OL,6, Rugby player Israel Folau has reached a
-OL,7, settlement with Rugby Australia (RA)
-OL,8, over his controversial sacking for
-OL,9, writing anti-gay posts on social media.
-OL,11,FThe former Wallabies star had been
-OL,12,Fsuing RA for A$14m (#7.4m; $9.5m) after
-OL,13,Fhaving his contract terminated in May.
-OL,15,FFolau, a Christian, argued that the
-OL,16,Ftermination of his contract was a case
-OL,17,Fof religious discrimination. 
-OL,19,FThe parties had settled for a
-OL,20,Fconfidential amount, according to a
-OL,21,Fjoint statement on Wednesday.
+OL,4,CMusk says 'pedo guy' tweet not meant
+OL,5,Cliterally
+OL,6, Tesla founder Elon Musk has appeared in
+OL,7, court in Los Angeles to answer a
+OL,8, lawsuit brought by a British cave diver
+OL,9, he called "pedo guy" on Twitter. 
+OL,11,FVernon Unsworth, who helped rescue 12
+OL,12,Fboys trapped in a Thai cave last year,
+OL,13,Fis suing for defamation. 
+OL,15,FMr Musk, the first to testify at the
+OL,16,Fcourt, said Mr Unsworth had insulted
+OL,17,Fhim, so he had insulted him back.
+OL,19,FThe 48-year-old said the "pedo guy"
+OL,20,Ftweet had not been meant to be taken
+OL,21,Fliterally.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -499,25 +498,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C07:43:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C08:41:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMusk says 'pedo guy' tweet not meant
-OL,5,Cliterally
-OL,6, Tesla founder Elon Musk has appeared in
-OL,7, court in California to answer a lawsuit
-OL,8, brought by a British cave diver he
-OL,9, called "pedo guy" on Twitter. 
-OL,11,FVernon Unsworth, who helped rescue 12
-OL,12,Fboys trapped in a Thai cave last year,
-OL,13,Fis suing for defamation. 
-OL,15,FMr Musk, the first to testify at the
-OL,16,FLos Angeles court, said Mr Unsworth had
-OL,17,Finsulted him, so he insulted him back.
-OL,19,FHe said the "pedo guy" tweet was not
-OL,20,Fmeant to be taken literally.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CPeloton bike ad labelled 'sexist' and
+OL,5,C'dystopian'
+OL,6, A Christmas advert from exercise bike
+OL,7, company Peloton has been widely mocked
+OL,8, on social media as being "sexist", "out
+OL,9, of touch", and even "dystopian".
+OL,11,FThe ad, which has been viewed more than
+OL,12,Fa million times on YouTube, sees a
+OL,13,Fwoman receive an exercise bike for
+OL,14,FChristmas from her husband.
+OL,16,FShe then records her workouts over the
+OL,17,Ffollowing year in a vlog and presents
+OL,18,Fit to him as a way of saying thank you.
+OL,20,F"A year ago, I didn't realise how much
+OL,21,Fthis would change me," she says.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
