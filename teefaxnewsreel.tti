@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -21,18 +21,18 @@ OL,12,GGoogle co-founders Page and Brin   C107
 OL,13,Gstep down                              
 OL,14,GConservatives pledge #4.2bn for    C108
 OL,15,Glocal transport                        
-OL,16,GCarbon emissions edge up as coal   C109
-OL,17,Guse falls                              
+OL,16,GMusk takes stand in 'pedo guy'     C109
+OL,17,Gcourt case                             
 OL,18,GLondon Bridge attacker's family    C110
 OL,19,G'shocked'                              
-OL,20,GKamala Harris ends bid for US      C111
-OL,21,Gpresidency                             
+OL,20,GUS votes for sanctions over China  C111
+OL,21,GUighur treatment                       
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7158.76 A-127.18Fat CLOSE
 OL,15,C techMARK100G5650.35 A-63.97 Fat CLOSE
 OL,16,C Dow Jones  G27502.81A-280.23Fat CLOSE
 OL,17,C Nasdaq     G8254.74 A-54.52 Fat CLOSE
-OL,18,C Nikkei     G23097.98A-281.83Fat 01:25
+OL,18,C Nikkei     G23087.80A-292.01Fat 01:55
 OL,19,C DJEurStoxx G3610.99 A-15.67 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,7 +84,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G        Wednesday Evening            
@@ -97,23 +97,23 @@ OL,7,           ^ZV ~ow1  F
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 06V} B              
 OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG05VtV+"VG04V B             
+OL,11,       ZVnG05VtV+"VG05V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BCloudy    
-OL,14,B            ^ZR`  R*G 04R}  B         
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 04R}zt B       
-OL,17,B              ZRj^VG 01R B       
-OL,18,B            ZRx|^G 03R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 02R/!        
-OL,21,B            ZR zG03R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,13,        ZV+%*o!V" R *u  B          
+OL,14,B            ^ZQ`  R*G 04R} B          
+OL,15,B            ^ZQk|V            
+OL,16,B            ^ZQ'oG 04R}zt B       
+OL,17,AMisty         ZQj^VG 01R B       
+OL,18,A            ZQx|^G 03R'         
+OL,19,             ^ZQ! +/'iSqp0        
+OL,20,BCloudy      ^ZR  tG 02S/!        
+OL,21,B            ZR zG03R^/s/S/? CFoggy    
+OL,22,            ZR8?' "'    "     C        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Thursday                
@@ -126,7 +126,7 @@ OL,7,           ^ZV ~ow1  F
 OL,8,BLight Rain^ZR*y?sp  B              
 OL,9,           ^ZRj)"G 10R} B              
 OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG12RtR+"VG09V B             
+OL,11,       ZRnG11RtR+"VG09V B             
 OL,12,       ZR+V`4V+|0             
 OL,13,        ZR+%*o!V" V *u  B          
 OL,14,B            ^ZV`  V*G 08V} B          
@@ -135,14 +135,14 @@ OL,16,B            ^ZV'oG 08V}zt B
 OL,17,B              ZVj^VG 07V B       
 OL,18,B            ZVx|^G 10V'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 08V/!        
-OL,21,B            ZV zG11V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,20,COvercast    ^ZS  tG 08V/!        
+OL,21,C            ZS zG11S^/s/V/? B         
+OL,22,            ZS8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -189,7 +189,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -215,7 +215,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -240,7 +240,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -266,7 +266,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -292,33 +292,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
-OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
-OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
-OL,4,CCarbon emissions edge up as coal use
-OL,5,Cfalls
-OL,6, Researchers say that carbon dioxide
-OL,7, emissions this year have risen
-OL,8, slightly, despite a drop in the use of
-OL,9, coal.
-OL,11,FThe Global Carbon Project's annual
-OL,12,Fanalysis of emission trends suggests
-OL,13,Fthat CO2 will go up by 0.6% in 2019.
-OL,15,FThe rise is due to continuing strong
-OL,16,Fgrowth in the utilisation of oil and
-OL,17,Fgas. 
-OL,19,FSince the Paris agreement was set out
-OL,20,Fin 2015, CO2 emissions have risen by
-OL,21,F4%.
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CMusk takes stand in 'pedo guy' court
+OL,5,Ccase
+OL,6, Tesla founder Elon Musk has appeared in
+OL,7, court in California to answer a lawsuit
+OL,8, brought by a British cave diver he
+OL,9, called "pedo guy" on Twitter. 
+OL,11,FVernon Unsworth, who helped rescue 12
+OL,12,Fboys trapped in a Thai cave last year,
+OL,13,Fis suing for defamation. 
+OL,15,FMr Musk, the first to testify at the
+OL,16,FLos Angeles court, said Mr Unsworth had
+OL,17,Finsulted him, so he insulted him back.
+OL,19,FMr Unsworth's legal team have described
+OL,20,FMr Musk's tweet as "vile and false" and
+OL,21,Fare seeking punitive damages.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -344,33 +344,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CKamala Harris ends bid for US
-OL,5,Cpresidency
-OL,6, Democratic White House hopeful Kamala
-OL,7, Harris is dropping out of the
-OL,8, presidential race.
-OL,10,FThe California senator's campaign
-OL,11,Fseemed full of promise when it launched
-OL,12,Fin January, but she struggled to make
-OL,13,Fheadway in a crowded field.
-OL,15,FIn November her cash-strapped bid laid
-OL,16,Foff staff at its Baltimore HQ and in
-OL,17,FNew Hampshire and her home state.
-OL,19,FThe 55-year-old, a vocal critic of
-OL,20,FPresident Donald Trump, was once seen
-OL,21,Fas a rising star within the party.
+OL,4,CUS votes for sanctions over China
+OL,5,CUighur treatment
+OL,6, The US House of Representatives has
+OL,7, passed a bill to counter what it calls
+OL,8, "arbitrary detention, torture, and
+OL,9, harassment" of Uighur Muslims in China.
+OL,11,FThe bill calls for "targeted sanctions"
+OL,12,Fon members of the Chinese government -
+OL,13,Fand specifically names the Communist
+OL,14,FParty secretary in the Xinjiang
+OL,15,Fautonomous region, Chen Quanguo.
+OL,17,FThe bill still needs to be approved by
+OL,18,Fthe Senate and President Trump.
+OL,20,FChina's foreign ministry insisted
+OL,21,FXinjiang was an "internal affair". 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -396,31 +396,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CKorean actor Cha In-ha dies aged 27
-OL,5, South Korean actor Cha In-ha has been
-OL,6, found dead at his home in Seoul, the
-OL,7, latest celebrity loss of life to rock
-OL,8, the country's entertainment industry.
-OL,10,FThe 27-year-old star's agency released
-OL,11,Fa statement saying it was "filled with
-OL,12,Fgrief", and urged people not to
-OL,13,Fspeculate on the cause of death.
-OL,15,FCha had most recently been appearing in
-OL,16,Fthe TV series Love With Flaws.
-OL,18,FHe is the third young Korean star to
-OL,19,Fdie in the space of two months. 
+OL,4,CKamala Harris ends bid for US
+OL,5,Cpresidency
+OL,6, Democratic White House hopeful Kamala
+OL,7, Harris is dropping out of the
+OL,8, presidential race.
+OL,10,FThe California senator's campaign
+OL,11,Fseemed full of promise when it launched
+OL,12,Fin January, but she struggled to make
+OL,13,Fheadway in a crowded field.
+OL,15,FIn November her cash-strapped bid laid
+OL,16,Foff staff at its Baltimore HQ and in
+OL,17,FNew Hampshire and her home state.
+OL,19,FThe 55-year-old, a vocal critic of
+OL,20,FPresident Donald Trump, was once seen
+OL,21,Fas a rising star within the party.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -446,33 +448,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTrump and Macron clash at tense Nato
-OL,5,Csummit
-OL,6, US President Donald Trump and French
-OL,7, leader Emmanuel Macron have set out
-OL,8, opposing views ahead of a Nato summit.
-OL,10,FIn an occasionally tense press
-OL,11,Fconference, the two politicians sparred
-OL,12,Fover Nato's role, Turkey, and Islamic
-OL,13,FState group (IS) fighters.
-OL,15,FMr Trump had described Mr Macron's
-OL,16,Fcomments about Nato as "nasty", but Mr
-OL,17,FMacron said he stood by his words. 
-OL,19,FWorld leaders are in London to mark the
-OL,20,FWestern military alliance's 70th
-OL,21,Fanniversary.
+OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
+OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
+OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
+OL,4,CCarbon emissions edge up as coal use
+OL,5,Cfalls
+OL,6, Researchers say that carbon dioxide
+OL,7, emissions this year have risen
+OL,8, slightly, despite a drop in the use of
+OL,9, coal.
+OL,11,FThe Global Carbon Project's annual
+OL,12,Fanalysis of emission trends suggests
+OL,13,Fthat CO2 will go up by 0.6% in 2019.
+OL,15,FThe rise is due to continuing strong
+OL,16,Fgrowth in the utilisation of oil and
+OL,17,Fgas. 
+OL,19,FSince the Paris agreement was set out
+OL,20,Fin 2015, CO2 emissions have risen by
+OL,21,F4%.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -498,26 +500,25 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C02:38:26
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C03:34:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIran state TV acknowledges deaths
-OL,5,Cduring protests
-OL,6, Iranian state TV has said security
-OL,7, forces killed what it called "thugs and
-OL,8, rioters" during last month's mass
-OL,9, protests against a petrol price rise.
-OL,11,FActivists have accused the authorities
-OL,12,Fof deliberately covering up the scale
-OL,13,Fof the crackdown on the four days of
-OL,14,Funrest in more than 100 locations.
-OL,16,FAmnesty International has said at least
-OL,17,F208 people were killed, but others have
-OL,18,Fput the death toll at close to 400. 
-OL,20,FA judiciary spokesman has dismissed
-OL,21,Fsuch reports as "utter lies".
+OL,4,CAustralia denies medical evacuations
+OL,5,Cfor refugees
+OL,6, Australia has controversially repealed
+OL,7, a law which allowed sick refugees held
+OL,8, offshore to be treated in the country.
+OL,10,FThe government's push to scrap the
+OL,11,F"medevac" law - passed by opposition
+OL,12,FMPs in February - has drawn criticism
+OL,13,Fas cruel and inhumane.
+OL,15,FBut Prime Minister Scott Morrison
+OL,16,Fargued the law had presented a
+OL,17,F"national security" risk.
+OL,19,FAt least 12 people have died under
+OL,20,FAustralia's offshore detention policy.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
