@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -13,14 +13,14 @@ OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MBridge attacker rehabilitation     C104
 OL,6,Gscheme 'untested'                      
-OL,8,GUS votes for sanctions over China  C105
-OL,9,GUighur treatment                       
+OL,8,GUS House votes for China sanctions C105
+OL,9,Gover Uighurs                           
 OL,10,GNato leaders gather as alliance's  C106
 OL,11,Gcracks show                            
 OL,12,GImpeachment evidence overwhelming -C107
 OL,13,Greport                                 
-OL,14,GMusk says 'pedo guy' tweet not     C108
-OL,15,Gmeant literally                        
+OL,14,G100 firefighters tackling hotel    C108
+OL,15,Gblaze                                  
 OL,16,GGoogle co-founders Page and Brin   C109
 OL,17,Gstep down                              
 OL,18,GConservatives pledge #4.2bn for    C110
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7158.76 A-127.18Fat CLOSE
 OL,15,C techMARK100G5650.35 A-63.97 Fat CLOSE
 OL,16,C Dow Jones  G27502.81A-280.23Fat CLOSE
 OL,17,C Nasdaq     G8254.74 A-54.52 Fat CLOSE
-OL,18,C Nikkei     G23143.68A-236.13Fat 04:25
+OL,18,C Nikkei     G23135.23A-244.58Fat 05:20
 OL,19,C DJEurStoxx G3610.99 A-15.67 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -78,42 +78,42 @@ OL,14,FWhy is it happening? When are they G311
 OL,15,FRicharlison signs new Everton deal G312
 OL,17,FMauricio Pochettino intends to     G313
 OL,18,Fhome nations bid signs 'positive', G314
-OL,19,FEriksen, Pochettino, Fernandes,    G315
+OL,19,FHearts offer former Barnsley       G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G        Wednesday Evening            
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G05S%  CHeavy Rain     
-OL,4,           SZj**gppp  C              
+OL,1,T]G            Wednesday                
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G09U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G04V!FSome Cloud     
+OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 06V} B              
-OL,10,       ^ZVp|t VxRg0 BCloudy       
-OL,11,       ZVnG05VtV+"RG05R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZU`  R*G 04R} B          
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 04V}zt B       
-OL,17,EMisty         ZUj^RG 01V B       
-OL,18,E            ZUx|^G 03V'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,B            ^ZR  tG 02U/!        
-OL,21,B            ZR zG02R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,ELight Rain^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 09V} B              
+OL,10,       ^ZUp|t VxRg0 BSunny        
+OL,11,       ZUnG09UtV+"RG08R  B            
+OL,12,       ZU+R`4R+|0             
+OL,13,        ZU+%*o!R" R *u  B          
+OL,14,E            ^ZR`  R*G 06R} B          
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 06R}zt B       
+OL,17,B              ZRj^RG 06R B       
+OL,18,B            ZRx|^G 06R'         
+OL,19,             ^ZR! +/'iSqp0        
+OL,20,B            ^ZR  tG 05S/!        
+OL,21,B            ZR zG09R^/s/S/?      CSome
+OL,22,            ZR8?' "'    "    CCloud    
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Thursday                
@@ -126,7 +126,7 @@ OL,7,           ^ZV ~ow1  F
 OL,8,BLight Rain^ZR*y?sp  B              
 OL,9,           ^ZRj)"G 10R} B              
 OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG11RtR+"VG09V B             
+OL,11,       ZRnG12RtR+"VG09V B             
 OL,12,       ZR+V`4V+|0             
 OL,13,        ZR+%*o!V" V *u  B          
 OL,14,B            ^ZV`  V*G 08V} B          
@@ -142,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -173,8 +173,8 @@ OL,4,CBridge attacker rehabilitation scheme
 OL,5,C'untested'
 OL,6, London Bridge attacker Usman Khan
 OL,7, attended two counter-terrorism
-OL,8, programmes that have not been fully
-OL,9, tested to see if they are effective,
+OL,8, programmes that had not been fully
+OL,9, tested to see if they were effective,
 OL,10, BBC News has discovered.
 OL,12,FKhan, who was convicted of a terrorism
 OL,13,Foffence in 2012, killed Jack Merritt,
@@ -189,33 +189,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUS votes for sanctions over China
-OL,5,CUighur treatment
+OL,4,CUS House votes for China sanctions over
+OL,5,CUighurs
 OL,6, The US House of Representatives has
 OL,7, passed a bill to counter what it calls
 OL,8, the "arbitrary detention, torture, and
 OL,9, harassment" of Uighur Muslims in China.
-OL,11,FThe bill calls for "targeted sanctions"
-OL,12,Fon members of the Chinese government -
-OL,13,Fand names the Communist Party secretary
-OL,14,Fin the Xinjiang autonomous region, Chen
+OL,11,FIt calls for "targeted sanctions" on
+OL,12,Fmembers of the Chinese government - and
+OL,13,Fnames the Communist Party secretary in
+OL,14,Fthe Xinjiang autonomous region, Chen
 OL,15,FQuanguo.
-OL,17,FThe bill still needs to be approved by
-OL,18,Fthe Senate and President Trump.
+OL,17,FThe bill still needs approval from the
+OL,18,FSenate and from President Trump.
 OL,20,FChina's foreign ministry reacted
-OL,21,Fangrily, calling the bill "malicious".
+OL,21,Fangrily, calling the move "malicious".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -228,9 +228,9 @@ OL,7, London for formal talks on Wednesday,
 OL,8, as they gather to mark the military
 OL,9, alliance's 70th anniversary.
 OL,11,FThe talks will take place at a luxury
-OL,12,Fhotel near Watford and follows
-OL,13,Freceptions held Tuesday at Buckingham
-OL,14,FPalace and Downing Street.
+OL,12,Fhotel near Watford and follow
+OL,13,Freceptions held on Tuesday at
+OL,14,FBuckingham Palace and Downing Street.
 OL,16,FThe two-day summit has so far been
 OL,17,Fovershadowed by tension between allies.
 OL,19,FTuesday saw sharp exchanges between US
@@ -241,7 +241,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -267,32 +267,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMusk says 'pedo guy' tweet not meant
-OL,5,Cliterally
-OL,6, Tesla founder Elon Musk has appeared in
-OL,7, court in California to answer a lawsuit
-OL,8, brought by a British cave diver he
-OL,9, called "pedo guy" on Twitter. 
-OL,11,FVernon Unsworth, who helped rescue 12
-OL,12,Fboys trapped in a Thai cave last year,
-OL,13,Fis suing for defamation. 
-OL,15,FMr Musk, the first to testify at the
-OL,16,FLos Angeles court, said Mr Unsworth had
-OL,17,Finsulted him, so he insulted him back.
-OL,19,FHe said the "pedo guy" tweet was not
-OL,20,Fmeant to be taken literally.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,C100 firefighters tackling hotel blaze
+OL,5, Up to 100 firefighters are tackling a
+OL,6, major blaze at a hotel in west London
+OL,7, which has forced the evacuation of
+OL,8, guests and staff.
+OL,10,FCrews were called to the five-storey
+OL,11,FTravelodge in the High Street,
+OL,12,FBrentford at about 02:50 GMT, London
+OL,13,FFire Brigade said.
+OL,15,FStation commander Nathan Hobson said a
+OL,16,Fbin room on the ground floor was
+OL,17,Falight, which had spread to the hotel. 
+OL,19,FFirefighters are carrying out a
+OL,20,F"systematic search" of the building.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -318,7 +318,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -344,7 +344,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -357,9 +357,9 @@ OL,7, London for formal talks on Wednesday,
 OL,8, as they gather to mark the military
 OL,9, alliance's 70th anniversary.
 OL,11,FThe talks will take place at a luxury
-OL,12,Fhotel near Watford and follows
-OL,13,Freceptions held Tuesday at Buckingham
-OL,14,FPalace and Downing Street.
+OL,12,Fhotel near Watford and follow
+OL,13,Freceptions held on Tuesday at
+OL,14,FBuckingham Palace and Downing Street.
 OL,16,FThe two-day summit has so far been
 OL,17,Fovershadowed by tension between allies.
 OL,19,FTuesday saw sharp exchanges between US
@@ -370,33 +370,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CFour share Turner Prize after plea from
-OL,5,Cnominees
-OL,6, The four artists nominated for the 2019
-OL,7, Turner Prize will share this year's
-OL,8, award after urging the judges not to
-OL,9, choose any of them as a single winner.
-OL,11,FLawrence Abu Hamdan, Helen Cammock, Tai
-OL,12,FShani and Oscar Murillo got together to
-OL,13,Fwrite to the prestigious prize's panel.
-OL,15,FThey said they wanted to make a
-OL,16,F"collective statement" at a time when
-OL,17,Fthere was "already so much that divides
-OL,18,Fand isolates people and communities".
-OL,20,FThe judges agreed and revealed the move
-OL,21,Fat Tuesday's ceremony in Margate, Kent.
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CMusk says 'pedo guy' tweet not meant
+OL,5,Cliterally
+OL,6, Tesla founder Elon Musk has appeared in
+OL,7, court in California to answer a lawsuit
+OL,8, brought by a British cave diver he
+OL,9, called "pedo guy" on Twitter. 
+OL,11,FVernon Unsworth, who helped rescue 12
+OL,12,Fboys trapped in a Thai cave last year,
+OL,13,Fis suing for defamation. 
+OL,15,FMr Musk, the first to testify at the
+OL,16,FLos Angeles court, said Mr Unsworth had
+OL,17,Finsulted him, so he insulted him back.
+OL,19,FHe said the "pedo guy" tweet was not
+OL,20,Fmeant to be taken literally.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -421,33 +420,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
-OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
-OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
-OL,4,C'Forgotten' elm tree set to make a
-OL,5,Ccomeback
-OL,6, The elm tree can return to the British
-OL,7, countryside, given a helping hand,
-OL,8, according to a new report.
-OL,10,FMore than 20 million trees died during
-OL,11,Fthe 1960s and 1970s from Dutch elm
-OL,12,Fdisease.
-OL,14,FIn the aftermath, the elm was largely
-OL,15,Fforgotten, except among a handful of
-OL,16,Fenthusiasts who have been breeding
-OL,17,Felite elms that can withstand attack.
-OL,19,FThe research is showing promise and
-OL,20,Fthere is reason to be hopeful, said the
-OL,21,FFuture Trees Trust charity.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CFour share Turner Prize after plea from
+OL,5,Cnominees
+OL,6, The four artists nominated for the 2019
+OL,7, Turner Prize will share this year's
+OL,8, award after urging the judges not to
+OL,9, choose any of them as a single winner.
+OL,11,FLawrence Abu Hamdan, Helen Cammock, Tai
+OL,12,FShani and Oscar Murillo got together to
+OL,13,Fwrite to the prestigious prize's panel.
+OL,15,FThey said they wanted to make a
+OL,16,F"collective statement" at a time when
+OL,17,Fthere was "already so much that divides
+OL,18,Fand isolates people and communities".
+OL,20,FThe judges agreed and revealed the move
+OL,21,Fat Tuesday's ceremony in Margate, Kent.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -473,7 +472,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -499,7 +498,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C05:36:34
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C06:40:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
