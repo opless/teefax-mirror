@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 11:25GWinnersF71GLosersA30
-OL,14,C FTSE100    G7172.66 F+13.90 Fat 11:25
-OL,15,C techMARK100G5648.22 A-2.13  Fat 11:25
+OL,12,  FTSE100Fat 12:30GWinnersF60GLosersA41
+OL,14,C FTSE100    G7149.56 A-9.20  Fat 12:30
+OL,15,C techMARK100G5641.45 A-8.90  Fat 12:30
 OL,16,C Dow Jones  G27502.81A-280.23Fat CLOSE
 OL,17,C Nasdaq     G8254.74 A-54.52 Fat CLOSE
 OL,18,C Nikkei     G23135.23A-24,458Fat 07:44
-OL,19,C DJEurStoxx G3662.05 F+51.06 Fat 11:25
+OL,19,C DJEurStoxx G3659.92 F+48.93 Fat 12:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -75,73 +75,74 @@ OL,10,FAgent fees for international       G308
 OL,12,FArsene Wenger 'available' to talk  G309
 OL,13,FMan Utd boss not 'more concerned'  G310
 OL,14,FHow many goalscorers can you name? G311
-OL,15,FBirmingham City appoint caretaker  G312
-OL,17,FScottish Premiership team news,    G313
-OL,18,FEriksen, Pochettino, Solksjaer,    G314
+OL,15,FLiverpool boss Jurgen Klopp says   G312
+OL,17,FBirmingham City appoint caretaker  G313
+OL,18,FScottish Premiership team news,    G314
+OL,19,FEriksen, Pochettino, Solksjaer,    G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G08S%  CLight Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G08R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G08V!FCloudy         
+OL,6,            ZV!'~G09V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 09V} B              
-OL,10,       ^ZUp|t VxVg0 B             
-OL,11,       ZUnG09UtV+"VG08V B             
-OL,12,       ZU+V`4V+|0             
-OL,13,        ZU+%*o!V" R *u  BSunny     
-OL,14,B            ^ZR`  R*G 06R}  B         
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 06R}zt B       
-OL,17,B              ZRj^RG 07R B       
-OL,18,B            ZRx|^G 06R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,ESome Cloud  ^ZU  tG 07R/!        
-OL,21,E            ZU zG09U^/s/R/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,10,       ^ZRp|t VxRg0 BSome Cloud   
+OL,11,       ZRnG09RtV+"RG08R  B            
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" U *u  ESunny     
+OL,14,B            ^ZU`  U*G 06U}  E         
+OL,15,B            ^ZUk|U            
+OL,16,B            ^ZU'oG 06U}zt B       
+OL,17,B              ZUj^UG 07U B       
+OL,18,B            ZUx|^G 07U'         
+OL,19,             ^ZU! +/'iUqp0        
+OL,20,B            ^ZV  tG 08U/!        
+OL,21,B            ZV zG09V^/s/U/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G10U%  EHeavy Rain     
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G10R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  B              
-OL,9,           ^ZRj)"G 10R} B              
-OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG12RtR+"VG09V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 08V} B          
-OL,15,BLight Rain  ^ZVk|V            
-OL,16,B            ^ZV'oG 08R}zt B       
-OL,17,B              ZVj^VG 07R B       
-OL,18,B            ZVx|^G 09R'         
+OL,8,EOvercast  ^ZR*y?sp  BHeavy Rain    
+OL,9,           ^ZRj)"G 10R}  B             
+OL,10,       ^ZUp|t RxVg0 B             
+OL,11,       ZUnG11UtR+"VG09V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" V *u  B          
+OL,14,E            ^ZV`  V*G 08V} B          
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 08V}zt B       
+OL,17,B              ZVj^VG 07V B       
+OL,18,B            ZVx|^G 09V'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 08V/!        
+OL,20,B            ^ZV  tG 09V/!        
 OL,21,B            ZV zG10V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -188,7 +189,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -214,7 +215,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -240,7 +241,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -266,7 +267,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -292,7 +293,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -318,7 +319,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -334,7 +335,7 @@ OL,11,FLawyers acting for the company went to
 OL,12,Fthe Court of Session in Edinburgh
 OL,13,Fseeking an interim interdict against
 OL,14,FGreenpeace.
-OL,16,FIt followed protesters boarding
+OL,16,FIt comes after protesters boarded
 OL,17,Fplatforms in the Brent field off
 OL,18,FShetland in October.
 OL,20,FLady Carmichael ruled the activists had
@@ -344,7 +345,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -370,7 +371,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -396,33 +397,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CJapanese 'hero' among six dead in
-OL,5,CAfghan attack
-OL,6, A Japanese doctor who devoted his
-OL,7, career to improving the lives of
-OL,8, Afghans has died, after being injured
-OL,9, in an attack in eastern Afghanistan.
-OL,11,FGunmen shot Tetsu Nakamura, 73, while
-OL,12,Fhe was travelling in a car to monitor a
-OL,13,Fproject, officials say. 
-OL,15,FFive Afghans were also killed in the
-OL,16,Fattack, which happened in the city of
-OL,17,FJalalabad.
-OL,19,FDr Nakamura headed a Japanese charity
-OL,20,Ffocused on improving irrigation in the
-OL,21,Fcountry.
+OL,4,CTeenager dies trying to rescue man in
+OL,5,CKenyan flood
+OL,6, Rescuers in Kenya have retrieved the
+OL,7, body of a teenager who drowned as she
+OL,8, tried to save a man who had got into
+OL,9, trouble as he was crossing a swollen
+OL,10, river.
+OL,12,FAnna Nduku, 19, fell into the Kandisi
+OL,13,Friver near Ongata Rongai, on the
+OL,14,Foutskirts of the capital, Nairobi, on
+OL,15,FTuesday.
+OL,17,FShe is one of more than 130 people who
+OL,18,Fhave died as a result of the flooding
+OL,19,Fcaused by the heavy rains that have
+OL,20,Fbeen falling since October.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -448,7 +449,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -474,7 +475,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -500,26 +501,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C12:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C13:36:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSlut-shamed for being abducted at
-OL,5,Cgunpoint
-OL,6, It's been three days since Dua Mangi
-OL,7, was kidnapped from an affluent
-OL,8, neighbourhood of Pakistan's biggest
-OL,9, city Karachi, but there is still no
-OL,10, trace of her.
-OL,12,FHer friend Haris Soomro, with whom she
-OL,13,Fwas walking down the street when she
-OL,14,Fwas abducted by four or five armed men,
-OL,15,Fwas shot and injured by one of the
-OL,16,Fassailants when he tried to resist.
-OL,18,FHe's still in hospital - reports say he
-OL,19,Fwas shot in the neck - and his
-OL,20,Fcondition is not said to be stable.
+OL,4,CJapanese 'hero' among six dead in
+OL,5,CAfghan attack
+OL,6, A Japanese doctor who devoted his
+OL,7, career to improving the lives of
+OL,8, Afghans has died, after being injured
+OL,9, in an attack in eastern Afghanistan.
+OL,11,FGunmen shot Tetsu Nakamura, 73, while
+OL,12,Fhe was travelling in a car to monitor a
+OL,13,Fproject, officials say. 
+OL,15,FFive Afghans were also killed in the
+OL,16,Fattack, which happened in the city of
+OL,17,FJalalabad.
+OL,19,FDr Nakamura headed a Japanese charity
+OL,20,Ffocused on improving irrigation in the
+OL,21,Fcountry.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
