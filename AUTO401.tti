@@ -5,11 +5,11 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C18:35:51
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C19:37:33
 OL,1,T]G           This Evening              
-OL,2,           ^ZS 4`~|}            G 1/2 
-OL,3,           ZS`?0~G05S%  CLight Rain     
-OL,4,           SZj**gppp  C              
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G05U%  ELight Rain     
+OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSome Cloud     
 OL,7,           ^ZV ~ow1  F              
@@ -19,14 +19,14 @@ OL,10,       ^ZVp|t VxRg0 B
 OL,11,       ZVnG05VtV+"RG05R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  BCloudy    
-OL,14,B            ^ZU`  R*G 04R}  B         
-OL,15,B            ^ZUk|Q            
-OL,16,B            ^ZU'oG 03V}zt AClear  
-OL,17,EMisty         ZUj^QG 01V  A      
-OL,18,E            ZUx|^G 02V'         
-OL,19,             ^ZU! +/'iUqp0        
-OL,20,B            ^ZV  tG 01U/!        
-OL,21,B            ZV zG02V^/s/U/? B         
+OL,14,B            ^ZQ`  R*G 04R}  B         
+OL,15,B            ^ZQk|S            
+OL,16,B            ^ZQ'oG 03V}zt CClear  
+OL,17,AMisty         ZQj^SG 01V  C      
+OL,18,A            ZQx|^G 01V'         
+OL,19,             ^ZQ! +/'iVqp0        
+OL,20,B            ^ZV  tG 01V/!        
+OL,21,B            ZV zG02V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C18:35:51
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C19:37:33
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZU 4`~|}            G 2/2 
 OL,3,           ZU`?0~G10U%  EHeavy Rain     
