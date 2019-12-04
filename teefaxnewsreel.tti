@@ -5,15 +5,15 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MUK's commitment to Nato is 'rock   C104
-OL,6,Gsolid' - Johnson                       
-OL,8,GTrump says Trudeau 'two-faced' at  C105
+OL,4,MPM hails Nato 'solidarity' after   C104
+OL,6,Ganniversary talks                      
+OL,8,GTrump calls Trudeau 'two-faced' at C105
 OL,9,GNato summit                            
 OL,10,GBridge attacker rehabilitation     C106
 OL,11,Gscheme 'untested'                      
@@ -21,8 +21,8 @@ OL,12,GGermany expels Russia diplomats    C107
 OL,13,Gover Berlin murder                     
 OL,14,GDozens evacuated from London       C108
 OL,15,GTravelodge fire                        
-OL,16,GNew Trump impeachment hearings     C109
-OL,17,Gbegin with experts                     
+OL,16,GShould Trump be impeached? Law     C109
+OL,17,Gexperts weigh in                       
 OL,18,GUK's biggest commercial property   C110
 OL,19,Gfund suspended                         
 OL,20,GUnvaccinated Samoans told to hang  C111
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 14:25GWinnersF67GLosersA34
-OL,14,C FTSE100    G7173.00 F+14.24 Fat 14:25
-OL,15,C techMARK100G5646.51 A-3.84  Fat 14:25
-OL,16,C Dow Jones  G27679.83F+177.02Fat 14:25
-OL,17,C Nasdaq     G8308.03 F+53.29 Fat 14:25
+OL,12,  FTSE100Fat 15:25GWinnersF66GLosersA35
+OL,14,C FTSE100    G7167.72 F+8.96  Fat 15:25
+OL,15,C techMARK100G5641.36 A-8.99  Fat 15:25
+OL,16,C Dow Jones  G27695.50F+192.69Fat 15:25
+OL,17,C Nasdaq     G8305.01 F+50.27 Fat 15:25
 OL,18,C Nikkei     G23135.23A-24,458Fat 07:44
-OL,19,C DJEurStoxx G3661.29 F+50.30 Fat 14:25
+OL,19,C DJEurStoxx G3659.34 F+48.35 Fat 15:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -71,12 +71,12 @@ OL,6,FIs this the most one-sided         G304
 OL,7,FFormer Macclesfield boss backs     G305
 OL,8,FAgent fees for international       G306
 OL,9,FTottenham Hotspur Women co-bosses' G307
-OL,10,FGroup stage to be introduced from  G308
-OL,12,FHow many goalscorers can you name? G309
-OL,13,FWho played in Everton's last win   G310
-OL,14,FGabriel Jesus scores twice in      G311
-OL,15,FArsene Wenger 'available' to talk  G312
-OL,17,FMan Utd boss not 'more concerned'  G313
+OL,10,FVAR to be used in Euro 2020        G308
+OL,12,FGroup stage to be introduced from  G309
+OL,13,FHow many goalscorers can you name? G310
+OL,14,FWho played in Everton's last win   G311
+OL,15,FGabriel Jesus scores twice in      G312
+OL,17,FArsene Wenger 'available' to talk  G313
 OL,18,FBirmingham City appoint caretaker  G314
 OL,19,FScottish Premiership team news,    G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
@@ -84,36 +84,36 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G08U%  ELight Rain     
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZS 4`~|}            G 1/2 
+OL,3,           ZS`?0~G08S%  CLight Rain     
+OL,4,           SZj**gppp  C              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G09V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 09V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG09VtV+"VG08V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BSunny     
+OL,10,       ^ZUp|t VxVg0 B             
+OL,11,       ZUnG09UtV+"VG08V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" R *u  BSunny     
 OL,14,B            ^ZR`  R*G 07R}  B         
 OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 08R}zt B       
 OL,17,B              ZRj^RG 08R B       
 OL,18,B            ZRx|^G 08R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZV  tG 08R/!        
-OL,21,B            ZV zG09V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,20,ESome Cloud  ^ZU  tG 08R/!        
+OL,21,E            ZU zG09U^/s/R/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -123,26 +123,26 @@ OL,4,           RZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BLight Rain    
+OL,8,EOvercast  ^ZR*y?sp  BLight Rain    
 OL,9,           ^ZRj)"G 10R}  B             
-OL,10,       ^ZRp|t RxRg0 B             
-OL,11,       ZRnG11RtR+"RG09R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" V *u  B          
-OL,14,B            ^ZV`  V*G 08V} B          
+OL,10,       ^ZUp|t RxRg0 B             
+OL,11,       ZUnG11UtR+"RG09R B             
+OL,12,       ZU+R`4R+|0             
+OL,13,        ZU+%*o!R" V *u  B          
+OL,14,E            ^ZV`  V*G 08V} B          
 OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 08V}zt B       
 OL,17,B              ZVj^VG 07V B       
 OL,18,B            ZVx|^G 09V'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 09V/!        
+OL,20,B            ^ZV  tG 08V/!        
 OL,21,B            ZV zG10V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,59 +163,59 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CUK's commitment to Nato is 'rock solid'
-OL,5,C- Johnson
-OL,6, The UK's commitment to Nato is "rock
-OL,7, solid", Boris Johnson has told leaders
-OL,8, of the military alliance.
-OL,10,FHe and other leaders, including US
-OL,11,FPresident Trump, are meeting for talks
-OL,12,Fat a luxury hotel near Watford.
-OL,14,FLast night, the PM held a meeting with
-OL,15,FDonald Trump at No 10, amid deepening
-OL,16,Fdivisions between member states.
-OL,18,FLabour says it would ensure Nato
-OL,19,Ffocused on implementing "real defence"
-OL,20,Fnot "the aggressive militarism that
-OL,21,Fwe've seen in the past." 
+OL,4,CPM hails Nato 'solidarity' after
+OL,5,Canniversary talks
+OL,6, Boris Johnson has hailed Nato as "the
+OL,7, most successful alliance in history"
+OL,8, after talks with leaders near London. 
+OL,10,FThe PM insisted there was "very great
+OL,11,Fsolidarity" within the alliance, amid
+OL,12,Ftensions on its 70th anniversary. 
+OL,14,FHe also praised the role of the United
+OL,15,FStates, adding the country had been a
+OL,16,F"pillar of stability" on security
+OL,17,Fissues. 
+OL,19,FJeremy Corbyn said he wanted to ensure
+OL,20,FNato focused on reducing "tensions
+OL,21,Faround the world". 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTrump says Trudeau 'two-faced' at Nato
+OL,4,CTrump calls Trudeau 'two-faced' at Nato
 OL,5,Csummit
-OL,6, Nato's 70th anniversary summit has been
-OL,7, overshadowed by rows, including a spat
-OL,8, over a recording of Canadian Prime
-OL,9, Minister Justin Trudeau appearing to
-OL,10, mock US President Donald Trump.
-OL,12,FFootage showed Mr Trudeau, UK PM Boris
-OL,13,FJohnson and French leader Emmanuel
-OL,14,FMacron discussing Mr Trump's impromptu
-OL,15,Fpress conference before the summit.
-OL,17,FResponding to the video, Mr Trump
-OL,18,Fcalled Mr Trudeau "two-faced".
-OL,20,FAmid the rows, Nato leaders issued a
-OL,21,Fjoint statement to try and show unity.
+OL,6, US President Donald Trump has called
+OL,7, Justin Trudeau "two-faced" over a video
+OL,8, in which the Canadian leader appears to
+OL,9, mock him at a meeting of Nato leaders.
+OL,11,FFootage showed Mr Trudeau, UK PM Boris
+OL,12,FJohnson and French leader Emmanuel
+OL,13,FMacron discussing an impromptu press
+OL,14,Fconference held by Mr Trump.
+OL,16,FNato leaders agreed a statement of
+OL,17,Funity but the 70th anniversary meeting
+OL,18,Fheld near London also saw several rows.
+OL,20,FMr Trump cancelled a press conference
+OL,21,Fplanned for after the summit.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -241,7 +241,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -259,15 +259,15 @@ OL,13,FGermany's chief prosecutor decided to
 OL,14,Ftake over the case.
 OL,16,FGermany has accused Russia of failing
 OL,17,Fto assist in the investigation.
-OL,19,FA Russian official condemned the move
-OL,20,Fas "Russophobic hysteria" and did not
-OL,21,Frule out a reciprocal move.
+OL,19,FRussia has rejected accusations of its
+OL,20,Finvolvement as "absolutely groundless"
+OL,21,Fand says it will retaliate.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -293,14 +293,14 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNew Trump impeachment hearings begin
-OL,5,Cwith experts
+OL,4,CShould Trump be impeached? Law experts
+OL,5,Cweigh in
 OL,6, The impeachment investigation into
 OL,7, Donald Trump has entered a new phase as
 OL,8, the House Judiciary Committee begins
@@ -319,7 +319,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -332,20 +332,20 @@ OL,7, commercial property fund - worth #2.5bn
 OL,8, - have been temporarily prevented from
 OL,9, taking out their money. 
 OL,11,FInvestment firm M&G said withdrawals
-OL,12,Ffrom its Property Portfolio fund had
+OL,12,Ffrom its property portfolio fund had
 OL,13,Fbeen suspended after investors
 OL,14,Fconsistently withdrew their savings.
 OL,16,FThe firm blamed "Brexit-related
 OL,17,Fpolitical uncertainty" and difficulties
 OL,18,Fin the retail sector for the situation.
-OL,20,FThe fund's value has fallen 8% so far
+OL,20,FThe fund has shrunk by #1.1bn so far
 OL,21,Fthis year. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -371,7 +371,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -397,7 +397,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -423,7 +423,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -448,7 +448,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -474,33 +474,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMusk says 'pedo guy' tweet not meant
-OL,5,Cliterally
-OL,6, Tesla founder Elon Musk has appeared in
-OL,7, court in Los Angeles to answer a
-OL,8, lawsuit brought by a British cave diver
-OL,9, he called "pedo guy" on Twitter. 
-OL,11,FVernon Unsworth, who helped rescue 12
-OL,12,Fboys trapped in a Thai cave last year,
-OL,13,Fis suing for defamation. 
-OL,15,FMr Musk, the first to testify at the
-OL,16,Fcourt, said Mr Unsworth had insulted
-OL,17,Fhim, so he had insulted him back.
-OL,19,FThe 48-year-old said the "pedo guy"
-OL,20,Ftweet had not been meant to be taken
-OL,21,Fliterally.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CConservatives pledge #4.2bn for local
+OL,5,Ctransport
+OL,6, The Conservatives have promised #4.2bn
+OL,7, of new spending on local train, bus and
+OL,8, tram services if they win the 12
+OL,9, December general election. 
+OL,11,FThe party said the cash, which would
+OL,12,Fbecome available from 2022, would help
+OL,13,Ffund transport projects outside London.
+OL,15,FTransport Secretary Grant Shapps said
+OL,16,Fit would transform services "in towns
+OL,17,Fand cities across the country". 
+OL,19,FBut Labour called it "pathetic" and the
+OL,20,FLiberal Democrats said the Tories
+OL,21,F"simply don't get public transport".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:35:12
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C16:37:02
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
