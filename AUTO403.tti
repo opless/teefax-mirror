@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C14:35:28
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:33:47
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FFrosty start in central and southern
-OL,9,Fareas with some dense patches of fog,
-OL,10,Fwhich may not clear until afternoon.
-OL,11,FOtherwise, spells of sunshine, but a
-OL,12,Fband of cloud and outbreaks of rain
-OL,13,Fmoving east across Scotland and
-OL,14,FNorthern Ireland.
+OL,7,GThis Evening and Tonight
+OL,8,FSome fog for parts of south and
+OL,9,Fsoutheastern England Wednesday night,
+OL,10,Fmost lifting as a weakening band of
+OL,11,Frain moves southeast, little rain away
+OL,12,Ffrom northwest England and Wales.
+OL,13,FWindier with frequent showers in the
+OL,14,Fnorth and northwest UK.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FWindy with showers, some heavy in the
-OL,18,Fnorth. Cloudier with some rain for a
-OL,19,Ftime in central parts. Clear spells and
-OL,20,Fpatchy frost and fog in the south.
+OL,16,GThursday
+OL,17,FCloud and rain soon arriving into
+OL,18,FScotland, gradually spreading
+OL,19,Fsouthwards along with more widespread
+OL,20,Fstrong winds. Becoming much milder than
+OL,21,Frecent days.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,17 +32,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C14:35:28
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:33:47
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Friday to Sunday
-OL,8,FUnsettled with showers and occasional
-OL,9,Fspells of more prolonged rain. The
-OL,10,Fheaviest rain will be in the north and
-OL,11,Fwest. Mild at first but turning colder
-OL,12,Fover the weekend.
+OL,8,FRain clearing the south Friday, then
+OL,9,Fbrighter with showers. Wet and windy
+OL,10,Flate Saturday, clearing to sunshine and
+OL,11,Fblustery showers for Sunday. Initially
+OL,12,Fmild, but turning colder over the
+OL,13,Fweekend
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

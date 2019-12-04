@@ -1,23 +1,29 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 315 Football
+DE,Sport Page 315 Scottish Premiership
 CT,10,T
 PN,31500
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C14:33:41
-OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
-OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
-OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BWednesday's gossip column: Eriksen,
-OL,5,BPochettino, Solksjaer, Fernandes,
-OL,6,BMartinez
-OL,10,FShare this with
-OL,12,FTottenham Hotspur are willing to listen
-OL,13,Fto offers of less than &pound;40m for
-OL,14,FDenmark midfielder Christian Eriksen,
-OL,15,F27. (Evening Standard)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C15:33:06
+OL,1,Wj#3kj#3kj#3kT]R   h<,h<|h<|h<|(|$      
+OL,2,Wj $kj $kj 'kT]R   bsj7#juj7}        
+OL,3,W"###"###"###T/////-,,-./-,,-.,/,///////
+OL,4,BScottish Premiership team news, stats &
+OL,5,Bselectors
+OL,6, There is a top-three clash at Pittodrie
+OL,7, as Aberdeen aim to exact revenge on
+OL,8, Rangers, following a comprehensive 5-0
+OL,9, loss to Steven Gerrard's men at Ibrox
+OL,10, earlier this season. 
+OL,12,FElsewhere in the full card of games,
+OL,13,FCeltic - just one goal ahead at the top
+OL,14,Fof the Premiership - host a Hamilton
+OL,15,Fside winless in their last eight.
+OL,18,FCatch up with the team news and
+OL,19,Fstatistics and choose your team's
+OL,20,Fpreferred XI.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,324,302,301,300,8FF,199
