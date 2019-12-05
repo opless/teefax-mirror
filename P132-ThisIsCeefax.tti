@@ -1,0 +1,24 @@
+DE,This is Ceefax Farm Prices
+DS,inserter
+SP,J:\peter\teefax\P132-ThisIsCeefax.tti
+PN,13200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,Q#                                     
+OL,3,Qp pp pp ppp  pp pp s pp pp pp         
+OL,4,Q  <   jj  j      . -| GTHURS. 
+OL,5,Qsppsspsppsrrp #psp0cpsspsspss0        
+OL,6,Q#############  ###!"#########!        
+OL,9, CATTLE Numbers up 11 per cent          
+OL,10,Q######GAverage price 22.74 pounds      
+OL,11,       C(up 27p)                        
+OL,14, SHEEP  Numbers up 11.5 per cent        
+OL,15,Q#####G Average price 42.4p             
+OL,16,      C (up 1.8p)                       
+OL,19, PIGS   Numbers up 28.5 per cent        
+OL,20,Q####G  Average price 4.52 pounds       
+OL,21,     C  (up 4p)                         
+OL,23,   RwBDETAILS FROM "FARMING TODAY"R{    
