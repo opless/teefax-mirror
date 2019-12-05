@@ -5,10 +5,10 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C22:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C23:35:29
 OL,1,T]G           This Evening              
 OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G05U%  EHeavy Rain     
+OL,3,           ZU`?0~G05U%  ELight Rain     
 OL,4,           UZj**gppp  E              
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSome Cloud     
@@ -20,21 +20,21 @@ OL,11,       ZVnG05VtV+"RG05R B
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  BCloudy    
 OL,14,B            ^ZR`  R*G 04R}  B         
-OL,15,B            ^ZRk|S            
-OL,16,B            ^ZR'oG 02V}zt CClear  
-OL,17,B              ZRj^SG 01V  C      
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 02V}zt B       
+OL,17,B              ZRj^VG 01V B       
 OL,18,B            ZRx|^G -1V'         
-OL,19,             ^ZR! +/'iQqp0        
-OL,20,B            ^ZV  tG 01Q/!        
-OL,21,B            ZV zG02V^/s/Q/? AMisty    
-OL,22,            ZV8?' "'    "     A        
+OL,19,             ^ZR! +/'iSqp0        
+OL,20,B            ^ZV  tG 01S/!        
+OL,21,B            ZV zG01V^/s/S/? CMisty    
+OL,22,            ZV8?' "'    "     C        
 OL,23,D]G        From the Met Office          
 OL,24,AN.Ire WeathBSportCTrav Head FMain Menu 
 FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E04/12C22:38:53
+OL,0,XXXXXXXXBNMPSERVER2      E04/12C23:35:29
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZU 4`~|}            G 2/2 
 OL,3,           ZU`?0~G10U%  EHeavy Rain     
