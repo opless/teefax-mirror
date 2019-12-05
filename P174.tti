@@ -1,10 +1,10 @@
 DE,CT-0-T Anim Test (from Blippy Pixel)
 DS,inserter
-SP,C:\Teefax\P174Pyramid7.tti
+SP,J:\peter\teefax\P174.tti
 PN,17401
 SC,0001
 PS,8000
-CT,0,T
+CT,5,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
@@ -31,7 +31,7 @@ OL,21,T]       U"#/^/] T0     ##3+///] U)0
 PN,17402
 SC,0002
 PS,8000
-CT,0,T
+CT,5,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
@@ -58,7 +58,7 @@ OL,21,T]       U"#/^/] T0     ##3+///] U)0
 PN,17403
 SC,0003
 PS,8000
-CT,0,T
+CT,5,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
@@ -85,7 +85,7 @@ OL,21,T]       U"#/^/] T0     ##3+///] U)0
 PN,17404
 SC,0004
 PS,8000
-CT,0,T
+CT,5,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
@@ -112,7 +112,7 @@ OL,21,T]       U"#/^/] T0     ##3+///] U)0
 PN,17405
 SC,0005
 PS,8000
-CT,0,T
+CT,5,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
@@ -139,7 +139,7 @@ OL,21,T]       U"#/^/] T0     ##3+///] U)0
 PN,17406
 SC,0006
 PS,8000
-CT,0,T
+CT,5,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`
@@ -166,7 +166,7 @@ OL,21,T]       U"#/^/] T0     ##3+///] U)0
 PN,17407
 SC,0007
 PS,8000
-CT,0,T
+CT,5,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Wj}0  d$  d          (             Q`

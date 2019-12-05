@@ -1,7 +1,7 @@
 DE,Shopping guide
 DS,inserter
-SP,J:\peter\teefax\P142-ThisIsCeefax.tti
-PN,14201
+SP,J:\peter\teefax\P131-ThisIsCeefax.tti
+PN,13101
 SC,0001
 PS,8000
 CT,8,T
@@ -14,7 +14,7 @@ OL,5,R#kj#55jj#!7#jj jj 4    Q   6    "4
 OL,6,R##" !##"  ! "" ""#!    Q   5     5     
 OL,7,Vpp` 01pz`p0            Q   9888881     
 OL,8,Vuzj 555jj,%G PART 1    Q   ffffff$     
-OL,9,Vpz"#!!##"#!W(######    Q   9999991     
+OL,9,Vpz"#!!##"#!W ######    Q   9999991     
 OL,10,                        Q   "ffff&      
 OL,12,CBEEFGprices are fluctuating, but       
 OL,13, TOPSIDE and TOP RUMP should be 70p to  
@@ -26,7 +26,7 @@ OL,19, TOP QUALITY LEG at around 70p a lb.
 OL,20, and CHOPS at 80p. New Zealand lamb     
 OL,21, chops are 55p to 60p a lb.             
 OL,23,RwBPART 2 WILL FOLLOW AUTOMATICALLYR{   
-PN,14202
+PN,13102
 SC,0002
 PS,8000
 CT,8,T
@@ -39,7 +39,7 @@ OL,5,R#kj#55jj#!7#jj jj 4    S   6    "4
 OL,6,R##" !##"  ! "" ""#!    S   5     5     
 OL,7,Vpp` 01pz`p0            S   9888881     
 OL,8,Vuzj 555jj,%G PART 2    S   ffffff$     
-OL,9,Vpz"#!!##"#!W(######    S   9999991     
+OL,9,Vpz"#!!##"#!W ######    S   9999991     
 OL,10,                        S   "ffff&      
 OL,12,BAT THE GREENGROCER                     
 OL,13,Q##################GApples are a little 
