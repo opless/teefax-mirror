@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -13,16 +13,16 @@ OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MTories signal tax-cutting Budget ifC104
 OL,6,Gelected                                
-OL,8,GTrump calls Trudeau 'two-faced' at C105
-OL,9,GNato summit                            
+OL,8,GFrance braced for biggest national C105
+OL,9,Gstrike in years                        
 OL,10,GLabour pledges to cap class sizes  C106
 OL,11,Gat 30 pupils                           
-OL,12,GFrance braced for biggest national C107
-OL,13,Gstrike in years                        
+OL,12,GCave diver says Elon Musk tweets   C107
+OL,13,G'humiliated' him                       
 OL,14,GMentally ill 'spend months on      C108
 OL,15,Ghidden waiting list'                   
-OL,16,GTrump's Ukraine conduct impeachableC109
-OL,17,G- law experts                          
+OL,16,GTrump calls Trudeau 'two-faced' at C109
+OL,17,GNato summit                            
 OL,18,GSeizures of illegal diazepam doubleC110
 OL,19,Gin a year                              
 OL,20,GPeople smuggler 'built fake border C111
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7188.50 F+29.74 Fat CLOSE
 OL,15,C techMARK100G5650.16 A-0.19  Fat CLOSE
 OL,16,C Dow Jones  G27649.78F+146.97Fat CLOSE
 OL,17,C Nasdaq     G8296.53 F+41.79 Fat CLOSE
-OL,18,C Nikkei     G23306.06F+170.83Fat 01:25
+OL,18,C Nikkei     G23294.99F+159.76Fat 01:55
 OL,19,C DJEurStoxx G3660.02 F+49.03 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,28 +84,28 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G         Thursday Evening            
 OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G07R%  B               
+OL,3,           ZR`?0~G08R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G07V!FCloudy         
+OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BLight Rain    
 OL,9,           ^ZRj)"G 09R}  B             
-OL,10,       ^ZRp|t RxUg0 B             
-OL,11,       ZRnG10RtR+"UG09U B             
-OL,12,       ZR+U`4U+|0             
-OL,13,        ZR+%*o!U" U *u  EOvercast  
-OL,14,B            ^ZR`  U*G 07U}  E         
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 07R}zt B       
-OL,17,B              ZRj^VG 06R B       
-OL,18,B            ZRx|^G 09R'         
-OL,19,             ^ZR! +/'iRqp0        
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG10RtR+"RG09R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" S *u  COvercast  
+OL,14,B            ^ZU`  S*G 07S}  C         
+OL,15,B            ^ZUk|V            
+OL,16,B            ^ZU'oG 07R}zt B       
+OL,17,EHeavy Rain    ZUj^VG 06R B       
+OL,18,E            ZUx|^G 09R'         
+OL,19,             ^ZU! +/'iRqp0        
 OL,20,B            ^ZR  tG 08R/!        
 OL,21,B            ZR zG10R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
@@ -113,7 +113,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Friday                 
@@ -121,28 +121,28 @@ OL,2,           ^ZR 4`~|}            G 2/2
 OL,3,           ZR`?0~G09R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G09V!FCloudy         
+OL,6,            ZV!'~G10V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 11V} B              
-OL,10,       ^ZVp|t VxRg0 BLight Rain   
-OL,11,       ZVnG10VtV+"RG11R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZV`  R*G 12R} B          
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 11R}zt B       
-OL,17,B              ZVj^VG 12R B       
-OL,18,B            ZVx|^G 12R'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZR  tG 13V/!        
-OL,21,B            ZR zG12R^/s/V/? B         
+OL,10,       ^ZRp|t VxVg0 B             
+OL,11,       ZRnG11RtV+"VG11V B             
+OL,12,       ZR+V`4V+|0             
+OL,13,        ZR+%*o!V" R *u  BLight Rain
+OL,14,B            ^ZR`  R*G 12R}  B         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 12R}zt B       
+OL,17,B              ZRj^RG 12R B       
+OL,18,B            ZRx|^G 12R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 13R/!        
+OL,21,B            ZR zG12R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -189,33 +189,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTrump calls Trudeau 'two-faced' at Nato
-OL,5,Csummit
-OL,6, US President Donald Trump has called
-OL,7, Justin Trudeau "two-faced" over a video
-OL,8, in which the Canadian leader appears to
-OL,9, mock him at a meeting of Nato leaders.
-OL,11,FFootage showed Mr Trudeau, UK PM Boris
-OL,12,FJohnson and French leader Emmanuel
-OL,13,FMacron discussing an impromptu press
-OL,14,Fconference held by Mr Trump.
-OL,16,FNato leaders agreed a statement of
-OL,17,Funity but the 70th anniversary meeting
-OL,18,Fheld near London also saw several rows.
-OL,20,FMr Trump cancelled a press conference
-OL,21,Fplanned for after the summit.
+OL,4,CFrance braced for biggest national
+OL,5,Cstrike in years
+OL,6, France is preparing for severe
+OL,7, disruption as millions of workers go on
+OL,8, strike in protest at being forced to
+OL,9, retire later or face reduced pensions.
+OL,11,FSchool and transport workers will join
+OL,12,Fpolice, lawyers and hospital and
+OL,13,Fairport staff in a general walkout. 
+OL,15,FFrance's largest nationwide strike in
+OL,16,Fyears was agreed by unions unhappy with
+OL,17,FPresident Emmanuel Macron's plans for a
+OL,18,Funiversal points-based pension system.
+OL,20,FAuthorities have been trying to put in
+OL,21,Fplace plans to mediate the disruption.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -241,33 +241,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CFrance braced for biggest national
-OL,5,Cstrike in years
-OL,6, France is preparing for severe
-OL,7, disruption as millions of workers go on
-OL,8, strike in protest at being forced to
-OL,9, retire later or face reduced pensions.
-OL,11,FSchool and transport workers will join
-OL,12,Fpolice, lawyers and hospital and
-OL,13,Fairport staff in a general walkout. 
-OL,15,FFrance's largest nationwide strike in
-OL,16,Fyears was agreed by unions unhappy with
-OL,17,FPresident Emmanuel Macron's plans for a
-OL,18,Funiversal points-based pension system.
-OL,20,FAuthorities have been trying to put in
-OL,21,Fplace plans to mediate the disruption.
+OL,4,CCave diver says Elon Musk tweets
+OL,5,C'humiliated' him
+OL,6, A British cave expert has testified
+OL,7, that he was left feeling "humiliated,
+OL,8, ashamed" and "dirtied" after Elon Musk
+OL,9, labelled him "pedo guy" online.
+OL,11,FVernon Unsworth is suing the Tesla
+OL,12,Ffounder for defamation.
+OL,14,FThe diver, who helped rescue 12 boys
+OL,15,Ftrapped in a Thai cave last year, told
+OL,16,Fa Los Angeles court that comments Mr
+OL,17,FMusk made were "very hurtful". 
+OL,19,FThe pair got into a public war of words
+OL,20,Fafter Mr Unsworth dismissed an offer of
+OL,21,Fhelp from the billionaire. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -292,33 +292,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTrump's Ukraine conduct impeachable -
-OL,5,Claw experts
-OL,6, There is no doubt that President Donald
-OL,7, Trump's actions require him to be
-OL,8, removed from office, three scholars of
-OL,9, US constitutional law have testified. 
-OL,11,FThe three experts described Mr Trump's
-OL,12,Fefforts to solicit help from a foreign
-OL,13,Fnation as a crime and accused him of
-OL,14,Fobstructing justice.
-OL,16,FFour experts, three picked by Democrats
-OL,17,Fand one by the Republicans, have been
-OL,18,Ftestifying in Congress. 
-OL,20,FThe fourth said Mr Trump's actions were
-OL,21,Fwrong, but not impeachable.
+OL,4,CTrump calls Trudeau 'two-faced' at Nato
+OL,5,Csummit
+OL,6, US President Donald Trump has called
+OL,7, Justin Trudeau "two-faced" over a video
+OL,8, in which the Canadian leader appears to
+OL,9, mock him at a meeting of Nato leaders.
+OL,11,FFootage showed Mr Trudeau, UK PM Boris
+OL,12,FJohnson and French leader Emmanuel
+OL,13,FMacron discussing an impromptu press
+OL,14,Fconference held by Mr Trump.
+OL,16,FNato leaders agreed a statement of
+OL,17,Funity but the 70th anniversary meeting
+OL,18,Fheld near London also saw several rows.
+OL,20,FMr Trump cancelled a press conference
+OL,21,Fplanned for after the summit.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -344,7 +344,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -370,7 +370,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -396,7 +396,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -421,7 +421,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S h<|h<|h4 |(|$|h<$|,$ 
@@ -447,7 +447,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -473,7 +473,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -499,26 +499,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C02:32:56
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C03:32:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CGermany expels Russia diplomats over
-OL,5,CBerlin murder
-OL,6, Months after a man was shot dead in a
-OL,7, Berlin park, Germany is throwing out
-OL,8, two Russian diplomats because it
-OL,9, suspects the murder was ordered by
-OL,10, Russia or Russia's Chechen republic.
-OL,12,FThe expulsions come shortly after
-OL,13,FGermany's chief prosecutor decided to
-OL,14,Ftake over the case.
-OL,16,FGermany has accused Russia of failing
-OL,17,Fto assist in the investigation.
-OL,19,FRussia has rejected accusations of its
-OL,20,Finvolvement as "absolutely groundless"
-OL,21,Fand says it will retaliate.
+OL,4,CTrump's Ukraine conduct impeachable -
+OL,5,Claw experts
+OL,6, There is no doubt that President Donald
+OL,7, Trump's actions require him to be
+OL,8, removed from office, three scholars of
+OL,9, US constitutional law have testified. 
+OL,11,FThe three experts described Mr Trump's
+OL,12,Fefforts to solicit help from a foreign
+OL,13,Fnation as a crime and accused him of
+OL,14,Fobstructing justice.
+OL,16,FFour experts, three picked by Democrats
+OL,17,Fand one by the Republicans, have been
+OL,18,Ftestifying in Congress. 
+OL,20,FThe fourth said Mr Trump's actions were
+OL,21,Fwrong, but not impeachable.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
