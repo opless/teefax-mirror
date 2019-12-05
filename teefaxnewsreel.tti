@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,23 +15,24 @@ OL,4,MTories promise Brexit and Budget inC104
 OL,6,Gfirst 100 days                         
 OL,8,GTrump impeachment to go ahead -    C105
 OL,9,GPelosi                                 
-OL,10,GConvictions quashed in corrupt     C106
-OL,11,Gdetective case                         
+OL,10,GAndrew Neil issues interview       C106
+OL,11,Gchallenge to Johnson                   
 OL,12,GFrance crippled by biggest strike  C107
 OL,13,Gin years                               
-OL,14,GFarage hits out at MEPs over Tory  C108
-OL,15,Gsupport                                
+OL,14,GConvictions quashed in corrupt     C108
+OL,15,Gdetective case                         
 OL,16,GRussians charged in Evil Corp hack C109
 OL,17,Ginvestigation                          
-OL,18,GUK household debts see big increaseC110
-OL,20,GWoman set on fire on her way to    C111
-OL,21,Grape case hearing                      
+OL,18,GThomas Cook customers face refund  C110
+OL,19,Gdelays                                 
+OL,20,GChinese worry about rise of facial C111
+OL,21,Grecognition                            
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -52,33 +53,36 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF40GLosersA61
 OL,14,C FTSE100    G7137.85 A-50.65 Fat CLOSE
 OL,15,C techMARK100G5654.48 F+4.32  Fat CLOSE
-OL,16,C Dow Jones  G27681.06F+31.28 Fat 19:30
-OL,17,C Nasdaq     G8304.93 F+8.40  Fat 19:30
+OL,16,C Dow Jones  G27677.79F+28.01 Fat 20:30
+OL,17,C Nasdaq     G8308.40 F+11.87 Fat 20:30
 OL,18,C Nikkei     G23300.09F+16,485Fat 07:44
 OL,19,C DJEurStoxx G3648.13 A-11.89 Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MEverton sack Marco Silva as        G303
-OL,6,FRomelu Lukaku & Chris Smalling     G304
-OL,7,FGareth Bale 'not ecstatic' at Real G305
-OL,8,FBBC One to show third-round tie    G306
-OL,9,FMeet the future North American     G307
-OL,10,FNeil Lennon hails Celtic captain   G308
-OL,12,FLiverpool name strong Fifa Club    G309
-OL,13,FHayden Mullins says he would       G310
+OL,6,FJonjo Shelvey goal given by VAR as G304
+OL,7,FRomelu Lukaku & Chris Smalling     G305
+OL,8,FGareth Bale 'not ecstatic' at Real G306
+OL,9,FBBC One to show third-round tie    G307
+OL,10,FEngland and Wales openers to be    G308
+OL,12,FMeet the future North American     G309
+OL,13,FNeil Lennon hails Celtic captain   G310
+OL,14,FLiverpool name strong Fifa Club    G311
+OL,15,FPortsmouth drawn with Walsall,     G312
+OL,17,FHayden Mullins says he would       G313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -94,12 +98,12 @@ OL,10,       ^ZRp|t RxRg0 B
 OL,11,       ZRnG10RtR+"RG09R B             
 OL,12,       ZR+R`4R+|0             
 OL,13,        ZR+%*o!R" V *u  B          
-OL,14,B            ^ZR`  V*G 07V} B          
-OL,15,EOvercast    ^ZRk|V            
-OL,16,E            ^ZR'oG 07U}zt B       
-OL,17,B              ZRj^VG 06U B       
-OL,18,B            ZRx|^G 09U'         
-OL,19,             ^ZR! +/'iRqp0        
+OL,14,B            ^ZU`  V*G 07V} B          
+OL,15,COvercast    ^ZUk|V            
+OL,16,C            ^ZU'oG 07S}zt B       
+OL,17,EHeavy Rain    ZUj^VG 06S B       
+OL,18,E            ZUx|^G 09S'         
+OL,19,             ^ZU! +/'iRqp0        
 OL,20,B            ^ZR  tG 08R/!        
 OL,21,B            ZR zG10R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
@@ -107,7 +111,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -117,26 +121,26 @@ OL,4,           RZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G09V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 11V} B              
-OL,10,       ^ZUp|t VxRg0 BLight Rain   
-OL,11,       ZUnG11UtV+"RG11R  B            
-OL,12,       ZU+R`4R+|0             
-OL,13,        ZU+%*o!R" R *u  B          
+OL,8,B          ^ZR*y?sp  BLight Rain    
+OL,9,           ^ZRj)"G 10R}  B             
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG11RtR+"RG11R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  B          
 OL,14,B            ^ZR`  R*G 12R} B          
-OL,15,B            ^ZRk|R            
+OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 12R}zt B       
-OL,17,B              ZRj^RG 12R B       
+OL,17,B              ZRj^VG 12R B       
 OL,18,B            ZRx|^G 12R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,EHeavy Rain  ^ZU  tG 12R/!        
-OL,21,E            ZU zG12U^/s/R/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,20,B            ^ZR  tG 12R/!        
+OL,21,B            ZR zG12R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -157,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -183,7 +187,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -202,13 +206,65 @@ OL,15,Fcrazy" and urged them to move quickly
 OL,16,Fif they were going to impeach him.
 OL,18,FDemocrats say Mr Trump corruptly made
 OL,19,Fmilitary aid to Ukraine conditional on
-OL,20,Fit investigating his rival, Joe Biden.
+OL,20,Fit investigating his rival Joe Biden.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CAndrew Neil issues interview challenge
+OL,5,Cto Johnson
+OL,6, The BBC's Andrew Neil has issued a
+OL,7, challenge to Boris Johnson to take part
+OL,8, in a sit-down interview with him before
+OL,9, next week's general election.
+OL,11,FMr Johnson is the only leader of a main
+OL,12,Fparty not to have faced a half-hour,
+OL,13,Fprime-time BBC One grilling by Mr Neil.
+OL,15,FThe Conservative leader has denied
+OL,16,Fclaims he is avoiding scrutiny.
+OL,18,FBut Mr Neil addressed the PM directly
+OL,19,Fat the end of his fourth leader
+OL,20,Finterview at this election, with Brexit
+OL,21,FParty leader Nigel Farage.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40510
+SC,0010
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CFrance crippled by biggest strike in
+OL,5,Cyears
+OL,6, France's largest nationwide strike in
+OL,7, years has severely disrupted schools
+OL,8, and transport.
+OL,10,FWorkers are angry about planned pension
+OL,11,Freforms that would see them retiring
+OL,12,Flater or facing reduced payouts.
+OL,14,FMore than 800,000 workers from a wide
+OL,15,Frange of professions demonstrated
+OL,16,Fagainst the changes. Some cities saw
+OL,17,Fclashes between protesters and police.
+OL,19,FPresident Emmanuel Macron wants to
+OL,20,Fintroduce a universal points-based
+OL,21,Fpension system.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40511
+SC,0011
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -231,60 +287,10 @@ OL,20,Fconvictions due to the unreliability of
 OL,21,Fa detective's evidence.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40510
-SC,0010
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CFrance crippled by biggest strike in
-OL,5,Cyears
-OL,6, France's largest nationwide strike in
-OL,7, years has severely disrupted schools
-OL,8, and transport.
-OL,10,FWorkers are angry about planned pension
-OL,11,Freforms that would see them retiring
-OL,12,Flater or facing reduced payouts.
-OL,14,FTeachers and transport workers have
-OL,15,Fbeen joined by police, lawyers,
-OL,16,Fhospital and airport staff, and other
-OL,17,Fprofessions for a general walkout.
-OL,19,FPresident Emmanuel Macron wants to
-OL,20,Fintroduce a universal points-based
-OL,21,Fpension system.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40511
-SC,0011
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CFarage hits out at MEPs over Tory
-OL,5,Csupport
-OL,6, Brexit Party leader Nigel Farage has
-OL,7, hit out at three MEPs who quit the
-OL,8, party and are now urging voters to back
-OL,9, the Conservatives in the election.
-OL,11,FHe told the BBC that Annunziata
-OL,12,FRees-Mogg, Lance Forman and Lucy Harris
-OL,13,Fhad strong personal links to the
-OL,14,FTories.
-OL,16,FBut the MEPs say the Brexit Party's
-OL,17,Fparticipation in the election will
-OL,18,Fsplit the Leave vote. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -294,8 +300,8 @@ OL,4,CRussians charged in Evil Corp hack
 OL,5,Cinvestigation
 OL,6, US authorities have filed charges
 OL,7, against two Russian nationals alleged
-OL,8, to be running a global cyber theft
-OL,9, operation named Evil Corp.
+OL,8, to be running a global cyber crime
+OL,9, organisation named Evil Corp.
 OL,11,FAn indictment named Maksim Yakubets and
 OL,12,FIgor Turashev - who remain at large -
 OL,13,Fas figures in a group which used
@@ -310,58 +316,111 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CUK household debts see big increase
-OL,5, Debts excluding mortgages are on the
-OL,6, rise in the UK, according to the Office
-OL,7, for National Statistics.
-OL,9,FDebts including credit card debt and
-OL,10,Fpersonal loans rose 11% to #119bn in
-OL,11,Fthe two years to March 2018, according
-OL,12,Fto the ONS study, which is published
-OL,13,Fevery two years.
-OL,15,FAverage household financial debt rose
-OL,16,F9% to #9,400.
-OL,18,FMuch of the increase is a result of
-OL,19,Fhigher student loan and hire purchase
-OL,20,Fdebt.
+OL,4,CThomas Cook customers face refund
+OL,5,Cdelays
+OL,6, Customers of defunct tour operator
+OL,7, Thomas Cook have reacted angrily after
+OL,8, learning they will face delays in
+OL,9, getting refunds for Atol-protected
+OL,10, package holidays. 
+OL,12,FThe Civil Aviation Authority originally
+OL,13,Fsaid all valid claims made on the first
+OL,14,Fday of its refund programme would be
+OL,15,Fpaid within 60 days, or by this Friday.
+OL,17,FBut now it says only two thirds will be
+OL,18,Fpaid on time.
+OL,20,FIt said it had asked the remaining
+OL,21,Fclaimants for more information.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CWoman set on fire on her way to rape
-OL,5,Ccase hearing
-OL,6, A 23-year-old alleged rape victim is
-OL,7, fighting for her life after she was set
-OL,8, on fire while going to court in
-OL,9, northern India.
-OL,11,FThe woman was on her way to a hearing
-OL,12,Fin the case she filed against two men
-OL,13,Fin March, in Uttar Pradesh state.
-OL,15,FShe is in critical condition in
-OL,16,Fhospital, where she is being treated
-OL,17,Ffor severe burns.
-OL,19,FFive men including two of her alleged
-OL,20,Frapists have been arrested on suspicion
-OL,21,Fof setting her on fire, police say.
+OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
+OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
+OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
+OL,4,CChinese worry about rise of facial
+OL,5,Crecognition
+OL,6, A survey by a Beijing research
+OL,7, institute indicates growing pushback
+OL,8, against facial recognition in China.
+OL,10,FSome 74% of respondents said they
+OL,11,Fwanted the option to be able to use
+OL,12,Ftraditional ID methods over the tech to
+OL,13,Fverify their identity. 
+OL,15,FWorries about the biometric data being
+OL,16,Fhacked or otherwise leaked was the main
+OL,17,Fconcern cited by the 6,152 respondents.
+OL,19,FFacial recognitions systems are being
+OL,20,Frolled out in stations, schools, and
+OL,21,Fshopping centres across the country. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CFarage defends decision not to contest
+OL,5,CTory seats
+OL,6, Nigel Farage has defended his
+OL,7, "difficult" decision not to contest
+OL,8, Tory-held seats, insisting he was
+OL,9, putting "country before party".
+OL,11,FThe Brexit Party leader told the BBC's
+OL,12,FAndrew Neil that his party had stopped
+OL,13,Fthe "Lib Dem surge" and were "tearing
+OL,14,Fchunks out of the Labour vote".
+OL,16,FHe said his party was the challenger in
+OL,17,FLabour-Leave areas in next week's poll.
+OL,19,FIt comes as three Brexit Party MEPs
+OL,20,Fquit to support the Tories, saying the
+OL,21,Fparty will split the pro-Brexit vote.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40516
+SC,0016
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CHuge bushfires rage in Sydney and
+OL,5,Cdestroy homes
+OL,6, Nearly 140 bushfires are raging in the
+OL,7, Australian state of New South Wales,
+OL,8, with the most severe burning in Sydney.
+OL,10,FAt their peak on Thursday evening there
+OL,11,Fwere seven separate fires in different
+OL,12,Fareas of the city. Firefighters battled
+OL,13,Fthem until the early hours of Friday
+OL,14,Fmorning local time.
+OL,16,FFootage of one Sydney blaze shows
+OL,17,Ffirefighters running quickly away as
+OL,18,Fthe flames spread rapidly and suddenly.
+OL,20,FOfficials warned that many parts of the
+OL,21,Fcity would be blanketed with smoke.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40517
+SC,0017
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
@@ -384,62 +443,10 @@ OL,20,FCampbell said he had "revealed a dark
 OL,21,Fand devious side" to his character. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40516
-SC,0016
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIran 'developing nuclear-capable
-OL,5,Cmissiles'
-OL,6, Three European powers have warned the
-OL,7, UN that Iran is developing
-OL,8, nuclear-capable ballistic missiles in
-OL,9, violation of a Security Council
-OL,10, resolution.
-OL,12,FA letter sent by the UK, France and
-OL,13,FGermany says Iran tested a Shahab-3
-OL,14,Fmissile variant "equipped with a
-OL,15,Fmanoeuvrable re-entry vehicle" that
-OL,16,Fcould deliver a nuclear weapon.
-OL,18,FSuch activity is "inconsistent" with a
-OL,19,Fresolution endorsing the 2015 Iran
-OL,20,Fnuclear deal, it argues.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40517
-SC,0017
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CHow could French strikes affect UK
-OL,5,Ctravellers?
-OL,6, British travellers face cancellations,
-OL,7, delays and disruption getting to and
-OL,8, from France during the next five days
-OL,9, due to a general strike in the country.
-OL,11,FIndustrial action over planned pension
-OL,12,Freforms is expected to cause problems
-OL,13,Ffor trains, airlines and French roads.
-OL,15,FEurostar said 90 services will not run,
-OL,16,Fwhile EasyJet has cancelled 70 flights
-OL,17,Fand BA has cancelled more than a dozen.
-OL,19,FThe Foreign Office has said journeys to
-OL,20,Fthe Netherlands, Belgium, Italy and
-OL,21,FGermany could also be affected.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -465,52 +472,51 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTurkish president opens Cambridge
-OL,5,C'eco-mosque'
-OL,6, Turkish President Recep Tayyip Erdogan
-OL,7, has attended the official opening of a
-OL,8, mosque in Cambridge.
-OL,10,FThe Central Mosque in Mill Road, which
-OL,11,Fcost #23m and has the capacity for
-OL,12,F1,000 worshippers, has been billed as
-OL,13,F"Europe's first eco-mosque".
-OL,15,FA group of about 40 supporters welcomed
-OL,16,Fthe arrival of his cavalcade, while a
-OL,17,Frally held in the city centre attracted
-OL,18,Fa similar number of protesters.
-OL,20,FCampaigners said they were "standing in
-OL,21,Fsolidarity with the Kurdish community".
+OL,4,CUK household debts see big increase
+OL,5, Debts excluding mortgages are on the
+OL,6, rise in the UK, according to the Office
+OL,7, for National Statistics.
+OL,9,FDebts including credit card debt and
+OL,10,Fpersonal loans rose 11% to #119bn in
+OL,11,Fthe two years to March 2018, according
+OL,12,Fto the ONS study, which is published
+OL,13,Fevery two years.
+OL,15,FAverage household financial debt rose
+OL,16,F9% to #9,400.
+OL,18,FMuch of the increase is a result of
+OL,19,Fhigher student loan and hire purchase
+OL,20,Fdebt.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C20:36:51
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CKerry backs Biden bid to take on Trump
-OL,5,Cin 2020
-OL,6, Former US Secretary of State John Kerry
-OL,7, has endorsed frontrunner Joe Biden to
-OL,8, be the Democratic Party's candidate in
-OL,9, the 2020 presidential election.  
-OL,11,F"There's never been a time more urgent
-OL,12,Ffor leadership at home," he said in
-OL,13,Fstatement released by the Biden
-OL,14,Fcampaign. 
-OL,16,FMr Kerry is expected to join former
-OL,17,FVice-President Biden on the campaign
-OL,18,Ftrail in Iowa on Friday. 
-OL,20,FHis backing is seen as a high-profile
-OL,21,Fboost for the Biden bid.
+OL,4,CWoman set on fire on her way to rape
+OL,5,Ccase hearing
+OL,6, A 23-year-old alleged rape victim is
+OL,7, fighting for her life after she was set
+OL,8, on fire while going to court in
+OL,9, northern India.
+OL,11,FThe woman was on her way to a hearing
+OL,12,Fin the case she filed against two men
+OL,13,Fin March, in Uttar Pradesh state.
+OL,15,FShe is in critical condition in
+OL,16,Fhospital, where she is being treated
+OL,17,Ffor severe burns.
+OL,19,FFive men including two of her alleged
+OL,20,Frapists have been arrested on suspicion
+OL,21,Fof setting her on fire, police say.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160

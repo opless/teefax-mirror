@@ -5,12 +5,12 @@ CT,10,T
 PN,32401
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C16:05:05
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:13:47
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GDec 05 15:54    P  W  D  L   F   A Pts
+OL,6, GDec 05 21:07    P  W  D  L   F   A Pts
 OL,8, G1 Liverpool    15 14  1  0  37  14  43
 OL,9, F2 Leicester    15 11  2  2  35   9  35
 OL,10, G3 Man City     15 10  2  3  43  17  32
@@ -21,9 +21,9 @@ OL,14,B---------------------------------------
 OL,15, F6 Man Utd      15  5  6  4  23  18  21
 OL,16, G7 C Palace     15  6  3  6  14  18  21
 OL,17, F8 Tottenham    15  5  5  5  25  23  20
-OL,18, G9 Sheff Utd    14  4  7  3  17  13  19
-OL,19,F10 Arsenal      14  4  7  3  20  21  19
-OL,20,G11 Burnley      15  5  3  7  21  24  18
+OL,18, G9 Sheff Utd    15  4  7  4  17  15  19
+OL,19,F10 Arsenal      15  4  7  4  20  22  19
+OL,20,G11 Newcastle    15  5  4  6  15  22  19
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
@@ -35,17 +35,17 @@ CT,10,T
 PN,32402
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C16:05:05
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:13:47
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GDec 05 15:54    P  W  D  L   F   A Pts
-OL,8,F12 Bournemouth  15  4  4  7  18  21  16
-OL,9,G13 West Ham     15  4  4  7  17  25  16
-OL,10,F14 Newcastle    14  4  4  6  13  22  16
-OL,11,G15 Aston Villa  15  4  3  8  22  24  15
-OL,12,F16 Brighton     14  4  3  7  16  21  15
+OL,6, GDec 05 21:07    P  W  D  L   F   A Pts
+OL,8,F12 Burnley      15  5  3  7  21  24  18
+OL,9,G13 Brighton     15  5  3  7  17  21  18
+OL,10,F14 Bournemouth  15  4  4  7  18  21  16
+OL,11,G15 West Ham     15  4  4  7  17  25  16
+OL,12,F16 Aston Villa  15  4  3  8  22  24  15
 OL,13,G17 Southampton  15  4  3  8  17  33  15
 OL,14,B---------------------------------------
 OL,15,F18 Everton      15  4  2  9  16  27  14
