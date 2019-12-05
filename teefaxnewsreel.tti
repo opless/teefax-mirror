@@ -5,22 +5,22 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MTories promise Brexit and Budget inC104
-OL,6,Gfirst 100 days                         
+OL,4,MMan charged with murder of         C104
+OL,6,G12-year-old                            
 OL,8,GTrump impeachment to go ahead -    C105
 OL,9,GPelosi                                 
-OL,10,GAndrew Neil issues interview       C106
-OL,11,Gchallenge to Johnson                   
+OL,10,GTories promise Brexit and Budget inC106
+OL,11,Gfirst 100 days                         
 OL,12,GFrance crippled by biggest strike  C107
 OL,13,Gin years                               
-OL,14,GConvictions quashed in corrupt     C108
-OL,15,Gdetective case                         
+OL,14,GAndrew Neil issues interview       C108
+OL,15,Gchallenge to Johnson                   
 OL,16,GRussians charged in Evil Corp hack C109
 OL,17,Ginvestigation                          
 OL,18,GThomas Cook customers face refund  C110
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -54,13 +54,13 @@ OL,12,  FTSE100Fat CLOSEGWinnersF40GLosersA61
 OL,14,C FTSE100    G7137.85 A-50.65 Fat CLOSE
 OL,15,C techMARK100G5654.48 F+4.32  Fat CLOSE
 OL,16,C Dow Jones  G27677.79F+28.01 Fat 20:30
-OL,17,C Nasdaq     G8308.40 F+11.87 Fat 20:30
+OL,17,C Nasdaq     G8308.40 F+11.87 Fat CLOSE
 OL,18,C Nikkei     G23300.09F+16,485Fat 07:44
 OL,19,C DJEurStoxx G3648.13 A-11.89 Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -82,7 +82,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -93,44 +93,44 @@ OL,5,           ^ZV({5
 OL,6,            ZV!'~G08V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BLight Rain    
-OL,9,           ^ZRj)"G 10R}  B             
+OL,9,           ^ZRj)"G 09R}  B             
 OL,10,       ^ZRp|t RxRg0 B             
 OL,11,       ZRnG10RtR+"RG09R B             
 OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" V *u  B          
-OL,14,B            ^ZU`  V*G 07V} B          
-OL,15,COvercast    ^ZUk|V            
-OL,16,C            ^ZU'oG 07S}zt B       
-OL,17,EHeavy Rain    ZUj^VG 06S B       
-OL,18,E            ZUx|^G 09S'         
-OL,19,             ^ZU! +/'iRqp0        
-OL,20,B            ^ZR  tG 08R/!        
+OL,13,        ZR+%*o!R" U *u  B          
+OL,14,B            ^ZS`  U*G 07U} B          
+OL,15,EOvercast    ^ZSk|V            
+OL,16,E            ^ZS'oG 07U}zt B       
+OL,17,CHeavy Rain    ZSj^VG 05U B       
+OL,18,C            ZSx|^G 09U'         
+OL,19,             ^ZS! +/'iRqp0        
+OL,20,B            ^ZR  tG 07R/!        
 OL,21,B            ZR zG10R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G09R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G09V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G09V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BLight Rain    
+OL,8,CHeavy Rain^ZR*y?sp  BLight Rain    
 OL,9,           ^ZRj)"G 10R}  B             
-OL,10,       ^ZRp|t RxRg0 B             
-OL,11,       ZRnG11RtR+"RG11R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 12R} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 12R}zt B       
-OL,17,B              ZRj^VG 12R B       
+OL,10,       ^ZSp|t RxRg0 B             
+OL,11,       ZSnG11StR+"RG11R B             
+OL,12,       ZS+R`4R+|0             
+OL,13,        ZS+%*o!R" R *u  B          
+OL,14,C            ^ZR`  R*G 12R} B          
+OL,15,B            ^ZRk|U            
+OL,16,B            ^ZR'oG 12R}zt EOvercas
+OL,17,B              ZRj^UG 12R Et      
 OL,18,B            ZRx|^G 12R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 12R/!        
@@ -140,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,33 +161,30 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTories promise Brexit and Budget in
-OL,5,Cfirst 100 days
-OL,6, Boris Johnson has promised to pass his
-OL,7, Brexit deal and bring a Budget within
-OL,8, 100 days if he is elected PM. 
-OL,10,FThe Tory leader said it would include
-OL,11,Fhis pledge to raise the National
-OL,12,FInsurance threshold to #9,500, along
-OL,13,Fwith cash for schools and the NHS.
-OL,15,FHe has pledged a "new government with a
-OL,16,Fnew approach" - with a focus on better
-OL,17,Finfrastructure, education and
-OL,18,Ftechnology. 
-OL,20,FBut Labour said Tories only offered
-OL,21,F"more of the same failure".
+OL,4,CMan charged with murder of 12-year-old
+OL,5, A man has been charged with murder and
+OL,6, dangerous driving over the death of
+OL,7, 12-year-old Harley Watson in Loughton,
+OL,8, Essex, say police.
+OL,10,FHarley died after being struck near
+OL,11,FDebden Park High School at about 15:20
+OL,12,FGMT on Monday.
+OL,14,FThis breaking news story is being
+OL,15,Fupdated and more details will be
+OL,16,Fpublished shortly. Please refresh the
+OL,17,Fpage for the fullest version.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -212,33 +209,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CAndrew Neil issues interview challenge
-OL,5,Cto Johnson
-OL,6, The BBC's Andrew Neil has issued a
-OL,7, challenge to Boris Johnson to take part
-OL,8, in a sit-down interview with him before
-OL,9, next week's general election.
-OL,11,FMr Johnson is the only leader of a main
-OL,12,Fparty not to have faced a half-hour,
-OL,13,Fprime-time BBC One grilling by Mr Neil.
-OL,15,FThe Conservative leader has denied
-OL,16,Fclaims he is avoiding scrutiny.
-OL,18,FBut Mr Neil addressed the PM directly
-OL,19,Fat the end of his fourth leader
-OL,20,Finterview at this election, with Brexit
-OL,21,FParty leader Nigel Farage.
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CTories promise Brexit and Budget in
+OL,5,Cfirst 100 days
+OL,6, Boris Johnson has promised to pass his
+OL,7, Brexit deal and bring a Budget within
+OL,8, 100 days if he is elected PM. 
+OL,10,FThe Tory leader said it would include
+OL,11,Fhis pledge to raise the National
+OL,12,FInsurance threshold to #9,500, along
+OL,13,Fwith cash for schools and the NHS.
+OL,15,FHe has pledged a "new government with a
+OL,16,Fnew approach" - with a focus on better
+OL,17,Finfrastructure, education and
+OL,18,Ftechnology. 
+OL,20,FBut Labour said Tories only offered
+OL,21,F"more of the same failure".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -264,33 +261,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CConvictions quashed in corrupt
-OL,5,Cdetective case
-OL,6, Three men who were jailed nearly 50
-OL,7, years ago on the evidence of a corrupt
-OL,8, police officer have had their
-OL,9, convictions quashed.
-OL,11,FWinston Trew, Sterling Christie, George
-OL,12,FGriffiths and another man were accused
-OL,13,Fof stealing handbags in 1972.
-OL,15,FThe group known as the Oval Four spent
-OL,16,Feight months in prison for assaulting a
-OL,17,Fpolice officer and attempted theft.
-OL,19,FThe Court of Appeal overturned the
-OL,20,Fconvictions due to the unreliability of
-OL,21,Fa detective's evidence.
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CAndrew Neil issues interview challenge
+OL,5,Cto Johnson
+OL,6, The BBC's Andrew Neil has issued a
+OL,7, challenge to Boris Johnson to take part
+OL,8, in a sit-down interview with him before
+OL,9, next week's general election.
+OL,11,FMr Johnson is the only leader of a main
+OL,12,Fparty not to have faced a half-hour,
+OL,13,Fprime-time BBC One grilling by Mr Neil.
+OL,15,FThe Conservative leader has denied
+OL,16,Fclaims he is avoiding scrutiny.
+OL,18,FBut Mr Neil addressed the PM directly
+OL,19,Fat the end of his fourth leader
+OL,20,Finterview at this election, with Brexit
+OL,21,FParty leader Nigel Farage.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -316,7 +313,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -342,7 +339,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -368,12 +365,12 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
 OL,4,CFarage defends decision not to contest
 OL,5,CTory seats
 OL,6, Nigel Farage has defended his
@@ -394,33 +391,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CHuge bushfires rage in Sydney and
+OL,4,CHuge bushfires surround Sydney and
 OL,5,Cdestroy homes
-OL,6, Nearly 140 bushfires are raging in the
-OL,7, Australian state of New South Wales,
-OL,8, with the most severe burning in Sydney.
-OL,10,FAt their peak on Thursday evening there
-OL,11,Fwere seven separate fires in different
-OL,12,Fareas of the city. Firefighters battled
-OL,13,Fthem until the early hours of Friday
-OL,14,Fmorning local time.
-OL,16,FFootage of one Sydney blaze shows
-OL,17,Ffirefighters running quickly away as
-OL,18,Fthe flames spread rapidly and suddenly.
-OL,20,FOfficials warned that many parts of the
-OL,21,Fcity would be blanketed with smoke.
+OL,6, About 100 bushfires are raging in the
+OL,7, Australian state of New South Wales
+OL,8, (NSW), with the most severe burning on
+OL,9, the outskirts of Sydney.
+OL,11,FMore than 2,000 firefighters are
+OL,12,Fbattling massive blazes, which
+OL,13,Fescalated in intensity on Thursday
+OL,14,Fevening.
+OL,16,FFootage of one blaze on the southern
+OL,17,Ffringe of the city showed firefighters
+OL,18,Ffleeing as the flames spread rapidly.
+OL,20,FAustralia's largest city has been
+OL,21,Fblanketed by thick smoke all week.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
@@ -446,7 +443,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -472,51 +469,52 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CUK household debts see big increase
-OL,5, Debts excluding mortgages are on the
-OL,6, rise in the UK, according to the Office
-OL,7, for National Statistics.
-OL,9,FDebts including credit card debt and
-OL,10,Fpersonal loans rose 11% to #119bn in
-OL,11,Fthe two years to March 2018, according
-OL,12,Fto the ONS study, which is published
-OL,13,Fevery two years.
-OL,15,FAverage household financial debt rose
-OL,16,F9% to #9,400.
-OL,18,FMuch of the increase is a result of
-OL,19,Fhigher student loan and hire purchase
-OL,20,Fdebt.
+OL,4,CConvictions quashed in corrupt
+OL,5,Cdetective case
+OL,6, Three men who were jailed nearly 50
+OL,7, years ago on the evidence of a corrupt
+OL,8, police officer have had their
+OL,9, convictions quashed.
+OL,11,FWinston Trew, Sterling Christie, George
+OL,12,FGriffiths and another man were accused
+OL,13,Fof stealing handbags in 1972.
+OL,15,FThe group known as the Oval Four spent
+OL,16,Feight months in prison for assaulting a
+OL,17,Fpolice officer and attempted theft.
+OL,19,FThe Court of Appeal overturned the
+OL,20,Fconvictions due to the unreliability of
+OL,21,Fa detective's evidence.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C21:38:06
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CWoman set on fire on her way to rape
-OL,5,Ccase hearing
-OL,6, A 23-year-old alleged rape victim is
-OL,7, fighting for her life after she was set
-OL,8, on fire while going to court in
-OL,9, northern India.
-OL,11,FThe woman was on her way to a hearing
-OL,12,Fin the case she filed against two men
-OL,13,Fin March, in Uttar Pradesh state.
-OL,15,FShe is in critical condition in
-OL,16,Fhospital, where she is being treated
-OL,17,Ffor severe burns.
-OL,19,FFive men including two of her alleged
-OL,20,Frapists have been arrested on suspicion
-OL,21,Fof setting her on fire, police say.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CSaudi Aramco raises record $25.6bn in
+OL,5,Cshare sale
+OL,6, State-owned oil giant Saudi Aramco has
+OL,7, raised a record $25.6bn (#19.4bn) in
+OL,8, its initial public offering (IPO) in
+OL,9, Riyadh.
+OL,11,FThe share sale was the biggest ever,
+OL,12,Fsurpassing that of China's Alibaba
+OL,13,Fwhich raised $25bn in 2014 in New York.
+OL,15,FAramco relied on domestic and regional
+OL,16,Finvestors to sell a 1.5% stake after
+OL,17,Flukewarm interest from abroad. 
+OL,19,FThe IPO values it at $1.7tn - short of
+OL,20,Fits $2tn target, but making it the most
+OL,21,Fvaluable listed company in the world.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
