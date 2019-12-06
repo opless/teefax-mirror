@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -17,8 +17,8 @@ OL,8,GPolice kill suspects in India vet  C105
 OL,9,Grape-murder case                       
 OL,10,GFire chief quits early amid        C106
 OL,11,GGrenfell criticism                     
-OL,12,GMerkel visits Auschwitz amid rise  C107
-OL,13,Gin anti-Semitism                       
+OL,12,GPast Nazi crimes part of our       C107
+OL,13,Gidentity, says Merkel                  
 OL,14,GMajor urges support for ex-Tory    C108
 OL,15,GBrexit rebels                          
 OL,16,GBoy, 5, invites entire class to    C109
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 12:30GWinnersF87GLosersA13
-OL,14,C FTSE100    G7196.23 F+58.38 Fat 12:30
-OL,15,C techMARK100G5672.47 F+17.99 Fat 12:30
+OL,12,  FTSE100Fat 13:30GWinnersF96GLosersA5
+OL,14,C FTSE100    G7227.93 F+90.08 Fat 13:30
+OL,15,C techMARK100G5684.88 F+30.40 Fat 13:30
 OL,16,C Dow Jones  G27677.79F+28.01 Fat CLOSE
 OL,17,C Nasdaq     G8308.40 F+11.87 Fat CLOSE
 OL,18,C Nikkei     G23354.40F+5,431.Fat 07:44
-OL,19,C DJEurStoxx G3663.09 F+14.96 Fat 12:30
+OL,19,C DJEurStoxx G3691.50 F+43.37 Fat 13:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,13 +83,13 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G09V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G09R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G10V!FRain           
 OL,7,           ^ZV ~ow1  F              
@@ -98,8 +98,8 @@ OL,9,           ^ZRj)"G 11R}  B
 OL,10,       ^ZVp|t RxVg0 B             
 OL,11,       ZVnG10VtR+"VG11V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 13V} B          
+OL,13,        ZV+%*o!V" R *u  B          
+OL,14,B            ^ZV`  R*G 13R} B          
 OL,15,B            ^ZVk|R            
 OL,16,B            ^ZV'oG 11V}zt B       
 OL,17,B              ZVj^RG 12V B       
@@ -112,7 +112,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -128,7 +128,7 @@ OL,10,       ^ZRp|t RxRg0 B
 OL,11,       ZRnG10RtR+"RG09R B             
 OL,12,       ZR+R`4R+|0             
 OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 10R} B          
+OL,14,B            ^ZR`  R*G 09R} B          
 OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 09R}zt B       
 OL,17,B              ZRj^RG 09R B       
@@ -141,7 +141,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -170,7 +170,7 @@ OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
 OL,6,E```````````````````````````````````````
 OL,4,MStars celebrate Avicii at emotionalC502
-OL,7,GBeckham film on show at hospital heC503
+OL,7,GBeckham film plays at hospital he wC503
 OL,8,GSinger Katherine Jenkins mugged in C504
 OL,9,GSimpsons star Harry Shearer: 'We'reC505
 OL,10,GSoul singer Celeste wins Brits RisiC506
@@ -187,7 +187,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -213,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -239,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -265,21 +265,21 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMerkel visits Auschwitz amid rise in
-OL,5,Canti-Semitism
-OL,6, German Chancellor Angela Merkel has
-OL,7, been visiting the Auschwitz Nazi death
-OL,8, camp, in her first trip to the site
-OL,9, while in office.
-OL,11,FShe is taking part in a ceremony
-OL,12,Falongside a camp survivor and Polish
-OL,13,FPrime Minister Mateusz Morawiecki.
+OL,4,CPast Nazi crimes part of our identity,
+OL,5,Csays Merkel
+OL,6, Chancellor Angela Merkel has said
+OL,7, Germany has an unending responsibility
+OL,8, to remember the Nazis' war crimes, as
+OL,9, she made her first trip while in office
+OL,10, to the Auschwitz death camp in Poland.
+OL,12,FThe responsibility was "part of our
+OL,13,Fnational identity", she said. 
 OL,15,FHer visit comes amid a rise in German
 OL,16,Fanti-Semitism and ahead of the 75th
 OL,17,Fanniversary of the camp's liberation.
@@ -291,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -317,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -343,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -369,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -395,7 +395,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -421,7 +421,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -447,7 +447,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -471,7 +471,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -497,32 +497,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CHomes shaken by earthquake in Somerset
-OL,5, An earthquake has struck in the west of
-OL,6, England, causing homes to shake in
-OL,7, several villages, the British
-OL,8, Geological Survey has said.
-OL,10,FThe 3.2 magnitude quake's epicentre was
-OL,11,Frecorded near the town of Bridgwater in
-OL,12,FSomerset, the BGS confirmed.
-OL,14,FResidents reported the "whole house
-OL,15,Frattled", with another another saying
-OL,16,Fthere was a "big rumble and (the) house
-OL,17,F(was) given a definite shove".
-OL,19,FThe quake hit at 22:49 GMT at a depth
-OL,20,Fof three miles (5km), the BGS said.
+OL,4,CUK court dismisses war crimes torture
+OL,5,Ccase
+OL,6, Torture charges against the ex-wife of
+OL,7, former Liberian president Charles
+OL,8, Taylor have been dismissed at the Old
+OL,9, Bailey.
+OL,11,FAgnes Reeves-Taylor, 54, was charged in
+OL,12,F2017 over a string of offences - some
+OL,13,Finvolving children - during the West
+OL,14,FAfrican country's civil war.
+OL,16,FThe university lecturer, from Dagenham
+OL,17,Fin east London, denied wrongdoing and
+OL,18,Fwas due to stand trial in January.
+OL,20,FBut after a technical appeal, judge Mr
+OL,21,FJustice Sweeney dismissed all charges.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -548,7 +549,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -574,13 +575,13 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
-OL,4,CBeckham film on show at hospital he was
+OL,4,CBeckham film plays at hospital he was
 OL,5,Cborn in
 OL,6, An hour-long video of former footballer
 OL,7, David Beckham sleeping has gone on show
@@ -600,7 +601,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -626,7 +627,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -651,7 +652,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -677,7 +678,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -703,7 +704,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -729,7 +730,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -754,7 +755,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -779,7 +780,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -804,7 +805,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C13:39:06
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C14:43:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
