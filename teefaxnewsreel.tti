@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -53,36 +53,38 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF40GLosersA61
 OL,14,C FTSE100    G7137.85 A-50.65 Fat CLOSE
 OL,15,C techMARK100G5654.48 F+4.32  Fat CLOSE
-OL,16,C Dow Jones  G27677.79F+28.01 Fat 20:30
+OL,16,C Dow Jones  G27677.79F+28.01 Fat CLOSE
 OL,17,C Nasdaq     G8308.40 F+11.87 Fat CLOSE
 OL,18,C Nikkei     G23300.09F+16,485Fat 07:44
 OL,19,C DJEurStoxx G3648.13 A-11.89 Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MEverton sack Marco Silva as        G303
-OL,6,FJonjo Shelvey goal given by VAR as G304
-OL,7,FRomelu Lukaku & Chris Smalling     G305
-OL,8,FGareth Bale 'not ecstatic' at Real G306
-OL,9,FBBC One to show third-round tie    G307
-OL,10,FEngland and Wales openers to be    G308
-OL,12,FMeet the future North American     G309
-OL,13,FNeil Lennon hails Celtic captain   G310
-OL,14,FLiverpool name strong Fifa Club    G311
-OL,15,FPortsmouth drawn with Walsall,     G312
-OL,17,FHayden Mullins says he would       G313
+OL,4,MMaupay seals victory for Seagulls  G303
+OL,6,FEverton sack Marco Silva as        G304
+OL,7,FJonjo Shelvey goal given by VAR as G305
+OL,8,FSheff Utd boss says football is    G306
+OL,9,FRomelu Lukaku & Chris Smalling     G307
+OL,10,FRodgers, Pochettino, Allegri,      G308
+OL,12,FGareth Bale 'not ecstatic' at Real G309
+OL,13,FBBC One to show third-round tie    G310
+OL,14,FEngland and Wales openers to be    G311
+OL,15,FMeet the future North American     G312
+OL,17,FNeil Lennon hails Celtic captain   G313
+OL,18,FLiverpool name strong Fifa Club    G314
+OL,19,FPortsmouth drawn with Walsall,     G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -111,7 +113,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -140,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -170,21 +172,23 @@ OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CMan charged with murder of 12-year-old
 OL,5, A man has been charged with murder and
 OL,6, dangerous driving over the death of
-OL,7, 12-year-old Harley Watson in Loughton,
-OL,8, Essex, say police.
-OL,10,FHarley died after being struck near
-OL,11,FDebden Park High School at about 15:20
-OL,12,FGMT on Monday.
-OL,14,FThis breaking news story is being
-OL,15,Fupdated and more details will be
-OL,16,Fpublished shortly. Please refresh the
-OL,17,Fpage for the fullest version.
+OL,7, 12-year-old Harley Watson outside a
+OL,8, school in Essex.
+OL,10,FHarley died after being struck by a car
+OL,11,Fnear Debden Park High School in
+OL,12,FLoughton at about 15:20 GMT on Monday.
+OL,14,FTerence Glover, 51, of Newmans Lane,
+OL,15,FLoughton, has been charged with murder,
+OL,16,F10 counts of attempted murder and
+OL,17,Fdangerous driving. 
+OL,19,FHe will appear before magistrates in
+OL,20,FChelmsford on Friday.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -209,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -235,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -261,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -287,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -313,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -339,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -365,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -391,7 +395,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,7 +421,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
@@ -443,7 +447,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -469,7 +473,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -495,7 +499,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C22:38:13
+OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -505,16 +509,16 @@ OL,4,CSaudi Aramco raises record $25.6bn in
 OL,5,Cshare sale
 OL,6, State-owned oil giant Saudi Aramco has
 OL,7, raised a record $25.6bn (#19.4bn) in
-OL,8, its initial public offering (IPO) in
-OL,9, Riyadh.
-OL,11,FThe share sale was the biggest ever,
-OL,12,Fsurpassing that of China's Alibaba
-OL,13,Fwhich raised $25bn in 2014 in New York.
-OL,15,FAramco relied on domestic and regional
-OL,16,Finvestors to sell a 1.5% stake after
-OL,17,Flukewarm interest from abroad. 
-OL,19,FThe IPO values it at $1.7tn - short of
-OL,20,Fits $2tn target, but making it the most
-OL,21,Fvaluable listed company in the world.
+OL,8, its initial public offering in Riyadh.
+OL,10,FThe share sale was the biggest ever,
+OL,11,Fsurpassing that of China's Alibaba
+OL,12,Fwhich raised $25bn in 2014 in New York.
+OL,14,FAramco relied on domestic and regional
+OL,15,Finvestors to sell a 1.5% stake after
+OL,16,Flukewarm interest from abroad. 
+OL,18,FThe IPO will value it at $1.7tn when
+OL,19,Ftrading begins - short of its $2tn
+OL,20,Ftarget, but making it the most valuable
+OL,21,Flisted company in the world.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
