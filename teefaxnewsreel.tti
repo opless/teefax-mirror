@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,16 +15,16 @@ OL,4,MJohnson and Corbyn set for         C104
 OL,6,Ghead-to-head debate                    
 OL,8,GFrance braces for second day of    C105
 OL,9,Gstrike disruption                      
-OL,10,GMan charged with murder of         C106
-OL,11,G12-year-old                            
+OL,10,GLabour pledges more help for       C106
+OL,11,Gsmaller firms                          
 OL,12,GPolice kill suspects in Indian vet C107
 OL,13,Gmurder case                            
-OL,14,GBriton revived after six-hour      C108
-OL,15,Gcardiac arrest                         
+OL,14,GMan charged with murder of         C108
+OL,15,G12-year-old                            
 OL,16,GNorth Korea attacks Trump's 'dotageC109
 OL,17,Gof a dotard'                           
-OL,18,GHomes shaken by earthquake in      C110
-OL,19,GSomerset                               
+OL,18,GBriton revived after six-hour      C110
+OL,19,Gcardiac arrest                         
 OL,20,GMerkel visits Auschwitz amid rise  C111
 OL,21,Gin anti-Semitism                       
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7137.85 A-50.65 Fat CLOSE
 OL,15,C techMARK100G5654.48 F+4.32  Fat CLOSE
 OL,16,C Dow Jones  G27677.79F+28.01 Fat CLOSE
 OL,17,C Nasdaq     G8308.40 F+11.87 Fat CLOSE
-OL,18,C Nikkei     G23361.28F+61.19 Fat 01:55
+OL,18,C Nikkei     G23359.54F+59.45 Fat 03:30
 OL,19,C DJEurStoxx G3648.13 A-11.89 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,7 +84,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Friday Evening             
@@ -113,7 +113,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Saturday                
@@ -142,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -189,7 +189,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -215,32 +215,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan charged with murder of 12-year-old
-OL,5, A man has been accused of murder and
-OL,6, dangerous driving after the death of
-OL,7, Harley Watson, 12, in an apparent
-OL,8, hit-and-run crash outside a school.
-OL,10,FHarley died after being struck by a car
-OL,11,Fnear Debden Park High School in
-OL,12,FLoughton, Essex, on Monday.
-OL,14,FTerence Glover, 51, of Newmans Lane,
-OL,15,FLoughton, is charged with murder, 10
-OL,16,Fcounts of attempted murder and
-OL,17,Fdangerous driving. 
-OL,19,FHe is due to appear before magistrates
-OL,20,Fin Chelmsford on Friday.
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CLabour pledges more help for smaller
+OL,5,Cfirms
+OL,6, Labour is promising to base a network
+OL,7, of small business advisers in Post
+OL,8, Office branches if it wins next
+OL,9, Thursday's general election.
+OL,11,FThe party says the advisers would form
+OL,12,Fpart of a wider agency to help firms
+OL,13,Faccess advice and bid for government
+OL,14,Fcontracts.
+OL,16,FThe party says it would also help small
+OL,17,Ffirms by replacing business rates with
+OL,18,Fa tax based on land value.
+OL,20,FBut the Conservatives said Labour would
+OL,21,Fbring higher taxes and uncertainty.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -266,33 +267,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBriton revived after six-hour cardiac
-OL,5,Carrest
-OL,6, A British woman whose heart stopped
-OL,7, beating for six hours has been brought
-OL,8, back to life in what doctors have
-OL,9, described as an "exceptional case". 
-OL,11,FAudrey Schoeman developed severe
-OL,12,Fhypothermia when she was caught in a
-OL,13,Fsnowstorm while hiking in the Spanish
-OL,14,FPyrenees with her husband in November.
-OL,16,FDoctors say it is the longest cardiac
-OL,17,Farrest ever recorded in Spain.
-OL,19,FMrs Schoeman, who has made a near-full
-OL,20,Frecovery after the ordeal, says she
-OL,21,Fhopes to be hiking again by spring. 
+OL,4,CMan charged with murder of 12-year-old
+OL,5, A man has been accused of murder and
+OL,6, dangerous driving after the death of
+OL,7, Harley Watson, 12, in an apparent
+OL,8, hit-and-run crash outside a school.
+OL,10,FHarley died after being struck by a car
+OL,11,Fnear Debden Park High School in
+OL,12,FLoughton, Essex, on Monday.
+OL,14,FTerence Glover, 51, of Newmans Lane,
+OL,15,FLoughton, is charged with murder, 10
+OL,16,Fcounts of attempted murder and
+OL,17,Fdangerous driving. 
+OL,19,FHe is due to appear before magistrates
+OL,20,Fin Chelmsford on Friday.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -318,32 +318,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
-OL,2,Wj $kj $kj 'kT]S     j5s*uu?bs5
-OL,3,W"###"###"###T///////,-.,,/,,.-,.///////
-OL,4,CHomes shaken by earthquake in Somerset
-OL,5, An earthquake has struck in the west of
-OL,6, England, causing homes to shake in
-OL,7, several villages, the British
-OL,8, Geological Survey has said.
-OL,10,FThe 3.2 magnitude quake's epicentre was
-OL,11,Fclose to the village of Huntworth,
-OL,12,FSomerset, the BGS confirmed.
-OL,14,FResidents reported the "whole house
-OL,15,Frattled", with another another saying
-OL,16,Fthere was "big rumble and (the) house
-OL,17,F(was) given a definite shove".
-OL,19,FThe quake hit at 22:49 GMT at a depth
-OL,20,Fof three miles (5km), the BGS said.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CBriton revived after six-hour cardiac
+OL,5,Carrest
+OL,6, A British woman whose heart stopped
+OL,7, beating for six hours has been brought
+OL,8, back to life in what doctors have
+OL,9, described as an "exceptional case". 
+OL,11,FAudrey Schoeman developed severe
+OL,12,Fhypothermia when she was caught in a
+OL,13,Fsnowstorm while hiking in the Spanish
+OL,14,FPyrenees with her husband in November.
+OL,16,FDoctors say it is the longest cardiac
+OL,17,Farrest ever recorded in Spain.
+OL,19,FMrs Schoeman, who has made a near-full
+OL,20,Frecovery after the ordeal, says she
+OL,21,Fhopes to be hiking again by spring. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -369,33 +370,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CThomas Cook customers face refund
-OL,5,Cdelays
-OL,6, Customers of defunct tour operator
-OL,7, Thomas Cook have reacted angrily after
-OL,8, learning they will face delays in
-OL,9, getting refunds for Atol-protected
-OL,10, package holidays. 
-OL,12,FThe Civil Aviation Authority originally
-OL,13,Fsaid all valid claims made on the first
-OL,14,Fday of its refund programme would be
-OL,15,Fpaid within 60 days, or by this Friday.
-OL,17,FBut now it says only two thirds will be
-OL,18,Fpaid on time.
-OL,20,FIt said it had asked the remaining
-OL,21,Fclaimants for more information.
+OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
+OL,2,Wj $kj $kj 'kT]S     j5s*uu?bs5
+OL,3,W"###"###"###T///////,-.,,/,,.-,.///////
+OL,4,CHomes shaken by earthquake in Somerset
+OL,5, An earthquake has struck in the west of
+OL,6, England, causing homes to shake in
+OL,7, several villages, the British
+OL,8, Geological Survey has said.
+OL,10,FThe 3.2 magnitude quake's epicentre was
+OL,11,Fclose to the village of Huntworth,
+OL,12,FSomerset, the BGS confirmed.
+OL,14,FResidents reported the "whole house
+OL,15,Frattled", with another another saying
+OL,16,Fthere was "big rumble and (the) house
+OL,17,F(was) given a definite shove".
+OL,19,FThe quake hit at 22:49 GMT at a depth
+OL,20,Fof three miles (5km), the BGS said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -420,33 +420,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CFarage defends decision not to contest
-OL,5,CTory seats
-OL,6, Nigel Farage has defended his
-OL,7, "difficult" decision not to contest
-OL,8, Tory-held seats, insisting he was
-OL,9, putting "country before party".
-OL,11,FThe Brexit Party leader told the BBC's
-OL,12,FAndrew Neil that his party had stopped
-OL,13,Fthe "Lib Dem surge" and were "tearing
-OL,14,Fchunks out of the Labour vote".
-OL,16,FHe said his party was the challenger in
-OL,17,FLabour-Leave areas in next week's poll.
-OL,19,FIt comes as three Brexit Party MEPs
-OL,20,Fquit to support the Tories, saying the
-OL,21,Fparty will split the pro-Brexit vote.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CMaternity services 'improving' at
+OL,5,Cunder-fire trust
+OL,6, Maternity care has improved at
+OL,7, Shrewsbury and Telford Hospital NHS
+OL,8, Trust, but emergency services still
+OL,9, require urgent action, inspectors say.
+OL,11,FThe hospital trust has been in special
+OL,12,Fmeasures since November 2018 due to
+OL,13,Fproblems in both A&E and maternity.
+OL,15,FThe Care Quality Commission report
+OL,16,Fcomes as it remains the focus of an
+OL,17,Findependent inquiry into concerns over
+OL,18,Fmaternity care dating back to 1979.
+OL,20,FThe hospital trust said improvements
+OL,21,Fhad been made in both departments.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -472,14 +472,14 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CKatherine Jenkins mugged in London
-OL,5,Cstreet
+OL,4,CSinger Katherine Jenkins mugged in
+OL,5,CLondon street
 OL,6, Welsh opera singer Katherine Jenkins
 OL,7, has been mugged in London after
 OL,8, intervening in a street robbery.
@@ -498,7 +498,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:40:41
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C04:37:42
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
