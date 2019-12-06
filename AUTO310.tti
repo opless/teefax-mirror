@@ -1,30 +1,23 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 310 FA Cup
+DE,Sport Page 310 Football
 CT,10,T
 PN,31000
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:36:38
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C07:04:14
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFA Cup: BBC One to show third-round tie
-OL,5,Bbetween Liverpool and Everton
-OL,6, Everton's trip to Anfield to face
-OL,7, Liverpool in the FA Cup third round
-OL,8, will be shown live on BBC One.  
-OL,10,FThe Merseyside derby will take place on
-OL,11,FSunday, 5 January at 16.01 GMT. 
-OL,13,FArsenal's match with Championship
-OL,14,Fpromotion hopefuls Leeds will also be
-OL,15,Fbroadcast on BBC One on Monday, 6
-OL,16,FJanuary at 19:56 GMT.
-OL,18,FAs part of the Heads Up campaign, all
-OL,19,F32 fixtures will kick off one minute
-OL,20,Flate to encourage fans to think about
-OL,21,Flooking after their mental health.
-OL,22,D]CCEEFAX SPORT SECTION PAGE 300
-OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
+OL,4,BFriday's gossip column: Rodgers,
+OL,5,BPochettino, Allegri, Eriksen, Sancho,
+OL,6,BZaha, Haaland
+OL,10,FShare this with
+OL,12,FLeicester City have opened talks with
+OL,13,Fmanager Brendan Rodgers over a
+OL,14,Flucrative new contact in a bid to fend
+OL,15,Foff interest from Arsenal. (Telegraph)
+OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
+OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,311,302,301,300,8FF,199
