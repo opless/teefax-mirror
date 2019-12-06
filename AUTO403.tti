@@ -5,23 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C02:22:50
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:37:11
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain in the northwest, heavy on hills,
-OL,9,Fextending to southern and eastern
-OL,10,Fparts. Windy, with gales on coasts and
-OL,11,Fhills at first. Mild for most.
+OL,7,GToday
+OL,8,FWindy with rain or showers at times
+OL,9,Fduring the day. Some bright or sunny
+OL,10,Fspells spreading in from the northwest.
+OL,11,FMilder than recently for most of
+OL,12,FEngland and Wales but a colder day than
+OL,13,FThursday over Scotland and Northern
+OL,14,FIreland.
 OL,4,                                    1/2 
-OL,13,GFriday
-OL,14,FSouthern areas cloudy with rain at
-OL,15,Ffirst. Brighter, showery weather in the
-OL,16,Fnorthwest spreading to all parts by
-OL,17,Fafternoon. Some of the showers heavy
-OL,18,Fwith hail and thunder.
+OL,16,GTonight
+OL,17,FShowers clearing for most though some
+OL,18,Flight rain continuing for high ground
+OL,19,Fin the west. Frost free for most with
+OL,20,Feasing winds. Colder for the Northern
+OL,21,FIsles with wintry showers.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -29,18 +32,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C02:22:50
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C03:37:11
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Saturday to Monday
-OL,8,FSome bright spells Saturday, but
-OL,9,Fbecoming wet and windy overnight.
-OL,10,FHeavy, blustery showers on Sunday with
-OL,11,Fgales. Mainly fine on Monday, breezy,
-OL,12,Fshowers in the east at first. Rather
-OL,13,Fcold.
+OL,7,GOutlook for Sunday to Tuesday
+OL,8,FShowery and cool Sunday, windy too with
+OL,9,Fgales, locally severe around some
+OL,10,Fcoasts. Showers clear east on Monday;
+OL,11,Fwidespread frost Tuesday morning before
+OL,12,Ffurther wet and very windy weather
+OL,13,Farrives.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
