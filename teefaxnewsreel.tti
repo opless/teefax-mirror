@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -21,8 +21,8 @@ OL,12,GPolice kill suspects in India vet  C107
 OL,13,Grape-murder case                       
 OL,14,GMajor urges support for ex-Tory    C108
 OL,15,GBrexit rebels                          
-OL,16,GThree dead in shooting at US naval C109
-OL,17,Gbase                                   
+OL,16,GThree dead in US naval base        C109
+OL,17,Gclassroom shooting                     
 OL,18,GChild 'heard woman being beaten by C110
 OL,19,Ghusband'                               
 OL,20,GBoy, 5, invites entire class to    C111
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 15:25GWinnersF94GLosersA7
-OL,14,C FTSE100    G7234.87 F+97.02 Fat 15:25
-OL,15,C techMARK100G5694.02 F+39.54 Fat 15:25
-OL,16,C Dow Jones  G27985.86F+308.07Fat 15:30
-OL,17,C Nasdaq     G8387.33 F+78.93 Fat 15:30
+OL,12,  FTSE100Fat CLOSEGWinnersF96GLosersA5
+OL,14,C FTSE100    G7239.66 F+101.81Fat CLOSE
+OL,15,C techMARK100G5698.42 F+43.94 Fat CLOSE
+OL,16,C Dow Jones  G28016.29F+338.50Fat 16:30
+OL,17,C Nasdaq     G8390.75 F+82.35 Fat 16:30
 OL,18,C Nikkei     G23354.40F+5,431.Fat 07:44
-OL,19,C DJEurStoxx G3688.44 F+40.31 Fat 15:30
+OL,19,C DJEurStoxx G3692.34 F+44.21 Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,7 +83,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -112,7 +112,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -141,7 +141,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -187,7 +187,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -203,9 +203,9 @@ OL,11,FJoseph McCann's victims were aged
 OL,12,Fbetween 11 and 71 and included three
 OL,13,Fwomen who were abducted off the street
 OL,14,Fat knifepoint and repeatedly raped.
-OL,16,FThe 34-year-old also raped a mother in
-OL,17,Fher home and then tied her to a bed as
-OL,18,Fhe molested her son and daughter.
+OL,16,FThe 34-year-old also tricked his way
+OL,17,Finto a woman's home before tying her up
+OL,18,Fand molesting her son and daughter.
 OL,20,FMcCann, of Harrow, was found guilty of
 OL,21,Foffences including rape and kidnap.
 OL,22,D]CHome news digestG141CWorld digestG142
@@ -213,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -239,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -250,22 +250,22 @@ OL,5,Con TV'
 OL,6, A teenager said he threw a boy from the
 OL,7, 10th floor of the Tate Modern in London
 OL,8, because he wanted to be on the TV news.
-OL,10,FJonty Bravery, 18, from Ealing pleaded
-OL,11,Fguilty to attempted murder at the Old
-OL,12,FBailey.  
-OL,14,FThe six-year-old boy was visiting
-OL,15,FLondon from France with his family and
-OL,16,Fsuffered a "deep" bleed to the brain in
-OL,17,Fthe fall on 4 August. His injuries have
-OL,18,Fbeen described as life-changing. 
-OL,20,FBravery was remanded in custody ahead
-OL,21,Fof sentencing in February.
+OL,10,FThe six-year-old boy was visiting
+OL,11,FLondon from France with his family when
+OL,12,FJonty Bravery, 18, threw him from a
+OL,13,Fviewing platform on 4 August.
+OL,15,FThe boy suffered a bleed to the brain
+OL,16,Fin the five-storey fall. His injuries
+OL,17,Fhave been described as life-changing. 
+OL,19,FBravery, from Ealing, admitted
+OL,20,Fattempted murder at the Old Bailey and
+OL,21,Fwill be sentenced in February.  
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -317,32 +317,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CThree dead in shooting at US naval base
-OL,5, A gunman has opened fire in a classroom
-OL,6, building at a US naval base in
-OL,7, Pensacola, Florida, killing at least
-OL,8, three people before being shot dead. 
-OL,10,FThe local sheriff's office has
-OL,11,Fconfirmed seven other people were
-OL,12,Finjured.
-OL,14,FThis is the second shooting to have
-OL,15,Ftaken place at a US naval base this
-OL,16,Fweek. 
-OL,18,FA US sailor shot dead two workers at
-OL,19,Fthe Pearl Harbor military base in
-OL,20,FHawaii on Wednesday.
+OL,4,CThree dead in US naval base classroom
+OL,5,Cshooting
+OL,6, A gunman has opened fire in a classroom
+OL,7, building at a US naval base in
+OL,8, Pensacola, Florida, killing at least
+OL,9, three people before being shot dead. 
+OL,11,FThe local sheriff's office confirmed
+OL,12,Fseven other people were injured.
+OL,14,FTwo officers were shot in the limbs but
+OL,15,Fare expected to recover. 
+OL,17,F It is the second shooting to have
+OL,18,Ftaken place at a US military base this
+OL,19,Fweek after a US sailor shot dead two
+OL,20,Fworkers at the Pearl Harbour military
+OL,21,Fbase in Hawaii on Wednesday.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -368,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -394,7 +395,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -420,7 +421,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -446,33 +447,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLloyd's staff told to behave at
-OL,5,CChristmas parties
-OL,6, Workers at insurance market Lloyd's of
-OL,7, London have been told to behave during
-OL,8, the Christmas party season.
-OL,10,FChief executive John Neal told trade
-OL,11,Fmagazine Financial News that staff have
-OL,12,Fbeen emailed warning them to be
-OL,13,F"particularly careful".
-OL,15,FThe move by Lloyd's comes after it
-OL,16,Fvowed in September this year to tackle
-OL,17,Fits male-dominated culture.
-OL,19,FA survey it commissioned found 8% of
-OL,20,Fworkers said they had seen sexual
-OL,21,Fharassment in the past 12 months.
+OL,4,CGrime artist 'held gun to head of rape
+OL,5,Cvictim'
+OL,6,  A rapper used a gun to threaten a
+OL,7, woman he is accused of raping and
+OL,8, holding against her will, a court
+OL,9, heard.
+OL,11,FAndy Anokye, 32, who performs under the
+OL,12,Fstage name Solo 45, denies 31 charges
+OL,13,Fagainst him at Bristol Crown Court.
+OL,15,FThey include 22 allegations of rape,
+OL,16,Ffive counts of false imprisonment, two
+OL,17,Fof assault by penetration and two of
+OL,18,Fassault occasioning actual bodily harm.
+OL,20,FThe mother of one of the complainants
+OL,21,Fin the case gave evidence to the court.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -498,7 +499,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -524,7 +525,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -550,7 +551,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -576,7 +577,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -602,7 +603,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -628,7 +629,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -653,7 +654,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -679,7 +680,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -705,7 +706,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -731,7 +732,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -756,7 +757,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -781,7 +782,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -806,7 +807,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C16:41:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C17:40:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
