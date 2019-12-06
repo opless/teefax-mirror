@@ -1,10 +1,10 @@
 DE,This is Ceefax - News
 DS,inserter
 SP,J:\peter\teefax\P133-ThisIsCeefax-News.tti
-PN,13300
-SC,0000
+PN,13301
+SC,0001
 PS,8000
-CT,8,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,Ro? o?                                  
@@ -25,3 +25,25 @@ OL,18,    director general of the National
 OL,19,    Housebuilding Council, at a         
 OL,20,    conference in Torquay.              
 OL,23,A   MORE HOME NEWS ON PAGE 103          
+PN,13302
+SC,0002
+PS,8000
+CT,12,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,FBBC                                    
+OL,4,S  ws17#57#57#5#7!ws1   j#kj#kj#+jss    
+OL,5,S  pp57#!up57#4 5 pp5   j##j#kjp{jpp    
+OL,6,W|||||||||||||||||||||||||||||||||||||||
+OL,9,  BCRICKET:CAt Worcester,GYorkshire 34-0
+OL,10,           (Rain).                      
+OL,11,           CAt Lord's,GMiddlesex 270-6  
+OL,12, Somerset 43-0.                         
+OL,13,           CAt Swansea,GGlamorgan 213-8 
+OL,14, Hampshire 71-3.                        
+OL,15,           CAt Northampton,GNorthants   
+OL,16, 199 Warwickshire 16-0.                 
+OL,17,           CAt the Oval,GDerbyshire     
+OL,18, 216-9 Surrey 48-1.                     
+OL,19,           CAt Leicester,GLeicestershire
+OL,20, 264 Sussex 20-1.                       
