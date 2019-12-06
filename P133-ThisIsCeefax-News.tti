@@ -7,6 +7,7 @@ PS,8000
 CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,G                                       
 OL,2,Ro? o?                                  
 OL,3,Rj5 j5j7kj7k7kj7k   j7kj7kj5j5jj7#      
 OL,4,Rj7#k5j5jj5j5jj7#   j5jj7#j5j5j"#      
@@ -27,6 +28,30 @@ OL,20,    conference in Torquay.
 OL,23,A   MORE HOME NEWS ON PAGE 103          
 PN,13302
 SC,0002
+PS,8000
+CT,12,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,G                                       
+OL,2,Uo? o?        jj5,                  FBBC
+OL,3,Uj5 j5j7kj7kj7kj5j7kj7kj##             
+OL,4,Uj7#k5j7#j5jj5jj5j5jj7#"#k             
+OL,5,Uj5 j5"##"##"##"!#"!""##"##             
+OL,6,U~} ~} W//////Fat noonW/////////////    
+OL,8,R||GHundreds of firemen and soldiers    
+OL,9,    are fighting aCHEATHLAND FIREGin    
+OL,10,    Hampshire.                          
+OL,12,R||GTop engineers in Britain's power    
+OL,13,    stations are being asked to vote on 
+OL,14,    whether to strike for aCPAY CLAIM.  
+OL,16,R||GAge Concern which looks after the   
+OL,17,    welfare of old folk have called for 
+OL,18,    aCNEW DEALGfor pensioners.          
+OL,20,R||GThe Queen has arrived inCJAPANGfor  
+OL,21,    a six day visit.                    
+OL,23,W||AMore details on p103 and 104Q|||    
+PN,13303
+SC,0003
 PS,8000
 CT,12,T
 RE,0
