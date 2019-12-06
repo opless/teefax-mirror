@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -17,14 +17,14 @@ OL,8,GPolice kill suspects in India vet  C105
 OL,9,Grape-murder case                       
 OL,10,GJohnson and Corbyn set for         C106
 OL,11,Ghead-to-head TV clash                  
-OL,12,GUber: 6,000 US sexual assault      C107
-OL,13,Greports in two years                   
+OL,12,GMerkel visits Auschwitz amid rise  C107
+OL,13,Gin anti-Semitism                       
 OL,14,GBriton revived after six-hour      C108
 OL,15,Gcardiac arrest                         
-OL,16,GSecond day of strike brings more   C109
-OL,17,Gchaos to France                        
-OL,18,GThree men stabbed to death in 12   C110
-OL,19,Ghours                                  
+OL,16,GBoy, 5, invites entire class to    C109
+OL,17,Gwatch his adoption                     
+OL,18,GCouple win 'race discrimination'   C110
+OL,19,Gadoption battle                        
 OL,20,GAnti-vaxxer arrested amid measles  C111
 OL,21,Gcrisis                                 
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,97 +50,98 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 09:30GWinnersF86GLosersA15
-OL,14,C FTSE100    G7186.27 F+48.42 Fat 09:30
-OL,15,C techMARK100G5682.74 F+28.26 Fat 09:30
+OL,12,  FTSE100Fat 10:35GWinnersF86GLosersA15
+OL,14,C FTSE100    G7187.80 F+49.95 Fat 10:35
+OL,15,C techMARK100G5678.96 F+24.48 Fat 10:35
 OL,16,C Dow Jones  G27677.79F+28.01 Fat CLOSE
 OL,17,C Nasdaq     G8308.40 F+11.87 Fat CLOSE
 OL,18,C Nikkei     G23354.40F+5,431.Fat 07:44
-OL,19,C DJEurStoxx G3661.26 F+13.13 Fat 09:30
+OL,19,C DJEurStoxx G3662.54 F+14.41 Fat 10:35
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MDavid Moyes in Everton return? A   G303
-OL,6,FMaupay seals victory for Seagulls  G304
-OL,7,FSheff Utd boss says football is    G305
-OL,8,FHow social media reacted to        G306
-OL,9,FEverton sack Marco Silva as        G307
-OL,10,FJonjo Shelvey goal given by VAR as G308
-OL,12,FRomelu Lukaku & Chris Smalling     G309
-OL,13,FRodgers, Pochettino, Allegri,      G310
-OL,14,FGareth Bale 'not ecstatic' at Real G311
-OL,15,FBBC One to show third-round tie    G312
-OL,17,FEngland and Wales openers to be    G313
+OL,4,MChelsea transfer ban reduced after G303
+OL,6,FDavid Moyes in Everton return? A   G304
+OL,7,FMaupay seals victory for Seagulls  G305
+OL,8,FPremier League streaming on Amazon G306
+OL,9,FSheff Utd boss says football is    G307
+OL,10,FTransfer and team guide for        G308
+OL,12,FHow social media reacted to        G309
+OL,13,FEverton sack Marco Silva as        G310
+OL,14,FPick your combined Old Firm League G311
+OL,15,FJonjo Shelvey goal given by VAR as G312
+OL,17,FRomelu Lukaku & Chris Smalling     G313
+OL,18,FRodgers, Pochettino, Allegri,      G314
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G09V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G09R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G10V!FCloudy         
+OL,6,            ZV!'~G10V!FRain           
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BLight Rain    
-OL,9,           ^ZRj)"G 11R}  B             
-OL,10,       ^ZRp|t RxRg0 B             
-OL,11,       ZRnG11RtR+"RG11R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 12R} B          
-OL,15,EHeavy Rain  ^ZRk|R            
-OL,16,E            ^ZR'oG 11U}zt B       
-OL,17,B              ZRj^RG 11U B       
-OL,18,B            ZRx|^G 12U'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZV  tG 12R/!        
-OL,21,B            ZV zG12V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 11V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG10VtV+"VG11V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 12V} B          
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 11V}zt B       
+OL,17,B              ZVj^VG 12V B       
+OL,18,B            ZVx|^G 12V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,BCloudy      ^ZR  tG 12V/!        
+OL,21,B            ZR zG12R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G10U%  EHeavy Rain     
-OL,4,           UZj**gppp  E              
-OL,5,           ^ZR({5                
-OL,6,            ZR!'~G07R!BLight Rain     
-OL,7,           ^ZR ~ow1  B              
-OL,8,COvercast  ^ZV*y?sp  FCloudy        
-OL,9,           ^ZVj)"G 09V}  F             
-OL,10,       ^ZSp|t VxVg0 B             
-OL,11,       ZSnG10StV+"VG09V B             
-OL,12,       ZS+V`4V+|0             
-OL,13,        ZS+%*o!V" Q *u  ASome Cloud
-OL,14,C            ^ZV`  Q*G 09Q}  A         
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 09V}zt B       
-OL,17,B              ZVj^VG 09V B       
-OL,18,B            ZVx|^G 11V'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 10V/!        
-OL,21,B            ZV zG11V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G10V%  B               
+OL,4,           VZj**gppp B               
+OL,5,           ^ZV({5                
+OL,6,            ZV!'~G07V!FRain           
+OL,7,           ^ZV ~ow1  F              
+OL,8,B          ^ZR*y?sp  BCloudy        
+OL,9,           ^ZRj)"G 09R}  B             
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG10RtR+"RG09R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  B          
+OL,14,B            ^ZR`  R*G 09R} B          
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 09R}zt B       
+OL,17,B              ZRj^RG 09R B       
+OL,18,B            ZRx|^G 11R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 10R/!        
+OL,21,B            ZR zG11R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +162,32 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,6,E```````````````````````````````````````
+OL,4,MStars celebrate Avicii at emotionalC502
+OL,7,GBeckham film on show at hospital heC503
+OL,8,GSinger Katherine Jenkins mugged in C504
+OL,9,GSimpsons star Harry Shearer: 'We'reC505
+OL,10,GSoul singer Celeste wins Brits RisiC506
+OL,12,GR. Kelly faces charge over under-agC507
+OL,13,GYouTube reveals 2019's most-watchedC508
+OL,14,GSpassky vs Fischer: How chess becamC509
+OL,15,GWhat we learned from the first JameC510
+OL,17,GAre award winners and losers out ofC511
+OL,18,GSeven talking points from the BlackC512
+OL,19,GClarkson: Climate change 'was rammeC513
+OL,20,GNikki Lilly's won the Bafta SpecialC514
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40508
+SC,0008
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -169,25 +195,25 @@ OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CLondon Fire Brigade chief quits four
 OL,5,Cmonths early
-OL,6, London's first female fire commissioner
-OL,7, has said she will quit at the end of
-OL,8, the year - four months earlier than
-OL,9, previously planned.
-OL,11,FDany Cotton, 50, had announced she was
-OL,12,Fto stand down from the London Fire
-OL,13,FBrigade in April 2020.
-OL,15,FShe has faced criticism of her work at
-OL,16,Fthe Grenfell Tower fire which killed 72
-OL,17,Fpeople in June 2017.
-OL,19,FGrenfell United said the resignation
-OL,20,Fwas "a change in leadership" that was
-OL,21,F"needed to keep Londoners safe".
+OL,6, London Fire Brigade's commissioner is
+OL,7, to step down four months early in the
+OL,8, wake of criticism over the service's
+OL,9, response to the Grenfell fire.
+OL,11,FDany Cotton, 50, previously announced
+OL,12,Fshe was standing down from the London
+OL,13,FFire Brigade (LFB) in April 2020.
+OL,15,FShe was facing calls to resign after a
+OL,16,Fcritical public inquiry report into the
+OL,17,FGrenfell Tower fire which killed 72
+OL,18,Fpeople in June 2017.
+OL,20,FGrenfell United said the change in
+OL,21,Fleadership would "keep Londoners safe".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40508
-SC,0008
+PN,40509
+SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -204,16 +230,16 @@ OL,12,Fcrime in the early hours of Friday.
 OL,14,FThe suspects were shot when they tried
 OL,15,Fto steal the officers' guns and escape,
 OL,16,Fpolice told BBC Telugu.
-OL,18,FThe 27-year-old victim's charred
-OL,19,Fremains were discovered last Thursday -
-OL,20,Fleading to outrage and protests over
-OL,21,Falleged police inaction. 
+OL,18,FHowever, human rights organisations
+OL,19,Fincluding Amnesty International have
+OL,20,Fcalled for investigations to determine
+OL,21,Fif these were extrajudicial killings.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40509
-SC,0009
+PN,40510
+SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -236,36 +262,36 @@ OL,20,Fwere likely to focus on core messages
 OL,21,Fto try and win over undecided voters.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40510
-SC,0010
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CUber: 6,000 US sexual assault reports
-OL,5,Cin two years
-OL,6, Uber said it received almost 6,000
-OL,7, reports of sexual assault in the United
-OL,8, States in 2017 and 2018.
-OL,10,FWhile the number of cases rose in 2018,
-OL,11,Fthe rate of incidents dropped by 16%,
-OL,12,Fas the number of journeys was higher.
-OL,14,FPassengers - as opposed to drivers -
-OL,15,Faccounted for nearly half of those
-OL,16,Faccused of sexual assault.
-OL,18,FThe data was published in a report
-OL,19,Fwhich Uber said showed its commitment
-OL,20,Fto "improving safety for Uber and the
-OL,21,Fentire industry".
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CMerkel visits Auschwitz amid rise in
+OL,5,Canti-Semitism
+OL,6, German Chancellor Angela Merkel has
+OL,7, been visiting Auschwitz concentration
+OL,8, camp, her first trip to the site.
+OL,10,FShe was due to take part in a ceremony
+OL,11,Falongside a camp survivor and Polish
+OL,12,FPrime Minister Mateusz Morawiecki.
+OL,14,FHer visit comes amid a rise in German
+OL,15,Fanti-Semitism and ahead of the 75th
+OL,16,Fanniversary of the camp's liberation.
+OL,18,FThe Nazi regime murdered an estimated
+OL,19,F1.1 million people, the vast majority
+OL,20,Fof whom were Jewish, at
+OL,21,FAuschwitz-Birkenau.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40512
+SC,0012
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -288,61 +314,62 @@ OL,20,Frecovery after the ordeal, says she
 OL,21,Fhopes to be hiking again by spring. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40512
-SC,0012
+PN,40513
+SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSecond day of strike brings more chaos
-OL,5,Cto France
-OL,6, A strike over planned pension reforms
-OL,7, that paralysed France on Thursday has
-OL,8, entered its second day.
-OL,10,FSeveral unions, including rail and
-OL,11,Fmetro workers, voted to extend the
-OL,12,Fstrike action, meaning another day of
-OL,13,Fmajor disruptions to key services. 
-OL,15,FIt comes after at least 800,000 people
-OL,16,Fprotested on Thursday, with violent
-OL,17,Fclashes reported in a number of cities.
-OL,19,FWorkers are angry about planned pension
-OL,20,Freforms that would see them retiring
-OL,21,Flater or facing reduced payouts.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40513
-SC,0013
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CThree men stabbed to death in 12 hours
-OL,5, Three men have been stabbed to death in
-OL,6, London in little over 12 hours.
-OL,8,FA man in his 20s was attacked in
-OL,9,FHackney, east London, on Thursday
-OL,10,Fafternoon. A 14-year-old boy and a
-OL,11,F26-year-old man have been arrested.
-OL,13,FOvernight, a man was found fatally
-OL,14,Fwounded in Knightsbridge, central
-OL,15,FLondon, while another victim was killed
-OL,16,Fin Deptford, south-east London.
-OL,18,FThe deaths mean 136 murder
-OL,19,Finvestigations have been launched in
-OL,20,Fthe capital this year.
+OL,4,CBoy, 5, invites entire class to watch
+OL,5,Chis adoption
+OL,6, A five-year-old boy in Michigan has
+OL,7, invited his whole kindergarten class to
+OL,8, witness his legal adoption - and warmed
+OL,9, hearts across the world.  
+OL,11,FThe youngster, identified as Michael,
+OL,12,Fformally joined his new family at Kent
+OL,13,FCounty court on Thursday.
+OL,15,FA photo shared by Kent County on
+OL,16,FFacebook showed the little boy relaxing
+OL,17,Fin an adult-sized courtroom chair, next
+OL,18,Fto his foster parents.
+OL,20,FBehind them, his classmates happily
+OL,21,Fwaved paper hearts on sticks.  
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CCouple win 'race discrimination'
+OL,5,Cadoption battle
+OL,6, A couple who were rejected by their
+OL,7, local adoption service because of their
+OL,8, Indian heritage have won their legal
+OL,9, discrimination battle. 
+OL,11,FSandeep and Reena Mander sued The Royal
+OL,12,FBorough of Windsor and Maidenhead
+OL,13,FCouncil after they were turned away
+OL,14,Ffrom Adopt Berkshire three years ago. 
+OL,16,FJudge Melissa Clarke said the couple
+OL,17,Fwere discriminated against on the
+OL,18,Fgrounds of race.
+OL,20,FThe Sikh couple have now been awarded
+OL,21,Fnearly #120,000 in damages. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40515
+SC,0015
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -365,36 +392,34 @@ OL,20,FSamoa declared a state of emergency,
 OL,21,Fand made vaccinations compulsory.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40515
-SC,0015
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CLabour pledges more help for smaller
-OL,5,Cfirms
-OL,6, Labour is promising to base a network
-OL,7, of small business advisers in Post
-OL,8, Office branches if it wins next
-OL,9, Thursday's general election.
-OL,11,FThe party says the advisers would form
-OL,12,Fpart of a wider agency to help firms
-OL,13,Faccess advice and bid for government
-OL,14,Fcontracts.
-OL,16,FThe party says it would also help small
-OL,17,Ffirms by replacing business rates with
-OL,18,Fa tax based on land value.
-OL,20,FBut the Conservatives said Labour would
-OL,21,Fbring higher taxes and uncertainty.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CMan in court charged with boy's
+OL,5,Chit-and-run murder
+OL,6, A man has appeared in court charged
+OL,7, with murdering a 12-year-old boy who
+OL,8, was killed in a hit-and-run crash
+OL,9, outside a school.
+OL,11,FHarley Watson died after being struck
+OL,12,Fby a car near Debden Park High School
+OL,13,Fin Loughton, Essex, on Monday.
+OL,15,FTerence Glover, 51, of Newmans Lane in
+OL,16,FLoughton, spoke only to confirm his
+OL,17,Fname and age at a hearing at Chelmsford
+OL,18,FMagistrates' Court on Friday. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40517
+SC,0017
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -417,65 +442,15 @@ OL,20,Fcelebration on 1 December in a village
 OL,21,Fin Uttar Pradesh state.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40517
-SC,0017
+PN,40518
+SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan charged with murdering 12-year-old
-OL,5,Cboy
-OL,6, A man has been accused of murdering a
-OL,7, 12-year-old boy who was killed in a
-OL,8, hit-and-run crash outside a school.
-OL,10,FHarley Watson died after being struck
-OL,11,Fby a car near Debden Park High School
-OL,12,Fin Loughton, Essex, on Monday.
-OL,14,FTerence Glover, 51, of Newmans Lane in
-OL,15,FLoughton, has been charged with murder,
-OL,16,F10 counts of attempted murder and
-OL,17,Fdangerous driving. 
-OL,19,FHe is due to appear before magistrates
-OL,20,Fin Chelmsford on Friday.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40518
-SC,0018
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CBushfire 'mega blaze' forms near Sydney
-OL,5, About 100 bushfires are raging in the
-OL,6, Australian state of New South Wales
-OL,7, (NSW), with the most severe forming
-OL,8, into a "mega blaze" north of Sydney.
-OL,10,FMore than 2,000 firefighters are
-OL,11,Fbattling bushfires, which escalated in
-OL,12,Fintensity late on Thursday.
-OL,14,FFootage of one blaze on the southern
-OL,15,Ffringe of the city showed firefighters
-OL,16,Ffleeing as flames surged forward.
-OL,18,FAustralia's largest city has been
-OL,19,Fblanketed by thick smoke all week,
-OL,20,Fcausing a rise in medical problems.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,D]CNews IndexG102CFlashG150CRegionalG160
-PN,40519
-SC,0019
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
-OL,2,Wj $kj $kj 'kT]S     j5s*uu?bs5
-OL,3,W"###"###"###T///////,-.,,/,,.-,.///////
 OL,4,CHomes shaken by earthquake in Somerset
 OL,5, An earthquake has struck in the west of
 OL,6, England, causing homes to shake in
@@ -492,29 +467,362 @@ OL,19,FThe quake hit at 22:49 GMT at a depth
 OL,20,Fof three miles (5km), the BGS said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CUber: 6,000 US sexual assault reports
+OL,5,Cin two years
+OL,6, Uber said it received almost 6,000
+OL,7, reports of sexual assault in the United
+OL,8, States in 2017 and 2018.
+OL,10,FWhile the number of cases rose in 2018,
+OL,11,Fthe rate of incidents dropped by 16%,
+OL,12,Fas the number of journeys was higher.
+OL,14,FPassengers - as opposed to drivers -
+OL,15,Faccounted for nearly half of those
+OL,16,Faccused of sexual assault.
+OL,18,FThe data was published in a report
+OL,19,Fwhich Uber said showed its commitment
+OL,20,Fto "improving safety for Uber and the
+OL,21,Fentire industry".
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E06/12C10:36:40
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CLloyd's staff told to behave at
+OL,5,CChristmas parties
+OL,6, Workers at insurance market Lloyd's of
+OL,7, London have been told to behave during
+OL,8, the Christmas party season.
+OL,10,FChief executive John Neal told trade
+OL,11,Fmagazine Financial News that staff have
+OL,12,Fbeen emailed warning them to be
+OL,13,F"particularly careful".
+OL,15,FThe move by Lloyd's comes after it
+OL,16,Fvowed in September this year to tackle
+OL,17,Fits male dominated culture.
+OL,19,FA survey it commissioned found 8% of
+OL,20,Fworkers said they had seen sexual
+OL,21,Fharassment in the past 12 months.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40521
+SC,0021
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRussians charged in Evil Corp hack
-OL,5,Cinvestigation
-OL,6, US authorities have filed charges
-OL,7, against two Russian nationals alleged
-OL,8, to be running a global cyber crime
-OL,9, organisation named Evil Corp.
-OL,11,FAn indictment named Maksim Yakubets and
-OL,12,FIgor Turashev - who remain at large -
-OL,13,Fas figures in a group which used
-OL,14,Fmalware to steal millions of dollars in
-OL,15,Fmore than 40 countries.
-OL,17,FThose affected by the hacks include
-OL,18,Fschools and religious organisations.
-OL,20,FIt is also alleged that Mr Yakubets
-OL,21,Fworked for Russian intelligence.
+OL,4,CSecond day of strike brings more chaos
+OL,5,Cto France
+OL,6, A strike over planned pension reforms
+OL,7, that paralysed France on Thursday has
+OL,8, entered its second day.
+OL,10,FSeveral unions, including rail and
+OL,11,Fmetro workers, voted to extend the
+OL,12,Fstrike action, meaning another day of
+OL,13,Fmajor disruptions to key services. 
+OL,15,FIt comes after at least 800,000 people
+OL,16,Fprotested on Thursday, with violent
+OL,17,Fclashes reported in a number of cities.
+OL,19,FWorkers are angry about planned pension
+OL,20,Freforms that would see them retiring
+OL,21,Flater or facing reduced payouts.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+PN,40522
+SC,0022
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CStars celebrate Avicii at emotional
+OL,5,Ctribute concert
+OL,6, Stars including Rita Ora, Adam Lambert
+OL,7, and David Guetta have played a charity
+OL,8, tribute concert in honour of the late
+OL,9, Swedish DJ Avicii.
+OL,11,FAvicii, whose real name was Tim
+OL,12,FBergling, was found dead in Oman in
+OL,13,FApril 2018, at the age of 28. 
+OL,15,FHis family said at the time he was a
+OL,16,Fperfectionist who struggled with stress
+OL,17,Fand "could not go on any longer".
+OL,19,FProceeds from the concert will go to
+OL,20,Fmental health and suicide prevention
+OL,21,Fcharities.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40523
+SC,0023
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CBeckham film on show at hospital he was
+OL,5,Cborn in
+OL,6, An hour-long video of former footballer
+OL,7, David Beckham sleeping has gone on show
+OL,8, at the London hospital he was born in.
+OL,10,FSam Taylor-Johnson's artwork has been
+OL,11,Floaned to the ultrasound department at
+OL,12,FWhipps Cross Hospital in Leytonstone,
+OL,13,Feast London, until March 2020.
+OL,15,FUnveiled in 2004, David shows England's
+OL,16,Fthen-football captain getting 40 winks
+OL,17,Fafter a Real Madrid training session.
+OL,19,FThe National Portrait Gallery's Sarah
+OL,20,FTinsley said both artist and subject
+OL,21,Fwere "very happy" with the loan.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40524
+SC,0024
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CSinger Katherine Jenkins mugged in
+OL,5,CLondon street
+OL,6, Welsh singer Katherine Jenkins has been
+OL,7, mugged in London after intervening in a
+OL,8, street robbery.
+OL,10,FThe 39-year-old was on her way to a
+OL,11,Frehearsal for a charity carol concert
+OL,12,Fin Chelsea at around 15:10 GMT on
+OL,13,FWednesday when she witnessed an older
+OL,14,Fwoman being attacked, her agent said.
+OL,16,FThe Neath-born mezzo-soprano was then
+OL,17,Fmugged herself after trying to help.
+OL,19,FBut she went on to perform at the Henry
+OL,20,Fvan Straubenzee concert at St Luke's
+OL,21,FChurch in Chelsea.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40525
+SC,0025
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CSimpsons star Harry Shearer: 'We're
+OL,5,Creliving the 1930s'
+OL,6, For someone who has made his living
+OL,7, from comedy for more than 50 years,
+OL,8, Harry Shearer is very serious about
+OL,9, politics.
+OL,11,FTogether with his wife, the Welsh
+OL,12,Fsinger-songwriter Judith Owen, Shearer
+OL,13,F- who does the voices of more than 20
+OL,14,Fof the characters in The Simpsons,
+OL,15,Fincluding Mr Burns, Principal Skinner
+OL,16,Fand Ned Flanders - does an annual music
+OL,17,Fand comedy benefit gig for the homeless
+OL,18,Fin the UK and US.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40526
+SC,0026
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CSoul singer Celeste wins Brits Rising
+OL,5,CStar award
+OL,6, Soul singer Celeste has won the Brits'
+OL,7, Rising Star award, priming her for
+OL,8, success in 2020.
+OL,10,FBorn in Los Angeles and raised in
+OL,11,FBrighton, the musician has turned heads
+OL,12,Fwith her beguiling, soulful voice.
+OL,14,FAfter winning the Rising Star award,
+OL,15,Fthe 25-year-old will get to perform on
+OL,16,Fstage at the Brit Awards in February.
+OL,18,FThe British-Jamaican singer said the
+OL,19,Faward was "a huge honour" and that she
+OL,20,Fhoped "to make the most of this
+OL,21,Fincredible opportunity".
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40527
+SC,0027
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CR. Kelly faces charge over under-age
+OL,5,Cmarriage ID
+OL,6, R. Kelly has been charged with bribing
+OL,7, a government official in order to get a
+OL,8, fraudulent identification document to
+OL,9, marry an under-age girl in 1994.
+OL,11,FThe girl, named only as Jane Doe in the
+OL,12,Fdocuments, has widely been identified
+OL,13,Fby US media as singer Aaliyah.
+OL,15,FThey got married when she was 15 and R.
+OL,16,FKelly was 27. The certificate, leaked
+OL,17,Fat the time, listed her age as 18.
+OL,19,FR. Kelly is facing several sexual abuse
+OL,20,Fcharges with trials in Chicago and New
+OL,21,FYork next year. He denies wrongdoing.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40528
+SC,0028
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CYouTube reveals 2019's most-watched
+OL,5,Cmusic videos
+OL,6, Stormzy's infectious single Vossi Bop
+OL,7, was the most-watched music video of
+OL,8, 2019 in the UK, YouTube has revealed.
+OL,10,FBased around a viral dance craze, the
+OL,11,Fvideo sees the star rapping on
+OL,12,FWestminster Bridge and features a cameo
+OL,13,Ffrom Idris Elba.
+OL,15,FSam Smith and Normani's Dancing With A
+OL,16,FStranger was the second-biggest video.
+OL,17,FBillie Eilish's Bad Guy came third.
+OL,19,FOutside the UK, Latin music dominated,
+OL,20,Faccounting for all of YouTube's top
+OL,21,Ffive music videos.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40529
+SC,0029
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CSpassky vs Fischer: How chess became a
+OL,5,Ctheatre event
+OL,6, When the American Bobby Fischer
+OL,7, challenged the Russian Boris Spassky
+OL,8, for the World Chess Championship in
+OL,9, 1972 the media looked on in
+OL,10, fascination. It seemed the Cold War was
+OL,11, being played out in Iceland on a
+OL,12, chessboard. Now a new play reconstructs
+OL,13, the historic match.
+OL,16,FNo one had seriously considered chess
+OL,17,Fas prime-time material. But then along
+OL,18,Fcame the unique and deeply troubled
+OL,19,FBobby Fischer. 
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40530
+SC,0030
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CWhat we learned from the first James
+OL,5,CBond trailer
+OL,6, And we thought Christmas only came once
+OL,7, a year.
+OL,9,FThe first full-length trailer for No
+OL,10,FTime To Die has been released, giving
+OL,11,Ffans a flavour of what to expect from
+OL,12,FDaniel Craig's final outing as James
+OL,13,FBond. 
+OL,15,FThe promo, which launched on Wednesday
+OL,16,Fand can be seen below, shows Rami Malek
+OL,17,Fin character as the latest villain for
+OL,18,Fthe first time, as well as a new female
+OL,19,Fagent with a licence to kill.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40531
+SC,0031
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CAre award winners and losers out of
+OL,5,Cfashion?
+OL,6, "It's a crazy contest between an orange
+OL,7, and a spaceship and a potted plant and
+OL,8, a spoon - which one do you like
+OL,9, better?" 
+OL,11,FThat's how singer Anohni, formerly of
+OL,12,FAntony of the Johnsons, summed up
+OL,13,Fawards in 2005.
+OL,15,FShe had just won the Mercury Music
+OL,16,FPrize, but was suggesting it was
+OL,17,Ffaintly ridiculous to pit very
+OL,18,Fdifferent artistic works against one
+OL,19,Fanother for the sake of a trophy.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40532
+SC,0032
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C11:43:56
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CSeven talking points from the Black
+OL,5,CWidow trailer
+OL,6, The first trailer for the new Black
+OL,7, Widow movie has dropped, ahead of the
+OL,8, film's release in 2020.
+OL,10,FThe character first appeared in 2010's
+OL,11,FIron Man 2, and has since then been a
+OL,12,Fsignificant figure in the Marvel
+OL,13,Fcinematic universe.
+OL,15,FThe new film, starring Scarlett
+OL,16,FJohansson, isn't an origin story, but
+OL,17,Fit does come before the events of the
+OL,18,Flast two Avengers movies, Infinity War
+OL,19,Fand Endgame.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
