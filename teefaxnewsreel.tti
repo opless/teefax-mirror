@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -25,14 +25,14 @@ OL,16,GRussians charged in Evil Corp hack C109
 OL,17,Ginvestigation                          
 OL,18,GThomas Cook customers face refund  C110
 OL,19,Gdelays                                 
-OL,20,GChinese worry about rise of facial C111
-OL,21,Grecognition                            
+OL,20,GMerkel visits Auschwitz amid rise  C111
+OL,21,Gin anti-Semitism                       
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7137.85 A-50.65 Fat CLOSE
 OL,15,C techMARK100G5654.48 F+4.32  Fat CLOSE
 OL,16,C Dow Jones  G27677.79F+28.01 Fat CLOSE
 OL,17,C Nasdaq     G8308.40 F+11.87 Fat CLOSE
-OL,18,C Nikkei     G23300.09F+16,485Fat 07:44
-OL,19,C DJEurStoxx G3648.13 A-11.89 Fat 16:10
+OL,18,C Nikkei     G23345.10F+45.01 Fat 23:30
+OL,19,C DJEurStoxx G3648.13 A-11.89 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,10 +84,10 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G           This Evening              
+OL,1,T]G         Thursday Evening            
 OL,2,           ^ZR 4`~|}            G 1/2 
 OL,3,           ZR`?0~G07R%  B               
 OL,4,           RZj**gppp B               
@@ -113,10 +113,10 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G             Tomorrow                
+OL,1,T]G              Friday                 
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G09V%  B               
 OL,4,           VZj**gppp B               
@@ -131,9 +131,9 @@ OL,12,       ZS+R`4R+|0
 OL,13,        ZS+%*o!R" R *u  B          
 OL,14,C            ^ZR`  R*G 12R} B          
 OL,15,B            ^ZRk|U            
-OL,16,B            ^ZR'oG 12R}zt EOvercas
-OL,17,B              ZRj^UG 12R Et      
-OL,18,B            ZRx|^G 12R'         
+OL,16,B            ^ZR'oG 09V}zt EOvercas
+OL,17,B              ZRj^UG 12V Et      
+OL,18,B            ZRx|^G 12V'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 12R/!        
 OL,21,B            ZR zG12R^/s/R/? B         
@@ -142,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,32 +163,32 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CMan charged with murder of 12-year-old
-OL,5, A man has been charged with murder and
-OL,6, dangerous driving over the death of
-OL,7, 12-year-old Harley Watson outside a
-OL,8, school in Essex.
+OL,5, A man has been accused of murder and
+OL,6, dangerous driving after the death of
+OL,7, Harley Watson, 12, in an apparent
+OL,8, hit-and-run crash outside a school.
 OL,10,FHarley died after being struck by a car
 OL,11,Fnear Debden Park High School in
-OL,12,FLoughton at about 15:20 GMT on Monday.
+OL,12,FLoughton, Essex, on Monday.
 OL,14,FTerence Glover, 51, of Newmans Lane,
-OL,15,FLoughton, has been charged with murder,
-OL,16,F10 counts of attempted murder and
+OL,15,FLoughton, is charged with murder, 10
+OL,16,Fcounts of attempted murder and
 OL,17,Fdangerous driving. 
-OL,19,FHe will appear before magistrates in
-OL,20,FChelmsford on Friday.
+OL,19,FHe is due to appear before magistrates
+OL,20,Fin Chelmsford on Friday.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -213,7 +213,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -239,7 +239,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -265,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -291,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -317,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -343,33 +343,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
-OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
-OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
-OL,4,CChinese worry about rise of facial
-OL,5,Crecognition
-OL,6, A survey by a Beijing research
-OL,7, institute indicates growing pushback
-OL,8, against facial recognition in China.
-OL,10,FSome 74% of respondents said they
-OL,11,Fwanted the option to be able to use
-OL,12,Ftraditional ID methods over the tech to
-OL,13,Fverify their identity. 
-OL,15,FWorries about the biometric data being
-OL,16,Fhacked or otherwise leaked was the main
-OL,17,Fconcern cited by the 6,152 respondents.
-OL,19,FFacial recognitions systems are being
-OL,20,Frolled out in stations, schools, and
-OL,21,Fshopping centres across the country. 
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CMerkel visits Auschwitz amid rise in
+OL,5,Canti-Semitism
+OL,6, German Chancellor Angela Merkel will
+OL,7, visit Auschwitz concentration camp on
+OL,8, Friday, her first trip to the site.
+OL,10,FThe Nazi regime murdered an estimated
+OL,11,F1.1 million people at
+OL,12,FAuschwitz-Birkenau - the vast majority
+OL,13,Fof whom were Jewish.
+OL,15,FMrs Merkel will take part in a ceremony
+OL,16,Falongside a camp survivor and Polish
+OL,17,FPrime Minister Mateusz Morawiecki.
+OL,19,FHer visit comes amid a rise in German
+OL,20,Fanti-Semitism and ahead of the 75th
+OL,21,Fanniversary of the camp's liberation.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -395,7 +395,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -421,7 +421,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S     xl0|,h44|h,$
@@ -447,7 +447,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -473,7 +473,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -499,26 +499,26 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E05/12C23:40:20
+OL,0,XXXXXXXXBNMPSERVER2      E06/12C00:40:06
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CSaudi Aramco raises record $25.6bn in
-OL,5,Cshare sale
-OL,6, State-owned oil giant Saudi Aramco has
-OL,7, raised a record $25.6bn (#19.4bn) in
-OL,8, its initial public offering in Riyadh.
-OL,10,FThe share sale was the biggest ever,
-OL,11,Fsurpassing that of China's Alibaba
-OL,12,Fwhich raised $25bn in 2014 in New York.
-OL,14,FAramco relied on domestic and regional
-OL,15,Finvestors to sell a 1.5% stake after
-OL,16,Flukewarm interest from abroad. 
-OL,18,FThe IPO will value it at $1.7tn when
-OL,19,Ftrading begins - short of its $2tn
-OL,20,Ftarget, but making it the most valuable
-OL,21,Flisted company in the world.
+OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
+OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
+OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
+OL,4,CChinese worry about rise of facial
+OL,5,Crecognition
+OL,6, A survey by a Beijing research
+OL,7, institute indicates growing pushback
+OL,8, against facial recognition in China.
+OL,10,FSome 74% of respondents said they
+OL,11,Fwanted the option to be able to use
+OL,12,Ftraditional ID methods over the tech to
+OL,13,Fverify their identity. 
+OL,15,FWorries about the biometric data being
+OL,16,Fhacked or otherwise leaked was the main
+OL,17,Fconcern cited by the 6,152 respondents.
+OL,19,FFacial recognitions systems are being
+OL,20,Frolled out in stations, schools, and
+OL,21,Fshopping centres across the country. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
