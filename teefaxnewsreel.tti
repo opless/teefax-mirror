@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,59 +60,60 @@ OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4,MMan City v Man Utd - rate the      G303
-OL,6,FWhat happened in the English top   G304
-OL,7,FPremier League leaders open up     G305
-OL,8,FTottenham Hotspur 5-0 Burnley      G306
-OL,9,FDaniel Stendel 'can take club      G307
-OL,10,FDisappointing stalemate at         G308
-OL,12,FBundesliga leaders beat champions  G309
-OL,13,FEverton caretaker manager          G310
-OL,14,FMatch stopped following allegation G311
-OL,15,FToffees win first game under       G312
-OL,17,FJosh Brownhill and Famara Diedhiou G313
-OL,18,FChris Long fires hosts up to third G314
+OL,6,FOle Gunnar Solskjaer's side dent   G304
+OL,7,FObjects thrown at United           G305
+OL,8,FWhat happened in the English top   G306
+OL,9,FPremier League leaders open up     G307
+OL,10,FTottenham Hotspur 5-0 Burnley      G308
+OL,12,FFormer Aston Villa manager dies    G309
+OL,13,FDaniel Stendel 'can take club      G310
+OL,14,FDisappointing stalemate at         G311
+OL,15,FBundesliga leaders beat champions  G312
+OL,17,FEverton caretaker manager          G313
+OL,18,FRovers investigate report of       G314
+OL,19,FToffees win first game under       G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G05V%  B               
-OL,4,           VZj**gppp B               
-OL,5,           ^ZR({5                
-OL,6,            ZR!'~G05R!B               
-OL,7,           ^ZR ~ow1 B               
-OL,8,B          ^ZV*y?sp  FRain          
-OL,9,           ^ZVj)"G 05V}  F             
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG05VtV+"VG06V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BCloudy    
-OL,14,B            ^ZV`  R*G 08R}  B         
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 07V}zt B       
-OL,17,B              ZVj^VG 08V B       
-OL,18,B            ZVx|^G 09V'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 09V/!        
-OL,21,B            ZV zG10V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G05R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZV({5                
+OL,6,            ZV!'~G05V!FCloudy         
+OL,7,           ^ZV ~ow1  F              
+OL,8,B          ^ZR*y?sp  BRain          
+OL,9,           ^ZRj)"G 05R}  B             
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG05RtR+"RG06R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" V *u  B          
+OL,14,B            ^ZR`  V*G 08V} B          
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 07R}zt B       
+OL,17,B              ZRj^RG 08R B       
+OL,18,B            ZRx|^G 09R'         
+OL,19,             ^ZR! +/'iVqp0        
+OL,20,B            ^ZR  tG 09V/!        
+OL,21,B            ZR zG10R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -141,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -187,7 +188,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -213,7 +214,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -237,7 +238,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -263,7 +264,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -289,7 +290,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -314,7 +315,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -340,7 +341,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -366,7 +367,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -392,7 +393,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -418,7 +419,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -443,59 +444,59 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CGirl charged after opera singer Jenkins
-OL,5,Cmugged
-OL,6, A 15-year-old girl has been charged
-OL,7, after Welsh singer Katherine Jenkins
-OL,8, was mugged in London while intervening
-OL,9, in a street robbery.
-OL,11,FThe 39-year-old opera star was on her
-OL,12,Fway to a rehearsal in Chelsea on
-OL,13,FWednesday when she saw an older woman
-OL,14,Fbeing attacked, her agent said.
-OL,16,FThe Neath-born mezzo-soprano was then
-OL,17,Fmugged herself after trying to help.
-OL,19,FThe Met said the 15-year-old girl had
-OL,20,Fbeen charged with robbery and assault
-OL,21,Fon police.
+OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
+OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
+OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
+OL,4,CGareth Thomas in tears as parents
+OL,5,Csurprise him
+OL,6, Rugby star Gareth Thomas was left in
+OL,7, tears when his parents surprised him on
+OL,8, stage while he received an award.
+OL,10,FThomas, 45, was honoured for his role
+OL,11,Fas a sporting inspiration, at the
+OL,12,FMirror Pride of Sports Awards held in
+OL,13,FLondon on Thursday night.
+OL,15,FHe hugged his mother and father after
+OL,16,Freceiving tributes from Sir Elton John,
+OL,17,Fformer rugby star Jason Leonard and
+OL,18,Fex-Olympic swimmer Mark Foster.
+OL,20,FThomas revealed he was HIV positive in
+OL,21,FSeptember.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CViolence flares after weeks of Iraq
-OL,5,Cprotests
-OL,6, Iraq has seen one of the worst
-OL,7, flare-ups in weeks of anti-government
-OL,8, protests, with gunmen killing at least
-OL,9, 20 people in Baghdad early on Saturday.
-OL,11,FThe unknown attackers raided key
-OL,12,Fprotest sites in the capital sending
-OL,13,Fdemonstrators fleeing into the streets.
-OL,15,FThe unrest in Iraq began in October,
-OL,16,Ffuelled by anger over corruption,
-OL,17,Funemployment, poor public services and
-OL,18,Fthe influence of Iran. 
-OL,20,FMore than 400 people have been killed
-OL,21,Fsince the protests started.
+OL,4,CScorpion stings woman on United
+OL,5,CAirlines flight
+OL,6, A woman has been stung by a scorpion
+OL,7, while travelling on a United Airlines
+OL,8, flight from San Francisco to Atlanta.
+OL,10,FThe woman says she felt a stinging
+OL,11,Fsensation on her leg during the flight
+OL,12,Fon Thursday morning. 
+OL,14,FWhen she went to the toilet, the
+OL,15,Fscorpion fell out of her trousers and
+OL,16,Fscuttled away.
+OL,18,FThe passenger was treated by paramedics
+OL,19,Fbefore being taken to hospital, the
+OL,20,Fairline told the BBC. She has not been
+OL,21,Fnamed and her condition is not known.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -520,33 +521,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CTrump halts plan to treat cartels as
-OL,5,Cterrorists
-OL,6, US President Donald Trump has delayed
-OL,7, plans to legally designate Mexican drug
-OL,8, cartels as terrorist groups.
-OL,10,FMr Trump had vowed to label the gangs
-OL,11,Fas terrorists after the killing last
-OL,12,Fmonth of nine American citizens from a
-OL,13,FMormon community in Mexico.
-OL,15,FBut he has put the plans on hold on the
-OL,16,Frequest of his Mexican counterpart,
-OL,17,FAndres Manuel Lopez Obrador.
-OL,19,F"I celebrate that he has taken our
-OL,20,Fopinion into account," the Mexican
-OL,21,Fpresident said.
+OL,4,CViolence flares after weeks of Iraq
+OL,5,Cprotests
+OL,6, Iraq has seen one of the worst
+OL,7, flare-ups in weeks of anti-government
+OL,8, protests, with gunmen killing at least
+OL,9, 20 people in Baghdad early on Saturday.
+OL,11,FThe unknown attackers raided key
+OL,12,Fprotest sites in the capital sending
+OL,13,Fdemonstrators fleeing into the streets.
+OL,15,FThe unrest in Iraq began in October,
+OL,16,Ffuelled by anger over corruption,
+OL,17,Funemployment, poor public services and
+OL,18,Fthe influence of Iran. 
+OL,20,FMore than 400 people have been killed
+OL,21,Fsince the protests started.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -572,7 +573,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -598,7 +599,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -624,7 +625,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -650,7 +651,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -676,7 +677,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -701,7 +702,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -727,7 +728,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -753,7 +754,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -779,7 +780,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -804,7 +805,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C18:39:51
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C19:39:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
