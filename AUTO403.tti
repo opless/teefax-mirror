@@ -5,24 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C02:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C03:40:59
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FShowers clearing for most though some
-OL,9,Flight rain continuing for high ground
-OL,10,Fin the west. Frost free for many with
-OL,11,Feasing winds. Colder for the Northern
-OL,12,FIsles with wintry showers.
+OL,7,GToday
+OL,8,FMost parts dry with broken cloud and
+OL,9,Fsome sunny spells. Showers in the
+OL,10,Fnorthwest giving way to thicker cloud
+OL,11,Fand more persistent rain later, heavy
+OL,12,Fover western Scotland. Windy, with
+OL,13,Fgales in the far northwest later.
 OL,4,                                    1/2 
-OL,14,GSaturday
-OL,15,FSome bright or sunny spells in east
-OL,16,FScotland and parts of England and
-OL,17,FWales. Generally becoming cloudier and
-OL,18,Fwindier again with rain moving across
-OL,19,FNorthern Ireland and into the north.
+OL,15,GTonight
+OL,16,FRain, heavy at times, moving quickly
+OL,17,Feastwards across all parts. Clearer,
+OL,18,Fshowery weather following into western
+OL,19,Fareas. Windy, with gales on coasts and
+OL,20,Fhills.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,17 +31,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C02:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C03:40:59
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FHeavy, blustery showers with gales on
-OL,9,FSunday. Showers in the east at first on
-OL,10,FMonday, otherwise fine with sunny
-OL,11,Fspells Monday, but breezy. Rather cold.
-OL,12,FWet and windy on Tuesday.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FRemaining changeable and often very
+OL,9,Fwindy with periods of sometimes heavy
+OL,10,Frain interspersed with brighter, colder
+OL,11,Finterludes and heavy showers, these
+OL,12,Fwintry on hills in the north.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
