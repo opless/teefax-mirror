@@ -76,11 +76,17 @@ OL,8,Fremote control starting from page 100.
 OL,9,FHere are some page numbers that you can
 OL,10,Ftry on Teefax.                         
 OL,12, 104 BBC News                           
-OL,13, 150 Bamboozle quizzes                  
-OL,14, 160 Stories from LA                    
-OL,19, 302 BBC Sport                          
-OL,20, 500 Teletext artists                   
-OL,21, 700 Teletext engineering               
+OL,13,C131 to 139 "This is Ceefax" documentary
+OL,14, 150 Bamboozle quizzes                  
+OL,15,C160 Stories from LA                    
+OL,16, 200 Pages from Teefax users            
+OL,17,C302 BBC Sport                          
+OL,18, 401 UK Weather from the Met Office     
+OL,19,C500 Teletext artists                   
+OL,20, 570 "Digitiser" magazine by @mrbiffo   
+OL,21,C670 Replicas of early teletext pages   
+OL,22, 700 Teletext engineering               
+OL,23,C790 Clock crackers                     
 OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41004
