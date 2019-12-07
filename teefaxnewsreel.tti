@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,8 +15,8 @@ OL,4,MEngineering work adds to rail      C104
 OL,6,Gstrike woe                             
 OL,8,GUS and Iranian men released in     C105
 OL,9,Gprisoner swap                          
-OL,10,GGirl with autism 'heartbroken' by  C106
-OL,11,Gdog theft                              
+OL,10,GTories probe candidates over       C106
+OL,11,Ganti-Semitism claims                   
 OL,12,GSaudi king condemns 'barbaric' US  C107
 OL,13,Gbase shooting                          
 OL,14,GLib Dems pledge help for small     C108
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,30 +60,31 @@ OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MOle Gunnar Solskjaer says Man Utd  G303
-OL,6,FLawro vs tennis star Andy Murray   G304
-OL,7,FFinal host stadium switched by FifaG305
-OL,8,FWill Kevin de Bruyne or Scott      G306
-OL,9,FName the starting XIs from City's  G307
-OL,10,FRangers boss says winning League   G308
-OL,12,FCeltic have 'quiet determination'  G309
-OL,13,FPick your combined Old Firm League G310
-OL,14,FAmar AlKadhi 'in advanced takeover G311
-OL,15,FTottenham boss Jose Mourinho slept G312
-OL,17,FNigel Pearson succeeds Quique      G313
-OL,18,FPogba, Van de Beek, Dembele,       G314
+OL,4,MWhat happened in the English top   G303
+OL,6,FPremier League leaders open up     G304
+OL,7,FTottenham Hotspur 5-0 Burnley      G305
+OL,8,FToffees win first game under       G306
+OL,9,FDisappointing stalemate at         G307
+OL,10,FJadon Sancho scores twice in big   G308
+OL,12,FBundesliga leaders beat champions  G309
+OL,13,FJosh Brownhill and Famara Diedhiou G310
+OL,14,FAdam Armstrong's winner gives      G311
+OL,15,FChris Long fires hosts up to third G312
+OL,17,FJack Ross's side hammer visitors   G313
+OL,18,FGary Holt's side claim first win   G314
+OL,19,FKarim Benzema helps Real to        G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -112,27 +113,27 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G06V%  B               
+OL,3,           ZV`?0~G07V%  B               
 OL,4,           VZj**gppp B               
-OL,5,           ^ZR({5                
-OL,6,            ZR!'~G06R!BSunny          
-OL,7,           ^ZR ~ow1  B              
+OL,5,           ^ZU({5                
+OL,6,            ZU!'~G06U!ESunny          
+OL,7,           ^ZU ~ow1  E              
 OL,8,B          ^ZV*y?sp  FRain          
 OL,9,           ^ZVj)"G 06V}  F             
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG06VtV+"VG06V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 08V} B          
-OL,15,B            ^ZVk|U            
-OL,16,B            ^ZV'oG 08V}zt ECloudy 
-OL,17,B              ZVj^UG 10V  E      
-OL,18,B            ZVx|^G 10V'         
+OL,10,       ^ZVp|t VxRg0 BCloudy       
+OL,11,       ZVnG07VtV+"RG07R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  B          
+OL,14,B            ^ZV`  R*G 09R} B          
+OL,15,B            ^ZVk|R            
+OL,16,B            ^ZV'oG 08R}zt B       
+OL,17,B              ZVj^RG 10R B       
+OL,18,B            ZVx|^G 10R'         
 OL,19,             ^ZV! +/'iVqp0        
 OL,20,B            ^ZV  tG 11V/!        
 OL,21,B            ZV zG11V^/s/V/? B         
@@ -141,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -187,7 +188,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -213,7 +214,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -239,33 +240,32 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CGirl with autism 'heartbroken' by dog
-OL,5,Ctheft
-OL,6, An 11-year-old girl with autism has
-OL,7, cried herself to sleep every night for
-OL,8, a week after the theft of her dog, her
-OL,9, family said.
-OL,11,FLottie, the three-year-old Dalmatian,
-OL,12,Fwas stolen from Chloe Hopkins' home in
-OL,13,FPeatling Parva  on 1 December.
-OL,15,FHer mother Gemma said the therapy dog
-OL,16,Fwas Chloe's "best friend" and helped to
-OL,17,Fkeep her calm.
-OL,19,FShe said the rare-breed dog could have
-OL,20,Fbeen targeted by thieves using a drone
-OL,21,Fto plan the burglary. 
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CTories probe candidates over
+OL,5,Canti-Semitism claims
+OL,6, Three Conservative election candidates
+OL,7, are being investigated over allegations
+OL,8, of anti-Semitism, the party has
+OL,9, confirmed.
+OL,11,FSally-Ann Hart, Richard Short and Lee
+OL,12,FAnderson are facing claims relating to
+OL,13,Ftheir social media use.
+OL,15,FLabour has called for the candidates to
+OL,16,Fbe suspended, adding that leader Boris
+OL,17,FJohnson "must answer for the
+OL,18,Fanti-Semitism being promoted in his
+OL,19,Fname".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -317,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -343,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -369,7 +369,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -395,7 +395,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -421,7 +421,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -447,7 +447,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -472,7 +472,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -498,33 +498,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CJust 30 taxi drivers get clean air zone
-OL,5,Cloans
-OL,6, Just 30 taxi drivers have received
-OL,7, loans from a scheme set up to help them
-OL,8, buy greener vehicles, despite more than
-OL,9, 2,000 applying.
-OL,11,FCabbies in Leeds can claim up to
-OL,12,F#10,000 to buy cars exempt from
-OL,13,Fupcoming clean air zone (CAZ) charges.
-OL,15,FBut most have waited months for a
-OL,16,Fdecision and believe the council cannot
-OL,17,Fcope with the volume of applicants.
-OL,19,FLeeds City Council said it had to be
-OL,20,Fresponsible with public money and "due
-OL,21,Fdiligence takes time".
+OL,4,CGirl with autism 'heartbroken' by dog
+OL,5,Ctheft
+OL,6, An 11-year-old girl with autism has
+OL,7, cried herself to sleep every night for
+OL,8, a week after the theft of her dog, her
+OL,9, family said.
+OL,11,FLottie, the three-year-old Dalmatian,
+OL,12,Fwas stolen from Chloe Hopkins' home in
+OL,13,FPeatling Parva  on 1 December.
+OL,15,FHer mother Gemma said the therapy dog
+OL,16,Fwas Chloe's "best friend" and helped to
+OL,17,Fkeep her calm.
+OL,19,FShe said the rare-breed dog could have
+OL,20,Fbeen targeted by thieves using a drone
+OL,21,Fto plan the burglary. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -550,7 +550,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -576,7 +576,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -602,7 +602,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -628,7 +628,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -654,7 +654,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -680,7 +680,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -705,7 +705,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -731,7 +731,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -757,7 +757,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -783,7 +783,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -808,7 +808,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C16:47:17
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C17:51:15
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
