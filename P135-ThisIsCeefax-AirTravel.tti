@@ -1,19 +1,20 @@
 DE,ThisIsCeefax-AirTravel
 DS,inserter
 SP,J:\peter\teefax\P135-ThisIsCeefax-AirTravel.tti
-PN,13500
-SC,0000
+PN,13501
+SC,0001
 PS,8000
-CT,8,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,G                                       
 OL,2,Uk                 V7kjj#5            
 OL,3,Uj                 V7kjj#4            
 OL,4,Uj||<<<<<<<<<<|<,d V                  
 OL,5,U*o}V#7!7kj#55jjsj     
 OL,6,U  "+////o/'##!V 5 7ij#5e:jpjp    
 OL,7,U         "#####     V                  
-OL,9, GETTING TO HEATHROW AIRPORT.1 - BY CAR 
+OL,9, GETTING TO HEATHROW AIRPORT,1 - BY CAR 
 OL,10,Q///////////////////////////            
 OL,12, The airport is linked to theCA4Gand    
 OL,13,CM4G- but bus or rail services could be 
@@ -26,3 +27,29 @@ OL,19, term park at the passenger terminals.
 OL,21, Long-term parking can be cheaper and   
 OL,22, can be booked by telephone. The number 
 OL,23,              is.E01-759-4321 ext 6368  
+PN,13502
+SC,0002
+PS,8000
+CT,12,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,G                                       
+OL,2,Vk                 R7kjj#5            
+OL,3,Vj                 R7kjj#4            
+OL,4,Vj||<<<<<<<<<<|<,d                    
+OL,5,V*o}R#7!7kj#55jjsj     
+OL,6,V  "+////o/'##!R 5 7ij#5e:jpjp    
+OL,7,V         "#####                        
+OL,9, GETTING TO HEATHROW,2 - BY TRAIN       
+OL,10,Q////////////////////////////////       
+OL,12, KeyABRITISH RAILGstation for the       
+OL,13, airport areCREADINGG(for passengers    
+OL,14, from the West, South Wales and West    
+OL,15, Midlands)CFELTHAMGfor passengers from  
+OL,16, the South-East) andCWOKINGG(if you are 
+OL,17, coming from the Souh Coast).           
+OL,18,BEXPRESS COACH SERVICESGconnect these   
+OL,19, stations with the airport.             
+OL,21,ASee the next page - which will follow  
+OL,22,Aautomatically - for bus and Underground
+OL,23,Aservices to the airport.               
