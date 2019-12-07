@@ -5,14 +5,14 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MJohnson and Corbyn clash over      C104
-OL,6,GBrexit in BBC debate                   
+OL,4,MEngineering work adds to rail      C104
+OL,6,Gstrike woe                             
 OL,8,GUS and Iranian men released in     C105
 OL,9,Gprisoner swap                          
 OL,10,GGirl with autism 'heartbroken' by  C106
@@ -25,14 +25,14 @@ OL,16,GWoman set on fire on way to rape   C109
 OL,17,Ghearing dies                           
 OL,18,GRevived Briton 'lucky to have      C110
 OL,19,Gsecond chance'                         
-OL,20,GElon Musk wins 'pedo guy'          C111
-OL,21,Gdefamation case                        
+OL,20,GOceans running out of oxygen say   C111
+OL,21,Gscientists                             
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,7 +83,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -96,7 +96,7 @@ OL,7,           ^ZV ~ow1  F
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 10V} B              
 OL,10,       ^ZRp|t VxRg0 BCloudy       
-OL,11,       ZRnG10RtV+"RG09R  B            
+OL,11,       ZRnG11RtV+"RG09R  B            
 OL,12,       ZR+R`4R+|0             
 OL,13,        ZR+%*o!R" R *u  B          
 OL,14,B            ^ZR`  R*G 10R} B          
@@ -112,36 +112,36 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G06V%  B               
 OL,4,           VZj**gppp B               
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G06U!ESunny          
-OL,7,           ^ZU ~ow1  E              
+OL,5,           ^ZR({5                
+OL,6,            ZR!'~G06R!BSunny          
+OL,7,           ^ZR ~ow1  B              
 OL,8,B          ^ZV*y?sp  FRain          
 OL,9,           ^ZVj)"G 06V}  F             
-OL,10,       ^ZVp|t VxRg0 BCloudy       
-OL,11,       ZVnG06VtV+"RG07R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZV`  R*G 08R} B          
-OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 08R}zt B       
-OL,17,B              ZVj^RG 10R B       
-OL,18,B            ZVx|^G 10R'         
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG06VtV+"VG06V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 08V} B          
+OL,15,B            ^ZVk|U            
+OL,16,B            ^ZV'oG 08V}zt ECloudy 
+OL,17,B              ZVj^UG 10V  E      
+OL,18,B            ZVx|^G 10V'         
 OL,19,             ^ZV! +/'iVqp0        
 OL,20,B            ^ZV  tG 11V/!        
-OL,21,B            ZV zG10V^/s/V/? B         
+OL,21,B            ZV zG11V^/s/V/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -187,33 +187,33 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CJohnson and Corbyn clash over Brexit in
-OL,5,CBBC debate
-OL,6, Boris Johnson and Jeremy Corbyn clashed
-OL,7, over Brexit in the final head-to-head
-OL,8, debate before the 12 December election.
-OL,10,FDuring the live debate, Mr Corbyn said
-OL,11,FLabour would bring Brexit "to an end"
-OL,12,Fby negotiating a new deal and putting
-OL,13,Fit back to the public in a referendum,
-OL,14,Falongside a Remain option.
-OL,16,FMr Johnson said he had "a wonderful
-OL,17,Fdeal", and would use it to take the UK
-OL,18,Fout of the EU on 31 January.
-OL,20,FOther topics covered included the NHS,
-OL,21,Fsecurity and Northern Ireland.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CEngineering work adds to rail strike
+OL,5,Cwoe
+OL,6, Weekend travellers on South Western
+OL,7, Railway (SWR) have faced disruption due
+OL,8, to ongoing strike action compounded by
+OL,9, engineering work.
+OL,11,FTwenty-seven days of strike action by
+OL,12,FRail, Maritime and Transport union
+OL,13,F(RMT) members began on Monday.
+OL,15,FUnion leaders have called for fresh
+OL,16,Ftalks with rail bosses in the
+OL,17,Flong-running row over train guards.
+OL,19,FThe company has warned passengers
+OL,20,Ftravel will be "especially challenging"
+OL,21,Fthroughout December.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -223,8 +223,8 @@ OL,4,CUS and Iranian men released in prisoner
 OL,5,Cswap
 OL,6, A Chinese-American researcher convicted
 OL,7, of spying in Iran has been freed in an
-OL,8, apparent exchange for the release of an
-OL,9, Iranian scientist held by the US.
+OL,8, exchange for the release of an Iranian
+OL,9, scientist held by the US.
 OL,11,FXiyue Wang was arrested in Iran in 2016
 OL,12,Ffor "collaborating with foreign
 OL,13,Fgovernments". 
@@ -233,13 +233,13 @@ OL,16,Fwas arrested at a Chicago airport last
 OL,17,Fyear. He was accused violating trade
 OL,18,Fsanctions by trying to export
 OL,19,Fbiological material to Iran.
-OL,21,FBoth deny the charges.
+OL,21,FBoth denied the charges.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -265,7 +265,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +291,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -317,7 +317,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -343,7 +343,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -369,33 +369,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CElon Musk wins 'pedo guy' defamation
-OL,5,Ccase
-OL,6, Elon Musk did not defame a British
-OL,7, caver who helped in last year's rescue
-OL,8, of trapped Thai schoolboys by calling
-OL,9, him a "pedo guy", a US jury has found.
-OL,11,FVernon Unsworth sought $190m (#145m) in
-OL,12,Fdamages from the Tesla founder, arguing
-OL,13,Fthat the tweet damaged his reputation.
-OL,15,FA public row broke out between the two
-OL,16,Fmen over the rescue of 12 boys trapped
-OL,17,Fin a Thai cave in June 2018.
-OL,19,FMr Musk told the court this week the
-OL,20,Fphrase "pedo guy" was common in South
-OL,21,FAfrica, where he grew up.
+OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
+OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
+OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
+OL,4,COceans running out of oxygen say
+OL,5,Cscientists
+OL,6, Climate change and nutrient pollution
+OL,7, are driving the oxygen from our oceans,
+OL,8, and threatening many species of fish.
+OL,10,FThat's the conclusion of the biggest
+OL,11,Fstudy of its kind, undertaken by
+OL,12,Fconservation group IUCN.
+OL,14,FWhile nutrient run-off has been known
+OL,15,Ffor decades, researchers say that
+OL,16,Fclimate change is making the lack of
+OL,17,Foxygen worse. 
+OL,19,FAround 700 ocean sites are now
+OL,20,Fsuffering from low oxygen, compared
+OL,21,Fwith 45 in the 1960s. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -421,33 +421,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
-OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
-OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
-OL,4,COceans running out of oxygen say
-OL,5,Cscientists
-OL,6, Climate change and nutrient pollution
-OL,7, are driving the oxygen from our oceans,
-OL,8, and threatening many species of fish.
-OL,10,FThat's the conclusion of the biggest
-OL,11,Fstudy of its kind, undertaken by
-OL,12,Fconservation group IUCN.
-OL,14,FWhile nutrient run-off has been known
-OL,15,Ffor decades, researchers say that
-OL,16,Fclimate change is making the lack of
-OL,17,Foxygen worse. 
-OL,19,FAround 700 ocean sites are now
-OL,20,Fsuffering from low oxygen, compared
-OL,21,Fwith 45 in the 1960s. 
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CElon Musk wins 'pedo guy' defamation
+OL,5,Ccase
+OL,6, Elon Musk did not defame a British
+OL,7, caver who helped in last year's rescue
+OL,8, of trapped Thai schoolboys by calling
+OL,9, him a "pedo guy", a US jury has found.
+OL,11,FVernon Unsworth sought $190m (#145m) in
+OL,12,Fdamages from the Tesla founder, arguing
+OL,13,Fthat the tweet damaged his reputation.
+OL,15,FA public row broke out between the two
+OL,16,Fmen over the rescue of 12 boys trapped
+OL,17,Fin a Thai cave in June 2018.
+OL,19,FMr Musk told the court this week the
+OL,20,Fphrase "pedo guy" was common in South
+OL,21,FAfrica, where he grew up.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -472,7 +472,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -498,7 +498,7 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -524,33 +524,33 @@ OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CFriends actor Ron Leibman dies at the
-OL,5,Cage of 82
-OL,6, Award-winning American actor Ron
-OL,7, Leibman, famed for playing Rachel
-OL,8, Green's overbearing dad in the sitcom
-OL,9, Friends, has died at the age of 82.
-OL,11,FHis agent said the cause was pneumonia.
-OL,13,FWhile best known for his role in the US
-OL,14,Fsitcom, Leibman had a decorated career
-OL,15,Fin TV and film spanning six decades.
-OL,17,F"Ron was an incredibly talented actor
-OL,18,Fwith a distinguished career in film, TV
-OL,19,Fand theatre. Our thoughts go out to his
-OL,20,Fwife, Jessica (Walter), and his
-OL,21,Ffamily," his agent said in a statement.
+OL,4,CTrump halts plan to treat cartels as
+OL,5,Cterrorists
+OL,6, US President Donald Trump has delayed
+OL,7, plans to legally designate Mexican drug
+OL,8, cartels as terrorist groups.
+OL,10,FMr Trump had vowed to label the gangs
+OL,11,Fas terrorists after the killing last
+OL,12,Fmonth of nine American citizens from a
+OL,13,FMormon community in Mexico.
+OL,15,FBut he has put the plans on hold on the
+OL,16,Frequest of his Mexican counterpart,
+OL,17,FAndres Manuel Lopez Obrador.
+OL,19,F"I celebrate that he has taken our
+OL,20,Fopinion into account," the Mexican
+OL,21,Fpresident said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,D]CNews IndexG102CFlashG150CRegionalG160
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -576,7 +576,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -602,7 +602,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -628,7 +628,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -654,7 +654,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -680,7 +680,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -705,7 +705,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -731,7 +731,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -757,7 +757,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -783,7 +783,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -808,7 +808,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E07/12C14:34:30
+OL,0,XXXXXXXXBNMPSERVER2      E07/12C15:35:16
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
