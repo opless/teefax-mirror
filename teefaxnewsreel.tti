@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -19,11 +19,11 @@ OL,10,GBoy, 13, arrested over woman's stabC106
 OL,11,Gdeath                                  
 OL,12,GDozens dead in Delhi bag factory   C107
 OL,13,Gfire                                   
-OL,14,GThieves ransack 900-year-old churchC108
-OL,15,Gto steal #200                          
+OL,14,GTory chairman 'sorry' for          C108
+OL,15,GIslamophobia in party                  
 OL,16,GUS rapper Juice Wrld dies aged 21  C109
-OL,18,GParties in final campaign push as  C110
-OL,19,Gelection nears                         
+OL,18,GThieves ransack 900-year-old churchC110
+OL,19,Gto steal #200                          
 OL,20,GThousands join largest HK protest  C111
 OL,21,Grally in months                        
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -59,7 +59,7 @@ OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -77,7 +77,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -89,15 +89,15 @@ OL,6,            ZV!'~G03V!FRain
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 04V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG05VtV+"VG03V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BCloudy    
-OL,14,B            ^ZV`  R*G 05R}  B         
+OL,10,       ^ZVp|t VxRg0 BCloudy       
+OL,11,       ZVnG05VtV+"RG03R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  B          
+OL,14,B            ^ZV`  R*G 05R} B          
 OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 05R}zt B       
-OL,17,B              ZVj^RG 05R B       
-OL,18,B            ZVx|^G 07R'         
+OL,16,B            ^ZV'oG 05V}zt B       
+OL,17,B              ZVj^RG 05V B       
+OL,18,B            ZVx|^G 07V'         
 OL,19,             ^ZV! +/'iRqp0        
 OL,20,B            ^ZV  tG 06R/!        
 OL,21,B            ZV zG07V^/s/R/? B         
@@ -106,15 +106,15 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G05U%  B               
-OL,4,           UZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G05V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G04V!FRain           
+OL,6,            ZV!'~G04V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BSunny         
 OL,9,           ^ZRj)"G 05R}  B             
@@ -123,19 +123,19 @@ OL,11,       ZRnG07RtR+"RG05R B
 OL,12,       ZR+R`4R+|0             
 OL,13,        ZR+%*o!R" R *u  B          
 OL,14,B            ^ZR`  R*G 06R} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 07R}zt B       
-OL,17,B              ZRj^VG 07R B       
+OL,15,B            ^ZRk|U            
+OL,16,B            ^ZR'oG 07R}zt ERain   
+OL,17,B              ZRj^UG 07R  E      
 OL,18,B            ZRx|^G 09R'         
-OL,19,             ^ZR! +/'iUqp0        
-OL,20,B            ^ZR  tG 08U/!        
-OL,21,B            ZR zG10R^/s/U/? ECloudy   
-OL,22,            ZR8?' "'    "     E        
+OL,19,             ^ZR! +/'iVqp0        
+OL,20,B            ^ZR  tG 08V/!        
+OL,21,B            ZR zG10R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -156,7 +156,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -181,7 +181,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -207,7 +207,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -233,7 +233,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -259,7 +259,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -284,32 +284,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CThieves ransack 900-year-old church to
-OL,5,Csteal #200
-OL,6, Thieves who targeted a church caused
-OL,7, between #5,000 and #10,000 of damage,
-OL,8, before making off with a charity pot
-OL,9, containing less than #200.
-OL,11,FThe Rev Nathan Ward said when he
-OL,12,Farrived at St Margaret's Church, in
-OL,13,FRainham, Kent, he found the
-OL,14,F900-year-old building had been
-OL,15,Fransacked. A stained glass window was
-OL,16,Falso smashed.
-OL,18,FPolice said they were called to the
-OL,19,Fchurch at 07:40 GMT.
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CTory chairman 'sorry' for Islamophobia
+OL,5,Cin party
+OL,6, Conservative chairman James Cleverly
+OL,7, has apologised for cases of
+OL,8, Islamophobia in his party.
+OL,10,FMr Cleverly said he was "sorry" when
+OL,11,FTory members and candidates "do or say
+OL,12,Fthings that are wrong". 
+OL,14,FBut he added that he was "confident"
+OL,15,Fthere was now "a robust mechanism" in
+OL,16,Fplace to deal with the issue.
+OL,18,FThe Muslim Council of Britain has
+OL,19,Faccused the Tory party of having a
+OL,20,F"blind spot for this type of racism"
+OL,21,Fand of not doing enough to tackle it. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -334,33 +335,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CParties in final campaign push as
-OL,5,Celection nears
-OL,6, The main political party leaders are
-OL,7, continuing to push their election
-OL,8, pledges to voters, as the campaign
-OL,9, enters its final few days.
-OL,11,FConservative leader Boris Johnson says
-OL,12,Fin an open letter that Thursday's poll
-OL,13,Fis "historic" and a choice to "move
-OL,14,Fforwards" after Brexit.
-OL,16,FLabour leader Jeremy Corbyn said it was
-OL,17,Fa "chance to vote for hope" and he had
-OL,18,F"the most ambitious plan to transform
-OL,19,Four country in decades".
-OL,21,FThe UK goes to the polls on Thursday.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CThieves ransack 900-year-old church to
+OL,5,Csteal #200
+OL,6, Thieves who targeted a church caused
+OL,7, between #5,000 and #10,000 of damage,
+OL,8, before making off with a charity pot
+OL,9, containing less than #200.
+OL,11,FThe Rev Nathan Ward said when he
+OL,12,Farrived at St Margaret's Church, in
+OL,13,FRainham, Kent, he found the
+OL,14,F900-year-old building had been
+OL,15,Fransacked. A stained glass window was
+OL,16,Falso smashed.
+OL,18,FPolice said they were called to the
+OL,19,Fchurch at 07:40 GMT.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -386,7 +386,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -412,7 +412,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -438,33 +438,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CFarage promises Reform Party after
-OL,5,CBrexit
-OL,6, The Brexit Party will change its name
-OL,7, to the Reform Party after the UK leaves
-OL,8, the European Union, leader Nigel Farage
-OL,9, has said.
-OL,11,FIt will campaign for changes to the
-OL,12,Fvoting system and the abolition of the
-OL,13,FHouse of Lords, he told Sky News.
-OL,15,FMr Farage, who has already registered
-OL,16,Fthe new party name, said it would
-OL,17,F"change politics for good".
-OL,19,FThe announcement comes after a week in
-OL,20,Fwhich the Brexit Party lost four
-OL,21,FMembers of the European Parliament.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CTeen's Christmas lights show thrills
+OL,5,Ccrowd
+OL,6, About 100 people watched as a teenager
+OL,7, switched on his latest Christmas lights
+OL,8, display.
+OL,10,FBen Charles, 18, decked his parents'
+OL,11,Fhome in Brentwood, Essex, with
+OL,12,Fcolourful illuminations set to music
+OL,13,Ffor the fifth Christmas in a row.
+OL,15,FHis efforts have raised more than
+OL,16,F#3,000 for the Essex & Herts Air
+OL,17,FAmbulance Trust (EHAAT) over the past
+OL,18,Ffour years.
+OL,20,FThe teenager hopes to reach the #5,000
+OL,21,Fmark this Christmas.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -489,33 +489,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTeen's Christmas lights show thrills
-OL,5,Ccrowd
-OL,6, About 100 people watched as a teenager
-OL,7, switched on his latest Christmas lights
-OL,8, display.
-OL,10,FBen Charles, 18, decked his parents'
-OL,11,Fhome in Brentwood, Essex, with
-OL,12,Fcolourful illuminations set to music
-OL,13,Ffor the fifth Christmas in a row.
-OL,15,FHis efforts have raised more than
-OL,16,F#3,000 for the Essex & Herts Air
-OL,17,FAmbulance Trust (EHAAT) over the past
-OL,18,Ffour years.
-OL,20,FThe teenager hopes to reach the #5,000
-OL,21,Fmark this Christmas.
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CParties in final campaign push as
+OL,5,Celection nears
+OL,6, The main political party leaders are
+OL,7, continuing to push their election
+OL,8, pledges to voters, as the campaign
+OL,9, enters its final few days.
+OL,11,FConservative leader Boris Johnson says
+OL,12,Fin an open letter that Thursday's poll
+OL,13,Fis "historic" and a choice to "move
+OL,14,Fforwards" after Brexit.
+OL,16,FLabour leader Jeremy Corbyn said it was
+OL,17,Fa "chance to vote for hope" and he had
+OL,18,F"the most ambitious plan to transform
+OL,19,Four country in decades".
+OL,21,FThe UK goes to the polls on Thursday.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -541,7 +541,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -566,7 +566,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -591,7 +591,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -617,7 +617,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -643,7 +643,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -669,7 +669,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -696,7 +696,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -722,7 +722,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -746,7 +746,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -772,7 +772,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -797,7 +797,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C20:35:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C21:37:24
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
