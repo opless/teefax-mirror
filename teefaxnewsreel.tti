@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -80,65 +80,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G07V%  B               
 OL,4,           VZj**gppp B               
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G07U!ESunny          
-OL,7,           ^ZU ~ow1  E              
+OL,5,           ^ZR({5                
+OL,6,            ZR!'~G07R!B               
+OL,7,           ^ZR ~ow1 B               
 OL,8,B          ^ZV*y?sp  FRain          
 OL,9,           ^ZVj)"G 06V}  F             
 OL,10,       ^ZVp|t VxVg0 B             
 OL,11,       ZVnG07VtV+"VG07V B             
 OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BCloudy    
+OL,13,        ZV+%*o!V" R *u  BSunny     
 OL,14,B            ^ZV`  R*G 09R}  B         
-OL,15,B            ^ZVk|R            
-OL,16,B            ^ZV'oG 09R}zt B       
-OL,17,B              ZVj^RG 10R B       
-OL,18,B            ZVx|^G 10R'         
-OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 11R/!        
-OL,21,B            ZV zG11V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,15,B            ^ZVk|U            
+OL,16,B            ^ZV'oG 09V}zt B       
+OL,17,B              ZVj^UG 10V B       
+OL,18,B            ZVx|^G 10V'         
+OL,19,             ^ZV! +/'iUqp0        
+OL,20,B            ^ZU  tG 11U/!        
+OL,21,B            ZU zG11U^/s/U/? ECloudy   
+OL,22,            ZU8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G05V%  B               
-OL,4,           VZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G04R%  BCloudy         
+OL,4,           RZj**gppp  B              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G04V!FCloudy         
+OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BSunny         
-OL,9,           ^ZRj)"G 04R}  B             
-OL,10,       ^ZRp|t RxRg0 B             
-OL,11,       ZRnG07RtR+"RG05R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 06R} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 07R}zt B       
-OL,17,B              ZRj^VG 07R B       
-OL,18,B            ZRx|^G 09R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 08R/!        
-OL,21,B            ZR zG10R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 04V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG07VtV+"VG04V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 06V} B          
+OL,15,B            ^ZVk|U            
+OL,16,B            ^ZV'oG 07V}zt ERain   
+OL,17,B              ZVj^UG 07V  E      
+OL,18,B            ZVx|^G 09V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 08V/!        
+OL,21,B            ZV zG10V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,7 +159,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -184,7 +184,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -210,7 +210,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -235,7 +235,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -261,7 +261,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -287,7 +287,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -313,7 +313,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -339,7 +339,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -365,7 +365,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -391,33 +391,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CAvanti starts running West Coast Main
-OL,5,CLine
-OL,6, Avanti West Coast has taken over from
-OL,7, Virgin Trains as the operator running
-OL,8, the West Coast Main Line.
-OL,10,FThe new operator's parent company is a
-OL,11,Fpartnership between Aberdeen-based firm
-OL,12,FFirstGroup and Italy's Trenitalia.
-OL,14,FAvanti's first train left Euston for
-OL,15,FManchester on Sunday at 08:10 GMT and
-OL,16,Farrived three minutes late, according
-OL,17,Fto the National Rail app.
-OL,19,FIt replaces Virgin Trains, which was
-OL,20,FBritain's longest-running rail
-OL,21,Ffranchise after 22 years of service.
+OL,4,CBoy, 13, arrested over woman's stab
+OL,5,Cdeath
+OL,6, A 13-year-old boy and a 27-year-old man
+OL,7, have been arrested on suspicion of
+OL,8, murdering a woman who was stabbed to
+OL,9, death in the street.
+OL,11,FThe 25-year-old was attacked in
+OL,12,FWellingborough Road, Rushden,
+OL,13,FNorthamptonshire, at 20:30 GMT on
+OL,14,FSaturday.
+OL,16,FNorthamptonshire Police said paramedics
+OL,17,Fwere called but she died at the scene,
+OL,18,Fnear St George's Way.
+OL,20,FA second man, also 27, was arrested on
+OL,21,Fsuspicion of attempted murder.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -443,7 +443,58 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CAvanti starts running West Coast Main
+OL,5,CLine
+OL,6, Avanti West Coast has taken over from
+OL,7, Virgin Trains as the operator running
+OL,8, the West Coast Main Line.
+OL,10,FThe new operator's parent company is a
+OL,11,Fpartnership between Aberdeen-based firm
+OL,12,FFirstGroup and Italy's Trenitalia.
+OL,14,FAvanti's first train left Euston for
+OL,15,FManchester on Sunday at 08:10 GMT and
+OL,16,Farrived three minutes late, according
+OL,17,Fto the National Rail app.
+OL,19,FIt replaces Virgin Trains, which was
+OL,20,FBritain's longest-running rail
+OL,21,Ffranchise after 22 years of service.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CNorth Pole explorers complete epic trek
+OL,5, Two explorers who trekked hundreds of
+OL,6, miles at the North Pole and were
+OL,7, running out of food have reached safety
+OL,8, after an epic journey across the ice.
+OL,10,FSouth African Mike Horn and Norwegian
+OL,11,FBoerge Ousland covered about 1,800km
+OL,12,F(1,120 miles) on treacherous drifting
+OL,13,Fice in the past couple of months.
+OL,15,FBecause of delays, they had been
+OL,16,Fexpected to run out of food by Friday.
+OL,18,FHowever, they managed to meet up with
+OL,19,Ftwo Norwegians sent to rescue them
+OL,20,Fdespite a local storm.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40520
+SC,0020
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -466,59 +517,10 @@ OL,20,Ffrom Southport, a woman, 20, from
 OL,21,FKirkby and a man, 20, from Lancashire.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40519
-SC,0019
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNorth Pole explorers complete epic trek
-OL,5, Two explorers who trekked hundreds of
-OL,6, miles at the North Pole and were
-OL,7, running out of food have reached safety
-OL,8, after an epic journey across the ice.
-OL,10,FSouth African Mike Horn and Norwegian
-OL,11,FBoerge Ousland covered about 1,800km
-OL,12,F(1,120 miles) on treacherous drifting
-OL,13,Fice in the past couple of months.
-OL,15,FBecause of delays they faced, they were
-OL,16,Fexpected to run out of food by Friday.
-OL,18,FHowever, they managed to meet up with
-OL,19,Ftwo Norwegians sent to rescue them
-OL,20,Fdespite a local storm.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40520
-SC,0020
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CThousands sleep out to support homeless
-OL,5, Thousands of people have camped out
-OL,6, overnight as part of a global effort to
-OL,7, raise cash to tackle homelessness.
-OL,9,FCelebrities were among the hundreds
-OL,10,Ftaking part in the World's Big Sleep
-OL,11,FOut in London, Edinburgh and Cardiff.
-OL,13,FOrganisers were expecting more than
-OL,14,F50,000 to take part globally, with
-OL,15,Fother events in cities including New
-OL,16,FYork, Brisbane and Dublin.
-OL,18,FThe initiative hopes to raise around
-OL,19,F#38m ($50m) for homelessness charities.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -526,9 +528,9 @@ OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
 OL,4,CDeadly flooding in Uganda kills at
 OL,5,Cleast 16
-OL,6, Deadly flooding in Uganda has claimed
-OL,7, at least 16 lives, the Red Cross says,
-OL,8, as the region reels from weeks of rain.
+OL,6, Flooding in Uganda has claimed at least
+OL,7, 16 lives, the Red Cross says, as the
+OL,8, region reels from weeks of rain.
 OL,10,FRescuers have been recovering the
 OL,11,Fbodies of victims swept to their deaths
 OL,12,Fby the flash floods in the western
@@ -544,7 +546,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -569,7 +571,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -595,7 +597,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -621,7 +623,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -648,7 +650,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -674,7 +676,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -700,7 +702,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -726,7 +728,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -750,7 +752,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -776,7 +778,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -801,7 +803,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
