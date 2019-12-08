@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C13:34:20
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:34:51
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FEarly rain clearing the far southeast,
-OL,9,Fthen all parts seeing sunny spells and
-OL,10,Fblustery showers. Showers will be
-OL,11,Ffrequent and heavy in the west with
-OL,12,Fhail, thunder and squally winds.
-OL,13,FFeeling rather cold.
+OL,7,GThis Evening and Tonight
+OL,8,FBands of heavy and often squally
+OL,9,Fshowers, some with hail and thunder,
+OL,10,Fmoving east through the evening and
+OL,11,Fnight, turning wintry in parts of the
+OL,12,Fnorth later. Very windy, especially
+OL,13,Facross southwestern areas with gusts of
+OL,14,F70 mph possible.
 OL,4,                                    1/2 
-OL,15,GTonight
-OL,16,FFurther showers, some heavy, moving
-OL,17,Fsoutheastwards across many parts.
-OL,18,FShowers turning wintry over northern
-OL,19,FScotland.  Very windy, with severe
-OL,20,Fgales around some coasts in the west
-OL,21,Fand north.
+OL,16,GMonday
+OL,17,FShowers affecting coastal areas at
+OL,18,Ffirst, wintry across northern Scotland.
+OL,19,FOtherwise, most parts dry with sunny
+OL,20,Fspells. Feeling cold, though winds
+OL,21,Fsteadily easing.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,7 +32,7 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C13:34:20
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C14:34:51
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
