@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -13,12 +13,12 @@ OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MJohnson insists no NI-GB goods     C104
 OL,6,Gchecks after Brexit                    
-OL,8,GDozens dead in Delhi bag factory   C105
-OL,9,Gfire                                   
+OL,8,GUS orders foreign military check   C105
+OL,9,Gafter base attack                      
 OL,10,GParties in final campaign push as  C106
 OL,11,Gelection nears                         
-OL,12,GUS navy base gunman 'watched       C107
-OL,13,Gmass-shooting videos'                  
+OL,12,GDozens dead in Delhi bag factory   C107
+OL,13,Gfire                                   
 OL,14,GFarage promises Reform Party after C108
 OL,15,GBrexit                                 
 OL,16,GNorth Korea carries out 'very      C109
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -80,7 +80,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -109,7 +109,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -138,7 +138,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,7 +159,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -184,7 +184,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -210,32 +210,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CDozens dead in Delhi bag factory fire
-OL,5, A large fire has swept through a bag
-OL,6, factory in the Indian capital Delhi,
-OL,7, killing 43 workers, officials say. 
-OL,9,FThe blaze broke out at the four-storey
-OL,10,Fbuilding in the city's congested old
-OL,11,Fquarter early on Sunday morning.
-OL,13,FAt least 100 people were sleeping
-OL,14,Finside the factory, which mainly makes
-OL,15,Fschool bags, when the fire started.
-OL,16,FMore than 60 have been rescued.
-OL,18,FPrime Minister Narendra Modi called the
-OL,19,Ffire "horrific" and sent his
-OL,20,Fcondolences. 
+OL,4,CUS orders foreign military check after
+OL,5,Cbase attack
+OL,6, US Defence Secretary Mark Esper has
+OL,7, ordered a review of the screening
+OL,8, process for foreign military in the US
+OL,9, after a Saudi soldier launched a deadly
+OL,10, attack at a Florida navy base.
+OL,12,FThe gunman - who training at the
+OL,13,FPensacola site - killed three sailors
+OL,14,Fon Friday.
+OL,16,FMr Esper told Fox News Sunday he had
+OL,17,Finstructed top defence officials to
+OL,18,Flook into security measures at bases.  
+OL,20,FPresident Donald Trump has also pledged
+OL,21,Fto review foreign military programmes.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -261,33 +262,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUS navy base gunman 'watched
-OL,5,Cmass-shooting videos'
-OL,6, The Saudi gunman who attacked a Florida
-OL,7, navy base on Friday played videos of
-OL,8, mass shootings at a dinner beforehand,
-OL,9, US media reports say.
-OL,11,FMohammed Alshamrani - who was training
-OL,12,Fat the Pensacola base - killed three
-OL,13,Fsailors before being shot dead.
-OL,15,FThe US Navy said the sailors "showed
-OL,16,Fexceptional heroism and bravery in the
-OL,17,Fface of evil".
-OL,19,FThey were named as Joshua Kaleb Watson,
-OL,20,F23, Mohammed Sameh Haitham, 19, and
-OL,21,FCameron Scott Walters, 21.
+OL,4,CDozens dead in Delhi bag factory fire
+OL,5, A large fire has swept through a bag
+OL,6, factory in the Indian capital Delhi,
+OL,7, killing 43 workers, officials say. 
+OL,9,FThe blaze broke out at the four-storey
+OL,10,Fbuilding in the city's congested old
+OL,11,Fquarter early on Sunday morning.
+OL,13,FAt least 100 people were sleeping
+OL,14,Finside the factory, which mainly makes
+OL,15,Fschool bags, when the fire started.
+OL,16,FMore than 60 have been rescued.
+OL,18,FPrime Minister Narendra Modi called the
+OL,19,Ffire "horrific" and sent his
+OL,20,Fcondolences. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -313,7 +313,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -339,7 +339,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -365,7 +365,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -391,7 +391,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -417,7 +417,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -443,33 +443,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CAvanti starts running West Coast Main
-OL,5,CLine
-OL,6, Avanti West Coast has taken over from
-OL,7, Virgin Trains as the operator running
-OL,8, the West Coast Main Line.
-OL,10,FThe new operator's parent company is a
-OL,11,Fpartnership between Aberdeen-based firm
-OL,12,FFirstGroup and Italy's Trenitalia.
-OL,14,FAvanti's first train left Euston for
-OL,15,FManchester on Sunday at 08:10 GMT and
-OL,16,Farrived three minutes late, according
-OL,17,Fto the National Rail app.
-OL,19,FIt replaces Virgin Trains, which was
-OL,20,FBritain's longest-running rail
-OL,21,Ffranchise after 22 years of service.
+OL,4,CThieves ransack 900-year-old church to
+OL,5,Csteal #200
+OL,6, Thieves who targeted a church caused
+OL,7, between #5,000 and #10,000 worth of
+OL,8, damage, before making off with a
+OL,9, charity pot containing less than #200.
+OL,11,FThe Rev Nathan Ward said when he
+OL,12,Farrived at St Margaret's Church, in
+OL,13,FRainham, Kent, he found the
+OL,14,F900-year-old building had been
+OL,15,Fransacked. A stained glass window was
+OL,16,Falso smashed.
+OL,18,FPolice said they were called to the
+OL,19,Fchurch at 07:40 GMT.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -494,33 +493,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CSix arrests after stabbings outside
-OL,5,Chotel
-OL,6, Two people were stabbed and three
-OL,7, others were hurt in a fight near a
-OL,8, hotel, police say.
-OL,10,FA man was stabbed in his head and neck
-OL,11,Fand a woman was stabbed in her arm in
-OL,12,FSouthport at about 06:00 GMT on
-OL,13,FSaturday.
-OL,15,FTwo other women sustained bruising to
-OL,16,Ftheir faces and another man was hurt.
-OL,18,FMerseyside Police arrested two women
-OL,19,Fand two men, aged between 21 and 24,
-OL,20,Ffrom Southport, a woman, 20, from
-OL,21,FKirkby and a man, 20, from Lancashire.
+OL,4,CTeen's Christmas lights show thrills
+OL,5,Ccrowd
+OL,6, About 100 people watched as a teenager
+OL,7, switched on his latest Christmas lights
+OL,8, display.
+OL,10,FBen Charles, 18, decked his parents'
+OL,11,Fhome in Brentwood, Essex, with
+OL,12,Fcolourful illuminations set to music
+OL,13,Ffor the fifth Christmas in a row.
+OL,15,FHis efforts have raised more than
+OL,16,F#3,000 for the Essex & Herts Air
+OL,17,FAmbulance Trust (EHAAT) over the past
+OL,18,Ffour years.
+OL,20,FThe teenager hopes to reach the #5,000
+OL,21,Fmark this Christmas.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -546,7 +545,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -571,7 +570,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -597,7 +596,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -623,7 +622,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -650,7 +649,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -676,7 +675,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -702,7 +701,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -728,7 +727,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -752,7 +751,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -778,7 +777,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -803,7 +802,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C15:34:13
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C16:35:52
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
