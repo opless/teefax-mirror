@@ -5,25 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:33:48
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:34:52
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FRain, heavy at times, moving quickly
-OL,9,Feastwards across all parts of the UK.
-OL,10,FClearer, showery weather following into
-OL,11,Fwestern areas. Windy, with gales on
-OL,12,Fcoasts and hills.
+OL,7,GToday
+OL,8,FEarly rain clearing the far southeast,
+OL,9,Fthen all parts seeing sunny spells and
+OL,10,Fblustery showers. Showers will be
+OL,11,Ffrequent and heavy in the west with
+OL,12,Fhail, thunder and squally winds.
+OL,13,FFeeling rather cold.
 OL,4,                                    1/2 
-OL,14,GSunday
-OL,15,FSunny spells and blustery showers.
-OL,16,FShowers will be frequent and heavy in
-OL,17,Fthe west with hail, thunder and squally
-OL,18,Fwinds. Winds increasing everywhere,
-OL,19,Fwith severe gales developing in
-OL,20,Fsouthwest.
+OL,15,GTonight
+OL,16,FFurther showers, some heavy, moving
+OL,17,Fsoutheastwards across many parts.
+OL,18,FShowers turning wintry over northern
+OL,19,FScotland.  Very windy, with severe
+OL,20,Fgales around some coasts in the west
+OL,21,Fand north.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -31,18 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:33:48
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:34:52
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Monday to Wednesday
-OL,8,FRain and gales clearing east early
-OL,9,FMonday, with sunshine and showers
-OL,10,Ffollowing. Further wet and windy
-OL,11,Fweather Tuesday, before a band of
-OL,12,Fsqually rain clears to sunshine and
-OL,13,Fshowers Wednesday.
+OL,7,GOutlook for Tuesday to Thursday
+OL,8,FRemaining unsettled and often very
+OL,9,Fwindy, with periods of sometimes heavy
+OL,10,Frain interspersed with brighter, colder
+OL,11,Finterludes and heavy showers, these
+OL,12,Fwintry on hills in the north.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

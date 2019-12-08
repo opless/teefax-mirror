@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -17,22 +17,22 @@ OL,8,GUS navy base gunman 'watched       C105
 OL,9,Gmass-shooting videos'                  
 OL,10,GFinal Virgin train departs as      C106
 OL,11,Gfranchise ends                         
-OL,12,GRussia's athletes wait in fear of  C107
-OL,13,Gfresh world doping ban                 
+OL,12,GNorth Korea carries out 'very      C107
+OL,13,Gimportant test'                        
 OL,14,GHMV faces the music in Christmas   C108
 OL,15,Gcrunch test                            
-OL,16,GAfrica-focused evangelist Reinhard C109
-OL,17,GBonnke dies                            
+OL,16,GHouse report builds case for Trump C109
+OL,17,Gimpeachment                            
 OL,18,GPensioner in #193,000 inheritance  C110
 OL,19,Gbattle with bank                       
-OL,20,GUS and Iranian men released in     C111
-OL,21,Gprisoner swap                          
+OL,20,GRussia's athletes wait in fear of  C111
+OL,21,Gfresh world doping ban                 
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -60,7 +60,7 @@ OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -81,7 +81,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Sunday Evening             
@@ -91,10 +91,10 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G02V!FRain           
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
-OL,9,           ^ZRj)"G 04R}  B             
-OL,10,       ^ZVp|t RxRg0 B             
-OL,11,       ZVnG05VtR+"RG04R B             
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 04V} B              
+OL,10,       ^ZVp|t VxRg0 BCloudy       
+OL,11,       ZVnG05VtV+"RG04R  B            
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  B          
 OL,14,B            ^ZV`  R*G 05R} B          
@@ -110,36 +110,36 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Monday                 
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G04R%  BCloudy         
-OL,4,           RZj**gppp  B              
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G04V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G04V!FSunny          
+OL,6,            ZV!'~G04V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 05V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG07VtV+"VG05V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 06V} B          
-OL,15,B            ^ZVk|U            
-OL,16,B            ^ZV'oG 07V}zt ERain   
-OL,17,B              ZVj^UG 06V  E      
-OL,18,B            ZVx|^G 09V'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 08V/!        
-OL,21,B            ZV zG10V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,8,B          ^ZR*y?sp  BSunny         
+OL,9,           ^ZRj)"G 05R}  B             
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG07RtR+"RG05R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  B          
+OL,14,B            ^ZR`  R*G 06R} B          
+OL,15,B            ^ZRk|U            
+OL,16,B            ^ZR'oG 07R}zt ERain   
+OL,17,B              ZRj^UG 07R  E      
+OL,18,B            ZRx|^G 09R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 08R/!        
+OL,21,B            ZR zG10R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -173,7 +173,7 @@ OL,8,GStar Wars: The workforce behind a tC504
 OL,9,GGirl charged after opera singer JenC505
 OL,10,GRobbie Williams equals Elvis's UK cC506
 OL,12,GStars celebrate Avicii at emotionalC507
-OL,13,GThe 400-year-old battle which startC508
+OL,13,GThe 18th Century battle which startC508
 OL,14,GPortraits to challenge the Essex giC509
 OL,15,GSpassky vs Fischer: How chess becamC510
 OL,17,GWhat we learned from the first JameC511
@@ -185,7 +185,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -211,7 +211,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -237,7 +237,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -263,31 +263,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRussia's athletes wait in fear of fresh
-OL,5,Cworld doping ban
-OL,6, Russia has become the master of denial
-OL,7, in recent years. From military
-OL,8, incursions to hacking to
-OL,9, assassinations, the Kremlin has sworn
-OL,10, blind it's not involved.
-OL,12,FBut now the country's athletes are
-OL,13,Fwaiting nervously, facing sweeping
-OL,14,Fsanctions for another doping-linked
-OL,15,Fscandal, and senior officials are
-OL,16,Fkeeping their silence.
-OL,18,FThere is one, striking exception.
+OL,4,CNorth Korea carries out 'very important
+OL,5,Ctest'
+OL,6, North Korea says it has carried out a
+OL,7, "very important test" at a
+OL,8, satellite-launching site. 
+OL,10,FThe KCNA state news agency said the
+OL,11,Fresults would be used to upgrade the
+OL,12,Fcountry's strategic status. It provided
+OL,13,Fno further details.
+OL,15,FAnalysts believe it could be a
+OL,16,Fground-based test of an engine to power
+OL,17,Fa satellite launcher or an
+OL,18,Fintercontinental ballistic missile. 
+OL,20,FIt comes after Pyongyang appeared to
+OL,21,Fshut the door on further US talks.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -313,33 +315,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAfrica-focused evangelist Reinhard
-OL,5,CBonnke dies
-OL,6, German evangelist Reinhard Bonnke, who
-OL,7, drew huge crowds in Africa over decades
-OL,8, of preaching, has died aged 79.
-OL,10,F"He passed away peacefully, surrounded
-OL,11,Fby his family," his wife Anni Bonnke
-OL,12,Fsaid in a statement.
-OL,14,FThe family lives in the United States
-OL,15,Fbut Bonnke was best-known for his work
-OL,16,Fwith the Christ For All Nations
-OL,17,Forganisation throughout Africa.
-OL,19,FThe Pentecostal preacher oversaw more
-OL,20,Fthan 79 million conversions to
-OL,21,FChristianity, his organisation claims.
+OL,4,CHouse report builds case for Trump
+OL,5,Cimpeachment
+OL,6, House Democrats have laid out the
+OL,7, constitutional grounds for their case
+OL,8, to impeach President Donald Trump, as
+OL,9, the process gathers pace.
+OL,11,FA report by the judiciary committee
+OL,12,Fsetting out the legal and historical
+OL,13,Fbasis for impeachment comes ahead of
+OL,14,FMonday's public hearing to consider
+OL,15,Fevidence against Mr Trump.
+OL,17,FA vote on articles of impeachment could
+OL,18,Fbe held as early as next week. 
+OL,20,FOn Saturday, Mr Trump again described
+OL,21,Fthe process as a "witch-hunt".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -365,30 +367,31 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUS and Iranian men released in prisoner
-OL,5,Cswap
-OL,6, The US and Iran have conducted a
-OL,7, prisoner swap in a rare sign of
-OL,8, co-operation between the two countries.
-OL,10,FThe exchange involved a
-OL,11,FChinese-American researcher convicted
-OL,12,Fof spying in Iran and an Iranian
-OL,13,Fscientist held by the US. Both deny
-OL,14,Fwrongdoing. 
-OL,16,FIran's foreign minister said he was
-OL,17,Fglad as he announced the exchange.
+OL,4,CRussia's athletes wait in fear of fresh
+OL,5,Cworld doping ban
+OL,6, Russia has become the master of denial
+OL,7, in recent years. From military
+OL,8, incursions to hacking to
+OL,9, assassinations, the Kremlin has sworn
+OL,10, blind it's not involved.
+OL,12,FBut now the country's athletes are
+OL,13,Fwaiting nervously, facing sweeping
+OL,14,Fsanctions for another doping-linked
+OL,15,Fscandal, and senior officials are
+OL,16,Fkeeping their silence.
+OL,18,FThere is one, striking exception.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -414,33 +417,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRwanda cycling chief resigns amid
-OL,5,Cscandal
-OL,6, The president of the Rwanda Cycling
-OL,7, Federation has resigned after
-OL,8, allegations of corruption and sexual
-OL,9, abuse were made against the
-OL,10, organisation.
-OL,12,FAimable Bayingana and his entire
-OL,13,Fexecutive team have stood down,
-OL,14,Faccording to reports.
-OL,16,FThe Rwanda Investigative Bureau (RIB)
-OL,17,Fsaid it was investigating the
-OL,18,Fallegations but would not comment
-OL,19,Ffurther.
-OL,21,FMr Bayingana has denied any wrongdoing.
+OL,4,CAfrica-focused evangelist Reinhard
+OL,5,CBonnke dies
+OL,6, German evangelist Reinhard Bonnke, who
+OL,7, drew huge crowds in Africa over decades
+OL,8, of preaching, has died aged 79.
+OL,10,F"He passed away peacefully, surrounded
+OL,11,Fby his family," his wife Anni Bonnke
+OL,12,Fsaid in a statement.
+OL,14,FThe family lives in the United States
+OL,15,Fbut Bonnke was best-known for his work
+OL,16,Fwith the Christ For All Nations
+OL,17,Forganisation throughout Africa.
+OL,19,FThe Pentecostal preacher oversaw more
+OL,20,Fthan 79 million conversions to
+OL,21,FChristianity, his organisation claims.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -466,33 +469,30 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
-OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
-OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
-OL,4,COceans running out of oxygen, say
-OL,5,Cscientists
-OL,6, Climate change and nutrient pollution
-OL,7, are driving the oxygen from our oceans,
-OL,8, and threatening many species of fish.
-OL,10,FThat's the conclusion of the biggest
-OL,11,Fstudy of its kind, undertaken by
-OL,12,Fconservation group IUCN.
-OL,14,FWhile nutrient run-off has been known
-OL,15,Ffor decades, researchers say that
-OL,16,Fclimate change is making the lack of
-OL,17,Foxygen worse. 
-OL,19,FAround 700 ocean sites are now
-OL,20,Fsuffering from low oxygen, compared
-OL,21,Fwith 45 in the 1960s. 
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CUS and Iranian men released in prisoner
+OL,5,Cswap
+OL,6, The US and Iran have conducted a
+OL,7, prisoner swap in a rare sign of
+OL,8, co-operation between the two countries.
+OL,10,FThe exchange involved a
+OL,11,FChinese-American researcher convicted
+OL,12,Fof spying in Iran and an Iranian
+OL,13,Fscientist held by the US. Both deny
+OL,14,Fwrongdoing. 
+OL,16,FIran's foreign minister said he was
+OL,17,Fglad as he announced the exchange.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
@@ -518,33 +518,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CWoman set on fire on way to rape
-OL,5,Chearing dies
-OL,6, An Indian woman who was set on fire on
-OL,7, her way to testify against her alleged
-OL,8, rapists has died of her injuries.
-OL,10,FThe 23-year-old died late on Friday
-OL,11,Fafter suffering cardiac arrest at a
-OL,12,FDelhi hospital. She had 90% burns.
-OL,14,FShe was attacked on Thursday as she was
-OL,15,Fwalking to a hearing in the rape case
-OL,16,Fshe filed against two men in March in
-OL,17,FUnnao, in northern Uttar Pradesh state.
-OL,19,FFive men, including the alleged
-OL,20,Frapists, have been arrested, Indian
-OL,21,Fpolice say.
+OL,4,CRwanda cycling chief resigns amid
+OL,5,Cscandal
+OL,6, The president of the Rwanda Cycling
+OL,7, Federation has resigned after
+OL,8, allegations of corruption and sexual
+OL,9, abuse were made against the
+OL,10, organisation.
+OL,12,FAimable Bayingana and his entire
+OL,13,Fexecutive team have stood down,
+OL,14,Faccording to reports.
+OL,16,FThe Rwanda Investigative Bureau (RIB)
+OL,17,Fsaid it was investigating the
+OL,18,Fallegations but would not comment
+OL,19,Ffurther.
+OL,21,FMr Bayingana has denied any wrongdoing.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -569,7 +569,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -595,7 +595,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -622,7 +622,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -648,7 +648,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -674,7 +674,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -700,34 +700,31 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
-OL,4,CThe 400-year-old battle which started a
+OL,4,CThe 18th Century battle which started a
 OL,5,Cnew war
-OL,6, The argument over a 400-year-old war
-OL,7, began in a modern way: with a tweet.
-OL,9,F"Death strikes where his shadow falls,"
-OL,10,Fwrote Sanjay Dutt, the veteran
-OL,11,FBollywood actor who plays the Afghan
-OL,12,Fleader, Ahmad Shah Abdali, in the film
-OL,13,FPanipat, which opened in cinemas on
-OL,14,FFriday.
-OL,16,FIt was supposed to stir up excitement
-OL,17,Ffor the film, which was released on
-OL,18,FFriday. Instead, it came close to
-OL,19,Finstigating an international incident,
-OL,20,Fangering an entire country of
-OL,21,Fonce-loyal Bollywood fans.
+OL,6, The argument over a war that took place
+OL,7, in the 18th Century began in a modern
+OL,8, way: with a tweet.
+OL,10,F"Death strikes where his shadow falls,"
+OL,11,Fwrote Sanjay Dutt, the veteran
+OL,12,FBollywood actor who plays the Afghan
+OL,13,Fleader, Ahmad Shah Abdali, in the film
+OL,14,FPanipat, which opened in cinemas on
+OL,15,FFriday.
+OL,18,FBut what exactly has got Afghans so
+OL,19,Friled up?
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -753,7 +750,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -778,7 +775,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -803,7 +800,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E08/12C02:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E08/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
