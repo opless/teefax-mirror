@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -13,8 +13,8 @@ OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MLabour Budget to 'end austerity' inC104
 OL,6,Gfirst 100 days                         
-OL,8,GPeople 'unaccounted for' after     C105
-OL,9,Gvolcano erupts in NZ                   
+OL,8,GPeople 'unaccounted for' after NZ  C105
+OL,9,Gvolcano erupts                         
 OL,10,GJohnson targets Labour Leave seats C106
 OL,11,Gin final push                          
 OL,12,GFlorida navy attack is presumed    C107
@@ -23,15 +23,15 @@ OL,14,GNHS boss says parties 'ducked too  C108
 OL,15,Gmany' big issues                       
 OL,16,GNegotiators 'playing politics' amidC109
 OL,17,Gclimate crisis                         
-OL,18,GPolice launch counter-terror       C110
-OL,19,Gtraining for public                    
+OL,18,GPolice launch public counter-terrorC110
+OL,19,Gtraining                               
 OL,20,GUS rapper Juice Wrld dies aged 21  C111
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -54,12 +54,12 @@ OL,14,C FTSE100    G7239.66 F+101.81Fat CLOSE
 OL,15,C techMARK100G5698.42 F+43.94 Fat CLOSE
 OL,16,C Dow Jones  G28015.06F+337.27Fat CLOSE
 OL,17,C Nasdaq     G8397.37 F+88.97 Fat CLOSE
-OL,18,C Nikkei     G23434.12F+79.72 Fat 03:25
+OL,18,C Nikkei     G23434.86F+80.46 Fat 04:30
 OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -77,7 +77,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Monday Evening             
@@ -106,7 +106,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tuesday                 
@@ -135,7 +135,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -156,7 +156,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -181,7 +181,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -207,33 +207,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CPeople 'unaccounted for' after volcano
-OL,5,Cerupts in NZ
+OL,4,CPeople 'unaccounted for' after NZ
+OL,5,Cvolcano erupts
 OL,6, A volcano has erupted in New Zealand
-OL,7, with 50 people in the vicinity -
+OL,7, with about 50 people in the vicinity -
 OL,8, leaving "a number of them" unaccounted
 OL,9, for, police said.
 OL,11,FTourists were seen walking inside the
 OL,12,Frim of the White Island crater just
 OL,13,Fmoments before the eruption.
 OL,15,FPolice said at least one of those
-OL,16,Fevacuated from the island volcano has
-OL,17,Fbeen critically injured.
+OL,16,Fevacuated from the island volcano was
+OL,17,Fcritically injured.
 OL,19,FWhite Island, or Whakaari, is off the
-OL,20,Fcoast of North Island - and is one the
-OL,21,Fcountry's most active volcanoes.  
+OL,20,Fcoast of North Island - and is one of
+OL,21,Fthe country's most active volcanoes.  
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -243,9 +243,9 @@ OL,4,CJohnson targets Labour Leave seats in
 OL,5,Cfinal push
 OL,6, Boris Johnson will visit four
 OL,7, Brexit-voting Labour-held seats in
-OL,8, Humberside and north-east England
-OL,9, later, with three days to go before
-OL,10, polling day.
+OL,8, Humber and north-east England later,
+OL,9, with three days to go before polling
+OL,10, day.
 OL,12,FIn a speech in Sunderland - 61% of
 OL,13,Fwhich voted to Leave - the PM is
 OL,14,Fexpected to tell voters: "The Labour
@@ -258,7 +258,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -284,7 +284,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -310,7 +310,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -333,14 +333,14 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CPolice launch counter-terror training
-OL,5,Cfor public
+OL,4,CPolice launch public counter-terror
+OL,5,Ctraining
 OL,6, Free online training for the public on
 OL,7, how to react to a terrorism incident is
 OL,8, being made available by police.
@@ -359,7 +359,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -384,7 +384,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -410,33 +410,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRussia awaits potential ban from global
-OL,5,Csport
-OL,6, Russia could face an unprecedented
-OL,7, four-year ban from major international
-OL,8, sporting events over accusations that
-OL,9, it manipulated laboratory doping data.
-OL,11,FThe decision will be made later at a
-OL,12,Fmeeting of the World Anti-Doping Agency
-OL,13,F(Wada) in Lausanne, Switzerland. 
-OL,15,FRussia could be banned from the 2020
-OL,16,FTokyo Olympics and 2022 Beijing Winter
-OL,17,FOlympics. It could also be ruled out of
-OL,18,Fthe 2022 Football World Cup in Qatar.
-OL,20,FThe country's sports minister refused
-OL,21,Fto comment ahead of the ruling. 
+OL,4,CDozens dead in Delhi bag factory fire
+OL,5, A large fire has swept through a bag
+OL,6, factory in the Indian capital Delhi,
+OL,7, killing 43 workers, officials say. 
+OL,9,FThe blaze broke out at the four-storey
+OL,10,Fbuilding in the city's congested old
+OL,11,Fquarter early on Sunday morning.
+OL,13,FAt least 100 people were sleeping
+OL,14,Finside the factory, which mainly makes
+OL,15,Fschool bags, when the fire started.
+OL,16,FMore than 60 have been rescued.
+OL,18,FPrime Minister Narendra Modi called the
+OL,19,Ffire "horrific" and sent his
+OL,20,Fcondolences. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -462,7 +461,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -488,7 +487,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -514,32 +513,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CDozens dead in Delhi bag factory fire
-OL,5, A large fire has swept through a bag
-OL,6, factory in the Indian capital Delhi,
-OL,7, killing 43 workers, officials say. 
-OL,9,FThe blaze broke out at the four-storey
-OL,10,Fbuilding in the city's congested old
-OL,11,Fquarter early on Sunday morning.
-OL,13,FAt least 100 people were sleeping
-OL,14,Finside the factory, which mainly makes
-OL,15,Fschool bags, when the fire started.
-OL,16,FMore than 60 have been rescued.
-OL,18,FPrime Minister Narendra Modi called the
-OL,19,Ffire "horrific" and sent his
-OL,20,Fcondolences. 
+OL,4,CRussia awaits potential ban from global
+OL,5,Csport
+OL,6, Russia could face an unprecedented
+OL,7, four-year ban from major international
+OL,8, sporting events over accusations that
+OL,9, it manipulated laboratory doping data.
+OL,11,FThe decision will be made later at a
+OL,12,Fmeeting of the World Anti-Doping Agency
+OL,13,F(Wada) in Lausanne, Switzerland. 
+OL,15,FRussia could be banned from the 2020
+OL,16,FTokyo Olympics and 2022 Beijing Winter
+OL,17,FOlympics. It could also be ruled out of
+OL,18,Fthe 2022 Football World Cup in Qatar.
+OL,20,FThe country's sports minister refused
+OL,21,Fto comment ahead of the ruling. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -564,7 +564,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -590,7 +590,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -616,7 +616,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -641,7 +641,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -667,7 +667,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -693,7 +693,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -720,7 +720,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -744,7 +744,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -770,7 +770,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -795,7 +795,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C04:33:07
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
