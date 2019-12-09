@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C13:33:21
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C14:35:08
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FWinds gradually easing through the
-OL,9,Fmorning. Some heavy showers along North
-OL,10,FSea coasts, but elsewhere mainly dry
-OL,11,Fwith some sunshine during afternoon. 
-OL,12,FCloud and outbreaks of rain reaching
-OL,13,Fwestern Scotland and perhaps Northern
-OL,14,FIreland by evening.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FCloud increasing with rain spreading
-OL,18,Feast after midnight and turning heavy
-OL,19,Fover hills in the west.  Winds
-OL,20,Fincreasing by dawn with further gales
-OL,21,Flikely.
+OL,7,GThis Evening and Tonight
+OL,8,FMany areas will be dry, with clear
+OL,9,Fskies and easing winds allowing a
+OL,10,Ffairly widespread frost. However
+OL,11,Fincreasing cloud and wind will lift
+OL,12,Ftemperatures later, while some
+OL,13,Fnorthwestern areas miss the frost but
+OL,14,Fturn very wet with gales later.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,16 +25,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C13:33:21
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C14:35:08
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Wednesday to Friday
-OL,8,FRemaining unsettled with showers or
-OL,9,Flonger spells of rain. Windy with gales
-OL,10,Fat times. Rather cold in the north with
-OL,11,Fsnow on hills.
+OL,8,FRemaining unsettled with blustery
+OL,9,Fshowers or longer spells of rain, snow
+OL,10,Fover the hills. Windy with gales at
+OL,11,Ftimes. Rather cold, especially in the
+OL,12,Fnorth.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
