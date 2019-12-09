@@ -6,16 +6,16 @@ SC,0001
 OL,1,Übedford weather  Çcy2.uk/weatherá   1/2
 OL,2,îù ìh40|x|t`<l0,,j=l0x|t`<,            
 OL,3,îù ì"--'+,$*'+% / *%*%+,$*%             
-OL,5,Sun, 08 Dec at 10:54 GMT
-OL,6,Temperature: 10.7C
-OL,7,Humidity:    77%
-OL,8,Wind: ESE, 1 mph
+OL,5,Mon, 09 Dec at 10:53 GMT
+OL,6,Temperature: 8.9C
+OL,7,Humidity:    67%
+OL,8,Wind: SSW, 1 mph
 OL,9,Rain: 0.0 mm
-OL,10,Pressure: 998 hPa, rising slowly
-OL,11,Cloud base: 483 m
+OL,10,Pressure: 1010 hPa, rising very rapidly
+OL,11,Cloud base: 724 m
 OL,12,12 hour weather forecast, computed on
-OL,13,Sun, 08 Dec at 08:54 GMT:
-OL,14,Showery early, improving.
+OL,13,Mon, 09 Dec at 08:53 GMT:
+OL,14,Fairly fine, possible showers early.
 OL,15,This forecast is highly experimental!
 OL,23,Ñùá                     More followsà>
 OL,24,ÅGallery ÇSnowman ÉLabyrinth ÜLA Weather
@@ -33,10 +33,10 @@ OL, 8,  27ë
 OL, 9,  24ï                        
 OL,10,  21ï                        
 OL,11,  18ï                        
-OL,12,  15ñ      p                 
-OL,13,  12ñ    p, ,p        pp p,,p
-OL,14,   9ñ pp,     ########  #    
-OL,15,   6ñ#                       
+OL,12,  15ñ      #                 
+OL,13,  12ñ     p p                
+OL,14,   9ñ#p,##   ,p              
+OL,15,   6ñ          ##,,,,,,pp,,,#
 OL,16,   3î                        
 OL,17,   0î                        
 OL,18,  -3î                        
