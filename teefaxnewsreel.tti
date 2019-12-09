@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -17,21 +17,21 @@ OL,8,GFlorida navy attack is presumed    C105
 OL,9,Gterrorism - FBI                        
 OL,10,GJohnson targets Labour Leave seats C106
 OL,11,Gin final push                          
-OL,12,GDozens dead in Delhi bag factory   C107
-OL,13,Gfire                                   
-OL,14,GBoy, 13, arrested over woman's stabC108
-OL,15,Gdeath                                  
-OL,16,GUS rapper Juice Wrld dies aged 21  C109
+OL,12,GNegotiators 'playing politics' amidC107
+OL,13,Gclimate crisis                         
+OL,14,GNHS boss says parties 'ducked too  C108
+OL,15,Gmany' big issues                       
+OL,16,GDozens dead in Delhi bag factory   C109
+OL,17,Gfire                                   
 OL,18,GArrest after Manchester derby      C110
 OL,19,Gracist abuse claim                     
-OL,20,GThousands join largest HK protest  C111
-OL,21,Grally in months                        
+OL,20,GUS rapper Juice Wrld dies aged 21  C111
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -54,12 +54,12 @@ OL,14,C FTSE100    G7239.66 F+101.81Fat CLOSE
 OL,15,C techMARK100G5698.42 F+43.94 Fat CLOSE
 OL,16,C Dow Jones  G28015.06F+337.27Fat CLOSE
 OL,17,C Nasdaq     G8397.37 F+88.97 Fat CLOSE
-OL,18,C Nikkei     G23503.09F+148.69Fat 23:25
+OL,18,C Nikkei     G23382.19F+27.79 Fat 00:30
 OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -77,65 +77,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G          Sunday Evening             
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G04V%  B               
-OL,4,           VZj**gppp B               
+OL,1,T]G          Monday Evening             
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G04R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G01V!FRain           
+OL,6,            ZV!'~G01V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
-OL,9,           ^ZRj)"G 04R}  B             
-OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG05VtR+"VG04V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  B          
-OL,14,B            ^ZR`  R*G 01R} B          
-OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^RG 05R B       
-OL,18,B            ZRx|^G 04R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZV  tG 06R/!        
-OL,21,B            ZV zG04V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 03V} B              
+OL,10,       ^ZRp|t VxVg0 B             
+OL,11,       ZRnG05RtV+"VG00V B             
+OL,12,       ZR+V`4V+|0             
+OL,13,        ZR+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 01V} B          
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 03V}zt B       
+OL,17,B              ZVj^VG 00V B       
+OL,18,B            ZVx|^G 03V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,BRain        ^ZR  tG 03V/!        
+OL,21,B            ZR zG05R^/s/V/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G              Monday                 
+OL,1,T]G             Tuesday                 
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G11V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G11V!FRain           
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BSunny         
-OL,9,           ^ZRj)"G 05R}  B             
-OL,10,       ^ZRp|t RxRg0 B             
-OL,11,       ZRnG07RtR+"RG05R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" V *u  B          
-OL,14,B            ^ZV`  V*G 11V} B          
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 12V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG13VtV+"VG11V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 10V} B          
 OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 07R}zt B       
-OL,17,B              ZVj^VG 07R B       
-OL,18,B            ZVx|^G 12R'         
-OL,19,             ^ZV! +/'iUqp0        
-OL,20,B            ^ZV  tG 08U/!        
-OL,21,B            ZV zG13V^/s/U/? ECloudy   
-OL,22,            ZV8?' "'    "     E        
+OL,16,B            ^ZV'oG 11V}zt B       
+OL,17,B              ZVj^VG 08V B       
+OL,18,B            ZVx|^G 12V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 10V/!        
+OL,21,B            ZV zG13V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -156,7 +156,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -181,7 +181,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -207,7 +207,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -233,7 +233,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -258,7 +258,56 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
+OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
+OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
+OL,4,CNegotiators 'playing politics' amid
+OL,5,Cclimate crisis
+OL,6, UN negotiators meeting in Madrid have
+OL,7, been accused of "playing politics"
+OL,8, while the climate crisis grows.
+OL,10,FThe talks - now in their final week -
+OL,11,Fare bogged down in technical details as
+OL,12,Fkey countries seek to delay efforts to
+OL,13,Fincrease their pledges, observers say. 
+OL,15,FMinisters are due to arrive in the
+OL,16,FSpanish capital this week to try to
+OL,17,Fsecure an ambitious outcome.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40512
+SC,0012
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CNHS boss says parties 'ducked too many'
+OL,5,Cbig issues
+OL,6, Politicians have "ducked" the big
+OL,7, issues in health and social care during
+OL,8, the election, a leading NHS boss says.
+OL,10,FAt the start of the campaign, NHS
+OL,11,FProviders chief Chris Hopson urged
+OL,12,Fparties not to make "empty promises" or
+OL,13,Fcreate "unrealistic expectations".
+OL,15,FThere have since been manifesto pledges
+OL,16,Fof millions more in NHS funding and
+OL,17,Fextra staff from both main parties.
+OL,19,FBut Mr Hopson says they have not
+OL,20,Foffered "credible answers" to the NHS's
+OL,21,Fbiggest challenges.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40513
+SC,0013
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -280,61 +329,10 @@ OL,19,Ffire "horrific" and sent his
 OL,20,Fcondolences. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40512
-SC,0012
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBoy, 13, arrested over woman's stab
-OL,5,Cdeath
-OL,6, A 13-year-old boy and a 27-year-old man
-OL,7, have been arrested on suspicion of
-OL,8, murdering a woman who was stabbed in
-OL,9, the street.
-OL,11,FThe 25-year-old was attacked at 20:30
-OL,12,FGMT on Saturday in Wellingborough Road,
-OL,13,FRushden, Northamptonshire.
-OL,15,FParamedics were called but she died at
-OL,16,Fthe scene, near St George's Way.
-OL,18,FPolice said the arrested man has
-OL,19,Fserious injuries, and another
-OL,20,F27-year-old man was being questioned on
-OL,21,Fsuspicion of his attempted murder.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40513
-SC,0013
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUS rapper Juice Wrld dies aged 21
-OL,5, Juice Wrld, a US rapper who shot to
-OL,6, fame on music streaming platforms, has
-OL,7, died at the age of 21.
-OL,9,FCelebrity news website TMZ said he died
-OL,10,Fafter suffering a seizure at Chicago's
-OL,11,FMidway airport on Sunday morning. 
-OL,13,FThe Cook County Medical Examiner's
-OL,14,FOffice said the cause was unknown.
-OL,16,FJuice Wrld, real name Jarad Anthony
-OL,17,FHiggins, was best-known for his viral
-OL,18,F2018 hit Lucid Dreams. Mental health,
-OL,19,Fmortality and drug use were common
-OL,20,Fthemes in his music. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -360,7 +358,58 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CUS rapper Juice Wrld dies aged 21
+OL,5, Juice Wrld, a US rapper who shot to
+OL,6, fame on music streaming platforms, has
+OL,7, died at the age of 21.
+OL,9,FCelebrity news website TMZ said he died
+OL,10,Fafter suffering a seizure at Chicago's
+OL,11,FMidway airport on Sunday morning. 
+OL,13,FThe Cook County Medical Examiner's
+OL,14,FOffice said the cause was unknown.
+OL,16,FJuice Wrld, real name Jarad Anthony
+OL,17,FHiggins, was best-known for his viral
+OL,18,F2018 hit Lucid Dreams. Mental health,
+OL,19,Fmortality and drug use were common
+OL,20,Fthemes in his music. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40516
+SC,0016
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CBoy, 13, arrested over woman's stab
+OL,5,Cdeath
+OL,6, A 13-year-old boy and a 27-year-old man
+OL,7, have been arrested on suspicion of
+OL,8, murdering a woman who was stabbed in
+OL,9, the street.
+OL,11,FThe 25-year-old was attacked at 20:30
+OL,12,FGMT on Saturday in Wellingborough Road,
+OL,13,FRushden, Northamptonshire.
+OL,15,FParamedics were called but she died at
+OL,16,Fthe scene, near St George's Way.
+OL,18,FPolice said the arrested man has
+OL,19,Fserious injuries, and another
+OL,20,F27-year-old man was being questioned on
+OL,21,Fsuspicion of his attempted murder.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40517
+SC,0017
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -383,62 +432,10 @@ OL,20,Fraids ahead of the rally and that a
 OL,21,Fhandgun was seized.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40516
-SC,0016
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CWoman shocked over details on 'revenge
-OL,5,Cporn' site
-OL,6, A woman has told of her shock after
-OL,7, finding her personal details on a
-OL,8, website that detailed names of girls
-OL,9, men were planning to attack and rape.
-OL,11,FBecky, which is not her real name,
-OL,12,Ffound her details and location on a
-OL,13,Fso-called "revenge porn" forum.
-OL,15,FThe 22-year-old from Middlesbrough
-OL,16,Ffound words had been uploaded in a
-OL,17,Fcoded way to avoid search engines,
-OL,18,Falongside thousands of other women.
-OL,20,FThe site, which the BBC is not naming,
-OL,21,Fsaid it removed illegal content.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40517
-SC,0017
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CEx-Australia PM 'hushed up daughter's
-OL,5,Crape claim'
-OL,6, The daughter of former Australian PM
-OL,7, Bob Hawke has alleged she was raped in
-OL,8, the 1980s but he asked her to stay
-OL,9, silent to avoid harming his career.
-OL,11,FRosslyn Dillon's allegations are made
-OL,12,Fin court documents seen by Australian
-OL,13,Fsite the New Daily. 
-OL,15,FShe says she was raped by Bill
-OL,16,FLanderyou, an MP in Hawke's Labor
-OL,17,FParty. Both men are now dead.
-OL,19,FMs Dillon, 59, is currently pursuing an
-OL,20,FA$4m (#2m; $2.7m) claim on her father's
-OL,21,Festate.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -464,7 +461,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -490,58 +487,59 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CJohnson insists no NI-GB goods checks
-OL,5,Cafter Brexit
-OL,6, Boris Johnson has insisted there will
-OL,7, not be any checks for goods travelling
-OL,8, from Northern Ireland to Great Britain
-OL,9, under his Brexit deal.
-OL,11,FHe told Sky News that a leaked Treasury
-OL,12,Fanalysis document was "wrong" to
-OL,13,Fsuggest this would be the case.
-OL,15,FHis Brexit deal means there will be
-OL,16,Fgoods checks from GB to NI, but there
-OL,17,Fhas been confusion on whether there
-OL,18,Fwill be checks in the other direction.
-OL,20,FLabour said the PM's claims about his
-OL,21,Fdeal with the EU were "fraudulent".
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CWoman shocked over details on 'revenge
+OL,5,Cporn' site
+OL,6, A woman has told of her shock after
+OL,7, finding her personal details on a
+OL,8, website that detailed names of girls
+OL,9, men were planning to attack and rape.
+OL,11,FBecky, which is not her real name,
+OL,12,Ffound her details and location on a
+OL,13,Fso-called "revenge porn" forum.
+OL,15,FThe 22-year-old from Middlesbrough
+OL,16,Ffound words had been uploaded in a
+OL,17,Fcoded way to avoid search engines,
+OL,18,Falongside thousands of other women.
+OL,20,FThe site, which the BBC is not naming,
+OL,21,Fsaid it removed illegal content.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNorth Pole explorers complete epic trek
-OL,5, Two explorers who trekked hundreds of
-OL,6, miles at the North Pole and were
-OL,7, running out of food have reached safety
-OL,8, after an epic journey across the ice.
-OL,10,FSouth African Mike Horn and Norwegian
-OL,11,FBoerge Ousland covered about 1,800km
-OL,12,F(1,120 miles) on treacherous drifting
-OL,13,Fice in the past couple of months.
-OL,15,FBecause of delays, they had been
-OL,16,Fexpected to run out of food by Friday.
-OL,18,FHowever, they managed to meet up with
-OL,19,Ftwo Norwegians sent to rescue them
-OL,20,Fdespite a local storm.
+OL,4,CEx-Australia PM 'hushed up daughter's
+OL,5,Crape claim'
+OL,6, The daughter of former Australian PM
+OL,7, Bob Hawke has alleged she was raped in
+OL,8, the 1980s but he asked her to stay
+OL,9, silent to avoid harming his career.
+OL,11,FRosslyn Dillon's allegations are made
+OL,12,Fin court documents seen by Australian
+OL,13,Fsite the New Daily. 
+OL,15,FShe says she was raped by Bill
+OL,16,FLanderyou, an MP in Hawke's Labor
+OL,17,FParty. Both men are now dead.
+OL,19,FMs Dillon, 59, is currently pursuing an
+OL,20,FA$4m (#2m; $2.7m) claim on her father's
+OL,21,Festate.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -566,7 +564,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -592,7 +590,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -618,7 +616,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -643,7 +641,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -669,7 +667,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -695,7 +693,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -722,7 +720,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -746,7 +744,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -772,7 +770,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -797,7 +795,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C00:33:17
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C01:33:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
