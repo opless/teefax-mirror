@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -13,8 +13,8 @@ OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MLabour Budget to 'end austerity' inC104
 OL,6,Gfirst 100 days                         
-OL,8,GPeople 'unaccounted for' after NZ  C105
-OL,9,Gvolcano erupts                         
+OL,8,GNZ volcano kills one with number   C105
+OL,9,G'likely to rise'                       
 OL,10,GJohnson targets Labour Leave seats C106
 OL,11,Gin final push                          
 OL,12,GFlorida navy attack is presumed    C107
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -54,59 +54,65 @@ OL,14,C FTSE100    G7239.66 F+101.81Fat CLOSE
 OL,15,C techMARK100G5698.42 F+43.94 Fat CLOSE
 OL,16,C Dow Jones  G28015.06F+337.27Fat CLOSE
 OL,17,C Nasdaq     G8397.37 F+88.97 Fat CLOSE
-OL,18,C Nikkei     G23434.86F+80.46 Fat 04:30
+OL,18,C Nikkei     G23430.70F+76.30 Fat 05:20
 OL,19,C DJEurStoxx G3692.34 F+44.21 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MNeil Lennon's side win fourth      G303
-OL,6,FWho was your Old Firm League Cup   G304
-OL,7,FJamie Vardy scores two as          G305
-OL,8,FFederico Fernandez scores late     G306
-OL,9,FBlades fightback leaves Canaries   G307
-OL,10,FChelsea fight back to beat         G308
-OL,12,FPogba, James, Bale, Sancho, Vidal, G309
+OL,4,M'Man City might not be able to     G303
+OL,6,FNeil Lennon hails 'amazing' 10-man G304
+OL,7,FSteven Gerrard says 'big moments'  G305
+OL,8,FBrendan Rodgers 'happy' for        G306
+OL,9,FDe Gea, Lindelof, Baldock, Son,    G307
+OL,10,FJoaquin hits hat-trick aged 38     G308
+OL,12,FJurgen Klopp 'never doubted'       G309
+OL,13,FNeil Lennon's side win fourth      G310
+OL,14,FJamie Vardy scores two as          G311
+OL,15,FEverton investigating reports of   G312
+OL,17,FChelsea beat Manchester City,      G313
+OL,18,FStoke striker thanks fans and      G314
+OL,19,FPedro, Smalling, Haaland, Arteta,  G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G          Monday Evening             
+OL,1,T]G              Monday                 
 OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G04R%  B               
+OL,3,           ZR`?0~G05R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G01V!FCloudy         
+OL,6,            ZV!'~G05V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,BRain      ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 03V} B              
-OL,10,       ^ZRp|t VxVg0 B             
-OL,11,       ZRnG05RtV+"VG00V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZV`  V*G 01V} B          
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 03V}zt B       
-OL,17,B              ZVj^VG 00V B       
-OL,18,B            ZVx|^G 03V'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 03V/!        
-OL,21,B            ZV zG05V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 05V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG07VtV+"VG05V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 06V} B          
+OL,15,B            ^ZVk|U            
+OL,16,B            ^ZV'oG 07V}zt ERain   
+OL,17,B              ZVj^UG 07V  E      
+OL,18,B            ZVx|^G 09V'         
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 08R/!        
+OL,21,B            ZV zG10V^/s/R/? BCloudy   
+OL,22,            ZV8?' "'    "     B        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tuesday                 
@@ -117,9 +123,9 @@ OL,5,           ^ZV({5
 OL,6,            ZV!'~G11V!FRain           
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 12V} B              
-OL,10,       ^ZVp|t VxRg0 BCloudy       
-OL,11,       ZVnG13VtV+"RG11R  B            
+OL,9,           ^ZVj)"G 13V} B              
+OL,10,       ^ZVp|t VxRg0 B             
+OL,11,       ZVnG13VtV+"RG11R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZV`  V*G 10V} B          
@@ -127,15 +133,15 @@ OL,15,B            ^ZVk|V
 OL,16,B            ^ZV'oG 11V}zt B       
 OL,17,B              ZVj^VG 08V B       
 OL,18,B            ZVx|^G 12V'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 10V/!        
-OL,21,B            ZV zG13V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 10R/!        
+OL,21,B            ZV zG13V^/s/R/? BCloudy   
+OL,22,            ZV8?' "'    "     B        
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -156,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -164,7 +170,7 @@ OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
 OL,6,E```````````````````````````````````````
 OL,4,MUS rapper Juice Wrld dies aged 21  C502
-OL,7,GEx-EastEnder Jacqueline Jossa wins C503
+OL,7,GI'm A Celebrity winner revealed    C503
 OL,8,GSesame Street puppeteer Caroll SpinC504
 OL,9,GHow a 'cheeky but charming' tiger mC505
 OL,10,GHMV faces the music in Christmas crC506
@@ -181,7 +187,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -207,33 +213,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CPeople 'unaccounted for' after NZ
-OL,5,Cvolcano erupts
-OL,6, A volcano has erupted in New Zealand
-OL,7, with about 50 people in the vicinity -
-OL,8, leaving "a number of them" unaccounted
-OL,9, for, police said.
-OL,11,FTourists were seen walking inside the
-OL,12,Frim of the White Island crater just
-OL,13,Fmoments before the eruption.
-OL,15,FPolice said at least one of those
-OL,16,Fevacuated from the island volcano was
-OL,17,Fcritically injured.
-OL,19,FWhite Island, or Whakaari, is off the
-OL,20,Fcoast of North Island - and is one of
-OL,21,Fthe country's most active volcanoes.  
+OL,4,CNZ volcano kills one with number
+OL,5,C'likely to rise'
+OL,6, A volcano has erupted in New Zealand,
+OL,7, leaving one dead and several
+OL,8, unaccounted for, police have said.
+OL,10,FTourists were seen walking inside the
+OL,11,Frim of the White Island crater just
+OL,12,Fmoments before the eruption.
+OL,14,FPolice said 23 people had been rescued
+OL,15,Fbut warned that the number of dead
+OL,16,Fmight rise.
+OL,18,FWhite Island, also known as Whakaari,
+OL,19,Fis off the coast of North Island - and
+OL,20,Fis one of New Zealand's most active
+OL,21,Fvolcanoes.  
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -243,9 +249,9 @@ OL,4,CJohnson targets Labour Leave seats in
 OL,5,Cfinal push
 OL,6, Boris Johnson will visit four
 OL,7, Brexit-voting Labour-held seats in
-OL,8, Humber and north-east England later,
-OL,9, with three days to go before polling
-OL,10, day.
+OL,8, Humberside and north-east England
+OL,9, later, with three days to go before
+OL,10, polling day.
 OL,12,FIn a speech in Sunderland - 61% of
 OL,13,Fwhich voted to Leave - the PM is
 OL,14,Fexpected to tell voters: "The Labour
@@ -258,7 +264,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -275,16 +281,16 @@ OL,12,Fsailors before he was shot dead.
 OL,14,FSpecial agent Rachel Rojas said the FBI
 OL,15,Fwas trying to determine if he had acted
 OL,16,Falone or had connections to a group. 
-OL,18,FShe said other Saudi students had had
-OL,19,Fbeen questioned but not arrested. They
-OL,20,Fwere reportedly confined to the base
-OL,21,Fand co-operating with investigators. 
+OL,18,FShe said other Saudi students had been
+OL,19,Fquestioned but not arrested. They were
+OL,20,Freportedly confined to the base and
+OL,21,Fco-operating with investigators. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -310,7 +316,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -333,7 +339,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -359,7 +365,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -384,7 +390,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -410,7 +416,58 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CFinnish minister, 34, to be world's
+OL,5,Cyoungest PM
+OL,6, Sanna Marin, aged 34, will become the
+OL,7, world's youngest prime minister as head
+OL,8, of a women-led coalition government in
+OL,9, Finland.
+OL,11,FThe transportation minister was picked
+OL,12,Fby her Social Democratic party to take
+OL,13,Fcharge after PM Antti Rinne quit. She
+OL,14,Fis expected to be sworn in this week.
+OL,16,FShe will lead a centre-left coalition
+OL,17,Fof five parties all headed by women.
+OL,19,FMr Rinne stepped down after losing the
+OL,20,Fconfidence of a coalition member over
+OL,21,Fhis handling of a postal strike. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40518
+SC,0018
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CI'm A Celebrity winner revealed
+OL,5, Former EastEnders star Jacqueline Jossa
+OL,6, has won I'm A Celebrity... Get Me Out
+OL,7, of Here! after spending three weeks in
+OL,8, the Australian jungle.
+OL,10,FThe actress was named queen of the
+OL,11,Fjungle, following in the footsteps of
+OL,12,Fprevious winners like Harry Redknapp,
+OL,13,FStacey Solomon and Kerry Katona.
+OL,15,FCo-presenters Ant McPartlin and Declan
+OL,16,FDonnelly revealed the winner at the end
+OL,17,Fof the final of the ITV reality show.
+OL,19,FActor Andy Whyment was the runner-up,
+OL,20,Fwith radio DJ Roman Kemp in third.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -432,62 +489,10 @@ OL,19,Ffire "horrific" and sent his
 OL,20,Fcondolences. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40518
-SC,0018
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CEx-EastEnder Jacqueline Jossa wins I'm
-OL,5,CA Celebrity
-OL,6, Former EastEnders star Jacqueline Jossa
-OL,7, has won I'm A Celebrity... Get Me Out
-OL,8, of Here! after spending three weeks in
-OL,9, the Australian jungle.
-OL,11,FThe actress was named queen of the
-OL,12,Fjungle, following in the footsteps of
-OL,13,Fprevious winners like Harry Redknapp,
-OL,14,FStacey Solomon and Kerry Katona.
-OL,16,FCo-presenters Ant McPartlin and Declan
-OL,17,FDonnelly revealed the winner at the end
-OL,18,Fof the final of the ITV reality show.
-OL,20,FActor Andy Whyment was the runner-up,
-OL,21,Fwith radio DJ Roman Kemp in third.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40519
-SC,0019
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSaudi Arabia ends restaurant
-OL,5,Csegregation
-OL,6, Saudi Arabia will no longer require
-OL,7, restaurants to have separate entrances
-OL,8, segregated by sex, the government says.
-OL,10,FPreviously, it was mandatory to have
-OL,11,Fone entrance for families and women,
-OL,12,Fand another for men on their own.
-OL,14,FThe restrictions had already been
-OL,15,Fquietly eased in practice, with many
-OL,16,Frestaurants, cafes and other meeting
-OL,17,Fplaces no longer enforcing segregation.
-OL,19,FA series of sweeping social reforms in
-OL,20,FSaudi Arabia has been accompanied by an
-OL,21,Fintensified crackdown on dissent.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -513,33 +518,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CRussia awaits potential ban from global
-OL,5,Csport
-OL,6, Russia could face an unprecedented
-OL,7, four-year ban from major international
-OL,8, sporting events over accusations that
-OL,9, it manipulated laboratory doping data.
-OL,11,FThe decision will be made later at a
-OL,12,Fmeeting of the World Anti-Doping Agency
-OL,13,F(Wada) in Lausanne, Switzerland. 
-OL,15,FRussia could be banned from the 2020
-OL,16,FTokyo Olympics and 2022 Beijing Winter
-OL,17,FOlympics. It could also be ruled out of
-OL,18,Fthe 2022 Football World Cup in Qatar.
-OL,20,FThe country's sports minister refused
-OL,21,Fto comment ahead of the ruling. 
+OL,4,CSaudi Arabia ends restaurant
+OL,5,Csegregation
+OL,6, Saudi Arabia will no longer require
+OL,7, restaurants to have separate entrances
+OL,8, segregated by sex, the government says.
+OL,10,FPreviously, it was mandatory to have
+OL,11,Fone entrance for families and women,
+OL,12,Fand another for men on their own.
+OL,14,FThe restrictions had already been
+OL,15,Fquietly eased in practice, with many
+OL,16,Frestaurants, cafes and other meeting
+OL,17,Fplaces no longer enforcing segregation.
+OL,19,FA series of sweeping social reforms in
+OL,20,FSaudi Arabia has been accompanied by an
+OL,21,Fintensified crackdown on dissent.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -564,33 +569,32 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
-OL,4,CEx-EastEnder Jacqueline Jossa wins I'm
-OL,5,CA Celebrity
-OL,6, Former EastEnders star Jacqueline Jossa
-OL,7, has won I'm A Celebrity... Get Me Out
-OL,8, of Here! after spending three weeks in
-OL,9, the Australian jungle.
-OL,11,FThe actress was named queen of the
-OL,12,Fjungle, following in the footsteps of
-OL,13,Fprevious winners like Harry Redknapp,
-OL,14,FStacey Solomon and Kerry Katona.
-OL,16,FCo-presenters Ant McPartlin and Declan
-OL,17,FDonnelly revealed the winner at the end
-OL,18,Fof the final of the ITV reality show.
-OL,20,FActor Andy Whyment was the runner-up,
-OL,21,Fwith radio DJ Roman Kemp in third.
+OL,4,CI'm A Celebrity winner revealed
+OL,5, Former EastEnders star Jacqueline Jossa
+OL,6, has won I'm A Celebrity... Get Me Out
+OL,7, of Here! after spending three weeks in
+OL,8, the Australian jungle.
+OL,10,FThe actress was named queen of the
+OL,11,Fjungle, following in the footsteps of
+OL,12,Fprevious winners like Harry Redknapp,
+OL,13,FStacey Solomon and Kerry Katona.
+OL,15,FCo-presenters Ant McPartlin and Declan
+OL,16,FDonnelly revealed the winner at the end
+OL,17,Fof the final of the ITV reality show.
+OL,19,FActor Andy Whyment was the runner-up,
+OL,20,Fwith radio DJ Roman Kemp in third.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -616,7 +620,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -641,7 +645,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -667,7 +671,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -693,7 +697,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -720,7 +724,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -744,7 +748,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -770,7 +774,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -795,7 +799,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C05:33:05
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C06:34:44
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
