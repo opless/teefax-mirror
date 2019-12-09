@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -13,8 +13,8 @@ OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
 OL,4,MLabour Budget to 'end austerity' inC104
 OL,6,Gfirst 100 days                         
-OL,8,GEruption on New Zealand volcano    C105
-OL,9,Gkills at least five                    
+OL,8,GNew Zealand volcano eruption kills C105
+OL,9,Gat least five                          
 OL,10,GBoy, 13, released over woman's stabC106
 OL,11,Gdeath                                  
 OL,12,GFlorida navy attack is presumed    C107
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -49,17 +49,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 07:30GWinnersF33GLosersA67
-OL,14,C FTSE100    G7224.23 A-15.43 Fat 07:30
-OL,15,C techMARK100G5693.59 A-4.83  Fat 07:30
+OL,12,  FTSE100Fat 08:30GWinnersF39GLosersA62
+OL,14,C FTSE100    G7221.04 A-18.62 Fat 08:30
+OL,15,C techMARK100G5674.24 A-24.18 Fat 08:30
 OL,16,C Dow Jones  G28015.06F+337.27Fat CLOSE
 OL,17,C Nasdaq     G8397.37 F+88.97 Fat CLOSE
-OL,18,C Nikkei     G23430.70F+76.30 Fat 07:32
-OL,19,C DJEurStoxx G3682.43 A-9.91  Fat 07:30
+OL,18,C Nikkei     G23430.70F+7,629.Fat 07:45
+OL,19,C DJEurStoxx G3680.80 A-11.54 Fat 08:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,36 +83,36 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G04U%  ECloudy         
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G04R%  BCloudy         
+OL,4,           RZj**gppp  B              
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G04V!FRain           
+OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BSunny         
-OL,9,           ^ZRj)"G 05R}  B             
-OL,10,       ^ZRp|t RxRg0 B             
-OL,11,       ZRnG07RtR+"RG05R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 06R} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 07R}zt B       
-OL,17,B              ZRj^VG 07R B       
-OL,18,B            ZRx|^G 09R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 09R/!        
-OL,21,B            ZR zG10R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 05V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG07VtV+"VG05V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZV`  V*G 06V} B          
+OL,15,B            ^ZVk|U            
+OL,16,B            ^ZV'oG 07V}zt ERain   
+OL,17,B              ZVj^UG 07V  E      
+OL,18,B            ZVx|^G 09V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 09V/!        
+OL,21,B            ZV zG10V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -120,28 +120,28 @@ OL,2,           ^ZV 4`~|}            G 2/2
 OL,3,           ZV`?0~G11V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G10V!FRain           
+OL,6,            ZV!'~G11V!FRain           
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 12V} B              
-OL,10,       ^ZVp|t VxRg0 BCloudy       
-OL,11,       ZVnG13VtV+"RG11R  B            
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG13VtV+"VG11V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
 OL,14,B            ^ZV`  V*G 10V} B          
-OL,15,B            ^ZVk|R            
+OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 11V}zt B       
-OL,17,B              ZVj^RG 08V B       
+OL,17,B              ZVj^VG 08V B       
 OL,18,B            ZVx|^G 12V'         
 OL,19,             ^ZV! +/'iRqp0        
 OL,20,B            ^ZV  tG 10R/!        
-OL,21,B            ZV zG13V^/s/R/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,21,B            ZV zG13V^/s/R/? BCloudy   
+OL,22,            ZV8?' "'    "     B        
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -187,7 +187,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -213,24 +213,24 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CEruption on New Zealand volcano kills
-OL,5,Cat least five
+OL,4,CNew Zealand volcano eruption kills at
+OL,5,Cleast five
 OL,6, A volcano has erupted in New Zealand,
 OL,7, leaving five dead and several
 OL,8, unaccounted for, police have said.
 OL,10,FTourists were seen walking inside the
-OL,11,Frim of the White Island crater just
+OL,11,Fcrater of White Island volcano just
 OL,12,Fmoments before the eruption.
 OL,14,FPolice said 23 people had been rescued,
 OL,15,Fbut warned conditions were hampering
-OL,16,Frescue efforts. The New Zealand
-OL,17,Fmilitary is now helping police.
+OL,16,Fthe operation. The New Zealand military
+OL,17,Fis now helping police.
 OL,19,FWhite Island, also known as Whakaari,
 OL,20,Fis one of the country's most active
 OL,21,Fvolcanoes.  
@@ -239,7 +239,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -250,7 +250,7 @@ OL,5,Cdeath
 OL,6, A 13-year-old boy arrested on suspicion
 OL,7, of murder after a woman was stabbed in
 OL,8, the street has been released with no
-OL,9, further action. 
+OL,9, further action to be taken against him.
 OL,11,FThe victim, 25, was attacked at 20:30
 OL,12,FGMT on Saturday in Wellingborough Road,
 OL,13,FNorthamptonshire and died at the scene.
@@ -265,7 +265,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +291,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -317,7 +317,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -340,7 +340,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -366,7 +366,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -391,7 +391,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -417,7 +417,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -425,16 +425,16 @@ OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
 OL,4,CFinnish minister, 34, to be world's
 OL,5,Cyoungest PM
-OL,6, Sanna Marin, aged 34, will become the
-OL,7, world's youngest prime minister as head
-OL,8, of a women-led coalition government in
-OL,9, Finland.
+OL,6, Sanna Marin is to become the world's
+OL,7, youngest prime minister at the age of
+OL,8, 34 - and will head a women-led
+OL,9, coalition government in Finland.
 OL,11,FThe transportation minister was picked
 OL,12,Fby her Social Democratic party to take
 OL,13,Fcharge after PM Antti Rinne quit. She
 OL,14,Fis expected to be sworn in this week.
 OL,16,FShe will lead a centre-left coalition
-OL,17,Fof five parties all headed by women.
+OL,17,Fof five parties, all headed by women.
 OL,19,FMr Rinne stepped down after losing the
 OL,20,Fconfidence of a coalition member over
 OL,21,Fhis handling of a postal strike. 
@@ -443,7 +443,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -469,7 +469,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -494,7 +494,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -520,7 +520,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -546,7 +546,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -572,7 +572,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -597,7 +597,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -622,7 +622,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -648,7 +648,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -673,7 +673,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -699,7 +699,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -726,7 +726,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -750,7 +750,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -776,7 +776,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -801,7 +801,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C08:33:27
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C09:33:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
