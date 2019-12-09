@@ -5,25 +5,25 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C14:35:08
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C15:33:26
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BAny early morning  S5CSTATISTICS       
-OL,9,Bshowers soon dying S5C 
-OL,10,Bout to give a cold,S5G   Maximum       
-OL,11,Bbut dry and sunny  S5GTemperatureC7C 
-OL,12,Bmorning. Brisk     S5G                 
-OL,13,Bnorthwest winds    S5G   Minumum       
-OL,14,Beasing. Cloud      S5GTemperatureC3C 
-OL,15,Bincreases in the   S5C                 
-OL,16,Bafternoon with     S5G
-OL,17,Bfreshening         S5G
-OL,18,Bsouthwest winds,   S5G                 
-OL,19,Bbut it will remain S5G
-OL,20,Bdry.               S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BA dry but cloudy   S5CSTATISTICS       
+OL,9,Bevening. Outbreaks S5C 
+OL,10,Bof rain spread eastS5G   Maximum       
+OL,11,Bovernight, turning S5GTemperatureC13C 
+OL,12,Bheavy at times     S5G                 
+OL,13,Blater in the night.S5G   Minumum       
+OL,14,BSouthwest winds    S5GTemperatureC3C 
+OL,15,Bcontinuing to      S5C                 
+OL,16,Bstrengthen with    S5G
+OL,17,Bgales along the    S5G
+OL,18,Beast coast.        S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
 OL,23,D]GNATIONALC Main menuG100CWeatherG 400 
@@ -32,23 +32,23 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C14:35:08
+OL,0,XXXXXXXXBNMPSERVER2      E09/12C15:33:26
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BA dry but cloudy   S5CSTATISTICS       
-OL,9,Bevening. Outbreaks S5C 
-OL,10,Bof rain spread eastS5G   Maximum       
-OL,11,Bovernight, turning S5GTemperatureC7C 
-OL,12,Bheavy at times     S5G                 
-OL,13,Blater in the night.S5G   Minumum       
-OL,14,BSouthwest winds    S5GTemperatureC3C 
-OL,15,Bcontinuing to      S5C                 
-OL,16,Bstrengthen with    S5G
-OL,17,Bgales around the   S5G
-OL,18,Bcoasts.            S5G                 
+OL,6,CTUESDAY
+OL,8,BOutbreaks of rain, S5CSTATISTICS       
+OL,9,Bheavy at times, forS5C 
+OL,10,Bmuch of the day,   S5G   Maximum       
+OL,11,Bclearing to showersS5GTemperatureC13C 
+OL,12,Bshortly before     S5G                 
+OL,13,Bdusk. Strong       S5G   Minumum       
+OL,14,Bsouthwest winds    S5GTemperatureC3C 
+OL,15,Bwith coastal gales.S5C                 
+OL,16,B                   S5G
+OL,17,B                   S5G
+OL,18,B                   S5G                 
 OL,19,B                   S5G
 OL,20,B                   S5G
 OL,21,                                    2/2 
