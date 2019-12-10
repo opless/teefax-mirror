@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7233.90 A-5.76  Fat CLOSE
 OL,15,C techMARK100G5692.89 A-5.53  Fat CLOSE
 OL,16,C Dow Jones  G27909.60A-105.46Fat CLOSE
 OL,17,C Nasdaq     G8362.74 A-34.62 Fat CLOSE
-OL,18,C Nikkei     G23430.70F+7,629.Fat 07:45
-OL,19,C DJEurStoxx G3672.18 A-20.16 Fat 16:10
+OL,18,C Nikkei     G23372.69A-58.01 Fat 23:25
+OL,19,C DJEurStoxx G3672.18 A-20.16 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,65 +84,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G           This Evening              
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G05V%  B               
-OL,4,           VZj**gppp B               
-OL,5,           ^ZV({5                
-OL,6,            ZV!'~G01V!FRain           
-OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
-OL,9,           ^ZRj)"G 02R}  B             
-OL,10,       ^ZVp|t RxRg0 B             
-OL,11,       ZVnG04VtR+"RG01R B             
+OL,1,T]G         Tuesday Evening             
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G03R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZU({5                
+OL,6,            ZU!'~G03U!EClear          
+OL,7,           ^ZU ~ow1  E              
+OL,8,B          ^ZV*y?sp  FCloudy        
+OL,9,           ^ZVj)"G 02V}  F             
+OL,10,       ^ZVp|t VxRg0 BRain         
+OL,11,       ZVnG04VtV+"RG03R  B            
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 01R} B          
+OL,14,B            ^ZR`  R*G 03R} B          
 OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 02R}zt B       
-OL,17,B              ZRj^RG 00R B       
-OL,18,B            ZRx|^G 01R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 03R/!        
-OL,21,B            ZR zG04R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,16,B            ^ZR'oG 03R}zt B       
+OL,17,B              ZRj^RG 02R B       
+OL,18,B            ZRx|^G 05R'         
+OL,19,             ^ZR! +/'iVqp0        
+OL,20,B            ^ZV  tG 03V/!        
+OL,21,B            ZV zG06V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G             Tomorrow                
-OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G11V%  B               
-OL,4,           VZj**gppp B               
+OL,1,T]G            Wednesday                
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G05R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G11V!FRain           
+OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 12V} B              
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG13VtV+"RG11R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
-OL,14,B            ^ZV`  V*G 10V} B          
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 11V}zt B       
-OL,17,B              ZVj^VG 09V B       
-OL,18,B            ZVx|^G 12V'         
-OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 10R/!        
-OL,21,B            ZV zG13V^/s/R/? BCloudy   
-OL,22,            ZV8?' "'    "     B        
+OL,8,B          ^ZR*y?sp  BRain          
+OL,9,           ^ZRj)"G 12R}  B             
+OL,10,       ^ZUp|t RxUg0 B             
+OL,11,       ZUnG05UtR+"UG05U B             
+OL,12,       ZU+U`4U+|0             
+OL,13,        ZU+%*o!U" U *u  ECloudy    
+OL,14,B            ^ZR`  U*G 06U}  E         
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 05U}zt B       
+OL,17,B              ZRj^VG 06U B       
+OL,18,B            ZRx|^G 07U'         
+OL,19,             ^ZR! +/'iUqp0        
+OL,20,B            ^ZR  tG 10U/!        
+OL,21,B            ZR zG08R^/s/U/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -178,16 +178,17 @@ OL,10,GFestive Banksy artwork highlights hC506
 OL,12,GUS rapper Juice Wrld dies aged 21  C507
 OL,13,GWhy James McAvoy's Bergerac ditchesC508
 OL,14,GLadBaby takes aim at second ChristmC509
-OL,15,GArtist Howson returns to 'hell' of C510
-OL,17,GHow a 'cheeky but charming' tiger mC511
-OL,18,GStar Wars: The workforce behind a tC512
-OL,19,GThe 18th Century war which started C513
+OL,15,GA tale of two Fab Morettis         C510
+OL,17,GArtist Howson returns to 'hell' of C511
+OL,18,GHow a 'cheeky but charming' tiger mC512
+OL,19,GStar Wars: The workforce behind a tC513
+OL,20,GThe 18th Century war which started C514
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -213,7 +214,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -239,7 +240,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -264,7 +265,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -277,19 +278,20 @@ OL,7, implement a "full and comprehensive"
 OL,8, ceasefire in eastern Ukraine by the end
 OL,9, of 2019, after top-level talks.
 OL,11,FRussian President Vladimir Putin and
-OL,12,Fhis Ukrainian counterpart Volodymyr
-OL,13,FZelensky met face to face in Paris on
-OL,14,FMonday.
-OL,16,FFive-and-a-half years of fighting
-OL,17,Fbetween government forces and
-OL,18,FRussian-backed rebels have cost 13,000
-OL,19,Flives.
+OL,12,FUkraine's Volodymyr Zelensky met face
+OL,13,Fto face in Paris on Monday.
+OL,15,FFive-and-a-half years of fighting
+OL,16,Fbetween Ukrainian government forces and
+OL,17,FRussian-backed rebels have cost 13,000
+OL,18,Flives.
+OL,20,FThe negotiations were brokered by the
+OL,21,Fleaders of France and Germany.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -315,7 +317,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -341,7 +343,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -367,7 +369,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -393,7 +395,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -419,7 +421,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -445,7 +447,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -471,7 +473,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -497,7 +499,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -523,7 +525,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -549,7 +551,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -575,7 +577,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -601,7 +603,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -626,7 +628,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -652,7 +654,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -663,22 +665,22 @@ OL,5,Chomelessness
 OL,6, Elusive artist Banksy has created new
 OL,7, artwork in Birmingham, a festive-themed
 OL,8, piece highlighting homelessness.
-OL,10,FHe highlighted it in a film posted on
-OL,11,FInstagram which shows a man named Ryan
+OL,10,FThe artwork features in a film on
+OL,11,FInstagram that shows a man named Ryan
 OL,12,Fon a bench being "pulled" by two
 OL,13,Freindeer painted on a brick wall in the
 OL,14,Fcity's Jewellery Quarter.
 OL,16,FIt has been viewed over 1m times since
 OL,17,Fit was posted earlier.
-OL,19,FBanksy also praised the generosity of
-OL,20,Fpeople who gave Ryan food and drink
-OL,21,Fwhile they filmed.
+OL,19,FHours later though, the work was
+OL,20,Fdefaced by a vandal who sprayed red
+OL,21,Fnoses on the reindeer.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -703,7 +705,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -725,7 +727,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -751,7 +753,31 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CA tale of two Fab Morettis
+OL,5, The name Fabrizio Moretti will ring a
+OL,6, bell with music fans of a rock 'n' roll
+OL,7, persuasion.
+OL,9,FSo too though, it turns out, with those
+OL,10,Fwho have an interest in Renaissance
+OL,11,Fart.
+OL,13,FIn one of the more intriguing career
+OL,14,Fmoves of recent times, the 39-year-old
+OL,15,Fdrummer from The Strokes has teamed up
+OL,16,Fwith his Italian art dealer namesake,
+OL,17,F45, to put a fresh spin on some classic
+OL,18,Fpaintings and sculptures.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40531
+SC,0031
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -771,10 +797,10 @@ OL,15,F- to come to terms with what he
 OL,16,Fexperienced as a war artist.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40531
-SC,0031
+PN,40532
+SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C00:35:00
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -794,32 +820,5 @@ OL,16,FFortunately, the day takes an
 OL,17,Finteresting turn when a hungry tiger
 OL,18,Fturns up at the door and asks if he can
 OL,19,Fjoin Sophie and her mother for tea. 
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40532
-SC,0032
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E09/12C23:33:52
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CStar Wars: The workforce behind a toy
-OL,5,Cempire
-OL,6, Star Wars: The Rise of Skywalker,
-OL,7, released on 19 December, is sure to set
-OL,8, tills ringing just as loudly in toy
-OL,9, shops as in cinemas. But the
-OL,10, decades-spanning success of Star Wars
-OL,11, toys owes much to the early hard work
-OL,12, and vision of a group of British
-OL,13, workers.
-OL,15,FIn 1977, Star Wars was still little
-OL,16,Fmore than a rumour. The first film in
-OL,17,Fthe franchise would not get its UK
-OL,18,Fpremiere until 27 December, seven
-OL,19,Fmonths after it opened in the United
-OL,20,FStates.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
