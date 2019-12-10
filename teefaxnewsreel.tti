@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -19,12 +19,12 @@ OL,10,GParties focus on key messages as   C106
 OL,11,Gpoll day nears                         
 OL,12,GAntarctica-bound plane missing withC107
 OL,13,G38 on board                            
-OL,14,GLGBT Falklands veteran to have     C108
-OL,15,Gmedal returned                         
+OL,14,GMan held over suspected terror     C108
+OL,15,Goffences                               
 OL,16,GGunman on run after deadly Czech   C109
 OL,17,Ghospital shooting                      
-OL,18,GTwo British women injured in New   C110
-OL,19,GZealand eruption                       
+OL,18,GThomas Cook customers get apology  C110
+OL,19,Gfor refund delay                       
 OL,20,GUkraine and Russia agree to        C111
 OL,21,Gimplement ceasefire                    
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 07:30GWinnersF27GLosersA74
-OL,14,C FTSE100    G7207.15 A-26.75 Fat 07:30
-OL,15,C techMARK100G5692.27 A-0.62  Fat 07:30
+OL,12,  FTSE100Fat 08:30GWinnersF3GLosersA98
+OL,14,C FTSE100    G7155.21 A-78.69 Fat 08:30
+OL,15,C techMARK100G5644.87 A-48.02 Fat 08:30
 OL,16,C Dow Jones  G27909.60A-105.46Fat CLOSE
 OL,17,C Nasdaq     G8362.74 A-34.62 Fat CLOSE
-OL,18,C Nikkei     G23410.19A-20.51 Fat 07:29
-OL,19,C DJEurStoxx G3657.69 A-14.49 Fat 07:30
+OL,18,C Nikkei     G23410.19A-2,050.Fat 07:45
+OL,19,C DJEurStoxx G3636.07 A-36.11 Fat 08:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,7 +84,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -96,8 +96,8 @@ OL,6,            ZV!'~G10V!FRain
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 12V} B              
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG13VtV+"RG12R B             
+OL,10,       ^ZVp|t VxRg0 BCloudy       
+OL,11,       ZVnG13VtV+"RG12R  B            
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZV`  V*G 10V} B          
@@ -105,15 +105,15 @@ OL,15,B            ^ZVk|V
 OL,16,B            ^ZV'oG 11V}zt B       
 OL,17,B              ZVj^VG 08V B       
 OL,18,B            ZVx|^G 12V'         
-OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 10R/!        
-OL,21,B            ZV zG13V^/s/R/? BCloudy   
-OL,22,            ZV8?' "'    "     B        
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 10V/!        
+OL,21,B            ZV zG13V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -124,25 +124,25 @@ OL,5,           ^ZV({5
 OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZR*y?sp  BRain          
-OL,9,           ^ZRj)"G 05R}  B             
+OL,9,           ^ZRj)"G 04R}  B             
 OL,10,       ^ZUp|t RxUg0 B             
-OL,11,       ZUnG05UtR+"UG05U B             
+OL,11,       ZUnG04UtR+"UG05U B             
 OL,12,       ZU+U`4U+|0             
-OL,13,        ZU+%*o!U" V *u  B          
-OL,14,B            ^ZR`  V*G 06V} B          
+OL,13,        ZU+%*o!U" U *u  ECloudy    
+OL,14,B            ^ZR`  U*G 05U}  E         
 OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 06R}zt B       
+OL,16,B            ^ZR'oG 05R}zt B       
 OL,17,B              ZRj^VG 06R B       
 OL,18,B            ZRx|^G 07R'         
 OL,19,             ^ZR! +/'iUqp0        
 OL,20,B            ^ZR  tG 08U/!        
-OL,21,B            ZR zG09R^/s/U/? ECloudy   
-OL,22,            ZR8?' "'    "     E        
+OL,21,B            ZR zG09R^/s/U/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,32 +163,32 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
 OL,6,E```````````````````````````````````````
-OL,4,MBritish stars nominated for Golden C502
-OL,7,GA tale of two Fab Morettis         C503
-OL,8,GJohnson 'could look at' abolishing C504
-OL,9,GGlenda Jackson 'shines' on TV returC505
-OL,10,GBioShock returns for more gene-enhaC506
-OL,12,GFestive Banksy artwork highlights hC507
-OL,13,GUS rapper Juice Wrld dies aged 21  C508
-OL,14,GWhy James McAvoy's Bergerac ditchesC509
-OL,15,GLadBaby takes aim at second ChristmC510
-OL,17,GGolden Globes criticised for all-maC511
-OL,18,GArtist Howson returns to 'hell' of C512
-OL,19,GHow a 'cheeky but charming' tiger mC513
-OL,20,GStar Wars: The workforce behind a tC514
+OL,4,MDrugs and guns found on Juice Wrld'C502
+OL,7,GBritish stars nominated for Golden C503
+OL,8,GA tale of two Fab Morettis         C504
+OL,9,GJohnson 'could look at' abolishing C505
+OL,10,GGlenda Jackson 'shines' on TV returC506
+OL,12,GBioShock returns for more gene-enhaC507
+OL,13,GFestive Banksy artwork highlights hC508
+OL,14,GUS rapper Juice Wrld dies aged 21  C509
+OL,15,GWhy James McAvoy's Bergerac ditchesC510
+OL,17,GLadBaby takes aim at second ChristmC511
+OL,18,GGolden Globes criticised for all-maC512
+OL,19,GArtist Howson returns to 'hell' of C513
+OL,20,GHow a 'cheeky but charming' tiger mC514
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -214,7 +214,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -240,7 +240,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -255,18 +255,18 @@ OL,9, the election enters its final stretch.
 OL,11,FWith two days to go, Labour is pledging
 OL,12,Fa "relentless focus" on the health
 OL,13,Fservice if it wins power.
-OL,15,FPrime Minister Boris Johnson will try
-OL,16,Fto keep the focus on Brexit and the
-OL,17,F"danger" of another hung Parliament. 
-OL,19,FIn a speech later, he will pledge that
-OL,20,Fthe Tories would "smash through the
-OL,21,Fgridlock" if given a majority. 
+OL,15,FBoris Johnson will try to keep the
+OL,16,Ffocus on Brexit and the "danger" of
+OL,17,Fanother inconclusive result.
+OL,19,FIn a speech later, the PM will pledge
+OL,20,Fthat the Tories would "smash through
+OL,21,Fthe gridlock" if given a majority. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -292,33 +292,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLGBT Falklands veteran to have medal
-OL,5,Creturned
-OL,6, A Falklands veteran forced out of the
-OL,7, Royal Navy over his sexuality will have
-OL,8, a military honour returned.
-OL,10,FJoe Ousalice, 68, served as a radio
-OL,11,Foperator for 18 years but was
-OL,12,Fdischarged in 1993 because of a ban of
-OL,13,FLGBT people in the armed forces. 
-OL,15,FHe completed six tours of duty in
-OL,16,FNorthern Ireland and was seconded to a
-OL,17,FNato task force.
-OL,19,FThe Ministry of Defence (MoD) admitted
-OL,20,Fits policy was "wrong, discriminatory
-OL,21,Fand unjust".
+OL,4,CMan held over suspected terror offences
+OL,5, A man has been arrested in Bristol on
+OL,6, suspicion of Islamist-related terrorism
+OL,7, offences, police have said.
+OL,9,FThe 33-year-old was detained at 23:00
+OL,10,FGMT on Monday as part of a planned
+OL,11,Foperation at a residential address in
+OL,12,Fthe Clifton area of the city.
+OL,14,FThe suspect is being held in custody
+OL,15,Fwhile searches are carried out at the
+OL,16,Faddress.
+OL,18,FPolice said there was no risk to the
+OL,19,Fpublic and the arrest was not linked to
+OL,20,Fthe London Bridge terror attack.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -328,49 +327,49 @@ OL,4,CGunman on run after deadly Czech
 OL,5,Chospital shooting
 OL,6, Six people have been killed in a
 OL,7, shooting at a teaching hospital in the
-OL,8, Czech Republic, the local governor has
+OL,8, Czech Republic, the prime minister has
 OL,9, said.
-OL,11,FThe suspected gunman was still at
-OL,12,Flarge, police said on Twitter.
+OL,11,FThe gunman was still at large after he
+OL,12,Fopened fire in a waiting room.
 OL,14,FOfficers were called to the hospital in
 OL,15,Fthe north-eastern city of Ostrava at
-OL,16,Fabout 07:00 (06:00 GMT) on Tuesday, the
-OL,17,Finterior minister said.
+OL,16,F07:19 (06:19 GMT) on Tuesday, police
+OL,17,Fsaid.
 OL,19,FAccording to reports, the shooting took
-OL,20,Fplace at a traumatology clinic. The
-OL,21,Fentire hospital was evacuated.
+OL,20,Fplace at a traumatology clinic. Part of
+OL,21,Fthe hospital was locked down.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CTwo British women injured in New
-OL,5,CZealand eruption
-OL,6, Two British women are injured after the
-OL,7, White Island volcano eruption in New
-OL,8, Zealand which left five people dead and
-OL,9, eight others missing.
-OL,11,FThe two women are being treated in
-OL,12,Fhospital, the UK high commission in New
-OL,13,FZealand said.
-OL,15,FThe commission did not name the women
-OL,16,Fbut said it was offering support to
-OL,17,Ftheir families.
-OL,19,FThirty-four people survived the
-OL,20,Feruption, with 31 still in hospital,
-OL,21,Fincluding the two Britons.
+OL,4,CThomas Cook customers get apology for
+OL,5,Crefund delay
+OL,6, The body repaying money owed to Thomas
+OL,7, Cook customers after the tour firm
+OL,8, collapsed has apologised to thousands
+OL,9, of customers facing refund delays.
+OL,11,FPaul Smith, director at the Civil
+OL,12,FAviation Authority, said "we are very
+OL,13,Fsorry" and promised the CAA is "working
+OL,14,Ftirelessly" to process payments.
+OL,16,FDespite #160m having already been
+OL,17,Frefunded, he told the BBC well over
+OL,18,F50,000 customers were still owed money.
+OL,20,FIncomplete claim forms and attempted
+OL,21,Ffraud were adding to delays, he said.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -395,33 +394,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBritish power plant promises to go
-OL,5,Ccarbon negative
-OL,6, Drax, which generates 5% of the UK's
-OL,7, power, has said it plans to capture
-OL,8, more carbon than it produces by 2030.
-OL,10,FThe firm's power plant in North
-OL,11,FYorkshire is already largely powered by
-OL,12,Frenewable fuel such as wood pellets.
-OL,14,FBut now it hopes to scale up a carbon
-OL,15,Fcapture system that will allow it to
-OL,16,Fcapture millions of tons of carbon
-OL,17,Femissions from the plant. 
-OL,19,FHowever, the scheme will require its
-OL,20,Fgovernment subsidies - currently due to
-OL,21,Fexpire in 2027 - to be extended. 
+OL,4,CLGBT Falklands veteran to have medal
+OL,5,Creturned
+OL,6, A Falklands veteran forced out of the
+OL,7, Royal Navy over his sexuality will have
+OL,8, a military honour returned.
+OL,10,FJoe Ousalice, 68, served as a radio
+OL,11,Foperator for 18 years but was
+OL,12,Fdischarged in 1993 because of a ban of
+OL,13,FLGBT people in the armed forces. 
+OL,15,FHe completed six tours of duty in
+OL,16,FNorthern Ireland and was seconded to a
+OL,17,FNato task force.
+OL,19,FThe Ministry of Defence (MoD) admitted
+OL,20,Fits policy was "wrong, discriminatory
+OL,21,Fand unjust".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -447,33 +446,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CA third of hospitals 'increased parking
-OL,5,Ccharges'
-OL,6, A third of hospitals in England put up
-OL,7, car parking charges last year, with
-OL,8, total income rising by a 10th, an
-OL,9, investigation shows.
-OL,11,FThe Press Association used the Freedom
-OL,12,Fof Information Act to obtain data from
-OL,13,Fmore than 140 NHS trusts.
-OL,15,FThe responses showed #254m had been
-OL,16,Fraised during 2018-19 - up from #232m
-OL,17,Fthe year before, with hourly charges
-OL,18,Fvarying between #4 and #1 for an hour.
-OL,20,FA survey carried out for PA also showed
-OL,21,Fdissatisfaction with charges.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CTwo British women injured in New
+OL,5,CZealand eruption
+OL,6, Two British women are injured after the
+OL,7, White Island volcano eruption in New
+OL,8, Zealand which left five people dead and
+OL,9, eight others missing.
+OL,11,FThe two women are being treated in
+OL,12,Fhospital, the UK high commission in New
+OL,13,FZealand said.
+OL,15,FThe commission did not name the women
+OL,16,Fbut said it was offering support to
+OL,17,Ftheir families.
+OL,19,FThirty-four people survived the
+OL,20,Feruption, with 31 still in hospital,
+OL,21,Fincluding the two Britons.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -499,33 +498,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CResidents forced from homes by major
-OL,5,Cblaze in flats
-OL,6, Dozens of people have had to leave
-OL,7, their homes after a fire ripped through
-OL,8, a block of flats in Glasgow. 
-OL,10,FThe fire broke out at the building on
-OL,11,FLancefield Quay, on the north bank of
-OL,12,Fthe Clyde, at about 18:40 on Monday.
-OL,14,FSixty firefighters and 15 appliances
-OL,15,Fwere called out to tackle the
-OL,16,F"well-developed" blaze in the second
-OL,17,Ffloor of the three-storey building. 
-OL,19,FThe flats were evacuated and crews
-OL,20,Fworked through the night to extinguish
-OL,21,Fthe blaze. There were no casualties.
+OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
+OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
+OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
+OL,4,CA third of hospitals 'increased parking
+OL,5,Ccharges'
+OL,6, A third of hospitals in England put up
+OL,7, car parking charges last year, with
+OL,8, total income rising by a 10th, an
+OL,9, investigation shows.
+OL,11,FThe Press Association used the Freedom
+OL,12,Fof Information Act to obtain data from
+OL,13,Fmore than 140 NHS trusts.
+OL,15,FThe responses showed #254m had been
+OL,16,Fraised during 2018-19 - up from #232m
+OL,17,Fthe year before, with hourly charges
+OL,18,Fvarying between #4 and #1 for an hour.
+OL,20,FA survey carried out for PA also showed
+OL,21,Fdissatisfaction with charges.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -551,7 +550,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CDrugs and guns found on Juice Wrld's
+OL,5,Cjet
+OL,6, Police say they found guns and drugs on
+OL,7, the private jet that carried rapper
+OL,8, Juice Wrld to Chicago before he died on
+OL,9, Sunday morning.
+OL,11,FLaw enforcement officials were waiting
+OL,12,Ffor the plane when it landed, having
+OL,13,Freceived information that banned
+OL,14,Fsubstances might be onboard.
+OL,16,FIt was during a subsequent search of
+OL,17,Fthe aircraft that the rapper had a
+OL,18,Fseizure that led to his death.
+OL,20,FAn autopsy on the 21-year-old has
+OL,21,Fproved inconclusive.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40523
+SC,0023
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -574,10 +599,10 @@ OL,20,FQuentin Tarantino's Once Upon a Time in
 OL,21,FHollywood, have five nominations each.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40523
-SC,0023
+PN,40524
+SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -598,10 +623,10 @@ OL,17,F45, to put a fresh spin on some classic
 OL,18,Fpaintings and sculptures.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40524
-SC,0024
+PN,40525
+SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -624,10 +649,10 @@ OL,20,Fcurrently #154.50 a year. It will rise
 OL,21,Fin line with inflation until 2022.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40525
-SC,0025
+PN,40526
+SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -649,10 +674,10 @@ OL,19,Fbattling Alzheimer's disease while
 OL,20,Fsearching for her friend Elizabeth.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40526
-SC,0026
+PN,40527
+SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -675,10 +700,10 @@ OL,19,Fin the last game five years ago.
 OL,21,FBut a new team is taking charge.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40527
-SC,0027
+PN,40528
+SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -701,10 +726,10 @@ OL,20,Fdefaced by a vandal who sprayed red
 OL,21,Fnoses on the reindeer.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40528
-SC,0028
+PN,40529
+SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -726,10 +751,10 @@ OL,19,Fmortality and drug use were common
 OL,20,Fthemes in his music. 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40529
-SC,0029
+PN,40530
+SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -748,10 +773,10 @@ OL,14,FLondon staging of Cyrano de Bergerac is
 OL,15,Fthat his nose is distinctly his own.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40530
-SC,0030
+PN,40531
+SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -774,10 +799,10 @@ OL,20,F"Brace yourself, my singing voice is
 OL,21,Fback," he told the BBC.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40531
-SC,0031
+PN,40532
+SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C09:35:03
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -796,28 +821,5 @@ OL,15,FThese figures aren't rare, with the
 OL,16,FOscars nominating only three women for
 OL,17,FBest Director in the past 20 years,
 OL,18,Fcompared with 87 men. 
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40532
-SC,0032
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CArtist Howson returns to 'hell' of
-OL,5,CBosnian war
-OL,6, Leading Scottish artist Peter Howson
-OL,7, says that going to Bosnia during the
-OL,8, conflict in the early 1990s was his own
-OL,9, personal hell.
-OL,11,FThe 61-year-old painter says it has
-OL,12,Ftaken a quarter of century of turmoil -
-OL,13,Fin which he fought a battle with drink,
-OL,14,Fdrugs and periods of severe depression
-OL,15,F- to come to terms with what he
-OL,16,Fexperienced as a war artist.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
