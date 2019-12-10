@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -52,14 +52,14 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF22GLosersA79
 OL,14,C FTSE100    G7213.76 A-20.14 Fat CLOSE
 OL,15,C techMARK100G5671.39 A-21.50 Fat CLOSE
-OL,16,C Dow Jones  G27906.23A-3.37  Fat 16:30
-OL,17,C Nasdaq     G8370.32 F+7.58  Fat 16:30
+OL,16,C Dow Jones  G27915.88F+6.28  Fat 17:30
+OL,17,C Nasdaq     G8378.80 F+16.06 Fat 17:30
 OL,18,C Nikkei     G23410.19A-2,050.Fat 07:45
 OL,19,C DJEurStoxx G3671.78 A-0.40  Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,65 +83,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G              Today                  
-OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G11V%  B               
-OL,4,           VZj**gppp B               
+OL,1,T]G           This Evening              
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G03R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G10V!FRain           
+OL,6,            ZV!'~G03V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 13V} B              
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG13VtV+"RG12R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
-OL,14,B            ^ZR`  V*G 11V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 11R}zt B       
-OL,17,B              ZRj^VG 09R B       
-OL,18,B            ZRx|^G 13R'         
+OL,8,B          ^ZR*y?sp  BRain          
+OL,9,           ^ZRj)"G 03R}  B             
+OL,10,       ^ZVp|t RxVg0 B             
+OL,11,       ZVnG04VtR+"VG04V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" V *u  B          
+OL,14,B            ^ZR`  V*G 03V} B          
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 03R}zt B       
+OL,17,B              ZRj^RG 02R B       
+OL,18,B            ZRx|^G 05R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZV  tG 10R/!        
-OL,21,B            ZV zG13V^/s/R/? BCloudy   
-OL,22,            ZV8?' "'    "     B        
+OL,20,B            ^ZR  tG 04R/!        
+OL,21,B            ZR zG06R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G05R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZU 4`~|}            G 2/2 
+OL,3,           ZU`?0~G05U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BRain          
-OL,9,           ^ZRj)"G 04R}  B             
-OL,10,       ^ZVp|t RxUg0 B             
-OL,11,       ZVnG04VtR+"UG05U B             
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" V *u  B          
-OL,14,B            ^ZR`  V*G 06V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 05U}zt B       
-OL,17,B              ZRj^VG 06U B       
-OL,18,B            ZRx|^G 07U'         
-OL,19,             ^ZR! +/'iUqp0        
-OL,20,B            ^ZR  tG 08U/!        
-OL,21,B            ZR zG08R^/s/U/? ECloudy   
-OL,22,            ZR8?' "'    "     E        
+OL,8,B          ^ZR*y?sp  BCloudy        
+OL,9,           ^ZRj)"G 05R}  B             
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG05RtR+"RG05R B             
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" V *u  B          
+OL,14,B            ^ZU`  V*G 06V} B          
+OL,15,B            ^ZUk|V            
+OL,16,B            ^ZU'oG 06U}zt B       
+OL,17,B              ZUj^VG 06U B       
+OL,18,B            ZUx|^G 07U'         
+OL,19,             ^ZU! +/'iRqp0        
+OL,20,ERain        ^ZU  tG 08R/!        
+OL,21,E            ZU zG09U^/s/R/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -186,7 +186,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -211,7 +211,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -237,7 +237,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -263,7 +263,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -288,7 +288,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -314,7 +314,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -323,23 +323,24 @@ OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CAgreement reached on Nafta trade deal
 OL,5,Creplacement
 OL,6, Democrats in Congress have reached a
-OL,7, deal with the White House to approve a
-OL,8, new North American trade pact.
-OL,10,FHouse Speaker Nancy Pelosi said the new
-OL,11,Fagreement would have tougher labour and
-OL,12,Fenvironmental rules.
-OL,14,FShe declared it "infinitely better"
-OL,15,Fthan the deal the White House reached
-OL,16,Fwith Mexico and Canada last year.
-OL,18,FUS President Donald Trump, who had
-OL,19,Faccused Democrats of holding up the
-OL,20,Ftreaty, also declared victory.
+OL,7, deal with the White House over a new
+OL,8, North American trade agreement, setting
+OL,9, the stage for approval.
+OL,11,FHouse Speaker Nancy Pelosi said the
+OL,12,Frevised pact would include tougher
+OL,13,Flabour and environmental rules.
+OL,15,FShe declared it "infinitely better"
+OL,16,Fthan the deal the White House reached
+OL,17,Fwith Mexico and Canada last year.
+OL,19,FUS President Donald Trump, who had
+OL,20,Faccused the Democrats of holding up the
+OL,21,Ftreaty, also declared victory.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -365,7 +366,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -391,7 +392,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -417,34 +418,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNew Zealand volcano: What we know of
-OL,5,Cthe victims
-OL,6, New Zealand has been hit by a deadly
-OL,7, volcanic eruption, which has left some
-OL,8, families grieving loved ones and others
-OL,9, desperately awaiting information.
-OL,11,FForty-seven people were on the
-OL,12,Fprivately owned White Island, or
-OL,13,FWhakaari, volcano when it erupted on
-OL,14,FMonday.
-OL,16,FOfficials have so far confirmed six
-OL,17,Ffatalities and said eight people were
-OL,18,Fstill missing - feared to be dead. More
-OL,19,Fthan 30 people have been injured, with
-OL,20,Fmany reported to have suffered severe
-OL,21,Fburns.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CPeter Handke receives Nobel Literature
+OL,5,Cprize
+OL,6, Austrian author Peter Handke has
+OL,7, received his Nobel prize for Literature
+OL,8, at a ceremony in Sweden.
+OL,10,FThe choice of Handke was controversial
+OL,11,Fbecause of his support for the Serbian
+OL,12,Fside in the 1990s Yugoslav war.
+OL,14,FThe ambassadors of countries including
+OL,15,FBosnia, Albania, Kosovo and Turkey
+OL,16,Fboycotted the ceremony in protest.
+OL,18,FOlga Tokarczuk, who is considered the
+OL,19,Fleading Polish novelist of her
+OL,20,Fgeneration, also collected her belated
+OL,21,F2018 literature prize. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -470,33 +470,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAntarctica-bound plane missing with 38
-OL,5,Con board
-OL,6, A military plane with 38 people on
-OL,7, board has disappeared en route to
-OL,8, Antarctica, Chile's air force says.
-OL,10,FThe C-130 Hercules transport aircraft
-OL,11,Ftook off from Punta Arenas at 16:55
-OL,12,Flocal time (19:55 GMT), and operators
-OL,13,Flost contact at 18:13 (21:13).
-OL,15,FThose missing include 17 crew and 21
-OL,16,Fpassengers.
-OL,18,FThey were travelling to provide
-OL,19,Flogistical support to a military base
-OL,20,Fon Antarctica's King George Island. A
-OL,21,Fsearch-and-rescue mission is under way.
+OL,4,CChild prodigy drops out of university
+OL,5, A Belgian child prodigy who had hoped
+OL,6, to graduate from university in the
+OL,7, Netherlands this month has dropped out.
+OL,9,FThe parents of Laurent Simons, nine,
+OL,10,Fwanted him to graduate before his
+OL,11,Fbirthday on 26 December so he could be
+OL,12,Fthe first university graduate under 10.
+OL,14,FBut Eindhoven University told them
+OL,15,Fthere were still too many exams Laurent
+OL,16,Fneeded to take before then.
+OL,18,FHis parents refused an offer of a
+OL,19,Fmid-2020 graduation date, and
+OL,20,Fimmediately removed him from the
+OL,21,Fcourse.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -522,32 +522,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CFloods and power cuts hit South Africa
-OL,5, Heavy rains have battered parts of
-OL,6, South Africa, submerging whole
-OL,7, neighbourhoods and flooding coal mines
-OL,8, and power stations in a nation already
-OL,9, hit by electricity blackouts. 
-OL,11,FAt least 700 homes have been washed
-OL,12,Faway near the capital, Pretoria, public
-OL,13,Fbroadcaster SABC reported.
-OL,15,FThe state-run power company warned of
-OL,16,Ffurther electricity cuts, saying heavy
-OL,17,Frains had affected its operations.
-OL,19,FThe crisis has forced President Cyril
-OL,20,FRamaphosa to shorten his trip to Egypt.
+OL,4,CAntarctica-bound plane missing with 38
+OL,5,Con board
+OL,6, A military plane with 38 people on
+OL,7, board has disappeared en route to
+OL,8, Antarctica, Chile's air force says.
+OL,10,FThe C-130 Hercules transport aircraft
+OL,11,Ftook off from Punta Arenas at 16:55
+OL,12,Flocal time (19:55 GMT), and operators
+OL,13,Flost contact at 18:13 (21:13).
+OL,15,FThose missing include 17 crew and 21
+OL,16,Fpassengers.
+OL,18,FThey were travelling to provide
+OL,19,Flogistical support to a military base
+OL,20,Fon Antarctica's King George Island. A
+OL,21,Fsearch-and-rescue mission is under way.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -573,7 +574,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -599,7 +600,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -625,7 +626,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -651,7 +652,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -677,7 +678,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -702,7 +703,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -728,7 +729,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C18:33:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -747,74 +748,5 @@ OL,15,Fdrummer from The Strokes has teamed up
 OL,16,Fwith his Italian art dealer namesake,
 OL,17,F45, to put a fresh spin on some classic
 OL,18,Fpaintings and sculptures.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40530
-SC,0030
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CWhy James McAvoy's Bergerac ditches the
-OL,5,CCyra-nose
-OL,6, Generations of actors have donned
-OL,7, prosthetic proboscises to play Cyrano
-OL,8, de Bergerac. James McAvoy tells BBC
-OL,9, News why his portrayal does without
-OL,10, one.
-OL,12,FThe first thing you notice when James
-OL,13,FMcAvoy takes to the stage in the latest
-OL,14,FLondon staging of Cyrano de Bergerac is
-OL,15,Fthat his nose is distinctly his own.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40531
-SC,0031
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CGolden Globes criticised for all-male
-OL,5,Cdirector nominees
-OL,6, The Golden Globes has released its list
-OL,7, of nominees for best director, and it's
-OL,8, been criticised for featuring no women,
-OL,9, again.
-OL,11,FSince 2000, the awards show has
-OL,12,Fnominated more than 100 men for the
-OL,13,Fcategory, and only four women.
-OL,15,FThese figures aren't rare, with the
-OL,16,FOscars nominating only three women for
-OL,17,Fbest director in the past 20 years,
-OL,18,Fcompared with 87 men. 
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40532
-SC,0032
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:35:18
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CArtist Howson returns to 'hell' of
-OL,5,CBosnian war
-OL,6, Leading Scottish artist Peter Howson
-OL,7, says that going to Bosnia during the
-OL,8, conflict in the early 1990s was his own
-OL,9, personal hell.
-OL,11,FThe 61-year-old painter says it has
-OL,12,Ftaken a quarter of century of turmoil -
-OL,13,Fin which he fought a battle with drink,
-OL,14,Fdrugs and periods of severe depression
-OL,15,F- to come to terms with what he
-OL,16,Fexperienced as a war artist.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
