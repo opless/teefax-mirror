@@ -5,24 +5,24 @@ CT,30,T
 PN,40201
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C14:33:37
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C15:33:57
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTODAY
-OL,8,BOutbreaks of rain, S5CSTATISTICS       
-OL,9,Bheavy at times, forS5C 
-OL,10,Bmuch of the day.   S5G   Maximum       
-OL,11,BThese clear to     S5GTemperatureC13C 
-OL,12,Bscattered showers  S5G                 
-OL,13,Bfrom the west from S5G   Minumum       
-OL,14,Baround mid         S5GTemperatureC0C 
-OL,15,Bafternoon. Strong  S5C                 
-OL,16,Bsouthwest winds    S5G
-OL,17,Bwith coastal gales.S5G
-OL,18,B                   S5G                 
-OL,19,B                   S5G
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BBlustery showers,  S5CSTATISTICS       
+OL,9,Bmainly across      S5C 
+OL,10,Bwestern parts.     S5G   Maximum       
+OL,11,BClear spells in theS5GTemperatureC5C 
+OL,12,Bevening, but cloud S5G                 
+OL,13,Bis expected to     S5G   Minumum       
+OL,14,Bincrease overnight.S5GTemperatureC2C 
+OL,15,BFresh westerly     S5C                 
+OL,16,Bwinds, though      S5G
+OL,17,Bstrong and gusty   S5G
+OL,18,Btowards the north  S5G                 
+OL,19,Bcoast.             S5G
 OL,20,B                   S5G
 OL,21,                                    1/2 
 OL,22,T]GN IRELANDCHeadlinesG160CSport   G390 
@@ -32,21 +32,21 @@ FL,403,437,430,100,8FF,199
 PN,40202
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C14:33:37
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C15:33:57
 OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
 OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
 OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
 OL,4,  N IRELAND  T//-,,/,,-.-.-.-.-.,,-.-.//
-OL,6,CTONIGHT
-OL,8,BBlustery showers,  S5CSTATISTICS       
-OL,9,Bmainly across      S5C 
-OL,10,Bwestern parts.     S5G   Maximum       
-OL,11,BClear spells in theS5GTemperatureC13C 
-OL,12,Bevening, but cloud S5G                 
-OL,13,Bis expected to     S5G   Minumum       
-OL,14,Bincrease overnight.S5GTemperatureC0C 
-OL,15,BStrong westerly    S5C                 
-OL,16,Bwinds.             S5G
+OL,6,CWEDNESDAY
+OL,8,BScattered blustery S5CSTATISTICS       
+OL,9,Bshowers, these     S5C 
+OL,10,Bagain most frequentS5G   Maximum       
+OL,11,Bin the west, with  S5GTemperatureC5C 
+OL,12,Bsome sunny spells  S5G                 
+OL,13,Bin between showers.S5G   Minumum       
+OL,14,BFeeling cold in    S5GTemperatureC2C 
+OL,15,Bfresh to strong    S5C                 
+OL,16,Bwesterly winds.    S5G
 OL,17,B                   S5G
 OL,18,B                   S5G                 
 OL,19,B                   S5G
