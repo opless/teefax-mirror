@@ -1,23 +1,29 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 315 Football
+DE,Sport Page 315 Liverpool
 CT,10,T
 PN,31500
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C17:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C19:04:12
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Mane, McTominay,
-OL,5,BSolskjaer, Eriksen, Emery
-OL,9,FShare this with
-OL,11,FParis St-Germain could move for
-OL,12,FLiverpool's Senegal winger Sadio Mane,
-OL,13,F27, in the summer if Brazil forward
-OL,14,FNeymar leaves. (France Football via
-OL,15,FSport Witness)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BQuiz: Can you name Liverpool's leading
+OL,5,BChampions League goalscorers?
+OL,6, Reigning champions Liverpool need a
+OL,7, point to qualify for the Champions
+OL,8, League knockout stages when they travel
+OL,9, to Red Bull Salzburg on Tuesday.
+OL,11,FAfter five group games in the 2019-20
+OL,12,Fcampaign, 13 Liverpool players - past
+OL,13,Fand present - have now managed to
+OL,14,Fregister at least five goals in
+OL,15,FEurope's elite competition in the
+OL,16,FChampions League era. 
+OL,18,FBut can you name them all? 
+OL,20,FYou have three minutes.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,324,302,301,300,8FF,199
