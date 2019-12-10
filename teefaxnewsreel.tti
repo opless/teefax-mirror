@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,23 +15,24 @@ OL,4,MYoung voters quiz politicians on   C104
 OL,6,Ghousing and Brexit                     
 OL,8,GNZ PM: Questions 'must be asked'   C105
 OL,9,Gabout eruption                         
-OL,10,GLabour seeks to keep focus on NHS  C106
+OL,10,GParties focus on key messages as   C106
+OL,11,Gpoll day nears                         
 OL,12,GAntarctica-bound plane missing withC107
 OL,13,G38 on board                            
 OL,14,GLGBT Falklands veteran to have     C108
 OL,15,Gmedal returned                         
-OL,16,GUkraine and Russia agree to        C109
-OL,17,Gimplement ceasefire                    
+OL,16,GGunman on run after deadly Czech   C109
+OL,17,Ghospital shooting                      
 OL,18,GTwo British women injured in New   C110
 OL,19,GZealand eruption                       
-OL,20,GScar of Bikini A-bomb test still   C111
-OL,21,Gvisible                                
+OL,20,GUkraine and Russia agree to        C111
+OL,21,Gimplement ceasefire                    
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -49,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat CLOSEGWinnersF49GLosersA52
-OL,14,C FTSE100    G7233.90 A-5.76  Fat CLOSE
-OL,15,C techMARK100G5692.89 A-5.53  Fat CLOSE
+OL,12,  FTSE100Fat 07:30GWinnersF27GLosersA74
+OL,14,C FTSE100    G7207.15 A-26.75 Fat 07:30
+OL,15,C techMARK100G5692.27 A-0.62  Fat 07:30
 OL,16,C Dow Jones  G27909.60A-105.46Fat CLOSE
 OL,17,C Nasdaq     G8362.74 A-34.62 Fat CLOSE
-OL,18,C Nikkei     G23410.19A-20.51 Fat CLOSE
-OL,19,C DJEurStoxx G3672.18 A-20.16 Fat CLOSE
+OL,18,C Nikkei     G23410.19A-20.51 Fat 07:29
+OL,19,C DJEurStoxx G3657.69 A-14.49 Fat 07:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,7 +84,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -95,8 +96,8 @@ OL,6,            ZV!'~G10V!FRain
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 12V} B              
-OL,10,       ^ZVp|t VxRg0 BCloudy       
-OL,11,       ZVnG13VtV+"RG12R  B            
+OL,10,       ^ZVp|t VxRg0 B             
+OL,11,       ZVnG13VtV+"RG12R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZV`  V*G 10V} B          
@@ -104,44 +105,44 @@ OL,15,B            ^ZVk|V
 OL,16,B            ^ZV'oG 11V}zt B       
 OL,17,B              ZVj^VG 08V B       
 OL,18,B            ZVx|^G 12V'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 10V/!        
-OL,21,B            ZV zG13V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 10R/!        
+OL,21,B            ZV zG13V^/s/R/? BCloudy   
+OL,22,            ZV8?' "'    "     B        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZU 4`~|}            G 2/2 
-OL,3,           ZU`?0~G05U%  B               
-OL,4,           UZj**gppp B               
-OL,5,           ^ZR({5                
-OL,6,            ZR!'~G04R!B               
-OL,7,           ^ZR ~ow1 B               
-OL,8,B          ^ZV*y?sp  FCloudy        
-OL,9,           ^ZVj)"G 05V}  F             
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG05VtV+"VG05V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BSunny     
-OL,14,B            ^ZU`  R*G 06R}  B         
-OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 06U}zt B       
-OL,17,B              ZUj^VG 06U B       
-OL,18,B            ZUx|^G 07U'         
-OL,19,             ^ZU! +/'iVqp0        
-OL,20,ERain        ^ZU  tG 08V/!        
-OL,21,E            ZU zG09U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G05R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZV({5                
+OL,6,            ZV!'~G04V!FSunny          
+OL,7,           ^ZV ~ow1  F              
+OL,8,B          ^ZR*y?sp  BRain          
+OL,9,           ^ZRj)"G 05R}  B             
+OL,10,       ^ZUp|t RxUg0 B             
+OL,11,       ZUnG05UtR+"UG05U B             
+OL,12,       ZU+U`4U+|0             
+OL,13,        ZU+%*o!U" V *u  B          
+OL,14,B            ^ZR`  V*G 06V} B          
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 06R}zt B       
+OL,17,B              ZRj^VG 06R B       
+OL,18,B            ZRx|^G 07R'         
+OL,19,             ^ZR! +/'iUqp0        
+OL,20,B            ^ZR  tG 08U/!        
+OL,21,B            ZR zG09R^/s/U/? ECloudy   
+OL,22,            ZR8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -178,16 +179,16 @@ OL,12,GFestive Banksy artwork highlights hC507
 OL,13,GUS rapper Juice Wrld dies aged 21  C508
 OL,14,GWhy James McAvoy's Bergerac ditchesC509
 OL,15,GLadBaby takes aim at second ChristmC510
-OL,17,GArtist Howson returns to 'hell' of C511
-OL,18,GHow a 'cheeky but charming' tiger mC512
-OL,19,GStar Wars: The workforce behind a tC513
-OL,20,GThe 18th Century war which started C514
+OL,17,GGolden Globes criticised for all-maC511
+OL,18,GArtist Howson returns to 'hell' of C512
+OL,19,GHow a 'cheeky but charming' tiger mC513
+OL,20,GStar Wars: The workforce behind a tC514
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -213,7 +214,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -239,32 +240,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
 OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
 OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CLabour seeks to keep focus on NHS
-OL,5, Labour claims NHS under-funding is
-OL,6, putting patients at risk and the Tories
-OL,7, are warning about a hung parliament, as
-OL,8, the election enters its final stretch.
-OL,10,FWith two days to go, Labour is pledging
-OL,11,Fa "relentless focus" on the health
-OL,12,Fservice if it wins power.
-OL,14,FPrime Minister Boris Johnson will try
-OL,15,Fto keep the focus on Brexit and the
-OL,16,F"danger" of another hung Parliament. 
-OL,18,FIn a speech later, he will pledge that
-OL,19,Fthe Tories would "smash through the
-OL,20,Fgridlock" if given a majority. 
+OL,4,CParties focus on key messages as poll
+OL,5,Cday nears
+OL,6, Labour claims NHS under-funding is
+OL,7, putting patients at risk and the Tories
+OL,8, are warning about a hung parliament, as
+OL,9, the election enters its final stretch.
+OL,11,FWith two days to go, Labour is pledging
+OL,12,Fa "relentless focus" on the health
+OL,13,Fservice if it wins power.
+OL,15,FPrime Minister Boris Johnson will try
+OL,16,Fto keep the focus on Brexit and the
+OL,17,F"danger" of another hung Parliament. 
+OL,19,FIn a speech later, he will pledge that
+OL,20,Fthe Tories would "smash through the
+OL,21,Fgridlock" if given a majority. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -290,7 +292,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -316,33 +318,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CUkraine and Russia agree to implement
-OL,5,Cceasefire
-OL,6, Ukraine and Russia have agreed to
-OL,7, implement a "full and comprehensive"
-OL,8, ceasefire in eastern Ukraine by the end
-OL,9, of 2019, after top-level talks.
-OL,11,FRussian President Vladimir Putin and
-OL,12,FUkraine's Volodymyr Zelensky met
-OL,13,Fface-to-face in Paris on Monday.
-OL,15,FFive-and-a-half years of fighting
-OL,16,Fbetween Ukrainian government forces and
-OL,17,FRussian-backed rebels have cost 13,000
-OL,18,Flives.
-OL,20,FThe negotiations were brokered by the
-OL,21,Fleaders of France and Germany.
+OL,4,CGunman on run after deadly Czech
+OL,5,Chospital shooting
+OL,6, Six people have been killed in a
+OL,7, shooting at a teaching hospital in the
+OL,8, Czech Republic, the local governor has
+OL,9, said.
+OL,11,FThe suspected gunman was still at
+OL,12,Flarge, police said on Twitter.
+OL,14,FOfficers were called to the hospital in
+OL,15,Fthe north-eastern city of Ostrava at
+OL,16,Fabout 07:00 (06:00 GMT) on Tuesday, the
+OL,17,Finterior minister said.
+OL,19,FAccording to reports, the shooting took
+OL,20,Fplace at a traumatology clinic. The
+OL,21,Fentire hospital was evacuated.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -368,7 +370,58 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CUkraine and Russia agree to implement
+OL,5,Cceasefire
+OL,6, Ukraine and Russia have agreed to
+OL,7, implement a "full and comprehensive"
+OL,8, ceasefire in eastern Ukraine by the end
+OL,9, of 2019, after top-level talks.
+OL,11,FRussian President Vladimir Putin and
+OL,12,FUkraine's Volodymyr Zelensky met face
+OL,13,Fto face at a Paris summit on Monday.
+OL,15,FMr Zelensky was downbeat, saying little
+OL,16,Fhad been achieved at the meeting and he
+OL,17,Fhad wanted to see more resolved.
+OL,20,FThe negotiations were brokered by the
+OL,21,Fleaders of France and Germany.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40516
+SC,0016
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CBritish power plant promises to go
+OL,5,Ccarbon negative
+OL,6, Drax, which generates 5% of the UK's
+OL,7, power, has said it plans to capture
+OL,8, more carbon than it produces by 2030.
+OL,10,FThe firm's power plant in North
+OL,11,FYorkshire is already largely powered by
+OL,12,Frenewable fuel such as wood pellets.
+OL,14,FBut now it hopes to scale up a carbon
+OL,15,Fcapture system that will allow it to
+OL,16,Fcapture millions of tons of carbon
+OL,17,Femissions from the plant. 
+OL,19,FHowever, the scheme will require its
+OL,20,Fgovernment subsidies - currently due to
+OL,21,Fexpire in 2027 - to be extended. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40517
+SC,0017
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -391,62 +444,10 @@ OL,20,FA crater is still present; so too the
 OL,21,Ftwisted remains of all those vessels.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40516
-SC,0016
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBritish power plant promises to go
-OL,5,Ccarbon negative
-OL,6, Drax, which generates 5% of the UK's
-OL,7, power, has said it plans to capture
-OL,8, more carbon than it produces by 2030.
-OL,10,FThe firm's power plant in North
-OL,11,FYorkshire is already largely powered by
-OL,12,Frenewable fuel such as wood pellets.
-OL,14,FThe trees that the pellets come from
-OL,15,Fabsorb carbon, which is then collected
-OL,16,Fwhen they are burned to generate power.
-OL,18,FBut, biomass has proved controversial
-OL,19,Fwith some environmental campaigners who
-OL,20,Fare concerned about the amount of
-OL,21,Fcarbon dioxide created by burning it.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40517
-SC,0017
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,C'No political bias' in FBI probe of
-OL,5,CTrump campaign
-OL,6, A US watchdog has found no evidence of
-OL,7, political bias when the FBI launched an
-OL,8, inquiry into the 2016 Trump campaign,
-OL,9, despite "serious performance failures".
-OL,11,FThe US Department of Justice inspector
-OL,12,Fgeneral's report concluded the law
-OL,13,Fenforcement bureau had "authorised
-OL,14,Fpurpose" to initiate the investigation.
-OL,16,FBut it also found applications to
-OL,17,Fwiretap a Trump aide had "significant
-OL,18,Finaccuracies and omissions".
-OL,20,FThe 476-page report provides fodder for
-OL,21,FTrump critics and supporters alike.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -472,7 +473,59 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,C'No political bias' in FBI probe of
+OL,5,CTrump campaign
+OL,6, A US watchdog has found no evidence of
+OL,7, political bias when the FBI launched an
+OL,8, inquiry into the 2016 Trump campaign,
+OL,9, despite "serious performance failures".
+OL,11,FThe US Department of Justice inspector
+OL,12,Fgeneral's report concluded the law
+OL,13,Fenforcement bureau had "authorised
+OL,14,Fpurpose" to initiate the investigation.
+OL,16,FBut it also found applications to
+OL,17,Fwiretap a Trump aide had "significant
+OL,18,Finaccuracies and omissions".
+OL,20,FThe 476-page report provides fodder for
+OL,21,FTrump critics and supporters alike.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40520
+SC,0020
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
+OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
+OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
+OL,4,CResidents forced from homes by major
+OL,5,Cblaze in flats
+OL,6, Dozens of people have had to leave
+OL,7, their homes after a fire ripped through
+OL,8, a block of flats in Glasgow. 
+OL,10,FThe fire broke out at the building on
+OL,11,FLancefield Quay, on the north bank of
+OL,12,Fthe Clyde, at about 18:40 on Monday.
+OL,14,FSixty firefighters and 15 appliances
+OL,15,Fwere called out to tackle the
+OL,16,F"well-developed" blaze in the second
+OL,17,Ffloor of the three-storey building. 
+OL,19,FThe flats were evacuated and crews
+OL,20,Fworked through the night to extinguish
+OL,21,Fthe blaze. There were no casualties.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40521
+SC,0021
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -495,62 +548,10 @@ OL,20,FThe case is seen as a test of Angola's
 OL,21,Fcommitment to fight corruption.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40520
-SC,0020
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CResidents forced from homes by major
-OL,5,Cblaze in flats
-OL,6, Dozens of people have had to leave
-OL,7, their homes after a fire ripped through
-OL,8, a block of flats in Glasgow. 
-OL,10,FThe fire broke out at the building on
-OL,11,FLancefield Quay, on the north bank of
-OL,12,Fthe Clyde, at about 18:40 on Monday.
-OL,14,FSixty firefighters and 12 appliances
-OL,15,Fwere called out to tackle the blaze,
-OL,16,Fwhich is thought to have started in the
-OL,17,Fsecond floor of the three-storey
-OL,18,Fbuilding. 
-OL,20,FThe flats have been evacuated, but
-OL,21,Fthere were no reports of injuries.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40521
-SC,0021
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CFinnish minister, 34, to be world's
-OL,5,Cyoungest PM
-OL,6, Finland's Sanna Marin is to become the
-OL,7, world's youngest prime minister at the
-OL,8, age of 34.
-OL,10,FThe transport minister was picked by
-OL,11,Fher Social Democratic party after its
-OL,12,Fleader, Antti Rinne, quit as PM. She
-OL,13,Fwill be sworn in this week.
-OL,15,FShe will lead a centre-left coalition
-OL,16,Fwith four other parties, all headed by
-OL,17,Fwomen, three of whom are under 35.
-OL,19,FMr Rinne stepped down after losing the
-OL,20,Fconfidence of a coalition member over
-OL,21,Fhis handling of a postal strike. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -576,7 +577,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -600,7 +601,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -626,7 +627,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -651,7 +652,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -677,7 +678,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -703,7 +704,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -728,7 +729,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -750,7 +751,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -776,7 +777,31 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CGolden Globes criticised for all-male
+OL,5,Cdirector nominees
+OL,6, The Golden Globes has released its list
+OL,7, of nominees for Best Director, and it's
+OL,8, been criticised for featuring no women,
+OL,9, again.
+OL,11,FSince 2000, the awards show has
+OL,12,Fnominated more than 100 men for the
+OL,13,Fcategory, and only four women.
+OL,15,FThese figures aren't rare, with the
+OL,16,FOscars nominating only three women for
+OL,17,FBest Director in the past 20 years,
+OL,18,Fcompared with 87 men. 
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40532
+SC,0032
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C08:34:27
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -794,30 +819,5 @@ OL,13,Fin which he fought a battle with drink,
 OL,14,Fdrugs and periods of severe depression
 OL,15,F- to come to terms with what he
 OL,16,Fexperienced as a war artist.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40532
-SC,0032
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C07:34:07
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CHow a 'cheeky but charming' tiger made
-OL,5,Cit to TV
-OL,6, If you've never read The Tiger Who Came
-OL,7, To Tea, don't worry. We can catch you
-OL,8, up on the plot fairly quickly. 
-OL,10,FThe children's classic, written in 1968
-OL,11,Fby Judith Kerr, tells the story of a
-OL,12,Fyoung girl named Sophie, who has to
-OL,13,Fstay home with her mum because it's too
-OL,14,Frainy to go to the park.
-OL,16,FFortunately, the day takes an
-OL,17,Finteresting turn when a hungry tiger
-OL,18,Fturns up at the door and asks if he can
-OL,19,Fjoin Sophie and her mother for tea. 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
