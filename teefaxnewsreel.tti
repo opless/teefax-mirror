@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 09:30GWinnersF5GLosersA96
-OL,14,C FTSE100    G7168.32 A-65.58 Fat 09:30
-OL,15,C techMARK100G5661.33 A-31.56 Fat 09:30
+OL,12,  FTSE100Fat 10:30GWinnersF6GLosersA95
+OL,14,C FTSE100    G7150.34 A-83.56 Fat 10:30
+OL,15,C techMARK100G5649.06 A-43.83 Fat 10:30
 OL,16,C Dow Jones  G27909.60A-105.46Fat CLOSE
 OL,17,C Nasdaq     G8362.74 A-34.62 Fat CLOSE
 OL,18,C Nikkei     G23410.19A-2,050.Fat 07:45
-OL,19,C DJEurStoxx G3640.41 A-31.77 Fat 09:30
+OL,19,C DJEurStoxx G3635.36 A-36.82 Fat 10:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,7 +84,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -96,8 +96,8 @@ OL,6,            ZV!'~G10V!FRain
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 12V} B              
-OL,10,       ^ZVp|t VxRg0 B             
-OL,11,       ZVnG13VtV+"RG12R B             
+OL,10,       ^ZVp|t VxRg0 BCloudy       
+OL,11,       ZVnG13VtV+"RG12R  B            
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" V *u  B          
 OL,14,B            ^ZV`  V*G 10V} B          
@@ -105,15 +105,15 @@ OL,15,B            ^ZVk|V
 OL,16,B            ^ZV'oG 11V}zt B       
 OL,17,B              ZVj^VG 08V B       
 OL,18,B            ZVx|^G 12V'         
-OL,19,             ^ZV! +/'iRqp0        
-OL,20,B            ^ZV  tG 10R/!        
-OL,21,B            ZV zG13V^/s/R/? BCloudy   
-OL,22,            ZV8?' "'    "     B        
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 09V/!        
+OL,21,B            ZV zG13V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -142,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -188,7 +188,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -201,8 +201,8 @@ OL,7, October, according to official figures.
 OL,9,FGross domestic product rose by 0.7%
 OL,10,Fagainst October 2018, the weakest
 OL,11,Fgrowth since March 2012, with services
-OL,12,Fthe main driver the Office for National
-OL,13,FStatistics said.
+OL,12,Fthe main driver, the Office for
+OL,13,FNational Statistics said.
 OL,15,FIn the three months to October, growth
 OL,16,Fwas flat against the previous quarter.
 OL,18,FThe figures come ahead of Thursday's
@@ -213,7 +213,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -239,7 +239,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -265,7 +265,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +291,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -316,7 +316,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -342,7 +342,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -368,7 +368,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -393,7 +393,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -419,7 +419,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -445,7 +445,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -471,7 +471,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -497,7 +497,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -523,33 +523,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CDummies in police uniforms 'control'
-OL,5,Ccity traffic
-OL,6, One of India's most gridlocked cities
-OL,7, has come up with an unconventional
-OL,8, solution to rein in errant drivers. 
-OL,10,FMannequins dressed up as traffic police
-OL,11,Fhave been placed on roads in the
-OL,12,Fsouthern city of Bangalore. 
-OL,14,FDressed in police caps, white shirts
-OL,15,Fand brown trousers, and wearing
-OL,16,Fsunglasses, the mannequins are now on
-OL,17,Fduty at congested junctions. 
-OL,19,FIt's hoped drivers will mistake them
-OL,20,Ffor real police and think twice about
-OL,21,Fbreaking the rules of the road.
+OL,4,CBarcode co-inventor George Laurer dies
+OL,5,Caged 94
+OL,6, George Laurer, the US engineer who
+OL,7, helped develop the barcode, has died at
+OL,8, the age of 94.
+OL,10,FBarcodes, which are made up of black
+OL,11,Fstripes of varying thickness and a
+OL,12,F12-digit number, help identify products
+OL,13,Fand transformed the world of retail.
+OL,15,FThey are now found on products all over
+OL,16,Fthe world.  
+OL,18,FThe idea was pioneered by a fellow IBM
+OL,19,Femployee, but it was not until Laurer
+OL,20,Fdeveloped a scanner that could read
+OL,21,Fcodes digitally that it took off.   
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -575,7 +575,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -601,7 +601,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -625,7 +625,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -651,7 +651,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -676,7 +676,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -702,7 +702,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -728,7 +728,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -753,7 +753,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40530
 SC,0030
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -775,7 +775,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40531
 SC,0031
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -801,7 +801,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40532
 SC,0032
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C10:34:50
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C11:33:32
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
