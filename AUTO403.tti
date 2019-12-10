@@ -5,19 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C03:32:46
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FMany areas will be dry, with clear
-OL,9,Fskies and easing winds allowing a
-OL,10,Ffairly widespread frost. However
-OL,11,Fincreasing cloud and wind will lift
-OL,12,Ftemperatures later, while some
-OL,13,Fnorthwestern areas miss the frost but
-OL,14,Fturn very wet with gales later.
+OL,7,GToday
+OL,8,FCloud and rain, heavy at times, will
+OL,9,Fspread eastwards. Heaviest rain over
+OL,10,Fwestern Scotland. Clearer skies and a
+OL,11,Ffew showers then follow into parts of
+OL,12,FNorthern Ireland and Scotland later.
+OL,13,FWindy, especially in the north and
+OL,14,Fwest.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +25,18 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C03:32:46
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Wednesday to Friday
-OL,8,FRemaining unsettled with blustery
-OL,9,Fshowers or longer spells of rain, snow
-OL,10,Fover the hills. Windy with gales at
-OL,11,Ftimes. Rather cold, especially in the
-OL,12,Fnorth.
+OL,7,GOutlook for Thursday to Saturday
+OL,8,FUnsettled, with rain and hill snow
+OL,9,Fspreading northeast through Thursday.
+OL,10,FShowers for Friday, wintry in the
+OL,11,Fnorth. Further rain affects southern
+OL,12,Fareas Saturday. Often windy; cold in
+OL,13,Fthe north.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

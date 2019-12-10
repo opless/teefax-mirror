@@ -5,21 +5,21 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C03:32:46
 OL,1,T]G         Tuesday Evening             
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G03V%  B               
 OL,4,           VZj**gppp B               
-OL,5,           ^ZU({5                
-OL,6,            ZU!'~G02U!EClear          
-OL,7,           ^ZU ~ow1  E              
-OL,8,BCloudy    ^ZV*y?sp  FRain          
+OL,5,           ^ZR({5                
+OL,6,            ZR!'~G03R!BClear          
+OL,7,           ^ZR ~ow1  B              
+OL,8,ECloudy    ^ZV*y?sp  FRain          
 OL,9,           ^ZVj)"G 03V}  F             
-OL,10,       ^ZRp|t VxRg0 B             
-OL,11,       ZRnG03RtV+"RG03R B             
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" V *u  B          
-OL,14,B            ^ZV`  V*G 03V} B          
+OL,10,       ^ZUp|t VxVg0 B             
+OL,11,       ZUnG03UtV+"VG03V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" V *u  B          
+OL,14,E            ^ZV`  V*G 03V} B          
 OL,15,B            ^ZVk|V            
 OL,16,B            ^ZV'oG 03V}zt B       
 OL,17,B              ZVj^VG 03V B       
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E10/12C02:32:36
+OL,0,XXXXXXXXBNMPSERVER2      E10/12C03:32:46
 OL,1,T]G            Wednesday                
 OL,2,           ^ZU 4`~|}            G 2/2 
 OL,3,           ZU`?0~G05U%  B               
@@ -45,7 +45,7 @@ OL,7,           ^ZV ~ow1  F
 OL,8,B          ^ZR*y?sp  BCloudy        
 OL,9,           ^ZRj)"G 04R}  B             
 OL,10,       ^ZRp|t RxRg0 B             
-OL,11,       ZRnG04RtR+"RG05R B             
+OL,11,       ZRnG05RtR+"RG05R B             
 OL,12,       ZR+R`4R+|0             
 OL,13,        ZR+%*o!R" R *u  B          
 OL,14,B            ^ZU`  R*G 06R} B          
