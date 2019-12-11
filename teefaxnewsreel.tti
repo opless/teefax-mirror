@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 07:30GWinnersF63GLosersA38
-OL,14,C FTSE100    G7244.80 F+31.04 Fat 07:30
-OL,15,C techMARK100G5675.87 F+4.48  Fat 07:30
+OL,12,  FTSE100Fat 08:25GWinnersF35GLosersA66
+OL,14,C FTSE100    G7212.89 A-0.87  Fat 08:25
+OL,15,C techMARK100G5652.80 A-18.59 Fat 08:25
 OL,16,C Dow Jones  G27881.72A-27.88 Fat CLOSE
 OL,17,C Nasdaq     G8354.29 A-8.45  Fat CLOSE
-OL,18,C Nikkei     G23391.86A-18.33 Fat 07:31
-OL,19,C DJEurStoxx G3674.40 F+2.62  Fat 07:30
+OL,18,C Nikkei     G23391.86A-1,832.Fat 07:45
+OL,19,C DJEurStoxx G3666.44 A-5.34  Fat 08:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,36 +84,36 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G05U%  B               
-OL,4,           UZj**gppp B               
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G05R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G05V!FSunny          
+OL,6,            ZV!'~G04V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
+OL,8,B          ^ZR*y?sp  BRain          
 OL,9,           ^ZRj)"G 05R}  B             
-OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG05VtR+"VG05V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  B          
-OL,14,B            ^ZU`  R*G 06R} B          
-OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 06R}zt B       
-OL,17,B              ZUj^VG 06R B       
-OL,18,B            ZUx|^G 07R'         
-OL,19,             ^ZU! +/'iRqp0        
-OL,20,ERain        ^ZU  tG 08R/!        
-OL,21,E            ZU zG08U^/s/R/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,10,       ^ZUp|t RxUg0 B             
+OL,11,       ZUnG05UtR+"UG05U B             
+OL,12,       ZU+U`4U+|0             
+OL,13,        ZU+%*o!U" U *u  ECloudy    
+OL,14,B            ^ZR`  U*G 06U}  E         
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 06U}zt B       
+OL,17,B              ZRj^VG 06U B       
+OL,18,B            ZRx|^G 07U'         
+OL,19,             ^ZR! +/'iUqp0        
+OL,20,B            ^ZR  tG 08U/!        
+OL,21,B            ZR zG09R^/s/U/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -142,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -188,7 +188,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -214,7 +214,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -240,7 +240,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -250,7 +250,7 @@ OL,4,CAirport delays after plane overshoots
 OL,5,Crunway
 OL,6, Flights have been cancelled after a
 OL,7, private plane came off the runway at
-OL,8, Liverpool John Lennon Airport.
+OL,8, Liverpool John Lennon Airport. 
 OL,10,FFour people were on board the plane but
 OL,11,Fno-one has been hurt, a spokesman for
 OL,12,Fthe airport has confirmed. 
@@ -265,7 +265,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +291,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -317,7 +317,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -342,7 +342,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -368,7 +368,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -394,7 +394,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
@@ -419,7 +419,7 @@ OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -445,7 +445,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -471,7 +471,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -497,32 +497,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CEd Sheeran named 'artist of the decade'
-OL,5, Ed Sheeran has been named the UK's
-OL,6, artist of the decade by the Official
-OL,7, Charts Company.
-OL,9,FSheeran achieved the milestone after a
-OL,10,Fcombined run of 12 number one singles
-OL,11,Fand albums between 2010 and 2019 - more
-OL,12,Fthan any other artist. 
-OL,14,FHe's also had the most weeks (79) at
-OL,15,Fnumber one in both the album and
-OL,16,Fsingles charts in this period. 
-OL,18,FShape Of You was the biggest hit of the
-OL,19,F2010s, spending 14 weeks at number one
-OL,20,Fand selling more than 4.5m copies.
+OL,4,CDelivery of new Greater Anglia trains
+OL,5,Cdelayed
+OL,6, Delivery of the next phase of Greater
+OL,7, Anglia's new #1.4bn fleet of trains has
+OL,8, been delayed by software problems.
+OL,10,FManufacturer Bombardier said the first
+OL,11,Ftrains were expected to enter service
+OL,12,Fby spring and not the end of this year.
+OL,14,FIt said development of the software to
+OL,15,Fbe used on the 111 trains had taken
+OL,16,Flonger than anticipated.
+OL,18,FGreater Anglia, which has seen a string
+OL,19,Fof delays and cancellations with its
+OL,20,Fnew trains, said it had been told extra
+OL,21,Fstaff had been assigned to the job.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -548,7 +549,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -574,7 +575,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -599,7 +600,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -625,7 +626,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -651,7 +652,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -677,7 +678,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -703,7 +704,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -729,7 +730,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
