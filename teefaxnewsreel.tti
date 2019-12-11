@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -19,12 +19,12 @@ OL,10,GAirport delays after plane         C106
 OL,11,Govershoots runway                      
 OL,12,GNew volcanic activity slows NZ     C107
 OL,13,Grecovery efforts                       
-OL,14,GChickens to be culled after bird   C108
-OL,15,Gflu outbreak                           
+OL,14,GMan arrested in Jonathan Cairns    C108
+OL,15,Gmurder case                            
 OL,16,GThunberg accuses world leaders of  C109
 OL,17,G'creative PR'                          
-OL,18,GSon charged with murdering mother  C110
-OL,19,Gin fire                                
+OL,18,GChickens to be slaughtered after   C110
+OL,19,Gbird flu outbreak                      
 OL,20,GProtesters storm museum over naked C111
 OL,21,GZapata painting                        
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 10:25GWinnersF38GLosersA63
-OL,14,C FTSE100    G7212.04 A-1.72  Fat 10:25
-OL,15,C techMARK100G5642.87 A-28.52 Fat 10:25
+OL,12,  FTSE100Fat 11:30GWinnersF32GLosersA69
+OL,14,C FTSE100    G7204.23 A-9.53  Fat 11:30
+OL,15,C techMARK100G5616.76 A-54.63 Fat 11:30
 OL,16,C Dow Jones  G27881.72A-27.88 Fat CLOSE
 OL,17,C Nasdaq     G8354.29 A-8.45  Fat CLOSE
 OL,18,C Nikkei     G23391.86A-1,832.Fat 07:45
-OL,19,C DJEurStoxx G3672.71 F+0.93  Fat 10:25
+OL,19,C DJEurStoxx G3678.45 F+6.67  Fat 11:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -82,7 +82,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -111,7 +111,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -140,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -169,24 +169,24 @@ OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
 OL,6,E```````````````````````````````````````
 OL,4,MLiam Payne on alcohol: 'My family wC502
-OL,7,GEd Sheeran named 'artist of the decC503
-OL,8,GProtesters storm museum over naked C504
-OL,9,GRoxette singer Marie Fredriksson diC505
-OL,10,GDrumming ace, 9, given guitar by USC506
-OL,12,GPeter Handke receives Nobel LiteratC507
-OL,13,G'I'm the loner Throner' says HaringC508
-OL,14,GDrugs and guns found on Juice Wrld'C509
-OL,15,GFestive Banksy artwork preserved inC510
-OL,17,GLiverpool's Super Lambanana 'may goC511
-OL,18,GJohnson 'could look at' abolishing C512
-OL,19,GA tale of two Fabrizio Morettis    C513
-OL,20,GWhy James McAvoy's Bergerac ditchesC514
+OL,7,GBuyer returns Grease jacket to NewtC503
+OL,8,GEd Sheeran named 'artist of the decC504
+OL,9,GProtesters storm museum over naked C505
+OL,10,GRoxette singer Marie Fredriksson diC506
+OL,12,GStolen Klimt mystery 'solved' by gaC507
+OL,13,GDrumming ace, 9, given guitar by USC508
+OL,14,GPeter Handke receives Nobel LiteratC509
+OL,15,G'I'm the loner Throner' says HaringC510
+OL,17,GDrugs and guns found on Juice Wrld'C511
+OL,18,GFestive Banksy artwork preserved inC512
+OL,19,GLiverpool's Super Lambanana 'may goC513
+OL,20,GJohnson 'could look at' abolishing C514
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -212,7 +212,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -221,16 +221,16 @@ OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
 OL,4,CSuu Kyi rejects genocide claims at top
 OL,5,CUN court
 OL,6, Myanmar's leader Aung San Suu Kyi has
-OL,7, been defending her country against
+OL,7, defended her country against
 OL,8, allegations of genocide at the UN
 OL,9, International Court of Justice (ICJ). 
-OL,11,FThe Nobel Peace Prize laureate is
-OL,12,Fresponding to widespread claims that
+OL,11,FThe Nobel Peace Prize laureate
+OL,12,Fresponded to widespread claims that
 OL,13,FMyanmar (formerly Burma) committed
 OL,14,Fatrocities against Muslim Rohingya.
 OL,16,FIn her opening remarks, she called the
 OL,17,Fcase against Myanmar "incomplete and
-OL,18,Fincorrect". 
+OL,18,Fincorrect".
 OL,20,FShe said troubles in Rakhine, where
 OL,21,Fmany Rohingya lived, go back centuries.
 OL,22,D]CHome news digestG141CWorld digestG142
@@ -238,7 +238,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -249,22 +249,22 @@ OL,5,Crunway
 OL,6, Flights have been cancelled after a
 OL,7, private plane came off the runway at
 OL,8, Liverpool John Lennon Airport.  
-OL,10,FFour people were on board the plane but
-OL,11,Fno-one has been hurt, a spokesman for
-OL,12,Fthe airport has confirmed. 
-OL,14,FThe airport is expected to be closed
-OL,15,Funtil this afternoon and an inquiry has
-OL,16,Fbeen launched into what happened when
-OL,17,Fthe plane landed at about 06:00 GMT. 
-OL,19,FA specialist removal team are on site
-OL,20,Fand will use cranes and airbags to
-OL,21,Fremove the plane from the grass.
+OL,10,FThe airport is expected to be closed
+OL,11,Ffor several hours and an inquiry has
+OL,12,Fbeen launched into what happened when
+OL,13,Fthe plane landed at about 06:00 GMT. 
+OL,15,FFour people were on board the plane but
+OL,16,Fno-one was hurt, a spokesman for the
+OL,17,Fairport has confirmed. 
+OL,19,FA source at Liverpool Football Club
+OL,20,Fconfirmed the private jet was carrying
+OL,21,Fone of the club's owners, Mike Gordon. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -290,33 +290,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CChickens to be culled after bird flu
-OL,5,Coutbreak
-OL,6, All 27,000 chickens at a farm in
-OL,7, Suffolk will be culled after cases of
-OL,8, bird flu were confirmed.
-OL,10,FA number of the birds were found to
-OL,11,Fhave the H5 strain of avian flu, the
-OL,12,FDepartment for Environment, Food and
-OL,13,FRural Affairs (Defra) said.
-OL,15,FIt set up a 1km (0.6 mile) exclusion
-OL,16,Fzone around the farm, near Eye, to
-OL,17,Flimit risk of the disease spreading.
-OL,19,FDr Gavin Dabrera, from Public Health
-OL,20,FEngland, said the risk to public health
-OL,21,Fwas very low.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
+OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
+OL,2,Wj $kj $kj 'kT]S+`j5k4sjuj7j7o5z%
+OL,3,W"###"###"###T//,/,--.,-.,,-,-.,-.-.,,//
+OL,4,CMan arrested in Jonathan Cairns murder
+OL,5,Ccase
+OL,6, A man has been arrested on suspicion of
+OL,7, murder in connection with the death of
+OL,8, a County Londonderry teenager 20 years
+OL,9, ago.
+OL,11,FJonathan Cairns was 18 when he was
+OL,12,Fattacked in Ballykelly on his way home
+OL,13,Ffrom a night out on 25 April 1999.
+OL,15,FHis body was found in a shallow grave
+OL,16,Fin Loughermore Forest, about five miles
+OL,17,Ffrom his home, the next day. 
+OL,19,FThe 49-year-old man has also been
+OL,20,Farrested for perverting the course of
+OL,21,Fjustice and withholding information. 
+OL,22,T]GN IRELANDCHeadlinesG160CSport   G390
+OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -342,7 +342,59 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CChickens to be slaughtered after bird
+OL,5,Cflu outbreak
+OL,6, All 27,000 chickens at a farm in
+OL,7, Suffolk will be slaughtered after cases
+OL,8, of bird flu were confirmed.
+OL,10,FA number of the birds were found to
+OL,11,Fhave the H5 strain of avian flu, the
+OL,12,FDepartment for Environment, Food and
+OL,13,FRural Affairs (Defra) said.
+OL,15,FIt set up a 1km (0.6 mile) exclusion
+OL,16,Fzone around the farm, near Eye, to
+OL,17,Flimit risk of the disease spreading.
+OL,19,FDr Gavin Dabrera, from Public Health
+OL,20,FEngland, said the risk to public health
+OL,21,Fwas very low.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40515
+SC,0015
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CProtesters storm museum over naked
+OL,5,CZapata painting
+OL,6, Protesters stormed the Palace of Fine
+OL,7, Arts in Mexico City on Tuesday over a
+OL,8, painting showing revolutionary hero
+OL,9, Emiliano Zapata striking an
+OL,10, unconventional pose.
+OL,12,FThey shouted "burn it, burn it",
+OL,13,Farguing that the painting, which shows
+OL,14,FZapata in high heels and a pink hat
+OL,15,Fnaked on an aroused horse is offensive.
+OL,17,FZapata's grandson, Jorge Zapata
+OL,18,FGonzalez, wants it to be removed.
+OL,20,F"We are not going to allow this," he
+OL,21,Ftold the Associated Press. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40516
+SC,0016
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -365,61 +417,10 @@ OL,20,Fendanger life and is due to appear
 OL,21,Fbefore Thames magistrates later.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40515
-SC,0015
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CProtesters storm museum over naked
-OL,5,CZapata painting
-OL,6, Protesters stormed the Palace of Fine
-OL,7, Arts in Mexico City on Tuesday over a
-OL,8, painting showing revolutionary hero
-OL,9, Emiliano Zapata striking an
-OL,10, unconventional pose.
-OL,12,FThey shouted "burn it, burn it",
-OL,13,Farguing that the painting, which shows
-OL,14,FZapata naked on an aroused horse in
-OL,15,Fhigh heels and a pink hat is offensive.
-OL,17,FZapata's grandson, Jorge Zapata
-OL,18,FGonzalez, wants it to be removed.
-OL,20,F"We are not going to allow this," he
-OL,21,Ftold the Associated Press. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40516
-SC,0016
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
-OL,2,Wj $kj $kj 'kT]S+`j5k4sjuj7j7o5z%
-OL,3,W"###"###"###T//,/,--.,-.,,-,-.,-.-.,,//
-OL,4,CDamages case over IRA Hyde Park bombing
-OL,5, Relatives of four soldiers murdered by
-OL,6, an IRA bomb in Hyde Park in 1982 are
-OL,7, seeking damages from the main suspect.
-OL,9,FThe four members of the Royal Household
-OL,10,FCavalry were killed as they rode to the
-OL,11,FChanging of the Guard ceremony in
-OL,12,FWhitehall on 20 July 1982.
-OL,14,FA criminal case against John Downey,
-OL,15,Fwho denied four counts of murder,
-OL,16,Fcollapsed in controversial
-OL,17,Fcircumstances in 2014.
-OL,19,FThe civil action is taking place in
-OL,20,FLondon and is due to last three days.
-OL,22,T]GN IRELANDCHeadlinesG160CSport   G390
-OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -444,33 +445,84 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
+OL,2,Wj $kj $kj 'kT]S+`j5k4sjuj7j7o5z%
+OL,3,W"###"###"###T//,/,--.,-.,,-,-.,-.-.,,//
+OL,4,CHyde Park bomb case hears of
+OL,5,Cfingerprint evidence
+OL,6, Fingerprint evidence links John Downey
+OL,7, to the IRA car bomb used to murder four
+OL,8, soldiers at Hyde Park in London 37
+OL,9, years ago, a court has been told.
+OL,11,FFive prints were found on two parking
+OL,12,Ftickets relating to the car on days
+OL,13,Fleading up to the attack in July 1982.
+OL,15,FMr Downey is the subject of a civil
+OL,16,Faction being brought by the daughter of
+OL,17,Fone of four soldiers killed.
+OL,19,FIn 2014, a criminal prosecution against
+OL,20,FMr Downey collapsed in controversial
+OL,21,Fcircumstances in 2014.
+OL,22,T]GN IRELANDCHeadlinesG160CSport   G390
+OL,23,D]GNATIONALC Main menuG100CWeatherG 400
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMore than 600 presents stolen from
-OL,5,CSanta's grotto
-OL,6, More than 600 Christmas presents for
-OL,7, children have been stolen from a
-OL,8, community Santa's grotto.
-OL,10,FThe gifts were being kept in buildings
-OL,11,Fat the bowling green in Eastville Park,
-OL,12,FBristol, after Father Christmas was
-OL,13,Funable to give them out on Sunday.
-OL,15,FHigh winds cancelled the event so the
-OL,16,Fwrapped presents were being stored
-OL,17,Fwhile organisers worked out what to do.
-OL,19,FVolunteers called police and said the
-OL,20,Ftheft overnight on Monday and Tuesday
-OL,21,Fhad "knocked them for six".
+OL,4,CBuyer returns Grease jacket to
+OL,5,CNewton-John
+OL,6, The leather jacket Olivia Newton-John
+OL,7, wore in Grease has been given back to
+OL,8, the actor by the man who bought it from
+OL,9, her at auction for $243,200 (#185,000).
+OL,11,FThe Australian sold the black jacket
+OL,12,Fand other possessions in November, with
+OL,13,Fpart of the proceeds going to her
+OL,14,Fcancer research centre.
+OL,16,FBut the anonymous buyer has now handed
+OL,17,Fit back to a "grateful" Newton-John.
+OL,19,FHe said: "It should not sit in a
+OL,20,Fbillionaire's closet for country-club
+OL,21,Fbragging rights."
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40519
-SC,0019
+PN,40520
+SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
+OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
+OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
+OL,4,CBaby, mother and OAP rescued from cars
+OL,5,Cin flood
+OL,6, A baby, its mother and a pensioner were
+OL,7, rescued from cars stranded in flood
+OL,8, water as heavy rain lashed the south of
+OL,9, Scotland. 
+OL,11,FThey were pulled to safety by
+OL,12,Ffirefighters when their vehicles became
+OL,13,Fstuck in water on the A762 near Glenlee
+OL,14,Fin Dumfries and Galloway on Tuesday. 
+OL,16,FA 36-year-old woman and her
+OL,17,F23-month-old baby were taken to
+OL,18,Fhospital after being rescued from one
+OL,19,Fcar. 
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40521
+SC,0021
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -493,62 +545,10 @@ OL,20,Fwill put pressure on PNG to grant
 OL,21,FBougainville independence.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40520
-SC,0020
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CExercise calorie labels 'make food less
-OL,5,Ctempting'
-OL,6, Food packs should display how much
-OL,7, exercise a person would need to take to
-OL,8, burn off the calories contained in the
-OL,9, product, UK researchers say.
-OL,11,FAppreciating it would take four hours
-OL,12,Fto walk off the calories in a pizza or
-OL,13,F22 minutes to run off a chocolate bar
-OL,14,Fcreates an awareness of the energy cost
-OL,15,Fof food, they say. 
-OL,17,FThe labels would help people indulge
-OL,18,Fless, exploratory studies suggest.
-OL,20,FThe aim is to encourage healthier
-OL,21,Feating habits to fight obesity.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40521
-SC,0021
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNo-fly rule for Saudi students after US
-OL,5,Cbase attack
-OL,6, The US has grounded hundreds of Saudi
-OL,7, military aviation students at bases
-OL,8, across the country in the wake of
-OL,9, Friday's deadly shooting in Florida. 
-OL,11,FAll flying will be paused, though
-OL,12,Fclassroom studies will continue.
-OL,14,FIt comes after Defence Secretary Mark
-OL,15,FEsper ordered a review following the
-OL,16,Fshooting of three sailors at a navy
-OL,17,Fbase by a Saudi Air Force lieutenant. 
-OL,19,FThe FBI said it was trying to determine
-OL,20,Fthe motive of the attacker, who was
-OL,21,Fshot dead by police.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -574,7 +574,33 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CBuyer returns Grease jacket to
+OL,5,CNewton-John
+OL,6, The leather jacket Olivia Newton-John
+OL,7, wore in Grease has been given back to
+OL,8, the actor by the man who bought it from
+OL,9, her at auction for $243,200 (#185,000).
+OL,11,FThe Australian sold the black jacket
+OL,12,Fand other possessions in November, with
+OL,13,Fpart of the proceeds going to her
+OL,14,Fcancer research centre.
+OL,16,FBut the anonymous buyer has now handed
+OL,17,Fit back to a "grateful" Newton-John.
+OL,19,FHe said: "It should not sit in a
+OL,20,Fbillionaire's closet for country-club
+OL,21,Fbragging rights."
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40524
+SC,0024
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -596,10 +622,10 @@ OL,19,F2010s, spending 14 weeks at number one
 OL,20,Fand selling more than 4.5m copies.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40524
-SC,0024
+PN,40525
+SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -614,18 +640,18 @@ OL,9, Emiliano Zapata striking an
 OL,10, unconventional pose.
 OL,12,FThey shouted "burn it, burn it",
 OL,13,Farguing that the painting, which shows
-OL,14,FZapata naked on an aroused horse in
-OL,15,Fhigh heels and a pink hat is offensive.
+OL,14,FZapata in high heels and a pink hat
+OL,15,Fnaked on an aroused horse is offensive.
 OL,17,FZapata's grandson, Jorge Zapata
 OL,18,FGonzalez, wants it to be removed.
 OL,20,F"We are not going to allow this," he
 OL,21,Ftold the Associated Press. 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40525
-SC,0025
+PN,40526
+SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -648,10 +674,36 @@ OL,20,Fover 40 years," her bandmate Per Gessle
 OL,21,Fsaid. "Things will never be the same."
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40526
-SC,0026
+PN,40527
+SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CStolen Klimt mystery 'solved' by
+OL,5,Cgardener in Italy
+OL,6, Nothing was heard of Gustav Klimt's
+OL,7, Portrait of a Lady after it was stolen
+OL,8, nearly 23 years ago from a modern art
+OL,9, gallery in Piacenza, northern Italy.
+OL,11,FThere seemed little prospect of the
+OL,12,Fmasterpiece, valued at 60m euros (#50m;
+OL,13,F$66m), ever being found.
+OL,15,FThat was until a worker clearing ivy
+OL,16,Ffrom the wall of the gallery where it
+OL,17,Fwas stolen stumbled on a metal panel.
+OL,19,FBehind it lay a recess, within which
+OL,20,Fwas a black bag containing what
+OL,21,Fappeared to be the missing painting.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40528
+SC,0028
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -674,10 +726,10 @@ OL,20,FNandi said on social media performing
 OL,21,Fon the show was "incredible".
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40527
-SC,0027
+PN,40529
+SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C12:34:58
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -698,57 +750,5 @@ OL,18,FOlga Tokarczuk, who is considered the
 OL,19,Fleading Polish novelist of her
 OL,20,Fgeneration, also collected her belated
 OL,21,F2018 literature prize. 
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40528
-SC,0028
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,C'I'm the loner Throner' says Harington
-OL,5,Con Globes nod
-OL,6, Nominees for the 2020 Golden Globes
-OL,7, have expressed their delight at being
-OL,8, recognised for an award.
-OL,10,FSaoirse Ronan, Taylor Swift and Kit
-OL,11,FHarington were among them, with Swift
-OL,12,Fcalling her Cats song nomination for
-OL,13,FBeautiful Ghosts "purrfect". 
-OL,15,F"I'm the 'loner Throner,' it seems,"
-OL,16,FHarington  told The Hollywood Reporter
-OL,17,Fafter he was the only person from Game
-OL,18,Fof Thrones' final series get a nod.
-OL,20,FNetflix movie Marriage Story came out
-OL,21,Fon top on Monday with six nominations.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40529
-SC,0029
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CDrugs and guns found on Juice Wrld's
-OL,5,Cjet
-OL,6, Police say they found guns and drugs on
-OL,7, the private jet that carried rapper
-OL,8, Juice Wrld to Chicago before he died on
-OL,9, Sunday morning.
-OL,11,FLaw enforcement officials were waiting
-OL,12,Ffor the plane when it landed, having
-OL,13,Freceived information that banned
-OL,14,Fsubstances might be onboard.
-OL,16,FIt was during a subsequent search of
-OL,17,Fthe aircraft that the rapper had a
-OL,18,Fseizure that led to his death.
-OL,20,FAn autopsy on the 21-year-old has
-OL,21,Fproved inconclusive.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
