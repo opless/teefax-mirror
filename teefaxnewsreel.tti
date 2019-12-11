@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -23,8 +23,8 @@ OL,14,GLondon homicides highest for year  C108
 OL,15,Gsince 2008                             
 OL,16,GNew volcanic activity slows NZ     C109
 OL,17,Grecovery efforts                       
-OL,18,GMen arrested and women rescued in  C110
-OL,19,G'brothel' raids                        
+OL,18,GMan guilty of raping student in    C110
+OL,19,Gpark                                   
 OL,20,GIsrael heading towards third       C111
 OL,21,Gelection in a year                     
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -53,14 +53,14 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF54GLosersA47
 OL,14,C FTSE100    G7216.25 F+2.49  Fat CLOSE
 OL,15,C techMARK100G5655.91 A-15.48 Fat CLOSE
-OL,16,C Dow Jones  G27833.77A-47.95 Fat 16:30
-OL,17,C Nasdaq     G8375.54 F+21.24 Fat 16:25
+OL,16,C Dow Jones  G27842.20A-39.52 Fat 17:25
+OL,17,C Nasdaq     G8372.43 F+18.14 Fat 17:25
 OL,18,C Nikkei     G23391.86A-1,832.Fat 07:45
 OL,19,C DJEurStoxx G3687.45 F+15.67 Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -81,41 +81,41 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G              Today                  
+OL,1,T]G           This Evening              
 OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G05R%  B               
+OL,3,           ZR`?0~G02R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G05V!FSunny          
+OL,6,            ZV!'~G01V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,ECloudy    ^ZR*y?sp  BRain          
-OL,9,           ^ZRj)"G 05R}  B             
-OL,10,       ^ZUp|t RxUg0 B             
-OL,11,       ZUnG05UtR+"UG05U B             
-OL,12,       ZU+U`4U+|0             
-OL,13,        ZU+%*o!U" R *u  B          
-OL,14,E            ^ZR`  R*G 06R} B          
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 02V} B              
+OL,10,       ^ZVp|t VxVg0 B             
+OL,11,       ZVnG02VtV+"VG01V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" U *u  EClear     
+OL,14,B            ^ZR`  U*G 01U}  E         
 OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 06R}zt B       
-OL,17,B              ZRj^VG 07R B       
-OL,18,B            ZRx|^G 07R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 09R/!        
-OL,21,B            ZR zG08R^/s/R/? B         
+OL,16,B            ^ZR'oG 01V}zt B       
+OL,17,B              ZRj^VG 01V B       
+OL,18,B            ZRx|^G 02V'         
+OL,19,             ^ZR! +/'iVqp0        
+OL,20,BRain        ^ZR  tG 02V/!        
+OL,21,B            ZR zG04R^/s/V/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G05R%  B               
+OL,3,           ZR`?0~G06R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G05V!FCloudy         
@@ -128,7 +128,7 @@ OL,12,       ZR+V`4V+|0
 OL,13,        ZR+%*o!V" R *u  BRain      
 OL,14,B            ^ZR`  R*G 05R}  B         
 OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 06R}zt B       
+OL,16,B            ^ZR'oG 07R}zt B       
 OL,17,B              ZRj^VG 06R B       
 OL,18,B            ZRx|^G 09R'         
 OL,19,             ^ZR! +/'iRqp0        
@@ -139,7 +139,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -160,7 +160,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -174,18 +174,16 @@ OL,9,GStolen Klimt mystery 'solved' by gaC505
 OL,10,GEd Sheeran named 'artist of the decC506
 OL,12,GHome Alone reboot: Cast reveal getsC507
 OL,13,GProtesters storm museum over naked C508
-OL,14,GYouTube bans 'malicious insults andC509
-OL,15,GRoxette singer Marie Fredriksson diC510
-OL,17,GDrumming ace, 9, given guitar by USC511
-OL,18,GPeter Handke receives Nobel LiteratC512
-OL,19,G'I'm the loner Throner' says HaringC513
-OL,20,GA tale of two Fabrizio Morettis    C514
+OL,14,GA tale of two Fabrizio Morettis    C509
+OL,15,GGolden Globes criticised for all-maC510
+OL,17,GArtist Howson returns to 'hell' of C511
+OL,18,GHow a 'cheeky but charming' tiger mC512
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -196,22 +194,21 @@ OL,5,CJaden, 14
 OL,6, A man has been found guilty of
 OL,7, murdering a 14-year-old boy in a
 OL,8, "violent and frenzied" knife attack.
-OL,10,FJaden Moodie was knocked off a moped
-OL,11,Fand repeatedly stabbed in Bickley Road,
-OL,12,FLeyton, in January. 
-OL,14,FAyoub Majdouline, 19, from Wembley,
-OL,15,Fnorth London, was convicted following a
-OL,16,Ftrial at the Old Bailey.
-OL,18,FJurors heard both his DNA and Jaden's
-OL,19,Fwere found on a knife and yellow
-OL,20,Fwashing up gloves which had been thrown
-OL,21,Finto a drain.
+OL,10,FAyoub Majdouline, 19, was convicted
+OL,11,Fafter Jaden Moodie was knocked off a
+OL,12,Fmoped and repeatedly stabbed in Bickley
+OL,13,FRoad, Leyton, in January. 
+OL,15,FJurors heard their DNA was found on a
+OL,16,Fknife and yellow washing up gloves
+OL,17,Fwhich had been thrown into a drain.
+OL,19,FMajdouline, from Wembley, north London,
+OL,20,Fis due to be sentenced on 18 December.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -237,7 +234,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -263,7 +260,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -289,7 +286,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -315,7 +312,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -341,33 +338,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMen arrested and women rescued in
-OL,5,C'brothel' raids
-OL,6, Eight men have been arrested and 11
-OL,7, women rescued during raids at suspected
-OL,8, brothels.
-OL,10,FPolice raided 15 sites on Tuesday night
-OL,11,Fwhere they found Romanian and Hungarian
-OL,12,Fwomen, in their 20s, believed to be
-OL,13,Fvictims of sexual exploitation.
-OL,15,FThe searches, in Luton, were part of an
-OL,16,Finvestigation into human trafficking,
-OL,17,Fexploitation and modern day slavery.
-OL,19,FThe men were arrested on suspicion of
-OL,20,Fthe management and control of brothels
-OL,21,Fand money laundering.
+OL,4,CMan guilty of raping student in park
+OL,5, A man has been found guilty of raping
+OL,6, and strangling an 18-year-old student
+OL,7, as she walked through a Southampton
+OL,8, Park.
+OL,10,FThe teenager was attacked in Riverside
+OL,11,FPark late on 2 December 2018.
+OL,13,FJozef Janczura, 34, of Laburnum Road in
+OL,14,FSouthampton, was convicted of rape and
+OL,15,Fassault causing actual bodily harm.
+OL,17,FHis trial heard the attack was
+OL,18,F"terrifying" and his victim feared she
+OL,19,Fwould die. He will be sentenced on 16
+OL,20,FJanuary.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -393,32 +389,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMan guilty of raping student in park
-OL,5, A man has been found guilty of raping
-OL,6, and strangling an 18-year-old student
-OL,7, as she walked through a Southampton
-OL,8, Park.
-OL,10,FThe teenager was attacked in Riverside
-OL,11,FPark late on 2 December 2018.
-OL,13,FJozef Janczura, 34, of Laburnum Road in
-OL,14,FSouthampton, was convicted of rape and
-OL,15,Fassault causing actual bodily harm.
-OL,17,FHis trial heard the attack was
-OL,18,F"terrifying" and his victim feared she
-OL,19,Fwould die. He will be sentenced on 16
-OL,20,FJanuary.
+OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
+OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
+OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
+OL,4,CHundreds of dead birds found in mystery
+OL,5,Cmass death
+OL,6, Hundreds of birds found dead on a north
+OL,7, Wales road are to be tested to discover
+OL,8, how they died.
+OL,10,FAround 300 starlings were discovered
+OL,11,Fwith blood on their bodies in a lane on
+OL,12,FAnglesey.
+OL,14,FDafydd Edwards, whose partner found the
+OL,15,Fbirds, said it was as if "they had
+OL,16,Fdropped down dead from the sky".
+OL,18,FThe Animal and Plant Health Agency has
+OL,19,Fcollected them for testing, and will
+OL,20,Fexamine whether they could have been
+OL,21,Fpoisoned.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -444,7 +441,59 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CNine arrested and women rescued in
+OL,5,C'brothel' raids
+OL,6, Nine people have been arrested and 11
+OL,7, women rescued during raids at suspected
+OL,8, brothels.
+OL,10,FPolice raided 15 places on Tuesday
+OL,11,Fnight where they found Romanian and
+OL,12,FHungarian women, in their 20s, believed
+OL,13,Fto be victims of sexual exploitation.
+OL,15,FThe searches, in Luton, were part of an
+OL,16,Finvestigation into human trafficking,
+OL,17,Fexploitation and modern day slavery.
+OL,19,FThe five men and four women are
+OL,20,Fsuspected of managing and controlling
+OL,21,Fbrothels, among other charges.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40519
+SC,0019
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CIndia approves 'anti-Muslim'
+OL,5,Ccitizenship law
+OL,6, India's parliament has approved a bill
+OL,7, that grants citizenship to non-Muslim
+OL,8, illegal immigrants from Afghanistan,
+OL,9, Bangladesh and Pakistan.
+OL,11,FThe bill passed the upper house of
+OL,12,Fparliament by 125 votes to 105. It had
+OL,13,Falready cleared the lower house. 
+OL,15,FThe news came as protests against the
+OL,16,Fbill raged in north-eastern states
+OL,17,Fbordering Bangladesh. Troops were
+OL,18,Fdeployed in Tripura and police battled
+OL,19,Fprotesters in Assam's capital Guwahati.
+OL,21,FCritics say the bill is discriminatory.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40520
+SC,0020
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -467,10 +516,10 @@ OL,20,FOctober blaming a "perfect storm" of
 OL,21,Fpressures.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40519
-SC,0019
+PN,40521
+SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -492,61 +541,10 @@ OL,18,Fkilled a detective across town, then
 OL,19,Fdrove a rental van to the market.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40520
-SC,0020
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,C'I dreamt of victory against the Post
-OL,5,COffice'
-OL,6, Jo Hamilton is celebrating "one of the
-OL,7, best days I've ever had". 
-OL,9,FHer life was turned inside out after
-OL,10,Fthe sub-postmistress was accused by the
-OL,11,FPost Office of taking #36,000 from the
-OL,12,Fvillage shop she ran in Hampshire.
-OL,14,FBut now the Post Office is to pay
-OL,15,Falmost #58m to settle a long-running
-OL,16,Fdispute with sub-postmasters and
-OL,17,Fpostmistresses.
-OL,19,F"You dream about victory, but now it's
-OL,20,Factually here," said Mr Hamilton.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40521
-SC,0021
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CProtesters storm museum over naked
-OL,5,CZapata painting
-OL,6, Protesters stormed the Palace of Fine
-OL,7, Arts in Mexico City on Tuesday over a
-OL,8, painting showing revolutionary hero
-OL,9, Emiliano Zapata striking an
-OL,10, unconventional pose.
-OL,12,FThey shouted "burn it, burn it",
-OL,13,Farguing that the painting, which shows
-OL,14,FZapata in high heels and a pink hat
-OL,15,Fnaked on an aroused horse is offensive.
-OL,17,FZapata's grandson, Jorge Zapata
-OL,18,FGonzalez, wants it to be removed.
-OL,20,F"We are not going to allow this," he
-OL,21,Ftold the Associated Press. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -572,7 +570,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -598,7 +596,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -624,7 +622,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -650,7 +648,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -675,7 +673,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -701,7 +699,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -727,26 +725,24 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C17:35:24
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C18:35:18
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
-OL,4,CYouTube bans 'malicious insults and
-OL,5,Cveiled threats'
-OL,6, YouTube will no longer allow videos
-OL,7, that "maliciously insult someone" based
-OL,8, on "protected attributes" such as race,
-OL,9, gender identity or sexuality.
-OL,11,FThe video-sharing platform will also
-OL,12,Fban "implied threats of violence" as
-OL,13,Fpart of its new harassment policy.
-OL,15,FA row erupted in June after a prominent
-OL,16,Fvideo-maker said he had been the target
-OL,17,Fof abuse by another YouTube star.
-OL,19,FAt the time, YouTube said its rules had
-OL,20,Fnot been broken. But it has now deleted
-OL,21,Fmany of the videos in question.
+OL,4,CA tale of two Fabrizio Morettis
+OL,5, The name Fabrizio Moretti will ring a
+OL,6, bell with music fans of a rock 'n' roll
+OL,7, persuasion.
+OL,9,FSo too though, it turns out, with those
+OL,10,Fwho have an interest in Renaissance
+OL,11,Fart.
+OL,13,FIn one of the more intriguing career
+OL,14,Fmoves of recent times, the 39-year-old
+OL,15,Fdrummer from The Strokes has teamed up
+OL,16,Fwith his Italian art dealer namesake,
+OL,17,F45, to put a fresh spin on some classic
+OL,18,Fpaintings and sculptures.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
