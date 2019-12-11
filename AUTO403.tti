@@ -5,19 +5,25 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C14:33:43
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C15:33:26
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FBrighter than yesterday but another
-OL,9,Funsettled day with showers affecting
-OL,10,Fmost places at times, especially
-OL,11,Fnorthern and western UK. Showers will
-OL,12,Fbe heavy at times and wintry on hills.
-OL,13,FSome eastern parts may stay dry. Cold
-OL,14,Fand windy.
+OL,7,GThis Evening and Tonight
+OL,8,FShowers becoming confined to northern
+OL,9,Fand western areas. Turning frosty
+OL,10,Facross central and eastern areas with
+OL,11,Fsome icy patches possible across
+OL,12,FScotland, whilst a few fog patches form
+OL,13,Facross southeast England. Rain arriving
+OL,14,Facross western parts later.
+OL,4,                                    1/2 
+OL,16,GThursday
+OL,17,FRain in the west moving eastwards
+OL,18,Facross most parts with some heavy
+OL,19,Fbursts. A spell of snow likely on
+OL,20,Fnorthern hills. Cold in the north.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -25,17 +31,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C14:33:43
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C15:33:26
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Friday to Sunday
-OL,8,FUnsettled and often windy with sunny
-OL,9,Fspells, showers and occasional spells
-OL,10,Fof more prolonged rain. Rather cold
-OL,11,Fwith showers turning to snow at times
-OL,12,Fover hills in the north.
+OL,8,FRemaining unsettled with showers and
+OL,9,Fsome longer spells of rain, with snow
+OL,10,Fat times on high ground. Some brief
+OL,11,Fbrighter, drier spells. Windy at times,
+OL,12,Fparticularly for England and Wales.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
