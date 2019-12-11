@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,41 +50,39 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 09:30GWinnersF32GLosersA69
-OL,14,C FTSE100    G7207.55 A-6.21  Fat 09:30
-OL,15,C techMARK100G5647.82 A-23.57 Fat 09:30
+OL,12,  FTSE100Fat 10:25GWinnersF38GLosersA63
+OL,14,C FTSE100    G7212.04 A-1.72  Fat 10:25
+OL,15,C techMARK100G5642.87 A-28.52 Fat 10:25
 OL,16,C Dow Jones  G27881.72A-27.88 Fat CLOSE
 OL,17,C Nasdaq     G8354.29 A-8.45  Fat CLOSE
 OL,18,C Nikkei     G23391.86A-1,832.Fat 07:45
-OL,19,C DJEurStoxx G3667.61 A-4.17  Fat 09:30
+OL,19,C DJEurStoxx G3672.71 F+0.93  Fat 10:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MBlues reach Champions League last  G303
-OL,6,FReds reach Champions League        G304
-OL,7,FEx-Derby County, Oxford United &   G305
-OL,8,FNapoli sack manager despite        G306
-OL,9,FVitor Pereira out of running for   G307
-OL,10,FLast year's Champions League       G308
-OL,12,FAnsu Fati becomes youngest         G309
-OL,13,FRead Crouchy's podlitical manifestoG310
-OL,14,FJadon Sancho helps German side     G311
-OL,15,FMaarten Vandevoordt, 17, concedes  G312
-OL,17,F'Mo, you can't do this'            G313
-OL,18,FChelsea will look to replace Eden  G314
-OL,19,FMarcelo Bielsa's Whites win to go  G315
+OL,4,MDavid Moyes still under            G303
+OL,6,FChelsea will look to replace Eden  G304
+OL,7,F'Mo, you can't do this'            G305
+OL,8,FTensions high in 'The Bridge' derbyG306
+OL,9,FNapoli sack manager despite        G307
+OL,10,FEx-Derby County, Oxford United &   G308
+OL,12,FCan you name all nine Club World   G309
+OL,13,FBlues reach Champions League last  G310
+OL,14,FReds reach Champions League        G311
+OL,15,FLast year's Champions League       G312
+OL,17,FRead Crouchy's podlitical manifestoG313
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -113,7 +111,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -142,7 +140,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -188,7 +186,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -196,25 +194,25 @@ OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
 OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
 OL,4,CLeaders in final push for votes ahead
 OL,5,Cof election
-OL,6, The party leaders are set for a frantic
-OL,7, day of campaigning as they criss-cross
-OL,8, the country to promote key messages
-OL,9, ahead of Thursday's general election. 
-OL,11,FJeremy Corbyn will say Labour offers a
-OL,12,F"vote for hope", while Boris Johnson
-OL,13,Fwill say the Tories are the only party
-OL,14,Fwho can "get Brexit done". 
-OL,16,FLib Dem leader Jo Swinson will also
-OL,17,Fcall on people to back her candidates
-OL,18,Fto stop the UK leaving the EU.
-OL,20,FPolls will open at 07:00 GMT on
-OL,21,FThursday and close at 22:00. 
+OL,6, The UK's party leaders have embarked on
+OL,7, a frantic final day of campaigning and
+OL,8, are focusing on key messages ahead of
+OL,9, Thursday's general election. 
+OL,11,FBoris Johnson will say the Tories are
+OL,12,Fthe only party who can move the country
+OL,13,Fforward by "getting Brexit done", while
+OL,14,FJeremy Corbyn will vow to end austerity
+OL,15,Fand give "hope to the next generation".
+OL,17,FJo Swinson will say a strong Lib Dem
+OL,18,Fshowing can stop the UK leaving the EU.
+OL,20,FNicola Sturgeon said a vote for the SNP
+OL,21,Fin Scotland could stop a Tory victory.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -240,7 +238,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -250,22 +248,23 @@ OL,4,CAirport delays after plane overshoots
 OL,5,Crunway
 OL,6, Flights have been cancelled after a
 OL,7, private plane came off the runway at
-OL,8, Liverpool John Lennon Airport. 
+OL,8, Liverpool John Lennon Airport.  
 OL,10,FFour people were on board the plane but
 OL,11,Fno-one has been hurt, a spokesman for
 OL,12,Fthe airport has confirmed. 
-OL,14,FThe airport is currently closed and an
-OL,15,Finvestigation has been launched into
-OL,16,Fwhat happened.  
-OL,18,FPassengers due to fly this morning have
-OL,19,Fbeen advised to contact their airlines
-OL,20,Ffor further information.
+OL,14,FThe airport is expected to be closed
+OL,15,Funtil this afternoon and an inquiry has
+OL,16,Fbeen launched into what happened when
+OL,17,Fthe plane landed at about 06:00 GMT. 
+OL,19,FA specialist removal team are on site
+OL,20,Fand will use cranes and airbags to
+OL,21,Fremove the plane from the grass.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -277,21 +276,21 @@ OL,6, New Zealand's White Island volcano is
 OL,7, showing increased seismic activity,
 OL,8, putting recovery efforts on hold.
 OL,10,FAuthorities hoped they would be able to
-OL,11,Fretrieve the eight people presumed dead
+OL,11,Fretrieve the nine people presumed dead
 OL,12,Fon the island on Wednesday. 
 OL,14,FSo far, six people have been confirmed
-OL,15,Fdead in the tragedy. Another 25 are in
-OL,16,Fcritical condition in hospital with
-OL,17,Fsevere burns.
+OL,15,Fdead in the tragedy. Another 29 are in
+OL,16,Fintensive care with severe burns and
+OL,17,Fone has been moved to Australia.
 OL,19,FThe volcano, also known as Whakaari,
 OL,20,Ferupted on Monday when dozens of
-OL,21,Ftourists were on the island. 
+OL,21,Ftourists were on the island.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -317,7 +316,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -343,7 +342,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -369,7 +368,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -395,7 +394,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
@@ -420,7 +419,7 @@ OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -445,7 +444,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -471,7 +470,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -497,7 +496,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -523,7 +522,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -549,7 +548,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -575,7 +574,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -600,7 +599,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -626,7 +625,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -652,7 +651,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -678,7 +677,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -704,7 +703,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -730,7 +729,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C10:35:14
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C11:33:19
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
