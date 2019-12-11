@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,15 +15,15 @@ OL,4,MLeaders in final push for votes    C104
 OL,6,Gahead of election                      
 OL,8,GWTO chief: 'Months' needed to fix  C105
 OL,9,Gdisputes body                          
-OL,10,GUK growth slowest since early 2009 C106
+OL,10,GExercise calorie labels 'make food C106
+OL,11,Gless tempting'                         
 OL,12,GDeadly gun battle erupts in Jersey C107
 OL,13,GCity                                   
-OL,14,GParties focus on key messages as   C108
-OL,15,Gpoll day nears                         
+OL,14,GUK growth slowest since early 2009 C108
 OL,16,GMerriam-Webster names 'they' its   C109
 OL,17,Gword of the year                       
-OL,18,GGP guilty of sex assaults on 23    C110
-OL,19,Gfemale patients                        
+OL,18,GParties focus on key messages as   C110
+OL,19,Gpoll day nears                         
 OL,20,GUS arrests Mexico ex-minister on   C111
 OL,21,Gdrugs charges                          
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -54,12 +54,12 @@ OL,14,C FTSE100    G7213.76 A-20.14 Fat CLOSE
 OL,15,C techMARK100G5671.39 A-21.50 Fat CLOSE
 OL,16,C Dow Jones  G27881.72A-27.88 Fat CLOSE
 OL,17,C Nasdaq     G8354.29 A-8.45  Fat CLOSE
-OL,18,C Nikkei     G23431.28F+21.09 Fat 23:25
+OL,18,C Nikkei     G23368.13A-42.06 Fat 00:25
 OL,19,C DJEurStoxx G3671.78 A-0.40  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,7 +83,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G        Wednesday Evening            
@@ -91,28 +91,28 @@ OL,2,           ^ZU 4`~|}            G 1/2
 OL,3,           ZU`?0~G01U%  B               
 OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G03V!FClear          
+OL,6,            ZV!'~G01V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
-OL,9,           ^ZRj)"G 02R}  B             
-OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG02RtR+"VG01V B             
-OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZU`  V*G 01V} B          
-OL,15,B            ^ZUk|R            
-OL,16,B            ^ZU'oG 03R}zt B       
-OL,17,B              ZUj^RG 00R B       
-OL,18,B            ZUx|^G 05R'         
-OL,19,             ^ZU! +/'iRqp0        
-OL,20,ERain        ^ZU  tG 04R/!        
-OL,21,E            ZU zG03U^/s/R/? B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 02V} B              
+OL,10,       ^ZVp|t VxRg0 B             
+OL,11,       ZVnG02VtV+"RG01R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  BClear     
+OL,14,B            ^ZU`  R*G 01R}  B         
+OL,15,B            ^ZUk|V            
+OL,16,B            ^ZU'oG 01V}zt B       
+OL,17,B              ZUj^VG 00V B       
+OL,18,B            ZUx|^G 02V'         
+OL,19,             ^ZU! +/'iVqp0        
+OL,20,ERain        ^ZU  tG 02V/!        
+OL,21,E            ZU zG03U^/s/V/? B         
 OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Thursday                
@@ -133,15 +133,15 @@ OL,15,B            ^ZRk|V
 OL,16,B            ^ZR'oG 06R}zt B       
 OL,17,B              ZRj^VG 06R B       
 OL,18,B            ZRx|^G 09R'         
-OL,19,             ^ZR! +/'iVqp0        
-OL,20,BRain        ^ZR  tG 08V/!        
-OL,21,B            ZR zG11R^/s/V/? B         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,BRain        ^ZR  tG 07R/!        
+OL,21,B            ZR zG11R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,7 +162,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -176,17 +176,18 @@ OL,9,GDrugs and guns found on Juice Wrld'C505
 OL,10,GLiverpool's Super Lambanana 'may goC506
 OL,12,GJohnson 'could look at' abolishing C507
 OL,13,GGlenda Jackson 'shines' on TV returC508
-OL,14,GA tale of two Fab Morettis         C509
-OL,15,GWhy James McAvoy's Bergerac ditchesC510
-OL,17,GGolden Globes criticised for all-maC511
-OL,18,GArtist Howson returns to 'hell' of C512
-OL,19,GHow a 'cheeky but charming' tiger mC513
+OL,14,GLiam Payne on alcohol: 'My family wC509
+OL,15,GA tale of two Fab Morettis         C510
+OL,17,GWhy James McAvoy's Bergerac ditchesC511
+OL,18,GGolden Globes criticised for all-maC512
+OL,19,GArtist Howson returns to 'hell' of C513
+OL,20,GHow a 'cheeky but charming' tiger mC514
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -212,7 +213,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -238,32 +239,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CUK growth slowest since early 2009
-OL,5, The economy suffered its worst three
-OL,6, months for more than a decade after
-OL,7, official figures revealed output failed
-OL,8, to grow once again in October.
-OL,10,FOffice for National Statistics (ONS)
-OL,11,Fdata showed the economy flatlined
-OL,12,Fmonth-on-month in October, after two
-OL,13,Fmonths of declines. 
-OL,15,FIt was the weakest three months since
-OL,16,Fearly 2009.
-OL,18,FThe figures come ahead of Thursday's
-OL,19,Fgeneral election, with the main parties
-OL,20,Fall promising to boost growth.
+OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
+OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
+OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
+OL,4,CExercise calorie labels 'make food less
+OL,5,Ctempting'
+OL,6, Food packs should display how much
+OL,7, exercise a person would need to take to
+OL,8, burn off the calories contained in the
+OL,9, product, UK researchers say.
+OL,11,FAppreciating it would take four hours
+OL,12,Fto walk off the calories in a pizza or
+OL,13,F22 minutes to run off a chocolate bar
+OL,14,Fcreates an awareness of the energy cost
+OL,15,Fof food, they say. 
+OL,17,FThe labels would help people indulge
+OL,18,Fless, exploratory studies suggest.
+OL,20,FThe aim is to encourage healthier
+OL,21,Feating habits to fight obesity.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -288,33 +290,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CParties focus on key messages as poll
-OL,5,Cday nears
-OL,6, Labour and the Tories are focusing on
-OL,7, key messages around the NHS and Brexit
-OL,8, in the final days of the campaign. 
-OL,10,FWhile Labour talks about under-funding
-OL,11,Frisks to patients, the Conservatives
-OL,12,Fare promising an end to "gridlock".
-OL,14,FBut it is not all plain sailing, as a
-OL,15,Frecording has been leaked of shadow
-OL,16,Fhealth secretary Jonathan Ashworth
-OL,17,Fcriticising Labour's election chances.
-OL,19,FAnd Boris Johnson is still facing
-OL,20,Fcriticism over his reaction to an image
-OL,21,Fof a sick boy on a hospital floor.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CUK growth slowest since early 2009
+OL,5, The economy suffered its worst three
+OL,6, months for more than a decade after
+OL,7, official figures revealed output failed
+OL,8, to grow once again in October.
+OL,10,FOffice for National Statistics (ONS)
+OL,11,Fdata showed the economy flatlined
+OL,12,Fmonth-on-month in October, after two
+OL,13,Fmonths of declines. 
+OL,15,FIt was the weakest three months since
+OL,16,Fearly 2009.
+OL,18,FThe figures come ahead of Thursday's
+OL,19,Fgeneral election, with the main parties
+OL,20,Fall promising to boost growth.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -337,33 +338,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CGP guilty of sex assaults on 23 female
-OL,5,Cpatients
-OL,6, A GP who cited Angelina Jolie and Jade
-OL,7, Goody to instil fear in his patients
-OL,8, about their health has been found
-OL,9, guilty of sexually assaulting 23 women.
-OL,11,FManish Shah preyed on cancer concerns
-OL,12,Fto carry out invasive intimate
-OL,13,Fexaminations for his own sexual
-OL,14,Fgratification, the Old Bailey heard.
-OL,16,FHe convinced his victims to have
-OL,17,Funnecessary checks between May 2009 and
-OL,18,FJune 2013.
-OL,20,FHe was convicted of 25 counts of sexual
-OL,21,Fassault and assault by penetration.
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CParties focus on key messages as poll
+OL,5,Cday nears
+OL,6, Labour and the Tories are focusing on
+OL,7, key messages around the NHS and Brexit
+OL,8, in the final days of the campaign. 
+OL,10,FWhile Labour talks about under-funding
+OL,11,Frisks to patients, the Conservatives
+OL,12,Fare promising an end to "gridlock".
+OL,14,FBut it is not all plain sailing, as a
+OL,15,Frecording has been leaked of shadow
+OL,16,Fhealth secretary Jonathan Ashworth
+OL,17,Fcriticising Labour's election chances.
+OL,19,FAnd Boris Johnson is still facing
+OL,20,Fcriticism over his reaction to an image
+OL,21,Fof a sick boy on a hospital floor.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -389,33 +390,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CTories probe candidate over alleged
-OL,5,CIslamophobia
-OL,6, The Conservatives are investigating a
-OL,7, complaint made by Labour candidate Naz
-OL,8, Shah that a Tory candidate re-tweeted
-OL,9, Islamophobic material.
-OL,11,FIn a letter to Conservative chair James
-OL,12,FCleverly, Ms Shah called for action
-OL,13,Fover the Twitter activity of the
-OL,14,Fparty's candidate Linden Kemkaran.
-OL,16,FThis includes allegedly re-tweeting a
-OL,17,Fpost calling Islam a "nasty culture".
-OL,19,FThe Conservative Party says it is
-OL,20,Finvestigating Ms Shah's claims, which
-OL,21,Fhave been rejected by Mrs Kemkaran. 
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CGP guilty of sex assaults on 23 female
+OL,5,Cpatients
+OL,6, A GP who cited Angelina Jolie and Jade
+OL,7, Goody to instil fear in his patients
+OL,8, about their health has been found
+OL,9, guilty of sexually assaulting 23 women.
+OL,11,FManish Shah preyed on cancer concerns
+OL,12,Fto carry out invasive intimate
+OL,13,Fexaminations for his own sexual
+OL,14,Fgratification, the Old Bailey heard.
+OL,16,FHe convinced his victims to have
+OL,17,Funnecessary checks between May 2009 and
+OL,18,FJune 2013.
+OL,20,FHe was convicted of 25 counts of sexual
+OL,21,Fassault and assault by penetration.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -441,33 +442,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
 OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
 OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CAshworth apologises after Corbyn
-OL,5,Ccriticism leak
-OL,6, Labour's Jonathan Ashworth has
-OL,7, apologised to his party after
-OL,8, criticising Jeremy Corbyn in a secret
-OL,9, recording by his Tory activist friend.
-OL,11,FIn a recording leaked to
-OL,12,FTory-supporting website Guido Fawkes,
-OL,13,FMr Ashworth is heard saying he did not
-OL,14,Fbelieve Labour would win the election.
-OL,16,FMr Ashworth has insisted he was
-OL,17,F"joshing around" in the conversation.
-OL,19,FMr Corbyn said it was "not the sort of
-OL,20,Fthing I would do", but claimed the
-OL,21,Fstory was "irrelevant".
+OL,4,CTories probe candidate over alleged
+OL,5,CIslamophobia
+OL,6, The Conservatives are investigating a
+OL,7, complaint made by Labour candidate Naz
+OL,8, Shah that a Tory candidate re-tweeted
+OL,9, Islamophobic material.
+OL,11,FIn a letter to Conservative chair James
+OL,12,FCleverly, Ms Shah called for action
+OL,13,Fover the Twitter activity of the
+OL,14,Fparty's candidate Linden Kemkaran.
+OL,16,FThis includes allegedly re-tweeting a
+OL,17,Fpost calling Islam a "nasty culture".
+OL,19,FThe Conservative Party says it is
+OL,20,Finvestigating Ms Shah's claims, which
+OL,21,Fhave been rejected by Mrs Kemkaran. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -493,33 +494,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CHidden body murderer in parole release
-OL,5,Creview
-OL,6, A decision to sanction the release of
-OL,7, the man who murdered Helen McCourt is
-OL,8, to be reviewed by the parole board.
-OL,10,FIan Simms, 63, was jailed in 1989 for
-OL,11,Fkilling Ms McCourt from Merseyside who
-OL,12,Fdisappeared in February 1988, aged 22.
-OL,14,FHe was considered for parole on 8
-OL,15,FNovember and officials said he "met the
-OL,16,Ftest for release" despite never
-OL,17,Frevealing where her body is.
-OL,19,FThe Parole Board received a request
-OL,20,Ffrom the Justice Secretary Robert
-OL,21,FBuckland to reconsider the decision.
+OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
+OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
+OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
+OL,4,CAshworth apologises after Corbyn
+OL,5,Ccriticism leak
+OL,6, Labour's Jonathan Ashworth has
+OL,7, apologised to his party after
+OL,8, criticising Jeremy Corbyn in a secret
+OL,9, recording by his Tory activist friend.
+OL,11,FIn a recording leaked to
+OL,12,FTory-supporting website Guido Fawkes,
+OL,13,FMr Ashworth is heard saying he did not
+OL,14,Fbelieve Labour would win the election.
+OL,16,FMr Ashworth has insisted he was
+OL,17,F"joshing around" in the conversation.
+OL,19,FMr Corbyn said it was "not the sort of
+OL,20,Fthing I would do", but claimed the
+OL,21,Fstory was "irrelevant".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -545,7 +546,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -571,7 +572,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -597,7 +598,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -623,7 +624,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -649,7 +650,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -675,7 +676,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -701,7 +702,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -726,24 +727,26 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C00:35:06
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C01:33:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
-OL,4,CA tale of two Fab Morettis
-OL,5, The name Fabrizio Moretti will ring a
-OL,6, bell with music fans of a rock 'n' roll
-OL,7, persuasion.
-OL,9,FSo too though, it turns out, with those
-OL,10,Fwho have an interest in Renaissance
-OL,11,Fart.
-OL,13,FIn one of the more intriguing career
-OL,14,Fmoves of recent times, the 39-year-old
-OL,15,Fdrummer from The Strokes has teamed up
-OL,16,Fwith his Italian art dealer namesake,
-OL,17,F45, to put a fresh spin on some classic
-OL,18,Fpaintings and sculptures.
+OL,4,CLiam Payne on alcohol: 'My family were
+OL,5,Cvery worried'
+OL,6, In the offices of Liam Payne's
+OL,7, management company, just north of Soho
+OL,8, in central London, there's a bottle of
+OL,9, Bacardi inscribed with his name.
+OL,11,FIt was sent as a gift, after the singer
+OL,12,Fimmortalised the drink in his hit
+OL,13,Fsingle Strip That Down. According to
+OL,14,Fthe lyrics, which he co-wrote with Ed
+OL,15,FSheeran, he mixes it with Coke and
+OL,16,F"sips it lightly".
+OL,18,FThere's just one small snag, says
+OL,19,FPayne: "I don't think I've ever drunk
+OL,20,FBacardi".
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
