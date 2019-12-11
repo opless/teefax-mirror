@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7213.76 A-20.14 Fat CLOSE
 OL,15,C techMARK100G5671.39 A-21.50 Fat CLOSE
 OL,16,C Dow Jones  G27881.72A-27.88 Fat CLOSE
 OL,17,C Nasdaq     G8354.29 A-8.45  Fat CLOSE
-OL,18,C Nikkei     G23391.86A-18.33 Fat 05:20
+OL,18,C Nikkei     G23391.86A-18.33 Fat CLOSE
 OL,19,C DJEurStoxx G3671.78 A-0.40  Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,39 +84,39 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G            Wednesday                
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G06U%  B               
-OL,4,           UZj**gppp B               
+OL,1,T]G              Today                  
+OL,2,           ^ZR 4`~|}            G 1/2 
+OL,3,           ZR`?0~G05R%  B               
+OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G05V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
+OL,8,B          ^ZR*y?sp  BRain          
 OL,9,           ^ZRj)"G 05R}  B             
-OL,10,       ^ZVp|t RxRg0 B             
-OL,11,       ZVnG05VtR+"RG05R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
-OL,14,B            ^ZU`  V*G 06V} B          
-OL,15,B            ^ZUk|V            
-OL,16,B            ^ZU'oG 06U}zt B       
-OL,17,B              ZUj^VG 06U B       
-OL,18,B            ZUx|^G 07U'         
-OL,19,             ^ZU! +/'iRqp0        
-OL,20,ERain        ^ZU  tG 08R/!        
-OL,21,E            ZU zG09U^/s/R/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,10,       ^ZVp|t RxUg0 B             
+OL,11,       ZVnG05VtR+"UG05U B             
+OL,12,       ZV+U`4U+|0             
+OL,13,        ZV+%*o!U" V *u  B          
+OL,14,B            ^ZR`  V*G 06V} B          
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 06U}zt B       
+OL,17,B              ZRj^VG 06U B       
+OL,18,B            ZRx|^G 07U'         
+OL,19,             ^ZR! +/'iUqp0        
+OL,20,B            ^ZR  tG 08U/!        
+OL,21,B            ZR zG09R^/s/U/? ECloudy   
+OL,22,            ZR8?' "'    "     E        
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G             Thursday                
+OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G05V%  B               
 OL,4,           VZj**gppp B               
@@ -142,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,32 +163,31 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
 OL,6,E```````````````````````````````````````
-OL,4,MRoxette singer Marie Fredriksson diC502
-OL,7,GPeter Handke receives Nobel LiteratC503
-OL,8,G'I'm the loner Throner' says HaringC504
-OL,9,GDrugs and guns found on Juice Wrld'C505
-OL,10,GLiverpool's Super Lambanana 'may goC506
-OL,12,GJohnson 'could look at' abolishing C507
-OL,13,GGlenda Jackson 'shines' on TV returC508
-OL,14,GLiam Payne on alcohol: 'My family wC509
-OL,15,GA tale of two Fab Morettis         C510
-OL,17,GWhy James McAvoy's Bergerac ditchesC511
-OL,18,GGolden Globes criticised for all-maC512
-OL,19,GArtist Howson returns to 'hell' of C513
-OL,20,GHow a 'cheeky but charming' tiger mC514
+OL,4,MLiam Payne on alcohol: 'My family wC502
+OL,7,GRoxette singer Marie Fredriksson diC503
+OL,8,GPeter Handke receives Nobel LiteratC504
+OL,9,G'I'm the loner Throner' says HaringC505
+OL,10,GDrugs and guns found on Juice Wrld'C506
+OL,12,GLiverpool's Super Lambanana 'may goC507
+OL,13,GJohnson 'could look at' abolishing C508
+OL,14,GA tale of two Fabrizio Morettis    C509
+OL,15,GWhy James McAvoy's Bergerac ditchesC510
+OL,17,GGolden Globes criticised for all-maC511
+OL,18,GArtist Howson returns to 'hell' of C512
+OL,19,GHow a 'cheeky but charming' tiger mC513
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -214,7 +213,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -240,7 +239,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
@@ -266,7 +265,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -292,7 +291,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -318,7 +317,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -343,7 +342,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -351,9 +350,9 @@ OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CChickens to be culled after bird flu
 OL,5,Coutbreak
-OL,6, All 27,000 chickens at a farm will be
-OL,7, culled after cases of bird flu were
-OL,8, confirmed.
+OL,6, All 27,000 chickens at a farm in
+OL,7, Suffolk will be culled after cases of
+OL,8, bird flu were confirmed.
 OL,10,FA number of the birds were found to
 OL,11,Fhave the H5 strain of avian flu, the
 OL,12,FDepartment for Environment, Food and
@@ -369,7 +368,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -395,32 +394,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CUK growth slowest since early 2009
-OL,5, The economy suffered its worst three
-OL,6, months for more than a decade after
-OL,7, official figures revealed output failed
-OL,8, to grow once again in October.
-OL,10,FOffice for National Statistics (ONS)
-OL,11,Fdata showed the economy flatlined
-OL,12,Fmonth-on-month in October, after two
-OL,13,Fmonths of declines. 
-OL,15,FIt was the weakest three months since
-OL,16,Fearly 2009.
-OL,18,FThe figures come ahead of Thursday's
-OL,19,Fgeneral election, with the main parties
-OL,20,Fall promising to boost growth.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
+OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
+OL,2,Wj $kj $kj 'kT]S+`j5k4sjuj7j7o5z%
+OL,3,W"###"###"###T//,/,--.,-.,,-,-.,-.-.,,//
+OL,4,CDamages case over IRA Hyde Park bombing
+OL,5, Relatives of four soldiers murdered by
+OL,6, an IRA bomb in Hyde Park in 1982 are
+OL,7, seeking damages from the main suspect.
+OL,9,FThe four members of the Royal Household
+OL,10,FCavalry were killed as they rode to the
+OL,11,FChanging of the Guard ceremony in
+OL,12,FWhitehall on 20 July 1982.
+OL,14,FA criminal case against John Downey,
+OL,15,Fwho denied four counts of murder,
+OL,16,Fcollapsed in controversial
+OL,17,Fcircumstances in 2014.
+OL,19,FThe civil action is taking place in
+OL,20,FLondon and is due to last three days.
+OL,22,T]GN IRELANDCHeadlinesG160CSport   G390
+OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -446,7 +445,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -471,7 +470,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -497,33 +496,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
-OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
-OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CParties focus on key messages as poll
-OL,5,Cday nears
-OL,6, Labour and the Tories are focusing on
-OL,7, key messages around the NHS and Brexit
-OL,8, in the final days of the campaign. 
-OL,10,FWhile Labour talks about under-funding
-OL,11,Frisks to patients, the Conservatives
-OL,12,Fare promising an end to "gridlock".
-OL,14,FBut it is not all plain sailing, as a
-OL,15,Frecording has been leaked of shadow
-OL,16,Fhealth secretary Jonathan Ashworth
-OL,17,Fcriticising Labour's election chances.
-OL,19,FAnd Boris Johnson is still facing
-OL,20,Fcriticism over his reaction to an image
-OL,21,Fof a sick boy on a hospital floor.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
+OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
+OL,2,Wj $kj $kj 'kT]S+`j5k4sjuj7j7o5z%
+OL,3,W"###"###"###T//,/,--.,-.,,-,-.,-.-.,,//
+OL,4,CPost-custody deaths in NI to be
+OL,5,Cinvestigated
+OL,6, The number of ex-prisoners dying
+OL,7, shortly after leaving custody is to be
+OL,8, investigated at a high level.
+OL,10,FIt comes after BBC News NI revealed 23
+OL,11,Fpeople died in Northern Ireland within
+OL,12,Fa fortnight of being released from jail
+OL,13,Fover the past five years.
+OL,15,FA further 23 people died in custody
+OL,16,Fbetween 2014 and 2019. Many deaths are
+OL,17,Flinked to substance addiction. 
+OL,19,FAfter release, ex-inmates can be given
+OL,20,Fmedication for up to two weeks if they
+OL,21,Fare not registered with a GP.
+OL,22,T]GN IRELANDCHeadlinesG160CSport   G390
+OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -549,7 +548,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CLiam Payne on alcohol: 'My family were
+OL,5,Cvery worried'
+OL,6, In the offices of Liam Payne's
+OL,7, management company, just north of Soho
+OL,8, in central London, there's a bottle of
+OL,9, Bacardi inscribed with his name.
+OL,11,FIt was sent as a gift, after the singer
+OL,12,Fimmortalised the drink in his hit
+OL,13,Fsingle Strip That Down. According to
+OL,14,Fthe lyrics, which he co-wrote with Ed
+OL,15,FSheeran, he mixes it with Coke and
+OL,16,F"sips it lightly".
+OL,18,FThere's just one small snag, says
+OL,19,FPayne: "I don't think I've ever drunk
+OL,20,FBacardi".
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40523
+SC,0023
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -572,10 +597,10 @@ OL,20,Fover 40 years," her bandmate Per Gessle
 OL,21,Fsaid. "Things will never be the same."
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40523
-SC,0023
+PN,40524
+SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -598,10 +623,10 @@ OL,20,Fgeneration, also collected her belated
 OL,21,F2018 literature prize. 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40524
-SC,0024
+PN,40525
+SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -624,10 +649,10 @@ OL,20,FNetflix movie Marriage Story came out
 OL,21,Fon top on Monday with six nominations.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40525
-SC,0025
+PN,40526
+SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -650,10 +675,10 @@ OL,20,FAn autopsy on the 21-year-old has
 OL,21,Fproved inconclusive.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40526
-SC,0026
+PN,40527
+SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -676,10 +701,10 @@ OL,20,Fconsidering moving the original to "a
 OL,21,Fnew location outside of Liverpool". 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40527
-SC,0027
+PN,40528
+SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -702,54 +727,27 @@ OL,20,Fcurrently #154.50 a year. It will rise
 OL,21,Fin line with inflation until 2022.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40528
-SC,0028
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CGlenda Jackson 'shines' on TV return
-OL,5, Glenda Jackson has been praised on her
-OL,6, TV return after 27 years away, for
-OL,7, playing a woman with dementia in the
-OL,8, BBC One drama Elizabeth Is Missing.
-OL,10,FJackson stepped away from acting in
-OL,11,F1992 to pursue a career in politics,
-OL,12,Fbecoming a Labour MP, retiring in 2015.
-OL,14,FShe returned to acting not long after
-OL,15,Fand now her television comeback has
-OL,16,Freceived glowing reviews.
-OL,18,FIt shows Jackson's character Maude,
-OL,19,Fbattling Alzheimer's disease while
-OL,20,Fsearching for her friend Elizabeth.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C06:34:09
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
-OL,4,CLiam Payne on alcohol: 'My family were
-OL,5,Cvery worried'
-OL,6, In the offices of Liam Payne's
-OL,7, management company, just north of Soho
-OL,8, in central London, there's a bottle of
-OL,9, Bacardi inscribed with his name.
-OL,11,FIt was sent as a gift, after the singer
-OL,12,Fimmortalised the drink in his hit
-OL,13,Fsingle Strip That Down. According to
-OL,14,Fthe lyrics, which he co-wrote with Ed
-OL,15,FSheeran, he mixes it with Coke and
-OL,16,F"sips it lightly".
-OL,18,FThere's just one small snag, says
-OL,19,FPayne: "I don't think I've ever drunk
-OL,20,FBacardi".
+OL,4,CA tale of two Fabrizio Morettis
+OL,5, The name Fabrizio Moretti will ring a
+OL,6, bell with music fans of a rock 'n' roll
+OL,7, persuasion.
+OL,9,FSo too though, it turns out, with those
+OL,10,Fwho have an interest in Renaissance
+OL,11,Fart.
+OL,13,FIn one of the more intriguing career
+OL,14,Fmoves of recent times, the 39-year-old
+OL,15,Fdrummer from The Strokes has teamed up
+OL,16,Fwith his Italian art dealer namesake,
+OL,17,F45, to put a fresh spin on some classic
+OL,18,Fpaintings and sculptures.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
