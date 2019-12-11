@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -19,7 +19,8 @@ OL,10,GLondon Bridge victim 'brilliant,   C106
 OL,11,Gcaring daughter'                       
 OL,12,GSuu Kyi rejects genocide claims at C107
 OL,13,Gtop UN court                           
-OL,14,GNaturalist David Bellamy dies at 86C108
+OL,14,GNaturalist and presenter David     C108
+OL,15,GBellamy dies at 86                     
 OL,16,GNew Zealand volcano death toll     C109
 OL,17,Grises to eight                         
 OL,18,GPost-Brexit free trade 'won't      C110
@@ -31,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -52,14 +53,14 @@ OL,22,M] A FULL CITY SERVICE ON BBC2 200
 OL,12,  FTSE100Fat CLOSEGWinnersF54GLosersA47
 OL,14,C FTSE100    G7216.25 F+2.49  Fat CLOSE
 OL,15,C techMARK100G5655.91 A-15.48 Fat CLOSE
-OL,16,C Dow Jones  G27874.96A-6.76  Fat 18:25
-OL,17,C Nasdaq     G8390.62 F+36.33 Fat 18:25
+OL,16,C Dow Jones  G27878.53A-3.19  Fat 19:30
+OL,17,C Nasdaq     G8398.20 F+43.91 Fat 19:30
 OL,18,C Nikkei     G23391.86A-1,832.Fat 07:45
 OL,19,C DJEurStoxx G3687.45 F+15.67 Fat 16:10
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -80,7 +81,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -93,13 +94,13 @@ OL,7,           ^ZV ~ow1  F
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 02V} B              
 OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG02VtV+"VG01V B             
+OL,11,       ZVnG03VtV+"VG01V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" U *u  EClear     
 OL,14,B            ^ZR`  U*G 01U}  E         
 OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 01V}zt B       
-OL,17,B              ZRj^VG 01V B       
+OL,16,B            ^ZR'oG 02V}zt B       
+OL,17,B              ZRj^VG 00V B       
 OL,18,B            ZRx|^G 02V'         
 OL,19,             ^ZR! +/'iVqp0        
 OL,20,BRain        ^ZR  tG 02V/!        
@@ -109,7 +110,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -117,18 +118,18 @@ OL,2,           ^ZR 4`~|}            G 2/2
 OL,3,           ZR`?0~G06R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G05V!FCloudy         
+OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 04V} B              
+OL,9,           ^ZVj)"G 05V} B              
 OL,10,       ^ZRp|t VxVg0 B             
 OL,11,       ZRnG07RtV+"VG03V B             
 OL,12,       ZR+V`4V+|0             
 OL,13,        ZR+%*o!V" R *u  BRain      
 OL,14,B            ^ZR`  R*G 05R}  B         
-OL,15,B            ^ZRk|V            
+OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 07R}zt B       
-OL,17,B              ZRj^VG 06R B       
+OL,17,B              ZRj^RG 06R B       
 OL,18,B            ZRx|^G 09R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 08R/!        
@@ -138,7 +139,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -159,14 +160,14 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
 OL,6,E```````````````````````````````````````
-OL,4,MNaturalist David Bellamy dies at 86C502
+OL,4,MNaturalist and presenter David BellC502
 OL,7,GThanos creator complains over TrumpC503
 OL,8,GLiam Payne on alcohol: 'My family wC504
 OL,9,GBuyer returns Grease jacket to NewtC505
@@ -183,7 +184,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -194,21 +195,22 @@ OL,5,CJaden, 14
 OL,6, A man has been found guilty of
 OL,7, murdering a 14-year-old boy in a
 OL,8, "violent and frenzied" knife attack.
-OL,10,FAyoub Majdouline, 19, was convicted
-OL,11,Fafter Jaden Moodie was knocked off a
-OL,12,Fmoped and repeatedly stabbed in Bickley
-OL,13,FRoad, Leyton, in January. 
-OL,15,FJurors heard their DNA was found on a
-OL,16,Fknife and yellow washing up gloves
-OL,17,Fwhich had been thrown into a drain.
-OL,19,FMajdouline, from Wembley, north London,
-OL,20,Fis due to be sentenced on 18 December.
+OL,10,FJaden Moodie was knocked off a moped
+OL,11,Fand repeatedly stabbed by Ayoub
+OL,12,FMajdouline in Bickley Road, Leyton, in
+OL,13,FJanuary. 
+OL,15,FJurors heard the defendant's DNA was
+OL,16,Ffound on a knife and yellow washing-up
+OL,17,Fgloves, which had been thrown into a
+OL,18,Fdrain.
+OL,20,FMajdouline, from Wembley, north London,
+OL,21,Fis due to be sentenced on 18 December.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -234,7 +236,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -260,7 +262,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -286,32 +288,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CNaturalist David Bellamy dies at 86
-OL,5, Naturalist and broadcaster David
-OL,6, Bellamy has died aged 86, the
-OL,7, Conservation Foundation he formed says.
-OL,9,FLondon-born Bellamy, who became a
-OL,10,Fhousehold name as a TV personality,
-OL,11,Fscientist and conservationist, died on
-OL,12,FWednesday, according to the foundation.
-OL,14,FHis colleague, David Shreeve, described
-OL,15,Fhim as a "larger-than-life character"
-OL,16,Fwho "inspired a whole generation".
-OL,18,FIn later life Bellamy, who lived in
-OL,19,FCounty Durham, attracted criticism for
-OL,20,Fdismissing global warming. 
+OL,4,CNaturalist and presenter David Bellamy
+OL,5,Cdies at 86
+OL,6, Naturalist and broadcaster David
+OL,7, Bellamy has died aged 86, the
+OL,8, Conservation Foundation he formed says.
+OL,10,FLondon-born Bellamy, who became a
+OL,11,Fhousehold name as a TV personality,
+OL,12,Fscientist and conservationist, died on
+OL,13,FWednesday, according to the foundation.
+OL,15,FHis colleague, David Shreeve, described
+OL,16,Fhim as a "larger-than-life character"
+OL,17,Fwho "inspired a whole generation".
+OL,19,FIn later life Bellamy, who lived in
+OL,20,FCounty Durham, attracted criticism for
+OL,21,Fdismissing global warming. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -337,7 +340,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -363,7 +366,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -389,7 +392,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
@@ -415,32 +418,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNew Jersey killers 'targeted' Jewish
-OL,5,Csupermarket
-OL,6, Police in New Jersey say a Jewish
-OL,7, supermarket was the target of a gun
-OL,8, attack which left six people dead on
-OL,9, Tuesday, including the two suspects. 
-OL,11,FNo motive has yet been given, but the
-OL,12,Fmayor of Jersey City tweeted on
-OL,13,FWednesday morning that "hate and
-OL,14,Fanti-Semitism" had no place in the
-OL,15,Fcity.
-OL,17,FThe gun battle began when the suspects
-OL,18,Fkilled a detective across town, then
-OL,19,Fdrove a rental van to the market.
+OL,4,CNew Jersey killers 'targeted Jewish
+OL,5,Csupermarket'
+OL,6, A Jewish supermarket in New Jersey was
+OL,7, the target of a gun attack which left
+OL,8, six people dead including two suspected
+OL,9, assailants, say officials.
+OL,11,FNo motive has been confirmed, but the
+OL,12,Fmayor of Jersey City tweeted that "hate
+OL,13,Fand anti-Semitism" had no place in the
+OL,14,Fcity.
+OL,16,FThe suspects are believed to have
+OL,17,Fkilled a detective across town, then
+OL,18,Fdriven a rental van to the store.
+OL,20,FSecurity video shows them firing on the
+OL,21,Fmarket before going inside.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
@@ -466,7 +470,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -492,7 +496,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -518,7 +522,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -544,32 +548,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
-OL,4,CNaturalist David Bellamy dies at 86
-OL,5, Naturalist and broadcaster David
-OL,6, Bellamy has died aged 86, the
-OL,7, Conservation Foundation he formed says.
-OL,9,FLondon-born Bellamy, who became a
-OL,10,Fhousehold name as a TV personality,
-OL,11,Fscientist and conservationist, died on
-OL,12,FWednesday, according to the foundation.
-OL,14,FHis colleague, David Shreeve, described
-OL,15,Fhim as a "larger-than-life character"
-OL,16,Fwho "inspired a whole generation".
-OL,18,FIn later life Bellamy, who lived in
-OL,19,FCounty Durham, attracted criticism for
-OL,20,Fdismissing global warming. 
+OL,4,CNaturalist and presenter David Bellamy
+OL,5,Cdies at 86
+OL,6, Naturalist and broadcaster David
+OL,7, Bellamy has died aged 86, the
+OL,8, Conservation Foundation he formed says.
+OL,10,FLondon-born Bellamy, who became a
+OL,11,Fhousehold name as a TV personality,
+OL,12,Fscientist and conservationist, died on
+OL,13,FWednesday, according to the foundation.
+OL,15,FHis colleague, David Shreeve, described
+OL,16,Fhim as a "larger-than-life character"
+OL,17,Fwho "inspired a whole generation".
+OL,19,FIn later life Bellamy, who lived in
+OL,20,FCounty Durham, attracted criticism for
+OL,21,Fdismissing global warming. 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -595,7 +600,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -621,7 +626,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -647,7 +652,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -673,7 +678,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -698,7 +703,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -724,7 +729,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C19:35:10
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C20:35:12
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
