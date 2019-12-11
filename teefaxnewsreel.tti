@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -15,16 +15,16 @@ OL,4,MLeaders in final push for votes    C104
 OL,6,Gahead of election                      
 OL,8,GNew volcanic activity slows NZ     C105
 OL,9,Grecovery efforts                       
-OL,10,GExercise calorie labels 'make food C106
-OL,11,Gless tempting'                         
+OL,10,GAirport delays after plane         C106
+OL,11,Govershoots runway                      
 OL,12,GNo-fly rule for Saudi students     C107
 OL,13,Gafter US base attack                   
-OL,14,GParent school donations            C108
-OL,15,G'exacerbating inequality'              
+OL,14,GChickens to be culled after bird   C108
+OL,15,Gflu outbreak                           
 OL,16,GDeadly gun battle erupts in Jersey C109
 OL,17,GCity                                   
-OL,18,GChickens to be culled after bird   C110
-OL,19,Gflu outbreak                           
+OL,18,GSon charged with murdering mother  C110
+OL,19,Gin fire                                
 OL,20,GBougainville votes for independenceC111
 OL,21,Gin referendum                          
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat CLOSEGWinnersF22GLosersA79
-OL,14,C FTSE100    G7213.76 A-20.14 Fat CLOSE
-OL,15,C techMARK100G5671.39 A-21.50 Fat CLOSE
+OL,12,  FTSE100Fat 07:30GWinnersF63GLosersA38
+OL,14,C FTSE100    G7244.80 F+31.04 Fat 07:30
+OL,15,C techMARK100G5675.87 F+4.48  Fat 07:30
 OL,16,C Dow Jones  G27881.72A-27.88 Fat CLOSE
 OL,17,C Nasdaq     G8354.29 A-8.45  Fat CLOSE
-OL,18,C Nikkei     G23391.86A-18.33 Fat CLOSE
-OL,19,C DJEurStoxx G3671.78 A-0.40  Fat CLOSE
+OL,18,C Nikkei     G23391.86A-18.33 Fat 07:31
+OL,19,C DJEurStoxx G3674.40 F+2.62  Fat 07:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,36 +84,36 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G05R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZU 4`~|}            G 1/2 
+OL,3,           ZU`?0~G05U%  B               
+OL,4,           UZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G05V!FSunny          
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BRain          
+OL,8,B          ^ZR*y?sp  BCloudy        
 OL,9,           ^ZRj)"G 05R}  B             
-OL,10,       ^ZVp|t RxUg0 B             
-OL,11,       ZVnG05VtR+"UG05U B             
-OL,12,       ZV+U`4U+|0             
-OL,13,        ZV+%*o!U" V *u  B          
-OL,14,B            ^ZR`  V*G 06V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 06U}zt B       
-OL,17,B              ZRj^VG 06U B       
-OL,18,B            ZRx|^G 07U'         
-OL,19,             ^ZR! +/'iUqp0        
-OL,20,B            ^ZR  tG 08U/!        
-OL,21,B            ZR zG09R^/s/U/? ECloudy   
-OL,22,            ZR8?' "'    "     E        
+OL,10,       ^ZVp|t RxVg0 B             
+OL,11,       ZVnG05VtR+"VG05V B             
+OL,12,       ZV+V`4V+|0             
+OL,13,        ZV+%*o!V" R *u  B          
+OL,14,B            ^ZU`  R*G 06R} B          
+OL,15,B            ^ZUk|V            
+OL,16,B            ^ZU'oG 06R}zt B       
+OL,17,B              ZUj^VG 06R B       
+OL,18,B            ZUx|^G 07R'         
+OL,19,             ^ZU! +/'iRqp0        
+OL,20,ERain        ^ZU  tG 08R/!        
+OL,21,E            ZU zG08U^/s/R/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -128,21 +128,21 @@ OL,9,           ^ZVj)"G 04V} B
 OL,10,       ^ZRp|t VxVg0 B             
 OL,11,       ZRnG07RtV+"VG03V B             
 OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 05V} B          
+OL,13,        ZR+%*o!V" R *u  BRain      
+OL,14,B            ^ZR`  R*G 05R}  B         
 OL,15,B            ^ZRk|V            
 OL,16,B            ^ZR'oG 06R}zt B       
 OL,17,B              ZRj^VG 06R B       
 OL,18,B            ZRx|^G 09R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,BRain        ^ZR  tG 08R/!        
+OL,20,B            ^ZR  tG 08R/!        
 OL,21,B            ZR zG11R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -171,23 +171,24 @@ OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
 OL,6,E```````````````````````````````````````
 OL,4,MLiam Payne on alcohol: 'My family wC502
-OL,7,GRoxette singer Marie Fredriksson diC503
-OL,8,GPeter Handke receives Nobel LiteratC504
-OL,9,G'I'm the loner Throner' says HaringC505
-OL,10,GDrugs and guns found on Juice Wrld'C506
-OL,12,GLiverpool's Super Lambanana 'may goC507
-OL,13,GJohnson 'could look at' abolishing C508
-OL,14,GA tale of two Fabrizio Morettis    C509
-OL,15,GWhy James McAvoy's Bergerac ditchesC510
-OL,17,GGolden Globes criticised for all-maC511
-OL,18,GArtist Howson returns to 'hell' of C512
-OL,19,GHow a 'cheeky but charming' tiger mC513
+OL,7,GEd Sheeran named 'artist of the decC503
+OL,8,GProtesters block gallery over nakedC504
+OL,9,GRoxette singer Marie Fredriksson diC505
+OL,10,GPeter Handke receives Nobel LiteratC506
+OL,12,G'I'm the loner Throner' says HaringC507
+OL,13,GDrugs and guns found on Juice Wrld'C508
+OL,14,GFestive Banksy artwork preserved inC509
+OL,15,GLiverpool's Super Lambanana 'may goC510
+OL,17,GJohnson 'could look at' abolishing C511
+OL,18,GA tale of two Fabrizio Morettis    C512
+OL,19,GWhy James McAvoy's Bergerac ditchesC513
+OL,20,GGolden Globes criticised for all-maC514
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -213,7 +214,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -239,33 +240,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
-OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
-OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
-OL,4,CExercise calorie labels 'make food less
-OL,5,Ctempting'
-OL,6, Food packs should display how much
-OL,7, exercise a person would need to take to
-OL,8, burn off the calories contained in the
-OL,9, product, UK researchers say.
-OL,11,FAppreciating it would take four hours
-OL,12,Fto walk off the calories in a pizza or
-OL,13,F22 minutes to run off a chocolate bar
-OL,14,Fcreates an awareness of the energy cost
-OL,15,Fof food, they say. 
-OL,17,FThe labels would help people indulge
-OL,18,Fless, exploratory studies suggest.
-OL,20,FThe aim is to encourage healthier
-OL,21,Feating habits to fight obesity.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CAirport delays after plane overshoots
+OL,5,Crunway
+OL,6, Flights have been cancelled after a
+OL,7, private plane came off the runway at
+OL,8, Liverpool John Lennon Airport.
+OL,10,FFour people were on board the plane but
+OL,11,Fno-one has been hurt, a spokesman for
+OL,12,Fthe airport has confirmed. 
+OL,14,FThe airport is currently closed and an
+OL,15,Finvestigation has been launched into
+OL,16,Fwhat happened. 
+OL,18,FPassengers due to fly this morning have
+OL,19,Fbeen advised to contact their airlines
+OL,20,Ffor further information.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,33 +291,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CParent school donations 'exacerbating
-OL,5,Cinequality'
-OL,6, Pupils in some of the poorest regions
-OL,7, of England are losing out because
-OL,8, parents cannot afford to fill a funding
-OL,9, shortfall with donations, BBC News has
-OL,10, found.
-OL,12,FIn 2017-18, the average school in
-OL,13,FLondon raised #43,000 from donations.
-OL,14,FIn Yorkshire, it was just #13,300.
-OL,16,FThe Fair Education Alliance said this
-OL,17,Fgap "exacerbates unfairness between
-OL,18,Frich and poor".
-OL,20,FThe main political parties have all
-OL,21,Fpledged to improve school funding.
+OL,4,CChickens to be culled after bird flu
+OL,5,Coutbreak
+OL,6, All 27,000 chickens at a farm in
+OL,7, Suffolk will be culled after cases of
+OL,8, bird flu were confirmed.
+OL,10,FA number of the birds were found to
+OL,11,Fhave the H5 strain of avian flu, the
+OL,12,FDepartment for Environment, Food and
+OL,13,FRural Affairs (Defra) said.
+OL,15,FIt set up a 1km (0.6 mile) exclusion
+OL,16,Fzone around the farm, near Athelington,
+OL,17,Fto limit risk of the disease spreading.
+OL,19,FDr Gavin Dabrera, from Public Health
+OL,20,FEngland, said the risk to public health
+OL,21,Fwas very low.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -342,33 +342,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CChickens to be culled after bird flu
-OL,5,Coutbreak
-OL,6, All 27,000 chickens at a farm in
-OL,7, Suffolk will be culled after cases of
-OL,8, bird flu were confirmed.
-OL,10,FA number of the birds were found to
-OL,11,Fhave the H5 strain of avian flu, the
-OL,12,FDepartment for Environment, Food and
-OL,13,FRural Affairs (Defra) said.
-OL,15,FIt has set up a 1km (0.6 mile)
-OL,16,Fexclusion zone around the farm to limit
-OL,17,Fthe risk of the disease spreading.
-OL,19,FPublic Health England's Dr Gavin
-OL,20,FDabrera said the risk to public health
-OL,21,Fwas very low.
+OL,4,CSon charged with murdering mother in
+OL,5,Cfire
+OL,6, A 35-year-old man has been charged with
+OL,7, murdering his mother who was found dead
+OL,8, in a fire in north London.
+OL,10,FThe body of Beatrice Yankson, 59, was
+OL,11,Fdiscovered in a maisonette in Mingard
+OL,12,FWalk, Islington, on 26 October.
+OL,14,FA post-mortem examination established
+OL,15,Fthe cause of her death was burns and
+OL,16,Finhalation of fire and fumes.
+OL,18,FJoel Ellis, of Mingard Walk, was also
+OL,19,Fcharged with arson with intent to
+OL,20,Fendanger life and is due to appear
+OL,21,Fbefore Thames magistrates later.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -394,7 +394,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
@@ -419,7 +419,7 @@ OL,23,D]GNATIONALC Main menuG100CWeatherG 400
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -445,32 +445,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMost-viewed mansions of 2019 revealed
-OL,5, More than a quarter of those clicking
-OL,6, on property websites have no intention
-OL,7, to buy. No wonder they end up looking
-OL,8, the most striking homes on the market.
-OL,10,FA castle, a multi-million pound
-OL,11,Fpenthouse, and an audacious mirrored
-OL,12,Fbedroom ceiling are among the
-OL,13,Fmost-viewed, according to Rightmove.
-OL,15,FThe properties include a boathouse,
-OL,16,Fprivate cinemas, and a replica Angel of
-OL,17,Fthe North - in Essex.
-OL,19,FIn contrast, the UK housing market has
-OL,20,Fbeen relatively undramatic this year.
+OL,1,Wj#3kj#3kj#3kT]S | |h<$|,|h4h||4| | 
+OL,2,Wj $kj $kj 'kT]S #jw1#ju0j5 #  
+OL,3,W"###"###"###T///,/,-,.,/,-,.-./,/,/////
+OL,4,CExercise calorie labels 'make food less
+OL,5,Ctempting'
+OL,6, Food packs should display how much
+OL,7, exercise a person would need to take to
+OL,8, burn off the calories contained in the
+OL,9, product, UK researchers say.
+OL,11,FAppreciating it would take four hours
+OL,12,Fto walk off the calories in a pizza or
+OL,13,F22 minutes to run off a chocolate bar
+OL,14,Fcreates an awareness of the energy cost
+OL,15,Fof food, they say. 
+OL,17,FThe labels would help people indulge
+OL,18,Fless, exploratory studies suggest.
+OL,20,FThe aim is to encourage healthier
+OL,21,Feating habits to fight obesity.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -496,33 +497,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S|0| h4|l4|,h4`<thth4|l0
-OL,2,Wj $kj $kj 'kT]S+`j5k4sjuj7j7o5z%
-OL,3,W"###"###"###T//,/,--.,-.,,-,-.,-.-.,,//
-OL,4,CPost-custody deaths in NI to be
-OL,5,Cinvestigated
-OL,6, The number of ex-prisoners dying
-OL,7, shortly after leaving custody is to be
-OL,8, investigated at a high level.
-OL,10,FIt comes after BBC News NI revealed 23
-OL,11,Fpeople died in Northern Ireland within
-OL,12,Fa fortnight of being released from jail
-OL,13,Fover the past five years.
-OL,15,FA further 23 people died in custody
-OL,16,Fbetween 2014 and 2019. Many deaths are
-OL,17,Flinked to substance addiction. 
-OL,19,FAfter release, ex-inmates can be given
-OL,20,Fmedication for up to two weeks if they
-OL,21,Fare not registered with a GP.
-OL,22,T]GN IRELANDCHeadlinesG160CSport   G390
-OL,23,D]GNATIONALC Main menuG100CWeatherG 400
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CEd Sheeran named 'artist of the decade'
+OL,5, Ed Sheeran has been named the UK's
+OL,6, artist of the decade by the Official
+OL,7, Charts Company.
+OL,9,FSheeran achieved the milestone after a
+OL,10,Fcombined run of 12 number one singles
+OL,11,Fand albums between 2010 and 2019 - more
+OL,12,Fthan any other artist. 
+OL,14,FHe's also had the most weeks (79) at
+OL,15,Fnumber one in both the album and
+OL,16,Fsingles charts in this period. 
+OL,18,FShape Of You was the biggest hit of the
+OL,19,F2010s, spending 14 weeks at number one
+OL,20,Fand selling more than 4.5m copies.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -548,7 +548,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -574,7 +574,58 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CEd Sheeran named 'artist of the decade'
+OL,5, Ed Sheeran has been named the UK's
+OL,6, artist of the decade by the Official
+OL,7, Charts Company.
+OL,9,FSheeran achieved the milestone after a
+OL,10,Fcombined run of 12 number one singles
+OL,11,Fand albums between 2010 and 2019 - more
+OL,12,Fthan any other artist. 
+OL,14,FHe's also had the most weeks (79) at
+OL,15,Fnumber one in both the album and
+OL,16,Fsingles charts in this period. 
+OL,18,FShape Of You was the biggest hit of the
+OL,19,F2010s, spending 14 weeks at number one
+OL,20,Fand selling more than 4.5m copies.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40524
+SC,0024
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CProtesters block gallery over naked
+OL,5,CZapata painting
+OL,6, Protesters blocked the entrance to a
+OL,7, Mexican art gallery on Tuesday over a
+OL,8, painting showing revolutionary hero
+OL,9, Emiliano Zapata striking an
+OL,10, unconventional pose.
+OL,12,FThe painting, which is on show in
+OL,13,FMexico City, shows Zapata, naked on a
+OL,14,Fhorse, in high heels and a pink hat.
+OL,16,FZapata's grandson Jorge Zapata Gonzalez
+OL,17,Fcalled for the painting to be removed.
+OL,19,FScuffles broke out between the
+OL,20,Fprotesters and counter-demonstrators
+OL,21,Fdefending sexual diversity. 
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40525
+SC,0025
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -597,10 +648,10 @@ OL,20,Fover 40 years," her bandmate Per Gessle
 OL,21,Fsaid. "Things will never be the same."
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40524
-SC,0024
+PN,40526
+SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -623,10 +674,10 @@ OL,20,Fgeneration, also collected her belated
 OL,21,F2018 literature prize. 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40525
-SC,0025
+PN,40527
+SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -649,10 +700,10 @@ OL,20,FNetflix movie Marriage Story came out
 OL,21,Fon top on Monday with six nominations.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40526
-SC,0026
+PN,40528
+SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -675,79 +726,29 @@ OL,20,FAn autopsy on the 21-year-old has
 OL,21,Fproved inconclusive.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40527
-SC,0027
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CLiverpool's Super Lambanana 'may go to
-OL,5,CManchester'
-OL,6, Liverpool's much-loved Super Lambanana
-OL,7, sculpture could move to Manchester if a
-OL,8, new site is not found for it in the
-OL,9, city, its creator Taro Chiezo has said.
-OL,11,FThe deterioration of the yellow statue,
-OL,12,Fwhich has become part of Liverpool's
-OL,13,Fcultural identity, caused a row between
-OL,14,Fthe city council and the artist.
-OL,16,FOn Sunday, the council replaced it with
-OL,17,Fa more durable replica.
-OL,19,FTaro Chiezo said as a result, he was
-OL,20,Fconsidering moving the original to "a
-OL,21,Fnew location outside of Liverpool". 
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40528
-SC,0028
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CJohnson 'could look at' abolishing BBC
-OL,5,Clicence fee
-OL,6, Boris Johnson has said the possible
-OL,7, abolition of the BBC licence fee needs
-OL,8, "looking at".
-OL,10,FSpeaking at a rally in Sunderland, the
-OL,11,Fprime minister questioned how much
-OL,12,Flonger funding a broadcaster out of "a
-OL,13,Fgeneral tax" could be "justified".
-OL,15,FMinisters have agreed the licence fee
-OL,16,Fwill stay in place until at least 2027,
-OL,17,Fwhen the BBC's Royal Charter ends.
-OL,19,FThe fee for a colour TV licence is
-OL,20,Fcurrently #154.50 a year. It will rise
-OL,21,Fin line with inflation until 2022.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C07:35:37
+OL,0,XXXXXXXXBNMPSERVER2      E11/12C08:34:59
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
-OL,4,CA tale of two Fabrizio Morettis
-OL,5, The name Fabrizio Moretti will ring a
-OL,6, bell with music fans of a rock 'n' roll
-OL,7, persuasion.
-OL,9,FSo too though, it turns out, with those
-OL,10,Fwho have an interest in Renaissance
-OL,11,Fart.
-OL,13,FIn one of the more intriguing career
-OL,14,Fmoves of recent times, the 39-year-old
-OL,15,Fdrummer from The Strokes has teamed up
-OL,16,Fwith his Italian art dealer namesake,
-OL,17,F45, to put a fresh spin on some classic
-OL,18,Fpaintings and sculptures.
+OL,4,CFestive Banksy artwork preserved in
+OL,5,Ccity
+OL,6, Banksy's festive artwork highlighting
+OL,7, homelessness has been preserved in
+OL,8, Birmingham.
+OL,10,FPlastic covering the reindeer painted
+OL,11,Fin the city's Jewellery Quarter was
+OL,12,Fattached by wall owners Network Rail.
+OL,14,FWithin hours of its Instagram
+OL,15,Funveiling, featuring a man named Ryan,
+OL,16,Fsomeone leapt over barriers and sprayed
+OL,17,Fred noses on the two reindeer.
+OL,19,FThe Jewellery Quarter Development Trust
+OL,20,F(JQDT) said the work was "important to
+OL,21,Fprotect."
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
