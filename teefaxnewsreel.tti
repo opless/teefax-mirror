@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -21,18 +21,18 @@ OL,12,GWeinstein 'in tentative $25m deal  C107
 OL,13,Gwith accusers'                         
 OL,14,GChemists demand clarity on         C108
 OL,15,Gcannabis-related goods                 
-OL,16,GEU leaders to consider deepening   C109
-OL,17,Gclimate ambitions                      
+OL,16,GChile missing plane: Floating      C109
+OL,17,Gdebris found                           
 OL,18,G'My boss lets us book hangover     C110
 OL,19,Gdays'                                  
-OL,20,GChile missing plane: Floating      C111
-OL,21,Gdebris found                           
+OL,20,GNiger army base attack: At least 73C111
+OL,21,Gsoldiers dead                          
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 07:25GWinnersF79GLosersA22
-OL,14,C FTSE100    G7235.70 F+19.45 Fat 07:25
-OL,15,C techMARK100G5662.96 F+7.05  Fat 07:25
+OL,12,  FTSE100Fat 08:25GWinnersF80GLosersA20
+OL,14,C FTSE100    G7254.56 F+38.31 Fat 08:25
+OL,15,C techMARK100G5675.45 F+19.54 Fat 08:25
 OL,16,C Dow Jones  G27911.30F+29.58 Fat CLOSE
 OL,17,C Nasdaq     G8402.61 F+48.32 Fat CLOSE
-OL,18,C Nikkei     G23424.81F+32.95 Fat 07:28
-OL,19,C DJEurStoxx G3695.73 F+8.28  Fat 07:25
+OL,18,C Nikkei     G23424.81F+3,295.Fat 07:44
+OL,19,C DJEurStoxx G3695.95 F+8.50  Fat 08:30
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,12 +84,12 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
 OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G04V%  B               
+OL,3,           ZV`?0~G05V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G05V!FCloudy         
@@ -106,14 +106,14 @@ OL,16,B            ^ZR'oG 07R}zt B
 OL,17,B              ZRj^RG 06R B       
 OL,18,B            ZRx|^G 10R'         
 OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 08R/!        
+OL,20,B            ^ZR  tG 09R/!        
 OL,21,B            ZR zG11R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -121,8 +121,8 @@ OL,2,           ^ZV 4`~|}            G 2/2
 OL,3,           ZV`?0~G07V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZR({5                
-OL,6,            ZR!'~G06R!B               
-OL,7,           ^ZR ~ow1 B               
+OL,6,            ZR!'~G06R!BRain           
+OL,7,           ^ZR ~ow1  B              
 OL,8,B          ^ZV*y?sp  FCloudy        
 OL,9,           ^ZVj)"G 05V}  F             
 OL,10,       ^ZVp|t VxVg0 B             
@@ -135,14 +135,14 @@ OL,16,B            ^ZV'oG 07V}zt B
 OL,17,B              ZVj^VG 06V B       
 OL,18,B            ZVx|^G 08V'         
 OL,19,             ^ZV! +/'iVqp0        
-OL,20,BRain        ^ZR  tG 08V/!        
-OL,21,B            ZR zG09R^/s/V/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,20,B            ^ZV  tG 08V/!        
+OL,21,B            ZV zG09V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -188,7 +188,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -214,7 +214,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -226,20 +226,21 @@ OL,6, New Zealand police have said they plan
 OL,7, to recover bodies from White Island -
 OL,8, where a volcanic eruption killed at
 OL,9, least eight people - on Friday morning.
-OL,11,FThe rescue mission will go ahead
+OL,11,FThe recovery mission will go ahead
 OL,12,Fdespite the risk of another eruption,
 OL,13,Fpolice said.
-OL,15,FAt least eight people are thought to be
-OL,16,Fon the island following the eruption on
-OL,17,FMonday. All are presumed dead.
-OL,19,FPolice said they were planning a
-OL,20,F"high-speed recovery" of the bodies.
+OL,15,F"Today is less safe than yesterday, and
+OL,16,Fthe day before that," volcanologist Dr
+OL,17,FGraham Leonard said.
+OL,19,FAt least eight people are thought to be
+OL,20,Fon the island following the eruption on
+OL,21,FMonday. All are presumed dead.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -265,7 +266,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -291,7 +292,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -317,33 +318,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CEU leaders to consider deepening
-OL,5,Cclimate ambitions
-OL,6, European Union leaders gather in
-OL,7, Brussels on Thursday amid a push to
-OL,8, commit to making the 28-member bloc
-OL,9, climate neutral by 2050.
-OL,11,FSome Eastern European countries want
-OL,12,Ffinancial guarantees before they agree
-OL,13,Fto the EU cutting to zero its net
-OL,14,Famount of greenhouse gas emissions.
-OL,16,FBut Ursula von der Leyen, the new head
-OL,17,Fof the EU's executive, has placed the
-OL,18,Faim at the heart of a new "Green Deal".
-OL,20,FBillions of euros would be added to the
-OL,21,FEU budget to move from fossil fuels.
+OL,4,CChile missing plane: Floating debris
+OL,5,Cfound
+OL,6, Chilean officials say they have located
+OL,7, debris believed to be from an air force
+OL,8, plane that went missing on Monday.
+OL,10,FThey said the wreckage was found
+OL,11,Ffloating 30km (19 miles) from where the
+OL,12,FC-130 Hercules cargo plane with 38
+OL,13,Fpeople on board last made contact.
+OL,15,FThe wreckage was spotted in a body of
+OL,16,Fwater known as the Drake Passage.
+OL,18,FThe plane was en route from Chile's
+OL,19,Fsouthern city of Punta Arenas to the
+OL,20,Fcountry's Presidente Eduardo Frei
+OL,21,FMontalva base in the Antarctic.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -368,33 +369,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CChile missing plane: Floating debris
-OL,5,Cfound
-OL,6, Chilean officials say they have located
-OL,7, debris believed to be from an air force
-OL,8, plane that went missing on Monday.
-OL,10,FThey said the wreckage was found
-OL,11,Ffloating 30km (19 miles) from where the
-OL,12,FC-130 Hercules cargo plane with 38
-OL,13,Fpeople on board last made contact.
-OL,15,FThe wreckage was spotted in a body of
-OL,16,Fwater known as the Drake Passage.
-OL,18,FThe plane was en route from Chile's
-OL,19,Fsouthern city of Punta Arenas to the
-OL,20,Fcountry's Presidente Eduardo Frei
-OL,21,FMontalva base in the Antarctic.
+OL,4,CNiger army base attack: At least 73
+OL,5,Csoldiers dead
+OL,6, Militants have killed at least 73
+OL,7, soldiers in an attack on a military
+OL,8, base in western Niger, the army says.
+OL,10,FTwelve soldiers were also injured in
+OL,11,Fthe attack - the deadliest for several
+OL,12,Fyears - on Tuesday in Inates. 
+OL,14,FNiger's defence minister, Issoufou
+OL,15,FKatambe, told the BBC "a large number
+OL,16,Fof terrorists" had been "neutralised".
+OL,18,FNo group has said it was behind the
+OL,19,Fkillings, but fighters linked to the
+OL,20,FIslamic State group and Nigeria-based
+OL,21,FBoko Haram are active in the area.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -420,33 +421,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CJoe Biden denies discussing serving one
-OL,5,Cterm only
-OL,6, Democratic presidential frontrunner Joe
-OL,7, Biden has denied ever discussing with
-OL,8, his campaign whether he would only
-OL,9, serve one term if elected in 2020.
-OL,11,F"I don't have plans on one term. I'm
-OL,12,Fnot even there yet," Mr Biden said.
-OL,14,FPolitico earlier quoted four people
-OL,15,F"who regularly talk to Biden" saying it
-OL,16,Fwas "virtually inconceivable that he
-OL,17,Fwill run for re-election" in 2024.
-OL,19,FIn 2024, Mr Biden, now 77, will be 82.
-OL,20,FAmerica has never had a sitting
-OL,21,Foctogenarian president.
+OL,4,CAnimal painting found in cave is 44,000
+OL,5,Cyears old
+OL,6, A painting discovered on the wall of an
+OL,7, Indonesian cave has been found to be
+OL,8, 44,000 years old.
+OL,10,FThe art appears to show a buffalo being
+OL,11,Fhunted by part-human, part-animal
+OL,12,Fcreatures holding spears and possibly
+OL,13,Fropes.
+OL,15,FSome researchers think the scene could
+OL,16,Fbe the world's oldest-recorded story.
+OL,18,FThe findings were presented in the
+OL,19,Fjournal Nature by archaeologists from
+OL,20,FGriffith University in Brisbane,
+OL,21,FAustralia.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -472,33 +473,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNiger army base attack: At least 73
-OL,5,Csoldiers dead
-OL,6, Militants have killed at least 73
-OL,7, soldiers in an attack on a military
-OL,8, base in western Niger, the army says.
-OL,10,FTwelve soldiers were also injured in
-OL,11,Fthe attack - the deadliest for several
-OL,12,Fyears - on Tuesday in Inates. 
-OL,14,FNiger's defence minister, Issoufou
-OL,15,FKatambe, told the BBC "a large number
-OL,16,Fof terrorists" had been "neutralised".
-OL,18,FNo group has said it was behind the
-OL,19,Fkillings, but fighters linked to the
-OL,20,FIslamic State group and Nigeria-based
-OL,21,FBoko Haram are active in the area.
+OL,4,C'Anti-Muslim' citizenship law
+OL,5,Cchallenged in India court
+OL,6, A bill that grants Indian citizenship
+OL,7, to non-Muslim illegal immigrants has
+OL,8, been challenged in the Supreme Court.
+OL,10,FThe Indian Union Muslim League, a
+OL,11,Fpolitical party, has petitioned the
+OL,12,Fcourt to declare the bill illegal.
+OL,14,FThe parliament on Wednesday passed the
+OL,15,Fbill which applies to migrants from
+OL,16,FAfghanistan, Bangladesh and Pakistan.
+OL,18,FCritics say the bill is against
+OL,19,FMuslims, but the ruling Hindu
+OL,20,Fnationalist Bharatiya Janata Party
+OL,21,F(BJP) has defended it.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -523,33 +524,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CAnimal painting found in cave is 44,000
-OL,5,Cyears old
-OL,6, A painting discovered on the wall of an
-OL,7, Indonesian cave has been found to be
-OL,8, 44,000 years old.
-OL,10,FThe art appears to show a buffalo being
-OL,11,Fhunted by part-human, part-animal
-OL,12,Fcreatures holding spears and possibly
-OL,13,Fropes.
-OL,15,FSome researchers think the scene could
-OL,16,Fbe the world's oldest-recorded story.
-OL,18,FThe findings were presented in the
-OL,19,Fjournal Nature by archaeologists from
-OL,20,FGriffith University in Brisbane,
-OL,21,FAustralia.
+OL,4,CIsrael will hold record third election
+OL,5,Cin a year
+OL,6, Israel will hold its third general
+OL,7, election in less than a year after a
+OL,8, deadline was missed for any lawmaker to
+OL,9, form a majority coalition. 
+OL,11,FMPs are now expected to set the
+OL,12,Felection date for 2 March. 
+OL,14,FAhead of the midnight (22:00 GMT)
+OL,15,Fdeadline, they gave initial approval to
+OL,16,Fa bill to dissolve parliament.
+OL,18,FBoth Prime Minister Benjamin Netanyahu
+OL,19,Fand his main rival, Benny Gantz, failed
+OL,20,Fin their own attempts following
+OL,21,FSeptember's inconclusive election.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -575,7 +576,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -601,7 +602,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -627,7 +628,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -651,7 +652,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -677,7 +678,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -703,7 +704,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -729,7 +730,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C08:36:53
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C09:35:54
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
