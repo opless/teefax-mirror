@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C20:33:29
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C21:33:18
 OL,1,T]G           This Evening              
 OL,2,           ^ZR 4`~|}            G 1/2 
 OL,3,           ZR`?0~G04R%  BCloudy         
@@ -16,7 +16,7 @@ OL,7,           ^ZV ~ow1  F
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 03V} B              
 OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG05VtV+"VG01V B             
+OL,11,       ZVnG05VtV+"VG02V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
 OL,14,B            ^ZV`  V*G 05V} B          
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C20:33:29
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C21:33:18
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZR 4`~|}            G 2/2 
 OL,3,           ZR`?0~G07R%  B               
