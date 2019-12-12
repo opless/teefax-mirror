@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C04:37:20
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C05:37:02
 OL,1,T]G         Thursday Evening            
 OL,2,           ^ZR 4`~|}            G 1/2 
 OL,3,           ZR`?0~G04R%  B               
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C04:37:20
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C05:37:02
 OL,1,T]G              Friday                 
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G07V%  B               
@@ -50,7 +50,7 @@ OL,12,       ZV+R`4R+|0
 OL,13,        ZV+%*o!R" R *u  B          
 OL,14,B            ^ZR`  R*G 07R} B          
 OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 07R}zt B       
+OL,16,B            ^ZR'oG 06R}zt B       
 OL,17,B              ZRj^RG 06R B       
 OL,18,B            ZRx|^G 08R'         
 OL,19,             ^ZR! +/'iRqp0        
