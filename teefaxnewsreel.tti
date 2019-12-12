@@ -5,34 +5,34 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MJohnson and Corbyn make last       C104
-OL,6,Gpitches of campaign                    
+OL,4,MVoters to head to polls for UK     C104
+OL,6,Ggeneral election                       
 OL,8,GMethane pulse detected from South  C105
 OL,9,GSudan wetlands                         
-OL,10,G'Frenzied' killer guilty of        C106
-OL,11,Gmurdering Jaden, 14                    
+OL,10,GBBC Sound of 2020: Who's on the    C106
+OL,11,Glonglist?                              
 OL,12,GSuu Kyi rejects genocide claims at C107
 OL,13,Gtop UN court                           
-OL,14,GLondon Bridge victim 'brilliant,   C108
-OL,15,Gcaring daughter'                       
+OL,14,GChemists demand clarity on         C108
+OL,15,Gcannabis-related goods                 
 OL,16,GNew Zealand volcano death toll     C109
 OL,17,Grises to eight                         
-OL,18,GNaturalist and presenter David     C110
-OL,19,GBellamy dies at 86                     
-OL,20,GSydney protesters demand action on C111
-OL,21,Gclimate change                         
+OL,18,G'Frenzied' killer guilty of        C110
+OL,19,Gmurdering Jaden, 14                    
+OL,20,GIsrael will hold record third      C111
+OL,21,Gelection in a year                     
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7216.25 F+2.49  Fat CLOSE
 OL,15,C techMARK100G5655.91 A-15.48 Fat CLOSE
 OL,16,C Dow Jones  G27911.30F+29.58 Fat CLOSE
 OL,17,C Nasdaq     G8402.61 F+48.32 Fat CLOSE
-OL,18,C Nikkei     G23391.86A-1,832.Fat 07:45
-OL,19,C DJEurStoxx G3687.45 F+15.67 Fat 16:10
+OL,18,C Nikkei     G23397.73F+5.87  Fat 00:30
+OL,19,C DJEurStoxx G3687.45 F+15.67 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,65 +84,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G           This Evening              
+OL,1,T]G         Thursday Evening            
 OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G02R%  B               
+OL,3,           ZR`?0~G04R%  B               
 OL,4,           RZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G01V!FCloudy         
+OL,6,            ZV!'~G04V!FRain           
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BRain          
-OL,9,           ^ZRj)"G 02R}  B             
-OL,10,       ^ZVp|t RxVg0 B             
-OL,11,       ZVnG02VtR+"VG01V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" U *u  EClear     
-OL,14,B            ^ZR`  U*G 01U}  E         
-OL,15,B            ^ZRk|U            
-OL,16,B            ^ZR'oG 01V}zt B       
-OL,17,B              ZRj^UG 00V B       
-OL,18,B            ZRx|^G 02V'         
-OL,19,             ^ZR! +/'iUqp0        
-OL,20,B            ^ZR  tG 02U/!        
-OL,21,B            ZR zG04R^/s/U/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,8,B          ^ZR*y?sp  BCloudy        
+OL,9,           ^ZRj)"G 03R}  B             
+OL,10,       ^ZVp|t RxRg0 B             
+OL,11,       ZVnG04VtR+"RG03R B             
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" V *u  B          
+OL,14,B            ^ZV`  V*G 05V} B          
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 04V}zt B       
+OL,17,B              ZVj^VG 04V B       
+OL,18,B            ZVx|^G 05V'         
+OL,19,             ^ZV! +/'iVqp0        
+OL,20,B            ^ZV  tG 05V/!        
+OL,21,B            ZV zG05V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,T]G             Tomorrow                
-OL,2,           ^ZR 4`~|}            G 2/2 
-OL,3,           ZR`?0~G05R%  B               
-OL,4,           RZj**gppp B               
+OL,1,T]G              Friday                 
+OL,2,           ^ZV 4`~|}            G 2/2 
+OL,3,           ZV`?0~G07V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G05V!FCloudy         
+OL,6,            ZV!'~G06V!FRain           
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 04V} B              
-OL,10,       ^ZRp|t VxRg0 BRain         
-OL,11,       ZRnG07RtV+"RG03R  B            
+OL,8,B          ^ZR*y?sp  BCloudy        
+OL,9,           ^ZRj)"G 05R}  B             
+OL,10,       ^ZRp|t RxRg0 B             
+OL,11,       ZRnG07RtR+"RG05R B             
 OL,12,       ZR+R`4R+|0             
 OL,13,        ZR+%*o!R" R *u  B          
-OL,14,B            ^ZR`  R*G 05R} B          
+OL,14,B            ^ZR`  R*G 07R} B          
 OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 07R}zt B       
+OL,16,B            ^ZR'oG 06R}zt B       
 OL,17,B              ZRj^RG 06R B       
-OL,18,B            ZRx|^G 09R'         
+OL,18,B            ZRx|^G 08R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 08R/!        
-OL,21,B            ZR zG11R^/s/R/? B         
+OL,21,B            ZR zG09R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -187,33 +187,33 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
 OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
 OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CJohnson and Corbyn make last pitches of
-OL,5,Ccampaign
-OL,6, Boris Johnson and Jeremy Corbyn are
-OL,7, focusing on Brexit and public services
-OL,8, in their final hours of campaigning.
-OL,10,FIn their last interviews with the BBC
-OL,11,Fahead of Thursday's poll, Mr Johnson
-OL,12,Frepeated his main pledges, saying:
-OL,13,F"Only if you get Brexit done (can you)
-OL,14,Fmove the country forward."
-OL,16,FMeanwhile, Mr Corbyn said there was a
-OL,17,F"greater understanding" from the public
-OL,18,Fthat the country "cannot go on with
-OL,19,Funderfunded public services".  
-OL,21,FThe polls will open at 07:00 GMT.
+OL,4,CVoters to head to polls for UK general
+OL,5,Celection
+OL,6, The UK will go to the polls on Thursday
+OL,7, for the country's third general
+OL,8, election in less than five years. 
+OL,10,FThe contest, the first to be held in
+OL,11,FDecember in nearly 100 years, follows
+OL,12,Fthose in 2015 and 2017. 
+OL,14,FPolling stations in 650 constituencies
+OL,15,Facross England, Wales, Scotland and
+OL,16,FNorthern Ireland open at 07:00 GMT.
+OL,18,FAfter the polls close at 22:00 GMT,
+OL,19,Fcounting will begin straight away. Most
+OL,20,Fresults are due to be announced in the
+OL,21,Fearly hours of Friday morning.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -239,33 +239,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,C'Frenzied' killer guilty of murdering
-OL,5,CJaden, 14
-OL,6, A man has been found guilty of
-OL,7, murdering a 14-year-old boy in a
-OL,8, "violent and frenzied" knife attack.
-OL,10,FJaden Moodie was knocked off a moped
-OL,11,Fand repeatedly stabbed by Ayoub
-OL,12,FMajdouline in Bickley Road, Leyton, in
-OL,13,FJanuary. 
-OL,15,FJurors heard the defendant's DNA was
-OL,16,Ffound on a knife and yellow washing-up
-OL,17,Fgloves, which had been thrown into a
-OL,18,Fdrain.
-OL,20,FMajdouline, from Wembley, north London,
-OL,21,Fis due to be sentenced on 18 December.
+OL,4,CBBC Sound of 2020: Who's on the
+OL,5,Clonglist?
+OL,6, A selection of bedroom musicians, indie
+OL,7, bands and retro-futuristic soul singers
+OL,8, are being tipped for success on BBC
+OL,9, Music's Sound of 2020 list.
+OL,11,FThe longlist features 10 rising acts,
+OL,12,Ffrom punk-pop firebrand Yungblud to
+OL,13,Fsoul-baring songwriter Celeste.
+OL,15,FOther nominees include DIY musician
+OL,16,FBeabadoobee, who is signed to the same
+OL,17,Fmanagement company as The 1975; and
+OL,18,FDublin rock band Inhaler, fronted by
+OL,19,FBono's son Elijah Hewson.
+OL,21,FThe winner will be revealed in January.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +291,111 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CChemists demand clarity on
+OL,5,Ccannabis-related goods
+OL,6, Pharmacists are calling for better
+OL,7, regulation of products claiming to
+OL,8, contain cannabis derivative CBD.
+OL,10,FThere has been a spike in demand within
+OL,11,Fthe last twelve months, according to
+OL,12,Fmanufacturers.
+OL,14,FNon-medicinal CBD is now on sale in
+OL,15,FHigh Street shops across the country,
+OL,16,Fincluding chemists. 
+OL,18,FBut the The National Pharmacy
+OL,19,FAssociation says the products need
+OL,20,Fclearer information and better checks
+OL,21,Fon content.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40513
+SC,0013
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CNew Zealand volcano death toll rises to
+OL,5,Ceight
+OL,6, Two people who were being treated in
+OL,7, hospital after the eruption of New
+OL,8, Zealand's White Island volcano have
+OL,9, died, bringing the official number of
+OL,10, victims to eight, police say.
+OL,12,FNine people are still officially
+OL,13,Fmissing, presumed dead, and efforts to
+OL,14,Fretrieve bodies from the island were
+OL,15,Fput on hold on Wednesday amid signs of
+OL,16,Fincreased seismic activity.
+OL,18,FAnother 20 people are in intensive care
+OL,19,Fwith severe burns.
+OL,21,FFive have been moved to Australia.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40514
+SC,0014
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,C'Frenzied' killer guilty of murdering
+OL,5,CJaden, 14
+OL,6, A man has been found guilty of
+OL,7, murdering a 14-year-old boy in a
+OL,8, "violent and frenzied" knife attack.
+OL,10,FJaden Moodie was knocked off a moped
+OL,11,Fand repeatedly stabbed by Ayoub
+OL,12,FMajdouline in Bickley Road, Leyton, in
+OL,13,FJanuary. 
+OL,15,FJurors heard the defendant's DNA was
+OL,16,Ffound on a knife and yellow washing-up
+OL,17,Fgloves, which had been thrown into a
+OL,18,Fdrain.
+OL,20,FMajdouline, from Wembley, north London,
+OL,21,Fis due to be sentenced on 18 December.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40515
+SC,0015
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CIsrael will hold record third election
+OL,5,Cin a year
+OL,6, Israel will hold its third general
+OL,7, election in less than a year after a
+OL,8, deadline was missed for any lawmaker to
+OL,9, form a majority coalition. 
+OL,11,FMPs are now expected to set the
+OL,12,Felection date for 2 March. 
+OL,14,FAhead of the midnight (22:00 GMT)
+OL,15,Fdeadline, they gave initial approval to
+OL,16,Fa bill to dissolve parliament.
+OL,18,FBoth Prime Minister Benjamin Netanyahu
+OL,19,Fand his main rival, Benny Gantz, failed
+OL,20,Fin their own attempts following
+OL,21,FSeptember's inconclusive election.
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,C]DHow Ceefax switches to Digital TV 697
+PN,40516
+SC,0016
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -314,36 +418,36 @@ OL,19,Fsupport" they have received showed how
 OL,20,Fshe had "touched so many lives".
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40513
-SC,0013
+PN,40517
+SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNew Zealand volcano death toll rises to
-OL,5,Ceight
-OL,6, Two people who were being treated in
-OL,7, hospital after the eruption of New
-OL,8, Zealand's White Island volcano have
-OL,9, died, bringing the official number of
-OL,10, victims to eight, police say.
-OL,12,FNine people are still officially
-OL,13,Fmissing, presumed dead, and efforts to
-OL,14,Fretrieve bodies from the island were
-OL,15,Fput on hold on Wednesday amid signs of
-OL,16,Fincreased seismic activity.
-OL,18,FAnother 20 people are in intensive care
-OL,19,Fwith severe burns.
-OL,21,FOne has been moved to Australia.
+OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
+OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
+OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
+OL,4,CAnger as protestors barred from UN
+OL,5,Cclimate talks
+OL,6, Environmentalists and observers have
+OL,7, been barred from UN climate talks in
+OL,8, Madrid after a protest inside the
+OL,9, conference. 
+OL,11,FAround 200 climate campaigners were
+OL,12,Fejected after staging a sit in,
+OL,13,Fpreventing access to one of the
+OL,14,Fnegotiating halls. 
+OL,16,FProtestors said they were "pushed,
+OL,17,Fbullied and touched without consent."
+OL,19,FIn the wake of the disruption all other
+OL,20,Fobservers were then barred from the
+OL,21,Ftalks. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40514
-SC,0014
+PN,40518
+SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -366,114 +470,10 @@ OL,20,FCounty Durham, attracted criticism for
 OL,21,Fdismissing global warming. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40515
-SC,0015
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CSydney protesters demand action on
-OL,5,Cclimate change
-OL,6, Thousands of protesters have taken to
-OL,7, the streets of Sydney to demand urgent
-OL,8, action on climate change amid an
-OL,9, extreme bushfire season that has
-OL,10, brought hazardous smoke to the city. 
-OL,12,FIt came a day after a thick haze caused
-OL,13,Fchaos in the harbour city, setting off
-OL,14,Fsmoke alarms and marring visibility.
-OL,16,FProtesters, many wearing face masks,
-OL,17,Faccused the government of inaction.
-OL,19,FBut Australia's government has defended
-OL,20,Fits policies and argued that climate
-OL,21,Fchange is not solely to blame. 
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40516
-SC,0016
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
-OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
-OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
-OL,4,CHundreds of dead birds found in mystery
-OL,5,Cmass death
-OL,6, Hundreds of birds found dead on a north
-OL,7, Wales road are to be tested to discover
-OL,8, how they died.
-OL,10,FAbout 225 starlings were discovered
-OL,11,Fwith blood on their bodies in a lane on
-OL,12,FAnglesey, North Wales Police said.
-OL,14,FDafydd Edwards, whose partner found the
-OL,15,Fbirds, said it was as if "they had
-OL,16,Fdropped down dead from the sky".
-OL,18,FThe Animal and Plant Health Agency has
-OL,19,Fcollected them for testing and will
-OL,20,Fexamine whether they could have been
-OL,21,Fpoisoned.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40517
-SC,0017
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
-OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
-OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNew Jersey killers 'targeted Jewish
-OL,5,Csupermarket'
-OL,6, A Jewish supermarket in New Jersey was
-OL,7, the target of a gun attack which left
-OL,8, six people dead including two suspected
-OL,9, assailants, say officials.
-OL,11,FNo motive has been confirmed, but the
-OL,12,Fmayor of Jersey City tweeted that "hate
-OL,13,Fand anti-Semitism" had no place in the
-OL,14,Fcity.
-OL,16,FThe suspects are believed to have
-OL,17,Fkilled a detective across town, then
-OL,18,Fdriven a rental van to the store.
-OL,20,FSecurity video shows them firing on the
-OL,21,Fmarket before going inside.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
-PN,40518
-SC,0018
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CFive murder arrests after man stabbed
-OL,5,Cto death
-OL,6, Five men have been arrested on
-OL,7, suspicion of murder after a man was
-OL,8, found stabbed to death in woodland.
-OL,10,FPolice and ambulance crews were called
-OL,11,Fto a wooded area between H6 Childs Way
-OL,12,Fand Padstow Avenue in Fishermead,
-OL,13,FMilton Keynes, at about 15:20 GMT.
-OL,15,FThames Valley Police said there was a
-OL,16,Freport of an "altercation" between a
-OL,17,Fgroup of men, during which one of them
-OL,18,Fwas stabbed.
-OL,20,FThe victim, in his 20s, died at the
-OL,21,Fscene. The arrested men are in custody.
-OL,22,D]CHome news digestG141CWorld digestG142
-OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -499,59 +499,59 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CLondon homicides highest for year since
-OL,5,C2008
-OL,6, The number of killings in London has
-OL,7, topped last year's total and is the
-OL,8, highest annual number for more than a
-OL,9, decade, police figures show. 
-OL,11,FThe fatal stabbing of 47-year-old James
-OL,12,FO'Keefe in Hornsey on Monday took the
-OL,13,Fcapital's 2019's homicide rate to 142. 
-OL,15,FThe figure, which includes murders and
-OL,16,Fmanslaughters, is the highest number
-OL,17,Fsince 2008, a year when the Met
-OL,18,Finvestigated 154 deaths.
-OL,20,FThe force said a total of 133 homicides
-OL,21,Fwere recorded in 2018. 
+OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
+OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
+OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
+OL,4,CHundreds of dead birds found in mystery
+OL,5,Cmass death
+OL,6, Hundreds of birds found dead on a north
+OL,7, Wales road are to be tested to discover
+OL,8, how they died.
+OL,10,FAbout 225 starlings were discovered
+OL,11,Fwith blood on their bodies in a lane on
+OL,12,FAnglesey, North Wales Police said.
+OL,14,FDafydd Edwards, whose partner found the
+OL,15,Fbirds, said it was as if "they had
+OL,16,Fdropped down dead from the sky".
+OL,18,FThe Animal and Plant Health Agency has
+OL,19,Fcollected them for testing and will
+OL,20,Fexamine whether they could have been
+OL,21,Fpoisoned.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CIndia approves 'anti-Muslim'
-OL,5,Ccitizenship law
-OL,6, India's parliament has approved a bill
-OL,7, that grants citizenship to non-Muslim
-OL,8, illegal immigrants from Afghanistan,
-OL,9, Bangladesh and Pakistan.
-OL,11,FThe bill passed the upper house of
-OL,12,Fparliament by 125 votes to 105. It had
-OL,13,Falready cleared the lower house. 
-OL,15,FThe news came as protests against the
-OL,16,Fbill raged in north-eastern states
-OL,17,Fbordering Bangladesh. Troops were
-OL,18,Fdeployed in Tripura and police battled
-OL,19,Fprotesters in Assam's capital Guwahati.
-OL,21,FCritics say the bill is discriminatory.
+OL,4,CJoe Biden denies discussing serving one
+OL,5,Cterm only
+OL,6, Democratic presidential frontrunner Joe
+OL,7, Biden has denied ever discussing with
+OL,8, his campaign whether he would only
+OL,9, serve one term if elected in 2020.
+OL,11,F"I don't have plans on one term. I'm
+OL,12,Fnot even there yet," Mr Biden said.
+OL,14,FPolitico earlier quoted four people
+OL,15,F"who regularly talk to Biden" saying it
+OL,16,Fwas "virtually inconceivable that he
+OL,17,Fwill run for re-election" in 2024.
+OL,19,FIn 2024, Mr Biden, now 77, will be 82.
+OL,20,FAmerica has never had a sitting
+OL,21,Foctogenarian president.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -577,7 +577,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -603,7 +603,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -629,7 +629,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -655,7 +655,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -681,7 +681,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -706,7 +706,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -732,7 +732,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E11/12C22:39:22
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C01:37:46
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
