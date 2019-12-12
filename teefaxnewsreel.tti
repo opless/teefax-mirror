@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -19,12 +19,12 @@ OL,10,GI was prepared to die, says London C106
 OL,11,GBridge 'hero'                          
 OL,12,GPatients die as lawyers ransack    C107
 OL,13,GPakistan hospital                      
-OL,14,GArrest over polling station        C108
-OL,15,Gsuspicious device                      
+OL,14,GNicky Campbell pays tribute to     C108
+OL,15,G'wonderful mum'                        
 OL,16,GAnimal painting found in cave is   C109
 OL,17,G44,000 years old                       
-OL,18,GNicky Campbell pays tribute to     C110
-OL,19,G'wonderful mum'                        
+OL,18,GSeven injured as uni bus hits      C110
+OL,19,Grailway bridge                         
 OL,20,GAnger as protesters barred from UN C111
 OL,21,Gclimate talks                          
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 11:30GWinnersF77GLosersA24
-OL,14,C FTSE100    G7259.86 F+43.61 Fat 11:30
-OL,15,C techMARK100G5688.55 F+32.64 Fat 11:30
+OL,12,  FTSE100Fat 12:35GWinnersF69GLosersA32
+OL,14,C FTSE100    G7244.15 F+27.90 Fat 12:35
+OL,15,C techMARK100G5679.18 F+23.27 Fat 12:35
 OL,16,C Dow Jones  G27911.30F+29.58 Fat CLOSE
 OL,17,C Nasdaq     G8402.61 F+48.32 Fat CLOSE
 OL,18,C Nikkei     G23424.81F+3,295.Fat 07:44
-OL,19,C DJEurStoxx G3690.64 F+3.19  Fat 11:30
+OL,19,C DJEurStoxx G3682.39 A-5.06  Fat 12:35
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -82,65 +82,65 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
-OL,2,           ^ZR 4`~|}            G 1/2 
-OL,3,           ZR`?0~G04R%  B               
-OL,4,           RZj**gppp B               
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G04V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
-OL,6,            ZV!'~G05V!FRain           
+OL,6,            ZV!'~G05V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BCloudy        
-OL,9,           ^ZRj)"G 04R}  B             
-OL,10,       ^ZVp|t RxRg0 B             
-OL,11,       ZVnG07VtR+"RG03R B             
-OL,12,       ZV+R`4R+|0             
-OL,13,        ZV+%*o!R" V *u  B          
-OL,14,B            ^ZV`  V*G 05V} B          
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 07V}zt B       
-OL,17,B              ZVj^VG 06V B       
-OL,18,B            ZVx|^G 09V'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 08V/!        
-OL,21,B            ZV zG10V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 04V} B              
+OL,10,       ^ZRp|t VxVg0 B             
+OL,11,       ZRnG07RtV+"VG03V B             
+OL,12,       ZR+V`4V+|0             
+OL,13,        ZR+%*o!V" R *u  BRain      
+OL,14,B            ^ZR`  R*G 05R}  B         
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 07R}zt B       
+OL,17,B              ZRj^RG 06R B       
+OL,18,B            ZRx|^G 09R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZR  tG 08R/!        
+OL,21,B            ZR zG10R^/s/R/? B         
+OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
-OL,2,           ^ZV 4`~|}            G 2/2 
-OL,3,           ZV`?0~G06V%  B               
-OL,4,           VZj**gppp B               
-OL,5,           ^ZR({5                
-OL,6,            ZR!'~G06R!BRain           
-OL,7,           ^ZR ~ow1  B              
-OL,8,B          ^ZV*y?sp  FCloudy        
-OL,9,           ^ZVj)"G 05V}  F             
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG07VtV+"VG05V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" U *u  ESunny     
-OL,14,B            ^ZV`  U*G 07U}  E         
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 06V}zt B       
-OL,17,B              ZVj^VG 06V B       
-OL,18,B            ZVx|^G 08V'         
-OL,19,             ^ZV! +/'iVqp0        
-OL,20,B            ^ZV  tG 08V/!        
-OL,21,B            ZV zG08V^/s/V/? B         
+OL,2,           ^ZR 4`~|}            G 2/2 
+OL,3,           ZR`?0~G07R%  B               
+OL,4,           RZj**gppp B               
+OL,5,           ^ZV({5                
+OL,6,            ZV!'~G07V!FRain           
+OL,7,           ^ZV ~ow1  F              
+OL,8,B          ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 05V} B              
+OL,10,       ^ZRp|t VxRg0 BCloudy       
+OL,11,       ZRnG07RtV+"RG05R  B            
+OL,12,       ZR+R`4R+|0             
+OL,13,        ZR+%*o!R" R *u  B          
+OL,14,B            ^ZR`  R*G 07R} B          
+OL,15,B            ^ZRk|R            
+OL,16,B            ^ZR'oG 06R}zt B       
+OL,17,B              ZRj^RG 06R B       
+OL,18,B            ZRx|^G 08R'         
+OL,19,             ^ZR! +/'iRqp0        
+OL,20,B            ^ZV  tG 08R/!        
+OL,21,B            ZV zG08V^/s/R/? B         
 OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -161,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -171,10 +171,10 @@ OL,6,E```````````````````````````````````````
 OL,4,MYungblud and Celeste make BBC SoundC502
 OL,7,GMcCartney unwraps his 'secret' ChriC503
 OL,8,GWeinstein 'in tentative $25m deal wC504
-OL,9,GX Factor to return in 2020 - but beC505
-OL,10,GNicky Campbell pays tribute to 'wonC506
-OL,12,GNaturalist and presenter David BellC507
-OL,13,GThanos creator complains over TrumpC508
+OL,9,GNicky Campbell pays tribute to 'wonC505
+OL,10,GX Factor to return in 2020 - but beC506
+OL,12,GJohn Humphrys to join Classic FM   C507
+OL,13,GNaturalist and presenter David BellC508
 OL,14,GKaren Gillan: 'I got rejected for tC509
 OL,15,G1875 photo may be oldest StonehengeC510
 OL,17,GLiam Payne on alcohol: 'My family wC511
@@ -185,7 +185,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -211,7 +211,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -237,7 +237,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -263,7 +263,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -289,33 +289,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CArrest over polling station suspicious
-OL,5,Cdevice
-OL,6, A 48-year-old man has been arrested
-OL,7, after a suspicious device was found
-OL,8, near a polling station in North
-OL,9, Lanarkshire.
-OL,11,FPolice confirmed a controlled explosion
-OL,12,Fwas carried out on the "non-viable
-OL,13,Fdevice", which was spotted on the
-OL,14,Fground floor of Glen Tower flats in
-OL,15,FMotherwell at 01:00.
-OL,17,FA community room in the building was
-OL,18,Fdue to be used as a polling station.
-OL,20,FPolice said the explosion was
-OL,21,Fprecautionary and inquiries continue.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CNicky Campbell pays tribute to
+OL,5,C'wonderful mum'
+OL,6, BBC Radio 5 Live's Nicky Campbell has
+OL,7, written a heartfelt tribute to his
+OL,8, "wonderful" mother Sheila, who has died
+OL,9, at the age of 96.
+OL,11,FAlong with her husband, Frank Campbell,
+OL,12,Fshe adopted Nicky as a four-day-old
+OL,13,Fbaby in 1961.
+OL,15,FSheila Campbell, a World War Two radar
+OL,16,Foperator who became a social worker,
+OL,17,Fwas part of Nicky's 2007 episode of BBC
+OL,18,FOne's Who Do You Think You Are? 
+OL,20,FShe also spoke about being a radar
+OL,21,Foperator on BBC Radio 5 Live in June. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -341,33 +341,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
-OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
-OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CNicky Campbell pays tribute to
-OL,5,C'wonderful mum'
-OL,6, BBC Radio 5 Live's Nicky Campbell has
-OL,7, written a heartfelt tribute to his
-OL,8, "wonderful" mother Sheila, who has died
-OL,9, at the age of 96.
-OL,11,FAlong with her husband, Frank Campbell,
-OL,12,Fshe adopted Nicky as a four-day-old
-OL,13,Fbaby in 1961.
-OL,15,FSheila Campbell, a World War Two radar
-OL,16,Foperator who became a social worker,
-OL,17,Fwas part of Nicky's 2007 episode of BBC
-OL,18,FOne's Who Do You Think You Are? 
-OL,20,FShe also spoke about being a radar
-OL,21,Foperator on BBC Radio 5 Live in June. 
+OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
+OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
+OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
+OL,4,CSeven injured as uni bus hits railway
+OL,5,Cbridge
+OL,6, Seven people have been injured and a
+OL,7, man has been arrested after a bus bound
+OL,8, for Swansea University crashed into a
+OL,9, railway bridge.
+OL,11,FOne person has been seriously injured
+OL,12,Fand another has life-threatening
+OL,13,Finjuries, South Wales Police said.
+OL,15,FEmergency services are at the scene
+OL,16,Ffollowing the crash on Neath Road,
+OL,17,FSwansea, just before 09:40 GMT.
+OL,19,FA 63-year-old man has been arrested and
+OL,20,Fthe bus company, First Cymru, said a
+OL,21,Ffull investigation had been launched.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -393,33 +393,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]Sx,h<$|l4l<h4 x,th|0|h<t 
-OL,2,Wj $kj $kj 'kT]Ss?ju0z5j5ju0#j5+ju> 
-OL,3,W"###"###"###T//,.-,.,,.-.-,.,/,-./,-,./
-OL,4,CContaminated dust release probed at
-OL,5,Cnuclear site
-OL,6, The accidental release of radioactively
-OL,7, contaminated dust at Dounreay
-OL,8, "contravened multiple" regulatory
-OL,9, conditions, investigators have said.
-OL,11,FIt has emerged that dust was disturbed
-OL,12,Fduring testing of a ventilation system
-OL,13,Fat the nuclear complex in February.
-OL,15,FInvestigators said there was no breach
-OL,16,Fof discharge limits and any
-OL,17,Fenvironmental impact was "very low".
-OL,19,FHowever, they said conditions of
-OL,20,FDounreay's radioactive substances
-OL,21,Fauthorisation were contravened.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CHendrix in the clear over parakeet
+OL,5,Cfever
+OL,6, The rumour parakeets arrived in the UK
+OL,7, when rock star Jimi Hendrix released a
+OL,8, pair in London's Carnaby Street in the
+OL,9, swinging 60s has finally been scotched.
+OL,11,FThey also didn't escape across the
+OL,12,Fcountry during the wrap party for the
+OL,13,Fmovie The African Queen, in 1951.  
+OL,15,FIn fact, reported sightings from the
+OL,16,F1860s have been uncovered, Goldsmiths
+OL,17,Fand Queen Mary universities say. 
+OL,19,FIntentional releases may have also been
+OL,20,Fencouraged in 1929-1931 and 1952 when
+OL,21,Ffatal "parrot fever" hit the headlines.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -445,33 +445,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
-OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
-OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
-OL,4,CSeveral injured as uni bus hits railway
-OL,5,Cbridge
-OL,6, Several people have been injured after
-OL,7, a double-decker university bus crashed
-OL,8, into a railway bridge.
-OL,10,FEmergency services are at the scene
-OL,11,Ffollowing the crash on Neath Road,
-OL,12,FSwansea, just before 09:40 GMT on
-OL,13,FThursday.
-OL,15,FSwansea council said the "ongoing
-OL,16,Fincident" in Hafod had resulted to
-OL,17,Fdisruption to train services, which is
-OL,18,Fexpected to continue until 15:00.
-OL,20,FThe bus company, First Cymru, said a
-OL,21,Ffull investigation had been launched.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CMan jailed for murdering teen in alley
+OL,5, A man who knifed a teenager in the
+OL,6, heart during a row outside a pub has
+OL,7, been given a life sentence and must
+OL,8, serve a minimum of 20 years in jail.
+OL,10,FConnor Brown, 18, was attacked in an
+OL,11,Falleyway close to The Borough pub in
+OL,12,FSunderland city centre in February.
+OL,14,FTwenty-year-old Leighton Barrass, who
+OL,15,Fhad denied murder, was convicted by a
+OL,16,Fjury on Wednesday.
+OL,18,FAlly Gordon, also 20, was jailed for
+OL,19,Fthree years and six months after being
+OL,20,Ffound guilty of manslaughter.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -497,33 +496,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CBanksy supports gig in aid of rough
-OL,5,Csleepers
-OL,6, Banksy has designed merchandise for a
-OL,7, sold-out gig featuring Idles and Geoff
-OL,8, Barrow's Beak aiming to fund 400 "sleep
-OL,9, pods" for rough sleepers. 
-OL,11,FThe elusive Bristol artist has created
-OL,12,FT-shirts with a festive design which
-OL,13,Fwill go on sale at the concert at the
-OL,14,Fcity's Marble Factory later.
-OL,16,FSleep pods are thermal shelters
-OL,17,Foriginally created in Calais to protect
-OL,18,Frefugees by keeping them dry and warm.
-OL,20,FThe pods will be given out by homeless
-OL,21,Fcharities in Bristol, Bath and Weston. 
+OL,4,CBill errors 'top complaint for energy
+OL,5,Ccustomers'
+OL,6, Inaccurate or late bills remain energy
+OL,7, customers' biggest source of
+OL,8, complaints, says Citizens Advice.
+OL,10,FThe accuracy of bills accounts for 60%
+OL,11,Fof problems, ahead of the way
+OL,12,Fcomplaints are handled (17%), and phone
+OL,13,Fline waiting times (12%).
+OL,15,FMore customers prefer the phone when
+OL,16,Fcontacting their supplier about a
+OL,17,Fproblem, the charity's research found.
+OL,19,FIt also revealed its latest customer
+OL,20,Fservice ratings, with Breeze Energy
+OL,21,Ftop, and Nabuh Energy the worst. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -549,7 +548,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -575,7 +574,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -601,7 +600,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -627,33 +626,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CX Factor to return in 2020 - but beyond
-OL,5,Cthat...?
-OL,6, ITV has signed a deal with Simon Cowell
-OL,7, to broadcast Britain's Got Talent until
-OL,8, at least 2024, but has not committed to
-OL,9, keeping The X Factor past 2020.
-OL,11,FWhile BGT's future is secure for the
-OL,12,Fnext five years, ITV has not decided on
-OL,13,FThe X Factor's future beyond next year.
-OL,15,FThe pop music talent show regularly
-OL,16,Fattracted 13 million viewers a decade
-OL,17,Fago, but ratings have since slipped.
-OL,19,FThree million people watched ex-Towie
-OL,20,Fstar Megan McKenna win a celebrity
-OL,21,Fversion at the end of November.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40526
-SC,0026
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -676,10 +649,61 @@ OL,20,FShe also spoke about being a radar
 OL,21,Foperator on BBC Radio 5 Live in June. 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40526
+SC,0026
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CX Factor to return in 2020 - but beyond
+OL,5,Cthat...?
+OL,6, ITV has signed a deal with Simon Cowell
+OL,7, to broadcast Britain's Got Talent until
+OL,8, at least 2024, but has not committed to
+OL,9, keeping The X Factor past 2020.
+OL,11,FWhile BGT's future is secure for the
+OL,12,Fnext five years, ITV has not decided on
+OL,13,FThe X Factor's future beyond next year.
+OL,15,FThe pop music talent show regularly
+OL,16,Fattracted 13 million viewers a decade
+OL,17,Fago, but ratings have since slipped.
+OL,19,FThree million people watched ex-Towie
+OL,20,Fstar Megan McKenna win a celebrity
+OL,21,Fversion at the end of November.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CJohn Humphrys to join Classic FM
+OL,5, John Humphrys will go from grilling
+OL,6, politicians to toasting composers after
+OL,7, landing a weekly Classic FM show.
+OL,9,FThe presenter will "share his own
+OL,10,Fstories and reflections on his
+OL,11,Ffavourite composers and their music" in
+OL,12,Fa Sunday afternoon slot from 5 January.
+OL,14,FHumphrys was known for interrogating
+OL,15,Fpolitical figures on BBC Radio 4's
+OL,16,FToday programme until his departure in
+OL,17,FSeptember after 32 years on the show.
+OL,19,F"It's proof positive that there really
+OL,20,Fis a life after politics," he said.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40528
+SC,0028
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -702,36 +726,10 @@ OL,20,FCounty Durham, attracted criticism for
 OL,21,Fdismissing global warming. 
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40528
-SC,0028
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CThanos creator complains over Trump
-OL,5,Ccampaign tweet
-OL,6, Imitation, they say, is the most
-OL,7, sincere form of flattery, but recycling
-OL,8, pop culture for politics can backfire.
-OL,10,FOn Tuesday, the creator of Thanos
-OL,11,Fcalled US President Donald Trump a
-OL,12,F"pompous fool" after his team used the
-OL,13,FMarvel villain in a campaign video.
-OL,15,FA doctored Avengers film clip showed Mr
-OL,16,FTrump's head on Thanos's body.
-OL,18,FIt then showed him declare his
-OL,19,Fre-election in 2020 "inevitable",
-OL,20,Fclicking his fingers to wipe out his
-OL,21,Fpolitical opponents in the process.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C12:38:19
+OL,0,XXXXXXXXBNMPSERVER2      E12/12C13:43:40
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
