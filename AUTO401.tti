@@ -5,7 +5,7 @@ CT,10,T
 PN,40101
 SC,0001
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C15:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C16:34:09
 OL,1,T]G              Today                  
 OL,2,           ^ZV 4`~|}            G 1/2 
 OL,3,           ZV`?0~G07V%  B               
@@ -13,10 +13,10 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G06V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZR*y?sp  BRain          
-OL,9,           ^ZRj)"G 06R}  B             
-OL,10,       ^ZRp|t RxVg0 B             
-OL,11,       ZRnG07RtR+"VG06V B             
+OL,8,BRain      ^ZV*y?sp  B              
+OL,9,           ^ZVj)"G 06V} B              
+OL,10,       ^ZRp|t VxVg0 B             
+OL,11,       ZRnG07RtV+"VG06V B             
 OL,12,       ZR+V`4V+|0             
 OL,13,        ZR+%*o!V" V *u  B          
 OL,14,B            ^ZV`  V*G 07V} B          
@@ -34,7 +34,7 @@ FL,402,300,430,100,8FF,199
 PN,40102
 SC,0002
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C15:34:34
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C16:34:09
 OL,1,T]G             Tomorrow                
 OL,2,           ^ZV 4`~|}            G 2/2 
 OL,3,           ZV`?0~G04V%  B               
