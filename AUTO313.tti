@@ -1,29 +1,31 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 313 Champions League
+DE,Sport Page 313 European Football
 CT,10,T
 PN,31300
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E12/12C18:06:09
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:05:00
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BQuiz: Can you answer these 10 questions
-OL,5,Bfrom Champions League group stage?
-OL,6, The last 16 teams in this season's
-OL,7, Champions League have now been
-OL,8, confirmed, but how much do you remember
-OL,9, from the group stages?
-OL,11,FAll four English teams are still in the
-OL,12,Fcompetition but it wasn't all plain
-OL,13,Fsailing, with several defeats along the
-OL,14,Fway.
-OL,16,FSo we've created a quiz to test your
-OL,17,Fknowledge of this season's action so
-OL,18,Ffar.
-OL,20,FGood luck!
-OL,22,D]CCEEFAX SPORT SECTION PAGE 300
-OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
+OL,4,BEuropa League: Arsenal, Celtic, Man
+OL,5,BUtd, Rangers and Wolves ensure clean
+OL,6,Bsweep for British clubs
+OL,7, Arsenal, Celtic, Manchester United,
+OL,8, Rangers and Wolves completed a clean
+OL,9, sweep for British clubs as they
+OL,10, advanced into the last 32 of the Europa
+OL,11, League.
+OL,13,FThey follow Liverpool, Manchester City,
+OL,14,FChelsea and Tottenham all qualifying
+OL,15,Ffor the last 16 of the Champions
+OL,16,FLeague, meaning all nine British clubs
+OL,17,Fprogress.
+OL,19,FArsenal, Celtic and United will all
+OL,20,Fenter Monday's draw as seeded teams
+OL,21,Fafter winning their groups.
+OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
+OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,314,302,301,300,8FF,199
