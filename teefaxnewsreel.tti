@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -25,14 +25,14 @@ OL,16,GTrump 'signs off' on deal to pause C109
 OL,17,GChina trade war                        
 OL,18,GSturgeon says SNP landslide        C110
 OL,19,G'mandate for indyref2'                 
-OL,20,GNew Jersey attack 'may be          C111
-OL,21,Ganti-Semitic terror'                   
+OL,20,GEU leaders back 2050 carbon target C111
+OL,21,Gwithout Poland                         
 OL,22,W]DGet BBC News on your mobile phone 153
 OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -50,17 +50,17 @@ OL,13,A `````````````````````````````````````
 OL,20,A `````````````````````````````````````
 OL,21,F   Exchange RatesG240F   IndexG199
 OL,22,M] A FULL CITY SERVICE ON BBC2 200
-OL,12,  FTSE100Fat 07:25GWinnersF75GLosersA26
-OL,14,C FTSE100    G7337.51 F+64.04 Fat 07:25
-OL,15,C techMARK100G5761.86 F+80.55 Fat 07:25
+OL,12,  FTSE100Fat 08:25GWinnersF86GLosersA15
+OL,14,C FTSE100    G7400.96 F+127.49Fat 08:25
+OL,15,C techMARK100G5848.00 F+166.69Fat 08:25
 OL,16,C Dow Jones  G28132.05F+220.75Fat CLOSE
 OL,17,C Nasdaq     G8466.89 F+64.28 Fat CLOSE
-OL,18,C Nikkei     G24023.10F+598.29Fat 07:28
-OL,19,C DJEurStoxx G3746.33 F+39.98 Fat 07:30
+OL,18,C Nikkei     G24023.10F+59,828Fat 07:45
+OL,19,C DJEurStoxx G3753.02 F+46.67 Fat 08:25
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,7 +84,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G              Today                  
@@ -113,7 +113,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -129,20 +129,20 @@ OL,10,       ^ZVp|t RxVg0 B
 OL,11,       ZVnG04VtR+"VG04V B             
 OL,12,       ZV+V`4V+|0             
 OL,13,        ZV+%*o!V" V *u  B          
-OL,14,B            ^ZR`  V*G 05V} B          
-OL,15,B            ^ZRk|V            
-OL,16,B            ^ZR'oG 05R}zt B       
-OL,17,B              ZRj^VG 05R B       
-OL,18,B            ZRx|^G 07R'         
-OL,19,             ^ZR! +/'iRqp0        
-OL,20,B            ^ZR  tG 07R/!        
-OL,21,B            ZR zG10R^/s/R/? B         
-OL,22,            ZR8?' "'    "    B         
+OL,14,B            ^ZV`  V*G 05V} B          
+OL,15,B            ^ZVk|V            
+OL,16,B            ^ZV'oG 05V}zt B       
+OL,17,B              ZVj^VG 05V B       
+OL,18,B            ZVx|^G 07V'         
+OL,19,             ^ZV! +/'iRqp0        
+OL,20,B            ^ZV  tG 07R/!        
+OL,21,B            ZV zG10V^/s/R/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -188,7 +188,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -196,13 +196,13 @@ OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
 OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
 OL,4,CJohnson: I will repay the trust of
 OL,5,Cvoters
-OL,6, Boris Johnson has said he will work
+OL,6, Boris Johnson has promised to work
 OL,7, "night and day" to repay the trust of
 OL,8, voters after he led the Conservatives
-OL,9, to an "historic" election victory.
-OL,11,FWith just two seats left to declare,
-OL,12,Fthe Tories have a majority of 76.
-OL,14,FSpeaking in London, the PM said it was
+OL,9, to an "historic" general election win.
+OL,11,FWith just one seat left to declare, the
+OL,12,FTories have a Commons majority of 76.
+OL,14,FSpeaking in London, the PM said he had
 OL,15,Fa mandate to take the UK out of the EU
 OL,16,Fnext month "no ifs, no buts".
 OL,18,FJeremy Corbyn has said he will not
@@ -214,7 +214,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -239,7 +239,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -253,19 +253,19 @@ OL,8, following a "very disappointing night"
 OL,9, for his party. 
 OL,11,FHe said he would stay on as leader
 OL,12,Fduring a "process of reflection" on the
-OL,13,Fresult, which a BBC forecast says will
-OL,14,Fbe its worst since 1935. 
-OL,16,FHe added that the issue of Brexit had
-OL,17,F"polarised" politics and "overridden so
-OL,18,Fmuch of normal political debate".
-OL,20,FBut others within Labour blamed his
-OL,21,Fleadership. 
+OL,13,Fresult, which was its worst since 1935.
+OL,15,FHe added that the issue of Brexit had
+OL,16,F"polarised" politics and "overridden so
+OL,17,Fmuch of normal political debate".
+OL,19,FBut others within Labour, including
+OL,20,Fformer MPs who lost their seats, blamed
+OL,21,FMr Corbyn's leadership. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +291,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -316,7 +316,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -342,7 +342,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -354,12 +354,12 @@ OL,6, The SNP has made big gains across
 OL,7, Scotland, with Nicola Sturgeon saying
 OL,8, the country had sent a "clear message"
 OL,9, on a second independence referendum. 
-OL,11,FWith all of the Scottish results in,
-OL,12,Fthe SNP has won 47 of the country's 59
-OL,13,Fseats - 12 more than the 35 it won in
-OL,14,F2017. 
-OL,16,FThe party also defeated Liberal
-OL,17,FDemocrat leader Jo Swinson in East
+OL,11,FThe party won 48 seats after securing
+OL,12,F45% of the vote -  8.1% more than in
+OL,13,Fthe last general election in 2017, when
+OL,14,Fit won 35 seats.
+OL,16,FThe SNP also defeated Liberal Democrat
+OL,17,Fleader Jo Swinson in East
 OL,18,FDunbartonshire.
 OL,20,FMs Sturgeon said the result had
 OL,21,Fexceeded her expectations.
@@ -368,32 +368,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNew Jersey attack 'may be anti-Semitic
-OL,5,Cterror'
-OL,6, A gun attack on a Jewish supermarket in
-OL,7, New Jersey is being investigated as
-OL,8, domestic terrorism driven by
-OL,9, anti-Semitism and hatred of police,
-OL,10, officials say.
-OL,12,FThe FBI is now overseeing the
-OL,13,Finvestigation into the attack in Jersey
-OL,14,FCity, where four people were killed.
-OL,16,FPolice shot two suspected attackers
-OL,17,Fafter a four-hour standoff.
-OL,19,FThe suspects were identified as David
-OL,20,FAnderson, 47, and Francine Graham, 50.
+OL,4,CEU leaders back 2050 carbon target
+OL,5,Cwithout Poland
+OL,6, European Union leaders meeting in
+OL,7, Brussels have agreed to make the
+OL,8, currently 28-member bloc carbon neutral
+OL,9, by 2050.
+OL,11,FHowever Poland, which is heavily
+OL,12,Freliant on coal, remains opposed and
+OL,13,Fhas been exempted for the time being.
+OL,15,FEuropean Council President Charles
+OL,16,FMichel admitted that it was more
+OL,17,Fdifficult for some countries and
+OL,18,Fregions to adapt.
+OL,20,FHe said the EU would continue to work
+OL,21,Fto convince Poland to support the deal.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -419,7 +420,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -445,7 +446,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -471,7 +472,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -497,7 +498,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -508,8 +509,8 @@ OL,5,Cresult
 OL,6, The pound and shares have surged after
 OL,7, the Conservatives won a clear majority
 OL,8, in the UK general election.
-OL,10,FSterling gained 2.1% to $1.34 - its
-OL,11,Fhighest level since May last year - on
+OL,10,FSterling gained 1.5% to $1.33 - its
+OL,11,Fhighest level since June last year - on
 OL,12,Fhopes that the big majority would
 OL,13,Fremove uncertainty over Brexit.
 OL,15,FThe pound also jumped to a
@@ -520,7 +521,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -546,7 +547,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -572,7 +573,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -598,7 +599,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -625,7 +626,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -651,7 +652,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -677,7 +678,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -703,7 +704,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -728,7 +729,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C08:34:06
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C09:33:47
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
