@@ -5,16 +5,16 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
 OL,2,Wj $kj $kj 'kT]Sj7jwj7ju?juj5j51s  
 OL,3,W"###"###"###T//-.,-,-.,-,.-,-.,-.,.,,//
-OL,4,MConservatives on course to win     C104
-OL,6,Gmajority - exit poll                   
-OL,8,GNZ troops airlift bodies off       C105
-OL,9,Gvolcanic island                        
+OL,4,MTories take Labour seats as they   C104
+OL,6,Ghead for majority                      
+OL,8,GDivers deployed around volcano as  C105
+OL,9,Gsix bodies found                       
 OL,10,GMcDonnell blames Brexit for        C106
 OL,11,Gforecast Labour defeat                 
 OL,12,GUS House panel set to back Trump   C107
@@ -32,7 +32,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -55,12 +55,12 @@ OL,14,C FTSE100    G7273.47 F+57.22 Fat CLOSE
 OL,15,C techMARK100G5681.31 F+25.40 Fat CLOSE
 OL,16,C Dow Jones  G28132.05F+220.75Fat CLOSE
 OL,17,C Nasdaq     G8466.89 F+64.28 Fat CLOSE
-OL,18,C Nikkei     G23961.13F+536.32Fat 00:30
+OL,18,C Nikkei     G23994.59F+569.78Fat 01:55
 OL,19,C DJEurStoxx G3706.35 F+18.90 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -84,18 +84,18 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G          Friday Evening             
 OL,2,           ^ZV 4`~|}            G 1/2 
-OL,3,           ZV`?0~G02V%  B               
+OL,3,           ZV`?0~G01V%  B               
 OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G02V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 02V} B              
+OL,9,           ^ZVj)"G 03V} B              
 OL,10,       ^ZVp|t VxVg0 B             
 OL,11,       ZVnG02VtV+"VG03V B             
 OL,12,       ZV+V`4V+|0             
@@ -113,7 +113,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Saturday                
@@ -123,18 +123,18 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G04V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 04V} B              
-OL,10,       ^ZRp|t VxVg0 B             
-OL,11,       ZRnG04RtV+"VG04V B             
+OL,8,B          ^ZR*y?sp  B              
+OL,9,           ^ZRj)"G 04R} B              
+OL,10,       ^ZRp|t RxVg0 B             
+OL,11,       ZRnG04RtR+"VG04V B             
 OL,12,       ZR+V`4V+|0             
-OL,13,        ZR+%*o!V" R *u  BRain      
-OL,14,B            ^ZV`  R*G 05R}  B         
-OL,15,B            ^ZVk|V            
-OL,16,B            ^ZV'oG 05V}zt B       
-OL,17,B              ZVj^VG 05V B       
-OL,18,B            ZVx|^G 07V'         
-OL,19,             ^ZV! +/'iUqp0        
+OL,13,        ZR+%*o!V" V *u  B          
+OL,14,B            ^ZR`  V*G 05V} B          
+OL,15,B            ^ZRk|V            
+OL,16,B            ^ZR'oG 05R}zt B       
+OL,17,BRain          ZRj^VG 05R B       
+OL,18,B            ZRx|^G 07R'         
+OL,19,             ^ZR! +/'iUqp0        
 OL,20,B            ^ZV  tG 07U/!        
 OL,21,B            ZV zG09V^/s/U/? ESunny    
 OL,22,            ZV8?' "'    "     E        
@@ -142,7 +142,7 @@ OL,23,D]G        From the Met Office
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -163,7 +163,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -187,59 +187,58 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
 OL,2,Wj $kj $kj 'kT]Sjw10sju0j5`0z5+C19
 OL,3,W"###"###"###T//-,.,.,,-,.-.-,.,,.,/,///
-OL,4,CConservatives on course to win majority
-OL,5,C- exit poll
-OL,6, The Conservatives are set to win an
-OL,7, overall majority of 86 in the general
-OL,8, election, according to an exit poll for
-OL,9, the BBC, ITV and Sky News.
-OL,11,FThe survey taken at UK polling stations
-OL,12,Fsuggests the Tories will get 368 MPs -
-OL,13,F50 more than at the 2017 election -
-OL,14,Fwhen all the results have been counted.
-OL,16,FLabour would get 191, the Lib Dems 13,
-OL,17,Fthe Brexit Party none and the SNP 55.
-OL,19,FIn one of the first seats to declare,
-OL,20,Fthe Conservatives took Blyth Valley in
-OL,21,Fnorth-east England from Labour.
+OL,4,CTories take Labour seats as they head
+OL,5,Cfor majority
+OL,6, The Conservatives have taken a string
+OL,7, of former Labour strongholds, with the
+OL,8, party forecast to win the election with
+OL,9, a comfortable majority.
+OL,11,FLabour have lost seats in the north of
+OL,12,FEngland, Midlands and Wales in areas
+OL,13,Fthat voted to leave the European Union
+OL,14,Fin the 2016 referendum.
+OL,16,FThe BBC is now forecasting the Tories
+OL,17,Fwill get a majority of 64, less than
+OL,18,Fthe 86 originally predicted.
+OL,20,FLabour are set to win 61 fewer seats
+OL,21,Fthan in 2017, it is suggested.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CNZ troops airlift bodies off volcanic
-OL,5,Cisland
-OL,6, Six bodies have been airlifted off the
-OL,7, White Island volcano in New Zealand out
-OL,8, of eight believed to have been left
-OL,9, there after Monday's volcanic eruption.
-OL,11,FThe bodies have been flown to the naval
-OL,12,Fvessel HMNZS Wellington. 
-OL,14,FThe "high-speed" operation to recover
-OL,15,Fthe bodies was launched despite the
-OL,16,Frisk of another eruption.
-OL,18,FDozens of tourists were visiting White
-OL,19,FIsland when the eruption occurred -
-OL,20,Fkilling eight other people - 20 remain
-OL,21,Fin intensive care with severe burns.
+OL,4,CDivers deployed around volcano as six
+OL,5,Cbodies found
+OL,6, New Zealand police have deployed divers
+OL,7, to look for two bodies near White
+OL,8, Island volcano - after six bodies were
+OL,9, retrieved in a recovery operation. 
+OL,11,FThe volcano erupted on Monday with 47
+OL,12,Fpeople there. Eight people were missing
+OL,13,Fon the island, presumed dead. 
+OL,15,FAnother eight have already been
+OL,16,Fconfirmed dead and 20 remain in
+OL,17,Fintensive care with severe burns. 
+OL,19,FThe retrieval on Friday was launched
+OL,20,Fdespite the risk of another eruption. 
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -265,7 +264,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -291,7 +290,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -315,7 +314,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -323,25 +322,25 @@ OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
 OL,4,CTrump 'signs off' on deal to pause
 OL,5,CChina trade war
-OL,6, The US and China are close to signing a
-OL,7, trade deal that averts another round of
-OL,8, tariffs due to start on Sunday.
-OL,10,FThe deal could be announced as soon as
-OL,11,FFriday, after US President Donald Trump
-OL,12,Freportedly signed off on the terms. 
-OL,14,FThe US has agreed to remove some
-OL,15,Ftariffs as part of the agreement. In
-OL,16,Fexchange, China would boost purchases
-OL,17,Fof US farm goods.
-OL,19,FMany of the more difficult issues are
-OL,20,Fstill to be addressed, but the progress
-OL,21,Fsent US share markets to record highs.
+OL,6, Asian stock markets rose on Friday as
+OL,7, the US and China moved close to signing
+OL,8, a trade deal to avert a new round of
+OL,9, tariffs.
+OL,11,FThe deal could be announced later in
+OL,12,Fthe day, after US President Donald
+OL,13,FTrump reportedly signed off on the
+OL,14,Fterms. 
+OL,16,FWashington is said to have agreed to
+OL,17,Fremove some tariffs, while Beijing
+OL,18,Fwould boost purchases of US farm goods.
+OL,20,FHowever, many of the more difficult
+OL,21,Fissues are still to be addressed.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -367,7 +366,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -392,7 +391,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -416,7 +415,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -442,7 +441,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -468,33 +467,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
 OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
 OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
-OL,4,CMan who impersonated mum in driving
-OL,5,Ctest arrested
-OL,6, A 43-year-old man has been arrested in
-OL,7, northern Brazil for dressing up as his
-OL,8, mother to take her driving test.
-OL,10,FWhen Heitor Schiave's 60-year-old
-OL,11,Fmother, Maria, failed her test three
-OL,12,Ftimes, the mechanic decided to step in.
-OL,14,FWearing a floral blouse and sporting
-OL,15,Fpainted nails, make-up and a wig, he
-OL,16,Fdrove around Nova Mutum Parana and his
-OL,17,Fplan appeared to be paying off.
-OL,19,FBut suspicions were soon raised that
-OL,20,Fthe woman in the driving seat was not
-OL,21,Fthe woman on "her" ID.
+OL,4,CKentucky restores voting rights to
+OL,5,Cex-felons
+OL,6, The newly elected governor of Kentucky
+OL,7, Andy Beshear has restored the right to
+OL,8, vote to up to 140,000 people with
+OL,9, non-violent felony convictions - a move
+OL,10, praised by rights groups.
+OL,12,FThe Democratic governor's executive
+OL,13,Forder applies to those who have already
+OL,14,Fcompleted their sentences.
+OL,16,FThe US state bans convicts from voting
+OL,17,Ffor life, unless a governor intervenes.
+OL,19,FAbout 10% of Kentucky's voting age
+OL,20,Fpopulation - some 312,000 people - are
+OL,21,Fcurrently not allowed to vote.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -520,33 +519,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
-OL,2,Wj $kj $kj 'kT]S  sju0jw1+ju0s 
-OL,3,W"###"###"###T////,,-,.,-,.,/,-,.,,/////
-OL,4,CMan killed by car being remotely
-OL,5,Cstarted
-OL,6, A New York man has died after being
-OL,7, crushed by an empty car accidentally
-OL,8, started by remote control.
-OL,10,FMichael Kosanovich, 21, had been
-OL,11,Fstanding between two parked 2002 Lexus
-OL,12,FIS300s, on 6 December, when one of them
-OL,13,Fhad been started remotely by its owner,
-OL,14,Fpolice said. 
-OL,16,FThe car rolled forward and he was
-OL,17,Fpinned between the two vehicles.
-OL,19,FBystanders tried to push them apart but
-OL,20,Fas they did so, the car rolled forward
-OL,21,Fand crushed him again.
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,CMan who impersonated mum in driving
+OL,5,Ctest arrested
+OL,6, A 43-year-old man has been arrested in
+OL,7, northern Brazil for dressing up as his
+OL,8, mother to take her driving test.
+OL,10,FWhen Heitor Schiave's 60-year-old
+OL,11,Fmother, Maria, failed her test three
+OL,12,Ftimes, the mechanic decided to step in.
+OL,14,FWearing a floral blouse and sporting
+OL,15,Fpainted nails, make-up and a wig, he
+OL,16,Fdrove around Nova Mutum Parana and his
+OL,17,Fplan appeared to be paying off.
+OL,19,FBut suspicions were soon raised that
+OL,20,Fthe woman in the driving seat was not
+OL,21,Fthe woman on "her" ID.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -572,7 +571,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -598,7 +597,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -624,7 +623,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -650,7 +649,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -676,7 +675,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -701,7 +700,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -727,7 +726,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E13/12C01:35:43
+OL,0,XXXXXXXXBNMPSERVER2      E13/12C03:35:57
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
