@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C14:40:14
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C15:33:35
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSunny spells and scattered blustery
-OL,9,Fshowers, heaviest and most frequent in
-OL,10,Fsouthwest Scotland with snow over
-OL,11,Fhills. Showers merging into a longer
-OL,12,Fspell of rain across southern Britain
-OL,13,Fduring the morning. Feeling cold in the
-OL,14,Fstrong west to northwest winds.
+OL,7,GThis Evening and Tonight
+OL,8,FOccasional rain or showers, perhaps
+OL,9,Fheavy, for many areas.  It will be cold
+OL,10,Fenough for snow, mainly on hills, from
+OL,11,Froughly north Wales northwards. Ice a
+OL,12,Fhazard in some northern areas, while
+OL,13,Fstrong winds affect some southern and
+OL,14,Fnorthwestern areas.
 OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FRain continuing across parts of
-OL,18,Fsouthwest Scotland and turning more
-OL,19,Freadily to snow. Rain moving northeast
-OL,20,Facross England and Wales and probably
-OL,21,Fturning to snow over hills in north.
+OL,16,GSunday
+OL,17,FFine for a time in southern, central
+OL,18,Fand eastern areas before showery rain
+OL,19,Fand strong winds extend northeastwards.
+OL,20,FNorthern Britain cold, some sunshine
+OL,21,Fbut areas of rain and hill snow.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C14:40:14
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C15:33:35
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Monday to Wednesday
-OL,8,FFurther rain or showers across parts of
-OL,9,FScotland and southern England, but a
-OL,10,Fspell of drier, colder weather likely
-OL,11,Facross central areas with a return to
-OL,12,Fovernight frost and fog.
+OL,8,FThe rather cold unsettled type is
+OL,9,Fgradually replaced by something drier
+OL,10,Fbut with an increased risk of night
+OL,11,Ffrost and fog. Further rain may reach
+OL,12,Fthe west later on Wednesday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
