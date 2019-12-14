@@ -1,22 +1,27 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 311 Football
+DE,Sport Page 311 Arsenal
 CT,10,T
 PN,31100
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C14:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C17:06:20
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Saul, Haaland, Sousa,
-OL,5,BMinamino, Emery, Alonso, Foyth
-OL,9,FShare this with
-OL,11,FAtletico Madrid are prepared to lower
-OL,12,Ftheir asking price for Spain midfielder
-OL,13,FSaul Niguez, 25, to &pound;85m, putting
-OL,14,FManchester United on alert. (Telegraph)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BKieran Tierney: Arsenal left-back out
+OL,5,Bfor three months after dislocating
+OL,6,Bshoulder
+OL,7, Arsenal defender Kieran Tierney will be
+OL,8, out for three months after dislocating
+OL,9, his shoulder. 
+OL,11,FScot Tierney, 22, was forced off in
+OL,12,FMonday's Premier League win at West Ham
+OL,13,Fand will have surgery next week.
+OL,15,FThe injury was sustained in Tierney's
+OL,16,Fthird Premier League start since his
+OL,17,F&pound;25m move from Celtic in August.
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,312,302,301,300,8FF,199
