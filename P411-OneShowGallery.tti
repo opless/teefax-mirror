@@ -1,12 +1,12 @@
 DE,One Show Teefax gallery
 DS,inserter
-SP,C:\Users\General\Desktop\Teefax\P411-OneShowGallery.tti
+SP,C:\Users\peter\teletext\P411-OneShowGallery.tti
 PN,41101
 SC,0001
 PS,8000
 CT,8,T
 RE,0
-OL,0,                                        
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]                     S]D//R]HHU]D//  \
 OL,2,V] W                    S]   R]  U]    \
 OL,3,V]     T p||||tp0        S]   R]  U]   \
@@ -31,7 +31,7 @@ OL,21,W]             R   ]Q5            W]  \
 OL,22,W]                   Q"R ]             \
 OL,23,V]                     R      ]Ejellica\
 OL,24,ANext  BBack                            
-FL,412,420,410,100,8ff,8ff
+FL,412,410,410,100,8ff,8ff
 PN,41102
 SC,0002
 PS,8000
@@ -61,7 +61,8 @@ OL,20,T"oSj"#j R`4|<||t S ktx5  R`|<|4tSWj7
 OL,21,QtT#m0S *R j5v~||4 S ##   R|~v~5 Wj% 
 OL,22,W||tT#otR(/,,,,,./,,,-,-,,./,,,,.-Wz'Tx
 OL,23,Q||||tT+tW"##Tx~
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41103
 SC,0003
 PS,8000
@@ -91,8 +92,8 @@ OL,20,V'#"!                              T
 OL,21,U                                     T 
 OL,22,U                            Ebym&cl! T 
 OL,23,C                                       
-OL,24,            A                           
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41104
 SC,0004
 PS,8000
@@ -121,7 +122,8 @@ OL,20,W",!555044444555)&0552,!555444444555)&05
 OL,21,W555555555555555555555555555555555555555
 OL,22,W555555555555555555555555555555555555555
 OL,23,W5555555555Gthread o fate W5555555555555
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41105
 SC,0005
 PS,8000
@@ -151,7 +153,8 @@ OL,20,W   Z 5Y   "n~~~? 4T+/
 OL,21,W   Z!o    Y /?o~?ju   T"#+/
 OL,22,W  Z 5j0   Y   ###x5z        T"#////
 OL,23,W  Zj%z0  Y    x?h0D@illarterate 
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41106
 SC,0006
 PS,8000
@@ -181,7 +184,8 @@ OL,20,PV"~}T1P T"P   V###/oo||||tP
 OL,21,P Vg?g???#4T!p`dd``0000T``V"#"+/#/a"
 OL,22,P    Ve`!T).5T")og#*;97;qdloom}<V+##%T0h
 OL,23,P      T$T"P            T!PT"T''&&"6T###
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41107
 SC,0007
 PS,8000
@@ -211,7 +215,8 @@ OL,20,W  !  !  V",0W o'V,S+?
 OL,21,W          V"!W ########## V! S "////#  
 OL,22,W  G.  R"///////////////////////! px|}
 OL,23,W $  Rp|v{ssssssssssssssss{wa~
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41108
 SC,0008
 PS,8000
@@ -241,7 +246,8 @@ OL,20,W           *99%  wa~
 OL,21,W            ""#o' `jw}~5  
 OL,22,WDNikki &    W  `?! ((h9y  
 OL,23,WDBunty       W ~wo'`tffhb+t 
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41109
 SC,0009
 PS,8000
@@ -271,8 +277,8 @@ OL,20,T`~]P h~?zyV+.u{?'Px'c/#
 OL,21,T]P   #*o? V  #-//##!P n?! z'       
 OL,22,T z
 OL,23,T]V                                     
-OL,24,                     Dandyuglifruit     
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack         Dandyuglifruit     
+FL,412,410,410,100,8ff,8ff
 PN,41110
 SC,0010
 PS,8000
@@ -302,7 +308,8 @@ OL,20,T#T  p000:j&$,(.(            "! !!"!!!##
 OL,21,T W            "     ( (    !"!  "  " ! 
 OL,22,T +///.///-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,T                          Dblippypixel 
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41111
 SC,0011
 PS,8000
@@ -333,7 +340,7 @@ OL,21,P         WhaP   Wx5g~W56P    W*0*0P
 OL,22,P         W*85P  W57|W55W`p,+3!5W5P  
 OL,23,P          W5eP W4?*iWj`&!P WeW5:P   
 OL,24,P         WjW"dPW)74hk!jW*5W`$PWjh!P    
-FL,412,420,410,100,8ff,8ff
+FL,412,410,410,100,8ff,8ff
 PN,41112
 SC,0012
 PS,8000
@@ -363,7 +370,8 @@ OL,20,C]Q z5 T,|p||,     V"#+///////////////#
 OL,21,C]T ##////#{'otD Departures indexA470  
 OL,22,S///////////////////////////////////////
 OL,23,D]GTRAVEL HEADLINES 460GGMAIN MENU 100  
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41113
 SC,0013
 PS,8000
@@ -393,7 +401,8 @@ OL,20,Uv'$S!*|p"+?/V`}S+u      U  `~t
 OL,21,U'!     S"o|'atV+'S~0j?=0     U #+?! 
 OL,22,D          S#-|?!  Sovf +v$Dillarterate
 OL,23,E                   WS#!        T       
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41114
 SC,0014
 PS,8000
@@ -423,7 +432,8 @@ OL,20,U      St+?/#           z
 OL,21,S        0   p/           h
 OL,22,U          7S           //////
 OL,23,S/ / / / / / / / / / %   G  carlos mmxix
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41115
 SC,0015
 PS,8000
@@ -451,7 +461,8 @@ OL,19,^TW9yqpprppzpppuppppppzpppuppqpprvS
 OL,20,W |R j j j jW"o?!R5 5 5 5 W|  
 OL,21,ZT|| |4 |4 |4 |4 ||4h|| h| h| h| h| ||  
 OL,23,D beeblepete                      2017  
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41116
 SC,0016
 PS,8000
@@ -481,8 +492,8 @@ OL,20,Q?999Wj}R"fffd"+fv^ZffffffY_f>'z?W`
 OL,21,Qvv~uWkm0R)999800##-------/#p~'Wp'
 OL,22,Q;uW){tR"&f^ZffdddY_ddd|n{'WpfQ*
 OL,23,Q;}ffuW"gotR )9^Z99Y_9y{{}/#W8z9Q g
-OL,24,              Horsenburger & Rawles     
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack CHorsenburger & Rawles     
+FL,412,410,410,100,8ff,8ff
 PN,41117
 SC,0017
 PS,8000
@@ -512,7 +523,8 @@ OL,20,Wj  x5`>yvd            tQ+o5
 OL,21,Wj ~'xvo}i        `0 o}0Q5
 OL,22,Wj ?a~}y'       8y;t +5Q5
 OL,23,Wj 'x?!       bn?y}0j5Q//' 
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41118
 SC,0018
 PS,8000
@@ -542,7 +554,8 @@ OL,20,W0+/': V #``,`|l`d<tzW"/$  Uj:W    4&$
 OL,21,Wb`##d)0      6,246""""%%   U)&W    4!> 
 OL,22,Wjj K )2,,,,,,($$$9  '  "(dd4$0000l$412 
 OL,23,W DSCRIB.I.ANW  "# %  *!     $(((       
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41119
 SC,0019
 PS,8000
@@ -572,7 +585,8 @@ OL,20,W'  *u m0+ko}||~a~;jw%
 OL,21,W?'     o} +t2o{v?5~v"; 
 OL,22,WHORSENBURGER     *}0"- ++u=vo/a.! 
 OL,23,W?'          ot   "-t;|3i;#    
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
 PN,41120
 SC,0020
 PS,8000
@@ -602,4 +616,5 @@ OL,20,U]      S`}t/y7v>rgxuU          j\
 OL,21,U]      S*k774+/}{}?/jkk7?U          j\
 OL,22,U]       S#"!!!US###!S"""!!U DD       j\
 OL,23,U##########################!DESPENS"### 
-FL,412,420,410,100,8ff,8ff
+OL,24,ANext  BBack                            
+FL,412,410,410,100,8ff,8ff
