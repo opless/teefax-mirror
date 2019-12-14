@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -30,7 +30,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -58,33 +58,37 @@ OL,19,C DJEurStoxx G3731.07 F+24.72 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,MFoxes fall further behind          G303
-OL,6,FDan Gosling's late goal gifts      G304
-OL,7,FMohamed Salah double gives Reds winG305
-OL,8,FJohn Fleck scores twice as the     G306
-OL,9,FChris Wood heads winner for ClaretsG307
-OL,10,FCharlie Austin scores twice in     G308
-OL,12,FLeeds United 3-3 Cardiff City      G309
-OL,13,FEx-Swansea striker Bafetimbi Gomis G310
-OL,14,FArsenal left-back out for three    G311
+OL,4,MLiverpool boss rejects Champions   G303
+OL,6,FLiverpool's lead extended at top   G304
+OL,7,FFoxes fall further behind          G305
+OL,8,FDan Gosling's late goal gifts      G306
+OL,9,FMohamed Salah double gives Reds winG307
+OL,10,FSebastien Haller settles           G308
+OL,12,FJohn Fleck scores twice as the     G309
+OL,13,FChris Wood heads winner for ClaretsG310
+OL,14,FHosts denied top spot as Bluebirds G311
+OL,15,FBarcelona draw 2-2 at Real         G312
+OL,17,FLiverpool to face Monterrey in     G313
+OL,18,FSam Cosgrove goal sends Accies to  G314
+OL,19,FJadon Sancho scores for sixth game G315
 OL,22,D]CRESULTS AND FIXTURES SECTIONG339 
 OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
-OL,2,           ^ZU 4`~|}            G 1/2 
-OL,3,           ZU`?0~G00U%  ESnow           
-OL,4,           UZj**gppp  E              
+OL,2,           ^ZV 4`~|}            G 1/2 
+OL,3,           ZV`?0~G00V%  B               
+OL,4,           VZj**gppp B               
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G01V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
@@ -96,7 +100,7 @@ OL,12,       ZV+V`4V+|0
 OL,13,        ZV+%*o!V" R *u  BRain      
 OL,14,B            ^ZR`  R*G 02R}  B         
 OL,15,B            ^ZRk|R            
-OL,16,B            ^ZR'oG 03R}zt B       
+OL,16,B            ^ZR'oG 02R}zt B       
 OL,17,B              ZRj^RG 03R B       
 OL,18,B            ZRx|^G 04R'         
 OL,19,             ^ZR! +/'iRqp0        
@@ -107,7 +111,7 @@ OL,23,D]G        From the Met Office
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -119,24 +123,24 @@ OL,6,            ZV!'~G03V!FCloudy
 OL,7,           ^ZV ~ow1  F              
 OL,8,B          ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 04V} B              
-OL,10,       ^ZRp|t VxRg0 BSunny        
-OL,11,       ZRnG04RtV+"RG04R  B            
-OL,12,       ZR+R`4R+|0             
-OL,13,        ZR+%*o!R" R *u  B          
+OL,10,       ^ZVp|t VxRg0 BSunny        
+OL,11,       ZVnG04VtV+"RG04R  B            
+OL,12,       ZV+R`4R+|0             
+OL,13,        ZV+%*o!R" R *u  B          
 OL,14,B            ^ZU`  R*G 05R} B          
 OL,15,B            ^ZUk|R            
 OL,16,B            ^ZU'oG 06V}zt B       
-OL,17,ERain          ZUj^RG 06V B       
-OL,18,E            ZUx|^G 08V'         
+OL,17,B              ZUj^RG 06V B       
+OL,18,B            ZUx|^G 08V'         
 OL,19,             ^ZU! +/'iVqp0        
-OL,20,B            ^ZV  tG 09V/!        
-OL,21,B            ZV zG10V^/s/V/? B         
-OL,22,            ZV8?' "'    "    B         
+OL,20,ERain        ^ZU  tG 08V/!        
+OL,21,E            ZU zG10U^/s/V/? B         
+OL,22,            ZU8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -157,7 +161,7 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -179,7 +183,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -205,7 +209,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -230,7 +234,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -256,7 +260,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -282,7 +286,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -308,7 +312,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -334,7 +338,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -359,7 +363,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -385,7 +389,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -411,7 +415,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -437,32 +441,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
-OL,1,Wj#3kj#3kj#3kD]S   h44|`<l0| h<$x,
-OL,2,Wj $kj $kj 'kT]S   *uu?j7k5pjw1s?
-OL,3,W"###"###"###T//////,,.-.-.,,-,.,.//////
-OL,4,CMet Office issues snow and ice warning
-OL,5, A Met Office weather warning for snow
-OL,6, and ice has been issued for large parts
-OL,7, of north and mid Wales.
-OL,9,FIcy patches, with snow mainly on higher
-OL,10,Froutes, may "cause tricky travel" it
-OL,11,Fsaid.
-OL,13,FThe yellow weather warning covers
-OL,14,FConwy, Denbighshire, Flintshire,
-OL,15,FGwynedd, Powys and Wrexham. Snow is
-OL,16,Fmost likely above 200 metres, the Met
-OL,17,FOffice said.
-OL,19,FThe warning is in place between 21:00
-OL,20,FGMT on Saturday and 11:00 on Sunday.
+OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
+OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
+OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
+OL,4,CUK tourist 'shot dead' in robbery in
+OL,5,CArgentina
+OL,6, A British tourist was killed and
+OL,7, another injured when they were shot
+OL,8, during a suspected robbery in Buenos
+OL,9, Aires, according to local media.
+OL,11,FThe two men were reportedly taken to
+OL,12,Fhospital after the attack outside a
+OL,13,Fhotel in the Argentinian capital.
+OL,15,FA 35-year-old shot in the chest died,
+OL,16,Fwhile a 28-year-old suffered a thigh
+OL,17,Fwound, the A24 news channel reports.
+OL,19,FThe Foreign Office said it was
+OL,20,Fsupporting the family of two British
+OL,21,Fmen after an incident in Buenos Aires.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -488,33 +493,32 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CMurder arrest after man dies in
-OL,5,Cstabbing
-OL,6, A man has been arrested on suspicion of
-OL,7, murder after a fatal stabbing.
-OL,9,FA man, believed to be in his 30s, was
-OL,10,Ffound injured at a property in
-OL,11,FMornington Road, Bolton, at about 23:35
-OL,12,FGMT on Friday.
-OL,14,FEmergency services were called and the
-OL,15,Fman was treated by paramedics but he
-OL,16,Fdied at the scene.
-OL,18,FA 31-year-old man from Bolton was
-OL,19,Farrested and remains in custody. Police
-OL,20,Fare appealing for anyone with
-OL,21,Finformation to contact them.
+OL,4,CMan, 75, arrested over partner's death
+OL,5,Cin hospital
+OL,6, A 75-year-old man has been arrested on
+OL,7, suspicion of murder after his partner
+OL,8, who was a patient in a hospital was
+OL,9, found dead.
+OL,11,FThe 69-year-old woman was being treated
+OL,12,Fat Royal Albert Edward Infirmary in
+OL,13,FWigan, Greater Manchester, when she
+OL,14,Fdied at about 21:30 GMT on Friday.
+OL,16,FStaff from hospital contacted police
+OL,17,Fwith concerns about her death. 
+OL,19,FThe woman's partner, from Ormskirk,
+OL,20,FLancashire, remains in custody.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -540,7 +544,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -566,7 +570,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40523
 SC,0023
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -592,7 +596,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40524
 SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -618,7 +622,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40525
 SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -644,7 +648,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40526
 SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -670,7 +674,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -694,7 +698,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -720,7 +724,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C19:36:55
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C20:40:50
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
