@@ -5,13 +5,13 @@ CT,10,T
 PN,32401
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C12:33:14
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C13:33:21
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GDec 14 12:30    P  W  D  L   F   A Pts
-OL,8, G1 Liverpool    17 15  2  0  40  14  47
+OL,6, GDec 14 13:08    P  W  D  L   F   A Pts
+OL,8, G1 Liverpool    17 16  1  0  41  14  49
 OL,9, F2 Leicester    16 12  2  2  39  10  38
 OL,10, G3 Man City     16 10  2  4  44  19  32
 OL,11, F4 Chelsea      16  9  2  5  31  24  29
@@ -35,12 +35,12 @@ CT,10,T
 PN,32402
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C12:33:14
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C13:33:21
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GDec 14 12:30    P  W  D  L   F   A Pts
+OL,6, GDec 14 13:08    P  W  D  L   F   A Pts
 OL,8,F12 Brighton     16  5  4  7  20  24  19
 OL,9,G13 Burnley      16  5  3  8  21  29  18
 OL,10,F14 Everton      16  5  2  9  19  28  17
@@ -50,7 +50,7 @@ OL,13,G17 Aston Villa  16  4  3  9  23  28  15
 OL,14,B---------------------------------------
 OL,15,F18 Southampton  16  4  3  9  18  35  15
 OL,16,G19 Norwich      16  3  2 11  17  34  11
-OL,17,F20 Watford      17  1  7  9   9  30  10
+OL,17,F20 Watford      17  1  6 10   9  31   9
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
