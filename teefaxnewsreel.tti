@@ -5,7 +5,7 @@ CT,30,T
 PN,40501
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh4|h<h<|h<th4h4xl0|$|,  
@@ -22,8 +22,8 @@ OL,14,GSturgeon joins MPs after           C108
 OL,15,G'watershed' election win               
 OL,16,GFirst volcano victim formally namedC109
 OL,17,Gby NZ police                           
-OL,18,G'Trusting young boy' found dead in C110
-OL,19,Gvillage                                
+OL,18,GStrictly Come Dancing 2019 crowns  C110
+OL,19,Gits winners                            
 OL,20,GSudan's ex-leader sent to 'social  C111
 OL,21,Greform facility'                       
 OL,22,W]DGet BBC News on your mobile phone 153
@@ -31,7 +31,7 @@ OL,23,D]CCATCH UP WITH N. IRELAND NEWS    G160
 PN,40502
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kA]W  |,h4xl0xl0xl0|,h<
@@ -59,7 +59,7 @@ OL,19,C DJEurStoxx G3731.07 F+24.72 Fat CLOSE
 PN,40503
 SC,0003
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
@@ -83,7 +83,7 @@ OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 PN,40504
 SC,0004
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G           This Evening              
@@ -93,26 +93,26 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G01V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
+OL,8,EClear     ^ZV*y?sp  B              
 OL,9,           ^ZVj)"G 02V} B              
-OL,10,       ^ZVp|t VxVg0 B             
-OL,11,       ZVnG01VtV+"VG01V B             
-OL,12,       ZV+V`4V+|0             
-OL,13,        ZV+%*o!V" R *u  BRain      
-OL,14,B            ^ZR`  R*G 02R}  B         
+OL,10,       ^ZUp|t VxVg0 B             
+OL,11,       ZUnG01UtV+"VG01V B             
+OL,12,       ZU+V`4V+|0             
+OL,13,        ZU+%*o!V" R *u  BRain      
+OL,14,E            ^ZR`  R*G 02R}  B         
 OL,15,B            ^ZRk|R            
 OL,16,B            ^ZR'oG 02R}zt B       
 OL,17,B              ZRj^RG 03R B       
-OL,18,B            ZRx|^G 04R'         
+OL,18,B            ZRx|^G 05R'         
 OL,19,             ^ZR! +/'iRqp0        
 OL,20,B            ^ZR  tG 05R/!        
-OL,21,B            ZR zG06R^/s/R/? B         
+OL,21,B            ZR zG05R^/s/R/? B         
 OL,22,            ZR8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40505
 SC,0005
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,T]G             Tomorrow                
@@ -122,26 +122,26 @@ OL,4,           VZj**gppp B
 OL,5,           ^ZV({5                
 OL,6,            ZV!'~G03V!FCloudy         
 OL,7,           ^ZV ~ow1  F              
-OL,8,B          ^ZV*y?sp  B              
-OL,9,           ^ZVj)"G 04V} B              
-OL,10,       ^ZVp|t VxRg0 BSunny        
-OL,11,       ZVnG04VtV+"RG04R  B            
+OL,8,B          ^ZR*y?sp  BSunny         
+OL,9,           ^ZRj)"G 04R}  B             
+OL,10,       ^ZVp|t RxRg0 B             
+OL,11,       ZVnG03VtR+"RG04R B             
 OL,12,       ZV+R`4R+|0             
 OL,13,        ZV+%*o!R" R *u  B          
 OL,14,B            ^ZU`  R*G 05R} B          
 OL,15,B            ^ZUk|R            
 OL,16,B            ^ZU'oG 06V}zt B       
-OL,17,B              ZUj^RG 06V B       
-OL,18,B            ZUx|^G 08V'         
+OL,17,ERain          ZUj^RG 06V B       
+OL,18,E            ZUx|^G 08V'         
 OL,19,             ^ZU! +/'iVqp0        
-OL,20,ERain        ^ZU  tG 08V/!        
-OL,21,E            ZU zG10U^/s/V/? B         
-OL,22,            ZU8?' "'    "    B         
+OL,20,B            ^ZV  tG 08V/!        
+OL,21,B            ZV zG09V^/s/V/? B         
+OL,22,            ZV8?' "'    "    B         
 OL,23,D]G        From the Met Office          
 PN,40506
 SC,0006
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kV]T (l<$|,|h<l4| h4|,h4    
@@ -162,18 +162,18 @@ OL,23,F]D  RoadsA431DRailA432DFlightsA440
 PN,40507
 SC,0007
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
 OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
 OL,3,S#######################################
 OL,6,E```````````````````````````````````````
-OL,4,MRod Stewart becomes oldest male to C502
-OL,7,GEmmerdale actress Sheila Mercier diC503
-OL,8,GJohn Lennon's sunglasses sell for #C504
-OL,9,GDanny Aiello, Do The Right Thing acC505
-OL,10,GTaylor Swift blasts 'toxic male priC506
+OL,4,MStrictly Come Dancing 2019 crowns iC502
+OL,7,GRod Stewart becomes oldest male to C503
+OL,8,GEmmerdale actress Sheila Mercier diC504
+OL,9,GJohn Lennon's sunglasses sell for #C505
+OL,10,GDanny Aiello, Do The Right Thing acC506
 OL,12,GYola: From 'house screamer' to GramC507
 OL,13,GYungblud and Celeste make BBC SoundC508
 OL,14,GKaren Gillan: 'I got rejected for tC509
@@ -184,7 +184,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40508
 SC,0008
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -210,7 +210,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40509
 SC,0009
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S  |,h<$|h<$|0|h<$|, 
@@ -235,7 +235,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40510
 SC,0010
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -261,7 +261,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40511
 SC,0011
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -287,7 +287,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40512
 SC,0012
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]Sh<$| |,h<$l<(|$|l4|0|   
@@ -313,7 +313,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40513
 SC,0013
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -339,33 +339,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40514
 SC,0014
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,C'Trusting young boy' found dead in
-OL,5,Cvillage
-OL,6, A 15-year-old boy found dead in a
-OL,7, village was a "caring and trusting
-OL,8, young boy", his family has said.
-OL,10,FThe body of Alex Rodda was discovered
-OL,11,Fin Ashley Mill Lane in Ashley,
-OL,12,FCheshire, at about 08:00 GMT on Friday.
-OL,14,FHis family has paid tribute to the
-OL,15,FHolmes Chapel Comprehensive School
-OL,16,Fpupil as police investigate the
-OL,17,Fcircumstances surrounding his death.
-OL,19,FAn 18-year-old man from Knutsford has
-OL,20,Fbeen arrested on suspicion of murder
-OL,21,Fand remains in custody for questioning.
+OL,4,CStrictly Come Dancing 2019 crowns its
+OL,5,Cwinners
+OL,6, Former Emmerdale actor Kelvin Fletcher,
+OL,7, who was only drafted into Strictly Come
+OL,8, Dancing as a last-minute replacement,
+OL,9, has been voted this year's winner.
+OL,11,FKelvin and professional partner Oti
+OL,12,FMabuse lifted this year's glitterball
+OL,13,Ftrophy on BBC One on Saturday.
+OL,15,FAlthough the pair came second on the
+OL,16,Fjudges' scoring, they topped the public
+OL,17,Fvote to win the show.
+OL,19,FKelvin and Oti triumphed over Karim
+OL,20,FZeroual and Amy Dowden; and Emma Barton
+OL,21,Fand Anton Du Beke.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40515
 SC,0015
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -391,33 +391,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40516
 SC,0016
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
-OL,4,CStrictly Come Dancing 2019 crowns its
-OL,5,Cwinners
-OL,6, Former Emmerdale actor Kelvin Fletcher,
-OL,7, who was only drafted into Strictly Come
-OL,8, Dancing as a last-minute replacement,
-OL,9, has been voted this year's winner.
-OL,11,FKelvin and professional partner Oti
-OL,12,FMabuse lifted this year's glitterball
-OL,13,Ftrophy on BBC One on Saturday.
-OL,15,FHe was only called up after Made In
-OL,16,FChelsea star Jamie Laing injured his
-OL,17,Ffoot while recording the launch show.
-OL,19,FKelvin and Oti went on to triumph over
-OL,20,FEmma Barton and Anton Du Beke; and
-OL,21,FKarim Zeroual and Amy Dowden.
+OL,4,C'Trusting young boy' found dead in
+OL,5,Cvillage
+OL,6, A 15-year-old boy found dead in a
+OL,7, village was a "caring and trusting
+OL,8, young boy", his family has said.
+OL,10,FThe body of Alex Rodda was discovered
+OL,11,Fin Ashley Mill Lane in Ashley,
+OL,12,FCheshire, at about 08:00 GMT on Friday.
+OL,14,FHis family has paid tribute to the
+OL,15,FHolmes Chapel Comprehensive School
+OL,16,Fpupil as police investigate the
+OL,17,Fcircumstances surrounding his death.
+OL,19,FAn 18-year-old man from Knutsford has
+OL,20,Fbeen arrested on suspicion of murder
+OL,21,Fand remains in custody for questioning.
 OL,22,D]CHome news digestG141CWorld digestG142
 OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40517
 SC,0017
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -443,7 +443,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40518
 SC,0018
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -469,7 +469,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40519
 SC,0019
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -495,7 +495,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40520
 SC,0020
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$
@@ -520,7 +520,7 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40521
 SC,0021
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0
@@ -546,7 +546,33 @@ OL,23,C]DHow Ceefax switches to Digital TV 697
 PN,40522
 SC,0022
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
+OL,24,ANext News BLocalNewsCRegionalFMain Menu
+FL,154,160,390,100,8FF,199
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
+OL,3,S#######################################
+OL,4,CStrictly Come Dancing 2019 crowns its
+OL,5,Cwinners
+OL,6, Former Emmerdale actor Kelvin Fletcher,
+OL,7, who was only drafted into Strictly Come
+OL,8, Dancing as a last-minute replacement,
+OL,9, has been voted this year's winner.
+OL,11,FKelvin and professional partner Oti
+OL,12,FMabuse lifted this year's glitterball
+OL,13,Ftrophy on BBC One on Saturday.
+OL,15,FAlthough the pair came second on the
+OL,16,Fjudges' scoring, they topped the public
+OL,17,Fvote to win the show.
+OL,19,FKelvin and Oti triumphed over Karim
+OL,20,FZeroual and Amy Dowden; and Emma Barton
+OL,21,Fand Anton Du Beke.
+OL,22,C]DTV    520  Lottery   555  Music 530
+OL,23,C]DFilms 540  Newsround 570  Games 550
+PN,40523
+SC,0023
+PS,c000
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -569,10 +595,10 @@ OL,20,Fold, has taken the accolade from
 OL,21,FAmerican singer Paul Simon.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40523
-SC,0023
+PN,40524
+SC,0024
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -595,10 +621,10 @@ OL,20,FEmmerdale, has described Mercier as the
 OL,21,Fsoap's "beating heart".
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40524
-SC,0024
+PN,40525
+SC,0025
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -621,10 +647,10 @@ OL,20,Fworry they were just for the look,"  he
 OL,21,Fsaid.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40525
-SC,0025
+PN,40526
+SC,0026
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -647,36 +673,10 @@ OL,20,Fparlour owner Sal in Spike Lee's 1989
 OL,21,FDo the Right Thing.
 OL,22,C]DTV    520  Lottery   555  Music 530
 OL,23,C]DFilms 540  Newsround 570  Games 550
-PN,40526
-SC,0026
-PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
-OL,24,ANext News BLocalNewsCRegionalFMain Menu
-FL,154,160,390,100,8FF,199
-OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
-OL,2,C]U1j5j5jwj7}  k5j5j55jwj5 
-OL,3,S#######################################
-OL,4,CTaylor Swift blasts 'toxic male
-OL,5,Cprivilege' in music
-OL,6, Taylor Swift was named Billboard's
-OL,7, woman of the decade on Thursday night -
-OL,8, but her speech contained none of the
-OL,9, usual award show platitudes.
-OL,11,FInstead, the star criticised "toxic
-OL,12,Fmale privilege" in the music industry,
-OL,13,Fchampioned fellow female artists and
-OL,14,Fescalated her feud with Scooter Braun.
-OL,16,F"Women in music are not allowed to
-OL,17,Fcoast," she observed. "We are held at a
-OL,18,Fhigher, sometimes impossible-feeling,
-OL,19,Fstandard."
-OL,21,F"I've seen a lot," she added.
-OL,22,C]DTV    520  Lottery   555  Music 530
-OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40527
 SC,0027
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -700,7 +700,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40528
 SC,0028
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
@@ -726,7 +726,7 @@ OL,23,C]DFilms 540  Newsround 570  Games 550
 PN,40529
 SC,0029
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C21:38:46
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C22:43:38
 OL,24,ANext News BLocalNewsCRegionalFMain Menu
 FL,154,160,390,100,8FF,199
 OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$
