@@ -1,22 +1,30 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 312 Football
+DE,Sport Page 312 Man City
 CT,10,T
 PN,31200
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C03:33:12
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C11:34:21
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BFootball gossip: Saul, Haaland, Sousa,
-OL,5,BMinamino, Emery, Alonso, Foyth
-OL,9,FShare this with
-OL,11,FAtletico Madrid are prepared to lower
-OL,12,Ftheir asking price for Spain midfielder
-OL,13,FSaul Niguez, 25, to &pound;85m, putting
-OL,14,FManchester United on alert. (Telegraph)
-OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
-OL,23,D]CBBC WEBSITE: bbc.co.uk/football
+OL,4,BPep Guardiola: Man City manager denies
+OL,5,Bexit clause allowing him to leave
+OL,6, Pep Guardiola says it is "not true" he
+OL,7, has a contract clause allowing him to
+OL,8, leave Manchester City next summer.
+OL,10,FThe manager, 48, has won two Premier
+OL,11,FLeague titles since joining City in
+OL,12,F2016, and is contracted to 2021.
+OL,14,FHe completed an unprecedented domestic
+OL,15,Ftreble last season, but City are now 14
+OL,16,Fpoints behind leaders Liverpool.
+OL,18,FResponding to reports of a contract
+OL,19,Fclause, Guardiola said: "No. It is not
+OL,20,Ftrue. I spoke a few weeks ago about my
+OL,21,Fintentions with the club."
+OL,22,D]CCEEFAX SPORT SECTION PAGE 300
+OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,313,302,301,300,8FF,199
