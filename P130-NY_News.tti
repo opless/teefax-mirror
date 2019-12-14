@@ -1,6 +1,6 @@
-DE,New York News
+DE,Was New York News - Now This is Ceefax doc.
 DS,inserter
-SP,J:\peter\teefax\P130-NY_News.tti
+SP,C:\Users\peter\teletext\P130-NY_News.tti
 PN,13000
 SC,0000
 PS,8000
@@ -27,4 +27,5 @@ OL,20,Q             5k%
 OL,21,Q             iz?               
 OL,22,Q             "o////?!               
 OL,23,Q               "/'/+/'                 
-FL,100,100,100,100,8ff,100
+OL,24,AShopping guide (1975)                  
+FL,131,100,100,100,8ff,100

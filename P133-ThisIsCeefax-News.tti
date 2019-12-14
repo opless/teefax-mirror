@@ -1,6 +1,6 @@
 DE,This is Ceefax - News
 DS,inserter
-SP,J:\peter\teefax\P133-ThisIsCeefax-News.tti
+SP,C:\Users\peter\teletext\P133-ThisIsCeefax-News.tti
 PN,13301
 SC,0001
 PS,8000
@@ -26,6 +26,8 @@ OL,18,    director general of the National
 OL,19,    Housebuilding Council, at a         
 OL,20,    conference in Torquay.              
 OL,23,A   MORE HOME NEWS ON PAGE 103          
+OL,24,ANext   BAir  CIndex FGood Ship Teefax  
+FL,134,135,136,137,8ff,8ff
 PN,13302
 SC,0002
 PS,8000
@@ -50,6 +52,8 @@ OL,18,    aCNEW DEALGfor pensioners.
 OL,20,R||GThe Queen has arrived inCJAPANGfor  
 OL,21,    a six day visit.                    
 OL,23,W||AMore details on p103 and 104Q|||    
+OL,24,ANext   BAir  CIndex FGood Ship Teefax  
+FL,134,135,136,137,8ff,8ff
 PN,13303
 SC,0003
 PS,8000
@@ -72,6 +76,7 @@ OL,17,           CAt the Oval,GDerbyshire
 OL,18, 216-9 Surrey 48-1.                     
 OL,19,           CAt Leicester,GLeicestershire
 OL,20, 264 Sussex 20-1.                       
+FL,134,135,136,137,8ff,8ff
 PN,13304
 SC,0004
 PS,8000
@@ -101,3 +106,4 @@ OL,21,             Quz uz uz uz uz RuzG
 OL,22,              F  M  T  W  Th  Nov       
 OL,23,W///////////////////////////////////////
 OL,24,ANext                                   
+FL,134,135,136,137,8ff,8ff

@@ -1,6 +1,6 @@
 DE,This is Ceefax index
 DS,inserter
-SP,J:\peter\teefax\P136ThisIsCeefax-Index.tti
+SP,C:\Users\peter\teletext\P136ThisIsCeefax-Index.tti
 PN,13600
 SC,0000
 PS,8000
@@ -29,3 +29,5 @@ OL,20,R 5C 100 PAGESR   jE CARTOON........ 149
 OL,21,R 5GBBC-1 & BBC-2Rj                     
 OL,22,R upppppppppppppppzC WHAT IS CEEFAX?G160
 OL,23,  UPDATEDF8.30am-6pm                    
+OL,24,ANextBCEEFAX!CAngela FFirst             
+FL,137,138,139,131,8ff,8ff

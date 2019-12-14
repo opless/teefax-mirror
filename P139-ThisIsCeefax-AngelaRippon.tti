@@ -1,6 +1,6 @@
 DE,This Is Ceefax - Angela Rippon
 DS,inserter
-SP,J:\peter\teefax\P139-ThisIsCeefax-AngelaRippon.tti
+SP,C:\Users\peter\teletext\P139-ThisIsCeefax-AngelaRippon.tti
 PN,13900
 SC,0000
 PS,8000
@@ -30,5 +30,5 @@ OL,20,U 747!7!5574j 7!74
 OL,21,U !!#!! #!!!" #!!!                      
 OL,22,U                                       
 OL,23,B A N G E L A    R I P P O N            
-OL,24,A                                       
-FL,130,8ff,8ff,8ff,8ff,8ff
+OL,24,A                                AFirst 
+FL,131,131,131,131,8ff,8ff

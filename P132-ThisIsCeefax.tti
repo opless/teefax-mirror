@@ -1,6 +1,6 @@
 DE,This is Ceefax Farm Prices
 DS,inserter
-SP,J:\peter\teefax\P132-ThisIsCeefax.tti
+SP,C:\Users\peter\teletext\P132-ThisIsCeefax.tti
 PN,13200
 SC,0000
 PS,8000
@@ -22,3 +22,5 @@ OL,19, PIGS   Numbers up 28.5 per cent
 OL,20,Q####G  Average price 4.52 pounds       
 OL,21,     C  (up 4p)                         
 OL,23,   RwBDETAILS FROM "FARMING TODAY"R{    
+OL,24,ANews and Sport BAnniversariesC Air     
+FL,133,134,135,136,8ff,8ff

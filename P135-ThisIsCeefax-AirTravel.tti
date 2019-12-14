@@ -1,6 +1,6 @@
 DE,ThisIsCeefax-AirTravel
 DS,inserter
-SP,J:\peter\teefax\P135-ThisIsCeefax-AirTravel.tti
+SP,C:\Users\peter\teletext\P135-ThisIsCeefax-AirTravel.tti
 PN,13501
 SC,0001
 PS,8000
@@ -27,6 +27,8 @@ OL,19, term park at the passenger terminals.
 OL,21, Long-term parking can be cheaper and   
 OL,22, can be booked by telephone. The number 
 OL,23,              is.E01-759-4321 ext 6368  
+OL,24,ANextBGood Ship TeefaxCCEEFAX!FAngela   
+FL,136,137,138,139,8ff,8ff
 PN,13502
 SC,0002
 PS,8000
@@ -53,3 +55,5 @@ OL,19, stations with the airport.
 OL,21,ASee the next page - which will follow  
 OL,22,Aautomatically - for bus and Underground
 OL,23,Aservices to the airport.               
+OL,24,ANextBGood Ship TeefaxCCEEFAX!FAngela   
+FL,136,137,138,139,8ff,8ff

@@ -1,6 +1,6 @@
 DE,This is Ceefax - title
 DS,inserter
-SP,J:\peter\teefax\P138-ThisIsCeefax-Title.tti
+SP,C:\Users\peter\teletext\P138-ThisIsCeefax-Title.tti
 PN,13800
 SC,0000
 PS,8000
@@ -30,4 +30,5 @@ OL,20,V
 OL,21,V                                       
 OL,22,V                                       
 OL,23,V                                       
-OL,24,A  Link1   BLink2   CLink4  FLink4      
+OL,24,A  Next    BFirst   C                   
+FL,139,131,132,133,8ff,8ff
