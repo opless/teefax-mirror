@@ -5,24 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C02:35:48
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C03:34:12
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FFurther rain or showers affecting the
-OL,9,Fnorth and west of the UK with some snow
-OL,10,Fon hills. Rain for a time across
-OL,11,Fsouthern England accompanied by strong
-OL,12,Fwinds. Drier elsewhere.
+OL,7,GToday
+OL,8,FSunny spells and scattered blustery
+OL,9,Fshowers, heaviest and most frequent in
+OL,10,Fsouthwest Scotland with snow over
+OL,11,Fhills. Showers merging into a longer
+OL,12,Fspell of rain across southern Britain
+OL,13,Fduring the morning. Feeling cold in the
+OL,14,Fstrong west to northwest winds.
 OL,4,                                    1/2 
-OL,14,GSaturday
-OL,15,FRain or showers in the north and west
-OL,16,Fwith snow on hills and coastal gales.
-OL,17,FDriest in the east. More widespread
-OL,18,Frain Saturday night, with snow possible
-OL,19,Fover northern England.
+OL,16,GTonight
+OL,17,FRain continuing across parts of
+OL,18,Fsouthwest Scotland and turning more
+OL,19,Freadily to snow. Rain moving northeast
+OL,20,Facross England and Wales and probably
+OL,21,Fturning to snow over hills in north.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -30,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C02:35:48
+OL,0,XXXXXXXXBNMPSERVER2      E14/12C03:34:12
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Sunday to Tuesday
-OL,8,FUnsettled and windy on Sunday with some
-OL,9,Fhill snow possible in central and
-OL,10,Fnorthern areas. Drier and quieter for
-OL,11,Fmany from Monday, although rain may
-OL,12,Faffect the south on Tuesday.
+OL,7,GOutlook for Monday to Wednesday
+OL,8,FFurther rain or showers across parts of
+OL,9,FScotland and southern England, but a
+OL,10,Fspell of drier, colder weather likely
+OL,11,Facross central areas with a return to
+OL,12,Fovernight frost and fog.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
