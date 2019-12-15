@@ -5,22 +5,22 @@ CT,10,T
 PN,32401
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E15/12C01:05:25
+OL,0,XXXXXXXXBNMPSERVER2.lan  E15/12C14:33:49
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GDec 15 00:50    P  W  D  L   F   A Pts
+OL,6, GDec 15 14:08    P  W  D  L   F   A Pts
 OL,8, G1 Liverpool    17 16  1  0  42  14  49
 OL,9, F2 Leicester    17 12  3  2  40  11  39
 OL,10, G3 Man City     16 10  2  4  44  19  32
 OL,11, F4 Chelsea      17  9  2  6  31  25  29
 OL,12,B---------------------------------------
-OL,13, G5 Sheff Utd    17  6  7  4  21  16  25
+OL,13, G5 Tottenham    17  7  5  5  31  23  26
 OL,14,B---------------------------------------
-OL,15, F6 Man Utd      16  6  6  4  25  19  24
-OL,16, G7 Wolves       16  5  9  2  23  19  24
-OL,17, F8 Tottenham    16  6  5  5  30  23  23
+OL,15, F6 Man Utd      17  6  7  4  25  19  25
+OL,16, G7 Sheff Utd    17  6  7  4  21  16  25
+OL,17, F8 Wolves       17  5  9  3  23  20  24
 OL,18, G9 Arsenal      16  5  7  4  24  24  22
 OL,19,F10 C Palace     16  6  4  6  14  18  22
 OL,20,G11 Newcastle    17  6  4  7  17  24  22
@@ -35,17 +35,17 @@ CT,10,T
 PN,32402
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E15/12C01:05:25
+OL,0,XXXXXXXXBNMPSERVER2.lan  E15/12C14:33:49
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BPREMIER LEAGUE 
-OL,6, GDec 15 00:50    P  W  D  L   F   A Pts
+OL,6, GDec 15 14:08    P  W  D  L   F   A Pts
 OL,8,F12 Burnley      17  6  3  8  22  29  21
 OL,9,G13 Brighton     16  5  4  7  20  24  19
 OL,10,F14 Bournemouth  17  5  4  8  19  24  19
 OL,11,G15 West Ham     17  5  4  8  19  28  19
-OL,12,F16 Everton      16  5  2  9  19  28  17
+OL,12,F16 Everton      17  5  3  9  19  28  18
 OL,13,G17 Aston Villa  17  4  3 10  23  30  15
 OL,14,B---------------------------------------
 OL,15,F18 Southampton  17  4  3 10  18  36  15
