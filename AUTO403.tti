@@ -5,26 +5,19 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2.lan  E15/12C14:35:09
+OL,0,XXXXXXXXBNMPSERVER2.lan  E15/12C15:36:04
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GToday
-OL,8,FSunshine and showers, these most
-OL,9,Ffrequent in western areas where they
-OL,10,Fwill be heavy at times and wintry on
-OL,11,Fhills in the north. Some eastern areas
-OL,12,Fmay stay dry with sunny periods. Windy,
-OL,13,Fespecially across the south and feeling
-OL,14,Fcold.
-OL,4,                                    1/2 
-OL,16,GTonight
-OL,17,FFurther showers for much of the UK,
-OL,18,Fmainly in the west. Showers wintry
-OL,19,Facross hills. Cold with a widespread
-OL,20,Ffrost in the north, breezier and less
-OL,21,Fcold further south.
+OL,7,GThis Evening and Tonight
+OL,8,FFurther rain or showers particularly
+OL,9,Ffor some southern, western and central
+OL,10,Fareas of Britain. Still cold enough for
+OL,11,Fpatchy snow on hills in northern
+OL,12,FEngland and southern Scotland, with ice
+OL,13,Fforming in places. Some eastern
+OL,14,Fdistricts should stay dry.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +25,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2.lan  E15/12C14:35:09
+OL,0,XXXXXXXXBNMPSERVER2.lan  E15/12C15:36:04
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
 OL,7,GOutlook for Tuesday to Thursday
-OL,8,FRain in the southeast Tuesday otherwise
-OL,9,Fmainly dry. Widespread overnight frost
-OL,10,Fand some freezing fog, then turning
-OL,11,Fwetter and milder later Wednesday and
-OL,12,Fthrough Thursday.
+OL,8,FInitial rain in the southeast quickly
+OL,9,Fclears; short-lived more settled spell
+OL,10,Ffollows with frost and fog. By late
+OL,11,FWednesday becoming unsettled as rain
+OL,12,Fand strong winds arrive from the west.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          

@@ -1,31 +1,29 @@
 DS,inserter
 SP,/home/pi/ceefax/
-DE,Sport Page 312 Championship
+DE,Sport Page 312 Premier League
 CT,10,T
 PN,31200
 SC,0000
 PS,8000
-OL,0,XXXXXXXXBNMPSERVER2      E15/12C12:35:06
+OL,0,XXXXXXXXBNMPSERVER2.lan  E15/12C15:35:17
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
-OL,4,BLeeds United 3-3 Cardiff City: Hosts
-OL,5,Bdenied top spot as Bluebirds fight back
-OL,6, Cardiff City fought back from 3-0 down
-OL,7, and equalised when down to 10 men to
-OL,8, prevent Leeds United from returning to
-OL,9, the top of the Championship.
-OL,11,FWest Bromwich Albion had gone top by
-OL,12,Fbeating Birmingham in the early
-OL,13,Fkick-off but Marcelo Bielsa's men
-OL,14,Fresponded with three goals, the first
-OL,15,Ffrom Helder Costa and two by Patrick
-OL,16,FBamford, including a penalty.
-OL,18,FLee Tomlin gave Cardiff hope of a late
-OL,19,Frevival on the hour and Sean Morrison
-OL,20,Fadded their second, only to then be
-OL,21,Fsent off for a late tackle. 
-OL,22,D]CCEEFAX SPORT SECTION PAGE 300
-OL,23,D]CBBC WEBSITE: bbc.co.uk/sport
+OL,4,BSheffield United 2-0 Aston Villa: John
+OL,5,BFleck scores twice as the Blades move
+OL,6,Bup to fifth
+OL,7, Chris Wilder believes Sheffield
+OL,8, United's performances are starting to
+OL,9, change perceptions about his side after
+OL,10, their latest victory lifted them up to
+OL,11, fifth in the Premier League table.
+OL,13,FHaving come from behind to win at
+OL,14,FNorwich last Sunday, John Fleck's
+OL,15,Fsecond-half double against Aston Villa
+OL,16,Fearned the Blades back-to-back
+OL,17,Ftop-flight wins for the first time
+OL,18,Fsince 2006.
+OL,22,D]CCEEFAX FOOTBALL SECTION PAGE 302
+OL,23,D]CBBC WEBSITE: bbc.co.uk/football
 OL,24,ANext page  BFootball CHeadlines FSport
 FL,313,302,301,300,8FF,199
