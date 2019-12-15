@@ -5,26 +5,26 @@ CT,30,T
 PN,40301
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E15/12C02:46:52
+OL,0,XXXXXXXXBNMPSERVER2      E15/12C03:33:59
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GThis Evening and Tonight
-OL,8,FOccasional rain or showers, perhaps
-OL,9,Fheavy, for many areas.  It will be cold
-OL,10,Fenough for snow, mainly on hills, from
-OL,11,Froughly north Wales northwards. Ice a
-OL,12,Fhazard in some northern areas, while
-OL,13,Fstrong winds affect some southern and
-OL,14,Fnorthwestern areas.
+OL,7,GToday
+OL,8,FSunshine and showers, these most
+OL,9,Ffrequent in western areas where they
+OL,10,Fwill be heavy at times and wintry on
+OL,11,Fhills in the north. Some eastern areas
+OL,12,Fmay stay dry with sunny periods. Windy,
+OL,13,Fespecially across the south and feeling
+OL,14,Fcold.
 OL,4,                                    1/2 
-OL,16,GSunday
-OL,17,FFine for a time in southern, central
-OL,18,Fand eastern areas before showery rain
-OL,19,Fand strong winds extend northeastwards.
-OL,20,FNorthern Britain cold, some sunshine
-OL,21,Fbut areas of rain and hill snow.
+OL,16,GTonight
+OL,17,FFurther showers for much of the UK,
+OL,18,Fmainly in the west. Showers wintry
+OL,19,Facross hills. Cold with a widespread
+OL,20,Ffrost in the north, breezier and less
+OL,21,Fcold further south.
 OL,4,                                    1/2 
 OL,23,D]G        From the Met Office          
 OL,24,AUK cities BSport CTrav Head FMain Menu 
@@ -32,17 +32,17 @@ FL,404,300,430,100,8FF,100
 PN,40302
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E15/12C02:46:52
+OL,0,XXXXXXXXBNMPSERVER2      E15/12C03:33:59
 OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
 OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
 OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
 OL,5, UK WEATHER OUTLOOK                     
-OL,7,GOutlook for Monday to Wednesday
-OL,8,FThe rather cold unsettled type is
-OL,9,Fgradually replaced by something drier
-OL,10,Fbut with an increased risk of night
-OL,11,Ffrost and fog. Further rain may reach
-OL,12,Fthe west later on Wednesday.
+OL,7,GOutlook for Tuesday to Thursday
+OL,8,FRain in the southeast Tuesday otherwise
+OL,9,Fmainly dry. Widespread overnight frost
+OL,10,Fand some freezing fog, then turning
+OL,11,Fwetter and milder later Wednesday and
+OL,12,Fthrough Thursday.
 OL,4,                                    2/2 
 OL,4,                                    2/2 
 OL,23,D]G        From the Met Office          
