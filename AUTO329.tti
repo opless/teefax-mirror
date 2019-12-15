@@ -5,22 +5,22 @@ CT,10,T
 PN,32901
 SC,0001
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C16:34:28
+OL,0,XXXXXXXXBNMPSERVER2      E15/12C00:03:34
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BIRISH PREMIERSHIP 
-OL,6, GDec 14 16:30    P  W  D  L   F   A Pts
-OL,8, G1 Linfield     18 14  0  4  40  11  42
+OL,6, GDec 14 17:00    P  W  D  L   F   A Pts
+OL,8, G1 Linfield     18 14  0  4  41  11  42
 OL,9,B---------------------------------------
-OL,10, F2 Crusaders    20 12  5  3  46  19  41
-OL,11, G3 Coleraine    20 11  7  2  45  20  40
+OL,10, F2 Coleraine    20 11  7  2  45  20  40
+OL,11, G3 Crusaders    20 11  6  3  46  20  39
 OL,12,B---------------------------------------
 OL,13, F4 Cliftonville 19 12  2  5  34  13  38
-OL,14, G5 Glentoran    19 10  4  5  40  25  34
+OL,14, G5 Glentoran    19 10  5  4  41  25  35
 OL,15, F6 Larne        19  7  7  5  36  20  28
 OL,16, G7 Ballymena Un 20  6  5  9  28  31  23
-OL,17, F8 Glenavon     19  7  2 10  27  46  23
+OL,17, F8 Glenavon     19  7  2 10  28  47  23
 OL,18, G9 Carrick Rang 19  7  0 12  25  31  21
 OL,19,F10 Dungannon Sw 19  5  2 12  23  52  17
 OL,20,B---------------------------------------
@@ -35,14 +35,14 @@ CT,10,T
 PN,32902
 SC,0002
 PS,c000
-OL,0,XXXXXXXXBNMPSERVER2      E14/12C16:34:28
+OL,0,XXXXXXXXBNMPSERVER2      E15/12C00:03:34
 OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
 OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
 OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
 OL,4, BIRISH PREMIERSHIP 
-OL,6, GDec 14 16:30    P  W  D  L   F   A Pts
-OL,8,G11 Institute FC 20  2  6 12  15  44  12
-OL,9,F12 Warrenpoint  20  3  0 17  14  61   9
+OL,6, GDec 14 17:00    P  W  D  L   F   A Pts
+OL,8,G11 Institute FC 20  2  6 12  16  45  12
+OL,9,F12 Warrenpoint  20  3  0 17  14  62   9
 OL,22,D]CFootballG302CFront pageG100CTV  G600 
 OL,23,D]CRugby   G370CMotorsportG360CGolfG330 
 OL,24,ANext page  BFootball CHeadlines FSport 
