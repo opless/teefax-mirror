@@ -1,9 +1,12 @@
 DE,
-CT,8,T
-PS,8000
-PN,8FF00
+DS,inserter
+SP,C:\Users\General\Desktop\Teefax\p513_scrooge.tti
+PN,51300
 SC,0000
-OL,28,@@@|gpC{_@|wJpJ\Zf|wiHr_w}ww]_}_wM@|
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U|||||||||||,V``d&8afx>c8$ppUl||||||||| 
 OL,2,E]DHumbug! \W`p||||||pV!(?#pqU#o 
 OL,3,U'Wx~?m0V>css0U"o 
