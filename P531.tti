@@ -6,16 +6,16 @@ SC,0001
 OL,1,Übedford weather  Çcy2.uk/weatherá   1/2
 OL,2,îù ìh40|x|t`<l0,,j=l0x|t`<,            
 OL,3,îù ì"--'+,$*'+% / *%*%+,$*%             
-OL,5,Wed, 01 Jan at 10:49 GMT
-OL,6,Temperature: 6.2C
-OL,7,Humidity:    83%
-OL,8,Wind: S, 0 mph
+OL,5,Thu, 02 Jan at 10:49 GMT
+OL,6,Temperature: 10.2C
+OL,7,Humidity:    79%
+OL,8,Wind: E, 1 mph
 OL,9,Rain: 0.0 mm
-OL,10,Pressure: 1030 hPa, rising slowly
-OL,11,Cloud base: 334 m
+OL,10,Pressure: 1019 hPa, falling
+OL,11,Cloud base: 435 m
 OL,12,12 hour weather forecast, computed on
-OL,13,Wed, 01 Jan at 09:00 GMT:
-OL,14,Settled fine.
+OL,13,Thu, 02 Jan at 08:49 GMT:
+OL,14,Fine, becoming less settled.
 OL,15,This forecast is highly experimental!
 OL,23,Ñùá                     More followsà>
 OL,24,ÅGallery ÇSnowman ÉLabyrinth ÜLA Weather
@@ -35,14 +35,14 @@ OL,10,  21ï
 OL,11,  18ï                        
 OL,12,  15ñ                        
 OL,13,  12ñ                        
-OL,14,   9ñ    ppp,,,pppppppp      
-OL,15,   6ñ,,,#              ##pppp
+OL,14,   9ñ                        
+OL,15,   6ñpppp,,###,,,,,,,########
 OL,16,   3î                        
 OL,17,   0î                        
 OL,18,  -3î                        
 OL,19,  -6î                        
 OL,20,     000011111111112222000000
-OL,21,     678901234567890123012345
+OL,21,     679901234567890123012345
 OL,23,Ñùá                     More followsà>
 OL,24,ÅGallery ÇSnowman ÉLabyrinth ÜLA Weather
 FL,532,533,539,165,0,530
