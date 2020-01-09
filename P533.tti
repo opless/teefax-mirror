@@ -1,27 +1,34 @@
 DE,edit-tf
 DS,inserter
-SP,E:\teletext\P533-snowman-xmas.tti
+SP,E:\teletext\P533-snowman-nuke.tti
 CT,8,T
 PN,53300
 SC,0000
 PS,8040
 RE,0
-OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,3,   BMIMERRY CHRISTMAS!                  
-OL,5,     Ffrom the Pessimistic Snowman      
-OL,10,Q                 pp                    
-OL,11,Q            `p<.#!j0W          G       
-OL,12,Q         <,'#Gthe QuWT         G       
-OL,13,Q         mGend  isQj0T ~}    G       
-OL,14,Q         *4G nigh  Q5TppW  G       
-OL,15,Q          mG  Q`p<.#!W~?o}W  G       
-OL,16,Q          jp<.#kL W  W;G  G       
-OL,17,Q               "5L   W|Q  8       
-OL,18,Q                kQ 4 Wb1GQ8!       
-OL,19,Q                "5p:lWoQxmG       
-OL,20,Q                 k ^#W^Q#          
-OL,21,Q                 "5  W~G  G       
-OL,22,Q                  k  Wo{?G  G       
-OL,23,Wxp|px|x~||p|x}|~}||}p||xpx|px
-OL,24,ALabyrinth B  Gallery  CWeather   FIndex
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,S]W                                     
+OL,2,S]W                                     
+OL,3,S]WBMENUCLEAR WAR                       
+OL,4,S                                       
+OL,5,S]W  Dwith the Pessimistic Snowman      
+OL,6,S]W                                     
+OL,7,S]W                                     
+OL,8,S]W                                     
+OL,9,Q]S)))))))))))))))))))))))))))))))))))))
+OL,10,Q]W          pp                         
+OL,11,Q]W     `p<.#!j0W          G    G       
+OL,12,Q]W  <,'#G    WuWT         G    G       
+OL,13,Q]W  mG  i'm  Wj0T ~}    G    G       
+OL,14,Q]W  *4Gbored  W5TppW  G W  G       
+OL,15,Q]W   mG  W`p<.#!W~?o}W  G            
+OL,16,Q]W   jp<.#kL W  W;G  G            
+OL,17,Q]W        "5L   W|Q  0 S pl8;x;|p 
+OL,18,Q]W         kQ 4 Wb1GW8! Sfgg~wlkgfg
+OL,19,Q]W         "5p:lWoWxmG S{?]Wono-Q
+OL,20,Q]W          k ^#W^W#    S#/pl~}-&/#
+OL,21,Q]W          "5  W~G     S  o5   
+OL,22,Q]W           k  Wo{?G    S ppxp0 
+OL,23,Q]W|px|x~||p|x}|}]S          
+OL,24,ALabyrinth   BGallery  CWeather   FIndex
 FL,536,532,531,530,0,100
