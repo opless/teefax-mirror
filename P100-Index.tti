@@ -3,7 +3,7 @@ DS,inserter
 SP,J:\peter\teefax\P100-Index.tti
 PN,10001
 SC,0001
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -31,7 +31,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10002
 SC,0002
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -60,7 +60,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10003
 SC,0003
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -89,7 +89,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10004
 SC,0004
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -118,7 +118,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10005
 SC,0005
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -147,7 +147,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10006
 SC,0006
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -176,7 +176,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10007
 SC,0007
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -205,7 +205,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10008
 SC,0008
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -234,7 +234,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10009
 SC,0009
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -263,7 +263,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10010
 SC,0010
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -285,14 +285,14 @@ OL,16,ACarloQ]W   #k7#*u `?j5   Q^\_CNFOG700
 OL,17,ADan'sQ]W    j5  o0z%j5   Q^\_C...G785
 OL,18,ASteveQ]W    j5  *u? b1   Q^\_CEX G790
 OL,19,ACY2..Qk]W    "!   #! "!  Q^\_7CTS G800
-OL,20,AChris Q+/////////////////////'C2019G801
+OL,20,AChris Q+/////////////////////'C2019G810
 OL,21,ARaquel Meyers G555CDigitiser2000...G470
 OL,23,V]DLots of fun at your finger tips ;-)  
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10011
 SC,0011
-PS,8000
+PS,8010
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
