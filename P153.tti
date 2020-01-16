@@ -3,7 +3,7 @@ PS,C000
 CT,15,T
 PN,15301
 SC,0001
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 01/10        V)l'
 OL,3,V#######################################
@@ -30,7 +30,7 @@ OL,24,
 OL,26,@pD@VME
 PN,15302
 SC,0002
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 02/10        V)l'
 OL,3,V#######################################
@@ -52,7 +52,7 @@ OL,24,
 OL,26,@sD@IxpyD@GxwOxp
 PN,15303
 SC,0003
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 03/10        V)l'
 OL,3,V#######################################
@@ -75,7 +75,7 @@ OL,24,
 OL,26,@mD@HMG
 PN,15304
 SC,0004
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 04/10        V)l'
 OL,3,V#######################################
@@ -100,7 +100,7 @@ OL,24,
 OL,26,@sD@A{qHvsUozYMEtD@H{qN{qRozvD@Mpo
 PN,15305
 SC,0005
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 05/10        V)l'
 OL,3,V#######################################
@@ -123,7 +123,7 @@ OL,24,
 OL,26,@lD@QpomD@Bzp]zp
 PN,15306
 SC,0006
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 06/10        V)l'
 OL,3,V#######################################
@@ -148,7 +148,7 @@ OL,24,
 OL,26,@mD@\o\oD@Co\vD@KmB
 PN,15307
 SC,0007
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 07/10        V)l'
 OL,3,V#######################################
@@ -170,7 +170,7 @@ OL,24,
 OL,26,@nD@[xpaxwpD@No}
 PN,15308
 SC,0008
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 08/10        V)l'
 OL,3,V#######################################
@@ -194,7 +194,7 @@ OL,20,G_teletext  2/4 <LINK>
 OL,24,                                        
 PN,15309
 SC,0009
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 09/10        V)l'
 OL,3,V#######################################
@@ -219,7 +219,7 @@ OL,24,
 OL,26,@{D@Gxz
 PN,15310
 SC,0010
-FL,8ff,8ff,8ff,8ff,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 10/10        V)l'
 OL,3,V#######################################
