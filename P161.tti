@@ -1,122 +1,30 @@
-DS,inserter
-CT,20,T
-PN,16101
-SC,0001
+PN,16100
+SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV  |||4h|        h|`0|                
-OL,2,T]V  }|4o%/oj% jj5*/5?j/%      
-OL,3,T]S  pp5j {j  jzujw55bs5      
-OL,4,T]S  ###!"# ###"#  "####"##!#!"##!      
-OL,5,G            Disneyland, Fri 31 May 2019
-OL,6,C                                       
-OL,7,FThe countdown is over. Star Wars:      
-OL,8,FGalaxy's Edge finally opened to the    
-OL,9,Fpublic inside Disneyland on Friday.    
-OL,10,C                                       
-OL,11,CEager fans with the first reservations 
-OL,12,Cstarted waiting at 5 a.m. Guests       
-OL,13,Creceived wristbands corresponding with 
-OL,14,Ctheir four-hour time slot.             
-OL,15,CSo how did the first group of visitors 
-OL,16,Creact to the 14-acre planet of Batuu   
-OL,17,Cand the massive Millennium Falcon? They
-OL,18,Cwere in awe.                           
-OL,19,C"We felt like we were in a different   
-OL,20,Cworld. I mean we didn't hear any other 
-OL,21,Cmusic from any other land it was truly 
-OL,22,Clike we were on Batuu," said Jude      
-OL,23,CTedmori of Glendale.                   
-OL,24, AOnTheQT   BSport   CMovies   FWeather@
-FL,160,162,163,165,100,100
-PN,16102
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV||||4              (,    |4 h||0     
-OL,2,T]V5j5?jo?jo5?j*/55 jj5/oj
-OL,3,T]S5j5wsjj5jz55jjw55 jz5{j
-OL,4,T]S#! "!###"#"!#"##!#!"#"##!#! "## ###bs
-OL,5,G           Canoga Park, Mon 27 May 2019
-OL,6,C                                       
-OL,7,FThe 29th Annual Canoga Park Memorial   
-OL,8,FDay Parade is a wonderful tradition    
-OL,9,Fthat allows our community to come      
-OL,10,Ftogether to honor our fallen and the   
-OL,11,Ffamilies of those gave that gave their 
-OL,12,Flives to insure our freedom.           
-OL,13,F                                       
-OL,14,COur theme every year is "Saluting the  
-OL,15,CPrice of Freedom". It will include     
-OL,16,Cmarching bands, equestrians, floats and
-OL,17,Cmany military displays.                
-OL,18,C                                       
-OL,19,CThe Location is Sherman Way traveling  
-OL,20,CEast from Topanga Cyn to Mason Ave.    
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24, AOnTheQT   BSport   CMovies   FWeather@
-FL,160,162,163,165,100,100
-PN,16103
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,TqP                   Tppp||
-OL,2,T?a's+-,P              T#######
-OL,3,Ts8?/}.#Q`p|||||||ppP             
-OL,4,Tt*//}<-4Qp|>#-{3rs+7o?|pP          
-OL,5,T?$P T+$Qx.kp</?#+-}?v|0+vr}tP        
-OL,6,P      Q`&!Qz/!P Q`t2v>}gl{~|3m0P      
-OL,7,T4P   Qx'aQ:}t0Q8tp{5k'c}*t?4P   Tp
-OL,8,T|wPQha&`&+~~~2Q`%jv4T`x
-OL,9,T>Q78&!`zy~mm$~?{}onT####
-OL,10,T?/Qz!PQrry{/#091QieP T`
-OL,11,To$Qtxtz'Qk}}z0#ojgtxTx~~
-OL,12,Tr!Qj~gy7P Q+7xrh?{g}gnT`t3
-OL,13,T~Qj*{o~w7"%P   Q"o+d#q$"o=i5Ta#
-OL,14,TQjue)}0P     Q"}{uP Q=45P  
-OL,15,TQ*7t+o}0P     Q*>Qpngf!P  
-OL,16,T5Qoz6!otk'pp|~%P      Q"ow}z;7'T056
-OL,17,T++Q*}yQ"~{gwP         Q+oT!5mh
-OL,18,T|t+iQko}~~ouz?!P        Q(o%Tq2*h
-OL,19,TwltQk9~t1?7%P           Q)'T./?To
-OL,20,T!#/*#!Q+}b?kuaj55P                   
-OL,21,P       Q"mt3/25>hP                    
-OL,22,P         Q#/}|(!'1P                   
-OL,23,P            Q#+Qtk0P                  
-OL,24, AOnTheQT   BSport   CMovies   FWeather@
-FL,160,162,163,165,100,100
-PN,16104
-SC,0004
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV      h||4   h|(,                    
-OL,2,T]V      j| ?/jjj?j/%?         
-OL,3,T]S      jp0upjjjubs5ws         
-OL,4,T]S      "##!###"#"#j##"##!###         
-OL,5,G           Los Angeles, Sun 20 Jan 2019
-OL,6,C                                       
-OL,7,MA         Super Blood Wolf Moon        
-OL,8,MA         Super Blood Wolf Moon        
-OL,9,G                                       
-OL,10,A7:33pmDPartial moon eclipse starts -   
-OL,11,Dmoon is getting red.                   
-OL,12,G                                       
-OL,13,A8:41pmDTotal moon eclipse starts -     
-OL,14,Dcompletely red moon.                   
-OL,15,G                                       
-OL,16,A9:12pmDMaximum Eclipse - Moon is       
-OL,17,Dclosest to the center of the shadow.   
+OL,1,VVV  h|h4   h|       ||t         |4     
+OL,2,T]V  j0?jo5?  5jo5/oj?5     
+OL,3,T]S  jj5ujz5ws  ujs1{ju5     
+OL,4,T]S  "#"!###"##!###  ##!"##!###"##!     
+OL,5,G            CALABASUS, Sun 26 Jan, 2020
+OL,6,B                                       
+OL,7,BKobe Bryant, the NBA MVP who had a     
+OL,8,B20-year career with the Lakers, was    
+OL,9,Bkilled Sunday when the helicopter he   
+OL,10,Bwas traveling in crashed and burst into
+OL,11,Bflames in the hills above Calabasas.   
+OL,12,BHis daughter Gianna, 13, was also on   
+OL,13,Bboard and died along with seven others.
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
 OL,18,                                        
 OL,19,                                        
 OL,20,                                        
 OL,21,                                        
 OL,22,                                        
-OL,23,D]C              NEWS             4/2@  
-OL,24, AOnTheQT   BSport   CMovies   FWeather@
-FL,160,162,163,165,100,100
+OL,23,                                        
+OL,24,                                        
+FL,0,0,0,0,100,100
