@@ -3,7 +3,7 @@ DS,inserter
 SP,J:\peter\teefax\P100-Index.tti
 PN,10001
 SC,0001
-PS,8010
+PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -243,7 +243,7 @@ OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?
 OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
 OL,4,Q ###R###T###R##########################
 OL,5,CEvents                                 
-OL,6,AMCHUNKY FRINGE 2020 IN HARROW!     P810
+OL,6,AMCHUNKY FRINGE 2020 IN HARROW!     P811
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
 OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200

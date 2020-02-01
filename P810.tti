@@ -10,10 +10,10 @@ OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
 OL,2,Q]Sw4u0u5u07d  j!jnji 5 j    jw1op?     
 OL,3,Q//,.,.,.,..-//-/----/./-////-,.-,./////
-OL,4,CANNOUNCING BLOCK PARTY CHELTENHAM G1/? 
+OL,4,CANNOUNCING BLOCK PARTY CHELTENHAM G1/5 
 OL,5, Block party is for fans of blocky art  
 OL,6, of 8 bits or fewer. The only event that
-OL,7, unites follower of teletext and the ZX 
+OL,7, unites followers of teletext and the ZX
 OL,8, Spectrum.                              
 OL,10,FBlock Party is aCfreeFevent, with no   
 OL,11,Fticket required, and is open to the    
@@ -37,7 +37,7 @@ OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
 OL,2,Q]Sw4u0u5u07d  j!jnji 5 j    jw1op?     
 OL,3,Q//,.,.,.,..-//-/----/./-////-,.-,./////
-OL,4,MWhere?                            L 2/7
+OL,4,MWhere?                            L 2/5
 OL,6, St Margaret's Hall, Cheltenham.        
 OL,8,MBy car                                 
 OL,10,FThree miles from J11 M5. There are 49  
@@ -47,6 +47,8 @@ OL,15,FCheltenham Spa station, 1.3 mile walk
 OL,16,Fwith no local bus services.            
 OL,17,FContact us if you need or can offer a  
 OL,18,Flift                                   
+OL,20, For details go to                      
+OL,21, http://arbitraryfiles.com/events/bp20  
 OL,23,A]CBP17 PromoG801 CArtG802 CGamesG803   
 OL,24,AEvents IndexBArt & EntsCNewsFWhat's new
 FL,800,500,104,101,8ff,100
@@ -59,9 +61,19 @@ OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
 OL,2,Q]Sw4u0u5u07d  j!jnji 5 j    jw1op?     
 OL,3,Q//,.,.,.,..-//-/----/./-////-,.-,./////
-OL,4, Travel to the venue TBA                
-OL,10,F                                       
-OL,16,F                                       
+OL,4,MWho?                      L        L3/5
+OL,7, David Walford                          
+OL,8,FZX Spectrum game development           
+OL,10, Peter Kwan                             
+OL,11,FRuns the Teefax teletext system        
+OL,12,Fand creator of the VBIT teletext system
+OL,13,Fand wxTED teletext editor.             
+OL,15, Alistair Cree                          
+OL,16,FInventor of the Insertomatic and a key 
+OL,17,Fmember of the teletext recovery        
+OL,18,Fcommunity. The brains behind ZXNet.    
+OL,20, For details go to                      
+OL,21, http://arbitraryfiles.com/events/bp20  
 OL,23,A]CBP17 PromoG801 CArtG802 CGamesG803   
 OL,24,AEvents IndexBArt & EntsCNewsFWhat's new
 FL,800,500,104,101,8ff,100
@@ -74,9 +86,19 @@ OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
 OL,2,Q]Sw4u0u5u07d  j!jnji 5 j    jw1op?     
 OL,3,Q//,.,.,.,..-//-/----/./-////-,.-,./////
-OL,4, Travel to the venue TBA                
-OL,10,F                                       
+OL,4,MWho else?                 L        L4/5
+OL,7, Block Party welcomes all visitors and  
+OL,8, exhibitors, but children must be       
+OL,9, accompanied by a responsible adult at  
+OL,10, all times.                             
+OL,12, If you are interested in showing your  
+OL,13, own work at Block Party, or would like 
+OL,14, to join the mailing list, then please  
+OL,15, get in touch.                          
 OL,16,F                                       
+OL,17,Fcomments@artbitraryfiles.com           
+OL,20, For details go to                      
+OL,21, http://arbitraryfiles.com/events/bp20  
 OL,23,A]CBP17 PromoG801 CArtG802 CGamesG803   
 OL,24,AEvents IndexBArt & EntsCNewsFWhat's new
 FL,800,500,104,101,8ff,100
@@ -89,39 +111,17 @@ OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
 OL,2,Q]Sw4u0u5u07d  j!jnji 5 j    jw1op?     
 OL,3,Q//,.,.,.,..-//-/----/./-////-,.-,./////
-OL,4, Travel to the venue TBA                
-OL,10,F                                       
+OL,4,MWhere else?                        L5/5
+OL,7, The nearest hotel chains are Travelodge
+OL,8, and Premier Inn, a few minutes from    
+OL,9, Cheltenham Spa railway. It is likely   
+OL,10, that one of these will become the hub  
+OL,11, for an informal gathering on the       
+OL,12, Saturday evening. Travelodge is in the 
+OL,13, lead at the moment.                    
 OL,16,F                                       
-OL,23,A]CBP17 PromoG801 CArtG802 CGamesG803   
-OL,24,AEvents IndexBArt & EntsCNewsFWhat's new
-FL,800,500,104,101,8ff,100
-PN,81006
-SC,0006
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
-OL,2,Q]Sw4u0u5u07d  j!jnji 5 j    jw1op?     
-OL,3,Q//,.,.,.,..-//-/----/./-////-,.-,./////
-OL,4, Travel to the venue TBA                
-OL,10,F                                       
-OL,16,F                                       
-OL,23,A]CBP17 PromoG801 CArtG802 CGamesG803   
-OL,24,AEvents IndexBArt & EntsCNewsFWhat's new
-FL,800,500,104,101,8ff,100
-PN,81007
-SC,0007
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
-OL,2,Q]Sw4u0u5u07d  j!jnji 5 j    jw1op?     
-OL,3,Q//,.,.,.,..-//-/----/./-////-,.-,./////
-OL,4, Travel to the venue TBA                
-OL,10,F                                       
-OL,16,F                                       
+OL,20, For details go to                      
+OL,21, http://arbitraryfiles.com/events/bp20  
 OL,23,A]CBP17 PromoG801 CArtG802 CGamesG803   
 OL,24,AEvents IndexBArt & EntsCNewsFWhat's new
 FL,800,500,104,101,8ff,100
