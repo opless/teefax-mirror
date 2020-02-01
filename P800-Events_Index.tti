@@ -1,10 +1,10 @@
 DE,Teletext Events
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P800-Events_Index.tti
-CT,8,T
+SP,J:\peter\teefax\P800-Events_Index.tti
 PN,80000
 SC,0000
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,QjSZ,,YQ+?SZ,(,(,$,$,(,(,$,$,YQo'SZ,,YQ5
@@ -15,7 +15,7 @@ OL,5,Qj5zk0R/o/??/?/o//?/Q`7uj5
 OL,6,Uj5o|~%V { 55b5hj4hu"U*};?j5
 OL,7,Qj5"+/# Rop{tquruzzuzwp?Q #/'!j5
 OL,8,Uj5||}|4V ################### UZ"77Yj5
-OL,9,Qj5wznr5FBlock Party 2017 C801QZbogYj5
+OL,9,Qj5wznr5FBlock Party 2020 C810QZbogYj5
 OL,10,Uj5||}|4BBP17 General Art C802UZ"77Yj5
 OL,11,Qj5wznr5FBP17 Games       C803QZbogYj5
 OL,12,Uj%uu`u5oB                 C   U?Z***Y*5
