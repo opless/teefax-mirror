@@ -4,7 +4,7 @@ SP,J:\peter\teefax\P811ChunkyFringe.tti
 PN,81101
 SC,0001
 PS,8000
-CT,0,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44444thh`$4 4 <$<04thh,$<$  l(l0x,t 
@@ -27,7 +27,7 @@ FL,800,500,104,101,8ff,100
 PN,81102
 SC,0002
 PS,8000
-CT,8,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44444thh`$4 4 <$<04thh,$<$  l(l0x,t 

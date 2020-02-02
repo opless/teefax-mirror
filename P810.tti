@@ -4,7 +4,7 @@ SP,J:\peter\teefax\P810.tti
 PN,81001
 SC,0001
 PS,8000
-CT,0,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
@@ -31,7 +31,7 @@ FL,800,500,104,101,8ff,100
 PN,81002
 SC,0002
 PS,8000
-CT,8,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
@@ -55,7 +55,7 @@ FL,800,500,104,101,8ff,100
 PN,81003
 SC,0003
 PS,8000
-CT,8,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
@@ -80,7 +80,7 @@ FL,800,500,104,101,8ff,100
 PN,81004
 SC,0004
 PS,8000
-CT,8,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
@@ -105,7 +105,7 @@ FL,800,500,104,101,8ff,100
 PN,81005
 SC,0005
 PS,8000
-CT,8,T
+CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S<44 <4<$48  hdhlhd(<(08  l(l0x,t     
