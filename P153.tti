@@ -7,77 +7,77 @@ FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 01/08        V)l'
 OL,3,V#######################################
-OL,4,``````````F@rheolismG|F27-Feb-2020 22:55
+OL,4,``````````F@rheolismG|F27-Feb-2020 23:55
 OL,5,G@bbcmicrobot 0V.30:?&D0=2:DIMD$(6):F.L
 OL,6,G%=0TO63:C%=0:F.B%=0TO5:C%=C%+(L%/2 B%A
 OL,7,GND1):N.:D$(C%)=D$(C%)+CHR$((L%+32)OR16
-OL,8,G0):N. 1F.Y%=-36TO36S.3:G%=151:F.X%=-38
-OL,9,GTO38S.2:S%=6-SQR(Y%*Y%+X%*X%)*.14+RND(
-OL,10,G1):IFS%>0V.G%:G%=0:P.MI.D$(S%),RND(LEN
-OL,11,G(D$(S%))),1);EL.V.9 2N.:V.G%:N.
-OL,12,G3G.3:_Teletext
-OL,13,``````````F@rheolismG|F27-Feb-2020 21:13
-OL,14,G@bbcmicrobot @MildBillHickok REM
-OL,15,G_teletext 0CLS:?&D0=2:DIMD$(6):FORL%=1
-OL,16,G60TO255:IFL%=192L%=224 1C%=(L%AND1)+(L
-OL,17,G%DIV2AND1)+(L%DIV4AND1)+(L%DIV8AND1)+(
-OL,18,GL%DIV16AND1)+(L%DIV64AND1):D$(C%)=D$(C
-OL,19,G%)+CHR$L%:NEXT 2FORL%=24TO0STEP-1:VDU1
-OL,20,G51:P=L%/4:FORX%=1TO39:S%=P+RND(1):P.MI
-OL,21,GD$(D$(S%),RND(LEN(D$(S%))),1);:NEXT,
-OL,22,G3GOTO3
+OL,8,G0):N. 1F.Y%=-36TO36S.3:G%=146:F.X%=-38
+OL,9,GTO38S.2:S%=6-(Y%*Y%+X%*X%)*.0039+RND(1
+OL,10,G):IFS%>0V.G%:G%=0:P.MI.D$(S%),RND(LEN(
+OL,11,GD$(S%))),1);EL.V.9 2N.:V.G%:N.
+OL,12,G3G.3:_teletext _greenscreen
+OL,13,``````````F@rheolismG|F27-Feb-2020 22:55
+OL,14,G@bbcmicrobot 0V.30:?&D0=2:DIMD$(6):F.L
+OL,15,G%=0TO63:C%=0:F.B%=0TO5:C%=C%+(L%/2 B%A
+OL,16,GND1):N.:D$(C%)=D$(C%)+CHR$((L%+32)OR16
+OL,17,G0):N. 1F.Y%=-36TO36S.3:G%=151:F.X%=-38
+OL,18,GTO38S.2:S%=6-SQR(Y%*Y%+X%*X%)*.14+RND(
+OL,19,G1):IFS%>0V.G%:G%=0:P.MI.D$(S%),RND(LEN
+OL,20,G(D$(S%))),1);EL.V.9 2N.:V.G%:N.
+OL,21,G3G.3:_Teletext
 OL,24,                                        
-OL,26,@nD@cPo
+OL,26,@nD@cPowD@cPo
 PN,15302
 SC,0002
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 02/08        V)l'
 OL,3,V#######################################
-OL,4,`````F@Tech unicorn G|F27-Feb-2020 19:01
-OL,5,GWisst ihr, ich programmiere so
-OL,6,Gziemlich alles was sich so
-OL,7,Gprogrammieren lasst.  Und dann versage
-OL,8,Gich jammerich am _Teletext  
-OL,9,``````F@HorsenburgerG|F27-Feb-2020 19:07
-OL,10,GTonight's brand new _teletext pic is
-OL,11,Gthe Matey Bubble Bath from back in my
-OL,12,Gday.  Random enough for you? <LINK>
-OL,13,```````F@retrotextukG|F27-Feb-2020 16:24
-OL,14,GIn the days of _teletext, a pulsating
-OL,15,GLeague Cup semi _OnThisDay in 1994 saw
-OL,16,Gthis year's finalists _AstonVilla
-OL,17,Gthrough to _Wembley where they beat
-OL,18,GManchester United.  _AVFC
-OL,19,G_CarabaoCupFinal _CarabaoCup <LINK>
-OL,20,````````F@TimBisley5G|F27-Feb-2020 16:59
-OL,21,GGameStation from 14th March 2004
-OL,22,GGamecube Charts  7/7  _teletext <LINK>
+OL,4,``````````F@rheolismG|F27-Feb-2020 21:13
+OL,5,G@bbcmicrobot @MildBillHickok REM
+OL,6,G_teletext 0CLS:?&D0=2:DIMD$(6):FORL%=1
+OL,7,G60TO255:IFL%=192L%=224 1C%=(L%AND1)+(L
+OL,8,G%DIV2AND1)+(L%DIV4AND1)+(L%DIV8AND1)+(
+OL,9,GL%DIV16AND1)+(L%DIV64AND1):D$(C%)=D$(C
+OL,10,G%)+CHR$L%:NEXT 2FORL%=24TO0STEP-1:VDU1
+OL,11,G51:P=L%/4:FORX%=1TO39:S%=P+RND(1):P.MI
+OL,12,GD$(D$(S%),RND(LEN(D$(S%))),1);:NEXT,
+OL,13,G3GOTO3
+OL,14,`````F@Tech unicorn G|F27-Feb-2020 19:01
+OL,15,GWisst ihr, ich programmiere so
+OL,16,Gziemlich alles was sich so
+OL,17,Gprogrammieren lasst.  Und dann versage
+OL,18,Gich jammerich am _Teletext  
+OL,19,``````F@HorsenburgerG|F27-Feb-2020 19:07
+OL,20,GTonight's brand new _teletext pic is
+OL,21,Gthe Matey Bubble Bath from back in my
+OL,22,Gday.  Random enough for you? <LINK>
 OL,24,                                        
-OL,26,@lD@KpoSpooD@PxppD@Fxp
+OL,26,@vD@KpoSpoyD@PxpzD@Fxp
 PN,15303
 SC,0003
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 03/08        V)l'
 OL,3,V#######################################
-OL,4,````````F@TimBisley5G|F27-Feb-2020 16:45
-OL,5,GGameStation from 14th March 2004  PS1,
-OL,6,GPS2, GBA and XBOX Charts  6/7
-OL,7,G_teletext <LINK>
-OL,8,````````F@TimBisley5G|F27-Feb-2020 16:29
-OL,9,GGameStation from 14th March 2004  Q
-OL,10,GZone  All Format + PC Charts  5/7
-OL,11,G_teletext <LINK>
-OL,12,````````F@TimBisley5G|F27-Feb-2020 16:19
-OL,13,GGameStation from 14th March 2004  Game
-OL,14,GNews and Q Zone  4/7  _teletext <LINK>
-OL,15,````````F@TimBisley5G|F27-Feb-2020 16:02
-OL,16,GGameStation from 14th March 2004
-OL,17,GReviews for:  Final Fantasy Crystal
-OL,18,GChronicles (GC) Maxxed Out Racing
-OL,19,G(PS2) Spawn: Armageddon (XBOX)  News
-OL,20,GPart 1  3/7  _teletext <LINK>
+OL,4,```````F@retrotextukG|F27-Feb-2020 16:24
+OL,5,GIn the days of _teletext, a pulsating
+OL,6,GLeague Cup semi _OnThisDay in 1994 saw
+OL,7,Gthis year's finalists _AstonVilla
+OL,8,Gthrough to _Wembley where they beat
+OL,9,GManchester United.  _AVFC
+OL,10,G_CarabaoCupFinal _CarabaoCup <LINK>
+OL,11,````````F@TimBisley5G|F27-Feb-2020 16:59
+OL,12,GGameStation from 14th March 2004
+OL,13,GGamecube Charts  7/7  _teletext <LINK>
+OL,14,````````F@TimBisley5G|F27-Feb-2020 16:45
+OL,15,GGameStation from 14th March 2004  PS1,
+OL,16,GPS2, GBA and XBOX Charts  6/7
+OL,17,G_teletext <LINK>
+OL,18,````````F@TimBisley5G|F27-Feb-2020 16:29
+OL,19,GGameStation from 14th March 2004  Q
+OL,20,GZone  All Format + PC Charts  5/7
+OL,21,G_teletext <LINK>
 OL,24,                                        
 PN,15304
 SC,0004
@@ -85,65 +85,68 @@ FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 04/08        V)l'
 OL,3,V#######################################
-OL,4,````````F@TimBisley5G|F27-Feb-2020 16:50
-OL,5,GGameStation from 14th March 2004  LMA
-OL,6,GManager 2004 (XBOX) Review Part 2 Tom
-OL,7,GClancy's Jungle Storm (PS2) Review
-OL,8,G2/7  _teletext <LINK>
-OL,9,````````F@TimBisley5G|F27-Feb-2020 16:36
-OL,10,GGameStation from 14th March 2004
-OL,11,GIndex + LMA Manager 2004 (XBOX) Review
-OL,12,GPart 1  (All pages bar 553-1 confirmed
-OL,13,Gaccurate via CRC)  1/7  _teletext
-OL,14,G<LINK>
-OL,15,````````F@TiinaTwineG|F27-Feb-2020 11:53
-OL,16,GTeletext Art 2020 - works of 11
-OL,17,G_teletext artists online at <LINK>
-OL,18,``````F@fabfluckigerG|F27-Feb-2020 10:28
-OL,19,GCe qui me surprend davantage, c'est
-OL,20,Gque le _teletext existe encore  .
-OL,21,G<LINK>
+OL,4,````````F@TimBisley5G|F27-Feb-2020 16:19
+OL,5,GGameStation from 14th March 2004  Game
+OL,6,GNews and Q Zone  4/7  _teletext <LINK>
+OL,7,````````F@TimBisley5G|F27-Feb-2020 16:02
+OL,8,GGameStation from 14th March 2004
+OL,9,GReviews for:  Final Fantasy Crystal
+OL,10,GChronicles (GC) Maxxed Out Racing
+OL,11,G(PS2) Spawn: Armageddon (XBOX)  News
+OL,12,GPart 1  3/7  _teletext <LINK>
+OL,13,````````F@TimBisley5G|F27-Feb-2020 16:50
+OL,14,GGameStation from 14th March 2004  LMA
+OL,15,GManager 2004 (XBOX) Review Part 2 Tom
+OL,16,GClancy's Jungle Storm (PS2) Review
+OL,17,G2/7  _teletext <LINK>
 OL,24,                                        
-OL,26,@|D@`mC
 PN,15305
 SC,0005
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 05/08        V)l'
 OL,3,V#######################################
-OL,4,```F@that other CarlG|F27-Feb-2020 08:42
-OL,5,G3 years ago, @illarterate
-OL,6,G@Horsenburger @rawles @raquelmeyers
-OL,7,G_teletext Block Party 2017 <LINK>
-OL,8,``````F@HorsenburgerG|F26-Feb-2020 17:40
-OL,9,G_PorcoRosso  one of the few characters
-OL,10,GI could cosplay as.  _studioghibli
-OL,11,G_Teletext <LINK>
-OL,12,`````F@philrowland15G|F26-Feb-2020 17:56
-OL,13,GCan we bring back Ceefax / Teletext?
-OL,14,G_ceefax _teletext <LINK>
+OL,4,````````F@TimBisley5G|F27-Feb-2020 16:36
+OL,5,GGameStation from 14th March 2004
+OL,6,GIndex + LMA Manager 2004 (XBOX) Review
+OL,7,GPart 1  (All pages bar 553-1 confirmed
+OL,8,Gaccurate via CRC)  1/7  _teletext
+OL,9,G<LINK>
+OL,10,````````F@TiinaTwineG|F27-Feb-2020 11:53
+OL,11,GTeletext Art 2020 - works of 11
+OL,12,G_teletext artists online at <LINK>
+OL,13,``````F@fabfluckigerG|F27-Feb-2020 10:28
+OL,14,GCe qui me surprend davantage, c'est
+OL,15,Gque le _teletext existe encore  .
+OL,16,G<LINK>
+OL,17,```F@that other CarlG|F27-Feb-2020 08:42
+OL,18,G3 years ago, @illarterate
+OL,19,G@Horsenburger @rawles @raquelmeyers
+OL,20,G_teletext Block Party 2017 <LINK>
 OL,24,                                        
-OL,26,@lD@IpoOpo
+OL,26,@wD@`mCyD@IpoOpo
 PN,15306
 SC,0006
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 06/08        V)l'
 OL,3,V#######################################
-OL,4,````````F@TimBisley5G|F26-Feb-2020 15:25
-OL,5,GReboot from 11th June 1998  PC Chart
-OL,6,GThe AY Files went off the air sometime
-OL,7,Gbetween early April and June 98.
-OL,8,GSometime between June and September 98
-OL,9,Ggame reviews returned, Reboot was
-OL,10,Grebranded as Gamezine.  Mr Ay
-OL,11,Gapparently got a job at PC World.  2/2
-OL,12,G_teletext <LINK>
-OL,13,````````F@TimBisley5G|F26-Feb-2020 15:02
-OL,14,GReboot from 11th June 1998  All
-OL,15,GFormat, PS1, Saturn and N64 Charts
-OL,16,G(All pages verified accurate via CRC)
-OL,17,G1/2  _teletext <LINK>
+OL,4,``````F@HorsenburgerG|F26-Feb-2020 17:40
+OL,5,G_PorcoRosso  one of the few characters
+OL,6,GI could cosplay as.  _studioghibli
+OL,7,G_Teletext <LINK>
+OL,8,`````F@philrowland15G|F26-Feb-2020 17:56
+OL,9,GCan we bring back Ceefax / Teletext?
+OL,10,G_ceefax _teletext <LINK>
+OL,11,````````F@TimBisley5G|F26-Feb-2020 15:25
+OL,12,GReboot from 11th June 1998  PC Chart
+OL,13,GThe AY Files went off the air sometime
+OL,14,Gbetween early April and June 98.
+OL,15,GSometime between June and September 98
+OL,16,Ggame reviews returned, Reboot was
+OL,17,Grebranded as Gamezine.  Mr Ay
+OL,18,Gapparently got a job at PC World.  2/2
+OL,19,G_teletext <LINK>
 OL,24,                                        
 PN,15307
 SC,0007
@@ -151,47 +154,44 @@ FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 07/08        V)l'
 OL,3,V#######################################
-OL,4,```````F@illarterateG|F26-Feb-2020 09:31
-OL,5,G_TART2020 is underway on yle Text!
-OL,6,G@yleisradio @ylenews   The _teletext
-OL,7,G_art festival features artwork from
-OL,8,G@ttvmatti @houseofhamelin
-OL,9,G@raquelmeyers @matthiasmoos
-OL,10,G@jarkkorasanen @illarterate among
-OL,11,Gothers.  _pixelart _ascii _ansi
-OL,12,G_textmode   <LINK>
-OL,13,``````F@raquelmeyersG|F26-Feb-2020 08:46
-OL,14,GYesterday Opening of _Teletext Art
-OL,15,G2020, _TART2020 / Museum of Teletext
-OL,16,GArt, MUTA + YLE Teletext  / 25.2. `
-OL,17,G25.3. 2020 in YLE Teletext from page
-OL,18,G820 <LINK>
-OL,19,````````F@Tomi TapioG|F26-Feb-2020 00:34
-OL,20,Gview some _teletext blocky art <LINK>
+OL,4,````````F@TimBisley5G|F26-Feb-2020 15:02
+OL,5,GReboot from 11th June 1998  All
+OL,6,GFormat, PS1, Saturn and N64 Charts
+OL,7,G(All pages verified accurate via CRC)
+OL,8,G1/2  _teletext <LINK>
+OL,9,```````F@illarterateG|F26-Feb-2020 09:31
+OL,10,G_TART2020 is underway on yle Text!
+OL,11,G@yleisradio @ylenews   The _teletext
+OL,12,G_art festival features artwork from
+OL,13,G@ttvmatti @houseofhamelin
+OL,14,G@raquelmeyers @matthiasmoos
+OL,15,G@jarkkorasanen @illarterate among
+OL,16,Gothers.  _pixelart _ascii _ansi
+OL,17,G_textmode   <LINK>
 OL,24,                                        
-OL,26,@{D@Npo
 PN,15308
 SC,0008
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 08/08        V)l'
 OL,3,V#######################################
-OL,4,````````F@TimBisley5G|F25-Feb-2020 19:48
-OL,5,GReboot from 01st March 1998  Reboot PC
-OL,6,GChart  AY Files Reviews:  Flight
-OL,7,GUnlimited 2 (PC) NHL Open Ice (PS1)
-OL,8,G2/2  _teletext <LINK>
-OL,9,````````F@TimBisley5G|F25-Feb-2020 19:42
-OL,10,GReboot from 01st March 1998  All
-OL,11,GFormat, PS1, Saturn and N64 Charts
-OL,12,G(All pages confirmed accurate via CRC)
-OL,13,G1/2  _teletext <LINK>
-OL,14,`````F@JWeissenboeckG|F25-Feb-2020 18:17
-OL,15,GAm Nachmittag war der Bericht uber die
-OL,16,GCoronavirus-Infektionen noch normal
-OL,17,Gschwarz formatiert. Jetzt so. Da fragt
-OL,18,Gman sich wiedermal: Welchen Einfluss
-OL,19,Ghaben die Medien? _panikmache? _orf
-OL,20,G_Coronavius _teletext <LINK>
+OL,4,``````F@raquelmeyersG|F26-Feb-2020 08:46
+OL,5,GYesterday Opening of _Teletext Art
+OL,6,G2020, _TART2020 / Museum of Teletext
+OL,7,GArt, MUTA + YLE Teletext  / 25.2. `
+OL,8,G25.3. 2020 in YLE Teletext from page
+OL,9,G820 <LINK>
+OL,10,````````F@Tomi TapioG|F26-Feb-2020 00:34
+OL,11,Gview some _teletext blocky art <LINK>
+OL,12,````````F@TimBisley5G|F25-Feb-2020 19:48
+OL,13,GReboot from 01st March 1998  Reboot PC
+OL,14,GChart  AY Files Reviews:  Flight
+OL,15,GUnlimited 2 (PC) NHL Open Ice (PS1)
+OL,16,G2/2  _teletext <LINK>
+OL,17,````````F@TimBisley5G|F25-Feb-2020 19:42
+OL,18,GReboot from 01st March 1998  All
+OL,19,GFormat, PS1, Saturn and N64 Charts
+OL,20,G(All pages confirmed accurate via CRC)
+OL,21,G1/2  _teletext <LINK>
 OL,24,                                        
-OL,26,@wD@_xz
+OL,26,@rD@Npo
