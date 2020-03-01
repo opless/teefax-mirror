@@ -7,21 +7,26 @@ FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 01/09        V)l'
 OL,3,V#######################################
-OL,4,```````F@JellicaJakeG|F01-Mar-2020 09:32
-OL,5,Ghand _pixelart _teletext <LINK>
-OL,6,````````F@TimBisley5G|F29-Feb-2020 17:55
-OL,7,GGameZine from 16th June 1998  N64 and
-OL,8,GPC Charts  Contact Info  4/4
-OL,9,G_teletext <LINK>
-OL,10,````````F@TimBisley5G|F29-Feb-2020 17:46
-OL,11,GGameZine from 16th June 1998  Contact
-OL,12,GInfo  All Formats, PS1 and Saturn
-OL,13,GCharts  3/4  _teletext <LINK>
-OL,14,````````F@TimBisley5G|F29-Feb-2020 17:32
-OL,15,GGameZine from 16th June 1998  Game,
-OL,16,GNews Readers' Top 5 and Cheats  2/4
-OL,17,G_teletext <LINK>
+OL,4,```F@that other CarlG|F01-Mar-2020 14:27
+OL,5,GRT if you loved playing the games on
+OL,6,G_teletext _bamboozle _parappatherapper
+OL,7,G@mrbiffo <LINK>
+OL,8,```````F@JellicaJakeG|F01-Mar-2020 09:32
+OL,9,Ghand _pixelart _teletext <LINK>
+OL,10,````````F@TimBisley5G|F29-Feb-2020 17:55
+OL,11,GGameZine from 16th June 1998  N64 and
+OL,12,GPC Charts  Contact Info  4/4
+OL,13,G_teletext <LINK>
+OL,14,````````F@TimBisley5G|F29-Feb-2020 17:46
+OL,15,GGameZine from 16th June 1998  Contact
+OL,16,GInfo  All Formats, PS1 and Saturn
+OL,17,GCharts  3/4  _teletext <LINK>
+OL,18,````````F@TimBisley5G|F29-Feb-2020 17:32
+OL,19,GGameZine from 16th June 1998  Game,
+OL,20,GNews Readers' Top 5 and Cheats  2/4
+OL,21,G_teletext <LINK>
 OL,24,                                        
+OL,26,@lD@IpoOpo
 PN,15302
 SC,0002
 FL,8ff,8ff,8ff,8ff,8ff,100
@@ -201,10 +206,4 @@ OL,10,G%)+CHR$L%:NEXT 2FORL%=24TO0STEP-1:VDU1
 OL,11,G51:P=L%/4:FORX%=1TO39:S%=P+RND(1):P.MI
 OL,12,GD$(D$(S%),RND(LEN(D$(S%))),1);:NEXT,
 OL,13,G3GOTO3
-OL,14,`````F@Tech unicorn G|F27-Feb-2020 19:01
-OL,15,GWisst ihr, ich programmiere so
-OL,16,Gziemlich alles was sich so
-OL,17,Gprogrammieren lasst.  Und dann versage
-OL,18,Gich jammerich am _Teletext  
 OL,24,                                        
-OL,26,@vD@KpoSpoyD@PxpzD@Fxp
