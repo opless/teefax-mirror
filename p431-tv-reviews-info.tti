@@ -1,0 +1,60 @@
+DE,TV Reviews info
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\p431-tv-reviews-info.tti
+PN,43101
+SC,0001
+PS,8000
+CT,30,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 INFO    
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/2 
+OL,4,CStandard/Level                         
+OL,5, Higher levels allow the use of enhanced
+OL,6, graphics, common on some German        
+OL,7, channels. Here are some relevant test  
+OL,8, pages on TEEFAX:                       
+OL,9,BDecoder Level Test ............... P757
+OL,10,CBlue Gradient Test ............... P756
+OL,11,FColour mapping tests ............. P754
+OL,13,CPage memory                            
+OL,14, Most modern TVs can cache hundreds of  
+OL,15, pages in the background, enabling fast 
+OL,16, access to almost any page. Older sets  
+OL,17, usually only have enough memory for the
+OL,18, currently displayed page and no more,  
+OL,19, meaning you have to wait for the next  
+OL,20, page to be re-transmitted before you   
+OL,21, can see it; purists will want this.    
+OL,22, Some old sets can hold 8 pages.        
+OL,24,ATV ReviewsBLevelsC Gradients FPallettes
+FL,432,757,756,754,8ff,100
+PN,43102
+SC,0002
+PS,8000
+CT,30,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 INFO    
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/2 
+OL,4,CText aspect ratio (see P710)           
+OL,5, Some widescreen TVs stretch the text   
+OL,6, to fill the screen. Normal (pillarbox) 
+OL,7, is desired for artwork to appear in the
+OL,8, correct aspect ratio.                  
+OL,10,CBurn-in                                
+OL,11, OLED and Plasma TVs are suspectible to 
+OL,12, permanent burn-in from static images.  
+OL,13, On these display types, it's worth     
+OL,14, checking if this has been mitigated,   
+OL,15, for example by not driving pixels at   
+OL,16, full intensity or use of the pixel     
+OL,17, orbiter.                               
+OL,19,CSubpage handling                       
+OL,20, TEEFAX uses a lot of subpages. Ease of 
+OL,21, subpage selection is important for the 
+OL,22, best experience.                       
+OL,24,ATV ReviewsBLevelsC Gradients FPallettes
+FL,432,757,756,754,8ff,100

@@ -1,0 +1,15 @@
+DE,TV Reviews CRT
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\p434-tv-reviews.tti
+PN,43400
+SC,0000
+PS,8000
+CT,30,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/1 
+OL,5,  No CRT reviews yet!                   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100

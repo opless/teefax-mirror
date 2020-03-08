@@ -1,0 +1,29 @@
+DE,TV Reviews index
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\p430-tv-reviews-index.tti
+PN,43000
+SC,0000
+PS,8000
+CT,8,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1         
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!         
+OL,5, We examine the one feature of TV sets  
+OL,6, that mainstream reviewers never touch; 
+OL,7, the one feature that's most important  
+OL,8, to us: the teletext decoder.           
+OL,9, Wondering what TVs come with a Level   
+OL,10, 2.5 decoder? Will the text burn into   
+OL,11, your expensive new OLED TV? Was the    
+OL,12, decoder tacked on as an afterthought?  
+OL,13, Find out here!                         
+OL,17, Info ............................CP431 
+OL,18, Modern ("LED", OLED, QLED) ......CP432 
+OL,19, LCD and Plasma ..................CP433 
+OL,20, CRT .............................CP434 
+OL,21, Set top boxes ...................CP435 
+OL,23,T]CTEEFAX Reviews Index           GP400 
+OL,24, AInfo BLED/OLED/QLED CLCD/Plasma FCRTs 
+FL,431,432,433,434,8ff,100

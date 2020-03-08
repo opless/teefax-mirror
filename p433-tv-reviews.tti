@@ -1,0 +1,60 @@
+DE,TV Reviews LCD Plasma
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\p433-tv-reviews.tti
+PN,43301
+SC,0001
+PS,8000
+CT,30,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC1/2 
+OL,5, LG 26LC2R 26" LCD TV (2007)            
+OL,6,CStandard:GLevel 1.0                    
+OL,7,CPage memory:G500 pages                 
+OL,8,CText aspect ratio:GWide                
+OL,10,CWhat's good:GMost functions are present
+OL,11, on the remote and correct. Very quick &
+OL,12, responsive interface. Subpage selection
+OL,13, shows subpage number. Stores pages with
+OL,14, hex digits in page numbers in memory.  
+OL,15, Crisp font at LCD native resolution.   
+OL,16,CWhat's not:GMix function absent. Does  
+OL,17, not display link names on TOP TEXT     
+OL,18, systems, only the numbers. Often fails 
+OL,19, to display the bottom few lines of the 
+OL,20, page when a new subpage is received,   
+OL,21, necessitating a quick change to another
+OL,22, page then back (seems to only affect   
+OL,23, the 800s on TEEFAX).                   
+OL,24,  ACRTs B STBs C LED/OLED/QLED F Info   
+FL,434,435,432,431,8ff,100
+PN,43302
+SC,0002
+PS,8000
+CT,30,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC2/2 
+OL,5, Vestel 26" LCD TV (2008)               
+OL,6,CStandard:GLevel 1.5                    
+OL,7,CPage memory:G1000 pages?               
+OL,8,CText aspect ratio:GWide                
+OL,10,CWhat's good:GAll traditional Teletext  
+OL,11, functions present plus "Picture-and-   
+OL,12, Picture" function. Subpage selection   
+OL,13, uses left/right arrows on remote and   
+OL,14, displays list of subpages in memory on 
+OL,15, screen.                                
+OL,16,C                                       
+OL,17,CWhat's not:GPage numbers with hex      
+OL,18, digits are not stored in memory, making
+OL,19, Bamboozle, etc. very slow. Despite     
+OL,20, this, it is not possible to cheat by   
+OL,21, pressing the four Fastext keys quickly,
+OL,22, but maybe that's a good thing.         
+OL,24,  ACRTs B STBs C LED/OLED/QLED F Info   
+FL,434,435,432,431,8ff,100

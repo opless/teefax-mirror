@@ -1,0 +1,30 @@
+DE,TV Reviews modern
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\p432-tv-reviews.tti
+PN,43201
+SC,0000
+PS,8000
+CT,30,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 MODERN  
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/1 
+OL,5, Sony KDL-32WD751 32" LED TV (2016)     
+OL,6,CStandard:GLevel 2.5                    
+OL,7,CPage memory:G2000 pages?               
+OL,8,CText aspect ratio:GNormal              
+OL,10,CWhat's good:GMix and reveal functions  
+OL,11, present. Level 2.5 decoder correctly   
+OL,12, displays TEEFAX Page 756.              
+OL,14,CWhat's not:GPage numbers with hex      
+OL,15, digits are not stored in memory, making
+OL,16, Bamboozle, etc. very slow. Awkward sub-
+OL,17, page selection using arrow keys and    
+OL,18, hold button. Size and Cancel functions 
+OL,19, missing. Rolling page number at top    
+OL,20, shows page numbers from magazine 100   
+OL,21, when waiting for a page in another     
+OL,22, magazine.                              
+OL,24,A LCD/Plasma  B  CRTs   CSTBs   FInfo   
+FL,433,434,435,431,8ff,100
