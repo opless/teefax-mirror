@@ -1,5 +1,37 @@
-PN,16100
-SC,0000
+DS,inserter
+CT,20,T
+PN,16101
+SC,0001
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVVh||4|4       |4      h||4|4ph4||t    
+OL,2,T]Vj  5?j/%}?j/% j| 5j55    
+OL,3,T]Sjp05ujp05bs5 j  uz5u    
+OL,4,T]S"##!#!###"##!#!#"##! "#  ####!##!    
+OL,5,G           LOS ANGELES, Sun 8 Mar, 2020
+OL,6,B                                       
+OL,7,AM      Daylight Saving Time Starts     
+OL,8,AM      Daylight Saving Time Starts     
+OL,9,C                                       
+OL,10,FAt 2am this morning the clocks will be 
+OL,11,Fmoved forwards one hour to 3am.        
+OL,12,F                                       
+OL,13,FIt will be darker in the mornings and  
+OL,14,Flighter in the evenings.               
+OL,15,F                                       
+OL,16,                W`x||($,|0              
+OL,17,                W~/y>m6%              
+OL,18,                W`|i}?~               
+OL,19,                Wjj?a~t{               
+OL,20,                W umu7               
+OL,21,                W 2omv3                
+OL,22,                W>+t~!"m0x              
+OL,23,                W  "%  Wo'              
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,16102
+SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
