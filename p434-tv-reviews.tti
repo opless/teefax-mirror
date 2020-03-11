@@ -1,15 +1,28 @@
 DE,TV Reviews CRT
-DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\p434-tv-reviews.tti
+CT,30,T
+PS,8000
 PN,43400
 SC,0000
-PS,8000
-CT,30,C
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+FL,431,432,433,435,8ff,100
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
 OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/1 
-OL,5,  No CRT reviews yet!                   
+OL,5, Philips 21PT6820 ` 21" DVD combi       
+OL,6,CStandard:GLevel 1.5 (limited)          
+OL,7,CPage memory:G7 ` Current page, 4 colour
+OL,8,              links, previous, and next.
+OL,9,CText aspect ratio:G4:3                 
+OL,11,CWhat's good:GClassic Philips hardware  
+OL,12, decoder and character ROM.             
+OL,13, Some support for level 1.5 enhancement.
+OL,14, Decodes teletext on all inputs.        
+OL,15, Supports foreground black.             
+OL,16, Gets initial page from BSDP.           
+OL,17,CWhat's not:G                           
+OL,18, Limited repertoire of characters for   
+OL,19, level 1.5 enhancements.                
+OL,20, Text display is juddery near the bottom
+OL,21, of the screen, but this might just be a
+OL,22, fault on my set.                       
+OL,23, Ignores BSDP status message.           
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
-FL,431,432,433,435,8ff,100
