@@ -3,18 +3,12 @@ DE,DAB
 PS,8040
 PN,53501
 SC,0001
-OL,2,CDAB ENSEMBLES ESDL National    
+OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FAbsolute Rad 80s   BPremierChristian   
-OL,5,FVirgin Chilled     BAbsolute Rad 90s   
-OL,6,FScala Radio        BLove SPORT         
-OL,7,FtalkRADIO          BtalkSPORT 2        
-OL,8,FVirgin Radio       BMellow Magic       
-OL,9,FPlanet Rock        BSunrise Radio UK   
-OL,10,FUCB 2              BPremier Praise     
-OL,11,FFun Kids UK        BJazz FM Stereo     
-OL,12,FUnion JACK         BForcesRadio BFBS   
-OL,13,FJACK Radio (UK)    BVirgin Anthems     
+OL,4,FGreatest Hits      BMKFM               
+OL,5,FRadio UP           BHITS RADIO UK      
+OL,6,FCapital UK         BBBC 3CR            
+OL,7,FHeart 4 Counties   BSmooth 3Counties   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -22,11 +16,11 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FGreatest Hits      BSmooth Country     
-OL,5,FCapital UK         BRadio Maria Eng    
-OL,6,FDubai Now          BGold Cambs         
-OL,7,FHeart Cambridge    BBBC Radio Cambs    
-OL,8,FHITS RADIO UK      BEPG Cambridge (data)
+OL,4,FBBC Radio Cambs    BCapital UK         
+OL,5,FDubai Now          BRadio Maria Eng    
+OL,6,FHeart Cambridge    BHITS RADIO UK      
+OL,7,FSmooth Country     BGold Cambs         
+OL,8,FGreatest Hits      BEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -63,12 +57,18 @@ OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
 PN,53505
 SC,0005
-OL,2,CDAB ENSEMBLES EHerts Beds Bucks
+OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FGreatest Hits      BHeart 4 Counties   
-OL,5,FHITS RADIO UK      BRadio UP           
-OL,6,FCapital UK         BBBC 3CR            
-OL,7,FSmooth 3Counties   BMKFM               
+OL,4,FAbsolute Rad 80s   BPremierChristian   
+OL,5,FVirgin Chilled     BAbsolute Rad 90s   
+OL,6,FScala Radio        BLove SPORT         
+OL,7,FtalkRADIO          BtalkSPORT 2        
+OL,8,FVirgin Radio       BMellow Magic       
+OL,9,FPlanet Rock        BSunrise Radio UK   
+OL,10,FUCB 2              BPremier Praise     
+OL,11,FFun Kids UK        BJazz FM Stereo     
+OL,12,FUnion JACK         BForcesRadio BFBS   
+OL,13,FJACK Radio (UK)    BVirgin Anthems     
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
