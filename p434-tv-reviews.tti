@@ -1,28 +1,33 @@
 DE,TV Reviews CRT
-CT,30,T
-PS,8000
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\P434.tti
 PN,43400
 SC,0000
-FL,431,432,433,435,8ff,100
+PS,8000
+CT,30,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
 OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/1 
-OL,5, Philips 21PT6820 ` 21" DVD combi       
-OL,6,CStandard:GLevel 1.5 (limited)          
-OL,7,CPage memory:G7 ` Current page, 4 colour
-OL,8,              links, previous, and next.
-OL,9,CText aspect ratio:G4:3                 
-OL,11,CWhat's good:GClassic Philips hardware  
-OL,12, decoder and character ROM.             
-OL,13, Some support for level 1.5 enhancement.
-OL,14, Decodes teletext on all inputs.        
-OL,15, Supports foreground black.             
-OL,16, Gets initial page from BSDP.           
-OL,17,CWhat's not:G                           
-OL,18, Limited repertoire of characters for   
-OL,19, level 1.5 enhancements.                
-OL,20, Text display is juddery near the bottom
-OL,21, of the screen, but this might just be a
-OL,22, fault on my set.                       
-OL,23, Ignores BSDP status message.           
+OL,4, Philips 21PT6820 ` 21" DVD combi       
+OL,5,CStandard:GLevel 1.5 (limited)          
+OL,6,CPage memory:G7 ` Current page, 4 colour
+OL,7,              links, previous, and next.
+OL,8,CText aspect ratio:G4:3                 
+OL,10,CWhat's good:GClassic Philips hardware  
+OL,11, decoder and character ROM.             
+OL,12, Some support for level 1.5 enhancement.
+OL,13, Decodes teletext on all inputs.        
+OL,14, Supports foreground black.             
+OL,15, Gets initial page from BSDP.           
+OL,16,CWhat's not:G                           
+OL,17, Limited repertoire of characters for   
+OL,18, level 1.5 enhancements.                
+OL,19, Text display is juddery near the bottom
+OL,20, of the screen, but this might just be a
+OL,21, fault on my set.                       
+OL,22, Ignores BSDP status message.           
+OL,23,D]CReviewed Mar 2020 by Alastair Cree   
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100

@@ -10,24 +10,25 @@ OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
 OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC1/2 
-OL,5, LG 26LC2R 26" LCD TV (2007)            
-OL,6,CStandard:GLevel 1.0                    
-OL,7,CPage memory:G500 pages                 
-OL,8,CText aspect ratio:GWide                
-OL,10,CWhat's good:GMost functions are present
-OL,11, on the remote and correct. Very quick &
-OL,12, responsive interface. Subpage selection
-OL,13, shows subpage number. Stores pages with
-OL,14, hex digits in page numbers in memory.  
-OL,15, Crisp font at LCD native resolution.   
-OL,16,CWhat's not:GMix function absent. Does  
-OL,17, not display link names on TOP TEXT     
-OL,18, systems, only the numbers. Often fails 
-OL,19, to display the bottom few lines of the 
-OL,20, page when a new subpage is received,   
-OL,21, necessitating a quick change to another
-OL,22, page then back (seems to only affect   
-OL,23, the 800s on TEEFAX).                   
+OL,4, LG 26LC2R 26" LCD TV (2007)            
+OL,5,CStandard:GLevel 1.0                    
+OL,6,CPage memory:G500 pages (40 subpages)   
+OL,7,CText aspect ratio:GWide                
+OL,9,CWhat's good:GMost functions are present
+OL,10, on the remote and correct. Very quick &
+OL,11, responsive interface. Subpage selection
+OL,12, shows subpage number. Stores pages with
+OL,13, hex digits in page numbers in memory.  
+OL,14, Crisp font at LCD native resolution.   
+OL,15,CWhat's not:GMix function absent. Does  
+OL,16, not display link names on TOP TEXT     
+OL,17, systems, only the numbers. Often fails 
+OL,18, to display the bottom few lines of the 
+OL,19, page when a new subpage is received,   
+OL,20, necessitating a quick change to another
+OL,21, page then back (seems to only affect   
+OL,22, the 800s on TEEFAX).                   
+OL,23,D]CReviewed Mar 2020 by Nick Schollar   
 OL,24,  ACRTs B STBs C LED/OLED/QLED F Info   
 FL,434,435,432,431,8ff,100
 PN,43302
@@ -39,22 +40,23 @@ OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
 OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC2/2 
-OL,5, Vestel 26" LCD TV (2008)               
-OL,6,CStandard:GLevel 1.5                    
-OL,7,CPage memory:G1000 pages?               
-OL,8,CText aspect ratio:GWide                
-OL,10,CWhat's good:GAll traditional Teletext  
-OL,11, functions present plus "Picture-and-   
-OL,12, Picture" function. Subpage selection   
-OL,13, uses left/right arrows on remote and   
-OL,14, displays list of subpages in memory on 
-OL,15, screen.                                
-OL,16,C                                       
-OL,17,CWhat's not:GPage numbers with hex      
-OL,18, digits are not stored in memory, making
-OL,19, Bamboozle, etc. very slow. Despite     
-OL,20, this, it is not possible to cheat by   
-OL,21, pressing the four Fastext keys quickly,
-OL,22, but maybe that's a good thing.         
+OL,4, Vestel 26" LCD TV (2008)               
+OL,5,CStandard:GLevel 1.5                    
+OL,6,CPage memory:G1000 pages? (80 subpages) 
+OL,7,CText aspect ratio:GWide                
+OL,9,CWhat's good:GAll traditional Teletext  
+OL,10, functions present plus "Picture-and-   
+OL,11, Picture" function. Subpage selection   
+OL,12, uses left/right arrows on remote and   
+OL,13, displays list of subpages in memory on 
+OL,14, screen.                                
+OL,15,C                                       
+OL,16,CWhat's not:GPage numbers with hex      
+OL,17, digits are not stored in memory, making
+OL,18, Bamboozle, etc. very slow. Despite     
+OL,19, this, it is not possible to cheat by   
+OL,20, pressing the four Fastext keys quickly,
+OL,21, but maybe that's a good thing.         
+OL,23,D]CReviewed Mar 2020 by Nick Schollar   
 OL,24,  ACRTs B STBs C LED/OLED/QLED F Info   
 FL,434,435,432,431,8ff,100

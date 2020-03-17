@@ -1,0 +1,33 @@
+DE,TV Reviews STB
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\p435-tv-reviews.tti
+PN,43500
+SC,0000
+PS,8000
+CT,30,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/1 
+OL,4,CSet Top Boxes                          
+OL,5, Teletext can be transmitted over DVB-T 
+OL,6, and DVB-S. In the UK, no Teletext is   
+OL,7, transmitted over DVB-T and only        
+OL,8, subtitles are transmitted over DVB-S,  
+OL,9, but many European channels (especially 
+OL,10, German and Italian) have comprehensive 
+OL,11, text services on DVB-S. Many receivers 
+OL,12, output this data in the VBI so that the
+OL,13, service can be viewed using the TV's   
+OL,14, decoder.                               
+OL,16,CSky Digital boxes                      
+OL,17, These have VBI output (live TV only)   
+OL,18,CHUMAX HDR-1100S (Freesat)              
+OL,19, No VBI output                          
+OL,20,CTeleves RSD-711801                     
+OL,21, VBI output plus built-in decoder       
+OL,22,CTevion/Ross DVB-S 5010                 
+OL,23, No VBI output or built-in decoder      
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs  
+FL,431,432,433,434,8ff,100

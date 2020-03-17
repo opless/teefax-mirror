@@ -9,25 +9,20 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 INFO    
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/2 
-OL,4,CStandard/Level                         
-OL,5, Higher levels allow the use of enhanced
-OL,6, graphics, common on some German        
-OL,7, channels. Here are some relevant test  
-OL,8, pages on TEEFAX:                       
-OL,9,BDecoder Level Test ............... P757
-OL,10,CBlue Gradient Test ............... P756
-OL,11,FColour mapping tests ............. P754
-OL,13,CPage memory                            
-OL,14, Most modern TVs can cache hundreds of  
-OL,15, pages in the background, enabling fast 
-OL,16, access to almost any page. Older sets  
-OL,17, usually only have enough memory for the
-OL,18, currently displayed page and no more,  
-OL,19, meaning you have to wait for the next  
-OL,20, page to be re-transmitted before you   
-OL,21, can see it; purists will want this.    
-OL,22, Some old sets can hold 8 pages.        
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/3 
+OL,5,CStandard/Level                         
+OL,6, Higher levels allow the use of enhanced
+OL,7, graphics, common on some German        
+OL,8, channels. Here are some relevant test  
+OL,9, pages on TEEFAX:                       
+OL,10,B Decoder Level Test ............. P757 
+OL,11,C Blue Gradient Test ............. P756 
+OL,12,F Colour pallette mapping tests .. P754 
+OL,14,CText aspect ratio (see P710)           
+OL,15, Some widescreen TVs stretch the text   
+OL,16, to fill the screen. Normal (pillarbox) 
+OL,17, is desired for artwork to appear in the
+OL,18, correct aspect ratio.                  
 OL,24,ATV ReviewsBLevelsC Gradients FPallettes
 FL,432,757,756,754,8ff,100
 PN,43102
@@ -38,20 +33,48 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 INFO    
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/2 
-OL,4,CText aspect ratio (see P710)           
-OL,5, Some widescreen TVs stretch the text   
-OL,6, to fill the screen. Normal (pillarbox) 
-OL,7, is desired for artwork to appear in the
-OL,8, correct aspect ratio.                  
-OL,10,CBurn-in                                
-OL,11, OLED and Plasma TVs are suspectible to 
-OL,12, permanent burn-in from static images.  
-OL,13, On these display types, it's worth     
-OL,14, checking if this has been mitigated,   
-OL,15, for example by not driving pixels at   
-OL,16, full intensity or use of the pixel     
-OL,17, orbiter.                               
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/3 
+OL,5,CBurn-in                                
+OL,6, OLED and Plasma TVs are suspectible to 
+OL,7, permanent burn-in from static images.  
+OL,8, On these display types, it's worth     
+OL,9, checking if this has been mitigated,   
+OL,10, for example by not driving pixels at   
+OL,11, full intensity or use of the pixel     
+OL,12, orbiter.                               
+OL,14, When reviewing OLED/Plasma sets, please
+OL,15, include whether or not any burn-in     
+OL,16, reduction features work when using     
+OL,17, teletext.                              
+OL,19, On OLEDs withARBGDBGW subpixels, red is
+OL,20, the most suspectible colour. Fortunate-
+OL,21, ly, red is used infrequently, but watch
+OL,22, out for yellow headings and red Fastext
+OL,23, links!                                 
+OL,24,ATV ReviewsBLevelsC Gradients FPallettes
+FL,432,757,756,754,8ff,100
+PN,43103
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 INFO    
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/3 
+OL,5,CPage memory                            
+OL,6, Most modern TVs can cache hundreds of  
+OL,7, pages in the background, enabling fast 
+OL,8, access to almost any page. Older sets  
+OL,9, usually only have enough memory for the
+OL,10, currently displayed page and no more,  
+OL,11, meaning you have to wait for the next  
+OL,12, page to be re-transmitted before you   
+OL,13, can see it; purists will want this.    
+OL,14, Some old sets can hold 7 or 8 pages.   
+OL,15, A lower limit may apply to the number  
+OL,16, of subpages that can be stored for one 
+OL,17, page; P521 makes good test material.   
 OL,19,CSubpage handling                       
 OL,20, TEEFAX uses a lot of subpages. Ease of 
 OL,21, subpage selection is important for the 
