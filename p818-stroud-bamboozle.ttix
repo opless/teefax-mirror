@@ -1,11 +1,11 @@
-DE,Read back page  14/12/01
+DE,Stroud Bamboozle
 DS,inserter
-SP,E:\peterstuff\fringe15\teletext\BB152.TTIx
-CT,99,C
-PS,8040
-RE,0
-PN,15200
+SP,Z:\Documents\Projects\Teletext pages\teletext\p818-stroud-bamboozle.ttix
+PN,81800
 SC,0000
+PS,8040
+CT,99,C
+RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Sjk5pp0pppp0up`pp0ppp`pp05ppp 5     
 OL,2,Sjk4s57k57jk57bs55w 5     
@@ -31,4 +31,4 @@ OL,21,A```````````````````````````````````````
 OL,22,A]GHTry the special Festivale           
 OL,23,A]GHFRINGE FEVER! From Stroud Brewery   
 OL,24,AQuestion 1 BIndex CWhats On FSponsors  
-FL,12b,153,154,150,8FF,100
+FL,86a,800,816,817,8ff,100
