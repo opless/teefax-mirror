@@ -1,10 +1,10 @@
 DE,Stroud business carousel
 DS,inserter
-SP,V:\_ Teefax\P451-StroudBusiness.tti
-CT,10,T
-PN,45101
+SP,Z:\Documents\Projects\Teletext pages\teletext\P451-StroudBusiness.tti
+PN,81701
 SC,0001
 PS,8000
+CT,10,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,A]Cweb:Gwww.facebook.com/MrTwitchetts   
@@ -31,10 +31,11 @@ OL,21,G]U}ppp~ruuzu{!##  E  Regular live
 OL,22,G]E]GMon - Sat. G]    E     music.      
 OL,23,A]GSubscription Rms, George St, Stroud  
 OL,24,A   Index                               
-FL,400,8ff,8ff,8ff,8ff,100
-PN,45102
+FL,800,8ff,8ff,8ff,8ff,100
+PN,81702
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R#uzp#
@@ -56,10 +57,11 @@ OL,20,  everyone gets the best price.
 OL,22,MB]Decotricity.co.uk                    
 OL,23,    08                                  
 OL,24,A   Index                               
-FL,400,8ff,8ff,8ff,8ff,100
-PN,45103
+FL,800,8ff,8ff,8ff,8ff,100
+PN,81703
 SC,0003
 PS,8000
+CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]W,,,,$p0,,,,,,,$0,,,$ W`,,d F---------
@@ -86,10 +88,11 @@ OL,21,A]Q###W)2d0b p&8!+         *!)2d0b p&8!
 OL,22,A]W     ",rss8&Cecycleuk.comW ",rss8&   
 OL,23,A]G 10 John St, Stroud, Glos. GL5 2HA   
 OL,24,A   Index                               
-FL,400,8ff,8ff,8ff,8ff,100
-PN,45104
+FL,800,8ff,8ff,8ff,8ff,100
+PN,81704
 SC,0004
 PS,8000
+CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T*%/`3`3`3`3`3`3`3`*%/ r!r!r!r!r!r!r!/*%
@@ -116,10 +119,11 @@ OL,21,T*%/ c0c0c0c0CCompany Ltd.Tc0cS"/!Tc0/*%
 OL,22,T*%/ , , , , , , , *%/ , , , , , , , /*%
 OL,23,B]DPhoenix Works, Thrupp, Stroud, Glos. 
 OL,24,A   Index                               
-FL,400,8ff,8ff,8ff,8ff,100
-PN,45105
+FL,800,8ff,8ff,8ff,8ff,100
+PN,81705
 SC,0005
 PS,8000
+CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G]Q     AFounded 1977Qpp`p0      `pp`p0 
@@ -146,4 +150,4 @@ OL,21,D]Vww$a9&!  W|%o~%4o~%o~%o~%V  #,q!fw5
 OL,22,D]V,,#!G Pieces of vinyl and CDs  V#),$ 
 OL,23,B]D26 Kendrick St, Stroud, Glos. GL51AQ 
 OL,24,A   Index                               
-FL,400,8ff,8ff,8ff,8ff,100
+FL,800,8ff,8ff,8ff,8ff,100

@@ -1,10 +1,10 @@
 DE,Bamboozle!
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P150-Bamboozle.ttix
-CT,15,C
+SP,Z:\Documents\Projects\Teletext pages\teletext\P150-Bamboozle.ttix
 PN,15000
 SC,0000
 PS,8040
+CT,15,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Sjk5pp0pppp0up`pp0ppp`pp05ppp 5     
@@ -23,10 +23,10 @@ OL,13,G]DThey range from too     \S?(}rsx=jnw
 OL,14,G]Dsimple to very nerdy!   \Sm}tsssx}?j 
 OL,15,G]D                        \ S+/}|/a'T
 OL,16,                     W#/lpTx}Wlp  px,T~
-OL,17,                                       ~
-OL,19, Automotive Quiz . . . . . . . . .C151 T
-OL,20, Techy Bamboozle . . . . . . . . .C152  
-OL,21, Wiganboozle . . . . . . . .Anew! C806  
+OL,18, Automotive Quiz . . . . . . . . .C151 T
+OL,19, Techy Bamboozle . . . . . . . . .C152  
+OL,20, Wiganboozle . . . . . . . . . . .C806  
+OL,21, Stroud Bamboozle  . . . . . . . .C818  
 OL,23,A```````````````````````````````````````
 OL,24,AIndexBOregon TrailCLabyrinthFJoketitles
 FL,100,668,536,888,8ff,100
