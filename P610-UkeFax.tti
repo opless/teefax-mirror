@@ -1,34 +1,24 @@
-DE,Ukulele - buyer's guide
+DE,Ukulele - blank page
 DS,Wales
-SP,I:\peter\TeletextFest2016\UKE610.ttix
-CT,15,C
-PS,8040
-RE,0
+SP,Z:\Documents\Projects\Teletext pages\teletext\P610-UkeFax.tti
 PN,61000
 SC,0000
-OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,çÑùÉChoosing a Ukulele                  
-OL,2,                                        
-OL,3,                                        
-OL,4,  Ukuleles range from cheap but even    
-OL,5,  the top of the range are affordable   
-OL,6,  compared to other instruments.        
-OL,7,                                        
-OL,8, ÜWhen you go into a shop what should   
-OL,9, Üyou look out for? There are some basic
-OL,10, Üfeatures that need to be correct.     
-OL,11,                                        
-OL,12, ÜThis guide will tell you what to look 
-OL,13, Üfor when getting a ukulele. We will   
-OL,14, Ülook at what features you might want  
-OL,15, Üjust as size and construction and     
-OL,16, Üfittings. Then when you get in the    
-OL,17, Üshop you'll need to know what to look 
-OL,18, Üfor so you can spot any problems      
-OL,19, Übefore you get your wallet out.       
-OL,20,                                        
-OL,21,                                        
-OL,22,                                   611->
-OL,23,ÑùáWhat ukulele?                        
-OL,24, ÅNext Ç.       É.         Ü.           
+PS,8040
+CT,15,C
+RE,0
+OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,MD]CSongs to play                       
+OL,4,  Here is one song for you to play.     
+OL,5,  If you like it and would like more    
+OL,6,  then email peterk.vt80@gmail.com      
+OL,7,F                                       
+OL,8,   Rock Around the Clock............610
+OL,10,                                       
+OL,12,                                       
+OL,14,                                       
+OL,16,                                       
+OL,18,                                       
+OL,20,                                       
+OL,23,D]GPertinent comment goes here          
+OL,24, ANext B.       C.         F.           
 FL,611,0,0,0,0,600

@@ -1,10 +1,10 @@
-DE,Ukulele news in brief
+DE,Ukulele Index
 DS,Wales
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P601-UkeFax.tti
-CT,15,C
+SP,Z:\Documents\Projects\Teletext pages\teletext\P601-UkeFax.tti
 PN,60100
 SC,0000
 PS,8040
+CT,15,C
 RE,0
 OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]W<l <lS<l `lV<,,4U<,lW`,,0S<d `,4     
@@ -12,19 +12,20 @@ OL,2,D]W5j 5jS5j8a&V5js1U5wsW5xtjS"d)a&
 OL,3,D]W5jp5jS5 0)0V5h,%U5<.W5<ljS`&82d      
 OL,4,D]W)ppp&Suz"dzVurs5Uu5 Wu5jzSu6 "t5     
 OL,5,Q   ###  ## "# ###! #!  #!"# #!  #!     
-OL,6,D]GNews and events in brief             
-OL,8,  Ukulele Christmas sales up 30%.       
-OL,9,F Traders report brisk sales of ukuleles
-OL,10,F in this festive season.               
-OL,12,  Ukulele Festivals                     
-OL,13,F Great Northern Ukefest - May          
-OL,14,F Ukulele Festival GB, Cheltenham - June
-OL,16,  Uke-Can taster session in Stroud...   
-OL,17,FFwas captured on Youtube. Search for   
-OL,18, CUke-Can Ukulele Workshop/The Prince   
-OL,19,FCAlbertFand see beginners have fun.    
-OL,21,D]CRestringing. When & why to do it..620
-OL,22,MA]CHalona has a built in tuner!.....610
-OL,23,D]G                         a band      
-OL,24, ATuning  BChords  CSongs   FModding    
-FL,620,640,650,690,0,600
+OL,6,D]GYour ukulele resource                
+OL,8,MG602 News and events                   
+OL,9,D]G : : : :     : :  :     : : : :     
+OL,10,MG603 Choosing a ukulele to suit you    
+OL,11,D]G : : : :      : : :     :  :      
+OL,12,MG604 Tuning                            
+OL,13,D]G : : :      : : : :     : :  :     
+OL,14,MG605 Modding your ukulele              
+OL,15,D]G : : : :     : : : :     : : : :     
+OL,16,MG606 Chords index                      
+OL,17,D G : : : :     : : : :     : : : :     
+OL,18,MG610 Play-along songs index            
+OL,19,D]G                                     
+OL,22,D]CWhy do strings make a difference? 604
+OL,23,B]DSpecial features index........... 600
+OL,24, ATuning  BChords  C  Songs F  Events   
+FL,604,606,610,800,0,600

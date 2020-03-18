@@ -1,17 +1,14 @@
 DE,Ukulele - C7,D7,E7,G7
 DS,Wales
-SP,I:\peter\TeletextFest2016\UKE643.ttix
-CT,15,C
-PS,8040
-RE,0
-PN,64300
+SP,Z:\Documents\Projects\Teletext pages\teletext\P609-UkeFax.tti
+PN,60900
 SC,0000
-OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH É hh:nn.ss
-OL,1,çÑùÉUkulele Chords - page 3             
-OL,2,                                        
+PS,8040
+CT,15,C
+RE,0
+OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,MD]CUkulele Chords - page 3             
 OL,3,  A bunch of 7s                         
-OL,4,                                        
-OL,5,                                        
 OL,6,    C7       D7        B7        G7     
 OL,7,  =======  =======   =======   =======  
 OL,8,  : : :   : : : :   : : : :   : :  :  
@@ -24,11 +21,9 @@ OL,14,  : : : :  : : : :   : : : :   : : : :
 OL,15,  :`````:  :`````:   :`````:   :`````:  
 OL,16,  : : : :  : : : :   : : : :   : : : :  
 OL,17,  :`````:  :`````:   :`````:   :`````:  
-OL,18,  á                                     
+OL,18,  G                                     
 OL,19, You will need to practise doing a barre
 OL,20, on D7 and B7                           
-OL,21,                                        
-OL,22,                                        
-OL,23,ÑùáAll the essential chords             
-OL,24, ÅHomeÇMajorsÉMinors & Major ÜSevens    
-FL,600,641,642,643,0,600
+OL,23,D]GAll the essential chords             
+OL,24, ANextBMajorsCMinors & Major FSevens    
+FL,610,607,608,609,0,600

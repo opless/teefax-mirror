@@ -1,10 +1,10 @@
 DE,Special Features index
 DS,Wales
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P606.tti
-CT,15,C
-PN,60600
+SP,Z:\Documents\Projects\Teletext pages\teletext\P600-Special-Features.tti
+PN,60000
 SC,0000
 PS,8040
+CT,15,C
 RE,0
 OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]W<l <lS<l `lV<,,4U<,lW`,,0S<d `,4     
@@ -14,7 +14,7 @@ OL,4,D]W)ppp&Suz"dzVurs5Uu5 Wu5jzSu6 "t5
 OL,5,Q   ###  ## "# ###! #!  #!"# #!  #!     
 OL,6,D]Gand other Special Features           
 OL,8,   UkeFax: your                         
-OL,9,   ukulele resource    C600             
+OL,9,   ukulele resource    C601             
 OL,11,   A very short game                    
 OL,12,   of Oregon trail     C668             
 OL,14,   Teletext Replicas:                   
