@@ -1,151 +1,182 @@
-DE,Description goes here
 DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\p101.tti
+CT,10,C
 PN,10101
 SC,0001
 PS,8000
-CT,10,C
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
 OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,CMTV Reviews                       P430 
-OL,7,FFSun 15th March 2020                   
-OL,8,  Reviews of the teletext decoders in   
-OL,9,  TV sets from the CRT era up to today. 
-OL,10,  Contributions welcome!                
-OL,11,CMAndy Jenkinson                   P587 
-OL,12,CMAndy Jenkinson                   P587 
-OL,13,FFWed 5th June 2019                     
-OL,14,GGTV idents and more! From:             
-OL,15,AAwww.twitter/andyuglifruit             
-OL,17,CMBlippy Pixel                     P585 
-OL,18,CMBlippy Pixel                     P585 
-OL,19,FFMon 27th May 2019                     
-OL,20,GGA contributer to 'Mistigris' and      
-OL,21,AGactive creator of art with a SciFi    
-OL,22,AGflavour on the BBC Micro.             
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,AArtists   BTV Reviews C Andy   FBlippy 
-FL,500,430,587,585,100,100
+OL,5,CMSt.Patricks Day                  P899 
+OL,6,CMSt.Patricks Day                  P899 
+OL,7,FFTue 17th March 2020                   
+OL,8,GGThanks to Illarterate                 
+OL,9,AGToo bad the pubs are closed!          
+OL,10,C                                       
+OL,11,CMCat Gallery                      P599 
+OL,12,CMCat Gallery                      P599 
+OL,13,F Mon 16th March 2020                   
+OL,14,G A message from 'PAX'                  
+OL,15,G joins over 60 pages of                
+OL,16,G Feline Fun!                           
+OL,17,G                                       
+OL,18,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,19,CMAndy Jenkinson                   P587 
+OL,20,CMAndy Jenkinson                   P587 
+OL,21,FFWed 5th June 2019                     
+OL,22,GGTV idents and more! From:             
+OL,23,AAwww.twitter/andyuglifruit             
+OL,24, AStPat     BPAX     CArtists     FAndy@
+FL,899,599,500,587,100,100
 PN,10102
 SC,0002
 PS,8000
-CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
-OL,5,CMRusty595 Gallery                 P595 
-OL,6,CMRusty595 Gallery                 P595 
-OL,7,FFFri 3rd May 2019                      
-OL,8, GA prolific artist who is interviewed  
-OL,9, Gover atAwww.teletextart.co.uk         
-OL,11,CM2018 Xmas Advent Calendar        P899 
-OL,12,CM2018 Xmas Advent Calendar        P899 
-OL,13,FFSat 1st December 2018                 
-OL,14,GGFrom ARDText                          
-OL,15,G                                       
-OL,16,CMKnightmare                       P896 
-OL,17,CMKnightmare                       P896 
-OL,18,FFThu 18th October 2018                 
-OL,19,GGShown on ITV Teletext Xmas 1993.      
-OL,20,GGThe game from the CITV                
-OL,21,GGchildren's adventure game show.       
-OL,22,G                                       
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,AArtists   BTV Reviews C Andy   FBlippy 
-FL,500,430,587,585,100,100
+OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,5,C                                       
+OL,6,CMBlippy Pixel                     P585 
+OL,7,CMBlippy Pixel                     P585 
+OL,8,FFMon 27th May 2019                     
+OL,9,GGA contributer to 'Mistigris' and      
+OL,10,AGactive creator of art with a SciFi    
+OL,11,AGflavour on the BBC Micro.             
+OL,12,C                                       
+OL,13,CMRusty595 Gallery                 P595 
+OL,14,CMRusty595 Gallery                 P595 
+OL,15,FFFri 3rd May 2019                      
+OL,16,GGA prolific artist who is interviewed  
+OL,17,AGover atAwww.teletextart.co.uk         
+OL,18,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,19,CM2018 Xmas Advent Calendar        P899 
+OL,20,CM2018 Xmas Advent Calendar        P899 
+OL,21,FFSat 1st December 2018                 
+OL,22,GGFrom ARDText                          
+OL,23,G                                       
+OL,24, AStPat     BPAX     CArtists     FAndy@
+FL,899,599,500,587,100,100
 PN,10103
 SC,0003
 PS,8000
-CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
 OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,G                                       
-OL,6,CMDas Wasser des Lebens            P195 
-OL,7,CMDas Wasser des Lebens            P195 
-OL,8,FFWed 17th October 2018                 
-OL,9,GGAnd other Fairy Tales shown on ARDText
-OL,10,GGChristmas 2017                        
+OL,5,CMKnightmare                       P896 
+OL,6,CMKnightmare                       P896 
+OL,7,FFThu 18th October 2018                 
+OL,8,GGShown on ITV Teletext Xmas 1993.      
+OL,9,GGThe game from the CITV                
+OL,10,GGchildren's adventure game show.       
 OL,11,G                                       
-OL,13,CM                                      
-OL,14,CMCat Gallery                      P599 
-OL,15,CMCat Gallery                      P599 
-OL,16,F Fri 14th September, 2018              
-OL,17,G Lots of new additions recenty with a  
-OL,18,G special appearance from the           
-OL,19,G "Cat-Man!".                           
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,AArtists   BTV Reviews C Andy   FBlippy 
-FL,500,430,587,585,100,100
+OL,12,CMDas Wasser des Lebens            P195 
+OL,13,CMDas Wasser des Lebens            P195 
+OL,14,FFWed 17th October 2018                 
+OL,15,GGAnd other Fairy Tales shown on ARDText
+OL,16,GGChristmas 2017                        
+OL,17,G                                       
+OL,18,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,19,CMCat Gallery                      P599 
+OL,20,CMCat Gallery                      P599 
+OL,21,F Fri 14th September, 2018              
+OL,22,G Lots of new additions recenty with a  
+OL,23,G special appearance from the           
+OL,24, AStPat     BPAX     CArtists     FAndy@
+FL,899,599,500,587,100,100
 PN,10104
 SC,0004
 PS,8000
-CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
 OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,CMHorsenburger on ARD Text         P522 
-OL,6,CMHorsenburger on ARD Text         P522 
-OL,7,FFTue 4th September, 2018               
-OL,8,GG"Pixelkunst im Teletext 2018"         
-OL,9,GGUpdated daily.                        
-OL,10,AAwww.ard-text.de/index.php?page=840    
-OL,11,F                                       
-OL,12,CMKCET                             P194 
-OL,13,CMKCET                             P194 
-OL,14,FFMon 3rd September, 2018               
-OL,15,GGIn Los Angeles in 1980, KCET a        
-OL,16,GGPublic Broadcasting Service (PBS)     
-OL,17,GGdid a trial of broadcast teletext     
-OL,18,GGHere are the pages they mocked up     
-OL,19,GGslighly adjusted to work on our       
-OL,20,GGTeletext system.Awww.richardgingras   
-OL,21,AA.com/background/products/teletext/    
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,AArtists   BTV Reviews C Andy   FBlippy 
-FL,500,430,587,585,100,100
+OL,5,G "Cat-Man!".                           
+OL,6,G                                       
+OL,7,CMHorsenburger on ARD Text         P522 
+OL,8,CMHorsenburger on ARD Text         P522 
+OL,9,FFTue 4th September, 2018               
+OL,10,GG"Pixelkunst im Teletext 2018"         
+OL,11,GGUpdated daily.                        
+OL,12,AAwww.ard-text.de/index.php?page=840    
+OL,13,C                                       
+OL,14,F                                       
+OL,15,G                                       
+OL,16,G                                       
+OL,17,G                                       
+OL,18,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,19,CMKCET                             P194 
+OL,20,CMKCET                             P194 
+OL,21,FFMon 3rd September, 2018               
+OL,22,GGIn Los Angeles in 1980, KCET a        
+OL,23,GGPublic Broadcasting Service (PBS)     
+OL,24, AStPat     BPAX     CArtists     FAndy@
+FL,899,599,500,587,100,100
 PN,10105
 SC,0005
 PS,8000
-CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
 OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,CMMatthew Eagles                   P193 
-OL,6,CMMatthew Eagles                   P193 
-OL,7,F Wed 29th August, 2018                 
-OL,8,G An interesting assortment of          
-OL,9,G statistics about the UK, Europe       
-OL,10,G and the World. With Flags!            
-OL,11,A www.mattheweagles.co.uk               
-OL,13,CMJellica                          P590 
-OL,14,CMJellica                          P590 
-OL,15,F Wed 21st February, 2018               
-OL,16,G Art from Jellica.                     
+OL,5,GGdid a trial of broadcast teletext     
+OL,6,GGHere are the pages they mocked up     
+OL,7,GGslighly adjusted to work on our       
+OL,8,GGTeletext system.Awww.richardgingras   
+OL,9,AA.com/background/products/teletext/    
+OL,10,G                                       
+OL,11,CMMatthew Eagles                   P193 
+OL,12,CMMatthew Eagles                   P193 
+OL,13,F Wed 29th August, 2018                 
+OL,14,G An interesting assortment of          
+OL,15,G statistics about the UK, Europe       
+OL,16,G and the World. With Flags!            
+OL,17,A www.mattheweagles.co.uk               
+OL,18,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,19,CMJellica                          P590 
+OL,20,CMJellica                          P590 
+OL,21,F Wed 21st February, 2018               
+OL,22,G Art from Jellica.                     
+OL,23,G                                       
+OL,24, AStPat     BPAX     CArtists     FAndy@
+FL,899,599,500,587,100,100
+PN,10106
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q<,lR<,lT<,lQ||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jT5jQ]Sjjju5~{"!%~s ~k4155  
+OL,3,QuszRuszTuszQ]S+..*%%/* /  ,' /*%/$--'  
+OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,5,AMEvilkeg                          P186 
+OL,6,AMEvilkeg                          P186 
+OL,7,F Wed 21st February, 2018               
+OL,8,G All the latest beer news.             
+OL,9,G                                       
+OL,10,CMCat Gallery                      P599 
+OL,11,CMCat Gallery                      P599 
+OL,12,F Sat 17th February, 2018               
+OL,13,G Assorted Felines for your consider-   
+OL,14,G ration, including 'HYPNO-CAT' (To be  
+OL,15,G viewed at your own risk).             
+OL,16,G                                       
 OL,17,G                                       
-OL,18,AMEvilkeg                          P186 
-OL,19,AMEvilkeg                          P186 
-OL,20,F Wed 21st February, 2018               
-OL,21,G All the latest beer news.             
-OL,22,G                                       
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,AArtists   BTV Reviews C Andy   FBlippy 
-FL,500,430,587,585,100,100
+OL,18,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24, AStPat     BPAX     CArtists     FAndy@
+FL,899,599,500,587,100,100
