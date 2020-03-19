@@ -8,6 +8,29 @@ CT,15,C
 RE,0
 OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]CRock Around the Clock               
+OL,3,                                    1/7 
+OL,5,  C     One, two, three o'clock,        
+OL,6,=======   four o'clock rock.            
+OL,7,: : : : Five, six, seven o'clock        
+OL,8,:`````:   eight o'clock rock.           
+OL,9,: : : : Nine, ten, eleven o'clock,      
+OL,10,:`````:   twelve o'clock rock,          
+OL,11,: : :  We're going to ...              
+OL,12,:`````:                                 
+OL,13,: : : :                                 
+OL,14,:`````:                                 
+OL,15,: : : :                                 
+OL,16,:`````:                                 
+OL,23,D]GBill Haley and the Comets            
+OL,24, A                              FHome   
+FL,601,0,0,0,0,600
+PN,61102
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,MD]CRock Around the Clock               
 OL,3,                                    2/7 
 OL,5,  G7    ... rock - around - the clock   
 OL,6,=======   tonight.                      
@@ -22,10 +45,10 @@ OL,14,:`````:
 OL,15,: : : :                                 
 OL,16,:`````:                                 
 OL,23,D]GBill Haley and the Comets            
-OL,24, AHome B.       C.         F.           
+OL,24, A                              FHome   
 FL,601,0,0,0,0,600
-PN,61102
-SC,0002
+PN,61103
+SC,0003
 PS,8000
 CT,8,T
 RE,0
@@ -45,10 +68,10 @@ OL,14,:`````:
 OL,15,: : : :                                 
 OL,16,:`````:                                 
 OL,23,D]GBill Haley and the Comets            
-OL,24, AHome B.       C.         F.           
+OL,24, A                              FHome   
 FL,601,0,0,0,0,600
-PN,61103
-SC,0003
+PN,61104
+SC,0004
 PS,8000
 CT,8,T
 RE,0
@@ -68,10 +91,10 @@ OL,14,:`````:
 OL,15,: : : :                                 
 OL,16,:`````:                                 
 OL,23,D]GBill Haley and the Comets            
-OL,24, AHome B.       C.         F.           
+OL,24, A                              FHome   
 FL,601,0,0,0,0,600
-PN,61104
-SC,0004
+PN,61105
+SC,0005
 PS,8000
 CT,8,T
 RE,0
@@ -91,10 +114,10 @@ OL,14,:`````:
 OL,15,: : : :                                 
 OL,16,:`````:                                 
 OL,23,D]GBill Haley and the Comets            
-OL,24, AHome B.       C.         F.           
+OL,24, A                              FHome   
 FL,601,0,0,0,0,600
-PN,61105
-SC,0005
+PN,61106
+SC,0006
 PS,8000
 CT,8,T
 RE,0
@@ -114,10 +137,10 @@ OL,14,:`````:
 OL,15,: : : :                                 
 OL,16,:`````:                                 
 OL,23,D]GBill Haley and the Comets            
-OL,24, AHome B.       C.         F.           
+OL,24, A                              FHome   
 FL,601,0,0,0,0,600
-PN,61106
-SC,0006
+PN,61107
+SC,0007
 PS,8000
 CT,8,T
 RE,0
@@ -137,5 +160,5 @@ OL,14,:`````:
 OL,15,: : : :                                 
 OL,16,:`````:                                 
 OL,23,D]GBill Haley and the Comets            
-OL,24, AHome B.       C.         F.           
+OL,24, A                              FHome   
 FL,601,0,0,0,0,600

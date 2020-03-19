@@ -4,7 +4,7 @@ SP,Z:\Documents\Projects\Teletext pages\teletext\P604-UkeFax.tti
 PN,60401
 SC,0001
 PS,8000
-CT,15,C
+CT,25,C
 RE,0
 OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]CTuning your ukulele                 
@@ -27,7 +27,7 @@ OL,20, FWhen you are near the correct tuning
 OL,21, Fyou can tweak it with your tuner.     
 OL,22,                                    1/2 
 OL,23,D]GWhat ukulele fits your needs?        
-OL,24, ANext B       .C         .F     Home   
+OL,24, ANext                          FHome   
 FL,605,0,0,601,0,600
 PN,60402
 SC,0002
@@ -51,5 +51,5 @@ OL,17,F Whatever strings you fit you'll be
 OL,18,F constantly retuning for a few days.   
 OL,22,                                    2/2 
 OL,23,D]GGood strings help                    
-OL,24, AHome B.       C.         F.           
+OL,24, ANext                          FHome   
 FL,605,0,0,601,0,600

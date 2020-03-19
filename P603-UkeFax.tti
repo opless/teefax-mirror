@@ -4,7 +4,7 @@ SP,Z:\Documents\Projects\Teletext pages\teletext\P603-UkeFax.tti
 PN,60301
 SC,0001
 PS,8000
-CT,15,C
+CT,25,C
 RE,0
 OL,0,XXXXXXXXUKEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]CChoosing a Ukulele                  
@@ -24,8 +24,8 @@ OL,18, Ffor so you can spot any problems
 OL,19, Fbefore you get your wallet out.       
 OL,22,                                    1/5 
 OL,23,D]GWhat ukulele?                        
-OL,24, ANext B.       C.         F.           
-FL,604,0,0,0,0,600
+OL,24, ANext                          FHome   
+FL,604,0,0,601,0,600
 PN,60302
 SC,0002
 PS,8000
@@ -50,8 +50,8 @@ OL,20, Fcheap it will have accurate geometry
 OL,21, Fand as a bonus it is waterproof.      
 OL,22,                                    2/5 
 OL,23,D]GWhat ukulele fits your needs?        
-OL,24, ANext BPrev    C.         F.           
-FL,604,0,0,0,0,600
+OL,24, ANext                          FHome   
+FL,604,0,0,601,0,600
 PN,60303
 SC,0003
 PS,8000
@@ -77,8 +77,8 @@ OL,20,F on the neck joint and the bridge.
 OL,21,F A geared machine head will keep tune  
 OL,22,F better than friction pegs.G       3/5 
 OL,23,D]GDo basic checks                      
-OL,24, ANext BPrev    C.         F.           
-FL,604,0,0,0,0,600
+OL,24, ANext                          FHome   
+FL,604,0,0,601,0,600
 PN,60304
 SC,0004
 PS,8000
@@ -105,8 +105,8 @@ OL,20,F the frets. Too high and you will find
 OL,21,F it difficult to hold down high chords.
 OL,22,                                    4/5 
 OL,23,D]GNut to saddle                        
-OL,24, AHomeB  Prev  C.         F.            
-FL,604,0,0,0,0,600
+OL,24, ANext                          FHome   
+FL,604,0,0,601,0,600
 PN,60305
 SC,0005
 PS,8000
@@ -128,5 +128,5 @@ OL,18, FMetal ukes are shiny and louder.
 OL,20,F Fancy inlay decoration                
 OL,22,                                    5/5 
 OL,23,D]GWhat ukulele?                        
-OL,24, AHome BBack    C.         F.           
-FL,604,0,0,0,0,600
+OL,24, ANext                          FHome   
+FL,604,0,0,601,0,600
