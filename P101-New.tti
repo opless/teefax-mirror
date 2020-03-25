@@ -1,10 +1,12 @@
+DE,What's new
 DS,inserter
-CT,10,C
+SP,Z:\Documents\Projects\Teletext pages\teletext\P101-New.tti
 PN,10101
 SC,0001
 PS,8000
+CT,10,C
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
@@ -12,81 +14,47 @@ OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,5,CMSt.Patricks Day                  P174 
 OL,6,CMSt.Patricks Day                  P174 
 OL,7,FFTue 17th March 2020                   
-OL,8,GGThanks to Illarterate                 
-OL,9,AGToo bad the pubs are closed!          
-OL,10,C                                       
-OL,11,CMCat Gallery                      P599 
-OL,12,CMCat Gallery                      P599 
-OL,13,F Mon 16th March 2020                   
-OL,14,G A message from 'PAX'                  
-OL,15,G joins over 60 pages of                
-OL,16,G Feline Fun!                           
-OL,17,G                                       
-OL,18,B                                       
-OL,19,B                                       
-OL,20,B                                       
-OL,21,B                                       
-OL,22,B                                       
-OL,23,B                                       
-OL,24, AStPats     BPAX     CArtists    FAndy@
-FL,174,599,500,587,100,100
+OL,8,  Thanks to Illarterate                 
+OL,9,  Too bad the pubs are closed!          
+OL,11,CMBamboozle                        P818 
+OL,13,FFTue 17th March 2020                   
+OL,14,  Stroud-themed quiz originally         
+OL,15,  shown on Fringefax in 2015.           
+OL,17,CMCat Gallery                      P599 
+OL,18,CMCat Gallery                      P599 
+OL,19,FFMon 16th March 2020                   
+OL,20,  A message from 'PAX'                  
+OL,21,  joins over 60 pages of                
+OL,22,  Feline Fun!                           
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A1/2 
+OL,24, AStPats  BBamboozle C PAX  FTV Reviews 
+FL,174,818,599,430,100,100
 PN,10102
 SC,0002
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,B                                       
-OL,6,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,7,CMAndy Jenkinson                   P587 
-OL,8,CMAndy Jenkinson                   P587 
-OL,9,FFWed 5th June 2019                     
-OL,10,GGTV idents and more! From:             
-OL,11,AAwww.twitter/andyuglifruit             
-OL,12,C                                       
-OL,13,CMBlippy Pixel                     P585 
-OL,14,CMBlippy Pixel                     P585 
-OL,15,FFMon 27th May 2019                     
-OL,16,GGA contributer to 'Mistigris' and      
-OL,17,AGactive creator of art with a SciFi    
-OL,18,AGflavour on the BBC Micro.             
-OL,19,C                                       
-OL,20,CMRusty595 Gallery                 P595 
-OL,21,CMRusty595 Gallery                 P595 
-OL,22,FFFri 3rd May 2019                      
-OL,23,GGA prolific artist who is interviewed  
-OL,24, AStPats     BPAX     CArtists    FAndy@
-FL,174,599,500,587,100,100
-PN,10103
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
-OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,AGover atAwww.teletextart.co.uk         
-OL,6,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,7,                                        
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24, AStPats     BPAX     CArtists    FAndy@
-FL,174,599,500,587,100,100
+OL,5,CMTV Reviews                       P430 
+OL,7,FFSun 15th March 2020                   
+OL,8,  Reviews of the teletext decoders in   
+OL,9,  TV sets from the CRT era up to today. 
+OL,10,  Contributions welcome!                
+OL,11,CMAndy Jenkinson                   P587 
+OL,12,CMAndy Jenkinson                   P587 
+OL,13,FFWed 5th June 2019                     
+OL,14,  TV idents and more! From:             
+OL,15,AAwww.twitter/andyuglifruit             
+OL,17,CMBlippy Pixel                     P585 
+OL,18,CMBlippy Pixel                     P585 
+OL,19,FFMon 27th May 2019                     
+OL,20,  A contributer to 'Mistigris' and      
+OL,21,  active creator of art with a SciFi    
+OL,22,  flavour on the BBC Micro.             
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A2/2 
+OL,24, AStPats  BBamboozle C PAX  FTV Reviews 
+FL,174,818,599,430,100,100
