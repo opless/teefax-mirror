@@ -17,7 +17,7 @@ OL,8, channels. Here are some relevant test
 OL,9, pages on TEEFAX:                       
 OL,10,B Decoder Level Test ............. P757 
 OL,11,C Blue Gradient Test ............. P756 
-OL,12,F Colour pallette mapping tests .. P754 
+OL,12,F Colour palette mapping tests ... P754 
 OL,14,CText aspect ratio (see P710)           
 OL,15, Some widescreen TVs stretch the text   
 OL,16, to fill the screen. Normal (pillarbox) 
@@ -35,7 +35,7 @@ OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 INFO    
 OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/3 
 OL,5,CBurn-in                                
-OL,6, OLED and Plasma TVs are suspectible to 
+OL,6, OLED and Plasma TVs are susceptible to 
 OL,7, permanent burn-in from static images.  
 OL,8, On these display types, it's worth     
 OL,9, checking if this has been mitigated,   
@@ -47,7 +47,7 @@ OL,15, include whether or not any burn-in
 OL,16, reduction features work when using     
 OL,17, teletext.                              
 OL,19, On OLEDs withARBGDBGW subpixels, red is
-OL,20, the most suspectible colour. Fortunate-
+OL,20, the most susceptible colour. Fortunate-
 OL,21, ly, red is used infrequently, but watch
 OL,22, out for yellow headings and red Fastext
 OL,23, links!                                 
