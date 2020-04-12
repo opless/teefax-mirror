@@ -1,60 +1,30 @@
-DE,What's new
-DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext\P101-New.tti
-PN,10101
-SC,0001
+PN,10100
+SC,0000
 PS,8000
-CT,10,C
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
 OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,CMSt.Patricks Day                  P174 
-OL,6,CMSt.Patricks Day                  P174 
-OL,7,FFTue 17th March 2020                   
-OL,8,  Thanks to Illarterate                 
-OL,9,  Too bad the pubs are closed!          
-OL,11,CMBamboozle                        P818 
-OL,13,FFTue 17th March 2020                   
-OL,14,  Stroud-themed quiz originally         
-OL,15,  shown on Fringefax in 2015.           
-OL,17,CMCat Gallery                      P599 
-OL,18,CMCat Gallery                      P599 
-OL,19,FFMon 16th March 2020                   
-OL,20,  A message from 'PAX'                  
-OL,21,  joins over 60 pages of                
-OL,22,  Feline Fun!                           
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A1/2 
-OL,24, AStPats  BBamboozle C PAX  FTV Reviews 
-FL,174,818,599,430,100,100
-PN,10102
-SC,0002
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
-OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
-OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,CMTV Reviews                       P430 
-OL,7,FFSun 15th March 2020                   
-OL,8,  Reviews of the teletext decoders in   
-OL,9,  TV sets from the CRT era up to today. 
-OL,10,  Contributions welcome!                
-OL,11,CMAndy Jenkinson                   P587 
-OL,12,CMAndy Jenkinson                   P587 
-OL,13,FFWed 5th June 2019                     
-OL,14,  TV idents and more! From:             
-OL,15,AAwww.twitter/andyuglifruit             
-OL,17,CMBlippy Pixel                     P585 
-OL,18,CMBlippy Pixel                     P585 
-OL,19,FFMon 27th May 2019                     
-OL,20,  A contributer to 'Mistigris' and      
-OL,21,  active creator of art with a SciFi    
-OL,22,  flavour on the BBC Micro.             
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A2/2 
-OL,24, AStPats  BBamboozle C PAX  FTV Reviews 
-FL,174,818,599,430,100,100
+OL,5,CMHappy Easter!                    P173 
+OL,6,CMHappy Easter                     P173 
+OL,7,FFSat 11th April 2020                   
+OL,8,C                                       
+OL,9,C                                       
+OL,10,C                                       
+OL,11,CMCOVID-19                         P172 
+OL,12,CMCOVID-19                         P172 
+OL,13,B                                       
+OL,14,B                                       
+OL,15,B                                       
+OL,16,CMBamboozle                        P818 
+OL,17,CMBamboozle                        P818 
+OL,18,FFTue 17th March 2020                   
+OL,19,GStroud-themed quiz originally          
+OL,20,Gshown on Fringefax in 2015.            
+OL,21,B                                       
+OL,22,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,                                        
+OL,24, AEaster BCOVID-19 CCOVID-19 FBamboozle@
+FL,173,172,172,818,100,100
