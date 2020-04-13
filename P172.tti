@@ -26,9 +26,9 @@ OL,18,P           T"mx8Qm(48h() T9xP
 OL,19,P             T#o4Quuuuu7Tx"!P          
 OL,20,P               T"Q",'''T!P             
 OL,21,P                                       
-OL,22,P               MG108,503        @      
-OL,23,P               MG108,503        @      
-OL,24,G                          11 April 2020
+OL,22,P               MG114,983        @      
+OL,23,P               MG114,983        @      
+OL,24,G                          13 April 2020
 FL,0,0,0,0,100,100
 PN,17202
 SC,0002
@@ -149,4 +149,94 @@ OL,21,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,22,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,24, AWorld Clock BStatus    C.    F.       
+FL,0,0,0,0,100,100
+PN,17206
+SC,0006
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVVh||4        |4   h|||                
+OL,2,T]Vj  /oj?*?    j j%5jo?j? 
+OL,3,T]Sjp0{ju 5`0  j j ujj5ju 
+OL,4,T]S"##!###j## #!"!  "# "# ###"#"!#j## 
+OL,5,GThere isn't any iceberg.               
+OL,6,G                                       
+OL,7,GThere was an iceberg but it's in a     
+OL,8,Gtotally different ocean.               
+OL,9,G                                       
+OL,10,GThe iceberg is in this ocean but it    
+OL,11,Gwill melt very soon.                   
+OL,12,G                                       
+OL,13,GThere is an iceberg but we didn't hit  
+OL,14,Gthe iceberg.                           
+OL,15,G                                       
+OL,16,GWe hit the iceberg, but the damage will
+OL,17,Gbe repaired very shortly.              
+OL,18,G                                       
+OL,19,GThe iceberg is a Chinese iceberg.      
+OL,20,G                                       
+OL,21,GWe are taking on water but every       
+OL,22,Gpassenger who wants a lifeboat can get 
+OL,23,Ga lifeboat, and they are beautiful     
+OL,24,Glifeboats.                             
+FL,0,0,0,0,100,100
+PN,17207
+SC,0007
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVVh||4        |4   h|||                
+OL,2,T]Vj  /oj?*?    j j%5jo?j? 
+OL,3,T]Sjp0{ju 5`0  j j ujj5ju 
+OL,4,T]S"##!###j## #!"!  "# "# ###"#"!#j## 
+OL,5,GLook, passengers need to ask nicely for
+OL,6,Gthe lifeboats if they want them.       
+OL,7,G                                       
+OL,8,GWe don't have any lifeboats, we're not 
+OL,9,Glifeboat distributors.                 
+OL,10,G                                       
+OL,11,GPassengers should have planned for     
+OL,12,Gicebergs and brought their own         
+OL,13,Glifeboats.                             
+OL,14,G                                       
+OL,15,GI really don't think we need that many 
+OL,16,Glifeboats.                             
+OL,17,G                                       
+OL,18,GWe have lifeboats and they're supposed 
+OL,19,Gto be our lifeboats, not the           
+OL,20,Gpassengers' lifeboats.                 
+OL,21,G                                       
+OL,22,GThe lifeboats were left on shore by the
+OL,23,Glast captain of this ship.             
+OL,24,                                        
+FL,0,0,0,0,100,100
+PN,17208
+SC,0008
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,VVVh||4        |4   h|||                
+OL,2,T]Vj  /oj?*?    j j%5jo?j? 
+OL,3,T]Sjp0{ju 5`0  j j ujj5ju 
+OL,4,T]S"##!###j## #!"!  "# "# ###"#"!#j## 
+OL,5,G                                       
+OL,6,GNobody could have foreseen the iceberg.
+OL,7,                                        
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
 FL,0,0,0,0,100,100
