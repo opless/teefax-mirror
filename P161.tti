@@ -1,12 +1,14 @@
-PN,16100
-SC,0000
+DS,inserter
+CT,20,T
+PN,16101
+SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,T7#css#cs3#s#s#s#ss3##s#cs3############k
-OL,2,T5 ## #    #   # DMDEATHS  Tj
-OL,3,T5          j5 // DMDEATHS  Tj
-OL,4,T5 || | o|?  |   |            j
+OL,2,T5 ## #    #   # D         Tj
+OL,3,T5          j5 // D Daily   Tj
+OL,4,T5 || | o|?  |   | D Deaths  Tj
 OL,5,Tuprssprsqppsppspssqppsprsqppppppppppppz
 OL,6,G                                       
 OL,7,D             Los Angeles               
@@ -17,6 +19,36 @@ OL,11,DMar23A     2   4   3   8   5   6   5
 OL,12,DMar30A     7  10  11  13  11  28  15   
 OL,13,DApr6 A    15  22  29  25  18  26  31   
 OL,14,DApr13A    25  40  42  55  ..  ..  ..   
+OL,15,                                        
+OL,16,G                                       
+OL,17,G                                       
+OL,18,G                                       
+OL,19,G                                       
+OL,20,G                                       
+OL,21,G                                       
+OL,22,G                                       
+OL,23,G                                       
+OL,24,G                                       
+FL,0,0,0,0,100,100
+PN,16102
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T7#css#cs3#s#s#s#ss3##s#cs3############k
+OL,2,T5 ## #    #   # D         Tj
+OL,3,T5          j5 // D Total   Tj
+OL,4,T5 || | o|?  |   | D Deaths  Tj
+OL,5,Tuprssprsqppsppspssqppsprsqppppppppppppz
+OL,6,G                                       
+OL,7,D             Los Angeles               
+OL,8,G                                       
+OL,9,D         Mon Tue Wed Thu Fri Sat Sun   
+OL,10,DMar15A     1   1   1   1   2   4   5   
+OL,11,DMar23A     7  11  13  21  26  32  37   
+OL,12,DMar30A    44  54  65  78  89 117 132   
+OL,13,DApr6 A   147 169 198 223 241 265 296   
+OL,14,DApr13A   320 360 402 455  ..  ..  ..   
 OL,15,                                        
 OL,16,G                                       
 OL,17,G                                       
