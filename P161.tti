@@ -1,62 +1,30 @@
-DS,inserter
-CT,20,T
-PN,16101
-SC,0001
+PN,16100
+SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVVh||4|4       |4      h||4|4ph4||t    
-OL,2,T]Vj  5?j/%}?j/% j| 5j55    
-OL,3,T]Sjp05ujp05bs5 j  uz5u    
-OL,4,T]S"##!#!###"##!#!#"##! "#  ####!##!    
-OL,5,G           LOS ANGELES, Sun 8 Mar, 2020
-OL,6,B                                       
-OL,7,AM      Daylight Saving Time Starts     
-OL,8,AM      Daylight Saving Time Starts     
-OL,9,C                                       
-OL,10,FAt 2am this morning the clocks will be 
-OL,11,Fmoved forwards one hour to 3am.        
-OL,12,F                                       
-OL,13,FIt will be darker in the mornings and  
-OL,14,Flighter in the evenings.               
-OL,15,F                                       
-OL,16,                W`x||($,|0              
-OL,17,                W~/y>m6%              
-OL,18,                W`|i}?~               
-OL,19,                Wjj?a~t{               
-OL,20,                W umu7               
-OL,21,                W 2omv3                
-OL,22,                W>+t~!"m0x              
-OL,23,                W  "%  Wo'              
-OL,24,                                        
-FL,0,0,0,0,100,100
-PN,16102
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,VVV  h|h4   h|       ||t         |4     
-OL,2,T]V  j0?jo5?  5jo5/oj?5     
-OL,3,T]S  jj5ujz5ws  ujs1{ju5     
-OL,4,T]S  "#"!###"##!###  ##!"##!###"##!     
-OL,5,G            CALABASUS, Sun 26 Jan, 2020
-OL,6,B                                       
-OL,7,BKobe Bryant, the NBA MVP who had a     
-OL,8,B20-year career with the Lakers, was    
-OL,9,Bkilled Sunday when the helicopter he   
-OL,10,Bwas traveling in crashed and burst into
-OL,11,Bflames in the hills above Calabasas.   
-OL,12,BHis daughter Gianna, 13, was also on   
-OL,13,Bboard and died along with seven others.
-OL,14,                                        
+OL,1,T7#css#cs3#s#s#s#ss3##s#cs3############k
+OL,2,T5 ## #    #   # DMDEATHS  Tj
+OL,3,T5          j5 // DMDEATHS  Tj
+OL,4,T5 || | o|?  |   |            j
+OL,5,Tuprssprsqppsppspssqppsprsqppppppppppppz
+OL,6,G                                       
+OL,7,D             Los Angeles               
+OL,8,G                                       
+OL,9,D         Mon Tue Wed Thu Fri Sat Sun   
+OL,10,DMar15A     .   .   .   .   1   2   1   
+OL,11,DMar23A     2   4   3   8   5   6   5   
+OL,12,DMar30A     7  10  11  13  11  28  15   
+OL,13,DApr6 A    15  22  29  25  18  26  31   
+OL,14,DApr13A    25  40  42  55  ..  ..  ..   
 OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
+OL,16,G                                       
+OL,17,G                                       
+OL,18,G                                       
+OL,19,G                                       
+OL,20,G                                       
+OL,21,G                                       
+OL,22,G                                       
+OL,23,G                                       
+OL,24,G                                       
 FL,0,0,0,0,100,100
