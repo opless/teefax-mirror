@@ -5,26 +5,26 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,T7#css#cs3#s#s#s#ss3##s#cs3############k
-OL,2,T5 ## #    #   # D         Tj
-OL,3,T5          j5 // D Daily   Tj
-OL,4,T5 || | o|?  |   | D Deaths  Tj
-OL,5,Tuprssprsqppsppspssqppsprsqppppppppppppz
-OL,6,G                                       
-OL,7,D             Los Angeles               
-OL,8,G                                       
-OL,9,D         Mon Tue Wed Thu Fri Sat Sun   
-OL,10,DMar15A     .   .   .   .   1   2   1   
-OL,11,DMar23A     2   4   3   8   5   6   5   
-OL,12,DMar30A     7  10  11  13  11  28  15   
-OL,13,DApr6 A    15  22  29  25  18  26  31   
-OL,14,DApr13A    25  40  42  55  ..  ..  ..   
-OL,15,                                        
-OL,16,G                                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,G                                       
-OL,20,G                                       
+OL,1,T7#####css#cs3#s#s#s#ss3##s#cs3########k
+OL,2,T5     ## #    #   # D     Tj
+OL,3,T5              j5 // D     Tj
+OL,4,T5     || | o|?  |   | D     Tj
+OL,5,Tuppppprssprsqppsppspssqppsprsqppppppppz
+OL,6,T                                       
+OL,7,DM              WEEK                    
+OL,8,DM              WEEK                    
+OL,9,T             ppppppp0  0  `    $  $    
+OL,10,T !"00  8,  $hu}t   0   0       
+OL,11,T `    "     5$"#### k3   !   6       
+OL,12,T  p3 `  ~  45   0   :+$     2        
+OL,13,T `b&  ,$"$ 5{2p0 09  0$  00  "2  !    
+OL,14,T `"!   `5*0!|}u"$  $       $$   
+OL,15,T       `   h7####"/}0               
+OL,16,T       5   *~5      o5               
+OL,17,T       )<!  ~}}hp  p`z5               
+OL,18,T    (.  "   }|~~~!               
+OL,19,T            +l,w?'                
+OL,20,T                                       
 OL,21,G                                       
 OL,22,G                                       
 OL,23,G                                       
@@ -37,6 +37,36 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,T7#css#cs3#s#s#s#ss3##s#cs3############k
 OL,2,T5 ## #    #   # D         Tj
+OL,3,T5          j5 // D Daily   Tj
+OL,4,T5 || | o|?  |   | D Deaths  Tj
+OL,5,Tuprssprsqppsppspssqppsprsqppppppppppppz
+OL,6,G                                       
+OL,7,D             Los Angeles               
+OL,8,G                                       
+OL,9,D         Mon Tue Wed Thu Fri Sat Sun   
+OL,10,D1 Mar15 A  .   .   .   .   1   2   1   
+OL,11,D2 Mar23 A  2   4   3   8   5   6   5   
+OL,12,D3 Mar30 A  7  10  11  13  11  28  15   
+OL,13,D4 Apr6  A 15  22  29  25  18  26  31   
+OL,14,D5 Apr13 A 25  40  42  55  40  ..  ..   
+OL,15,D6 Apr20 A ..  ..  ..  ..  ..  ..  ..   
+OL,16,D                                       
+OL,17,D                                       
+OL,18,D                                       
+OL,19,G                                       
+OL,20,G                                       
+OL,21,G                                       
+OL,22,G                                       
+OL,23,G                                       
+OL,24,G                                       
+FL,0,0,0,0,100,100
+PN,16103
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T7#css#cs3#s#s#s#ss3##s#cs3############k
+OL,2,T5 ## #    #   # D         Tj
 OL,3,T5          j5 // D Total   Tj
 OL,4,T5 || | o|?  |   | D Deaths  Tj
 OL,5,Tuprssprsqppsppspssqppsprsqppppppppppppz
@@ -44,16 +74,16 @@ OL,6,G
 OL,7,D             Los Angeles               
 OL,8,G                                       
 OL,9,D         Mon Tue Wed Thu Fri Sat Sun   
-OL,10,DMar15A     1   1   1   1   2   4   5   
-OL,11,DMar23A     7  11  13  21  26  32  37   
-OL,12,DMar30A    44  54  65  78  89 117 132   
-OL,13,DApr6 A   147 169 198 223 241 265 296   
-OL,14,DApr13A   320 360 402 455  ..  ..  ..   
-OL,15,                                        
-OL,16,G                                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,G                                       
+OL,10,D1 Mar15 A  1   1   1   1   2   4   5   
+OL,11,D2 Mar23 A  7  11  13  21  26  32  37   
+OL,12,D3 Mar30 A 44  54  65  78  89 117 132   
+OL,13,D4 Apr6  A147 169 198 223 241 265 296   
+OL,14,D5 Apr13 A320 360 402 455 495 ... ...   
+OL,15,D6 Apr20 A... ... ... ... ... ... ...   
+OL,16,D                                       
+OL,17,D                                       
+OL,18,D                                       
+OL,19,D                                       
 OL,20,G                                       
 OL,21,G                                       
 OL,22,G                                       
