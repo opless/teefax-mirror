@@ -1,6 +1,6 @@
 DE,Reviews Index
 DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext\P400.tti
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P400.tti
 PN,40000
 SC,0000
 PS,8000
@@ -14,10 +14,10 @@ OL,5,R~k4~k4hj5   (l0n= j5(l0x$n=  S  jd  =0
 OL,6,Rj5oz%ozz%p  n{5j5 j5n{5{%j5000Sf; (s% 
 OL,7,R`````````ba````````````````````````````
 OL,8,FReviewing the compilation albums CP420 
-OL,10,S##j5  {$3j5j53j55hw1C           
-OL,11,S /  +!  /*%/, +!*%/, ++!(.!C      P430 
-OL,13,Q~{4k4j51{$k7hwq C                  
-OL,14,Q/*%/.!"' /$/*%*%(,' C             P817 
+OL,10,W=$=0v$h7}j?}hw= f!=464555  C     C     
+OL,11,W)$%%)$"-'*%/"-, ,!%%)!)-!  C     CP410 
+OL,13,S##j5  {$3j5j53j55hw1C     C     
+OL,14,S /  +!  /*%/, +!*%/, ++!(.!C     CP430 
 OL,16,R?4//   R*/%j5*/%G```````````````````
 OL,17,R55joj5j5/%ojVo}0"o}0"
 OL,18,R55jjj5j5j5/o5./jV 0+t +t
@@ -25,5 +25,5 @@ OL,19,R///!//*/o*/%*/%*/%///%////*/G`````````
 OL,20,      R*///G                            
 OL,21,BThe classic games mag, 2018 styleCP470 
 OL,22,BFirst issue CP370   BFinal issue CP175 
-OL,24,A  Now B  Ads   C  Digi F Art Archive   
-FL,420,451,470,200,8ff,100
+OL,24,ANow BThe One ShowCTV Reviews FDigitiser
+FL,420,410,430,470,8ff,100

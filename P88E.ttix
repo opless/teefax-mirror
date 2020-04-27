@@ -1,6 +1,6 @@
 DE,
 DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext\P88E.ttix
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P88E.ttix
 PN,88e00
 SC,0000
 PS,8040
@@ -30,5 +30,5 @@ OL,20,Wj*C 0-2 FSad                        W%5
 OL,21,W"-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.!
 OL,22,A```````````````````````````````````````
 OL,23,D]                                      
-OL,24,AIndex  BEvents  CStroudfax  FBamboozle 
+OL,24,AIndex  BEvents  CFringefax  FBamboozle 
 FL,100,800,815,150,8ff,100
