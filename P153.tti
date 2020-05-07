@@ -7,17 +7,22 @@ FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
 OL,1,G]MDTELETEXT TWITTER 01/10        V)l'
 OL,3,V#######################################
-OL,4,``````F@HorsenburgerG|F07-May-2020 09:35
+OL,4,``````F@HorsenburgerG|F07-May-2020 11:57
 OL,5,GName the artist or album
 OL,6,G_albumcoverchallenge _albumcover
 OL,7,G_albumcoversinlockdown _teletext
 OL,8,G<LINK>
-OL,9,```F@WayneMa36852027G|F07-May-2020 09:31
-OL,10,GMade a video for _TikTok on _Ceefax
-OL,11,Gand nobody gave two shits! Maybe
-OL,12,Gsomeone here will appreciate it
-OL,13,G_Teletext _90s _Nostalgia
-OL,14,G_ThrowbackThursday <LINK>
+OL,9,``````F@HorsenburgerG|F07-May-2020 09:35
+OL,10,GName the artist or album
+OL,11,G_albumcoverchallenge _albumcover
+OL,12,G_albumcoversinlockdown _teletext
+OL,13,G<LINK>
+OL,14,```F@WayneMa36852027G|F07-May-2020 09:31
+OL,15,GMade a video for _TikTok on _Ceefax
+OL,16,Gand nobody gave two shits! Maybe
+OL,17,Gsomeone here will appreciate it
+OL,18,G_Teletext _90s _Nostalgia
+OL,19,G_ThrowbackThursday <LINK>
 OL,24,                                        
 PN,15302
 SC,0002
@@ -228,13 +233,5 @@ OL,6,GV.22,m:F.i=0TO4:C=RND(16):V.17A.m<7,(1
 OL,7,G28+(8A.C>8)A.m=7)+C:P."No More
 OL,8,GSecrets":N.:G.. REM _teletext colours
 OL,9,Gtoo!
-OL,10,``````F@ITV MemoriesG|F03-May-2020 19:24
-OL,11,GMake no mistake, if you're talking ITV
-OL,12,GMemories, Teletext services over the
-OL,13,Gdecades are very much part of the rich
-OL,14,Gtapestry. Frankly, if you weren't
-OL,15,Gpaging the Oracle back in the day, how
-OL,16,Gdid you ever find out about anything?
-OL,17,G_Oracle _Teletext _itvmemories <LINK>
 OL,24,                                        
-OL,26,@mD@ZporD@KposD@Xo\vD@`o\
+OL,26,@mD@Zpo
