@@ -16,16 +16,16 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FVirgin Chilled     BAbsolute Rad 90s   
-OL,5,FScala Radio        BLove SPORT         
-OL,6,FtalkRADIO          BtalkSPORT 2        
-OL,7,FVirgin Radio       BMellow Magic       
-OL,8,FPlanet Rock        BAbsolute Rad 80s   
-OL,9,FSunrise Radio UK   BUCB 2              
-OL,10,FPremierChristian   BPremier Praise     
-OL,11,FFun Kids UK        BJazz FM Stereo     
-OL,12,FUnion JACK         BBFBS UK            
-OL,13,FJACK Radio (UK)    BVirgin Anthems     
+OL,4,FtalkRADIO          BtalkSPORT 2        
+OL,5,FVirgin Radio       BMellow Magic       
+OL,6,FPlanet Rock        BAbsolute Rad 80s   
+OL,7,FSunrise Radio UK   BUCB 2              
+OL,8,FPremierChristian   BPremier Praise     
+OL,9,FFun Kids UK        BJazz FM Stereo     
+OL,10,FUnion JACK         BBFBS UK            
+OL,11,FJACK Radio (UK)    BVirgin Anthems     
+OL,12,FVirgin Chilled     BAbsolute Rad 90s   
+OL,13,FScala Radio        BLove SPORT         
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -64,9 +64,9 @@ SC,0005
 OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
 OL,4,FBBC Radio 1        BBBC Radio 2        
-OL,5,FBBC Radio 3        BBBC Radio 4Extra   
-OL,6,FBBC Radio 4        BBBC Radio 5 Live   
-OL,7,FBBC Radio 6Music   BBBC Radio 1Xtra    
+OL,5,FBBC Radio 3        BBBC Radio 4        
+OL,6,FBBC Radio 4Extra   BBBC Radio 1Xtra    
+OL,7,FBBC Radio 5 Live   BBBC Radio 6Music   
 OL,8,FBBC AsianNetwork   BBBC WorldService   
 OL,9,FBBC Guide        (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
