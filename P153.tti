@@ -5,107 +5,123 @@ PN,15301
 SC,0001
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
-OL,1,G]MDTELETEXT TWITTER 01/08        V)l'
+OL,1,G]MDTELETEXT TWITTER 01/09        V)l'
 OL,3,V#######################################
-OL,4,``````````F@rheolismG|F10-May-2020 20:39
-OL,5,G@bbcmicrobot 0V.30:?&D0=2:!-512=&B3402
-OL,6,G:DIMD$(6):F.L=0TO63:C=0:F.B=0TO5:C=C+(
-OL,7,G1A.L/2 B):N.:D$(C)=D$(C)+CHR$(L+32OR16
-OL,8,G0):N. 1F.Y=-36TO36S.3:G=146:R=9:F.X=-3
-OL,9,G8TO38S.2:S=6-(Y*Y+X*X)*.0034+RND(1):IF
-OL,10,GS>=1V.G:G=0:R=32:P.MI.D$(S),RND(LEND$(
-OL,11,GS)),1);EL.V.R
-OL,12,G2N.:V.G:N.:V.21,_teletext _greenscreen
-OL,13,G_encore
-OL,14,``````````F@mistfunkG|F10-May-2020 19:18
-OL,15,GMistigram: _teletext _extraterrestrial
-OL,16,Gdrawn by @illarterate, included in the
-OL,17,GMIST0717 artpack collection. <LINK>
-OL,18,G<LINK>
+OL,4,``````````F@mistfunkG|F11-May-2020 02:28
+OL,5,GMistigram: this _teletext screen of
+OL,6,G_Nono, robot companion of _Ulysses31,
+OL,7,Gwas drawn by @horsenburger and
+OL,8,Gincluded in the science fiction-themed
+OL,9,GMIST0518 artpack collection released
+OL,10,Gtwo years ago this month. <LINK>
+OL,11,G<LINK>
+OL,12,``````````F@rheolismG|F10-May-2020 20:39
+OL,13,G@bbcmicrobot 0V.30:?&D0=2:!-512=&B3402
+OL,14,G:DIMD$(6):F.L=0TO63:C=0:F.B=0TO5:C=C+(
+OL,15,G1A.L/2 B):N.:D$(C)=D$(C)+CHR$(L+32OR16
+OL,16,G0):N. 1F.Y=-36TO36S.3:G=146:R=9:F.X=-3
+OL,17,G8TO38S.2:S=6-(Y*Y+X*X)*.0034+RND(1):IF
+OL,18,GS>=1V.G:G=0:R=32:P.MI.D$(S),RND(LEND$(
+OL,19,GS)),1);EL.V.R
+OL,20,G2N.:V.G:N.:V.21,_teletext _greenscreen
+OL,21,G_encore
 OL,24,                                        
-OL,26,@oD@GPo
+OL,26,@wD@GPo
 PN,15302
 SC,0002
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
-OL,1,G]MDTELETEXT TWITTER 02/08        V)l'
+OL,1,G]MDTELETEXT TWITTER 02/09        V)l'
 OL,3,V#######################################
-OL,4,````````F@ardtext777G|F10-May-2020 18:42
-OL,5,GHallo zusammen! Gleich geht es wieder
-OL,6,Glos mit unserem _Teletwitter zum
-OL,7,Gheutigen Tatort. Viel Spas euch dabei
-OL,8,Gauf _Teletext-Seite 777!
-OL,9,````````F@TimBisley5G|F10-May-2020 15:08
-OL,10,GFX from 27th January 1992  News + Tips
-OL,11,G2/2  _teletext <LINK>
-OL,12,````````F@TimBisley5G|F10-May-2020 15:03
-OL,13,GFX from 27th January 1992  Atari ST
-OL,14,GCharts + Amiga Budget Roundup  1/2
-OL,15,G_teletext _Atari <LINK>
-OL,16,````````F@sontolheadG|F10-May-2020 12:54
-OL,17,GHAHAHA RONALDINHO SOCCER (SOCSER)
-OL,18,G_teletext <LINK>
-OL,19,````````F@sontolheadG|F10-May-2020 12:03
-OL,20,Gas seen on mosque (or tanahabang)
-OL,21,G_teletext <LINK>
+OL,4,``````````F@mistfunkG|F10-May-2020 19:18
+OL,5,GMistigram: _teletext _extraterrestrial
+OL,6,Gdrawn by @illarterate, included in the
+OL,7,GMIST0717 artpack collection. <LINK>
+OL,8,G<LINK>
+OL,9,````````F@ardtext777G|F10-May-2020 18:42
+OL,10,GHallo zusammen! Gleich geht es wieder
+OL,11,Glos mit unserem _Teletwitter zum
+OL,12,Gheutigen Tatort. Viel Spas euch dabei
+OL,13,Gauf _Teletext-Seite 777!
+OL,14,````````F@TimBisley5G|F10-May-2020 15:08
+OL,15,GFX from 27th January 1992  News + Tips
+OL,16,G2/2  _teletext <LINK>
+OL,17,````````F@TimBisley5G|F10-May-2020 15:03
+OL,18,GFX from 27th January 1992  Atari ST
+OL,19,GCharts + Amiga Budget Roundup  1/2
+OL,20,G_teletext _Atari <LINK>
 OL,24,                                        
-OL,26,@oD@Zo}
+OL,26,@tD@Zo}
 PN,15303
 SC,0003
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
-OL,1,G]MDTELETEXT TWITTER 03/08        V)l'
+OL,1,G]MDTELETEXT TWITTER 03/09        V)l'
 OL,3,V#######################################
-OL,4,```````F@illarterateG|F10-May-2020 11:20
-OL,5,GDun dun dunnn! It's the
-OL,6,G_TeletextBlockParty Blockdown Party
-OL,7,Gart contest results. Who were the
-OL,8,Gwinners?  <LINK>  Also includes a LIVE
-OL,9,Gcollaborative _teletext artwork &
-OL,10,Gbrief review of Block Party.  Guests:
-OL,11,G@that other Carl, David Walford,
-OL,12,G@ZXGuesser & @PeterKVT80 <LINK>
-OL,13,```F@WayneMa36852027G|F10-May-2020 10:56
-OL,14,GI started my own _Ceefax _Teletext
-OL,15,Gappreciation page on _Instagram you
-OL,16,Gcan find it at
-OL,17,G"Ceefax Teletext Celebration" and I
-OL,18,Ghope you do   _Ceefax _Teletext
-OL,19,G_Nostalgia _TV _90s _Memories <LINK>
+OL,4,````````F@sontolheadG|F10-May-2020 12:54
+OL,5,GHAHAHA RONALDINHO SOCCER (SOCSER)
+OL,6,G_teletext <LINK>
+OL,7,````````F@sontolheadG|F10-May-2020 12:03
+OL,8,Gas seen on mosque (or tanahabang)
+OL,9,G_teletext <LINK>
+OL,10,```````F@illarterateG|F10-May-2020 11:20
+OL,11,GDun dun dunnn! It's the
+OL,12,G_TeletextBlockParty Blockdown Party
+OL,13,Gart contest results. Who were the
+OL,14,Gwinners?  <LINK>  Also includes a LIVE
+OL,15,Gcollaborative _teletext artwork &
+OL,16,Gbrief review of Block Party.  Guests:
+OL,17,G@that other Carl, David Walford,
+OL,18,G@ZXGuesser & @PeterKVT80 <LINK>
 OL,24,                                        
-OL,26,@sD@FpoLpoyD@AOUHpoQpo]O]
+OL,26,@yD@FpoLpo
 PN,15304
 SC,0004
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
-OL,1,G]MDTELETEXT TWITTER 04/08        V)l'
+OL,1,G]MDTELETEXT TWITTER 04/09        V)l'
 OL,3,V#######################################
-OL,4,```F@CrossStreetArtsG|F10-May-2020 08:56
-OL,5,GBrick wall gardens. Teletext art by
-OL,6,G@illarterate _Space _socialdistancing
-OL,7,G_timetoreflect _lonliness
-OL,8,G_artduringcovid19 _lockdown
-OL,9,G_missingopenspace _nopeople
-OL,10,G_lockdownart _wiganart  _pixelart
-OL,11,G_digitalart _teletext <LINK>
-OL,12,``````````F@GoatIipsG|F10-May-2020 04:33
-OL,13,GThis is why the @BBC didn't get rid of
-OL,14,G_Teletext in January after all. It
-OL,15,Galways has the best stories  .
-OL,16,G<LINK>
-OL,17,``````````F@mistfunkG|F09-May-2020 20:17
-OL,18,GMistigram: this cosmic scene in the
-OL,19,G_Eridani system was drawn in _teletext
-OL,20,Gby @jellica        and included in the
-OL,21,GMIST1117 artpack collection. <LINK>
-OL,22,G<LINK>
+OL,4,```F@WayneMa36852027G|F10-May-2020 10:56
+OL,5,GI started my own _Ceefax _Teletext
+OL,6,Gappreciation page on _Instagram you
+OL,7,Gcan find it at
+OL,8,G"Ceefax Teletext Celebration" and I
+OL,9,Ghope you do   _Ceefax _Teletext
+OL,10,G_Nostalgia _TV _90s _Memories <LINK>
+OL,11,```F@CrossStreetArtsG|F10-May-2020 08:56
+OL,12,GBrick wall gardens. Teletext art by
+OL,13,G@illarterate _Space _socialdistancing
+OL,14,G_timetoreflect _lonliness
+OL,15,G_artduringcovid19 _lockdown
+OL,16,G_missingopenspace _nopeople
+OL,17,G_lockdownart _wiganart  _pixelart
+OL,18,G_digitalart _teletext <LINK>
 OL,24,                                        
-OL,26,@wD@^MF|D@LpoMpoNpoOpoPpoQpoRpo
+OL,26,@pD@AOUHpoQpo]O]
 PN,15305
 SC,0005
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
-OL,1,G]MDTELETEXT TWITTER 05/08        V)l'
+OL,1,G]MDTELETEXT TWITTER 05/09        V)l'
+OL,3,V#######################################
+OL,4,``````````F@GoatIipsG|F10-May-2020 04:33
+OL,5,GThis is why the @BBC didn't get rid of
+OL,6,G_Teletext in January after all. It
+OL,7,Galways has the best stories  .
+OL,8,G<LINK>
+OL,9,``````````F@mistfunkG|F09-May-2020 20:17
+OL,10,GMistigram: this cosmic scene in the
+OL,11,G_Eridani system was drawn in _teletext
+OL,12,Gby @jellica        and included in the
+OL,13,GMIST1117 artpack collection. <LINK>
+OL,14,G<LINK>
+OL,24,                                        
+OL,26,@oD@^MFtD@LpoMpoNpoOpoPpoQpoRpo
+PN,15306
+SC,0006
+FL,8ff,8ff,8ff,8ff,8ff,100
+OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
+OL,1,G]MDTELETEXT TWITTER 06/09        V)l'
 OL,3,V#######################################
 OL,4,``````````F@rheolismG|F09-May-2020 20:58
 OL,5,G@bbcmicrobot @jsam 0?&D0=2:!-512=&B340
@@ -127,11 +143,11 @@ OL,20,GLater on that day ...  A Petite
 OL,21,GPidgeon Pecked the Pasta.  (2009)
 OL,22,G_teletext _ceefax <LINK>
 OL,24,                                        
-PN,15306
-SC,0006
+PN,15307
+SC,0007
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
-OL,1,G]MDTELETEXT TWITTER 06/08        V)l'
+OL,1,G]MDTELETEXT TWITTER 07/09        V)l'
 OL,3,V#######################################
 OL,4,````````F@PeterKVT80G|F09-May-2020 11:10
 OL,5,GOur brewery celebrates local history
@@ -154,11 +170,11 @@ OL,21,GStrung Out Mog Twists Woman's Melon
 OL,22,G(2009)  _teletext _ceefax <LINK>
 OL,24,                                        
 OL,26,@zD@\o[_o[
-PN,15307
-SC,0007
+PN,15308
+SC,0008
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
-OL,1,G]MDTELETEXT TWITTER 07/08        V)l'
+OL,1,G]MDTELETEXT TWITTER 08/09        V)l'
 OL,3,V#######################################
 OL,4,`````F@theblueblurukG|F08-May-2020 18:29
 OL,5,GSome important _coronavirus _health
@@ -181,11 +197,11 @@ OL,21,Gfind it at
 OL,22,G"ceefax teletext celebration" <LINK>
 OL,24,                                        
 OL,26,@~D@AOUHpoQpo]O]
-PN,15308
-SC,0008
+PN,15309
+SC,0009
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_oh_wM@@
-OL,1,G]MDTELETEXT TWITTER 08/08        V)l'
+OL,1,G]MDTELETEXT TWITTER 09/09        V)l'
 OL,3,V#######################################
 OL,4,```````F@retrotextukG|F08-May-2020 15:27
 OL,5,GGreat to hear the dramatic 2005 Ashes
@@ -201,8 +217,5 @@ OL,14,GCountdown um unsere App. Gerne mal
 OL,15,Grunterladen, testen und Feedback
 OL,16,Ggeben. _Teletext _Countdown
 OL,17,G_Geburtstag <LINK>
-OL,18,````````F@hansjaaggiG|F08-May-2020 11:35
-OL,19,GCorona-Neuansteckungen zugenommen
-OL,20,GQuelle: _Teletext CH <LINK>
 OL,24,                                        
 OL,26,@tD@Fxp
