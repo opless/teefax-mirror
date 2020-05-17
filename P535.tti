@@ -5,10 +5,10 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FSmooth 3Counties   BHeart 4 Counties   
-OL,5,FHITS RADIO UK      BGreatest Hits      
-OL,6,FMKFM               BBBC 3CR            
-OL,7,FRadio UP           BCapital UK         
+OL,4,FHeart 4 Counties   BHITS RADIO UK      
+OL,5,FGreatest Hits      BBBC 3CR            
+OL,6,FMKFM               BRadio UP           
+OL,7,FCapital UK         BSmooth 3Counties   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -33,11 +33,11 @@ PN,53503
 SC,0003
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FHeart Cambridge    BGreatest Hits      
-OL,5,FGold Cambs         BHITS RADIO UK      
-OL,6,FDubai Now          BSmooth Country     
-OL,7,FRadio Maria Eng    BBBC Radio Cambs    
-OL,8,FCapital UK         BEPG Cambridge (data)
+OL,4,FGold Cambs         BRadio Maria Eng    
+OL,5,FDubai Now          BSmooth Country     
+OL,6,FBBC Radio Cambs    BCapital UK         
+OL,7,FHeart Cambridge    BGreatest Hits      
+OL,8,FHITS RADIO UK      BEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -51,11 +51,11 @@ OL,6,FGold UK            BHeart Dance
 OL,7,FHeart 80s          BHeart 90s          
 OL,8,FCapital XTRA       BHeart 70s          
 OL,9,FCapXTRA Reloaded   BRadio X            
-OL,10,FLBC News           BCapital UK         
-OL,11,FSmooth Chill       BClassic FM         
-OL,12,FtalkSPORT          BLBC                
-OL,13,FAbsolute Radio     BUCB 1              
-OL,14,FKISS               BINRIX UK TPEG    (data)
+OL,10,FLBC News           BSmooth Chill       
+OL,11,FClassic FM         BtalkSPORT          
+OL,12,FAbsolute Radio     BUCB 1              
+OL,13,FKISS               BCapital UK         
+OL,14,FLBC                BINRIX UK TPEG    (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -65,9 +65,9 @@ OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
 OL,4,FBBC Radio 1        BBBC Radio 2        
 OL,5,FBBC Radio 3        BBBC Radio 4        
-OL,6,FBBC Radio 5 Live   BBBC Radio 4Extra   
-OL,7,FBBC Radio 1Xtra    BBBC AsianNetwork   
-OL,8,FBBC Radio 6Music   BBBC WorldService   
+OL,6,FBBC Radio 5 Live   BBBC Radio 6Music   
+OL,7,FBBC Radio 4Extra   BBBC Radio 1Xtra    
+OL,8,FBBC AsianNetwork   BBBC WorldService   
 OL,9,FBBC Guide        (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
