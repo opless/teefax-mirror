@@ -1,10 +1,10 @@
 DE,Stroud Fringe 2015
 DS,inserter
-SP,I:\peter\TeletextFest2016\P815-Fringe.tti
-CT,8,C
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P815-Fringe.tti
 PN,81501
 SC,0001
 PS,8000
+CT,8,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,||||
@@ -26,11 +26,12 @@ OL,19,  All of this came to an end with the
 OL,20,  shutdown of analogue TV transmission. 
 OL,22,                                   1/2  
 OL,23,D]Cmrgsystems.co.uk      Stroud Fringe  
-OL,24,A  Index  BSponsors  C 2016   FQuizzes  
-FL,800,451,816,150,8ff,100
+OL,24,A  Next   BSponsors  CIndex   FQuizzes  
+FL,816,817,800,150,8ff,100
 PN,81502
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,||||
@@ -53,5 +54,5 @@ OL,20,  because although Ceefax has gone,
 OL,21,  Presfax is still used internally.     
 OL,22,                                   2/2  
 OL,23,D]Cmrgsystems.co.uk      Stroud Fringe  
-OL,24,A  Index  BSponsors  C 2016   FQuizzes  
-FL,800,451,816,150,8ff,100
+OL,24,A  Next   BSponsors  CIndex   FQuizzes  
+FL,816,817,800,150,8ff,100

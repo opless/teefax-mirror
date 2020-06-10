@@ -1,10 +1,10 @@
 DE,Stroud Fringe 2016
 DS,inserter
-SP,I:\peter\TeletextFest2016\P816-Fringe.tti
-CT,15,C
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P816-Fringe.tti
 PN,81600
 SC,0000
 PS,8000
+CT,15,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,]Q                             `|5      
@@ -28,5 +28,5 @@ OL,18,]Q    "#+'#!B
 OL,19,MD]C25-27 AUGUST 2017                   
 OL,21,  The free family festival that takes   
 OL,22,  over the town of Stroud.              
-OL,24,A  Index  BSponsors  C 2015   FQuizzes  
-FL,800,451,815,150,8ff,100
+OL,24,A  Next   BSponsors  C Index  FQuizzes  
+FL,817,817,800,150,8ff,100
