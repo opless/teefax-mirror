@@ -35,6 +35,36 @@ SC,0002
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,T7#####css#cs3#s#s#s#ss3##s#cs3########k
+OL,2,T5     ## #    #   # D     Tj
+OL,3,T5              j5 // D     Tj
+OL,4,T5     || | o|?  |   | D     Tj
+OL,5,Tuppppprssprsqppsppspssqppsprsqppppppppz
+OL,6,T                                       
+OL,7,DM              WEEK                    
+OL,8,DM              WEEK                    
+OL,9,T                      0   0  ` $  $    
+OL,10,T$`p1!"00  8lx $( `,.# dp}}t    0       
+OL,11,T  b `    "p  ! $!!5pw3    6       
+OL,12,T   ` p3 ` o     r~~?"o   2        
+OL,13,T  cc b"  , %" k/#  j  0"2  !    
+OL,14,T ````"   uu}   *ww(`"`$j?  $    $$   
+OL,15,T   "%    7z  !*w~|x|~{4 0       
+OL,16,T     5   k~5  4 /oo//'!         
+OL,17,T    p     o}5  5   ,   `   $ (!      
+OL,18,T    %  (. j5   ``3c"   o"            
+OL,19,T    !     j5  $ r!a04 h4 ($   ($    
+OL,20,T        /% }7$(4``|/dx` /             
+OL,21,G                                       
+OL,22,G                                       
+OL,23,G                                       
+OL,24,G                                       
+FL,0,0,0,0,100,100
+PN,17203
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,W]T                                     
 OL,2,W]T                                     
 OL,3,W]T                                     
@@ -60,8 +90,8 @@ OL,22,W]T
 OL,23,W]T                                     
 OL,24,W]T                                     
 FL,0,0,0,0,100,100
-PN,17203
-SC,0003
+PN,17204
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -90,8 +120,8 @@ OL,22,TSbfffffTSffffffffT
 OL,23,TS999999TS99999999T
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,17204
-SC,0004
+PN,17205
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -120,8 +150,8 @@ OL,22,PSx~?/#ss3o=PW"-'P
 OL,23,S's||~?ax|||||tP                      
 OL,24,S|||||<P                     
 FL,0,0,0,0,100,100
-PN,17205
-SC,0005
+PN,17206
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -150,8 +180,8 @@ OL,22,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,24, AWorld Clock BStatus    C.    F.       
 FL,0,0,0,0,100,100
-PN,17206
-SC,0006
+PN,17207
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -180,8 +210,8 @@ OL,22,Gpassenger who wants a lifeboat can get
 OL,23,Ga lifeboat, and they are beautiful     
 OL,24,Glifeboats.                             
 FL,0,0,0,0,100,100
-PN,17207
-SC,0007
+PN,17208
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -210,8 +240,8 @@ OL,22,GThe lifeboats were left on shore by the
 OL,23,Glast captain of this ship.             
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,17208
-SC,0008
+PN,17209
+SC,0009
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
