@@ -1,15 +1,11 @@
 DE,Automatic decoder level diagnostic
-DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\P751.tti
 PN,75100
-SC,0000
+SC,0
 PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,26,@qd@ACJC@JKpZ
+OL,28,@@@|g@@p@|pK@_@@@CpLs_w}w|w]_|_wM@P
 OL,28,D@@|g@@pC@|p@|@O@O@pA@\p\@@wAG\w]G@P
+OL,26,@qd@ACJC@JKpZ
 OL,3,This decoder supports:                  
 OL,5,D] Level 3.5  \                         
 OL,7,F] Level 2.5  \                         
-OL,9,G]ALevel 1.0  \                         
+OL,9,G]ALevel 1.0  \        
