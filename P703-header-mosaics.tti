@@ -1,10 +1,10 @@
 DE,Character Template
 DS,Wales
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P703.tti
-CT,42,C
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P703-header-mosaics.tti
 PN,70300
 SC,0000
 PS,8048
+CT,42,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||||,<l,l<,|,,|,l,,|<,|||||
@@ -26,4 +26,4 @@ OL,21,C_ Can you tell me how to get - how to
 OL,22,C  get to Sesame Street? _              
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
-FL,100,710,785,790,0,100
+FL,700,704,714,740,0,100

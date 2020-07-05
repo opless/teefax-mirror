@@ -1,10 +1,10 @@
 DE,VBIT-Pi
 DS,Wales
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P785.tti
-CT,45,C
-PN,78500
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P714-vbit-pi.tti
+PN,71400
 SC,0000
 PS,8008
+CT,45,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0    
@@ -30,4 +30,4 @@ OL,21,G
 OL,22,  Contact me onCpeterk.vt80@gmail.com   
 OL,23,G                                       
 OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,710,785,790,0,100
+FL,700,704,714,740,0,100

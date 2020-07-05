@@ -1,0 +1,34 @@
+DE,test pages
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P740-test-pages.tti
+PN,74001
+SC,0000
+PS,8000
+CT,8,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppW   <$p0p0$p0p0p0p0$p0p0   
+OL,2,Q 5|jR5|jT5|jT]W 7 55-5555=%=%5 555-5   
+OL,3,Q 5/jR5/jT5/jT]W #!!!,%!!!#!#!! !!!,%   
+OL,4,Q ###R###T###WG    Test pages index     
+OL,5,T|||||||||||||||||||||||||||||||||||||||
+OL,6,T]FSubpage carousel.............. C741  
+OL,7,T]FGreek characters.............. C742  
+OL,8,T]FFrench packet 26.............. C743  
+OL,9,T]F                                     
+OL,10,T]FSubpage editorial links....... C750  
+OL,11,T]FDecoder level auto-diagnostic. C751  
+OL,12,T]FDRCS characters............... C752  
+OL,13,T]FEnhancement packet 26 features C753  
+OL,14,T]FPacket 28 colour mapping...... C754  
+OL,15,T]FFarsi characters.............. C755  
+OL,16,T]FGradients..................... C756  
+OL,17,T]FText objects.................. C757  
+OL,18,T]FGlobal Public Object.......... C758  
+OL,19,T]FLocal Object.................. C759  
+OL,20,T]FColour mapping graphics....... C760  
+OL,21,T]F                                     
+OL,22,T]F                                     
+OL,23,A]CHISTORIC TEST PAGES INDEX       790  
+OL,24,AIndex BSoftware CRasPi Status FHistoric
+FL,700,710,797,790,8ff,100

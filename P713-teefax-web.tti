@@ -1,10 +1,10 @@
 DE,Teefax in Your Browser
 DS,Teefax 1
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P783.tti
-CT,6,C
-PN,78300
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P713-teefax-web.tti
+PN,71300
 SC,0000
 PS,8008
+CT,6,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0    
@@ -18,15 +18,13 @@ OL,9,  Experimental browser version of Teefax
 OL,10,  is live. It is now working reasonably 
 OL,11,  well. It now supports smartphones and 
 OL,12,  you can swipe left and right to go    
-OL,13,  through pages. The server will be     
-OL,14,  running Sept and Oct and is at        
-OL,15,C teastop.plus.com:8080                 
-OL,16,G                                       
-OL,17,  To link to a page the URL format is   
-OL,18, Cteastop.plus.com:8080?page=784        
-OL,19,G                                       
-OL,20,  This is a version of Muttlee,the      
-OL,21,  Multi-User TeleText Live Editing      
-OL,22,  Environment.                          
+OL,13,  through pages.                        
+OL,14,C teastop.plus.com:8080                 
+OL,15,G                                       
+OL,16,  To link to a page the URL format is   
+OL,17, Cteastop.plus.com:8080?page=713        
+OL,18,G                                       
+OL,19,  Teefax is also available on zxnet     
+OL,20,C https://zxnet.co.uk/teletext/viewer   
 OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,710,785,790,0,100
+FL,700,704,714,740,0,100

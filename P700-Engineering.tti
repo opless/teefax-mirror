@@ -1,6 +1,6 @@
 DE,Engineering
 DS,inserter
-SP,J:\peter\teefax\P700-Engineering.tti
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P700-Engineering.tti
 PN,70000
 SC,0000
 PS,8000
@@ -12,23 +12,23 @@ OL,2,Q 5|jR5|jT5|jT]W 7 55-5555=%=%5 555-5
 OL,3,Q 5/jR5/jT5/jT]W #!!!,%!!!#!#!! !!!,%   
 OL,4,Q ###R###T###WG      Information        
 OL,5,T|||||||||||||||||||||||||||||||||||||||
-OL,6,Q]CThe techy side of teletextD]
+OL,6,Q]CThe techy side of teletextD]         
 OL,7,T||||||||||||||||||||||||||||~
 OL,8,T]FUsing Teletext................ C701  
 OL,9,T]FControl codes demo............ C702  
 OL,10,T]FCharacter template............ C703  
-OL,11,T]FGreek text test............... C705  
-OL,12,T]FTeletext specifications....... C710  
+OL,11,T]FTeletext specifications....... C704  
+OL,12,T]F                                     
 OL,13,T]F                                     
-OL,14,T]FwxTED teletext editor ........ C781  
-OL,15,T]FTeletext selfie .............. C782  
-OL,16,T]FTeefax online ................ C783  
-OL,17,T]FTeefax on your Raspberry Pi... C785  
-OL,18,T]F                                     
-OL,19,Q]CEngineering Test Pages T  T]C790  
+OL,14,T]F                                     
+OL,15,Q]CTeletext software index   D]   C710  
+OL,16,T||||||||||||||||||||||||||||~
+OL,17,Q]CTest pages index          D]   C740  
+OL,18,T||||||||||||||||||||||||||||~
+OL,19,Q]CHistoric test pages       D]   C790  
 OL,20,T||||||||||||||||||||||||||||~
 OL,21,T]FRaspberry Pi system status.... C797  
-OL,22,T]F                                     
+OL,22,T]FClock cracker................. C799  
 OL,23,T]F                                     
-OL,24,A Index BBamboozle CEvents FArt Archive 
-FL,100,150,800,200,8ff,100
+OL,24,AMain  BSoftware  CTest Pages FHistoric 
+FL,100,710,740,790,8ff,100

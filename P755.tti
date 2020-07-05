@@ -1,16 +1,14 @@
 DE,Persian tests
-CT,8,T
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P755.tti
 PN,75501
 SC,0001
 PS,8390
-OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
-OL,26,@jDO^O]kDJToXUOXVo\\O]cOQlDJToYUOXVOXmDJ
-OL,26,AToYUoXVOXnDJTOZUOZVo\]o_eoUoDJTOZUo[VOX
-OL,26,BcOVeOQpDO^O_qDJToZUOYVoYcOQrDJTO[UOYVOX
-OL,26,CsDJTo[UO\VoZ`oTaoWeoWtDJTO\UoXVoZuDJTO\
-OL,26,DUoYVoXvdGOoXPoYQo\RoXwdDIO_ydHQo_[OR{DM
-OL,26,EZoU}DCFoYGOXHOXIOXJOXKoYLoXMoYSoUWoXXOX
+CT,16,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,26,FYoX_o^aO_CCCCCCCCCC
+OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,1, ]                                     \
 OL,2, ]U` p0$ p04       AXaFM i|axJ ixemQWE*\
 OL,3, ]Ujp5u5755-..     A    .... OjhT } Qb \
@@ -36,12 +34,12 @@ OL,22, ]T"#################!################!\
 OL,23, ]D  22021955-22021901    @iehzY WHGhQ \
 PN,75502
 SC,0002
-PS,8390
-OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
-OL,26,@mDJTO_UOToDCFO_JoWTORqdFMO_SOTuDEJoWyDF
-OL,26,ALO_YO_`oXaoYbo\cOY{dISoUXoXYOXZOYeo^|DL
-OL,26,BXO\YoZZoZ^oWfoU~DIRO_VO_dGOo^Uo^dO]eO]
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,26,CCCCCCCCCCCCCC
+OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,1, ]Th<                               0l4 
 OL,2, ]Tj `z{pxr{hjjh(`wus5455<5555pwuuuu5 5 
 OL,3, ]Tjtj  $$,,.#**,. (,,'!%---%%5    ( x5 

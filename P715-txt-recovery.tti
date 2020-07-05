@@ -1,10 +1,10 @@
-DE,xwTED Teletext Editor
+DE,teletext recovery
 DS,Wales
-SP,C:\Users\Administrator\Desktop\P770-Rec.tti
-CT,10,C
-PN,77000
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P715-txt-recovery.tti
+PN,71500
 SC,0000
 PS,8008
+CT,10,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0    
@@ -16,4 +16,4 @@ OL,12,G
 OL,16,G                                       
 OL,22,F                                       
 OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,710,785,790,0,100
+FL,700,704,714,740,0,100

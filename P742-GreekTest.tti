@@ -1,10 +1,10 @@
 DE,Greek char set test
 DS,Wales
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P705-GreekTest.tti
-CT,15,C
-PN,70500
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P742-GreekTest.tti
+PN,74200
 SC,0000
-PS,83D0
+PS,83d0
+CT,15,C
 RE,6
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]G     CM Greek Test Page              
@@ -29,5 +29,4 @@ OL,20,D]G
 OL,21,D]G                                     
 OL,22,D]G                                     
 OL,23,D]G                                     
-OL,24, AMRG  BSpanish  CFrench   FCharacters  
-FL,700,720,785,790,0,0
+OL,24,D]G                                     

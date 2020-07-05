@@ -1,10 +1,10 @@
-DE,xwTED Teletext Editor
+DE,wxTED Teletext Editor
 DS,Wales
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P781.tti
-CT,42,C
-PN,78100
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P711-wxted.tti
+PN,71100
 SC,0000
 PS,8008
+CT,42,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0    
@@ -12,7 +12,7 @@ OL,2,Q 5|jR5|jT5|jT]W7 55-5555=%=%5 555-5Pj
 OL,3,Q 5/jR5/jT5/jT]W#!!!,%!!!#!#!! !!!,%Pj
 OL,4,Q ###R###T###WG     Information         
 OL,5,G                                       
-OL,6,M wxTED teletext editor V1.23           
+OL,6,M wxTED teletext editor V1.46           
 OL,8,G                                       
 OL,9,  Hold mode has been improved in many   
 OL,10,  ways. It should now match what a TV   
@@ -30,4 +30,4 @@ OL,21,G
 OL,22,F Latest version can be downloaded at   
 OL,23,F teastop.co.uk/teletext/wxted/         
 OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,710,785,790,0,100
+FL,700,704,714,740,0,100

@@ -1,10 +1,10 @@
 DE,Using Teletext
 DS,inserter
-SP,E:\_ Teefax\P701.tti
-CT,30,T
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P701-using.tti
 PN,70101
 SC,0001
 PS,8000
+CT,30,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]Th44|$|h|hh<$ l<hlh4hl(|$<4d$l<Dpage  
@@ -28,10 +28,11 @@ OL,20,FYou can hold a page on screen by press-
 OL,21,Fing your remote'sBholdFbutton. The car-
 OL,22,Fousel still proceeds in the background.
 OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,710,785,790,8ff,100
+FL,700,704,714,740,8ff,100
 PN,70102
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]Th44|$|h|hh<$ l<hlh4hl(|$<4d$l<Dpage  
@@ -56,4 +57,4 @@ OL,20,FOn newer TVs, an index of subpages in
 OL,21,Fthe current arousel may be displayed   
 OL,22,Fdisplayed below the fastext links.     
 OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,710,785,790,8ff,100
+FL,700,704,714,740,8ff,100

@@ -1,10 +1,10 @@
 DE,Control codes demo
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P702.tti
-CT,30,C
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P702-control-codes.tti
 PN,70201
 SC,0001
 PS,8000
+CT,30,C
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -30,10 +30,11 @@ OL,21,G
 OL,22,]DNew BackgroundA]Cis used like this    
 OL,23,G                                       
 OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
-FL,700,710,785,790,8ff,100
+FL,700,704,714,740,8ff,100
 PN,70202
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -59,10 +60,11 @@ OL,21, L^R$$$$$$S$$S5    FThis VU meter shows
 OL,22,^RRRRRRRRSSSQQQQWFhow to change colour
 OL,23, R^R$$$$$$S$$$Q$5  Fwithout needing gaps
 OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
-FL,700,710,785,790,8ff,100
+FL,700,704,714,740,8ff,100
 PN,70203
 SC,0003
 PS,8000
+CT,8,T
 RE,0
 OL,0,       TTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -86,10 +88,11 @@ OL,20,MC]BContrasting colours work better
 OL,22,G                                       
 OL,23,G                                       
 OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
-FL,700,710,785,790,8ff,100
+FL,700,704,714,740,8ff,100
 PN,70204
 SC,0004
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -113,10 +116,11 @@ OL,21,G
 OL,22,G                                       
 OL,23,G                                       
 OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
-FL,700,710,785,790,8ff,100
+FL,700,704,714,740,8ff,100
 PN,70205
 SC,0005
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -141,4 +145,4 @@ OL,21,D^]W    V9S]T    TfQ]W    SfR]D3.5%Tfo\G
 OL,22,D ]WCON V S]TLIBDEMQ]WLAB   R]TGREEN j\G
 OL,23,  Source: Wikipedia                     
 OL,24,A Index B Specs  C VBIT-Pi F Test Cards 
-FL,700,710,785,790,8ff,100
+FL,700,704,714,740,8ff,100

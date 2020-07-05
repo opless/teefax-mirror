@@ -1,0 +1,34 @@
+DE,software index
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P710-software.tti
+PN,71000
+SC,0000
+PS,8000
+CT,8,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppW   <$p0p0$p0p0p0p0$p0p0   
+OL,2,Q 5|jR5|jT5|jT]W 7 55-5555=%=%5 555-5   
+OL,3,Q 5/jR5/jT5/jT]W #!!!,%!!!#!#!! !!!,%   
+OL,4,Q ###R###T###WGTeletext software index  
+OL,5,T|||||||||||||||||||||||||||||||||||||||
+OL,6,T]FwxTED teletext editor ........ C711  
+OL,7,T]FTeletext selfie .............. C712  
+OL,8,T]FTeefax online ................ C713  
+OL,9,T]FTeefax on your Raspberry Pi... C714  
+OL,10,T]FTeletext recovery............. C715  
+OL,11,T]F                                     
+OL,12,T]F                                     
+OL,13,T]F                                     
+OL,14,T]F                                     
+OL,15,T]F                                     
+OL,16,T]F                                     
+OL,17,T]F                                     
+OL,18,T]F                                     
+OL,19,T]F                                     
+OL,20,T]F                                     
+OL,21,T]F                                     
+OL,22,T]F                                     
+OL,23,Q]CRASPBERRY PI SYSTEM STATUS      797  
+OL,24,AIndex BBamboozle CTest pages FHistoric 
+FL,700,150,740,790,8ff,100

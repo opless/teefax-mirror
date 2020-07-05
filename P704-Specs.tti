@@ -1,10 +1,10 @@
 DE,Teletext Specifications
 DS,inserter
-SP,E:\_ Teefax\P710-Specs.tti
-CT,20,C
-PN,71001
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P704-Specs.tti
+PN,70401
 SC,0001
 PS,8000
+CT,20,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0      
@@ -29,10 +29,11 @@ OL,20,BSources:     Peter Kwan, Alistair Cree,
 OL,21,BSimon Rawles, Euro Telecom Std 300-706 
 OL,23,Dbeeblepete                         2016
 OL,24,A Index B Selfie C VBIT-Pi F Test Cards 
-FL,700,782,785,790,0,100
-PN,71002
+FL,700,704,714,740,0,100
+PN,70402
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0      
@@ -59,10 +60,11 @@ OL,21,Fvertically & horizontally. T]S "),&!
 OL,22,                            T]          
 OL,23,Dbeeblepete                         2016
 OL,24,A Index B Selfie C VBIT-Pi F Test Cards 
-FL,700,782,785,790,0,100
-PN,71003
+FL,700,704,714,740,0,100
+PN,70403
 SC,0003
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTppp  S   l$p04p0x0p000x0      
@@ -87,4 +89,4 @@ OL,20,AgationGlinksFis added.  ZQ,,R,S,,V,
 OL,21,                 Z        W#Q#W#W#      
 OL,23,Dbeeblepete                         2016
 OL,24,A Index B Selfie C VBIT-Pi F Test Cards 
-FL,700,782,785,790,0,100
+FL,700,704,714,740,0,100
