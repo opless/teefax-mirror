@@ -1,6 +1,6 @@
 DE,TV Reviews modern
 DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\p432-tv-reviews.tti
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\p432-tv-reviews.tti
 PN,43201
 SC,0000
 PS,8000
@@ -25,7 +25,8 @@ OL,17, hold button. Size and Cancel functions
 OL,18, missing. Rolling page number at top    
 OL,19, shows page numbers from magazine 100   
 OL,20, when waiting for a page in another     
-OL,21, magazine.                              
+OL,21, magazine. Pages with L2.5 side panels  
+OL,22, are squashed to 4:3 aspect ratio.      
 OL,23,D]CReviewed Mar 2020 by Nick Schollar   
 OL,24,A LCD/Plasma  B  CRTs   CSTBs   FInfo   
 FL,433,434,435,431,8ff,100
