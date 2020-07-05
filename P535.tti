@@ -34,11 +34,11 @@ PN,53503
 SC,0003
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FSmooth Country     BRadio Maria Eng    
-OL,5,FBBC Radio Cambs    BHeart Cambridge    
-OL,6,FHITS RADIO UK      BCapital UK         
-OL,7,FDubai Now          BGold Cambs         
-OL,8,FGreatest Hits      BEPG Cambridge (data)
+OL,4,FSmooth Country     BBBC Radio Cambs    
+OL,5,FHeart Cambridge    BHITS RADIO UK      
+OL,6,FCapital UK         BDubai Now          
+OL,7,FGold Cambs         BGreatest Hits      
+OL,8,FRadio Maria Eng    BEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
