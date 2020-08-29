@@ -23,7 +23,7 @@ OL,15,B 1.0R}44P  RjPR4R4R0h00P  CEach yellow
 OL,16,B 0.5R4PRx5}5R5}}}P Ctick-mark   
 OL,17,B 0.0R7##+#####+k#######!Caligns with 
 OL,18,B-0.5R5P R5P              Cthe first   
-OL,19,B-1.0R5P R5P              Cquatere of  
+OL,19,B-1.0R5P R5P              Cquarter of  
 OL,20,B-1.5R5P R5P              Ceach year   
 OL,21,B-2.0R5P R*P               C(2007-2016) 
 OL,22,P     S!S!S!S!S!S!S!S!S!S!P             
@@ -85,9 +85,9 @@ OL,17,P  Q]W |   \         Q
 OL,18,P  Q]W  \GSwitz-  WGHungary 
 OL,19,P  Q]W /   \Gerland  RG        
 OL,20,Tppppppppppppppppppppppppppppppppppppppp
-OL,21,T]P         P]S ]Q]T]
-OL,22,T]QGGermany P]S ]Q]G \Belguim 
-OL,23,T]S         P]S ]Q]T]
+OL,21,T]P         P]S ] Q]T]
+OL,22,T]QGGermany P]S ] Q]G \Belgium 
+OL,23,T]S         P]S ] Q]T]
 OL,24,D]G      By Matthew Eagles 2016         
 FL,0,0,0,0,100,100
 PN,19304
@@ -113,7 +113,7 @@ OL,15,ALeaders of the Opposition (Labour):
 OL,16,AHarriet Harman, Ed Miliband            
 OL,17,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,18,A2005:PRIME MINISTER TONY BLAIR (Lab)   
-OL,19,Areplaced by Gordon Brown in JUne 2007  
+OL,19,Areplaced by Gordon Brown in June 2007  
 OL,20,GVotes:ALab 35%FCon 32%CLib 22%EUKIP 2% 
 OL,21,GMPs:ALab 255FCon 198CLib 62 SNP 6      
 OL,22,FLdrs of the Opposition (Conservative): 
@@ -406,11 +406,11 @@ OL,8,P        R!~%P R`Rj5ppR`p"`p0`p0Rp
 OL,9,P       Rx!*k}~h0R+!j5"!.%`<j5j5
 OL,10,P     R0PRj+`5}  R"!# R"#!#R##"!#R##
 OL,11,P   R|>s.oR`~g~0                    
-OL,12,P  R(kjsj}PR!R~}p CBRITIAN = England
+OL,12,P  R(kjsj}PR!R~}p CBRITAIN = England
 OL,13,PR||~usvl~'Rh%R+ou C(5) + Wales (1) 
 OL,14,R"k}4P    R~ C+ Scotland (4)  
 OL,15,R"//=$7P Rt`0}                 
-OL,16,P R~us?P R.}k7`p0G UK = Britian
+OL,16,P R~us?P R.}k7`p0G UK = Britain
 OL,17,PRz%P  R57~(nG + Northern  
 OL,18,Rs/#"PR`x~uuosz%G Ireland (3) 
 OL,19,PRk7#P   R"7j5                
@@ -443,7 +443,7 @@ OL,15,G  leading to Xmas floods in Lancs/Yorks
 OL,16,FFrank    - flooding in S Scotld 30 Dec.
 OL,17,F  eg. Dumfries/Peebles. 28000 w/o power
 OL,18,GGertrude - winds to 105mph on 29 Jan.  
-OL,19,FHenrg    - 90mph winds N Scot, 1/2 Feb.
+OL,19,FHenry    - 90mph winds N Scot, 1/2 Feb.
 OL,20,GImogen   - winds to 96mph on 8 Feb.    
 OL,21,FJake     - winds to 83mph on 1/2 Mar.  
 OL,22,GKatie    - winds to 106mph on 28 Mar.  
