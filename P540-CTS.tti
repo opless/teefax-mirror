@@ -1,21 +1,10 @@
 DE,CTS Main Index
 DS,inserter
-SP,C:\Users\Chace\Desktop\Teletext-CTS\P540-CTS.tti
+SP,C:\Users\Peter\OneDrive\Desktop\Teefax\P540-CTS.tti
 PN,54001
 SC,0001
 PS,8000
 CT,6,C
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q|<,|,||| 
-OL,2,Q5j5j5j5jR 5j %z %j uz  oQ uz 7k 
-OL,3,Q5j5ju*%zR 5j 5j 5j 7k  Q 7kp1b 
-OL,4,Q/-.-./-./R//-,/,-.,-.-,/,.,./Q/-,//-./ 
-FL,150,140,790,142,8ff,100
-PN,54002
-SC,0002
-PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|<l,,<l<lR||<,|,,|<,|<,|,|,l|Q|<,|,||||
@@ -36,8 +25,8 @@ OL,17,QZ,,,,,,,,Belsewhere on TEEFAXQ,,,,,,,,
 OL,21,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
-PN,54003
-SC,0003
+PN,54002
+SC,0002
 PS,8000
 CT,8,T
 RE,0
@@ -62,8 +51,8 @@ OL,20,RZ 5GLondon Borough of Enfield      Rj
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
-PN,54004
-SC,0004
+PN,54003
+SC,0003
 PS,8000
 CT,8,T
 RE,0
@@ -88,8 +77,8 @@ OL,20,RZ 5Gthe experts carry on!)         Rj
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
-PN,54005
-SC,0005
+PN,54004
+SC,0004
 PS,8000
 CT,8,T
 RE,0
@@ -114,8 +103,8 @@ OL,20,RZ 5G                               Rj
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
 FL,150,140,790,142,8ff,100
-PN,54006
-SC,0006
+PN,54005
+SC,0005
 PS,8000
 CT,8,T
 RE,0
