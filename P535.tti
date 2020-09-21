@@ -34,11 +34,11 @@ PN,53503
 SC,0003
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FCapital UK         BSmooth Country     
-OL,5,FDubai Now          BGreatest Hits UK   
-OL,6,FRadio Maria Eng    BBBC Radio Cambs    
-OL,7,FGold Cambs         BHeart Cambridge    
-OL,8,FHITS RADIO UK      BEPG Cambridge (data)
+OL,4,FSmooth Country     BDubai Now          
+OL,5,FGreatest Hits UK   BRadio Maria Eng    
+OL,6,FGold Cambs         BBBC Radio Cambs    
+OL,7,FHeart Cambridge    BHITS RADIO UK      
+OL,8,FCapital UK         BEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -64,12 +64,12 @@ PN,53505
 SC,0005
 OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
-OL,4,FBBC Radio 6Music   BBBC AsianNetwork   
-OL,5,FBBC WorldService   BBBC R5LiveSportX   
-OL,6,FBBC Radio 1        BBBC Radio 2        
-OL,7,FBBC Radio 3        BBBC Radio 4        
-OL,8,FBBC Radio 5 Live   BBBC Radio 4Extra   
-OL,9,FBBC Radio 1Xtra    BBBC Guide        (data)
+OL,4,FBBC WorldService   BBBC Radio 1        
+OL,5,FBBC Radio 2        BBBC Radio 3        
+OL,6,FBBC Radio 4        BBBC Radio 5 Live   
+OL,7,FBBC Radio 6Music   BBBC Radio 4Extra   
+OL,8,FBBC Radio 1Xtra    BBBC AsianNetwork   
+OL,9,FBBC Guide        (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
