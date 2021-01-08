@@ -1,33 +1,30 @@
-DE,bin2tti
-DS,inserter
-SP,N:\git-repos\teletext\P530.tti
-CT,5,C
+DE,cy2uk index
+CT,8,T
+PS,8040
 PN,53000
 SC,0000
-PS,8040
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+FL,531,539,538,100,100,100
 OL,1,W                                       
 OL,2,  Rx,$| |('s=  h4h4`<      W           
 OL,3,  R+,$bs?(/,,*%"-.%/+,   T  R(6x45<y0   
 OL,4,                         T R e8wcj{nf   
 OL,5,                          W  W~}W   
-OL,6,                          W  Wo}~?G   
-OL,7,  F Bedford Weather..G531L   W"!G   
-OL,8,                         T  T`W*%T0Q  
-OL,9,  F Gallery..........G532T  x||t  
-OL,10,                         TTx'^T+u 
-OL,11,  F Snowman..........G533Th5  o4
-OL,12,                         Wj?T  Wo5
-OL,13,  F The Labyrinth....G536TT  j^T5   
-OL,14,                          WT j5   
+OL,6,   FBroken Weather...G531 W  Wo}~?G   
+OL,7,  F                  G   L   W"!G   
+OL,8,   FGallery..........G532T  T`W*%T0Q  
+OL,9,  F                  G   T  x||t  
+OL,10,   FSnowman..........G533TTx'^T+u 
+OL,11,  F                  G   Th5  o4
+OL,12,   FThank You NHS....G534Wj?T  Wo5
+OL,13,  F                  G   TT  j^T5   
+OL,14,   FDAB Ensembles....G535 WT j5   
 OL,15,                          T   k7G   
-OL,16,                    W        (=n$   
+OL,16,   FThe Labyrinth....G536W   (=n$   
 OL,18,R<CArchive from UnsatisfactoryTextR,,,,l
 OL,19,R5FUnsatisfactory Introduction....G537Rj
 OL,20,R5FChannel 6 Television Listings..G538Rj
 OL,21,R5FSabrina Online (web comic).....G539Rj
 OL,22,R-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
-OL,23,D]CMore coming soon...F Ftw:@AwakeInBeds
+OL,23,D]C            Ftwitter:@verystickybunny
 OL,24,AWeather BLabyrinth CTelevision FIndex  
-FL,531,539,538,100,100,100
