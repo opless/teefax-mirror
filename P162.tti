@@ -5,29 +5,29 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,TZ'QpT+'Wx! Tk
-OL,2,TZ/'Q||$px~W#+/ T"
-OL,3,TZ!  Qj7(5   W"#T
-OL,4,TZ?!V pQ~5 ?5     T`
-OL,5,TZ5 V s}Qax?  "%     xTo
-OL,6,TZ5 V?Q}0     p|To
-OL,7,TZtV//Qx/o7#   ` +?Tz
-OL,8,TZ}<Qx4*' z  "- ###Th
-OL,9,TZW<Q+k5pp~%`0   +}Tp
-OL,10,TZW~! xQku *a0   Ty
-OL,11,TZW4 oQ+5/T`~}0  `
-OL,12,TZWu *Q2/Tx~||
-OL,13,TZWj0 o}Tk
-OL,14,TZW5 jTj
-OL,15,TZt W"Tj
-OL,16,TZ} W+TjVAMERICANT
-OL,17,TZ?/'#! ^WT"
-OL,18,TZ///##    W j `?TVFOOTBALLT
-OL,19,TZW~         W* */Th
-OL,20,TZW`"T"$h<.!   WdkTT
-OL,21,TZWj$         W*2/T
-OL,22,TZW44    T`pppp|||~
-OL,23,TZWk|0T|~
+OL,1,Q~ij}x57!ij}~ih74i #h74~i"!ih74  
+OL,2,Wnj555$fj5 j=5j ,j55j  fj=5  
+OL,3,Vjj5!50jj5o:*%%/j  *u%o:  :j5500
+OL,4,R $, ,$,$,($S p<gs-tR`pp ,(, $,,$(( (,( 
+OL,5,S            zi~zR?cw3-t0            
+OL,6,S            5Ra|t#/,|0     
+OL,7,S            k?//'>ouRo7Q|tp   S~t0  
+OL,8,R             8'#mS~'RzQzs+otSz4 
+OL,9,Q              "R7e  xQ?csSj 
+OL,10,R              (sy: *5+'Q"x?{%S~ 
+OL,11,R               l0 xt{t0  Qh~'S`~5 
+OL,12,R               "ot0c+o<Q(o?!Sx?  
+OL,13,Q                  lt   T`4Sp~?   
+OL,14,W                 j|||5Th7Sz'    
+OL,15,W                 *?!T?5mSo?'0     
+OL,16,Q                 h<<| TikSn/-&'h&      
+OL,17,Q                  ~5     T~3+0       
+OL,18,Q                  %    T*,-       
+OL,19,Q                 j       W,|~u      
+OL,20,Q                 j5       W "o4t    
+OL,21,R           ~?T`}Rh}Wdk}*5tR5
+OL,22,R         |7T`~'R~'Wx}||~jkR5
+OL,23,R          # T~7 }RkW~7hhj"hR5
 OL,24, AOnTheQT    BNews   CMovies   FWeather@
 FL,160,161,163,167,100,100
 PN,16202
@@ -38,12 +38,12 @@ OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q]T                                     
 OL,2,W]T    s1j5{53jw?jw?j7j55j5       
 OL,3,Q]T    ,.%/.%/  /,*%/*-/*-/*--/*-,      
-OL,4,W]T           h|     |4 |4 |4           
-OL,5,Q]T           j     5 ou`%           
-OL,6,W]T           *////  /%  +/!            
+OL,4,W]T           h|    |4 |4               
+OL,5,Q]T           j    ou`%               
+OL,6,W]T           *///   +/!                
 OL,7,G                                       
-OL,8,AM          San Francisco 49ers         
-OL,9,AM          San Francisco 49ers         
+OL,8,AM         Tampa Bay Buccaneers         
+OL,9,AM         Tampa Bay Buccaneers         
 OL,10,G                  (NFC)                
 OL,11,G                                       
 OL,12,A                   vs                  
@@ -52,71 +52,11 @@ OL,14,EM          Kansas City Chiefs
 OL,15,EM          Kansas City Chiefs          
 OL,16,G                  (AFC)                
 OL,17,G                                       
-OL,18,B   Hard Rock Stadium, Miami Gardens FL 
-OL,19,C              3:30 PM (PST)            
-OL,20,F        Sunday, February 2, 2020       
+OL,18,B  Raymond James Stadium, Tampa Florida 
+OL,19,C              6:30 PM (ET)             
+OL,20,F        Sunday, February 7, 2021       
 OL,21,G                                       
-OL,22,GHalftime show: Jennifer Lopez & Shakira
-OL,23,                                        
-OL,24, AIndex    BNews    CMovies    FWeather@
-FL,160,161,163,165,100,100
-PN,16203
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,RZ  /o4h?/} ~//%j?// /o4h?/}    j5   
-OL,2,RZ  /o4j}| +/o4j?/% /o4j}|    j5   
-OL,3,RZ  ///!*% / ///!*/// ///!*% / ///%*/// 
-OL,4,W p~|0 
-OL,5,Wh#                    +7#########k} 
-OL,6,Wz5                      k0         o4
-OL,7,W           T    x|0 Wou        Wj5
-OL,8,W           T   z4W"4       Wj5
-OL,9,W           T    W"       Wj5
-OL,10,W           T  x W *u      Wj5
-OL,11,W           T`~  W k4     Wj5
-OL,12,W          Q    z5   W o}     Wj5
-OL,13,W          Q   `|||tQjt    Wj5
-OL,14,W          Q    "4   Wj5
-OL,15,W          Q    x4  Wj5
-OL,16,W          Q   z}0 Wj5
-OL,17,W  S`|0    Q  h0Wj5
-OL,18,W  S    Q  z}Wj5
-OL,19,W  S+'    Q  Wj5
-OL,20,W  S       Q  ?Wj5
-OL,21,Wk5         Q  /o///' W~%
-OL,22,W*0        Q        Wx? 
-OL,23,W +o/! 
-OL,24, AIndex    BNews    CMovies    FWeather@
-FL,160,161,163,165,100,100
-PN,16204
-SC,0004
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,RZ  /o4h?/} ~//%j?// /o4h?/}    j5   
-OL,2,RZ  /o4j}| +/o4j?/% /o4j}|    j5   
-OL,3,RZ  ///!*% / ///!*/// ///!*% / ///%*/// 
-OL,4,G S                                     
-OL,5,G                                       
-OL,6,FM         2019 MLB World Series        
-OL,7,FM         2019 MLB World Series        
-OL,8,B                                       
-OL,9,AMWashington Nationals vs Houston Astros
-OL,10,AMWashington Nationals vs Houston Astros
-OL,11,A                                       
-OL,12,B_ Date    Place              Result    
-OL,13,F                                       
-OL,14,F1BOct 22B Minute Maid Park F 5 - 4     
-OL,15,F2BOct 23B Minute Maid Park F12 - 3     
-OL,16,F3BOct 25B Nationals Park   C 1 - 4     
-OL,17,F4BOct 26B Nationals Park   C 1 - 8     
-OL,18,F5BOct 27B Nationals Park   C 1 - 7     
-OL,19,F6BOct 29B Minute Maid Park F 7 - 2     
-OL,20,F7BOct 30B Minute Maid Park F 6 - 2     
-OL,21,                                        
-OL,22,                                        
+OL,22,GH       Halftime show: the Weeknd      
 OL,23,                                        
 OL,24, AIndex    BNews    CMovies    FWeather@
 FL,160,161,163,165,100,100

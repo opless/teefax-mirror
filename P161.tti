@@ -1,92 +1,30 @@
-DS,inserter
-CT,20,T
-PN,16101
-SC,0001
+PN,16100
+SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,T7#####css#cs3#s#s#s#ss3##s#cs3########k
-OL,2,T5     ## #    #   # D     Tj
-OL,3,T5              j5 // D     Tj
-OL,4,T5     || | o|?  |   | D     Tj
-OL,5,Tuppppprssprsqppsppspssqppsprsqppppppppz
-OL,6,T                                       
-OL,7,DM              WEEK                    
-OL,8,DM              WEEK                    
-OL,9,T                      0   0  ` $  $    
-OL,10,T$`p1!"00  8lx $(   zsptp}u     0       
-OL,11,T  b `    "p  ! 4zww1    6       
-OL,12,T   ` p3 ` o    z?///   2        
-OL,13,T  cc b"  , %" <      0"2  !    
-OL,14,T ````"   uu}   *oww "`$?  $    $$   
-OL,15,T   "%    7z  !"${}|~>    0       
-OL,16,T     5   k~5  4   #2+/ou$           
-OL,17,T    p     o}5  5 `*`    j  $ (!      
-OL,18,T    %  (. j5   `h p"& 0~?            
-OL,19,T    !     j5  $ p $.& (j} ($   ($    
-OL,20,T        /% }7$(4`    p$( /!            
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
-OL,24,G                                       
-FL,0,0,0,0,100,100
-PN,16102
-SC,0002
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,T7#css#cs3#s#s#s#ss3##s#cs3############k
-OL,2,T5 ## #    #   # D         Tj
-OL,3,T5          j5 // D Daily   Tj
-OL,4,T5 || | o|?  |   | D Deaths  Tj
-OL,5,Tuprssprsqppsppspssqppsprsqppppppppppppz
-OL,6,G                                       
-OL,7,D             Los Angeles               
-OL,8,G                                       
-OL,9,D         Mon Tue Wed Thu Fri Sat Sun   
-OL,10,D1 16Mar@A A0@ A0@ A0@ A1@ A0@ A2@ A1@  
-OL,11,D2 23Mar@A E2@ E4@ E3@ E8@ E5@ E6@ E5@  
-OL,12,D3 30Mar@A A7@A10@A11@A13@A11@A28@A15@  
-OL,13,D4 06Apr@AE15@E22@E29@E25@E18@E25@E31@  
-OL,14,D5 13Apr@AA25@A40@A42@A55@A40@A81@A24@  
-OL,15,D6 20Apr@AE17@E46@E66@E68@E52@E48@E18@  
-OL,16,D7 27Apr@AA29@A59@A56@A55@A62@A38@A21@  
-OL,17,D8 04May@AE28@E58@E55@E51@E51@E44@E18@  
-OL,18,D9 11May@AA39@A45@A47@A51@A47@A40@A29@  
-OL,19,D10 18May@E18@E76@E57@E46@E35@E74@E14@  
-OL,20,D11 25May@A12@A27@A53@A48@A50@A48@A25@  
-OL,21,D12 01Jun@E25@E22@E60@E..@E..@E..@E..@  
-OL,22,D13 08Jun@A..@A..@A..@A..@A..@A..@A..@  
-OL,23,D14 15Jun@E..@E..@E..@E..@E..@E..@E..@  
-OL,24,G                                       
-FL,0,0,0,0,100,100
-PN,16103
-SC,0003
-PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,T7#css#cs3#s#s#s#ss3##s#cs3############k
-OL,2,T5 ## #    #   # D         Tj
-OL,3,T5          j5 // D Total   Tj
-OL,4,T5 || | o|?  |   | D Deaths  Tj
-OL,5,Tuprssprsqppsppspssqppsprsqppppppppppppz
-OL,6,G                                       
-OL,7,D             Los Angeles               
-OL,8,G                                       
-OL,9,D      Mon  Tue  Wed  Thu  Fri  Sat  Sun
-OL,10,DM16@A   1A   1A   1A   2A   2A   4A   5
-OL,11,DM23@E   7E  11E  14E  22E  27E  33E  38
-OL,12,DM30@A  45A  55A  66A  79A  90A 118A 133
-OL,13,DA06@E 148E 170E 199E 224E 242E 267E 298
-OL,14,DA13@A 323A 363A 405A 460A 500A 581A 605
-OL,15,DA20@E 622E 668E 734E 802E 854E 902E 920
-OL,16,DA27@A 949A1008A1064A1119A1181A1219A1240
-OL,17,DM04@E1268E1326E1381E1432E1483E1527E1545
-OL,18,DM11@A1584A1629A1676A1727A1774A1814A1843
-OL,19,DM18@E1861E1937E1994E2040E2075E2149E2163
-OL,20,DM25@A2175A2202A2255A2303A2353A2401A2426
-OL,21,DJ01@E2451E2473E2533E....E....E....E....
-OL,22,DJ08@A....A....A....A....A....A....A....
-OL,23,DJ15@E....E....E....E....E....E....E....
-OL,24,@                                       
+OL,1,WT= Wxw7:);ic%&7z?/cs+{4Qo
+OL,2,T|~?W`&;a|}xu~jjhsx|0ko j
+OL,3,TW ~&x5jtuWo
+OL,4,T/oWj%n o2kQj
+OL,5,WT7Wzj2?/t  y 5Q
+OL,6,T|~5W5~5?/-t)0dj1Wj
+OL,7,T5W78?'{||?" "4+4Wo
+OL,8,T/o}Wja5'x?////cx}0  $m2}Qj
+OL,9,WT7Wz>hjz<o??cws+t  4=!Qj
+OL,10,T|~5Wx'z'x/w8o/u+}'x|r{'0 *a5Wj
+OL,11,TuW*%4okzq6!.h~gq`"0$psr81! 5Wj
+OL,12,TW }zjt37xrx, ws!,l2t"j5Q~
+OL,13,T5Wo$z%>cxrx~+0ktiz  5Q
+OL,14,W j5o~x/u}8+? ~! 
+OL,15,W5 o4?a~;wf4"o? "' z
+OL,16,QW"*'`t3/o=#`0)2a0  Qz
+OL,17,Q}W"%%h|px/'ar5 %Q
+OL,18,W| k4ht(888t$$y%  d j
+OL,19,Wu k;t}tqqq|'zz5  b$ 
+OL,20,QuWm2o/## x'   99Q*
+OL,21,QtWk2o#q~7   bffdQ+
+OL,22,Wu m*' 8((9999  "+
+OL,23,W' 4ow#//'!`&8a~vfff    "+o
+OL,24,Q/!Wj2o|ppxa&x}91     Q  "
 FL,0,0,0,0,100,100
