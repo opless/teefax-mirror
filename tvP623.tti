@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 09th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 10th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,B0900CLorraine
@@ -16,27 +16,29 @@ OL,11,B1500CNew: Tenable
 OL,12,B1600CNew: Tipping Point
 OL,13,B1700CNew: The Chase
 OL,14,B1800CITV News Anglia
-OL,15,B1830CITV Evening News
-OL,16,B1900CEmmerdale
-OL,17,B1930CNew: For the Love of Britain
-OL,18,B2000CNew: Million Pound Pawn
-OL,19,B2100CNew: Unforgotten
-OL,20,B2200CITV News at Ten
-OL,21,B2235CITV News Anglia
+OL,15,B1825CParty Political Broadcast:...
+OL,16,B1830CITV Evening News
+OL,17,B1900CEmmerdale
+OL,18,B1930CCoronation Street
+OL,19,B2000CNew: Heathrow: Britain's...
+OL,20,B2030CCoronation Street
+OL,21,B2100CNew: DNA Journey
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 09th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 10th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,B2245COprah with Meghan and Harry
-OL,6,B0030CMade in Britain
-OL,7,B0115CShop: Ideal World with Linear...
-OL,8,B0300CFYI Extra
-OL,9,B0315CITV Nightscreen
-OL,10,B0505CTipping Point
+OL,5,B2215CITV News
+OL,6,B2245CITV News Anglia
+OL,7,B2255CNew: Peston
+OL,8,B2355CMade in Britain
+OL,9,B0045CShop: Ideal World - Beauty and...
+OL,10,B0300CFYI Extra
+OL,11,B0315CITV Nightscreen
+OL,12,B0505CTipping Point
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
