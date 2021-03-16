@@ -1,10 +1,10 @@
 DE,Main Menu
 DS,inserter
-SP,J:\peter\teefax\P100-Index.tti
+SP,N:\git-repos\teletext\P100-Index.tti
+CT,8,T
 PN,10001
 SC,0001
 PS,8010
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -15,7 +15,7 @@ OL,5,CNews
 OL,6,AM TEEFAX: QUALITY TELETEXT SINCE 2015  
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -31,8 +31,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10002
 SC,0002
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -43,7 +42,7 @@ OL,5,CFun and games
 OL,6,AMPLAY THE 'WIGANBOOZLE' QUIZ       P806
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -60,8 +59,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10003
 SC,0003
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -72,7 +70,7 @@ OL,5,CNews
 OL,6,AMIS YOUR VBIT2 INSTALL UP TO DATE? P797
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -89,8 +87,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10004
 SC,0004
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -101,7 +98,7 @@ OL,5,CEvents
 OL,6,AMBLOCK PARTY --- 25 Apr 2020       P810
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -118,8 +115,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10005
 SC,0005
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -130,7 +126,7 @@ OL,5,CMusic
 OL,6,AMUKEFAX- STRUM THE UKE IN STYLE  P600  
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -147,8 +143,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10006
 SC,0006
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -159,7 +154,7 @@ OL,5,CArt
 OL,6,AMTWEET US WITH _TELETEXT - TWITTER P153
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -176,8 +171,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10007
 SC,0007
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -188,7 +182,7 @@ OL,5,CFun and games
 OL,6,AMBEAT BAMBER WITH TECHY KNOWLEDGE  P152
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -205,8 +199,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10008
 SC,0008
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -217,7 +210,7 @@ OL,5,CFun and games
 OL,6,AMDARE YOU ENTER THE LABYRINTH?     P536
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -234,8 +227,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10009
 SC,0009
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -246,7 +238,7 @@ OL,5,CEvents
 OL,6,AMCHUNKY FRINGE 2020 IN HARROW!     P811
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
@@ -263,8 +255,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10010
 SC,0010
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -275,7 +266,7 @@ OL,5,CNews
 OL,6,AMWELCOME TO THE WORLD'S NEWEST TELETEXT
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'SQx|||||||||||||||||||||tF....G150
-OL,10,BTHE OQz]W                Q^\_uFS..G200
+OL,10,BTV LIQz]W                Q^\_uFS..G200
 OL,11,BBBC NQ]W h#46) h#$7#j#!ujQ^\_F...G400
 OL,12,BUK WEQ]W j#52i `#47#j#!5kQ^\_F...G570
 OL,13,BLA ONQ]W " !"!  # ##"#!!"Q^\_F...G600
@@ -292,8 +283,7 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10011
 SC,0011
-PS,8010
-CT,8,T
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -304,7 +294,7 @@ OL,5,CVisit & join:
 OL,6,AMwww.facebook.com/groups/TeletextGroup 
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTHE ONE SHOW..G410FVIEWERS' PAGES..G200
+OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
