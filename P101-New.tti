@@ -1,33 +1,30 @@
-DE,Description goes here
-DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext-full\P101-New.tti
 PN,10100
 SC,0000
 PS,8000
-CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
-OL,1,Q<,lR<,lT<,lR||,<<<ll<,<,ll<,|<,|,lll,||
-OL,2,Q5jR5jT5jR]Ujjju5~{"!%~s ~k4155  
-OL,3,QuszRuszTuszR]U+..*%%/* /  ,' /*%/$--'  
-OL,4,DDcovid19.covid-19.covid19.covid-19.covi
-OL,5,DDd-19.covid19.covid-19.covid19.covid-19
-OL,6,CMP430          TV Reviews          P430
-OL,8,F            Sat 23rd May 2020          
-OL,9,       Our first plasma TV review       
-OL,10,DDovid-19.covid19.covid-19.covid19.covid
-OL,11,DD19.covid-19.covid19.covid-19.covid19.c
-OL,12,CMP173          Easter 2020         P173
-OL,13,CMP173         Easter 2020          P173
-OL,14,F           Sat 11th April 2020         
-OL,15,DDcovid19.covid-19.covid19.covid-19.covi
-OL,16,DDd-19.covid19.covid-19.covid19.covid-19
-OL,17,DDovid-19.covid19.covid-19.covid19.covid
-OL,18,CMP172D        CCOVID-19D          CP172
-OL,19,CMP172D        CCOVID-19D          CP172
-OL,20,DDcovid19.covid-19.covid19.covid-19.covi
-OL,21,DDd-19.covid19.covid-19.covid19.covid-19
-OL,22,DDovid-19.covid19.covid-19.covid19.covid
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,ATV ReviewsBEaster CCOVID-19 FBamboozle@
-FL,430,173,172,818,100,100
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,Q<,lR<,lV<,lT||,<<<ll<,<,ll<,|<,|,lll,||
+OL,2,Q5jR5jV5jT]Sjjju5~{"!%~s ~k4155  
+OL,3,QuszRuszVuszT]S+..*%%/* /  ,' /*%/$--'  
+OL,4,DDS                                     
+OL,5,G           Wed 17th April 2021         
+OL,6,CMSt.Patricks Day 2021!F............P174
+OL,7,CMSt.Patricks Day 2021!F............P174
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,                                        
+FL,174,174,174,174,100,100
