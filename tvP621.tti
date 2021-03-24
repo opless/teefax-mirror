@@ -3,14 +3,14 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FMorning Live
 OL,6,G1000FHomes Under the Hammer
 OL,7,G1100FCrimewatch Live
-OL,8,G1155FBBC News Special
-OL,9,G1205FBargain Hunt
+OL,8,G1145FParamedics on Scene
+OL,9,G1215FBargain Hunt
 OL,10,G1300FBBC News at One
 OL,11,G1330FLook East
 OL,12,G1345FDoctors
@@ -21,25 +21,23 @@ OL,16,G1630FThe Repair Shop
 OL,17,G1715FPointless
 OL,18,G1800FBBC News at Six
 OL,19,G1830FLook East (West)
-OL,20,G1900FLockdown Live: What Next?
-OL,21,G2000FEastEnders
+OL,20,G1900FThe One ShowC410
+OL,21,G2000FThe Repair Shop
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2020FHolby City
-OL,6,G2100FMasterChef
-OL,7,G2200FBBC News at Ten
-OL,8,G2230FLook East (West)
-OL,9,G2245FFootball's Darkest Secret
-OL,10,G0010FBates Motel
-OL,11,G0050FBates Motel
-OL,12,G0130FWeather for the Week Ahead
-OL,13,G0135FBBC News
+OL,5,G2100FThis Is My House
+OL,6,G2200FBBC News at Ten
+OL,7,G2230FLook East (West)
+OL,8,G2245FFootball's Darkest Secret
+OL,9,G2345FThe Surrogates
+OL,10,G0035FWeather for the Week Ahead
+OL,11,G0040FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
