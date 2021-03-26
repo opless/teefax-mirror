@@ -5,47 +5,15 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FRadio UP           BGrt Hits BBH       
-OL,5,FCapital UK         BSmooth 3Counties   
-OL,6,FMKFM               BHITS RADIO UK      
-OL,7,FHeart 4 Counties   BBBC 3CR            
+OL,4,FGrt Hits BBH       BCapital UK         
+OL,5,FMKFM               BHITS RADIO UK      
+OL,6,FHeart 4 Counties   BSmooth 3Counties   
+OL,7,FBBC 3CR            BRadio UP           
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
 PN,53502
 SC,0002
-OL,2,CDAB ENSEMBLES ED1 National     
-OL,3, 
-OL,4,FHeart 70s          BCapXTRA Reloaded   
-OL,5,FRadio X            BLBC News           
-OL,6,FCapital UK         BSmooth Chill       
-OL,7,FCapital DANCE      BClassic FM         
-OL,8,FtalkSPORT          BLBC                
-OL,9,FAbsolute Radio     BUCB 1              
-OL,10,FKISS               BMagic              
-OL,11,FKISSTORY           BHeart UK           
-OL,12,FSmooth UK          BGold UK            
-OL,13,FHeart Dance        BHeart 80s          
-OL,14,FHeart 90s          BCapital XTRA       
-OL,15,FINRIX UK TPEG    (data)
-OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
-OL,24,ALabyrinth  BSnowman  CTV  FEngineering
-FL,536,533,538,700,0,530
-PN,53503
-SC,0003
-OL,2,CDAB ENSEMBLES EBBC National DAB
-OL,3, 
-OL,4,FBBC WorldService   BBBC Radio 1        
-OL,5,FBBC Radio 2        BBBC Radio 3        
-OL,6,FBBC Radio 5 Live   BBBC Radio 4Extra   
-OL,7,FBBC Radio 1Xtra    BBBC AsianNetwork   
-OL,8,FBBC Radio 4        BBBC Radio 6Music   
-OL,9,FBBC Guide        (data)
-OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
-OL,24,ALabyrinth  BSnowman  CTV  FEngineering
-FL,536,533,538,700,0,530
-PN,53504
-SC,0004
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
 OL,4,FMellow Magic       BVirgin Radio       
@@ -62,15 +30,47 @@ OL,14,FUnion JACK Rock    BBoom Radio UK
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
+PN,53503
+SC,0003
+OL,2,CDAB ENSEMBLES ED1 National     
+OL,3, 
+OL,4,FCapital UK         BHeart 70s          
+OL,5,FCapXTRA Reloaded   BRadio X            
+OL,6,FLBC News           BSmooth Chill       
+OL,7,FCapital DANCE      BClassic FM         
+OL,8,FtalkSPORT          BLBC                
+OL,9,FAbsolute Radio     BUCB 1              
+OL,10,FKISS               BMagic              
+OL,11,FKISSTORY           BHeart UK           
+OL,12,FSmooth UK          BGold UK            
+OL,13,FHeart Dance        BHeart 80s          
+OL,14,FHeart 90s          BCapital XTRA       
+OL,15,FINRIX UK TPEG    (data)
+OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
+OL,24,ALabyrinth  BSnowman  CTV  FEngineering
+FL,536,533,538,700,0,530
+PN,53504
+SC,0004
+OL,2,CDAB ENSEMBLES EBBC National DAB
+OL,3, 
+OL,4,FBBC Radio 1        BBBC Radio 2        
+OL,5,FBBC Radio 3        BBBC Radio 4        
+OL,6,FBBC Radio 5 Live   BBBC Radio 6Music   
+OL,7,FBBC Radio 4Extra   BBBC Radio 1Xtra    
+OL,8,FBBC AsianNetwork   BBBC WorldService   
+OL,9,FBBC Guide        (data)
+OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
+OL,24,ALabyrinth  BSnowman  CTV  FEngineering
+FL,536,533,538,700,0,530
 PN,53505
 SC,0005
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FCapital UK         BHITS RADIO UK      
-OL,5,FHeart Cambridge    BGold Cambs         
-OL,6,FBBC Radio Cambs    BGreatest Hits UK   
-OL,7,FDubai Now          BRadio Maria Eng    
-OL,8,FSmooth Country     BStar Radio (Cam)   
+OL,4,FHITS RADIO UK      BHeart Cambridge    
+OL,5,FBBC Radio Cambs    BGold Cambs         
+OL,6,FGreatest Hits UK   BDubai Now          
+OL,7,FRadio Maria Eng    BStar Radio (Cam)   
+OL,8,FSmooth Country     BCapital UK         
 OL,9,FEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
