@@ -1,9 +1,12 @@
 DE,Page 666
 DS,inserter
+SP,E:\Teefax\P666.tti
 PN,66600
 SC,0000
 PS,8000
+CT,8,T
 RE,0
+OL,0,XXXXXXXXCEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q             `pp||||||tpp              
 OL,2,Q          x|>'##     "##/||0          
 OL,3,Q        x/!      j?0   0   +m0        
@@ -27,5 +30,5 @@ OL,20,Q      *o0j/  `ppuppzpppu    o/
 OL,21,Q        +o1    "#   j   5   x>!        
 OL,22,Q          +/mtpp    "#csq|//!          
 OL,23,Q             "##//////'##              
-OL,24,A B C F                                 
+OL,24,A B C F          666                    
 FL,666,666,666,666,100,100
