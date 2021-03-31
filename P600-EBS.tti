@@ -1,14 +1,15 @@
 DE,Teefax Emergency Broadcast System
 DS,inserter
-SP,J:\peter\teefax\P600-EBS.tti
+SP,Z:\home\peterk\teletext\P600-EBS.tti
 PN,60000
 SC,0000
 PS,8000
 CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,D]F TEEFAX        Updated: 20 March 2020
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C %H:%M.%S
+OL,1,D]F TEEFAX        Updated: 31 March 2021
 OL,2,D]MGEMERGENCY BROADCAST SYSTEM          
+OL,3,P600-EBS.tti@                          @
 OL,5,D]C COVID-19 alert                      
 OL,7,FThe coronavirus pandemic requires      
 OL,8,Furgent action from everyone to slow the
@@ -20,7 +21,9 @@ OL,14, people. Wash your hands when you have
 OL,15, touched anything that other people may 
 OL,16, have touched. Don't touch your own face
 OL,17, with your hands but use a tissue.      
-OL,19, If you were thinking of attending      
-OL,20, Block Party 2020 in Cheltenham then    
-OL,21, check that it is still going ahead.    
+OL,19, Block Party 2021 is set for Sep 4      
+OL,20, but the virus may have other ideas so  
+OL,21, check with arbitraryfiles.com first.   
 OL,23,CPlease check this page for updates     
+OL,24,AUkefaxCRyan techBLuciferFWorld clock   
+FL,601,630,666,676,8ff,8ff
