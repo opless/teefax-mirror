@@ -5,6 +5,66 @@ SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V]  Wj]     Vj]            W]     Vj]   
+OL,2,V]  W]Ux]W+] V]           Wj]U`~} V]   
+OL,3,V]  W]U]  Wk]V]           Wj]U]  W]V]   
+OL,4,Sx| xt  `p^  `pQ  S`pp0                 
+OL,5,S  ju t }0h4`~R$^$$$$$Q
+OL,6,S~]_\"qz4#o4#ouj5j4R2^2222Q
+OL,7,S?ho5|~%|~7j}75R(^((((Q
+OL,8,S^5o?*o~%/'# ?'#  ##zR `aaaaaaQ
+OL,9,S+' Z Wx||0YS/'    /'!ZWppYS+/! ZW`0    
+OL,10,R(((ZW~/0~?oth~4 n/ |}h|4
+OL,11,RaaZWjup%ppzjt! j hwxj!z5
+OL,12,R$$ZWj/'z7k +o}4j */' j~/! 
+OL,13,R220ZWopx4+}~ }?j~5o4 +% 
+OL,14,W    Z +/#   ###! "//'! #/#  ###  "!    
+OL,15,V]     Wx]                      Vk]     
+OL,16,V]    Wx]^\g|;]\]\]\]\g|;]    Vk]    
+OL,17,V]   Wh]^\]\~}]\]\]\]\~}]     Vo]   
+OL,18,V]   W]                           Vj]   
+OL,19,V]  W`]  U p QW^\u   `]     Up    V]   
+OL,20,V] Wdj]  U~}QRQRW^\0x]     U~}   V?{] 
+OL,21,V]Wp^{] _U+'QW^(o\5]      U+'   V./o]
+OL,22,V] W`n]^\]\]\]\v;gqs/s~]         V;]  
+OL,23,V] W!j]                            V~] 
+OL,24,W                                       
+FL,0,0,0,0,100,100
+PN,17302
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,1,V]           W]U5VUjVj]           
+OL,2,V]           W]U?%V//U*oVj]           
+OL,3,V]          Wp~]          V#/]          
+OL,4,V]        Wx~]              V"o]        
+OL,5,V]      W`~]                  V+]       
+OL,6,V]     Wh]                     V"o]     
+OL,7,V]    Wh]^\?/o]\]\]\]\?/o]   V"]     
+OL,8,V]   W`]     \ %]^\0z]  \ %]    V*]    
+OL,9,V]   W]^\]\tpx]\wys]\tpx]     Vo]   
+OL,10,V]  Wh] Uxt       Sp^p0      Uxt  V*]   
+OL,11,V]  Wz] Uo?    S`|]   W"k]   Uo?   V]   
+OL,12,V]  W]        Qh]       W"]        Vj]  
+OL,13,V] Wh]       Sh]         W"]       V*]  
+OL,14,V]^Wz\!"/] Q`]           Wj\?'!*] V]  
+OL,15,V]^W\!    #So]\]\]\]\]\]\W'!    k]V]  
+OL,16,V] W^\t     Q"o]\]\]\]\'!    W`x] V]  
+OL,17,V] W]^\t0    S]        \   Wp|]   V]  
+OL,18,V] W]^\]\]\Q||~]\]\]\]\}|W]       V]  
+OL,19,V] W]       S]             W]       V]  
+OL,20,S|h|h|^4|||h||4|h| Z ||4|||h||4||4||4||t
+OL,21,S~ju5zju5/~/ Z |4zj}|4j |4z?
+OL,22,Wjj75#^j7#! ]\ Z |4kh|5j |4k}
+OL,23,U#"#"!#!#  "!   #    #^!#"#"##!"# ##!#"#
+OL,24,W                                       
+FL,0,0,0,0,100,100
+PN,17303
+SC,0003
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,WT]Sl h$  (<d(<d     l,l   `p0j,   F2/3 
 OL,2,WT]Sj,n .#5^j 5j"5k  j,$('kjpsj  w{j.!  
 OL,3,WT]Sz j0ws57! 7! ez  zpxjs{(tzjx$uxj    
@@ -30,8 +90,8 @@ OL,22,W ]        MDI Love Easter!!
 OL,23,W ]        MDI Love Easter!!            
 OL,24,W                                       
 FL,0,0,0,0,100,100
-PN,17302
-SC,0002
+PN,17304
+SC,0004
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -60,8 +120,8 @@ OL,22,T]R    #//'!   S  #+/l0
 OL,23,T]S    '               
 OL,24,                                        
 FL,0,0,0,0,100,100
-PN,17303
-SC,0003
+PN,17305
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -90,8 +150,8 @@ OL,22,T]
 OL,23,T]                                      
 OL,24,ACompetitionBFeatures CFactsFORACLE Kids
 FL,0,0,0,0,100,100
-PN,17304
-SC,0004
+PN,17306
+SC,0006
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -120,8 +180,8 @@ OL,22,S|||~5W       `~}Sk
 OL,23,D]G Happy Easter fromCEaster Island!    
 OL,24,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 FL,0,0,0,0,100,100
-PN,17305
-SC,0005
+PN,17307
+SC,0007
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
@@ -150,8 +210,8 @@ OL,22,WT]       W#!'#  S,mx$
 OL,23,WT]                    FDETAILS FOLLOW >
 OL,24,W                                       
 FL,0,0,0,0,100,100
-PN,17306
-SC,0006
+PN,17308
+SC,0008
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
