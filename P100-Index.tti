@@ -1,10 +1,10 @@
 DE,Main Menu
 DS,inserter
-SP,N:\git-repos\teletext\P100-Index.tti
-CT,8,T
+SP,/home/peterk/teletext/P100-Index.tti
 PN,10001
 SC,0001
-PS,8010
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -24,14 +24,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
-OL,23,V]D!!NEW!!    Mr.Biffo!    Pages 571-574
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,23,V]!D!DIGITISER! Mr.Biffo!  Pages 571-574
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10002
 SC,0002
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -52,14 +53,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
-OL,23,V]DTELETEXT BLOCK PARTY 2020    P810/811
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,23,V]DTELETEXT BLOCK PARTY 2021    P810/811
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10003
 SC,0003
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -80,14 +82,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]D_NationalTeletextDay - September 23  
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10004
 SC,0004
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -95,7 +98,7 @@ OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?
 OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
 OL,4,Q ###R###T###R##########################
 OL,5,CEvents                                 
-OL,6,AMBLOCK PARTY --- 25 Apr 2020       P810
+OL,6,AMBLOCK PARTY --- 04 Sep 2021       P810
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
 OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
@@ -108,14 +111,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]DVisit TELETEXT: THE FACEBOOK GROUP   
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10005
 SC,0005
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -136,14 +140,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]DJoin us on https://discord.gg/SBbPVF7
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10006
 SC,0006
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -164,14 +169,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]D WHERE DID YOU HEAR ABOUT TEEFAX?    
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10007
 SC,0007
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -192,14 +198,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]DTHE WORLD IN 1024 BYTES or less ;-)  
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10008
 SC,0008
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -220,14 +227,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]DYESTERDAY'S TECHNOLOGY, TOMORROW     
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10009
 SC,0009
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -235,7 +243,7 @@ OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?
 OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
 OL,4,Q ###R###T###R##########################
 OL,5,CEvents                                 
-OL,6,AMCHUNKY FRINGE 2020 IN HARROW!     P811
+OL,6,AMCHUNKY FRINGE 2021 IN HARROW!     P811
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
 OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
@@ -248,14 +256,15 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]DJoin us on https://discord.gg/SBbPVF7
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10010
 SC,0010
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -276,14 +285,15 @@ OL,16,ACarloQ]W   #k7#*u `?j5   Q^\_CNFOG700
 OL,17,ADan'sQ]W    j5  o0z%j5   Q^\_C...G785
 OL,18,ASteveQ]W    j5  *u? b1   Q^\_CEX G790
 OL,19,ACY2..Qk]W    "!   #! "!  Q^\_7CTS G800
-OL,20,AChris Q+/////////////////////'C2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris Q+/////////////////////'C2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]DLots of fun at your finger tips ;-)  
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
 PN,10011
 SC,0011
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -304,8 +314,8 @@ OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
 OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
 OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2020G810
-OL,21,ARaquel Meyers G555CDigitiser2000...G470
+OL,20,AChris TsangariG540CBlock Party 2021G810
+OL,21,ARaquel Meyers G555CDigitiser.......G470
 OL,23,V]DTEEFAX: IT KEEPS US OCCUPIED    ;-)  
 OL,24,A About BBamboozle CEvents FArt Archive 
 FL,199,150,800,200,46a,100
