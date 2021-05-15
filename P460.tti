@@ -3,6 +3,7 @@ CT,8,T
 PS,8000
 PN,46000
 SC,0000
+RE,0
 FL,100,104,800,600,8ff,100
 OL,1,B TEEFAX Telesoftware Index Placeholder 
 OL,3,R#7!7#!5  7#!7#kj#k57#!#7!5  j 7k 7k 7#!
@@ -10,5 +11,9 @@ OL,4,R u up0u  up0uppj  5up0 u u 0j`uz0uz0up0
 OL,5,R          j  5     5jj5 5 5  
 OL,6,R  p0p0p0upjpp5    puzj5 5 5p0
 OL,8,            BCOMING SOON *              
+OL,16,BIf you're interested in developing and 
+OL,17,Btesting telesoftware programs for the  
+OL,18,BBBC Micro, or ZX Spectrum, please get  
+OL,19,Bin touch. @ZXGuesser                   
 OL,22,   B* for undefined values of "soon"    
 OL,24,AMain Menu BNews Index CEvents FFeatures
