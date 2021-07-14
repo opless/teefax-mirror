@@ -1,10 +1,10 @@
 DE,Main Menu
 DS,inserter
-SP,/home/peterk/teletext/P100-Index.tti
+SP,C:\Users\Nathan Dane\Documents\teefax\P100-Index.tti
 PN,10001
 SC,0001
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -32,7 +32,7 @@ FL,199,150,800,200,46a,100
 PN,10002
 SC,0002
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -61,7 +61,7 @@ FL,199,150,800,200,46a,100
 PN,10003
 SC,0003
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -90,7 +90,7 @@ FL,199,150,800,200,46a,100
 PN,10004
 SC,0004
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -119,7 +119,7 @@ FL,199,150,800,200,46a,100
 PN,10005
 SC,0005
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -148,7 +148,7 @@ FL,199,150,800,200,46a,100
 PN,10006
 SC,0006
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -177,7 +177,7 @@ FL,199,150,800,200,46a,100
 PN,10007
 SC,0007
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -206,7 +206,7 @@ FL,199,150,800,200,46a,100
 PN,10008
 SC,0008
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -235,7 +235,7 @@ FL,199,150,800,200,46a,100
 PN,10009
 SC,0009
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -264,7 +264,7 @@ FL,199,150,800,200,46a,100
 PN,10010
 SC,0010
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -293,7 +293,7 @@ FL,199,150,800,200,46a,100
 PN,10011
 SC,0011
 PS,8000
-CT,8,T
+CT,1,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
