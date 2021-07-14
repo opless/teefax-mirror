@@ -1,6 +1,6 @@
 DE,CTS Main Index
 DS,inserter
-SP,C:\Users\Peter\OneDrive\Desktop\Teefax\P540-CTS.tti
+SP,C:\Users\Nathan Dane\Documents\teefax\P540-CTS.tti
 PN,54001
 SC,0001
 PS,8000
@@ -24,7 +24,7 @@ OL,15,           REFLECTION ...B546
 OL,17,QZ,,,,,,,,Belsewhere on TEEFAXQ,,,,,,,, 
 OL,21,QZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,23,T]     GBy Christopher Tsangari         
-FL,150,140,790,142,8ff,100
+FL,150,160,790,142,8ff,100
 PN,54002
 SC,0002
 PS,8000
@@ -50,7 +50,7 @@ OL,19,RZ 5Gfrom school matches in the     Rj
 OL,20,RZ 5GLondon Borough of Enfield      Rj  
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
-FL,150,140,790,142,8ff,100
+FL,150,160,790,142,8ff,100
 PN,54003
 SC,0003
 PS,8000
@@ -76,7 +76,7 @@ OL,19,RZ 5Ggraphics (I think I should let Rj
 OL,20,RZ 5Gthe experts carry on!)         Rj  
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
-FL,150,140,790,142,8ff,100
+FL,150,160,790,142,8ff,100
 PN,54004
 SC,0004
 PS,8000
@@ -102,7 +102,7 @@ OL,19,RZ 5Gsee here, keep moving :-)      Rj
 OL,20,RZ 5G                               Rj  
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
-FL,150,140,790,142,8ff,100
+FL,150,160,790,142,8ff,100
 PN,54005
 SC,0005
 PS,8000
@@ -128,4 +128,4 @@ OL,19,RZ 5Gwas made for. Actually we know Rj
 OL,20,RZ 5Git wasn't. Have a go.          Rj  
 OL,21,RZ -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.  
 OL,23,T]     GBy Christopher Tsangari         
-FL,150,140,790,142,8ff,100
+FL,150,160,790,142,8ff,100

@@ -1,10 +1,10 @@
 DE,Read back page  14/12/01
 DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P14F.ttix
-CT,99,C
+SP,C:\Users\Nathan Dane\Documents\teefax\P14F.ttix
 PN,14f00
 SC,0000
 PS,8040
+CT,99,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V  pp0  Wp,,,,,,dp0                     
@@ -30,5 +30,5 @@ OL,20,W"-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.!
 OL,21,A```````````````````````````````````````
 OL,22,D]GSend Bamber your quiz suggestions    
 OL,23,D]Gat teefax.uk@gmail.com               
-OL,24,AIndexB  News   CTeefax BBS F  Events   
-FL,100,104,140,800,8ff,100
+OL,24,AIndexB  News   CWorld ClockF  Events   
+FL,100,104,142,800,8ff,100
