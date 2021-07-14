@@ -3,7 +3,7 @@ PN,14200
 SC,0000
 PS,8040
 RE,0
-FL,104,130,160,140,8ff,100
+FL,104,130,160,100,8ff,100
 OL,1,Wh,,lh,,lh,,lV|lll,,<,|l|,l|<,<|<,l,ll<|
 OL,2,Wj 1nj 1nj =nVjjjj55qkjj$555jjb2
 OL,3,W*,,.*,,.*,,.V/,,.,,-/.,.,./-,-,-,.,..-/
@@ -19,7 +19,7 @@ OL,20,TZ}8,.-l<.l,,=,l.,|,/,,x
 OL,21,D```````````````````````````````````````
 OL,22,D]CTravel G430CFlightsG440CWeather  G400
 OL,23,D]CLettersG145CLotteryG555CMain menuG100
-OL,24,A BBC News  BNew York CL.A. FTeefax BBS 
+OL,24,A BBC News  BNew York CL.A. FMain Index 
 OL,7,CBeijing   ]D%t+16T\5FOttawa    ]D%t-08D
 OL,8,FFrankfurt ]D%t+04T\5CParis     ]D%t+04D
 OL,10,CJo'burg   ]D%t+04T\5FPerth     ]D%t+16D
