@@ -1,7 +1,7 @@
 DE,This is Ceefax replica ship
 DS,inserter
-SP,C:\Users\peter\teletext\P137-ThisIsCeefax-Ship.tti
-PN,13700
+SP,C:\Users\peter\teletext\P327-ThisIsCeefax-Ship.tti
+PN,32700
 SC,0000
 PS,8000
 CT,8,T
@@ -19,7 +19,7 @@ OL,9,W     5              &       j   !
 OL,10,W     5            H: I      j          
 OL,11,W     5           Q       Wj          
 OL,12,W     5       7#          j          
-OL,13,W     5       5 |Q       Wj          
+OL,32,W     5       5 |Q       Wj          
 OL,14,W     5              j          
 OL,15,T  j|0W555      j          
 OL,16,T      h5     
@@ -31,4 +31,4 @@ OL,21,/  F/ //  B/// / / / // F/ / H/ /  / //
 OL,22,B/   // F/  B/  / // /   HF/I  HB/I// / 
 OL,23,F//    B/ //  / / F/   B/ // / /  F/ B/ 
 OL,24,ANextBAngelaCShoppingFFarm prices       
-FL,138,139,131,132,8ff,8ff
+FL,328,329,321,322,8ff,8ff

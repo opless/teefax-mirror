@@ -1,8 +1,12 @@
-PN,19600
+DE,Description goes here
+DS,inserter
+SP,C:\Users\Admin\Documents\teefax\P196.tti
+PN,33200
 SC,0000
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,    W                                   
 OL,2,TM]GAN INVITATION TO VIEW... \          
 OL,3,TM]GAN INVITATION TO VIEW    \          
@@ -26,5 +30,4 @@ OL,20,WRWu pz!    D]FF- Admission Free -
 OL,21,WRW7*}x0     0`~}|R              
 OL,22,WRW-,,,,,,,,.//////////RGTour starts  
 OL,23,WR||||||||||||||||||||||Gin a momentF>
-OL,24,                                        
 FL,0,0,0,0,100,100

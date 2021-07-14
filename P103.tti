@@ -1,10 +1,10 @@
 DE,Magazine Index
 DS,inserter
-SP,V:\P103.tti
+SP,C:\Users\Admin\Documents\teefax\P103.tti
 PN,10300
 SC,0000
 PS,8040
-CT,f,C
+CT,0,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||||||<l<,|,,|,l,<l||||||||
@@ -15,7 +15,7 @@ OL,7,   out of use over time. See each
 OL,8,   Teefax index page for details:       
 OL,10,C  100 GNews and Information            
 OL,11,C  200 GViewers' Pages                  
-OL,12,C  300 GSport (under construction)      
+OL,12,C  300 GUnder Construction              
 OL,13,C  400 GWriting and Reviews             
 OL,14,C  500 GArts & Entertainment            
 OL,15,C  600 GSpecial Features                

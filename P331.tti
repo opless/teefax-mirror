@@ -1,22 +1,22 @@
+DE,Description goes here
 DS,inserter
-CT,20,T
-PN,19501
+SP,C:\Users\Admin\Documents\teefax\P195.tti
+PN,33101
 SC,0001
 PS,8000
+CT,20,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,Tppppppppp0ppppppppppppppppppppppppppppp
 OL,2,T5] FExtraGDas Erste 
 OL,3,T#########!#############################
 OL,4,F"Sechs auf einen Streich"              
-OL,5,                                        
 OL,6,GNeue Marchen zu Weihnachten........F861
 OL,7,GSendetermine: Heiligabend..........F862
 OL,8,GSendetermine: 1.Weihnachtsfeiertag.F863
 OL,9,GSendetermine: 2.Weihnachtsfeiertag.F864
 OL,10,GDas Wasser des Lebens..............F865
 OL,11,GDer Schweinehirt...................F866
-OL,12,                                        
 OL,13,FMarchen aus vergangenen Staffeln:      
 OL,14,GRumpelstilzchen....................F867
 OL,15, Bruderchen und Schwesterchan.......F868
@@ -27,14 +27,14 @@ OL,19,GFrau Holle.........................F872
 OL,20,GAschenputtel.......................F873
 OL,21,CMarchenquiz im ARD-Text............F874
 OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,23,                                        
 OL,24,A]D 861   B]D 862   C]D 863   F]D 864   
-FL,861,862,863,864,100,100
-PN,19502
+FL,0,0,0,0,100,100
+PN,33102
 SC,0002
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FNeue Marchen zu Weihnachten            
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,GNeun Marchenfilme prasentiert S]W .$(o
@@ -60,11 +60,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19503
+PN,33103
 SC,0003
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FNeue Marchen zu Weihnachten            
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,GIm zehnten Jahr in Folge setztS]Wp~| o
@@ -86,15 +87,13 @@ OL,18,GSchwesterchen", "Frau Holle"  R]S
 OL,19,Gund "Konig Drosselbart", die  Rw;/ssss
 OL,20,Gdas Erste zu Weihnachten zeigtR/tssq<,,
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
-PN,19504
+PN,33104
 SC,0004
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FMarchen im Ersten zu Weihnachten       
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,GSendetermine                           
@@ -120,11 +119,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19505
+PN,33105
 SC,0005
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FMarchen im Ersten zu Weihnachten       
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,GSendetermine                  Soa4Su`u`
@@ -150,11 +150,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19506
+PN,33106
 SC,0006
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FNarchen im Ersten zu Weihnachten       
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,GSendetermine                           
@@ -180,11 +181,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19507
+PN,33107
 SC,0007
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,P            MF Das Wasser des Lebens   
 OL,2,P            MF Das Wasser des Lebens   
 OL,3,P             Z  V$`                    
@@ -210,11 +212,12 @@ OL,22,V"#'3!xpsqx$trssx>'3//-/'caxlt2+%n.'attb
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19508
+PN,33108
 SC,0008
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FDas Wasser des Lebens   Whknzi0P S`nftt
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,PS~~~4P S"y.;=
 OL,3,GKonig Ansgar will einenPSj|x7t4P  W///
@@ -240,11 +243,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19509
+PN,33109
 SC,0009
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FDas Wasser des Lebens  Rxix0`b"Wh`>thP 
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,R{}m}gWbfdffWz
 OL,3,Ggeheimnisvolle Frau. Ob-R%'!n~%W(|<|<(%
@@ -270,11 +274,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19510
+PN,33110
 SC,0010
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FDas Wasser des Lebens   Q`|)9l0Sh`>thP 
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,Qn8w,efSbfdffSz
 OL,3,G                        QmW~{w5S(|<|<(%
@@ -300,11 +305,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19511
+PN,33111
 SC,0011
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,P          MEDer Schweinehirt           
 OL,2,P          MEDer Schweinehirt           
 OL,3,P  Whn;SpP                     W('+40P  
@@ -330,11 +336,12 @@ OL,22,P T`xW//!P  W?P     W?P  Qj5sVk%P
 OL,23,PT(//!/S'//$P U+P     U+P  Q*/-,V//.P   
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19512
+PN,33112
 SC,0012
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,EDer Schweinehirt               W,WpW,iP
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,PQ8P Whcj43
 OL,3, Das Konigreich Lichter- Uh:f4PWs(,o=,5s
@@ -356,15 +363,13 @@ OL,18, eine Nachtigall, die al-       QxWWQt
 OL,19, le Lieder singen kann,        T`xTt
 OL,20, und eine duftende Rose.      T(//!/T/"/
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
-PN,19513
+PN,33113
 SC,0013
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,EDer Schweinehirt             U(P       
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,P  V(P         
 OL,3,GDoch Victoria lasst denP       R(P     
@@ -390,11 +395,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19514
+PN,33114
 SC,0014
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,EDer Schweinehirt        Sywrx|1P S`||td
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,WytP  Sv};ko
 OL,3,EDarsteller              Wo}xP  Wt~vSo
@@ -420,11 +426,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19515
+PN,33115
 SC,0015
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,S;k;=P    CRumpelstilzchen              
 OL,2,Smq}35P   W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,SywkP                                  
@@ -450,11 +457,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19516
+PN,33116
 SC,0016
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,Smyy;q4P  CRumpelstilzchen              
 OL,2,S3{3{b$P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Sw?`!P                                
@@ -480,11 +488,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19517
+PN,33117
 SC,0017
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FBruderchen und SchwesterchenZR`v)/-otsk
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ZRl'9#,d3"
 OL,3,G                                    R"P
@@ -510,11 +519,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19518
+PN,33118
 SC,0018
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FBruderchen und Schwesterchen    W4`thP 
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P  W/...P 
 OL,3,G                                S,/-lyt
@@ -540,11 +550,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19519
+PN,33119
 SC,0019
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,PSu`u`uP  FKonig Drosselbart            
 OL,2,PS././.P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,PWbcwc5P  G                             
@@ -570,11 +581,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19520
+PN,33120
 SC,0020
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,PSu`u`uP  FKonig Drosselbart            
 OL,2,PS././.P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,PWbcwc5P                                
@@ -600,11 +612,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19521
+PN,33121
 SC,0021
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,P         CRapunzel                     
 OL,2,PT``P     W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,V:9)y0P   G                             
@@ -630,11 +643,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19522
+PN,33122
 SC,0022
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,Q|4||h|4P CRapunzel                     
 OL,2,Q4,($,($P W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,S89)y0P   G                             
@@ -660,11 +674,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19523
+PN,33123
 SC,0023
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,Q|4|S'zP  CRapunzel                     
 OL,2,Q4|hS2'P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,Q|4|S'zP  G                             
@@ -690,11 +705,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19524
+PN,33124
 SC,0024
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,CSchneewittchen               S?###/}0P 
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P    S"otP
 OL,3,G                             U>t``>S"0
@@ -718,13 +734,13 @@ OL,20,Gmacht sie sich auf den Weg...  VwPR+'
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,22,P                                       
 OL,23,P                                       
-OL,24,                                        
 FL,0,0,0,0,100,100
-PN,19525
+PN,33125
 SC,0025
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,CSchneewittchen             V!S{0S?4Tl
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S?S"o?PTx
 OL,3,G                               W890T`~
@@ -750,11 +766,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19526
+PN,33126
 SC,0026
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,W>!PW+4P  FFrau Holle                   
 OL,2,W5S||W5P  W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,W=<<<<5P  G                             
@@ -780,11 +797,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19527
+PN,33127
 SC,0027
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,P         FFrau Holle                   
 OL,2,P V`x|||pPW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,PVh?;;;;;!G                             
@@ -810,11 +828,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19528
+PN,33128
 SC,0028
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,BAschenputtel                 R`x||~}~
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R};gy
 OL,3,G                             R]W({ppPu 
@@ -840,11 +859,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19529
+PN,33129
 SC,0029
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,BAschenputtel                 R`x||~}~
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R};gy
 OL,3,G                             R]W({ppPu 
@@ -870,11 +890,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19530
+PN,33130
 SC,0030
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FMarchenquiz ARD Text                   
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,FDas Gewinnspiel                   Q*//P
@@ -900,11 +921,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19531
+PN,33131
 SC,0031
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FMarchenquiz ARD Text                   
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,FDas Gewinnspiel             W+uW`pP   
@@ -930,11 +952,12 @@ OL,22,P
 OL,23,P                                       
 OL,24,P                                       
 FL,0,0,0,0,100,100
-PN,19532
+PN,33132
 SC,0032
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.s
 OL,1,FNarchenquiz: Gewinnen Sie eine DVD!    
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,G                               Wp0Wz'P

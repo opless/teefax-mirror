@@ -1,7 +1,7 @@
 DE,This is Ceefax Farm Prices
 DS,inserter
-SP,C:\Users\peter\teletext\P132-ThisIsCeefax.tti
-PN,13200
+SP,C:\Users\peter\teletext\P322-ThisIsCeefax.tti
+PN,32200
 SC,0000
 PS,8000
 CT,8,T
@@ -23,4 +23,4 @@ OL,20,Q####G  Average price 4.52 pounds
 OL,21,     C  (up 4p)                         
 OL,23,   RwBDETAILS FROM "FARMING TODAY"R{    
 OL,24,ANext        BAnniversaries  C Air      
-FL,133,134,135,136,8ff,8ff
+FL,323,324,325,326,8ff,8ff

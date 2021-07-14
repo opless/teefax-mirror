@@ -1,7 +1,7 @@
 DE,This is Ceefax - title
 DS,inserter
-SP,C:\Users\peter\teletext\P138-ThisIsCeefax-Title.tti
-PN,13800
+SP,C:\Users\peter\teletext\P328-ThisIsCeefax-Title.tti
+PN,32800
 SC,0000
 PS,8000
 CT,8,T
@@ -19,7 +19,7 @@ OL,9,V
 OL,10,V                                       
 OL,11,V                                       
 OL,12,VH  j5j5j  5   
-OL,13,VH  5   j    5   j    5 jj  5   
+OL,32,VH  5   j    5   j    5 jj  5   
 OL,14,VH  5   jpp  up0 jpp  upz*opp?%   
 OL,15,VH  5   j//  ?/% j//  ?/o`z//u0   
 OL,16,VH  5   j    5   j    5 jj  5   
@@ -31,4 +31,4 @@ OL,21,V
 OL,22,V                                       
 OL,23,V                                       
 OL,24,A  Next    BFirst   C                   
-FL,139,131,132,133,8ff,8ff
+FL,329,321,322,323,8ff,8ff

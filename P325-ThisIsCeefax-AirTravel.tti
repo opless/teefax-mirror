@@ -1,7 +1,7 @@
 DE,ThisIsCeefax-AirTravel
 DS,inserter
-SP,C:\Users\peter\teletext\P135-ThisIsCeefax-AirTravel.tti
-PN,13501
+SP,C:\Users\peter\teletext\P325-ThisIsCeefax-AirTravel.tti
+PN,32501
 SC,0001
 PS,8000
 CT,12,T
@@ -17,7 +17,7 @@ OL,7,U         "#####     V
 OL,9, GETTING TO HEATHROW AIRPORT,1 - BY CAR 
 OL,10,Q///////////////////////////            
 OL,12, The airport is linked to theCA4Gand    
-OL,13,CM4G- but bus or rail services could be 
+OL,32,CM4G- but bus or rail services could be 
 OL,14, quicker and cheaperA(see the following 
 OL,15,Apages)                                 
 OL,16,       PARKING charges at the airport   
@@ -28,8 +28,8 @@ OL,21, Long-term parking can be cheaper and
 OL,22, can be booked by telephone. The number 
 OL,23,              is.E01-759-4321 ext 6368  
 OL,24,ANextBGood Ship TeefaxCCEEFAX!FAngela   
-FL,136,137,138,139,8ff,8ff
-PN,13502
+FL,326,327,328,329,8ff,8ff
+PN,32502
 SC,0002
 PS,8000
 CT,12,T
@@ -45,7 +45,7 @@ OL,7,V         "#####
 OL,9, GETTING TO HEATHROW,2 - BY TRAIN       
 OL,10,Q////////////////////////////////       
 OL,12, KeyABRITISH RAILGstation for the       
-OL,13, airport areCREADINGG(for passengers    
+OL,32, airport areCREADINGG(for passengers    
 OL,14, from the West, South Wales and West    
 OL,15, Midlands)CFELTHAMGfor passengers from  
 OL,16, the South-East) andCWOKINGG(if you are 
@@ -56,4 +56,4 @@ OL,21,ASee the next page - which will follow
 OL,22,Aautomatically - for bus and Underground
 OL,23,Aservices to the airport.               
 OL,24,ANextBGood Ship TeefaxCCEEFAX!FAngela   
-FL,136,137,138,139,8ff,8ff
+FL,326,327,328,329,8ff,8ff

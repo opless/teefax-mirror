@@ -1,7 +1,7 @@
 DE,This is Ceefax - News
 DS,inserter
-SP,C:\Users\peter\teletext\P133-ThisIsCeefax-News.tti
-PN,13301
+SP,C:\Users\peter\teletext\P323-ThisIsCeefax-News.tti
+PN,32301
 SC,0001
 PS,8000
 CT,12,T
@@ -18,7 +18,7 @@ OL,9,Q||Gbomb was thrown into a pub in
 OL,10,    North Belfast. The action of a      
 OL,11,    doorman who kicked the bomb outside 
 OL,12,    is thought to have prevented even   
-OL,13,    more casualties.                    
+OL,32,    more casualties.                    
 OL,15,Q||GA 1,000 pound subsidy for people    
 OL,16,Q||Gbuying homes for the first time was 
 OL,17,    suggested today by Mr Andrew Tait,  
@@ -27,8 +27,8 @@ OL,19,    Housebuilding Council, at a
 OL,20,    conference in Torquay.              
 OL,23,A   MORE HOME NEWS ON PAGE 103          
 OL,24,ANext   BAir  CIndex FGood Ship Teefax  
-FL,134,135,136,137,8ff,8ff
-PN,13302
+FL,324,325,326,327,8ff,8ff
+PN,32302
 SC,0002
 PS,8000
 CT,12,T
@@ -44,7 +44,7 @@ OL,8,R||GHundreds of firemen and soldiers
 OL,9,    are fighting aCHEATHLAND FIREGin    
 OL,10,    Hampshire.                          
 OL,12,R||GTop engineers in Britain's power    
-OL,13,    stations are being asked to vote on 
+OL,32,    stations are being asked to vote on 
 OL,14,    whether to strike for aCPAY CLAIM.  
 OL,16,R||GAge Concern which looks after the   
 OL,17,    welfare of old folk have called for 
@@ -53,8 +53,8 @@ OL,20,R||GThe Queen has arrived inCJAPANGfor
 OL,21,    a six day visit.                    
 OL,23,W||AMore details on p103 and 104Q|||    
 OL,24,ANext   BAir  CIndex FGood Ship Teefax  
-FL,134,135,136,137,8ff,8ff
-PN,13303
+FL,324,325,326,327,8ff,8ff
+PN,32303
 SC,0003
 PS,8000
 CT,12,T
@@ -68,7 +68,7 @@ OL,9,  BCRICKET:CAt Worcester,GYorkshire 34-0
 OL,10,           (Rain).                      
 OL,11,           CAt Lord's,GMiddlesex 270-6  
 OL,12, Somerset 43-0.                         
-OL,13,           CAt Swansea,GGlamorgan 213-8 
+OL,32,           CAt Swansea,GGlamorgan 232-8 
 OL,14, Hampshire 71-3.                        
 OL,15,           CAt Northampton,GNorthants   
 OL,16, 199 Warwickshire 16-0.                 
@@ -77,8 +77,8 @@ OL,18, 216-9 Surrey 48-1.
 OL,19,           CAt Leicester,GLeicestershire
 OL,20, 264 Sussex 20-1.                       
 OL,24,ANext   BAir  CIndex FGood Ship Teefax  
-FL,134,135,136,137,8ff,8ff
-PN,13304
+FL,324,325,326,327,8ff,8ff
+PN,32304
 SC,0004
 PS,8000
 CT,8,T
@@ -95,7 +95,7 @@ OL,9, Friday 10 am                   G
 OL,10,                                G       
 OL,11,B   328.0                       G       
 OL,12,C  Up 3.1                       G  --350
-OL,13,                                G       
+OL,32,                                G       
 OL,14,                                G       
 OL,15,  1 May 334.7Qpp             R  G       
 OL,16,  2  "  330.7Q5j          7k RppG  --330
@@ -107,4 +107,4 @@ OL,21,             Quz uz uz uz uz RuzG
 OL,22,              F  M  T  W  Th  Nov       
 OL,23,W///////////////////////////////////////
 OL,24,ANext   BAir  CIndex FGood Ship Teefax  
-FL,134,135,136,137,8ff,8ff
+FL,324,325,326,327,8ff,8ff

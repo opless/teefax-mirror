@@ -1,7 +1,7 @@
 DE,This is Ceefax index
 DS,inserter
-SP,C:\Users\peter\teletext\P136ThisIsCeefax-Index.tti
-PN,13600
+SP,C:\Users\peter\teletext\P326ThisIsCeefax-Index.tti
+PN,32600
 SC,0000
 PS,8000
 CT,8,T
@@ -18,7 +18,7 @@ OL,9,  Foreign......104 :F& BBC NEWS..... 110
 OL,10,C SPORT........105 :                    
 OL,11,C Racing.......106 :BELECTRONICS.... 120
 OL,12,  Charivari....107 :                    
-OL,13,B FT INDEX.....108 :GCONSUMER....... 130
+OL,32,B FT INDEX.....108 :GCONSUMER....... 320
 OL,14,  Business.....109 :                    
 OL,15,A NEWSFLASH >> 150 :EDESIGNS........ 140
 OL,16,R ppppppppppppppppp                     
@@ -30,4 +30,4 @@ OL,21,R 5GBBC-1 & BBC-2Rj
 OL,22,R upppppppppppppppzC WHAT IS CEEFAX?G160
 OL,23,  UPDATEDF8.30am-6pm                    
 OL,24,ANextBCEEFAX!CAngela FFirst             
-FL,137,138,139,131,8ff,8ff
+FL,327,328,329,321,8ff,8ff
