@@ -1,15 +1,15 @@
 DE,TV Reviews CRT
 DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\P434.tti
-PN,43400
-SC,0000
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\p434-tv-reviews.tti
+PN,43401
+SC,0001
 PS,8000
 CT,30,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/1 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/2 
 OL,4, Philips 21PT6820 ` 21" DVD combi       
 OL,5,CStandard:GLevel 1.5 (limited)          
 OL,6,CPage memory:G7 ` Current page, 4 colour
@@ -29,5 +29,34 @@ OL,20, of the screen, but this might just be a
 OL,21, fault on my set.                       
 OL,22, Ignores BSDP status message.           
 OL,23,D]CReviewed Mar 2020 by Alistair Cree   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100
+PN,43402
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/2 
+OL,4, JVC AV28R250 26" widescreen CRT (2002) 
+OL,5,CStandard:GLevel 1.0                    
+OL,6,CPage memory:G7 ` Current page, 4 colour
+OL,7,              links, previous, and next.
+OL,8,CText aspect ratio:GNormal              
+OL,10,CWhat's good:GBookmark mode allows you  
+OL,11, to set 4 non-volatile favourite page   
+OL,12, numbers. "Boxed" pages (newsflash etc.)
+OL,13, use aspect ratio chosen for picture    
+OL,14, rather than forcing 16:9. Double width 
+OL,15, characters supported.                  
+OL,16,CWhat's not:GOnly a level 1 decoder on  
+OL,17, presumably a fairly upmarket set given 
+OL,18, that it has Dolby Surround; they had   
+OL,19, their priorities wrong! The subpage    
+OL,20, selector always opens on 0001 and the  
+OL,21, Mix function is absent.                
+OL,23,D]CReviewed Jul 2021 by Nick Schollar   
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
 FL,431,432,433,435,8ff,100

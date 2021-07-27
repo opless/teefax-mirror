@@ -1,6 +1,6 @@
 DE,Description goes here
 DS,inserter
-SP,C:\Users\Nathan Dane\Documents\teefax\P101-New.tti
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P101-New.tti
 PN,10100
 SC,0000
 PS,8000
@@ -11,11 +11,12 @@ OL,1,Q<,lR<,lT<,lT||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jT]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszT]S+..*%%/* /  ,' /*%/$--'  
 OL,4,DDS                                     
-OL,5,G           Mon 5th April 2021          
-OL,6,CMEasterF...........................P173
-OL,7,CMEasterF...........................P173
-OL,8,G                                       
-OL,9,G           Wed 17th March 2021         
-OL,10,CMSt.Patrick's Day 2021!F...........P174
-OL,11,CMSt.Patrick's Day 2021!F...........P174
+OL,5,            Tue 7th July 2021           
+OL,6,CMTV ReviewsF.......................P434
+OL,9,G           Mon 5th April 2021          
+OL,10,CMEasterF...........................P173
+OL,11,CMEasterF...........................P173
+OL,13,G           Wed 17th March 2021         
+OL,14,CMSt.Patrick's Day 2021!F...........P174
+OL,15,CMSt.Patrick's Day 2021!F...........P174
 FL,173,173,173,173,100,100
