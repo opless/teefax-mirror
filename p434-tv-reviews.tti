@@ -4,7 +4,7 @@ SP,Z:\Documents\Projects\Teletext pages\teletext-full\p434-tv-reviews.tti
 PN,43401
 SC,0001
 PS,8000
-CT,30,T
+CT,30,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -34,7 +34,7 @@ FL,431,432,433,435,8ff,100
 PN,43402
 SC,0002
 PS,8000
-CT,8,T
+CT,30,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
