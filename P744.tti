@@ -1,0 +1,57 @@
+DE,Box test
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\P744.tti
+PN,74401
+SC,0001
+PS,8003
+CT,8,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,KK BOX Function Test (C5/C6 Set)    1/2J
+OL,2,KKXNick Schollar 2021G S=Start E=End   J
+OL,3,KKTwo S chars should be needed to startJ
+OL,4,KKthe box. One E should end the box.   J
+OL,5,KK          SS            EE           J
+OL,6,   OUTSIDE  KK   INSIDE   JJOUTSIDE     
+OL,7,KK           S            E            J
+OL,8,   OUTSIDE   K   INSIDE   J OUTSIDE     
+OL,9,KK          SS            E            J
+OL,10,   OUTSIDE  KK   INSIDE   J OUTSIDE     
+OL,11,KK          SS                         J
+OL,12,   OUTSIDE  KK   INSIDE      No end     
+OL,14,KKNew Background Tests      1-No New BGJ
+OL,15,KK2-New BG before S    3-New BG after SJ
+OL,16,KKC]D       SS                         J
+OL,17,   OUTSIDE  KK   INSIDE 1    No end     
+OL,18,C]DOUTSIDE  KK   INSIDE 2    No end     
+OL,19,   OUTSIDE  KKC]DINSIDE 3    No end     
+OL,21,KKC]D       SS            E            J
+OL,22,C]DOUTSIDE  KK   INSIDE 2 J OUTSIDE     
+OL,23,   OUTSIDE  KKC]DINSIDE 3 J OUTSIDE     
+PN,74402
+SC,0002
+PS,8000
+CT,8,C
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,KK BOX Function Test (C5/C6 Clear)  2/2J
+OL,2,KKXNick Schollar 2021G S=Start E=End   J
+OL,3,KKThis subpage should test the window  J
+OL,4,KKmode of level 2.5 decoders.      .   J
+OL,5,KK          SS            EE           J
+OL,6,   OUTSIDE  KK   INSIDE   JJOUTSIDE     
+OL,7,KK           S            E            J
+OL,8,   OUTSIDE   K   INSIDE   J OUTSIDE     
+OL,9,KK          SS            E            J
+OL,10,   OUTSIDE  KK   INSIDE   J OUTSIDE     
+OL,11,KK          SS                         J
+OL,12,   OUTSIDE  KK   INSIDE      No end     
+OL,14,KKNew Background Tests      1-No New BGJ
+OL,15,KK2-New BG before S    3-New BG after SJ
+OL,16,KKC]D       SS                         J
+OL,17,   OUTSIDE  KK   INSIDE 1    No end     
+OL,18,C]DOUTSIDE  KK   INSIDE 2    No end     
+OL,19,   OUTSIDE  KKC]DINSIDE 3    No end     
+OL,21,KKC]D       SS            E            J
+OL,22,C]DOUTSIDE  KK   INSIDE 2 J OUTSIDE     
+OL,23,   OUTSIDE  KKC]DINSIDE 3 J OUTSIDE     
