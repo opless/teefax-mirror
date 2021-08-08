@@ -1,0 +1,22 @@
+DE,Pages from Ceefax (modified)
+DS,inserter
+SP,/home/peterk/teletext/P692-PagesFromTeefax.tti
+PN,69200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
+OL,1,D]MG        YOU ARE WATCHING            
+OL,3,D]MGITEMS OF NEWS AND INFORMATION FROM  
+OL,6,D]S ||||ll,,l   ,<,l   ,<,l             
+OL,7,D]SS~~ j#s55bj#s55bjj#7kkk   
+OL,8,D]S //////,,.j .5-,.j ~5-..j!4k   
+OL,9,D]SSS       ####!  "###!  "##########   
+OL,10,D]MC    THE BBC'S TELETEXT SERVICE      
+OL,13,D]G M The full service offers several   
+OL,15,D]MG hundred pages and is available to  
+OL,17,D]MG  anyone with a Raspberry Pi and    
+OL,19,D]MG         a television set.          
+OL,24,ANext                                   
+FL,698,100,100,100,8ff,8ff
