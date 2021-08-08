@@ -1,6 +1,6 @@
 DE,Stroud business carousel
 DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext\P451-StroudBusiness.tti
+SP,/home/peterk/teletext/P817-StroudBusiness.tti
 PN,81701
 SC,0001
 PS,8000
@@ -117,7 +117,7 @@ OL,19,T`"` S  z5j5   ` k>j>  `    *! T!0!
 OL,20,T"*" S"### ##  "#! "!"! "#!"#! | ?  T%!%
 OL,21,T*%/ c0c0c0c0CCompany Ltd.Tc0cS"/!Tc0/*%
 OL,22,T*%/ , , , , , , , *%/ , , , , , , , /*%
-OL,23,B]DPhoenix Works, Thrupp, Stroud, Glos. 
+OL,23,B]DKingfisher Business Park. Stroud     
 OL,24,A   Index                               
 FL,800,8ff,8ff,8ff,8ff,100
 PN,81705
