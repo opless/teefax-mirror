@@ -1,6 +1,6 @@
 DE,TV Reviews CRT
 DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext-full\p434-tv-reviews.tti
+SP,C:\Users\Nathan Dane\Documents\teefax\p434-tv-reviews.tti
 PN,43401
 SC,0001
 PS,8000
@@ -9,7 +9,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/2 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/3 
 OL,4, Philips 21PT6820 ` 21" DVD combi       
 OL,5,CStandard:GLevel 1.5 (limited)          
 OL,6,CPage memory:G7 ` Current page, 4 colour
@@ -39,7 +39,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/2 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/3 
 OL,4, JVC AV28R250 26" widescreen CRT (2002) 
 OL,5,CStandard:GLevel 1.0                    
 OL,6,CPage memory:G7 ` Current page, 4 colour
@@ -58,5 +58,30 @@ OL,19, their priorities wrong! The subpage
 OL,20, selector always opens on 0001 and the  
 OL,21, Mix function is absent.                
 OL,23,D]CReviewed Jul 2021 by Nick Schollar   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100
+PN,43403
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/3 
+OL,4, Hitachi CPT 2508 (1988)                
+OL,5,CStandard:GLevel 1.0                    
+OL,6,CPage memory:G7 ` Current page, 6       
+OL,7, 'favorite' pages                       
+OL,8,CText aspect ratio:GStretched 4:3       
+OL,10,CWhat's good:GFull Level One support    
+OL,11, with Fasttext - all functions easily   
+OL,12, accessible from the remote.            
+OL,16,CWhat's not:GUnusual 'boxy' font, gaps  
+OL,17, between horizontal line characters,    
+OL,18, slightly stretched display. Unusual    
+OL,19, choice of storing favorite pages       
+OL,20, rather than fasttext or next page.     
+OL,23,D]CReviewed Aug 2021 by Nathan Dane     
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
 FL,431,432,433,435,8ff,100
