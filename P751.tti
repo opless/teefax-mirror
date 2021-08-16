@@ -1,11 +1,32 @@
-DE,Automatic decoder level diagnostic
+DE,G3 mosaics
 PN,75100
-SC,0
+SC,0000
 PS,8000
-OL,28,@@@|g@@p@|pK@_@@@CpLs_w}w|w]_|_wM@P
-OL,28,D@@|g@@pC@|p@|@O@O@pA@\p\@@wAG\w]G@P
-OL,26,@qd@ACJC@JKpZ
-OL,3,This decoder supports:                  
-OL,5,D] Level 3.5  \                         
-OL,7,F] Level 2.5  \                         
-OL,9,G]ALevel 1.0  \        
+CT,8,T
+OL,26,@pD@OBPQBXSB`UBhWBpYBxqD@ObPQbXSb`UbhWbp
+OL,26,AYbxrD@OBQQBYSBaUBiWBqYBysD@ObQQbYSbaUbi
+OL,26,BWbqYbytD@OBRQBZSBbUBjWBrYBzuD@ObRQbZSbb
+OL,26,CUbjWbrYbzvD@OBSQB[SBcUBkWBsYB{wD@ObSQb[
+OL,26,DSbcUbkWbsYb{xD@OBTQB\SBdUBlWBtYB|yD@ObT
+OL,26,EQb\SbdUblWbtYb|zD@OBUQB]SBeUBmWBuYB}{D@
+OL,26,FObUQb]SbeUbmWbuYb}|D@OBVQB^SBfUBnWBvYB~
+OL,26,G}D@ObVQb^SbfUbnWbvYb~~D@OBWQB_SBgUBoWBw
+OL,26,HYBD@ObWQb_SbgUboWbwYbCCCCC
+OL,2,M        G3 mosaics at Level 1.5        
+OL,7,               2 3 4 5 6 7              
+OL,8,             0                          
+OL,9,             1                          
+OL,10,             2                          
+OL,11,             3                          
+OL,12,          UM 4                          
+OL,13,          UM 5                          
+OL,14,             6                          
+OL,15,             7                          
+OL,16,             8                          
+OL,17,             9                          
+OL,18,          UM A                          
+OL,19,          UM B                          
+OL,20,          UM C                          
+OL,21,          UM D                          
+OL,22,             E                          
+OL,23,             F                          
