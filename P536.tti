@@ -1,37 +1,10 @@
 DE,The Labyrinth (bin2tti)
-DS,inserter
-SP,N:\git-repos\teletext\P536.tti
 CT,8,T
-PN,53601
-SC,0001
 PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                     1/2
-OL,2, Q`ppp,                                 
-OL,3,Qj!j jp4`d                              
-OL,4,  Q5 6j`=a                              
-OL,5, Q## !"!#! Tp            p              
-OL,6,    Th&! `06    0 "    8j 0             
-OL,7,    T:  7k`'{%6`'a%"=;"7;k!             
-OL,8,   T,-,&-+*,+,5" *$* -!%%*&             
-OL,9,           T`&                          
-OL,11,C]DCan you escape from The Labyrinth?   
-OL,13, You stand at the entrance to the famous
-OL,14, Labyrinth.  Many have entered, few have
-OL,15, returned.                              
-OL,17, Six rooms interconnected by twisting,  
-OL,18, winding, turning, passages.            
-OL,20, Can you make it back to the entrance?  
-OL,22, PressAREDGif you dare.                 
-OL,23,D]C                     CHall of FameH> 
-OL,24,A**ENTER** BWeather CGallery FBamboozle 
-FL,53a,531,532,150,100,100
 PN,53602
 SC,0002
-PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+FL,53a,531,532,150,100,100
 OL,1,                                     2/2
 OL,2, Q`ppp,                                 
 OL,3,Qj!j jp4`d                              
@@ -48,7 +21,6 @@ OL,16,C@BOYD1981        14/06/2019
 OL,17,B@Vesme           14/06/2019            
 OL,18,F@DerVonDenBergen 09/01/2020            
 OL,19,D@timclarkeuk     17/02/2020            
-OL,20,E                                       
+OL,20,E@Greengo4279     08/10/2021            
 OL,23,D]C                     C   CEntranceH> 
 OL,24,A**ENTER** BWeather CGallery FBamboozle 
-FL,53a,531,532,150,100,100
