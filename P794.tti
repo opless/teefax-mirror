@@ -28,7 +28,7 @@ OL,22,Bmosaic graphics.                G(1/4)
 OL,24,A Test Cards B Specs C VBIT-Pi F Index  
 FL,790,710,785,700,8ff,100
 PN,79402
-DE,approximated recreation of ORACLE character ROM test
+DE,Approximated recreation of ORACLE character ROM test
 SC,0002
 FL,790,710,785,700,8ff,100
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -52,7 +52,7 @@ OL,21, A WIDE BAR               ` ` ` ` ` ` `
 OL,22, THE "DIVIDE" SYMBOL      ~ ~ ~ ~ ~ ~ ~ 
 OL,23, CHARACTER "WHITE" SYMBOL        
 PN,79403
-DE,approximated recreation of ORACLE control code test
+DE,Approximated recreation of ORACLE control code test
 SC,0003
 FL,790,710,785,700,8ff,100
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -71,7 +71,7 @@ OL,18, THIS IS NOT A D/H DECODER
 OL,20, DISCRETERZp x |WCONTIGUOUSRYp x |      
 OL,22,A]BFIX BACKGROUND      \UNFIXMD/HHFLASH 
 PN,79404
-DE,approximated recreation of ORACLE held graphics demo
+DE,Approximated recreation of ORACLE held graphics demo
 SC,0004
 FL,790,710,785,700,8ff,100
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
