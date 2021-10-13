@@ -1,26 +1,29 @@
-DE,Magazine Index
+DE,Development announcement
 DS,inserter
 SP,/home/peterk/teletext/p1de-dev-announce.tti
-PN,10300
+PN,1de00
 SC,0000
 PS,8040
 CT,0,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q<,lR<,lT<,lQ||||||<l<,|,,|,l,<l||||||||
-OL,2,Q5jR5jT5jQ]S    j5~k4k41oz%        
-OL,3,QuszRuszTuszQ]S    *%/*%/.!/$/*%        
-OL,6,   Various page numbers move in and     
-OL,7,   out of use over time. See each       
-OL,8,   Teefax index page for details:       
-OL,10,C  100 GNews and Information            
-OL,11,C  200 GViewers' Pages                  
-OL,12,C  300 GUnder Construction              
-OL,13,C  400 GWriting and Reviews             
-OL,14,C  500 GArts & Entertainment            
-OL,15,C  600 GSpecial Features                
-OL,16,C  700 GTeletext Tech                   
-OL,17,C  800 GTeletext Events                 
+OL,1,Q<,lR<,lT<,lQ||,,|,l,|,|<l|<,|,l||||||||
+OL,2,Q5jR5jT5jQ]Sk41o ? j5 ~{49        
+OL,3,QuszRuszTuszQ]S/.!/$"/! *-$/*%/&        
+OL,6,   News from the development lab.       
+OL,8,  CJump to a random page                
+OL,9,   Press 'd' if you are feeling lucky.  
+OL,10,C                                       
+OL,11,C  Auto play                            
+OL,12,   Menu modes for sequential and        
+OL,13,   random display of pages.             
+OL,14,C                                       
+OL,15,C  Manifest                             
+OL,16,   Show a list of pages in a service    
+OL,17,   that you can click to go directly.   
+OL,19,  CPages from Ceefax                    
+OL,20,   Actually pages from Nathan Media     
+OL,21,   Services. Various regions added.     
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,AMain MenuB News Index CEvents FFeatures
 FL,100,104,800,600,8ff,100
