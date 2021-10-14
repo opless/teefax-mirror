@@ -1,51 +1,49 @@
 CT,8,T
-DE,TV Listings
+DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 14th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0710FCheers
-OL,6,G0740FCheers
-OL,7,G0810FThe King of Queens
-OL,8,G0835FThe King of Queens
-OL,9,G0905FFrasier
-OL,10,G0935FFrasier
-OL,11,G1000FEscape to the Chateau: DIY
-OL,12,G1100FThe Great House Giveaway
-OL,13,G1200FChannel 4 News Summary
-OL,14,G1205FCouples Come Dine with Me
-OL,15,G1305FFind It, Fix It, Flog It
+OL,5,G0605FCountdown
+OL,6,G0645FThe Big Bang Theory
+OL,7,G0710F
+OL,8,G0735F
+OL,9,G0800F
+OL,10,G0830F
+OL,11,G0900F
+OL,12,G0930F
+OL,13,G1000FFrasier
+OL,14,G1030FRamsay's Kitchen Nightmares USA
+OL,15,G1125FChannel 4 News Summary
 OL,16,G1410FCountdown
 OL,17,G1500FA Place in the Sun
-OL,18,G1600FA New Life in the Sun
+OL,18,G1600FChateau DIY
 OL,19,G1700FFour in a Bed
-OL,20,G1730FThe Simpsons
+OL,20,G1730FThe Perfect Pitch
 OL,21,G1800FThe Simpsons
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 14th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1830FHollyoaks
 OL,6,G1900FChannel 4 News
-OL,7,G2000FNew: The Dog House
-OL,8,G2100FNew: Taskmaster
-OL,9,G2200FNew: The Circle
-OL,10,G2305FGogglebox
-OL,11,G0010FRamsay's Kitchen Nightmares USA
-OL,12,G0100FNew: Ramy
-OL,13,G0130FCouples Come Dine with Me
-OL,14,G0225FI Am Hannah
-OL,15,G0320FThe Supervet: Noel Fitzpatrick
-OL,16,G0415FThe £100K Drop
-OL,17,G0510F
-OL,18,G0535F
-OL,19,G0550F
+OL,7,G1955FCassie's Story: Stand Up To Cancer
+OL,8,G2000FNew: The Great British Bake...
+OL,9,G2100FNew: Taskmaster
+OL,10,G2200F
+OL,11,G2305F
+OL,12,G0010F
+OL,13,G0105FCops on Trial: Dispatches
+OL,14,G0200FMe and Earl and the Dying Girl
+OL,15,G0345FUnreported World
+OL,16,G0410FCouples Come Dine with Me
+OL,17,G0505FLocation, Location, Location
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620

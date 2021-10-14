@@ -1,43 +1,44 @@
 CT,8,T
-DE,TV Listings
+DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 14th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0915FMorning Live
-OL,6,G1000FHomes Under the Hammer
-OL,7,G1100FFrontline Fightback
-OL,8,G1145FParamedics on Scene
-OL,9,G1215FBargain Hunt
-OL,10,G1300FBBC News at One
-OL,11,G1330FLook East
-OL,12,G1345FDoctors
-OL,13,G1415FImpossible
-OL,14,G1500FEscape to the Country
-OL,15,G1545FReady Steady Cook
-OL,16,G1630FThe Repair Shop
-OL,17,G1715FPointless
-OL,18,G1800FBBC News at Six
-OL,19,G1830FLook East (West)
-OL,20,G1900FThe One ShowC410
-OL,21,G1935FEastEnders
+OL,5,G0915FRip Off Britain
+OL,6,G1000FDefenders UK
+OL,7,G1045FClaimed and Shamed
+OL,8,G1300FBBC News at One
+OL,9,G1330FLook East
+OL,10,G1345FDoctors
+OL,11,G1415FImpossible
+OL,12,G1500FEscape to the Country
+OL,13,G1545FMoney for Nothing
+OL,14,G1630FAntiques Road Trip
+OL,15,G1715FPointless
+OL,16,G1800FBBC News at Six
+OL,17,G1830FLook East (West)
+OL,18,G1900FThe One ShowC410
+OL,19,G1930FEastEnders
+OL,20,G2000FShop Well for the Planet?
+OL,21,G2100FAmbulance
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 14th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2000FDragons' Den
-OL,6,G2100FMasterChef
-OL,7,G2200FBBC News at Ten
-OL,8,G2230FLook East (West)
-OL,9,G2245FThe Accountant
-OL,10,G0045FWeather for the Week Ahead
-OL,11,G0050FBBC News
+OL,5,G2200FBBC News at Ten
+OL,6,G2225FLook East (West)
+OL,7,G2235FQuestion Time
+OL,8,G2335FPrince William does Newscast
+OL,9,G0005FBlankety Blank
+OL,10,G0040FThe Hit List
+OL,11,G0125FWeather for the Week Ahead
+OL,12,G0130FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
