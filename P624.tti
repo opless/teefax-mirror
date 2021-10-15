@@ -3,20 +3,20 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0605FCountdown
-OL,6,G0645FThe Big Bang Theory
-OL,7,G0710F
-OL,8,G0735F
-OL,9,G0800F
-OL,10,G0830F
-OL,11,G0900F
-OL,12,G0930F
-OL,13,G1000FFrasier
-OL,14,G1030FRamsay's Kitchen Nightmares USA
-OL,15,G1125FChannel 4 News Summary
+OL,5,G0710FThe Big Bang Theory
+OL,6,G0735FThe King of Queens
+OL,7,G0800FThe King of Queens
+OL,8,G0830FThe King of Queens
+OL,9,G0900FFrasier
+OL,10,G0930FFrasier
+OL,11,G1000FFrasier
+OL,12,G1030FRamsay's Kitchen Nightmares USA
+OL,13,G1125FChannel 4 News Summary
+OL,14,G1130FFind It, Fix It, Flog It
+OL,15,G1230FLive: Steph's Packed Lunch
 OL,16,G1410FCountdown
 OL,17,G1500FA Place in the Sun
 OL,18,G1600FChateau DIY
@@ -28,22 +28,37 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1830FHollyoaks
 OL,6,G1900FChannel 4 News
-OL,7,G1955FCassie's Story: Stand Up To Cancer
-OL,8,G2000FNew: The Great British Bake...
-OL,9,G2100FNew: Taskmaster
-OL,10,G2200F
-OL,11,G2305F
-OL,12,G0010F
-OL,13,G0105FCops on Trial: Dispatches
-OL,14,G0200FMe and Earl and the Dying Girl
-OL,15,G0345FUnreported World
-OL,16,G0410FCouples Come Dine with Me
-OL,17,G0505FLocation, Location, Location
+OL,7,G1930FLive: Stand Up To Cancer 2021
+OL,8,G2000FLive: Ed Sheeran for SU2C and...
+OL,9,G2030FLive: Harry Styles for SU2C
+OL,10,G2100FLive: Celebrity Gogglebox for SU2C
+OL,11,G2130FLive: Tom Jones and Tom Parker...
+OL,12,G2200FLive: Derry Girls for SU2C and...
+OL,13,G2230FLive: More Celebrity Gogglebox...
+OL,14,G2300FLive: Rosie Jones, Paralympic...
+OL,15,G2330FLive: Harry Styles, Joe Lycett...
+OL,16,G0030FLive: Stand Up To Cancer: The...
+OL,17,G0100FLive: Big Zuu's Late Night Heat...
+OL,18,G0155FTom Parker: Inside My Head
+OL,19,G0315FTravel Man: 48 Hours in Madrid
+OL,20,G0340FCome Dine with Me
+OL,21,G0410FCome Dine with Me
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,625,104,535,700,0,620
+PN,62403
+SC,0003
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 15th
+OL,2,Q 5jR5jT5jT]W     "m'F    C4
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0435FCome Dine with Me
+OL,6,G0505FCome Dine with Me
+OL,7,G0530FCome Dine with Me
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
