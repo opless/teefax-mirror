@@ -1,11 +1,12 @@
 DE,Easter (ORACLE, 17/04/1987)
 DS,inserter
-CT,20,T
+SP,/home/peterk/teletext/P173.tti
 PN,17301
 SC,0001
 PS,8000
+CT,20,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,V]  Wj]     Vj]            W]     Vj]   
 OL,2,V]  W]Ux]W+] V]           Wj]U`~} V]   
 OL,3,V]  W]U]  Wk]V]           Wj]U]  W]V]   
@@ -34,8 +35,9 @@ FL,0,0,0,0,100,100
 PN,17302
 SC,0002
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,V]           W]U5VUjVj]           
 OL,2,V]           W]U?%V//U*oVj]           
 OL,3,V]          Wp~]          V#/]          
@@ -64,8 +66,9 @@ FL,0,0,0,0,100,100
 PN,17303
 SC,0003
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,WT]Sl h$  (<d(<d     l,l   `p0j,   F2/3 
 OL,2,WT]Sj,n .#5^j 5j"5k  j,$('kjpsj  w{j.!  
 OL,3,WT]Sz j0ws57! 7! ez  zpxjs{(tzjx$uxj    
@@ -94,8 +97,9 @@ FL,0,0,0,0,100,100
 PN,17304
 SC,0004
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,T]
 OL,2,T]Q|h4|h4xl0W 8&s)d   lp4               
 OL,3,T]Qj5j5j5W: 6 `:   "45          4    
@@ -119,13 +123,13 @@ OL,20,T]R o]S*,.]Tz}4`ppp|t *
 OL,21,T]R  +]S ur]Tx%*f}|
 OL,22,T]R    #//'!   S  #+/l0            
 OL,23,T]S    '               
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,17305
 SC,0005
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,P                                       
 OL,2,P      S~S}PSh4PS/}S/}SthP         
 OL,3,P Uho?4SS`p0S|?S|?S"o?PUho?4P   
@@ -154,8 +158,9 @@ FL,0,0,0,0,100,100
 PN,17306
 SC,0006
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,V////'W rw/Vk
 OL,2,V//##!       Up0V+?!W""){~;}V
 OL,3,T?'! U0p`x4|'!~/!o' }T'      W"o?T?
@@ -184,8 +189,9 @@ FL,0,0,0,0,100,100
 PN,17307
 SC,0007
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,WT]S<$<lh,$l$<$<l       W`p        C1/2 
 OL,2,WT]Sw17kbs5j w17#5     W8!`%            
 OL,3,WT]S<<4<$<,h,$<lh,$<$ W8! :             
@@ -214,8 +220,9 @@ FL,0,0,0,0,100,100
 PN,17308
 SC,0008
 PS,8000
+CT,8,T
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,WT]                                C2/2 
 OL,2,WT] S<$<lh,$l$<$<l hllh,h,$<,h,4<,h,h,$ 
 OL,3,WT] Sw17kbs5j w17#5jjj^sbs5s{j#5u{jsbs5 
