@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,8,T
 RE,0
-OL,0,        CEEFAX 1 100 Sat 12 FebC13:40/30
+OL,0,        CEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %fj %jj 'kT]Supjpjpj j 55jT 

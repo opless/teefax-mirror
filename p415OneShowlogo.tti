@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,8,T
 RE,0
-OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
+OL,0,        CEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Q'##/##//////o
 OL,2,QWppjup0 pp0Q+G@illarterateQ
 OL,3,QW##j7#j7#Q0"o
