@@ -5,7 +5,7 @@ PN,16601
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS5<lhh,45
 OL,3,UZ  jjjj  j5 5jjjYS5-.z:,%5
@@ -35,7 +35,7 @@ PN,16602
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS58dh`,05
 OL,3,UZ  jjjj  j5 5jjjYS5)&z2,!5
@@ -65,7 +65,7 @@ PN,16603
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS5<lhh,45
 OL,3,UZ  jjjj  j5 5jjjYS5-.z:,%5
@@ -95,7 +95,7 @@ PN,16604
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS5<lhh,45
 OL,3,UZ  jjjj  j5 5jjjYS5-.z:,%5
@@ -125,7 +125,7 @@ PN,16605
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS5<lhh,45
 OL,3,UZ  jjjj  j5 5jjjYS5-.z:,%5
@@ -155,7 +155,7 @@ PN,16606
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS5<lhh,45
 OL,3,UZ  jjjj  j5 5jjjYS5-.z:,%5
@@ -185,7 +185,7 @@ PN,16607
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS58dh`,05
 OL,3,UZ  jjjj  j5 5jjjYS5)&z2,!5
@@ -215,7 +215,7 @@ PN,16608
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS58dh`,05
 OL,3,UZ  jjjj  j5 5jjjYS5)&z2,!5
@@ -245,7 +245,7 @@ PN,16609
 SC,0009
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS58dh`,05
 OL,3,UZ  jjjj  j5 5jjjYS5)&z2,!5
@@ -275,7 +275,7 @@ PN,16610
 SC,0010
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UZjjjj j5?j jjYS~//|>/o4
 OL,2,UZ  jj1jh4j5 uj j1YS58dh`,05
 OL,3,UZ  jjjj  j5 5jjjYS5)&z2,!5

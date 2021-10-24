@@ -5,7 +5,7 @@ PN,16201
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~ij}x57!ij}~ih74i #h74~i"!ih74  
 OL,2,Wnj555$fj5 j=5j ,j55j  fj=5  
 OL,3,Vjj5!50jj5o:*%%/j  *u%o:  :j5500
@@ -35,7 +35,7 @@ PN,16202
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]T                                     
 OL,2,W]T    s1j5{53jw?jw?j7j55j5       
 OL,3,Q]T    ,.%/.%/  /,*%/*-/*-/*--/*-,      
