@@ -5,7 +5,7 @@ PN,18801
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~/-P  Q~P Q/}QpP                      
 OL,2,QPQh?o4/$QQj5|h?o4}>%pP T8#PTh}0`~P
 OL,3,Qo|<*}>5o|$Q|?Q*}>5PQ"#T`&`pp0hw?w5P
@@ -35,7 +35,7 @@ PN,18802
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~/-P  Q~P Q/}QpP                      
 OL,2,QPQh?o4/$QQj5|h?o4}>%pP T8#P Th}0`~
 OL,3,Qo|<*}>5o|$Q|?Q*}>5PQ"#T`&`0T`0hw?w5
@@ -65,7 +65,7 @@ PN,18803
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~/-P  Q~P Q/}QpP                      
 OL,2,QPQh?o4/$QQj5|h?o4}>%pP T8#P Th}0`~
 OL,3,Qo|<*}>5o|$Q|?Q*}>5PQ"#T`&`0T`0hw?w5
@@ -95,7 +95,7 @@ PN,18804
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~/-P  Q~P Q/}QpP                      
 OL,2,QPQh?o4/$QQj5|h?o4}>%pP T8#P Th}0`~
 OL,3,Qo|<*}>5o|$Q|?Q*}>5PQ"#T`&`0T`0hw?w5
@@ -125,7 +125,7 @@ PN,18805
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~/-P  Q~P Q/}QpP                      
 OL,2,QPQh?o4/$QQj5|h?o4}>%pP T8#P Th}0`~
 OL,3,Qo|<*}>5o|$Q|?Q*}>5PQ"#T`&`0T`0hw?w5
@@ -155,7 +155,7 @@ PN,18806
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~/-P  Q~P Q/}QpP                      
 OL,2,QPQh?o4/$QQj5|h?o4}>%pP T8#P Th}0`~
 OL,3,Qo|<*}>5o|$Q|?Q*}>5PQ"#T`&`0T`0hw?w5
@@ -185,7 +185,7 @@ PN,18807
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~/-P  Q~P Q/}QpP                      
 OL,2,QPQh?o4/$QQj5|h?o4}>%pP T8#P Th}0`~
 OL,3,Qo|<*}>5o|$Q|?Q*}>5PQ"#T`&`0T`0hw?w5
@@ -215,7 +215,7 @@ PN,18808
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q/}P      Q/}QpP           T`p0P      
 OL,2,QQh?o4~/}QQj5|h?o4}>%pPTx?otP     
 OL,3,Q|?*}~%o|Q|?Q*}>5PQ"#Tj5#j5P    

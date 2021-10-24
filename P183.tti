@@ -5,7 +5,7 @@ PN,18301
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W `pp    ` `  ` ` `   pp            `pp 
 OL,2,T]Wj 5   j8!  j j j   up%    $     `i||!
 OL,3,T]Wj 75w5j)0j{j#j#jj{ 7d w5555w5555"k5
@@ -37,7 +37,7 @@ PN,18302
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W `pp    ` `  ` ` `   pp            `pp 
 OL,2,T]Wj 5   j8!  j j j   up%    $     `i||!
 OL,3,T]Wj 75w5j)0j{j#j#jj{ 7d w5555w5555"k5
@@ -69,7 +69,7 @@ PN,18303
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W `pp    ` `  ` ` `   pp            `pp 
 OL,2,T]Wj 5   j8!  j j j   up%    $     `i||!
 OL,3,T]Wj 75w5j)0j{j#j#jj{ 7d w5555w5555"k5

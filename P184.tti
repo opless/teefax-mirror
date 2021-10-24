@@ -5,7 +5,7 @@ PN,18401
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]                 \                  ] 
 OL,3,T]         TVV    Q\]               T\] 
@@ -35,7 +35,7 @@ PN,18402
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                     T]                 
 OL,2,Q      rr0           T]GThis is 4-T's   
 OL,3,Q      //%         G[T]Ghouse. Looks    
@@ -65,7 +65,7 @@ PN,18403
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V                                       
 OL,2,COne day, 4-T was V            H  pp    
 OL,3,Chaving breakfast in     G?? V     j    
@@ -95,7 +95,7 @@ PN,18404
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T                                       
 OL,2,T   ZWS`0  Y ZW 8,,,,,,,,,,,,,,,,,,,,d  
 OL,3,T DZ Sxt YZW`&CGood day to you!    W5 
@@ -125,7 +125,7 @@ PN,18405
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]      W   Z8###########)0 WS`0  Y ZW  
 OL,3,T]      W   Z5CNice placeW5S xt YZ    
@@ -155,7 +155,7 @@ PN,18406
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]CSO VINCE AND 4-T SETTLED DOWN TO     
 OL,3,T]CENJOY A NICE CUP OF TEA              
@@ -185,7 +185,7 @@ PN,18407
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2, CWhile Vince and 4-T drink their tea,  
 OL,3, Cwe'll introduce you to 4-T's friend   
@@ -215,7 +215,7 @@ PN,18408
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,CWiggly was listening to 4-T and        
 OL,3,CVince chatting over their tea...       
@@ -245,7 +245,7 @@ PN,18409
 SC,0009
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,   QZS `0    T]                         
 OL,2, HeeZSxt YZT]FAt that, Vince laughed  
 OL,3, heeTS Z T]Fso much his moustache   
@@ -275,7 +275,7 @@ PN,18410
 SC,0010
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,T]C4-T and Wiggly both asked at once:   
 OL,3,    V     `p0 WZQ8,,,,,,,,,,,,,,,,,,,,,d
@@ -305,7 +305,7 @@ PN,18411
 SC,0011
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qssssssssssssssss3##kT                  
 OL,2,Q5 jjT]                 
 OL,3,Q5`ppp0 ppppj5 jjT]CVince slid      
@@ -335,7 +335,7 @@ PN,18412
 SC,0012
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,FFFFFFFFFFFFF   UZ aZ 1!d 8!)0 "0(" a   
 OL,2,FThis is what   WZU 0 $Z`&d  0$! a   $  
 OL,3,F4-T and       S,,,UZU18! 0d! b   $  b  
@@ -365,7 +365,7 @@ PN,18413
 SC,0013
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,T]C4-T's tail went all curly, as it     
 OL,3,T]Cusually did when he was excited      
@@ -395,7 +395,7 @@ PN,18414
 SC,0014
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                     ZUdU$U1 0$  $    
 OL,2,T]CSo they all set to  ZU )0!$! 0$!     
 OL,3,T]Cwork with brooms    ZU  "d!$!        
@@ -425,7 +425,7 @@ PN,18415
 SC,0015
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]F4-T told Cindy not to be upset...    
 OL,2,F  U Z  1        WZ`,,,,,,,,,,,,,,,,,d  
 OL,3,    UZ  $        ZW5C Never mind, youW5 
@@ -455,7 +455,7 @@ PN,18416
 SC,0016
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,WZ x|0
 OL,2,WZh'CAt last, the engine had plentyW+
 OL,3,WZ Cof steam, so everyone climbed Wn
@@ -485,7 +485,7 @@ PN,18417
 SC,0017
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]FAmid clouds of steam, VinceW "/
 OL,2,T]Fprepared to pull the lever    W+
 OL,3,T]Fthat would  W x||||t    ppppp    +
@@ -515,7 +515,7 @@ PN,18418
 SC,0018
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,F                   ZW 8,,,,,,,,,,,,0   
 OL,2,FU RRU`,,,d    U   ZW & FSilly me! W"d  
 OL,3,  Rppw{ppU ),,w}w=,,,,4ZFI forgot myWj  
@@ -545,7 +545,7 @@ PN,18419
 SC,0019
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W|0x||t  l|||||||t  p0       
 OL,2,W+tGP-Wx+tGP-PW+$`2/tGPUFF!W{t      
 OL,3,WW"o' +'x|r+' "#+-     
@@ -575,7 +575,7 @@ PN,18420
 SC,0020
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,SEAll of a sudden, everything went      
 OL,3, Eblack and no one could see anything   
@@ -605,7 +605,7 @@ PN,18421
 SC,0021
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q                                       
 OL,2,EAfter a minute, 4-T's eyes began to    
 OL,3,Eget used to the dark and he could see  
@@ -635,7 +635,7 @@ PN,18422
 SC,0022
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]Wl|||||||||||tx|<                     
 OL,2,T]W oGphew!W'       CWith what     
 OL,3,T] W +///' +'        Csounded like  
@@ -665,7 +665,7 @@ PN,18423
 SC,0023
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,T]CCindy tried to  \                    
 OL,3,T]Cbe helpful...   \ZW8,,,,,,,,,,,,,,0  
@@ -695,7 +695,7 @@ PN,18424
 SC,0024
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                   Q\Q                
 OL,2,T]C4-T was so busy   W\Z 8############d 
 OL,3,T]Cfeeling hungry    W\ZjCWe've come  W5
@@ -725,7 +725,7 @@ PN,18425
 SC,0025
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,FWhen they lookedT  ssssssssssss3k5j 
 OL,2,Faround they sawSS T,,,,,,,,l| 5j5j 
 OL,3,Fit was a very   R1Tsssss3k5j 5j5j 
@@ -755,7 +755,7 @@ PN,18426
 SC,0026
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                 W\<,,,,,,,,,,,,,,,,l 
 OL,2,T]C4-T rushed up   W\5 Q  WU| |l4    Wj 
 OL,3,T]Cto the cafe and W\5    WU pz5    Wj 
@@ -785,7 +785,7 @@ PN,18427
 SC,0027
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]C          \        ZQ`pppppp         
 OL,2,T]C          \  Q xtZ 8! C*?Q )0       
 OL,3,T]C4-T SAW   \ Q xw{t  C!*!*!ZQ5       
@@ -815,7 +815,7 @@ PN,18428
 SC,0028
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]CJust then, the creature who was      
 OL,3,T]Cspeaking saw 4-T at the window       
@@ -845,7 +845,7 @@ PN,18429
 SC,0029
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]CAs the creatures crowded round,      
 OL,3,T]Ctheir leader explained that they     
@@ -875,7 +875,7 @@ PN,18430
 SC,0030
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]        `0                            
 OL,2,T]  Z S`0   CJust then, Vince and       
 OL,3,T] SZ xt C Cindy and Wiggly came in   
@@ -905,7 +905,7 @@ PN,18431
 SC,0031
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                  Q
 OL,2,S]D               Qk
 OL,3,S]D"That's him",  Q?./csq||
@@ -935,7 +935,7 @@ PN,18432
 SC,0032
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]CIt was Vince whoT       Z S`0        
 OL,3,T]Cspoke first...  T    S  Z xt C     
@@ -965,7 +965,7 @@ PN,18433
 SC,0033
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U<,,,,,,,,,,,,,,,,,,,,l    T 1   1      
 OL,2,U5CWhen everyone was Uj   T<,,,,,,,||<, 
 OL,3,U5C ready, they all  Uj   T5TO THE ?/%  
@@ -995,7 +995,7 @@ PN,18434
 SC,0034
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]    W                                 
 OL,2,T]C[ 4-T's House        C ^ Brookside   
 OL,3,T]W    )0               W 5             
@@ -1025,7 +1025,7 @@ PN,18435
 SC,0035
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,CEventually, they decided to go in the  
 OL,3,Cdirection of Brookside, for that was   
@@ -1055,7 +1055,7 @@ PN,18436
 SC,0036
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q                                       
 OL,2,F4-T and Vince were worrying so much    
 OL,3,Fabout how they were going to find      
@@ -1085,7 +1085,7 @@ PN,18437
 SC,0037
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,FWhat had happened was that Wiggly and  
 OL,3,FCindy had been swept up and put in     
@@ -1115,7 +1115,7 @@ PN,18438
 SC,0038
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,ZW  8,,,,,,,,,,,,,,,,,,,,,,,0           
 OL,2,Z Wj F That sounds like  W  j           
 OL,3,Z Wj F Wiggly and Cindy -  Wj           
@@ -1145,7 +1145,7 @@ PN,18439
 SC,0039
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]CThe station master apologised to     
 OL,3,T]CWiggly and Cindy and explained that  
@@ -1175,7 +1175,7 @@ PN,18440
 SC,0040
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T                                       
 OL,2,T Gsplutter! W                          
 OL,3,T F        Gpuff!  gasp!                
@@ -1205,7 +1205,7 @@ PN,18441
 SC,0041
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q   T         W             YS0         
 OL,2,Q<l,<l,<l,4<l,<l,<l,4T  Q#50| 5S        
 OL,3,Q5j 5jQ5j 55j 5j 5j 5k5`TS       
@@ -1235,7 +1235,7 @@ PN,18442
 SC,0042
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q              T]                       
 OL,2,Q              T] CBefore Vince could   
 OL,3,Q              T] Cstop him, 4-T was    
@@ -1265,7 +1265,7 @@ PN,18443
 SC,0043
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]C  Just then, two things happened.    
 OL,3,T]C  Vince shouted a warning to 4-T     
@@ -1295,7 +1295,7 @@ PN,18444
 SC,0044
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                    WZ`,,,,,,,,,,,0     
 OL,2,T<,,,,,,,,,,,,,,,,,4WZ5GHere, hopWj     
 OL,3,T5CMeanwhile,     T5WZ5Gon this W`& W   
@@ -1325,7 +1325,7 @@ PN,18445
 SC,0045
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]CAnyway, Wiggly and Cindy boarded the 
 OL,3,T]Ctrain, which roared off at once...   
@@ -1355,7 +1355,7 @@ PN,18446
 SC,0046
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]CMeanwhile, back at the Sinx, 4-T     
 OL,3,T]Cmanaged to leap out of the way       
@@ -1385,7 +1385,7 @@ PN,18447
 SC,0047
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,F                                       
 OL,2, GG   The monster missed 4-T and crashed
 OL,3,     head-first into the swamp with such
@@ -1415,7 +1415,7 @@ PN,18448
 SC,0048
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,...a nest ofABABY MONSTERS              
 OL,3,          W R0                          
@@ -1445,7 +1445,7 @@ PN,18449
 SC,0049
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T                                       
 OL,2,Q    x|7ct                             
 OL,3,Q   xs     Gpat     Q  x#u7i0      
@@ -1475,7 +1475,7 @@ PN,18450
 SC,0050
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, WZ`,,,,,,,,,,,,,,,0                    
 OL,2, WZ5Yi'll get himWZ"d                   
 OL,3, WZ5Ythis time!C* WZj Y  Q              
@@ -1505,7 +1505,7 @@ PN,18451
 SC,0051
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,WZ`,,,,,,,,0  QY x,,                    
 OL,3,WZjYo wC*ZW"  QYx#R           Gclug    
@@ -1535,7 +1535,7 @@ PN,18452
 SC,0052
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                    ZW 8,,,,,,,,,,,,d   
 OL,2,            QQ jS`GZWjCThanks, pal!W5  
 OL,3,        GclugS ss1 WZ),d 8,,,,,,,,&   
@@ -1565,7 +1565,7 @@ PN,18453
 SC,0053
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T
 OL,2,T]FIt was beginning to get dark as      
 OL,3,T]Fthe adventurers journeyed on in      
@@ -1595,7 +1595,7 @@ PN,18454
 SC,0054
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|r+/o////   
 OL,2,T//////,*//R$(T   
 OL,3,Tssr||-sssssss|k       s/s
@@ -1625,7 +1625,7 @@ PN,18455
 SC,0055
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,FThis is what the creature in the tree  
 OL,2,Flooks like in daylight, facing towards 
 OL,3,Fyou and looking left and right.        
@@ -1655,7 +1655,7 @@ PN,18456
 SC,0056
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]           T\+//o'V `0T+'V`0T+'  
 OL,2,Q]CIn a      T\Tc2s7WVxt   xt   x
 OL,3,Q]Croom in    \T 4h||V z5 j5 j
@@ -1685,7 +1685,7 @@ PN,18457
 SC,0057
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
 OL,2,T]CThe Pecktrum could not make much     
 OL,3,T]Csense of what the Spike was saying,  
@@ -1715,7 +1715,7 @@ PN,18458
 SC,0058
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                        \               
 OL,2,    S  xkt  T\ Gslurp V   w#k         
 OL,3,    S+'! T\ V `p0`pp ppppz         
@@ -1745,7 +1745,7 @@ PN,18459
 SC,0059
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]             \R    Z *
 OL,2,T]CThe         \  R  Z  +
 OL,3,T]CSpecktrum   \   R Z     +
@@ -1775,7 +1775,7 @@ PN,18460
 SC,0060
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,Q7#####################################k
 OL,3,Q5GThen the Pecktrum remembered that Q j
@@ -1805,7 +1805,7 @@ PN,18461
 SC,0061
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T4
 OL,2,T5'x
 OL,3,T|*/'  +'x
@@ -1835,7 +1835,7 @@ PN,18462
 SC,0062
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]EIt was so       \                    
 OL,2,T]Edark they       \                W   
 OL,3,T]Ecould hardly    \                W   
@@ -1865,7 +1865,7 @@ PN,18463
 SC,0063
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T////////////////////%]               
 OL,2,Tu  zu z} ~'##!]               
 OL,3,T5j  S~T]EIn a while     
@@ -1895,7 +1895,7 @@ PN,18464
 SC,0064
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C                                       
 OL,2,FCautiously, the friends tip-toed up to 
 OL,3,Fthe door and peered through. This is   
@@ -1925,7 +1925,7 @@ PN,18465
 SC,0065
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]            \                         
 OL,2,T]FThey were  \  W    `p0S*             
 OL,3,T]Feven more  \  W      ##-,tp          
@@ -1955,7 +1955,7 @@ PN,18466
 SC,0066
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,Q7$                                 WQ(k
 OL,3,Q5CWell, it seemed everyone had been WQj

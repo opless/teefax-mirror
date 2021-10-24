@@ -5,7 +5,7 @@ PN,18001
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q x||x0V~#$~#4 5s! ~#$s!k7h7# "!k7 
 OL,2,R`||||tUor5op%op%p0 or5p0j5`r9 `0j5 s
 OL,3,Rgh41|b%CHalf-fish, half-frog Michael   
@@ -37,7 +37,7 @@ PN,18002
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Thup  C               *  *          
 OL,2,U //   Q`?o0 ///             
 OL,3,U|w7w|  Qz5ju ||         
@@ -69,7 +69,7 @@ PN,18003
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W `pp p0  V`pp0  p  0 ` pp  `p0`ppp     
 OL,2,Wxt V5 5j j 5 5 j 5 5 5 j  5      
 OL,3,WV7k7kW V} 5j ~py -|. },m } j  u      
@@ -101,7 +101,7 @@ PN,18004
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,          V#}"!~#-jw3j5 j5 hw{4ohw3   
 OL,2,  S x~}|pV `0orjupjupjupj5j5 `p?   
 OL,3,  Sng~/}0Q,,,,,,,,,,,,,,,,,,,,,,,,$  
@@ -133,7 +133,7 @@ PN,18005
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T  | C  'ello,  'ello, 'ello, it's      
 OL,2,T ~}   V#}h7)  ##"!##`p ~#}j7k4p0  
 OL,3,Tzw|{u  V#!*u8    `0     op?j5j5    
@@ -165,7 +165,7 @@ PN,18006
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qx~t~}0  ZS/o?/ ~/} j}~5j//m0     
 OL,2,QoU~//}Q  ZS j5 z% j5 j5  ||~!     
 OL,3,Q?U33Q7  ZS  h  j5 j5 k4k5 "}     
@@ -197,7 +197,7 @@ PN,18007
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,SSj5k4~+$  s!   s!~{4{4~{4~+$s!  
 OL,2,SSoz5j5ox$p0p0     j5k4j5oz5p0  
 OL,3,FThe little gold star in a sea of blue  

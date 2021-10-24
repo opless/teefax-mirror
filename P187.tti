@@ -5,7 +5,7 @@ PN,18701
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]DNOBODY GOING TO YOURACAMRADMEETINGS? 
 OL,2,C]D MEMBERS BORED BY YOU? THEN TRY      
 OL,3,Q~/%x|tQ||h4|PQh?o4PQ0z5x|th||4||4|Q|h4
@@ -35,7 +35,7 @@ PN,18702
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]CPUB LANDLORDS! ARE YOU FINDING YOUR  
 OL,2,D]CTAKINGS DECLINING DUE TO YOUR AGING  
 OL,3,D]CCLIENTELE DYING OFF? THEN YOU NEED:  
@@ -65,7 +65,7 @@ PN,18703
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]DSo, you've bought your tickets for   
 OL,2,C]DIndyManBeerCon. Are you concerned    
 OL,3,C]Dnot enough people know? You need     
@@ -95,7 +95,7 @@ PN,18704
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]DDudes! Is the man stopping you From  
 OL,2,C]Ddrinking your craft. cans on the way 
 OL,3,C]Dhome From work? Then you need a :    
@@ -125,7 +125,7 @@ PN,18705
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,F]ESO, been drinking too much beer this 
 OL,2,F]Esummer already then? Well, we have a 
 OL,3,F]Esolution at hand! Join us at the:    
@@ -155,7 +155,7 @@ PN,18706
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G]ATravelling Pub Bloggers - Are you fed
 OL,2,G]Aup of endless rail journeys in the   
 OL,3,G]Acompany of knobheads to record pub   
@@ -185,7 +185,7 @@ PN,18707
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,BTwitter too boring? Facebook too dull?P
 OL,2,BBlogging too pedestrian? Then go to : P
 OL,3,Qj5QP FCookie'sPQ,,,,,,,,,,,,,,,,,,,,,P
@@ -215,7 +215,7 @@ PN,18708
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,FSo, mate. You sat in a pub, then? Are  
 OL,2,Fyou tired of enjoying that quiet pintP 
 OL,3,Falone? Then get your hands on this!    
@@ -245,7 +245,7 @@ PN,18709
 SC,0009
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G]DAre you concerned that people doubt
 OL,2,G]Dyou're a TRUE and INDEPENDENT brewer?
 OL,3,G]EThen you're certain to need our :
@@ -275,7 +275,7 @@ PN,18710
 SC,0010
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, FDo you possess one of those "womb"    
 OL,2,Fthings? How about "ovaries"? And you P 
 OL,3,Fwant something to drink too? Well....  
@@ -305,7 +305,7 @@ PN,18711
 SC,0011
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]DIs your pub lacking that, shall we   
 OL,2,C]Dsay. je ne sais quoi? Customers dull?
 OL,3,C]DThen maybe you should install the :  
@@ -335,7 +335,7 @@ PN,18712
 SC,0012
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,BHome beer consumers! Do you order allP 
 OL,2,Byour stuff online? Fed up of inadequate
 OL,3,Bdistribution and delays. Then you need:
@@ -365,7 +365,7 @@ PN,18713
 SC,0013
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,A]GBREWERS! Fed up with promoting your  
 OL,2,A]Gbeer by flying recalcitrant bloggers 
 OL,3,A]Gto cities for a piss-up? Then GET!:  
@@ -395,7 +395,7 @@ PN,18714
 SC,0014
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T77kP E      OUT TODAY!      
 OL,2,T5///%////*////P W~//$/}h?/-T6#46#456#4
 OL,3,T\ W(l4/}j5,|PT:T5T559,1
@@ -425,7 +425,7 @@ PN,18715
 SC,0015
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]DFed up of pubs, but don't want to    
 OL,2,C]Dgive up drinking outside the house?  
 OL,3,C]DThen, old boy, you should go to      
@@ -455,7 +455,7 @@ PN,18716
 SC,0016
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]AAre your walls, doors, ceilings and  
 OL,2,C]Aeverything else lacking awesomeness? 
 OL,3,C]ADudle, you need to get. your hands on
@@ -485,7 +485,7 @@ PN,18717
 SC,0017
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]ATIRED OF HAVING A GOOD TIME? FINDING 
 OL,2,C]ABEER TOO MUCH FUN? THEN YOU NEED A : 
 OL,3,PU|Uh4P                 Uh,dhU4<,08d`,`,
@@ -515,7 +515,7 @@ PN,18718
 SC,0018
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,EDo you enjoy eating pies? Do you enjoy"
 OL,2,Etalking on your mobile? Then it's For$P
 OL,3,EYOU that we're introducing this AMAZING
@@ -545,7 +545,7 @@ PN,18719
 SC,0019
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]DGot unused space in your home? Love  
 OL,2,C]Duseless junk? Then, dude, you, like, 
 OL,3,C]Dneed this thing, like, RIGHT NOW!   
@@ -575,7 +575,7 @@ PN,18720
 SC,0020
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,E]GWomen! Are you sick and tired of your
 OL,2,E]Gman playing on this computer rather  
 OL,3,E]Gthan doing the DIY? - Then you NEED: 
@@ -605,7 +605,7 @@ PN,18721
 SC,0021
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,----------------------------------------
 OL,2,BWANTEMORE JAWBIN YOUR LIFE? THEN GO TO:
 OL,3,Q|0Q`|QppQpQp`p0`0`0S||0`0`0pPSpSh4`p0Q

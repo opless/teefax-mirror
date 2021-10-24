@@ -5,7 +5,7 @@ PN,18201
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]GJanuary                             
 OL,2,                                        
 OL,3, ]ZT           x,,$(,,lt  hxp$          
@@ -37,7 +37,7 @@ PN,18202
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]GMarch                               
 OL,2,                                        
 OL,3, ]ZT                   hx               
@@ -69,7 +69,7 @@ PN,18203
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]GMay                                 
 OL,2,                                        
 OL,3, ]ZT            pp                      
@@ -101,7 +101,7 @@ PN,18204
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]GJuly                                
 OL,2,                                        
 OL,3, ]ZT   0                   `            
@@ -133,7 +133,7 @@ PN,18205
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]GSeptember                           
 OL,2,                                        
 OL,3, ]ZT          p 0`0                     
@@ -165,7 +165,7 @@ PN,18206
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MD]GNovember                            
 OL,2,                                        
 OL,3, ]ZT   ` ` ` `  pp0 ` ` ` 0             

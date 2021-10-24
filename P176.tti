@@ -5,7 +5,7 @@ PN,17601
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q##j=|h<|  s!|l4|n5GBIFFO BIDS GOODBYE
 OL,2,Q  j5jws  s0j5z5
 OL,3,G```````````````````````````````````````
@@ -37,7 +37,7 @@ PN,17602
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q##j=|h<|  s!|l4|n5GBIFFO BIDS GOODBYE
 OL,2,Q  j5jws  s0j5z5
 OL,3,G```````````````````````````````````````
@@ -69,7 +69,7 @@ PN,17603
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q##j=|h<|  s!|l4|n5GBIFFO BIDS GOODBYE
 OL,2,Q  j5jws  s0j5z5
 OL,3,G```````````````````````````````````````
@@ -101,7 +101,7 @@ PN,17604
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q##j=|h<|  s!|l4|n5GBIFFO BIDS GOODBYE
 OL,2,Q  j5jws  s0j5z5
 OL,3,G```````````````````````````````````````
@@ -133,7 +133,7 @@ PN,17605
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q##j=|h<|  s!|l4|n5GBIFFO BIDS GOODBYE
 OL,2,Q  j5jws  s0j5z5
 OL,3,G```````````````````````````````````````
@@ -165,7 +165,7 @@ PN,17606
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q##j=|h<|  s!|l4|n5GBIFFO BIDS GOODBYE
 OL,2,Q  j5jws  s0j5z5
 OL,3,G```````````````````````````````````````
@@ -197,7 +197,7 @@ PN,17607
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q##j=|h<|  s!|l4|n5GBIFFO BIDS GOODBYE
 OL,2,Q  j5jws  s0j5z5
 OL,3,G```````````````````````````````````````
@@ -229,7 +229,7 @@ PN,17608
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q##j=|h<|  s!|l4|n5GBIFFO BIDS GOODBYE
 OL,2,Q  j5jws  s0j5z5
 OL,3,G```````````````````````````````````````

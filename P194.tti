@@ -5,7 +5,7 @@ PN,19401
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,SZ        p  x5YVj                     
@@ -35,7 +35,7 @@ PN,19402
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,VZ?/o}Y###############################k
@@ -65,7 +65,7 @@ PN,19403
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,V7#############################GWORLDV#k
@@ -95,7 +95,7 @@ PN,19404
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,V7########################GNEWS QUIZV##k
@@ -125,7 +125,7 @@ PN,19405
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,QZ?/oY###############################k
@@ -155,7 +155,7 @@ PN,19406
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,RZ}p~Y###############################k
@@ -185,7 +185,7 @@ PN,19407
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,R7#####################GMARKETS TODAYR#k
@@ -215,7 +215,7 @@ PN,19408
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,U7#########Z  h?o4  j?/%j5j5j5j?m sY#k
@@ -245,7 +245,7 @@ PN,19409
 SC,0009
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,VZ/*%?oj/%/  ?ojt5m  /j?%?oj?%/j45
@@ -275,7 +275,7 @@ PN,19410
 SC,0010
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,VZS   x}0    `~hto/%~/4~?!YVj
@@ -305,7 +305,7 @@ PN,19411
 SC,0011
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,V7########################GNOTE-ABLESV#k
@@ -335,7 +335,7 @@ PN,19412
 SC,0012
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,V7########################GROCK TALKV##k
@@ -365,7 +365,7 @@ PN,19413
 SC,0013
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,Q7#####Zp|||t               j5    Y####k
@@ -395,7 +395,7 @@ PN,19414
 SC,0014
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                               C        
 OL,3,V7#####GDISCRIMINATING DIFFERENCESV####k
@@ -425,7 +425,7 @@ PN,19415
 SC,0015
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,ZWzWhtpPW#/=htWx4PW*a=|p0P     
@@ -455,7 +455,7 @@ PN,19416
 SC,0016
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,Q7#########FTODAY IN HISTORYQ##########k
@@ -485,7 +485,7 @@ PN,19417
 SC,0017
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                        
 OL,2,                                        
 OL,3,V7##########GMEASUREMETRICV############k

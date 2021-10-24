@@ -5,7 +5,7 @@ PN,17801
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -37,7 +37,7 @@ PN,17802
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -69,7 +69,7 @@ PN,17803
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -101,7 +101,7 @@ PN,17804
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -133,7 +133,7 @@ PN,17805
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -165,7 +165,7 @@ PN,17806
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -197,7 +197,7 @@ PN,17807
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -229,7 +229,7 @@ PN,17808
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -261,7 +261,7 @@ PN,17809
 SC,0009
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -293,7 +293,7 @@ PN,17810
 SC,0010
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -325,7 +325,7 @@ PN,17811
 SC,0011
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````
@@ -357,7 +357,7 @@ PN,17812
 SC,0012
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qk4sh<|b1 h<|($|l4|$,l4|,$n=b1|h4|l4 
 OL,2,Qz%juj5 j5  s1 {5p0j5j5kz!s1 
 OL,3,G```Q(,/GYOUR LETTERS G`````````````````

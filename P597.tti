@@ -5,7 +5,7 @@ PN,59701
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,P             W`WpWpp||tx|t0P           
 OL,2,P            Wx~tP         
 OL,3,P           Wh?'!"W#/b?/?4P        
@@ -35,7 +35,7 @@ PN,59702
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]G                                     
 OL,2,V]Q]  V]
 OL,3,V]Q]       V\]D]GULTIM'ORA     ^101TkV\
@@ -65,7 +65,7 @@ PN,59703
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V  pppppppppppB"Dredd my Mistigris."    
 OL,2,V jJ?###o5W      `8,'#####+,t0     
 OL,3,V j' bt+}5W    `~S.///////-W}0   
@@ -95,7 +95,7 @@ PN,59704
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W'          +
 OL,2,W?!R  p||||t0 W+
 OL,3,W? R `~|0Wk
@@ -125,7 +125,7 @@ PN,59705
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Vk]                    A32/42
 OL,2,V?! +]         DTRAVEL LATEST  
 OL,3,V|?*}~]         Dfollows >>     
@@ -155,7 +155,7 @@ PN,59706
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                       TjC>GTELETEXTC<T5
 OL,2,   GBIT 0 (ARedG)      TjG3 BIT COLOURT5
 OL,3,Q~]G                   \T),,,,,,,,,,,,& 
@@ -185,7 +185,7 @@ PN,59707
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V?/o?v;ls/7kQzuVQjWx~57Q>!p>#
 OL,2,W<,dV+SpV+s>; V%QoV*QzW?!o7Q~!xWz
 OL,3,Q.o||<$S+tV+gQ}S4Qui0 Wo'Q|pp~%h?W!
@@ -215,7 +215,7 @@ PN,59708
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, ]Q(o7 ^W\|    Q*]Wot~}pp
 OL,2, ]Q   + W \"+o5   Q "u"^?o]W*
 OL,3,W5    "/     Q"//'#   k]W"o
@@ -245,7 +245,7 @@ PN,59709
 SC,0009
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&#)p&
 OL,2,W                                       
 OL,3,MTHIS IS A DOUBLE TEST,TO THE END OF PAG
@@ -275,7 +275,7 @@ PN,59710
 SC,0010
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]G                   
 OL,2,T]W  x4x,|`<l0 `4                       
 OL,3,T]W  j5p*uz%xu                       
@@ -305,7 +305,7 @@ PN,59711
 SC,0011
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S]T        h<th4|h4|h<|h<|h<|           
 OL,2,S]T        j5j5j5*-|j=*-|           
 OL,3,S]T        *-'*%"& /*-/*%/*-/           
@@ -335,7 +335,7 @@ PN,59712
 SC,0012
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]GMBRITISH GARDEN BIRDS                
 OL,2,D]GMBRITISH GARDEN BIRDS                
 OL,3,A]G Guide to the text                   

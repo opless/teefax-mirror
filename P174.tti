@@ -5,7 +5,7 @@ PN,17401
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?'P        RppP T"
 OL,2,T?P Rp||t0R`~tPT"
 OL,3,T!PR~t~uPT
@@ -35,7 +35,7 @@ PN,17402
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,ToAMARCHTo?Rp,f{{|pT+o/'!"+//-T+/-"/
 OL,2,PS`|h||||R`&x///////}0Wh4|h<4|lh<4|h4
 OL,3,ShPS`~?R6z/'S///R//}Wj7j75#j7!s{5

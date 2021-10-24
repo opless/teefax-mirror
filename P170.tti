@@ -5,7 +5,7 @@ PN,17001
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -35,7 +35,7 @@ PN,17002
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -65,7 +65,7 @@ PN,17003
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -95,7 +95,7 @@ PN,17004
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -125,7 +125,7 @@ PN,17005
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -155,7 +155,7 @@ PN,17006
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -185,7 +185,7 @@ PN,17007
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]CADVERTISEMENT                        
 OL,2,B]A                                     
 OL,3,B]DM     SOTC MOTORCYCLE MINISTRY       
@@ -215,7 +215,7 @@ PN,17008
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -245,7 +245,7 @@ PN,17009
 SC,0009
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -275,7 +275,7 @@ PN,17010
 SC,0010
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]CADVERTISEMENT                        
 OL,2,G                                       
 OL,3,G                                       
@@ -305,7 +305,7 @@ PN,17011
 SC,0011
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -335,7 +335,7 @@ PN,17012
 SC,0012
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -365,7 +365,7 @@ PN,17013
 SC,0013
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -395,7 +395,7 @@ PN,17014
 SC,0014
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -425,7 +425,7 @@ PN,17015
 SC,0015
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -455,7 +455,7 @@ PN,17016
 SC,0016
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 
@@ -485,7 +485,7 @@ PN,17017
 SC,0017
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|||    |4   |4|      h|       T`|3mt  
 OL,2,Quj/%}?  }*/5?jjo55T//////% 
 OL,3,Q7bs55  7jw55jjs1uSg;/s?Q} 

@@ -2,7 +2,7 @@ PN,80C00
 SC,0000
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V?//o
 OL,2,V?/////Sx|0V/?/////
 OL,3,U|||}|VS??5V}|||}||~

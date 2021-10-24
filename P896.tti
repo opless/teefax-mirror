@@ -3,7 +3,7 @@ PN,89600
 SC,0000
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T
 OL,2,TRppppp  `p    pp0 `p0  `pppp0T
 OL,3,T/oQj5 `"  >k4 `" #%       0!T

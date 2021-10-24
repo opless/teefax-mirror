@@ -5,7 +5,7 @@ PN,19301
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S#ss{'s3o's3o#o7k's3o#o'k3o?c
 OL,2,SSssSS5jSt!jS5jSta4j4h
 OL,3,Spss{tsq~tsq~puztsq~puzuz
@@ -35,7 +35,7 @@ PN,19302
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]Sh<,h4|     8$           4     `|`<$  
 OL,2,T]Sj=$j5h#hs47!vyh#hs47ih#55jjki"j=t  
 OL,3,T]S*-,"-'* ",$% ),* ",$%*",%).*** /"-'  
@@ -65,7 +65,7 @@ PN,19303
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]Wh|| |  h|| ||4h|| T]Gthat can be     
 OL,2,U]Wj=,   j= h4*-| T]Gdisplayed on    
 OL,3,U]W*%  //%*%/ //%*// T]Gthis screen     
@@ -95,7 +95,7 @@ PN,19304
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W?c3o?c3o7k7k7cs#s+'s+'33o7cs's+w3c{
 OL,2,W5j3k5j5ju*%z5b{W#xWWW55j5b{WW5j
 OL,3,W}rq~}rq~txursp}rppp}uzursppuz
@@ -125,7 +125,7 @@ PN,19305
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V7s33###s3s3s3s#s3##c#3s33###cscscscscsk
 OL,2,V5=55(,$55=5=$55=5V8!V5-45P V*lV5jnV5j,j
 OL,3,Vuqqsqpp{qqqsqspqqrpppqsqssrprspqrrpqrsz
@@ -155,7 +155,7 @@ PN,19306
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
 OL,2,T]W|j5j5|j5j5  | j5 j5j5 *-l4 
 OL,3,T]W/  *//%/  *//%//%/ / *% /*//%/ /*//% 
@@ -185,7 +185,7 @@ PN,19307
 SC,0007
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
 OL,2,Q]W|j5j5|j5j5  | j5 j5j5 *-l4 
 OL,3,Q]W/  *//%/  *//%//%/ / *% /*//%/ /*//% 
@@ -215,7 +215,7 @@ PN,19308
 SC,0008
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
 OL,2,R]W|j5j5|j5j5  | j5 j5j5 *-l4 
 OL,3,R]W/  *//%/  *//%//%/ / *% /*//%/ /*//% 
@@ -245,7 +245,7 @@ PN,19309
 SC,0009
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,PR7s333s33#3s#33s#33##c#ccscscscccsc3kP 
 OL,2,PR5-4=5=5555=155=1m%PRjjjj,jnR5jnj,jfjP 
 OL,3,PRusqqqqqssqspsqqqrppprssrsrrpqrrrsrrzP 
@@ -275,7 +275,7 @@ PN,19310
 SC,0010
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,P R//   
 OL,2,P V?//V///////////,//////   
 OL,3,P R5*/RRRRRRRRRRRRR   
@@ -305,7 +305,7 @@ PN,19311
 SC,0011
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W<,,,,,,,,,,,lPWhP   WlP  W4P      WhP  
 OL,2,W5aaaaaaaaaacjPWj,$`,0jW8dW=,W8dW4W4j,$P
 OL,3,W5$$$$$$$$$$,jPWjPWjp5jWuzW5PWuzW)8!jP  
@@ -335,7 +335,7 @@ PN,19312
 SC,0012
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,A]CM    Matthew Eagles's Testcard       
 OL,2,A]CM    Matthew Eagles's Testcard       
 OL,3,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -365,7 +365,7 @@ PN,19313
 SC,0013
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]W`ppp0 ppp0 `0 `0`p   p0 ppp `ppp0    
 OL,2,V]W"##! ## j5 j5 +}p~'  ## "##!    
 OL,3,V]W     ?' j5 j5  zu              
@@ -395,7 +395,7 @@ PN,19314
 SC,0014
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,P             Rj$P                      
 OL,2,P          RpppxP   Wj5h7}W"k7!#Wk4P
 OL,3,P     R`x!R`'P   Wj5j5WWj5W#Wj5P
@@ -425,7 +425,7 @@ PN,19315
 SC,0015
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Wj5WW~k4k7jw1j7}PS.k4h7}"S#!PSk5Sh7
 OL,2,Wo>m?WWj5j5ju0j7}P Sj5j5SSP  Sj5`?P
 OL,3,W`p0ppWp0`p0WpWpW`p0S`?Sj5SS#k4"#j5j7}

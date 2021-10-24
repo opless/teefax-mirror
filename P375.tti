@@ -5,7 +5,7 @@ PN,37501
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R  l,,,,,,,,,,AA I R L I N ER,,,,,,,,,,<
 OL,2,R   )<,,,,,,,,              R,,,,,,,,l& 
 OL,3,R    "l,,,,,,,B T I C K E T R,,,,,,,<!  
@@ -37,7 +37,7 @@ PN,37502
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R/?%s1ppp`pp0Q     x5          x5      
 OL,2,R 5 57js1Q,,,,.!5x,,,,,,,,.!5x,,,,,
 OL,3,R 5 5}h|5Q      ?!          ?!     
@@ -69,7 +69,7 @@ PN,37503
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R/?%s1ppp`pp0Q     x5          x5      
 OL,2,R 5 57js1Q,,,,.!5x,,,,,,,,.!5x,,,,,
 OL,3,R 5 5}h|5Q      ?!          ?!     
@@ -101,7 +101,7 @@ PN,37504
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?/jp0ppp`p0z0Q          `~          
 OL,2,R5 jk5s{j!k!Q,,,,,,,,,,'j`<,,,,,,,,
 OL,3,R}|jj5~j j Q           j'         

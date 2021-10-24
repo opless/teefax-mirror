@@ -5,7 +5,7 @@ PN,16901
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T       |0 `|Q    T|    | |    Gth@   
 OL,2,W]T       |Qx?otT>ot |     GHRON  
 OL,3,W]T       j5Q0`T0`      G      
@@ -35,7 +35,7 @@ PN,16902
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T   `,$4                T|p `x4Gth@   
 OL,2,W]T   5  =#4vs45 5=#h#ij&iT#/?'!GHRON  
 OL,3,W]T   ",$% %), "& % ",&* *Q|px~5G      
@@ -65,7 +65,7 @@ PN,16903
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]Q ^      hQ]T         _W k
 OL,2,W]Q ^      Q]Tx||||`~?! W  
 OL,3,W]Q ^     jQ]T#c!~|0 W  j
@@ -95,7 +95,7 @@ PN,16904
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W   `||0 |||0 `||0 `||0Q Q x5}0       
 OL,2,T]W   !"  b !"/ !"Q Q./!+/$      
 OL,3,T]W   // /ou 0`| 0`Q Q+4~?!      

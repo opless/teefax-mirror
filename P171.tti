@@ -5,7 +5,7 @@ PN,17101
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V7###  GA B CHDIE     V5 j5      // 
 OL,2,Q5   j jjs{ ss1ss1 5 j5#57k pp 
 OL,3,Vupr{ pzjpp0ppz5ppz5 u:t5 5sz 1   
@@ -35,7 +35,7 @@ PN,17102
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,StS"o4P      T`ppppppp0P      Sh?!Sx
 OL,2,W}0W+5P      V*7#####k%P      Wj'W`~
 OL,3,WotW"%P       UeP   U:P       W*!Wx?
@@ -65,7 +65,7 @@ PN,17103
 SC,0003
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G]Q          h|||<                      
 OL,2,G]Q          j##                       
 OL,3,G]Q         x?!ELECTRONICS            
@@ -95,7 +95,7 @@ PN,17104
 SC,0004
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U   `|~//o3#                  b~u     
 OL,2,S   i=`/-                     a}4 
 OL,3,U  `q {&                        ao+(g} 
@@ -125,7 +125,7 @@ PN,17105
 SC,0005
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]W              W`pppp0                
 OL,2,R]W          Wp<.ss||||ss/lp            
 OL,3,R]W        Wx.y~}v;t0         
@@ -155,7 +155,7 @@ PN,17106
 SC,0006
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?/S('#+,$3o}r}:}wot}0Tk
 OL,2,TS(lpx|~|2/?o+o3o0T
 OL,3,T|$Spr+}~o};tk4T
