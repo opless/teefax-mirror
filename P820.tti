@@ -7,6 +7,7 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn/ss
+OL,1,                              Q]GNoCaps 
 OL,2,BBC    U##       j#                  
 OL,3,       U  js5w{j|4bss5/e:%          
 OL,4,       Uppjp0upj  jp55j5          
@@ -19,7 +20,7 @@ OL,11,                   W5GPAGE..........280
 OL,12, FINANCE from...220W5G                  
 OL,13, F.T.INDEX......225W5GSee also......217 
 OL,14,                   W5G                  
-OL,15, SPORT frmo ....230W5Q,,,,,,,,,,,,,,,,,,
+OL,15, SPORT from ....230W5Q,,,,,,,,,,,,,,,,,,
 OL,16,                   W5G                  
 OL,17, HOME AND          W5G BBC-1........251 
 OL,18, AROUND from ...241W5G BBC-2........252 
