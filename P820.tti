@@ -1,0 +1,32 @@
+DE,Recreation of Ceefax frontpage from 1976(?)
+DS,inserter
+SP,E:\Teletext\TEEFAX\P820.tti
+PN,82000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TEEFAX mpp DAY dd MTH C hh:nn/ss
+OL,2,BBC    U##       j#                  
+OL,3,       U  jw{5sj|4bss5/e:%          
+OL,4,       Uppjup0ppj  jp55j5          
+OL,5,       U                                
+OL,7,CNEWS .. 201 to 209W5G                  
+OL,8,                   W5GSPECIAL           
+OL,9, TRAVEL from....211W5GOPEN              
+OL,10, WEATHER MAP....215W5GUNIVERSITY        
+OL,11,                   W5GPAGE..........280 
+OL,12, FINANCE from...220W5G                  
+OL,13, F.T.INDEX......225W5GSee also......217 
+OL,14,                   W5G                  
+OL,15, SPORT frmo ....230W5Q,,,,,,,,,,,,,,,,,,
+OL,16,                   W5G                  
+OL,17, HOME AND          W5G BBC-1........251 
+OL,18, AROUND from ...241W5G BBC-2........252 
+OL,19,                   W5G ITV..........253 
+OL,20,                   W5G                  
+OL,21,CNEWSFLASH..... 250W5Q,,,,,,,,,,,,,,,,,,
+OL,22,                   W5G                  
+OL,23, COMPLETE INDEX 290W5C ANGOLA.......202 
+OL,24, AIndex                                 
+FL,100,8ff,8ff,8ff,8ff,100
