@@ -3,42 +3,45 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 31st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 01st
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0900FThe Andrew Marr Show
-OL,6,G1000FPolitics East
-OL,7,G1030FSunday Morning Live
-OL,8,G1115FCelebration Kitchen Live:...
-OL,9,G1215FBBC News
-OL,10,G1225FWeather for the Week Ahead
-OL,11,G1230FWomen's FA Cup Semi Final:...
-OL,12,G1500FEscape to the Country
-OL,13,G1600FThe Mating Game
-OL,14,G1700FBBC News
-OL,15,G1715FLook East
-OL,16,G1720FWeather
-OL,17,G1725FCountryfile
-OL,18,G1825FDoctor Who: Flux
-OL,19,G1915FStrictly Come Dancing: The Results
-OL,20,G2000FThe Mating Game
-OL,21,G2100FShowtrial
+OL,5,G0915FMorning Live
+OL,6,G1000FDom Delivers
+OL,7,G1045FExpert Witness
+OL,8,G1115FHomes Under the Hammer
+OL,9,G1215FBargain Hunt
+OL,10,G1300FBBC News at One
+OL,11,G1330FLook East
+OL,12,G1345FDoctors
+OL,13,G1415FImpossible
+OL,14,G1500FEscape to the Country
+OL,15,G1545FMoney for Nothing
+OL,16,G1630FNew: The Repair Shop
+OL,17,G1715FPointless
+OL,18,G1800FBBC News at Six
+OL,19,G1830FLook East (West)
+OL,20,G1900FThe One ShowC410
+OL,21,G1930FThe Bidding Room
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 31st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 01st
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2200FBBC News
-OL,6,G2220FLook East
-OL,7,G2225FWeather
-OL,8,G2230FMatch of the Day 2
-OL,9,G2330FMOTD Top 10: Free Kicks
-OL,10,G0000FTeen Spirit
-OL,11,G0130FWeather for the Week Ahead
-OL,12,G0135FBBC News
+OL,5,G2000FEastEnders
+OL,6,G2030FThe Goes Wrong Show
+OL,7,G2100FThe Outlaws
+OL,8,G2200FBBC News at Ten
+OL,9,G2225FLook East (West)
+OL,10,G2235FGlobal Climate Debate
+OL,11,G2335FRuPaul's Drag Race UK
+OL,12,G0050FThe Apprentice Australia
+OL,13,G0155FThe Graham Norton Show
+OL,14,G0250FWeather for the Week Ahead
+OL,15,G0255FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
