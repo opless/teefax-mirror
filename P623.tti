@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 03rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 04th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0900FLorraine
@@ -18,27 +18,26 @@ OL,13,G1700FNew: The Chase
 OL,14,G1800FITV News Anglia
 OL,15,G1830FITV Evening News
 OL,16,G1900FEmmerdale
-OL,17,G1930FCoronation Street
-OL,18,G2000FNew: Beverley and Jordan:...
-OL,19,G2030FCoronation Street
-OL,20,G2100FNew: The World's Fattest Man:...
-OL,21,G2200FITV News at Ten
+OL,17,G1930FNew: The Martin Lewis Money...
+OL,18,G2000FNew: The Daily Mirror Pride of...
+OL,19,G2205FITV News at Ten
+OL,20,G2235FITV News Anglia
+OL,21,G2245FIt Takes a Flood...
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 03rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 04th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2230FITV News Anglia
-OL,6,G2245FNew: Peston
-OL,7,G2340FBritish Touring Car...
-OL,8,G0100FShop: Ideal World
-OL,9,G0300FFYI Extra
-OL,10,G0315FCooking with the Stars
-OL,11,G0405FUnwind With ITV
-OL,12,G0505FTipping Point
+OL,5,G2345FMoneyball
+OL,6,G0035FShop: Ideal World
+OL,7,G0300FFYI Extra
+OL,8,G0315F
+OL,9,G0410F
+OL,10,G0435F
+OL,11,G0505F
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
