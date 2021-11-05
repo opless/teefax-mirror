@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FMorning Live
@@ -13,8 +13,8 @@ OL,8,G1115FHomes Under the Hammer
 OL,9,G1215FBargain Hunt
 OL,10,G1300FBBC News at One
 OL,11,G1330FLook East
-OL,12,G1345FDoctors
-OL,13,G1415FImpossible
+OL,12,G1345FImpossible
+OL,13,G1430FGarden Rescue
 OL,14,G1500FEscape to the Country
 OL,15,G1545FMoney for Nothing
 OL,16,G1630FNew: The Repair Shop
@@ -22,25 +22,26 @@ OL,17,G1715FPointless
 OL,18,G1800FBBC News at Six
 OL,19,G1830FLook East (West)
 OL,20,G1900FThe One ShowC410
-OL,21,G1930FEastEnders
+OL,21,G1930FQuestion of Sport
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2000FSort Your Life Out
-OL,6,G2100FAmbulance
-OL,7,G2200FBBC News at Ten
-OL,8,G2225FLook East (West)
-OL,9,G2235FQuestion Time
-OL,10,G2335FNewscast
-OL,11,G0005FBlankety Blank
-OL,12,G0040FThe Hit List
-OL,13,G0125FWeather for the Week Ahead
-OL,14,G0130FBBC News
+OL,5,G2000FRichard Osman's House of Games...
+OL,6,G2030FEastEnders
+OL,7,G2100FHave I Got News for You
+OL,8,G2130FMrs Brown's Boys
+OL,9,G2200FBBC News at Ten
+OL,10,G2225FLook East (West)
+OL,11,G2235FThe Graham Norton Show
+OL,12,G2325FBBC New Comedy Awards: The Final
+OL,13,G0015FThe Sun Is Also a Star
+OL,14,G0150FWeather for the Week Ahead
+OL,15,G0155FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
