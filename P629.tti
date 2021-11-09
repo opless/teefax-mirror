@@ -3,13 +3,13 @@ DE,TV
 PS,8040
 PN,62901
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 08th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 09th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0900FStorage Hunters UK
-OL,6,G0930FStorage Hunters UK
-OL,7,G1000FAmerican Pickers
-OL,8,G1100FAmerican Pickers
+OL,5,G0900F
+OL,6,G0930F
+OL,7,G1000F
+OL,8,G1100F
 OL,9,G1200FTop Gear
 OL,10,G1300FTop Gear
 OL,11,G1400FWhose Line Is It Anyway? USA
@@ -28,15 +28,17 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
 PN,62902
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 08th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 09th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2200FLive at the Apollo
-OL,6,G2300FOutsiders
+OL,5,G2200FNew: Question Team
+OL,6,G2300FLive at the Apollo
 OL,7,G0000FMock the Week
 OL,8,G0040FHave I Got a Bit More News for You
 OL,9,G0140FWould I Lie to You?
-OL,10,G0230FQI
+OL,10,G0225FQI
+OL,11,G0300FAlan Davies As Yet Untitled
+OL,12,G0400FTeleshopping
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
