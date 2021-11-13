@@ -1,6 +1,6 @@
 DE,Recreation of Ceefax frontpage from 1976(?)
 DS,inserter
-SP,E:\Teletext\TEEFAX\P820.tti
+SP,E:\teletext\TEEFAX\P820.tti
 PN,82000
 SC,0000
 PS,8000
@@ -29,4 +29,4 @@ OL,21,CNEWSFLASH..... 250W5Q,,,,,,,,,,,,,,,,,,
 OL,22,                   W5G                  
 OL,23, COMPLETE INDEX 298W5C ANGOLA.......202 
 OL,24, AIndex      BMore old Ceefax           
-FL,100,320,8ff,8ff,8ff,100
+FL,100,320,89f,8ff,8ff,100
