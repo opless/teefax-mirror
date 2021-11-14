@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 13th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 14th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0610FThe Rubbish World of...
@@ -16,30 +16,47 @@ OL,11,G0720FMr. Bean: The Animated...
 OL,12,G0730FMr. Bean: The Animated...
 OL,13,G0745FThe Tom and Jerry Show
 OL,14,G0755FThe Tom and Jerry Show
-OL,15,G0805FDC Superhero Girls
-OL,16,G0815FDC Superhero Girls
-OL,17,G0830FScooby-Doo and Guess...
-OL,18,G0855FCraig of the Creek
-OL,19,G1240FITV Lunchtime News
-OL,20,G1255FGino's Italian Family...
-OL,21,G1330FITV Racing: Live from Cheltenham
+OL,15,G0805FLEGO Ninjago
+OL,16,G0815FLEGO Ninjago
+OL,17,G0825FThe Rubbish World of...
+OL,18,G0840FThe Rubbish World of...
+OL,19,G0855FMakeaway Takeaway
+OL,20,G0925FNew: Love Your Weekend with...
+OL,21,G1120FTwins
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 13th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 14th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1600FMamma Mia!
-OL,6,G1805FITV Evening News
-OL,7,G1820FITV News Anglia
-OL,8,G1830FNew: Moneyball
-OL,9,G1930FNew: Celebrity Catchphrase
-OL,10,G2030FNew: The Chase Celebrity Special
-OL,11,G2130FNew: The Jonathan Ross Show
-OL,12,G2235FITV News
-OL,13,G2250FMan of Steel
+OL,5,G1315FITV Lunchtime News
+OL,6,G1330FITV Racing: Live from Cheltenham
+OL,7,G1600FTipping Point: Best Ever...
+OL,8,G1630FThe Chase
+OL,9,G1730FNew: The Pet Show
+OL,10,G1830FITV Evening News
+OL,11,G1845FITV News Anglia
+OL,12,G1900FNew: Sitting on a Fortune
+OL,13,G2000FNew: The Larkins
+OL,14,G2100FNew: Angela Black
+OL,15,G2205FITV News
+OL,16,G2220FTareena: Return from ISIS
+OL,17,G2335FThe Trial of Louise Woodward
+OL,18,G0035FShop: Ideal World
+OL,19,G0300FFYI Extra
+OL,20,G0315FMotorsport UK
+OL,21,G0405FUnwind With ITV
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,624,104,535,700,0,620
+PN,62303
+SC,0003
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 14th
+OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0505FTipping Point
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
