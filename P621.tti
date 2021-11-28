@@ -3,41 +3,43 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 27th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 28th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1000FSaturday Kitchen Live
-OL,6,G1130FMary Berry: Love to Cook
-OL,7,G1200FFootball Focus
-OL,8,G1300FBBC News
-OL,9,G1310FWeather
-OL,10,G1315FBargain Hunt
-OL,11,G1400FRugby Union: Barbarians v Samoa
-OL,12,G1630FFinal Score
-OL,13,G1720FBBC News
-OL,14,G1730FLook East
-OL,15,G1735FWeather
-OL,16,G1740FCelebrity Mastermind
-OL,17,G1810FThe Hit List Strictly Special
-OL,18,G1855FStrictly Come Dancing
-OL,19,G2000FMichael McIntyre's The Wheel
-OL,20,G2100FBlankety Blank
-OL,21,G2135FCasualty
+OL,5,G0900FThe Andrew Marr Show
+OL,6,G1000FPolitics East
+OL,7,G1030FSunday Morning Live
+OL,8,G1130FHomes Under the Hammer
+OL,9,G1230FAnimal Park
+OL,10,G1300FBBC News
+OL,11,G1310FWeather for the Week Ahead
+OL,12,G1315FSongs of Praise: Young...
+OL,13,G1355FBargain Hunt
+OL,14,G1420FNativity!
+OL,15,G1600FFrozen Planet
+OL,16,G1700FBBC News
+OL,17,G1715FLook East
+OL,18,G1720FWeather
+OL,19,G1725FCountryfile
+OL,20,G1825FDoctor Who: Flux
+OL,21,G1920FStrictly Come Dancing: The Results
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 27th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 28th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2210FBBC News
-OL,6,G2225FWeather
-OL,7,G2230FMatch of the Day
-OL,8,G2340FThe NFL Show
-OL,9,G0010FApocalypse Now: Final Cut
-OL,10,G0305FWeather for the Week Ahead
-OL,11,G0310FBBC News
+OL,5,G2000FTop Gear
+OL,6,G2100FShowtrial
+OL,7,G2200FBBC News
+OL,8,G2220FLook East
+OL,9,G2225FWeather
+OL,10,G2230FMatch of the Day 2
+OL,11,G2350FMOTD Top 10: Unsung Heroes
+OL,12,G0020FWeather for the Week Ahead
+OL,13,G0025FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
