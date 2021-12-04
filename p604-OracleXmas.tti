@@ -1,0 +1,34 @@
+DE,Oracle Santa
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora.local,share=shared/peter/teletext/xmas/P604-OracleXmas.tti
+PN,60400
+SC,0000
+PS,8000
+CT,10,C
+RE,0
+OL,0,XXXXXXXXFAXMAS %%# %%a %d %%b C %H:%M.%S
+OL,1,T]W`         !   0  0    $ T^?\o]W  $` 
+OL,2,T]W     !      0      0T^\/:5u'&o]     
+OL,3,T]W      $   `    0    T^\}|$'.]W0"  
+OL,4,T]W !  0    `       0   `T^\!   `]W  ` 
+OL,5,T//?o/!  x~
+OL,6,T?!   `'####    */cq|{
+OL,7,T' `    +??/s           "#p||{
+OL,8,T2|}0     ' h~u   pppptpx~
+OL,9,T/"k!      x?  z]W           !  
+OL,10,T0  .0      +!x]R~k4{$~{4~+$ 1
+OL,11,T!   k   0   o=j5z]R+.!/*%/*%+.!/$/$
+OL,12,T    j!       `~`]G    wishes you a  
+OL,13,T?kppp>     px~~]W   h 4<lh,4<lh 4  
+OL,14,T}p   `pp|~]          Qj#57kj#!7#bs5  
+OL,15,T]W!  0   $    !  <$4hhl 4<$l$<<4<lh,$  
+OL,16,To]W       `T]Qu07kj#55s5j 5557kbs5  
+OL,17,T  "'#+?##+^Wl||||Tjoo
+OL,18,T $$S20 ( T{o^Q||4|T?!  +!   
+OL,19,S $$T$$ $( /q`^Q|4||ToS(T j(S( 
+OL,20,Q                  ||4||       T(( "((( 
+OL,21,W]V   0h|     t*/    W^\t              
+OL,22,W]V   #   t*/         W^\t             
+OL,23,W]V  p |4              W^\t            
+OL,24,A Next     B605      C606   FXMAS Home  
+FL,605,606,607,600,0,100

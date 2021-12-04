@@ -1,0 +1,34 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora.local,share=shared/peter/teletext/xmas/teletextmas.tti
+PN,60000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        FAXMAS %%# %%a %d %%bC  %H:%M.%S
+OL,1,W        H`  0I  0       0  H `h` IG2021
+OL,2,W !  h4       `9=q     "'  H ,{9$I  `  
+OL,3,W     #   `|0   &7$  (      $H"*" I`0  0
+OL,4,WHn$I  (  "/!H` I `p  h///4    `   o?   
+OL,5,W    040         x}0 40      +!    H(I
+OL,6,W   (fw, H` I  `~'"o~5 h        `     
+OL,7,W !  !%! H+!I x?!   +}0j5    040      
+OL,8,W           `~' `~}t "o~u ` (fw,      
+OL,9,W  ~}  (   x?!   4 !   +4   !%!  5   
+OL,10,W  "!     *'    (/,-    "o?       z'   
+OL,11,W     n$ `  4 `|t0  px~t     (=   :y9"$ 
+OL,12,WH 0I   `  h5 #s3+ "#k##%        `6~8   
+OL,13,W  H $I    z5  u0   "c"1  5H$   I&z?8!  
+OL,14,W    `x|t0h5 4  ` `|~}0 4 H !I~&< ) 
+OL,15,W " x5 5  z        }    &'2f    
+OL,16,W x5x}|~t p|tp~} `x||tzp}p 
+OL,17,W./////////////////////////////////////-
+OL,18,W  p  p `0 M p E ` R`t R`|0Y p|0 xt  p  
+OL,19,W`~}~}tx~}||}|t|t~~}~}0
+OL,20,W~u z5`z5j5`zu0`z5`zu"!zu z5"'  0j5`zu
+OL,21,W 5`z5j5`z5j5`z%* 5j~  0ju0j
+OL,22,Wpupzupzupzuzupzuxtzpuzppuzupz
+OL,23,G]Dfrom @illarterate danfarrimond.co.uk 
+OL,24,A601       B602       C603      F604    
+FL,601,602,603,604,8ff,8ff

@@ -1,0 +1,34 @@
+DE,deer - Dan Farrimond
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora.local,share=shared/peter/teletext/xmas/deer.tti
+PN,60200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,         FAXMAS %%# %%a %d %%bC %H:%M.%S
+OL,1,U S~Urrssspr"3ss####ssppp #3sq0#ssS}Up0 
+OL,2,U(SU,S0U$,      ((,,,,$    ,,S`U,SU$,$
+OL,3,U3SU#SUsppssp   ##sss0 `csscSU#SUsqr
+OL,4,U,S+U,,,, $,,,,   ((,,,,,S`'U,((
+OL,5,Uqqp S+}0Us### ppssc####sS`~'U0ppss#s
+OL,6,U,,  $,,S+  xtU$,,Sxt  'U$,,,,   ,
+OL,7,Uss#spp33So/ouUsSz?/?Ussscsppqsc
+OL,8,Q,,,$,,Sp  ##!  ?x|to  "##  pQ,,(,, ,,
+OL,9,U3sss3sS+;www3ms~}s>c{{{g!Usssrs3ss
+OL,10,Q,,,,,,,S"nggj/o?/5;;=!Q,,$,,, ,,
+OL,11,Uss3ssqsspS+y%} $k7( ~*v'Urs3sssss ss
+OL,12,Q,, ,,,,$,,,, S}`>/m0~VQ,,,,,,,,,,$ (,
+OL,13,Qs! "ssss#    Sg?////;V   Q#ssssss   s
+OL,14,Q,   ,      ^SxQjSjt _ QW Q,,,,$ (,
+OL,15,Q#! "        S}4 h|W        Q## ##
+OL,16,RsrsssrssssssSq*'   #%rRsss3ssssssssqs
+OL,17,R,,,,,,,,,,,,S+}w###{~'R,,,,,,,,,,,,,,
+OL,18,RsssssssssrssqSu+}|~'zRrsssssssssqssss
+OL,19,R,(,,,,,,(,,,,S}0###`~R,,,$,,,,,,,,,,(
+OL,20,RsssscssssssssS? xRssssssssscsssss
+OL,21,R,,,,,,,,,$,,S` (0R,,,,,,,,,,,,,,
+OL,22,R"cssssss###Sx= "otR   ###sssqss!
+OL,23,R   ,,     Sx?!   otR        ,,  
+OL,24,A  Next  B    603  C    604   FXMAS Home
+FL,603,604,605,600,8ff,8ff

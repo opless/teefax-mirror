@@ -1,0 +1,34 @@
+DE,xmas_cat by Dan Farrimond
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora.local,share=shared/peter/teletext/xmas/xmas_cat.tti
+PN,60300
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,         wxTED %%# %%a %d %%b C %H:%M.%S
+OL,1,V    +?y=+//y}0  x};?9!#QpppV"#!      
+OL,2,V$    bnW`dV$nf& Q,//}tTV `   
+OL,3,T    x}#W(,T"/!  +?9! W|||tpQ+?}0Tk}0 
+OL,4,V   "o%Vx~|0     &V`~W*tUo20Vk'"
+OL,5,T     +Rhwf}Th0  Vh?!5WS##+ouU=j}T   
+OL,6,T    `>R"}}7T"   Vj5W}0  xS+uU"5T  
+OL,7,T   8W(S"+/#T     Wj'o//|~//tS'QU*%T=8
+OL,8,T `~vmW"+l|0T   `~W x}5j~}5j~uT~W~}T~
+OL,9,Ty;/!!Wp|?T   8#!Wh||?/,l?/TS+'T
+OL,10,T6!Wpl2T`xt  Wp|tjgs||.t  x?oTs-l|~vg
+OL,11,T7W`>tT (' W~'*/s|?{5j;}Ts/}?! 
+OL,12,T&Sh0"T    W>t"}0~}'og~?!"o&T~g   
+OL,13,T Wnu+Tx0 Wt"5ku"#o5+tS#!p~}0Tx=+/)/-  
+OL,14,T Wx'Th'Wk4k0k}~4o0"o}tpp 0TnBMEOW!Tv
+OL,15,T0S?}T*yW0 k} m0+Sk2ot0"#ap~T  +y|||8x~
+OL,16,T W`~%U"Wt +}o0 "os#//#xU `~vog~vo
+OL,17,T S(wxtWjt+}~? +0S +/4h'!T8=)=!
+OL,18,U `S+?c5 o}2#   *VhSk-.!j}>Ujvo'  "o'  
+OL,19,Uy;}0Sn5W +tpxVj4S}4 ~'TU+/?!    x0  
+OL,20,Uv'$S!*|p"+?/V`}S+u      U  `~t 
+OL,21,U'!     S"o|'atV+'S~0j?=0     U #+?! 
+OL,22,T          S#-|?!  Sovf +v$        T   
+OL,23,E                   WS#!        T       
+OL,24,   ANext    B604     C606    F XMAS Home
+FL,604,605,606,600,8ff,8ff
