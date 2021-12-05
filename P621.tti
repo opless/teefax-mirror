@@ -3,40 +3,42 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1000FSaturday Kitchen Live:...
-OL,6,G1130FMary Berry: Love to Cook
-OL,7,G1200FBBC News
-OL,8,G1210FWeather
-OL,9,G1215FMOTD Live: Buxton v Morecambe
-OL,10,G1445FEscape to the Country
-OL,11,G1545FVirtually Home
-OL,12,G1630FFinal Score
-OL,13,G1720FBBC News
-OL,14,G1730FLook East
-OL,15,G1735FWeather
-OL,16,G1740FSuperman and Lois
-OL,17,G1840FStrictly Come Dancing
-OL,18,G1940FMichael McIntyre's The Wheel
-OL,19,G2040FBlankety Blank
-OL,20,G2115FCasualty
-OL,21,G2200FBBC News
+OL,5,G0900FThe Andrew Marr Show
+OL,6,G1000FPolitics East
+OL,7,G1030FSunday Morning Live
+OL,8,G1130FFern Britton Meets... Barbara...
+OL,9,G1230FSongs of Praise: Young...
+OL,10,G1315FBBC News
+OL,11,G1325FWeather for the Week Ahead
+OL,12,G1330FWomen's FA Cup Final: Arsenal v...
+OL,13,G1625FGarden Rescue
+OL,14,G1655FBBC News
+OL,15,G1710FLook East
+OL,16,G1715FWeather
+OL,17,G1720FCountryfile
+OL,18,G1820FDoctor Who: Flux
+OL,19,G1920FStrictly Come Dancing: The Results
+OL,20,G2000FTop Gear
+OL,21,G2100FYou Don't Know Me
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2215FWeather
-OL,6,G2220FMatch of the Day
-OL,7,G2330FThe NFL Show
-OL,8,G0000FThe Deer Hunter
-OL,9,G0255FWeather for the Week Ahead
-OL,10,G0300FBBC News
+OL,5,G2200FBBC News
+OL,6,G2220FLook East
+OL,7,G2225FWeather
+OL,8,G2230FMatch of the Day 2
+OL,9,G2345FMOTD: FA Cup Highlights
+OL,10,G0045FMOTD Top 10: XI Played With
+OL,11,G0115FWeather for the Week Ahead
+OL,12,G0120FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
