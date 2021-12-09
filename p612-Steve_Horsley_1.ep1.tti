@@ -1,0 +1,34 @@
+DE,XMAS Pud - Steve Horsley
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora.local,share=shared/peter/teletext/xmas/YLE_Advent_Calendar_2021_for_Peter/EP1/Steve_Horsley_1.ep1.tti
+PN,61200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,         wxTED %%# %%a %d %%b C %H:%M.%S
+OL,1,T $    (t$` $p)~|||{?|0r"8!     (  
+OL,2,T0  ( (!*y4l~}w$ $"0    
+OL,3,T `b`r}2o~{w//?//o~y?as & $ 
+OL,4,T $"3nRxt `~}T~/{w   
+OL,5,T`"}R+v%g>!T{{{& 
+OL,6,T`{}?$Qn$lT"+o?g' 
+OL,7,T wo7~?~'Wx~|~|~-tTk6o{%~ow"
+OL,8,Tz4+'*a>###+'W~}2uT'###$!"i/i?5
+OL,9,T;o$St Vjs{T'W~?/}j0Vws5StT#`|;
+OL,10,T?t Sj4Vjj Wz7QpWk45V55Sj4Tnyou
+OL,11,Tw?!Wh4Vj7z W'Q:uWkukVa5Wh4T2o
+OL,12,Tw|=Wj5 V55TW'Qx{uW+s>VjzTWj5T}
+OL,13,TwWj5 Vo%T4Qo~oo=|$ V*?TWj5Tbo~
+OL,14,TWj5 VjTz?Q"o'T.tV5TWj5T
+OL,15,T{5Sl, VjToW(,,,,,,,,,,,T?V5TSl,Tj
+OL,16,T/'SzuV`zpT),V+ss?!T&Vpu0SzuT+/.{
+OL,17,ToQpUl|~||||~ss}|||||||wss}|||}||>QpT}
+OL,18,T~Q/-,U#////#Q,./T~
+OL,19,T8|||Q|`TtppU####//////'###TpxQxjT<|<5
+OL,20,T!~oQjT;||||||||~QjT;}z;
+OL,21,T *QjTcoQjTo 
+OL,22,T" -{QjTw;{{w/go}QjT}'( 
+OL,23,T  &(oQjT/# #//w|/#"!"/QjTw "  
+OL,24,ANext                          FIndex   
+FL,613,614,615,600,8ff,8ff

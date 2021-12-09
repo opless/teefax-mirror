@@ -1,0 +1,34 @@
+DE,Snowman - Polyducks
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora.local,share=shared/peter/teletext/xmas/YLE_Advent_Calendar_2021_for_Peter/EP1/Polyducks_1.ep1.tti
+PN,61000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,         wxTED %%# %%a %d %%b C %H:%M.%S
+OL,1,V]G  *   .   V^\5 _      z]G  ' H*I    
+OL,2,V]G.       : V^\u _      ]GH*I     *  
+OL,3,V]G     H*I   V^\ x~}0]G    H.   *I
+OL,4,V]GH_I    V^\//##"         ##/]G  *    
+OL,5,V]G   *  V^\0   _Wpx||p0V   px]G     ' 
+OL,6,V]G *  H.IV^\_?W`~}tV+u"7k
+OL,7,V?#    #oWh'+'+uVk4j o
+OL,8,V7Wx}0Vo%Wtx tx0V"? "! z
+OL,9,VWh}VjWj/?+5V0#! p|
+OL,10,VWj?VjWjt5  kpx?V 0*
+OL,11,VuWo?'V`}W+?!Vz} "
+OL,12,V}t0 `p|?!W`p|}~|tpV+o/'! r
+OL,13,V "/o?W`|s/t  V`x|
+OL,14,V}p0  Wh?oo}fuVn]G   . 
+OL,15,V]GH*IV^\_7W~0`uo4V]G _   
+OL,16,V?///oWhj5Vk]GH *I
+OL,17,V!  +'Wx|t  *o'#o~%Vj'##+
+OL,18,W~e||07`px|}0 zn2l0 h%p
+OL,19,W|0"cx?/o}w+|;4 +s:
+OL,20,Wes3o%h!   k} o:4 o~
+OL,21,Wu4h///0   z}"~*4 ?s
+OL,22,Wgp|0a||p"}||~5i5u k
+OL,23,W}} 5j{n9 POLYDUCKS
+OL,24,ANext                             FIndex
+FL,611,612,613,600,8ff,8ff
