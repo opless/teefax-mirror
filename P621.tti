@@ -3,14 +3,14 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 15th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 16th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FMorning Live at Christmas
 OL,6,G1000FAnimal Park Christmas Special
 OL,7,G1045FFraud Squad
 OL,8,G1115FHomes Under the Hammer
-OL,9,G1215FBargain Hunt: Toy Special
+OL,9,G1215FBargain Hunt
 OL,10,G1300FBBC News at One
 OL,11,G1330FLook East
 OL,12,G1345FDoctors
@@ -22,24 +22,25 @@ OL,17,G1715FPointless
 OL,18,G1800FBBC News at Six
 OL,19,G1830FLook East (West)
 OL,20,G1900FThe One ShowC410
-OL,21,G1930FMy Family Christmas Special
+OL,21,G1935FSort Your Life Out
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 15th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 16th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2000FThe Repair Shop at Christmas
-OL,6,G2100FMasterChef: The Professionals
+OL,5,G2035FEastEnders
+OL,6,G2100FMasterChef: The Professionals -...
 OL,7,G2200FBBC News at Ten
 OL,8,G2225FLook East (West)
-OL,9,G2235FMatch of the Day
-OL,10,G0000FNot Going Out Christmas Special
-OL,11,G0040FTop Gear
-OL,12,G0140FWeather for the Week Ahead
-OL,13,G0145FBBC News
+OL,9,G2235FQuestion Time
+OL,10,G2335FMatch of the Day
+OL,11,G0020FNewscast
+OL,12,G0050FSuperman &amp; Lois
+OL,13,G0135FWeather for the Week Ahead
+OL,14,G0140FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
