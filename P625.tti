@@ -37,11 +37,11 @@ OL,7,G1305FEntertainment News on 5
 OL,8,G1310FA Christmas To Remember
 OL,9,G1355FChristmas With The Relatives
 OL,10,G1455FEntertainment News on 5
-OL,11,G1500FChristmas With The Relatives
-OL,12,G1605FJourney Back To Christmas
-OL,13,G1705F5 News Update
-OL,14,G1710FJourney Back To Christmas
-OL,15,G1755FScrooge - A Christmas Carol
+OL,11,G1500F
+OL,12,G1605F
+OL,13,G1705F
+OL,14,G1710F
+OL,15,G1755F
 OL,16,G1935FNew: Charles Dickens with Gyles...
 OL,17,G2100FThe Full Monty
 OL,18,G2205F5 News Update
@@ -56,8 +56,14 @@ SC,0003
 OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 18th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2355FKinky Boots
-OL,6,G0100FThe 21.co.uk Live Casino Show
+OL,5,G0100FThe 21.co.uk Live Casino Show
+OL,6,G0300FEntertainment News on 5
+OL,7,G0305FMe &amp; My Addiction
+OL,8,G0415FThe Highland Midwife
+OL,9,G0505FHouse Doctor
+OL,10,G0530FPeppa Pig
+OL,11,G0535FFireman Sam
+OL,12,G0550FFireman Sam
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
