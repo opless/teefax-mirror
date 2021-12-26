@@ -3,25 +3,62 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 25th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 26th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0900FLorraine
-OL,6,G1000FThis Morning
-OL,7,G1200FNew: James Martin's Christmas Day
-OL,8,G1400FNew: Ainsley's Christmas Good...
-OL,9,G1500FHM The Queen
-OL,10,G1510FSanta Claus: The Movie
-OL,11,G1715FITV Evening News
-OL,12,G1730FNew: Paul O'Grady: For the Love...
-OL,13,G1800FNew: The Masked Singalong
-OL,14,G1900FEmmerdale
-OL,15,G2000FCoronation Street
-OL,16,G0105FThe Royal Variety Performance
-OL,17,G0315FFYI Extra
-OL,18,G0335FJoanna Lumley's Home Sweet Home...
-OL,19,G0425FRolling In It
-OL,20,G0515FUnwind With ITV
+OL,5,G0610FThe Rubbish World of...
+OL,6,G0620FThe Rubbish World of...
+OL,7,G0635FMr Magoo
+OL,8,G0645FMr Magoo
+OL,9,G0655FMr Magoo
+OL,10,G0700FDare Master at Home
+OL,11,G0705FMr. Bean: The Animated...
+OL,12,G0720FMr. Bean: The Animated...
+OL,13,G0730FHotel Transylvania
+OL,14,G0745FHotel Transylvania
+OL,15,G0800FThe Rubbish World of...
+OL,16,G0815FThe Rubbish World of...
+OL,17,G0825FThe Rubbish World of...
+OL,18,G0835FThe Epic Tales of Captain...
+OL,19,G0925FITV News
+OL,20,G0930FGino's Italian Family...
+OL,21,G1000FNew: Love Your Christmas with...
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,624,104,535,700,0,620
+PN,62302
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 26th
+OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G1155FAinsley's Christmas Good...
+OL,6,G1250FITV Lunchtime News
+OL,7,G1300FITV Racing: Live from Kempton
+OL,8,G1530FPaul O'Grady: For the...
+OL,9,G1600FITV Evening News
+OL,10,G1615FNew: Saturday Night Takeaway...
+OL,11,G1700FNew: The Chase Celebrity...
+OL,12,G1800FNew: Celebrity Catchphrase:...
+OL,13,G1900FEmmerdale
+OL,14,G1930FCoronation Street
+OL,15,G2000FNew: All Star Musicals at...
+OL,16,G2130FNew: Billy Connolly: My...
+OL,17,G2240FITV News
+OL,18,G2250FMadame Tussauds: The Full Wax
+OL,19,G2350FBritish Touring Car...
+OL,20,G0130FShop: Ideal World
+OL,21,G0300FFYI Extra
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,624,104,535,700,0,620
+PN,62303
+SC,0003
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 26th
+OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0315FMotorsport UK
+OL,6,G0405FUnwind With ITV
+OL,7,G0505FTipping Point
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
