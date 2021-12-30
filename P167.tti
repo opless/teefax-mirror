@@ -1,27 +1,26 @@
-DE,Weather
 PN,16700
 SC,0000
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,V]T     h|`0|h||4|||h|||h|h4|||h||4     
 OL,2,V]T     jj5j| u j j~5}4jz%     
 OL,3,V]T     jzujp07 j jk5upjj5     
 OL,4,S]T     "####"##!#!# "# "#"!###"#"!     
 OL,5,@@                                      
-OL,6, GM 20thF68FCDecreasing Clouds          
+OL,6, GM 27  F53FCRain                       
 OL,7,@                                       
-OL,8, GT 21stF74FCSunny                      
+OL,8, GT 28  F56FCSunny                      
 OL,9,@@@                                     
-OL,10, GW 22ndF85FCSunny                      
+OL,10, GW 29  F52FCRain                       
 OL,11,@@@                                     
-OL,12, GT 23rdF86FCSunny                      
+OL,12, GT 30  F53FCRain                       
 OL,13,@                                       
-OL,14, GF 24thF91FCSunny                      
+OL,14, GF 31  F60FCSunny                      
 OL,15,@                                       
-OL,16, GS 25thF90FCSunny    @@@@@@            
+OL,16, GS 1   F60FCSunny    @@@@@@            
 OL,17,@@@                                     
-OL,18, GS 26thF86FCMostly Sunny               
+OL,18, GS 2   F60FCSunny                      
 OL,19,@@@@                                    
 OL,20, @@                                     
 OL,21, @                                      

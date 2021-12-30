@@ -1,9 +1,8 @@
-DE,Music Top 10
 PN,16400
 SC,0000
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q]T    4                                
 OL,2,W]T 5  5To?jojo  `~ joT js{s{s{F
 OL,3,Q]T 5 w5Tj5jjjz   j jjT j j j jF
@@ -11,21 +10,21 @@ OL,4,W]Tw5T   j5jzj##  `zpjzT j / j /F
 OL,5,Q]T      "#!"###"#    "###"###  /   /F  
 OL,6,                                        
 OL,7,                                        
-OL,8,G 1CToosie SlideB..................Drake
-OL,9,G 2CBlinding LightsB..........The Weeknd
-OL,10,G 3CThe BoxB.................Roddy Ricch
-OL,11,G 4CDon't Start NowB............Dua Lipa
-OL,12,G 5CLife Is GoodB.........Future f Drake
-OL,13,G 6CCirclesB.................Post Malone
-OL,14,G 7CAdore YouB..............Harry Styles
-OL,15,G 8CSay SoB.....................Doja Cat
-OL,16,G 9CIntentionsB....Justin Bieber f Quavo
-OL,17,G10Ceverything i wantedB...Billie Eilish
+OL,8,G 1CAll I Want for Christmas...FMariah C
+OL,9,G 2CRockin' Around the Xmas Tree.FBrenda
+OL,10,G 3CJingle Bell Rock........FBobby Helms
+OL,11,G 4CA Holly Jolly Christmas...FBurl Ives
+OL,12,G 5CEasy on Me....................FAdele
+OL,13,G 6CIt's the Most Wonderful Time.FAndy W
+OL,14,G 7CLast Christmas................FWham!
+OL,15,G 8CFeliz Navidad........FJose Feliciano
+OL,16,G 9CStay......FKid LAROI & Justin Bieber
+OL,17,G10CSleigh Ride............FThe Ronettes
 OL,18,                                        
 OL,19,                                        
 OL,20,                                        
 OL,21,                                        
-OL,22,                                        
-OL,23,A]D    @ From Billboard Hot100          
+OL,22,G           30 December 2021            
+OL,23,A]D      From Billboard Hot100          
 OL,24, AIndex    BSport    CMovies   FWeather@
 FL,160,162,163,167,100,100

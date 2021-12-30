@@ -1,9 +1,8 @@
-DE,Movies
 PN,16300
 SC,0000
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Qwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 OL,2,W||||4<,,,4|,,,4|,|,4||,|4|,,,4|,,,4||||
 OL,3,Q55jj 5  50/`5 5 s{5ps#5
@@ -11,21 +10,21 @@ OL,4,W////%-..,%/,,,%//,/%//,/%/,,,%/,,,%////
 OL,5,Qwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 OL,6,                                        
 OL,7,@ @                                     
-OL,8,M 1F.BE.................................
-OL,9,M 1F.BE.................................
+OL,8,M 1.BESpider-Man:No.Way.Home......A385M 
+OL,9,M 1.BESpider-Man:No Way Home......A385M 
 OL,10,@                                       
-OL,11,G 2F.BE.................................
-OL,12,G 3F.BE.................................
-OL,13,G 4F.BE.................................
-OL,14,G 5F.BE.................................
-OL,15,G 6F.BE.................................
-OL,16,G 7F.BE.................................
-OL,17,G 8F.BE.................................
-OL,18,G 9F.BE.................................
-OL,19,G10F.BE.................................
+OL,11,G 2.BESing 2.......................A15M 
+OL,12,G 3.BEEncanto......................A11M 
+OL,13,G 4.BEThe Matrix Resurrections.....A10M 
+OL,14,G 5.BEWest Side Story...............A6M 
+OL,15,G 6.BEGhostbusters Aftertlife.......A4M 
+OL,16,G 7.BENightmare Alley...............A4M 
+OL,17,G 8.BEThe King's Men................A3M 
+OL,18,G 9.BEHouse of Gucci................A3M 
+OL,19,G10.BEEternals......................A2M 
 OL,20,     @                                  
 OL,21,                                        
-OL,22,                                        
+OL,22,             Dec 17-23, 2021            
 OL,23,Qwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 OL,24, AIndex    BSport    CCharts   FWeather@
 FL,160,162,164,167,100,100
