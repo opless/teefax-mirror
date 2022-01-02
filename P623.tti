@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 02nd
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0610FThe Rubbish World of...
@@ -16,33 +16,48 @@ OL,11,G0730FHotel Transylvania
 OL,12,G0745FHotel Transylvania
 OL,13,G0800FBen 10
 OL,14,G0815FBen 10
-OL,15,G0830FLEGO Spider-Man:...
-OL,16,G0855FScooby-Doo and Guess...
-OL,17,G0925FNew: James Martin's Saturday...
-OL,18,G1140FNew: John and Lisa's Weekend...
-OL,19,G1240FITV Lunchtime News
-OL,20,G1255FITV Racing: Live from Cheltenham
-OL,21,G1530FTipping Point: Lucky Stars
+OL,15,G0830FThe Rubbish World of...
+OL,16,G0840FThe Rubbish World of...
+OL,17,G0855FDon't Unleash the Beast
+OL,18,G0925FITV News
+OL,19,G0930FPaul O'Grady: For the...
+OL,20,G1000FNew: Love Your Weekend with...
+OL,21,G1200FITV Lunchtime News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 02nd
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1630FThe Chase Celebrity Special
-OL,6,G1735FITV Evening News
-OL,7,G1800FNew: Celebrity Catchphrase
-OL,8,G1900FNew: The Masked Singer
-OL,9,G2030FDownton Abbey
-OL,10,G2245FITV News
-OL,11,G2300FBilly Connolly: My...
-OL,12,G0015F
-OL,13,G0300FFYI Extra
-OL,14,G0315FJoanna Lumley's Home Sweet Home...
-OL,15,G0405FUnwind With ITV
-OL,16,G0505FLingo
+OL,5,G1215FYou've Been Framed!
+OL,6,G1245FThe Masked Singer
+OL,7,G1415FHotel Transylvania 3: A Monster...
+OL,8,G1605FTipping Point: Lucky Stars
+OL,9,G1705FThe Chase Celebrity Special
+OL,10,G1805FITV Evening News
+OL,11,G1820FITV News Anglia
+OL,12,G1830FNew: The Chase: The Bloopers
+OL,13,G1930FNew: The Masked Singer
+OL,14,G2100FNew: Anne
+OL,15,G2215FITV News
+OL,16,G2235FDes O'Connor: The Ultimate...
+OL,17,G2335FThe Chasers Road Trip:...
+OL,18,G0025FAnne
+OL,19,G0130F
+OL,20,G0300FFYI Extra
+OL,21,G0315FMotorsport UK
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,624,104,535,700,0,620
+PN,62303
+SC,0003
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 02nd
+OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0405FUnwind With ITV
+OL,6,G0505FTipping Point
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
