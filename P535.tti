@@ -17,17 +17,17 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FPremier Praise     BFun Kids UK        
-OL,5,FJazz FM Stereo     BUnion JACK         
-OL,6,FBFBS UK            BScala Radio        
-OL,7,FtalkRADIO          BUnion JACK Rock    
-OL,8,FBoom Radio UK      BMellow Magic       
-OL,9,FVirgin Radio       BTimes Radio        
-OL,10,FPlanet Rock        BAbsolute 80s       
-OL,11,FSunrise Radio UK   BUCB 2              
-OL,12,FPremierChristian   BUnion JACK Dance   
-OL,13,FVirgin Anthems     BVirgin Chilled     
-OL,14,FAbsolute 90s       BtalkSPORT 2        
+OL,4,FAbsolute 90s       BScala Radio        
+OL,5,FtalkRADIO          BtalkSPORT 2        
+OL,6,FUnion JACK Rock    BBoom Radio UK      
+OL,7,FPremier Praise     BFun Kids UK        
+OL,8,FJazz FM Stereo     BUnion JACK         
+OL,9,FBFBS UK            BVirgin Anthems     
+OL,10,FVirgin Chilled     BMellow Magic       
+OL,11,FVirgin Radio       BTimes Radio        
+OL,12,FPlanet Rock        BAbsolute 80s       
+OL,13,FSunrise Radio UK   BUCB 2              
+OL,14,FPremierChristian   BUnion JACK Dance   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -35,11 +35,11 @@ PN,53503
 SC,0003
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FGold Cambs         BSmooth Country     
-OL,5,FHeart Cambridge    BRadio Maria Eng    
-OL,6,FHITS RADIO UK      BDubai Now          
-OL,7,FStar Radio (Cam)   BCapital UK         
-OL,8,FBBC Radio Cambs    BGreatest Hits UK   
+OL,4,FHITS RADIO UK      BGreatest Hits UK   
+OL,5,FCapital UK         BGold Cambs         
+OL,6,FHeart Cambridge    BSmooth Country     
+OL,7,FBBC Radio Cambs    BRadio Maria Eng    
+OL,8,FDubai Now          BStar Radio (Cam)   
 OL,9,FEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
@@ -49,7 +49,7 @@ SC,0004
 OL,2,CDAB ENSEMBLES ED1 National     
 OL,3, 
 OL,4,FClassic FM         BtalkSPORT          
-OL,5,FHeart 80s          BHeart 70s          
+OL,5,FCapital XTRA       BHeart 70s          
 OL,6,FCapXTRA Reloaded   BRadio X            
 OL,7,FLBC News           BCapital UK         
 OL,8,FSmooth Chill       BCapital DANCE      
@@ -58,8 +58,8 @@ OL,10,FLBC                BAbsolute Radio
 OL,11,FKISS               BMagic              
 OL,12,FKISSTORY           BHeart UK           
 OL,13,FSmooth UK          BGold UK            
-OL,14,FHeart Dance        BHeart 90s          
-OL,15,FCapital XTRA       
+OL,14,FHeart Dance        BHeart 80s          
+OL,15,FHeart 90s          
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
