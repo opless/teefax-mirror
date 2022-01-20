@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 19th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 20th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0900FLorraine
@@ -16,26 +16,30 @@ OL,11,G1500FNew: Lingo
 OL,12,G1600FNew: Tipping Point
 OL,13,G1700FNew: The Chase
 OL,14,G1800FITV News Anglia
-OL,15,G1825FParty Political Broadcast...
-OL,16,G1830FITV Evening News
-OL,17,G1900FEmmerdale
-OL,18,G1930FCoronation Street
-OL,19,G2000FNew: Paul O'Grady: For the...
-OL,20,G2030FCoronation Street
-OL,21,G2100FNew: The Bay
+OL,15,G1830FITV Evening News
+OL,16,G1900FEmmerdale
+OL,17,G1930FBoris Johnson: Is the Party...
+OL,18,G2000FEmmerdale
+OL,19,G2030FNew: The Martin Lewis Money...
+OL,20,G2100FNew: Martin Clunes: Islands...
+OL,21,G2200FITV News at Ten
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 19th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 20th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2200FITV News at Ten
-OL,6,G2230FITV News Anglia
-OL,7,G2245FNew: Peston
-OL,8,G2340FThe John Bishop Show
-OL,9,G0015FShop: Ideal World
+OL,5,G2230FITV News Anglia
+OL,6,G2245FAnglia Late Edition
+OL,7,G2310FThe Jonathan Ross Show:...
+OL,8,G2340FAll Elite Wrestling: Rampage
+OL,9,G0030FShop: Ideal World
+OL,10,G0300FBoris Johnson: Is the Party...
+OL,11,G0325FA Year in the Beacons
+OL,12,G0350FUnwind With ITV
+OL,13,G0505FTipping Point
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
