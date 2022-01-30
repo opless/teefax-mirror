@@ -1,0 +1,32 @@
+DE,wordle
+DS,inserter
+SP,/home/peterk/Documents/teletext/wordle/p610-wordle.tti
+PN,61000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        Turdle DAY %d MTH      C%H:%M.%S
+OL,2, Teletext Wordle 225 3/6                
+OL,4,W^//*//*//*//*//*//A                    
+OL,5,W^PPPPPPPPPPPPPPP                     
+OL,6,W^/PPPPPPPPPPPPPPP/                     
+OL,7,W^SSSRRRPPPSSSPPP                     
+OL,8,W^/SSSRRRPPPSSSPPP/                     
+OL,9,W^RRRRRRRRRRRRRRR                     
+OL,10,W^/RRRRRRRRRRRRRRR/                     
+OL,11,W^W                                    
+OL,12,W^/W                                    
+OL,13,W^W                                    
+OL,14,W^/W                                    
+OL,15,W^W                                    
+OL,16,W^/W                                    
+OL,17,W                                       
+OL,18,  Played   Win %   Current   Max Streak 
+OL,19,                    Streak              
+OL,20,M 18       100     18        18         
+OL,21,W                                       
+OL,22,W                                       
+OL,23,W                                       
+OL,24,ANext    B Stats   CSettings  FIndex    
+FL,100,100,100,100,8ff,8ff
