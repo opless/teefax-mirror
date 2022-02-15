@@ -3,12 +3,12 @@ DE,TV
 PS,8040
 PN,62201
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FBBC News
-OL,6,G1000FThe Customer Is Always Right
-OL,7,G1030FWanted Down Under Revisited
+OL,6,G0955FSuper League Show 2022
+OL,7,G1045FThe Customer Is Always Right
 OL,8,G1115FHomes Under the Hammer
 OL,9,G1215FBargain Hunt
 OL,10,G1300FWinter Olympics Live
@@ -16,31 +16,28 @@ OL,11,G1500FWinter Olympics
 OL,12,G1800FRichard Osman's House of Games
 OL,13,G1830FGreat Coastal Railway Journeys
 OL,14,G1900FWinter Olympics: Today at the...
-OL,15,G2000FMastermind
-OL,16,G2030FUniversity Challenge
-OL,17,G2100FRise of the Nazis: Dictators at...
-OL,18,G2200FCouples Therapy
-OL,19,G2225FPlanet Earth: A Monkey's Tale
-OL,20,G2230FNewsnight
-OL,21,G2310FWeather
+OL,15,G2000FGreat British Menu
+OL,16,G2100FAmazing Hotels: Life Beyond the...
+OL,17,G2200FNew: QI
+OL,18,G2230FNewsnight
+OL,19,G2310FWeather
+OL,20,G2315FEaten by Lions
+OL,21,G0045FDragons' Den
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,623,104,535,700,0,620
 PN,62202
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2315FSuper Bowl LVI Highlights
-OL,6,G0005FCountryfile
-OL,7,G0100FStacey Dooley: Stalkers
-OL,8,G0150FRick Stein's Cornwall
-OL,9,G0220FInside the Factory
-OL,10,G0320FHolby City
-OL,11,G0400FQuestion Time
-OL,12,G0500FWeather for the Week Ahead
-OL,13,G0505FBBC News
-OL,14,G0555FThis is BBC Two
+OL,5,G0145FRick Stein's Cornwall
+OL,6,G0215FRip Off Britain: Holidays
+OL,7,G0300FRip Off Britain: Holidays
+OL,8,G0345FThe Green Planet
+OL,9,G0445FWeather for the Week Ahead
+OL,10,G0450FBBC News
+OL,11,G0555FThis is BBC Two
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,623,104,535,700,0,620
