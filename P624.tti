@@ -3,21 +3,21 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 16th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 17th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0605F
-OL,6,G0645F
-OL,7,G0710F
-OL,8,G0735F
-OL,9,G0800F
-OL,10,G0830F
-OL,11,G0900FFrasier
-OL,12,G0930FFrasier
-OL,13,G1000FFrasier
-OL,14,G1030FRamsay's Kitchen Nightmares USA
-OL,15,G1125FChannel 4 News Summary
-OL,16,G1130FCoast vs Country
+OL,5,G0605FCountdown
+OL,6,G0645FCheers
+OL,7,G0710FCheers
+OL,8,G0735FEverybody Loves Raymond
+OL,9,G0800FEverybody Loves Raymond
+OL,10,G0830FEverybody Loves Raymond
+OL,11,G0900F
+OL,12,G0930F
+OL,13,G1000F
+OL,14,G1030F
+OL,15,G1125F
+OL,16,G1130F
 OL,17,G1230FLive: Steph's Packed Lunch
 OL,18,G1410FCountdown
 OL,19,G1500FA Place in the Sun
@@ -28,23 +28,25 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 16th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 17th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1730FThe Simpsons
 OL,6,G1800FThe Simpsons
 OL,7,G1830FHollyoaks
 OL,8,G1900FChannel 4 News
-OL,9,G2000FNew: Kirstie and Phil's Love It...
-OL,10,G2100FNew: Gemma Collins: Self-Harm &amp; Me
-OL,11,G2200FNew: Mega Mansion Hunters
-OL,12,G2305FFirst Dates: Valentine's
-OL,13,G0005FCelebrity Hunted
-OL,14,G0100FSouthpaw
-OL,15,G0305FCouples Come Dine with Me
-OL,16,G0400FLocation, Location, Location
-OL,17,G0455FThe Answer Trap
-OL,18,G0545FKirstie's Handmade Treasures
+OL,9,G2000FThe Dog House
+OL,10,G2100FNew: Extraordinary Escapes with...
+OL,11,G2200FNew: First Dates
+OL,12,G2300FGemma Collins: Self-Harm &amp; Me
+OL,13,G0000FGeordie Hospital
+OL,14,G0100FRamsay's Kitchen Nightmares USA
+OL,15,G0150FScrew
+OL,16,G0245FCouples Come Dine with Me
+OL,17,G0335F
+OL,18,G0430F
+OL,19,G0455F
+OL,20,G0550F
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
