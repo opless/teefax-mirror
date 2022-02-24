@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FMorning Live
@@ -28,19 +28,22 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2000FThe Real Phoenix Nights - We...
-OL,6,G2030FThe Repair Shop
-OL,7,G2100FMaternity Scandal: Fighting for...
+OL,5,G1930FEastEnders
+OL,6,G2000FDragons' Den
+OL,7,G2100FThe Apprentice
 OL,8,G2200FBBC News at Ten
 OL,9,G2225FLook East (West)
 OL,10,G2230FWeather
-OL,11,G2235FCaptain America: The Winter...
-OL,12,G0045FBill Bailey: Larks in Transit
-OL,13,G0145FWeather for the Week Ahead
-OL,14,G0150FBBC News
+OL,11,G2235FQuestion Time
+OL,12,G2335FNewscast
+OL,13,G0005FQuestion of Sport
+OL,14,G0035FCelebrity Mastermind
+OL,15,G0105FSuperman &amp; Lois
+OL,16,G0150FWeather for the Week Ahead
+OL,17,G0155FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
