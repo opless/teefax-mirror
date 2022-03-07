@@ -1,11 +1,10 @@
-DE,Superbowl LV
 DS,inserter
 CT,20,T
 PN,16201
 SC,0001
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q~ij}x57!ij}~ih74i #h74~i"!ih74  
 OL,2,Wnj555$fj5 j=5j ,j55j  fj=5  
 OL,3,Vjj5!50jj5o:*%%/j  *u%o:  :j5500
@@ -35,29 +34,29 @@ PN,16202
 SC,0002
 PS,8000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
 OL,1,Q]T                                     
 OL,2,W]T    s1j5{53jw?jw?j7j55j5       
 OL,3,Q]T    ,.%/.%/  /,*%/*-/*-/*--/*-,      
-OL,4,W]T           h|    |4 |4               
-OL,5,Q]T           j    ou`%               
-OL,6,W]T           *///   +/!                
+OL,4,W]T           h|    |4 |4 |4            
+OL,5,Q]T           j    ou`% 5            
+OL,6,W]T           *///   +/!  /%            
 OL,7,G                                       
-OL,8,AM         Tampa Bay Buccaneers         
-OL,9,AM         Tampa Bay Buccaneers         
+OL,8,AM           Los Angeles Rams           
+OL,9,AM           Los Angeles Rams           
 OL,10,G                  (NFC)                
-OL,11,G                                       
-OL,12,A                   vs                  
-OL,13,G                                       
-OL,14,EM          Kansas City Chiefs          
-OL,15,EM          Kansas City Chiefs          
-OL,16,G                  (AFC)                
+OL,11,F                   vs                  
+OL,12,EM          Cincinnati Bengals          
+OL,13,EM          Cincinnati Bengals          
+OL,14,G                  (AFC)                
+OL,15,G                                       
+OL,16,G                 23 - 20               
 OL,17,G                                       
-OL,18,B  Raymond James Stadium, Tampa Florida 
-OL,19,C              6:30 PM (ET)             
-OL,20,F        Sunday, February 7, 2021       
-OL,21,G                                       
-OL,22,GH       Halftime show: the Weeknd      
-OL,23,                                        
+OL,18,B   SoFi Stadium, Inglewood, California 
+OL,19,C              3:30 PM (PST)            
+OL,20,F        Sunday, February 13, 2022      
+OL,21,G              Halftime show            
+OL,22,G       Dr.Dre, Snoop Dogg, Eminem,     
+OL,23,G      Mary J.Blige, Kendrick Lamar     
 OL,24, AIndex    BNews    CMovies    FWeather@
 FL,160,161,163,165,100,100
