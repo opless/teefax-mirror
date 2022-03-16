@@ -1,19 +1,17 @@
-DE,Block Party Placeholder
-DS,inserter
-SP,/home/peterk/teletext/P810.tti
-PN,81001
-SC,0000
+DE,Block Party 2022 Placeholder
+CT,8,T
 PS,8000
-CT,12,T
+PN,81000
+SC,0000
 RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,Q]S<44 <4<$48  hdhlhd(<(08              
-OL,2,Q]Sw4u0u5u07d  j!jnji 5 j      `        
-OL,3,Q//,.,.,.,..-//-/----/./-///////////////
-OL,4,MBlock Party Placeholder   L        L   
-OL,7, The next Blockparty is Chunkyfringe    
-OL,8, in Harrow, 4 Sep, 2021.                
-OL,9,F                                       
+FL,800,500,104,101,8ff,100
+OL,1,Q]S<44 <4<$48  hdhlhd(<(08  (l0|l(l0,t  
+OL,2,Q]Sw4u0u5u07d  j!jnji 5 j   jw1zjw1s  
+OL,3,Q//,.,.,.,..-//-/----/./-///-,.,,-,.,,//
+OL,4,MBlock Party 2022                       
+OL,7, The next Blockparty is Block Party 2022
+OL,8, at The Centre for Computing History in 
+OL,9, Cambridge, on the 23rd & 24th of April 
 OL,12,F                                       
 OL,13,F                                       
 OL,14,F                                       
@@ -21,6 +19,5 @@ OL,17,F
 OL,18,F                                       
 OL,19,F                                       
 OL,21, For details go to                      
-OL,22, http://arbitraryfiles.com/events/bp20  
+OL,22, https://arbitraryfiles.com/events/bp22 
 OL,24,AEvents IndexBArt & EntsCNewsFWhat's new
-FL,800,500,104,101,8ff,100
