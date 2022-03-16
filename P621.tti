@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 15th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 16th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FMorning Live
@@ -14,7 +14,7 @@ OL,9,G1215FBargain Hunt
 OL,10,G1300FBBC News at One
 OL,11,G1330FLook East
 OL,12,G1345FDoctors
-OL,13,G1415FShakespeare &amp; Hathaway: Private...
+OL,13,G1415FShakespeare &amp; Hathaway -...
 OL,14,G1500FEscape to the Country
 OL,15,G1545FNew: The Repair Shop
 OL,16,G1630FNew: Bridge of Lies
@@ -28,21 +28,20 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 15th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 16th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1950FHolby City
-OL,6,G2030FVillages by the Sea - Thorpeness
-OL,7,G2100FThis Is Going To Hurt
-OL,8,G2150FCheaters
-OL,9,G2200FBBC News at Ten
-OL,10,G2225FLook East (West)
-OL,11,G2230FWeather
-OL,12,G2235FThe Apprentice: The Final Four
-OL,13,G2335FStarstruck
-OL,14,G2355FInterior Design Masters with...
-OL,15,G0055FWeather for the Week Ahead
-OL,16,G0100FBBC News
+OL,5,G2000FThis Is MY House for Red Nose Day
+OL,6,G2030FThe Repair Shop
+OL,7,G2100FInterior Design Masters with...
+OL,8,G2200FBBC News at Ten
+OL,9,G2225FLook East (West)
+OL,10,G2230FWeather
+OL,11,G2235FMood
+OL,12,G2325FTom Daley's Hell of a Homecoming
+OL,13,G0025FThe Graham Norton Show
+OL,14,G0115FWeather for the Week Ahead
+OL,15,G0120FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
