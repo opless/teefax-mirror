@@ -3,22 +3,34 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 19th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 20th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0615FThe Rubbish World of Dave...
 OL,6,G0635FThunderbirds Are Go
 OL,7,G0700FITV News
-OL,8,G0930FNew: James Martin's Saturday...
-OL,9,G1140FNew: Simply Raymond Blanc
-OL,10,G1245FITV Lunchtime News
-OL,11,G1310FITV Racing Live: Uttoxeter
-OL,12,G1600FSix Nations: Ireland v Scotland
-OL,13,G1900FITV Evening News
-OL,14,G1915FSix Nations: France v England
-OL,15,G2230FITV News
-OL,16,G2245FHellboy II: The Golden Army
-OL,17,G0100FShop: Ideal World
+OL,8,G0930FNew: Love Your Weekend with...
+OL,9,G1130FITV Lunchtime News
+OL,10,G1145FFA Cup: Crystal Palace v Everton
+OL,11,G1445FYou've Been Framed!
+OL,12,G1515FTipping Point: Lucky Stars
+OL,13,G1615FThe Chase Celebrity Special
+OL,14,G1715FFA Cup: Nottingham Forest v...
+OL,15,G2015FITV Evening News
+OL,16,G2100FNew: The Ipcress File
+OL,17,G2200FITV News
+OL,18,G2220FNew: Ukraine: Voices from the...
+OL,19,G2305FJoanna Lumley's Great...
+OL,20,G0005FHolding
+OL,21,G0100FShop: Ideal World
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,624,104,535,700,0,620
+PN,62302
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 20th
+OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
