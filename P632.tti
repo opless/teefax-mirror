@@ -1,13 +1,25 @@
-DE,MyFax on Teefax
-CT,8,T
+DE,Read back page  20/11/07
+DS,inserter
+SP,E:\Teefax\P632.tti
+PN,63200
+SC,0000
 PS,8000
-PN,63232
-SC,0632
+CT,8,T
 RE,0
-OL,7,        T|,,n},|,,.,###+.m             
-OL,8,        Tmpp<,,,,4   p<#+,4             
-OL,11,          Uh oh! We'll be back...       
-OL,15,                                  T     
-OL,16,            MYFAX TELETEXT SERVICE      
-OL,17,       A                                
-OL,23,myfax on teefax                         
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,Wh,,lh,,lh,,lT||<,,,,|,,,<,,|,,,|,l<,|||
+OL,2,WjjkjjjkjjjsjT]Sj7k7k +t&jshs4ouz?T 
+OL,3,Wj*.jj**jj*,jT]Sj5j5j   j j 55jT 
+OL,4,W"###"###"###T##########################
+OL,5,CNews                                   
+OL,6,MWORLD'S WORST TELETEXT SERVICE LAUNCHES
+OL,8,D```````````````````````````````````````
+OL,9,C                                       
+OL,10,C   Nothing                             
+OL,11,C   Because.... It's MYFAX....          
+OL,12,    Not a single update in months      C
+OL,14,C                                       
+OL,21,                                       C
+OL,23,D]CMyfax: Nothing at your fingertips... 
+OL,24,ATeefax HomeB CeefaxC Radio  FSoftware  
+FL,100,671,674,710,f,100
