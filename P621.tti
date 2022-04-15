@@ -3,44 +3,45 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FMorning Live
-OL,6,G1000FScam Interceptors
-OL,7,G1045FClose Calls: On Camera
-OL,8,G1115FHomes Under the Hammer
-OL,9,G1215FBargain Hunt
+OL,6,G1000F
+OL,7,G1045F
+OL,8,G1115F
+OL,9,G1215F
 OL,10,G1300FBBC News at One
-OL,11,G1330FLook East
-OL,12,G1345FDoctors
-OL,13,G1415FFather Brown
-OL,14,G1500FEscape to the Country
-OL,15,G1545FThe Repair Shop
-OL,16,G1630FNew: Bridge of Lies
-OL,17,G1715FNew: Pointless
-OL,18,G1800FBBC News at Six
-OL,19,G1830FLook East (West)
-OL,20,G1900FThe One ShowC410
-OL,21,G1930FEastEnders
+OL,11,G1315FLook East
+OL,12,G1325FWeather
+OL,13,G1330FJill Halfpenny's Easter Journeys
+OL,14,G1430FFather Brown
+OL,15,G1515FEscape to the Country
+OL,16,G1545FThe Repair Shop
+OL,17,G1630FNew: Bridge of Lies
+OL,18,G1715FNew: Pointless
+OL,19,G1800FBBC News at Six
+OL,20,G1820FLook East (West)
+OL,21,G1825FWeather
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2000FMasterChef
-OL,6,G2100FGordon Ramsay's Future Food Stars
-OL,7,G2200FBBC News at Ten
-OL,8,G2230FLook East (West)
-OL,9,G2235FWeather
-OL,10,G2240FFreeze the Fear with Wim Hof
-OL,11,G2340FCelebrity Mastermind
-OL,12,G0010FThe Wall Versus Celebrities
-OL,13,G0100FWeather for the Week Ahead
-OL,14,G0105FBBC News
+OL,5,G1830FDinosaurs: The Final Day with...
+OL,6,G2000FMasterChef
+OL,7,G2030FWould I Lie to You?
+OL,8,G2100FHave I Got News for You
+OL,9,G2130FNot Going Out
+OL,10,G2200FBBC News at Ten
+OL,11,G2230FLook East (West)
+OL,12,G2235FWeather
+OL,13,G2240FThe Best Exotic Marigold Hotel
+OL,14,G0035FWeather for the Week Ahead
+OL,15,G0040FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
