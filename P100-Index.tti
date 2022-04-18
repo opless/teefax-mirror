@@ -3,8 +3,8 @@ DS,inserter
 SP,C:\Users\Nathan Dane\Documents\teefax\P100-Index.tti
 PN,10001
 SC,0001
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -31,8 +31,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10002
 SC,0002
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -47,7 +47,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -60,8 +59,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10003
 SC,0003
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -76,7 +75,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -89,8 +87,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10004
 SC,0004
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -105,7 +103,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -118,8 +115,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10005
 SC,0005
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -134,7 +131,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -147,8 +143,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10006
 SC,0006
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -163,7 +159,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -176,8 +171,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10007
 SC,0007
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -192,7 +187,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -205,8 +199,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10008
 SC,0008
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -221,7 +215,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -234,8 +227,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10009
 SC,0009
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -250,7 +243,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -263,8 +255,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10010
 SC,0010
-PS,8000
-CT,1,C
+PS,8010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -292,8 +284,8 @@ OL,24,A About BBamboozle CEvents FArt Archive
 FL,199,150,800,200,46a,100
 PN,10011
 SC,0011
-PS,8000
-CT,1,C
+PS,C010
+CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
@@ -308,7 +300,6 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,14,C                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785

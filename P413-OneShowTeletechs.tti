@@ -3,7 +3,7 @@ DS,inserter
 SP,J:\peter\teefax\P413-OneShowTeletechs.tti
 PN,41301
 SC,0001
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%b %d %%a C %H:%M.%S
@@ -30,7 +30,7 @@ OL,24,ANext                       FEngineering
 FL,414,411,8ff,700,8ff,8ff
 PN,41302
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%b %d %%a C %H:%M.%S

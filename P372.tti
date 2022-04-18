@@ -3,7 +3,7 @@ DS,inserter
 CT,20,T
 PN,37201
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]
@@ -23,19 +23,16 @@ OL,14,G]Devery day of every Month.
 OL,15,G]DSome Fares are only valid on certain 
 OL,16,G]DIn or Outbound dates.                
 OL,17,G]AM   081 550 8866   061 456 2515      
-OL,18,G]AM   081 550 8866   061 456 2515      
 OL,19,G]AM   021 585 7775   041 248 4844      
-OL,20,G]AM   021 585 7775   041 248 4844      
 OL,21,G]D      ABTA RETAIL AGENTS 98047       
 OL,22,G]A       FLIGHTS,CARS,HOTELSH>>>       
 OL,23,G]DBROCHURELINE 0345 666666 MANNED 24HRS
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,Digitiser - 1 Jan 1993
 DS,inserter
 PN,37202
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?`pp0p0p0s1ppp`p  pQ       x5        
@@ -43,31 +40,25 @@ OL,2,R=wj{5555wjj5Q,,,,,,.!5x,,,,,,,
 OL,3,R5j|4*}? 5}|j~}Q        ?!       
 OL,4,G---------------------------------------
 OL,5,ECHUCK ROCKGSNESB#IMPORT                
-OL,6,F                                       
 OL,7,FThe prehistoric psychoBGary Gritter    
 OL,8,Fhas done a runner with Chuck's babe,   
 OL,9,Fand Chuck simply MUST get her back.    
-OL,10,F                                       
 OL,11,FChuck has a well-definedBbeer gut,     
 OL,12,Fwhich he can use as a weapon to knock  
 OL,13,Fenemy dinosaurs out of the way, but    
 OL,14,Fthey're not all out to get you....     
-OL,15,F                                       
 OL,16,BPterodactylsFwill carry you between    
 OL,17,Fplatforms, and there's a brontosaurus  
 OL,18,Fthat ferries you across the river.     
-OL,19,G                                       
 OL,20,G----------------------------------1/2--
 OL,21,BSupplied by Computer Games 081 741 9050
 OL,22,B]DM  PLUG INTO THE GENERATOR p340      
-OL,23,B]DM  PLUG INTO THE GENERATOR p340      
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,Digitiser - 1 Jan 1993
 DS,inserter
 PN,37203
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?`pp0p0p0s1ppp`p  pQ       x5        
@@ -78,7 +69,6 @@ OL,5,FThe strong element of puzzle-solving
 OL,6,FinEChuck RockFmakes it a wee bit       
 OL,7,Fdifferent from the mass of platform    
 OL,8,Fgames already available.               
-OL,9,F                                       
 OL,10,FAnd it's a laugh. The raspberry-blowing
 OL,11,FTriceratops is worth the price of the  
 OL,12,Fgame alone. In fact you could say it's 
@@ -92,6 +82,4 @@ OL,19,BOVERALL U%%%% BExcellent platform stuff
 OL,20,G----------------------------------2/2--
 OL,21,BSupplied by Computer Games 081 741 9050
 OL,22,B]DM  PRIZES GALORE! FUN & GAMES p350   
-OL,23,B]DM  PRIZES GALORE! FUN & GAMES p350   
-OL,24,                                        
 FL,0,0,0,0,100,100

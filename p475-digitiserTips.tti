@@ -4,7 +4,7 @@ SP,J:\peter\teefax\p475-digitiserTips.tti
 CT,12,T
 PN,47501
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,        D]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,R/?%s1|||4|||4Qt +t +t +t m//|?/>
@@ -19,7 +19,6 @@ OL,9,BMetcalfe, our longest resident, and he
 OL,10,Bhad an allergic reaction to the hummus.
 OL,12,BTurns out somebody had dipped one of   
 OL,13,Btheir nuts in there!                   
-OL,14,Q                                       
 OL,15,Q/FLooking to get 100% complete in      
 OL,16,EAssassin's Creed OriginFfor the PS4,   
 OL,17,FXbox One and PC? Simple - just keep    
@@ -27,12 +26,11 @@ OL,18,Fexploring the map for every secret, and
 OL,19,Fensure you do everything!              
 OL,21,G```````````````````````````````````````
 OL,22,U]CMF   THE LATEST SOUP NEWS p101       
-OL,23,F                                       
 OL,24,ANext  B   News      CIndex     F Back  
 FL,476,470,470,475,8ff,100
 PN,47502
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,        D]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,C ALERT: IT IS ALMOST TIME TO CELEBRATE 

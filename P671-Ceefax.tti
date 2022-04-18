@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P671-Ceefax.tti
 CT,20,T
 PN,67101
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,                   X                2016
@@ -31,7 +31,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67102
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,                              XX        
@@ -60,7 +60,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67103
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,S  ppppp ppppp ppppp ppppp ppppp p    p 
@@ -90,7 +90,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67104
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,DX     1974                      replica
@@ -120,7 +120,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67105
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,Q]    S`ppppp    `ppppp    `ppppp       
@@ -150,7 +150,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67106
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,        CEEFAX 725  Wed  1 MayC 11:15/35
 OL,1,U]W                                     
@@ -180,7 +180,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67107
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,T]S?                               
@@ -210,7 +210,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67108
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,SBBC  |||||    ,l|||4    ,||||4         
@@ -219,9 +219,7 @@ OL,3,S     pssj sjrs{55bs5uzuz5=b1n5
 OL,4,S     ####cz|||"###q}~5####q}~}~5    
 OL,5,                             BPAGE THREE
 OL,8,    IF you look at this page long       
-OL,9,W                                       
 OL,10,    enough, an outline of a naked       
-OL,11,W                                       
 OL,12,    beauty will gradually appear...     
 OL,13,UX    pp                                
 OL,14,UX  8!p "d                              
@@ -238,7 +236,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67109
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,T]                S                     
@@ -268,7 +266,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67110
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,2,                    T]       S `(h(`    
@@ -297,7 +295,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67111
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,T]                   S                  
@@ -327,7 +325,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67112
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1, T]                                     
@@ -357,7 +355,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67113
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,T]Q                   h%*'        
@@ -387,7 +385,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67114
 SC,0014
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$      
@@ -401,10 +399,8 @@ OL,9,FVoters in all parts of England and
 OL,10,FWales outside London will elect a      
 OL,11,Fperson to oversee each police force on 
 OL,12,F15 November.                           
-OL,13,F                                       
 OL,14,FThe new commissioners will replace     
 OL,15,Fpolice authorities in 41 areas.        
-OL,16,F                                       
 OL,17,FThe Electoral Reform Society leaflets  
 OL,18,Fexplain more about the role and the    
 OL,19,Fvoting system being used, amid concerns
@@ -416,7 +412,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67115
 SC,0015
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,l|,l<,|||

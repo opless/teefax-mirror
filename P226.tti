@@ -4,7 +4,7 @@ SP,E:\_ Teefax\P226.tti
 CT,20,T
 PN,22601
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Thp`p`phph`p`p`p`t`p T]W ,4<$x0p000x0   
@@ -31,7 +31,7 @@ OL,24,A  Index  BTeletext C Teefax  FArchive
 FL,225,701,100,200,0,100
 PN,22602
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q|,hl4|llh4|lh<$  <,hl4<|h<4     |h<$|h 
@@ -57,7 +57,7 @@ OL,24,A  Index  BTeletext C Teefax  FArchive
 FL,225,701,100,200,0,100
 PN,22603
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ww37s5x0p000x0Tw]S   |,h44|lh444|, T^\{
@@ -83,7 +83,7 @@ OL,24,A  Index  BTeletext C Teefax  FArchive
 FL,225,701,100,200,0,100
 PN,22604
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ww37s5x0p000x0T]S  h<$l<h<4|l($|,h<$    
@@ -108,7 +108,7 @@ OL,24,A  Index  BTeletext C Teefax  FArchive
 FL,225,701,100,200,0,100
 PN,22605
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ww37s5x0p000x0Qw]S   |,h44|lh444|, Q^\{
@@ -135,7 +135,7 @@ OL,24,A  Index  BTeletext C Teefax  FArchive
 FL,225,701,100,200,0,100
 PN,22606
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ww37s5x0p000x0T]S  h<$l<h<4|l($|,h<$    
@@ -161,7 +161,7 @@ OL,24,A  Index  BTeletext C Teefax  FArchive
 FL,225,701,100,200,0,100
 PN,22607
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ww37s5x0p000x0Qw]S   |,h44|lh444|, Q^\{
@@ -187,13 +187,12 @@ OL,24,A  Index  BTeletext C Teefax  FArchive
 FL,225,701,100,200,0,100
 PN,22608
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ww37s5x0p000x0S#w{'+7cp/p/Dhack the
 OL,2,W5,5$5j0}164j0S $5j5j= #|# D planet 
 OL,3,W####!        S#############T# # # # # #
-OL,4,W                                       
 OL,5,Dan Atari 400  W   H 5 I    Q   `0 0   
 OL,6,               Txt  Q r~|p  
 OL,7,  DOCTOR WHO   T]GPol.Box  \ Q ~0 
@@ -215,7 +214,7 @@ OL,24,A  Index  BTeletext C Teefax  FArchive
 FL,225,701,100,200,0,100
 PN,22609
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W `        !           `    Q`|?mW    0 
@@ -223,7 +222,6 @@ OL,2,W  Vd `W`  Rh 8W"  U(0W    W(=*%
 OL,3,W  Vx}qW V`Rx}1W R`Ux}1  `0 S==5Qpx|$   
 OL,4,W  V#"o!R#"o7U#"oQ`W*.Q/W$  
 OL,5,W! V *a50{ R *a58b5U *a50{Q*sswssw3    
-OL,6,W                                       
 OL,7,W  `jkkhlh$<hh   j#jlh$1<$=hll(lh,    0 
 OL,8,W" Rjjjjsj 5*n   jpjjj 5s5ujjjj{b{W`    
 OL,9,W  `       R"#                          

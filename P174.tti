@@ -3,7 +3,7 @@ DS,inserter
 CT,20,T
 PN,17401
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?'P        RppP T"
@@ -29,11 +29,10 @@ OL,20,T0P      R~?P T}||||||
 OL,21,T}||||PR*%P T
 OL,22,W44<4<4<444W<$l$W<4<4l$<44<$448h,Whlhlhh
 OL,23,S75757!7!k!Ss5j`S7!75jS745u074Sb{Sj:jk"7
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,17402
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,ToAMARCHTo?Rp,f{{|pT+o/'!"+//-T+/-"/
@@ -59,5 +58,4 @@ OL,20,R5~}#z}jSx/d`|08/tW55jjW"StR5
 OL,21,Ru+e|2?jSm?y+'vo>Wo55jj?PW/S{}P
 OL,22,R=Rh6shtS#!W`S"#R`Wi#i##6#6S(|~/{4
 OL,23,R7Rxt+/'x60P W`P R`~WjWjPW5W5PSl|/s~%
-OL,24,Pz                                      
 FL,0,0,0,0,100,100

@@ -3,7 +3,7 @@ DS,inserter
 CT,20,T
 PN,57401
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C    DO YOU LIKE TURTLES? WHAT ABOUT    
@@ -35,7 +35,7 @@ DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57402
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G------BOH NO! SWAN TOO PALE? TRY NEW...
@@ -67,7 +67,7 @@ DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57403
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,CGOUJON TOO BLAND? GOUJON TOO TAME? TRY:
@@ -93,13 +93,12 @@ OL,20,Cyour oesophagus! I hate how easy it is!
 OL,21,G---------------------------------------
 OL,22,BWARNING: Goujon John's Goujon Poupon   
 OL,23,BSpatula is just a key taped to a rod!  
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57404
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,BSIR! DO YOUR FRIENDS AND COLLEAGUES    
@@ -125,13 +124,12 @@ OL,20,CMEETINGS! WOO LADIES OF MOST ILKS!
 OL,21,Q  z}:t B"I'm Trillo the Trilby, and I  
 OL,22,Q   Blove it when gents fart in me!"
 OL,23,Q",,,,,,'B    /                         
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57405
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S u575545 k!75 74w$v4545        T~|p0
@@ -157,5 +155,4 @@ OL,20,C---------------------------------------
 OL,21,AWARNING: FOR REASONS UNKNOWN, 'HOW TO  
 OL,22,ADRAW FRENCH SODS' MAGAZINE IS PRINTED  
 OL,23,AON HIGHLY FLAMMABLE PAPER! WHOOOOO!!!  
-OL,24,                                        
 FL,0,0,0,0,100,100

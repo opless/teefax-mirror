@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P555-ThreadOF.tti
 CT,15,C
 PN,55501
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W 5555555%8!5555555555555Q5555555555555\
@@ -32,7 +32,7 @@ OL,23,W 55555GBY RAQUEL MEYERS 2015  W5555555\
 FL,500,500,500,500,104,100
 PN,55502
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,QWQvovWQ}0   W555555555555
@@ -59,7 +59,7 @@ OL,22,QWff,<ff*,-+&(.&-&-%* -+&-&* -!-!
 FL,500,500,500,500,104,100
 PN,55503
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W      `                                
@@ -82,12 +82,10 @@ OL,17,W4444444444444444444444444444444444  544
 OL,18,W5555555555555555555555555555555555 `%55
 OL,19,W5555555555555555555555555555555555(! 55
 OL,20,W555555555555555555555555555555555555555
-OL,21,W                                       
-OL,22,W                                       
 FL,500,500,500,500,104,100
 PN,55504
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,Q#f##f##f##f##f##f##f##f##f##f##f##f##f 
@@ -115,7 +113,7 @@ OL,23,Qssgssgssgssgssgssgssgssgssgssgssgssgss
 FL,500,500,500,500,104,100
 PN,55505
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W5(0 80*jjjjj h jj `$5555555555555555555
@@ -140,11 +138,10 @@ OL,20,W555555555*p`>  "+8t`<:#  *t`: 555555555
 OL,21,W55555555552j0f4 *|{jy>  v$z"05555555555
 OL,22,W555555555554+l) c|lilv!(i.!455555555555
 OL,23,W5555555555555`% bd?*uf  e 5555555555555
-OL,24,W                                       
 FL,500,500,500,500,104,100
 PN,55506
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W555555555555555555555555555555555555555
@@ -172,7 +169,7 @@ OL,23,W55555555555555555555555555555"-jbk!"!55
 FL,500,500,500,500,104,100
 PN,55507
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W555555555555555555555555555555555555555
@@ -200,7 +197,7 @@ OL,23,W555555555555555555555555555555555555555
 FL,500,500,500,500,104,100
 PN,55508
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W)08)0      `& `&     )0      `& `&     
@@ -228,7 +225,7 @@ OL,23,Wjj 5j(,,,,$5j 5555555555555555555555555
 FL,500,500,500,500,104,100
 PN,55509
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W5555555W                               
@@ -256,7 +253,7 @@ OL,23,W################-,.####################
 FL,500,500,500,500,104,100
 PN,55510
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W555555555555555555555555555555555555555
@@ -284,7 +281,7 @@ OL,23,W555555555555555555555555555555555555555
 FL,500,500,500,500,104,100
 PN,55511
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W55555555555%xt`t`t  xt   `xyy}p 5555555
@@ -313,7 +310,7 @@ OL,23,W555555555555555`.jjjjjjjj`%555555555555
 FL,500,500,500,500,104,100
 PN,55512
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W555555555555555555555555555555555555555
@@ -341,7 +338,7 @@ OL,23,W5555555555555555`& 5hssssy 555555555555
 FL,500,500,500,500,104,100
 PN,55513
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W 80(0(0 555555 055555555555555555555555
@@ -369,7 +366,7 @@ OL,23,W555555555555555555555555555555555555555
 FL,500,500,500,500,104,100
 PN,55514
 SC,0014
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,Qpu08!           "d     `& `&   `zp     
@@ -397,7 +394,7 @@ OL,23,Wjssws{ssws5Gof the text
 FL,500,500,500,500,104,100
 PN,55515
 SC,0015
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,Qpu08!           "d     `& `&   `zp     
@@ -425,7 +422,7 @@ OL,23,G                        more follows...
 FL,500,500,500,500,104,100
 PN,55516
 SC,0016
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,Qpu08!           "d     `& `&   `zp     
@@ -434,26 +431,16 @@ OL,4,Q 5`=k z&`u:`n)5`7n  5j`n!8k `7n z zp%8
 OL,5,Q&-!%*&*(!-,!*,-!-. &-.!j  j(!-.&*&*,&  
 OL,6,W555555555555555555555Q :  :Wjjjjjjjjjj 
 OL,7,G                             Gcredits  
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
 OL,12,GA solo performance by raquel meyers.   
-OL,13,G                                       
 OL,14,GBased in Teletext technology (VBIT) &  
 OL,15,GPETSCII graphics (Commodore 64).       
-OL,16,G                                       
 OL,17,GVBIT hardware designed by Peter Kwan.  
-OL,18,G                                       
-OL,19,G                                       
-OL,20,G                                       
-OL,21,G                                       
 OL,22,G                 www.raquelmeyers.com  
 OL,23,G                 now on TEEFAX         
 FL,500,500,500,500,104,100
 PN,55517
 SC,0017
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W55555555555555%%8,d,,0%%555555555555555
@@ -481,7 +468,7 @@ OL,23,W5555555555Gthread o fate W5555555555555
 FL,500,500,500,500,104,100
 PN,55518
 SC,0018
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W5555555555555555555555555555555%%55555 
@@ -510,7 +497,7 @@ OL,23,W55555       !  "o} 5555555+ot "8)2 "v
 FL,500,500,500,500,104,100
 PN,55519
 SC,0019
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W  `&          Q`~5   `~5  W 8!       j 
@@ -538,7 +525,7 @@ OL,23,W                         W!"""""""""##!
 FL,500,500,500,500,104,100
 PN,55520
 SC,0020
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,Q55555555555555555555555555555555555555 
@@ -555,7 +542,6 @@ OL,12,W                             "+j?!
 OL,13,W                               :     
 OL,14,W                                "+}<   
 OL,15,W                                  #    
-OL,16,W                                       
 OL,17,W                               h~5     
 OL,18,Q                  pnp0   p0   5#4    
 OL,19,W         pp0  `& :/#)0 |?e `&  #)0 | 

@@ -3,14 +3,13 @@ DS,inserter
 CT,20,T
 PN,19301
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S#ss{'s3o's3o#o7k's3o#o'k3o?c
 OL,2,SSssSS5jSt!jS5jSta4j4h
 OL,3,Spss{tsq~tsq~puztsq~puzuz
 OL,4,C#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#
-OL,5,P                                       
 OL,6,CThe UK & world economy have had several
 OL,7,Cphases since 2006. The 'credit bubble' 
 OL,8,Cburst in 2007-08 leading to a deep     
@@ -19,7 +18,6 @@ OL,10,CThis has been followed by a period of
 OL,11,Cslow and protracted growth in the early
 OL,12,C2010s. The graph below shows GDP growth
 OL,13,Cin the UK during the period 2006-15.   
-OL,14,P                                       
 OL,15,B 1.0R}44P  RjPR4R4R0h00P  CEach yellow 
 OL,16,B 0.5R4PRx5}5R5}}}P Ctick-mark   
 OL,17,B 0.0R7##+#####+k#######!Caligns with 
@@ -28,12 +26,11 @@ OL,19,B-1.0R5P R5P              Cquarter of
 OL,20,B-1.5R5P R5P              Ceach year   
 OL,21,B-2.0R5P R*P               C(2007-2016) 
 OL,22,P     S!S!S!S!S!S!S!S!S!S!P             
-OL,23,P                                       
 OL,24,D]G     By Matthew Eagles 2016          
 FL,0,0,0,0,100,100
 PN,19302
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]Sh<,h4|     8$           4     `|`<$  
@@ -63,25 +60,21 @@ OL,24,D]G     By Matthew Eagles 2016
 FL,0,0,0,0,100,100
 PN,19303
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]Wh|| |  h|| ||4h|| T]Gthat can be     
 OL,2,U]Wj=,   j= h4*-| T]Gdisplayed on    
 OL,3,U]W*%  //%*%/ //%*// T]Gthis screen     
-OL,4,P                                       
 OL,5,P W]Q      \        T]W]Q\        
 OL,6,P QGEngland T]5W]Q]G \France  
 OL,7,P W]Q      \        T]W]Q\        
-OL,8,P                                       
 OL,9,P QG        R]W]Q]\        
 OL,10,P WGNether- R]W]Q]G \Italy   
 OL,11,P TGlands   R]W]Q]\        
-OL,12,P                                       
 OL,13,P T]S      \        W         
 OL,14,P SGSweden  TGRussia  
 OL,15,P T]S      \        QG        
-OL,16,P                                       
 OL,17,P  Q]W |   \         Q         
 OL,18,P  Q]W  \GSwitz-  WGHungary 
 OL,19,P  Q]W /   \Gerland  RG        
@@ -93,7 +86,7 @@ OL,24,D]G      By Matthew Eagles 2016
 FL,0,0,0,0,100,100
 PN,19304
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W?c3o?c3o7k7k7cs#s+'s+'33o7cs's+w3c{
@@ -123,7 +116,7 @@ OL,24,D]F   By Matthew Eagles, March 2016
 FL,0,0,0,0,100,100
 PN,19305
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V7s33###s3s3s3s#s3##c#3s33###cscscscscsk
@@ -153,7 +146,7 @@ OL,24,Gfor many deaths in the West from 2014.P
 FL,0,0,0,0,100,100
 PN,19306
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
@@ -183,7 +176,7 @@ OL,24,D]F        Matthew Eagles 2016
 FL,0,0,0,0,100,100
 PN,19307
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
@@ -213,7 +206,7 @@ OL,24,A]G       Matthew Eagles 2016
 FL,0,0,0,0,100,100
 PN,19308
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]W|||h||4|||h4h4|  |||h||4|h||4|||h||4 
@@ -243,7 +236,7 @@ OL,24,B]G        Matthew Eagles 2016
 FL,0,0,0,0,100,100
 PN,19309
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,PR7s333s33#3s#33s#33##c#ccscscscccsc3kP 
@@ -273,7 +266,7 @@ OL,24,D]G      By Matthew Eagles 2016
 FL,0,0,0,0,100,100
 PN,19310
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,P R//   
@@ -303,7 +296,7 @@ OL,24,D]G    By Matthew Eagles 2015/16
 FL,0,0,0,0,100,100
 PN,19311
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W<,,,,,,,,,,,lPWhP   WlP  W4P      WhP  
@@ -333,7 +326,7 @@ OL,24,D]G    By Matthew Eagles 2015/16
 FL,0,0,0,0,100,100
 PN,19312
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,A]CM    Matthew Eagles's Testcard       
@@ -355,7 +348,6 @@ OL,16,W555555TP                   TV
 OL,17,W555555TPW#####P   W#####P  TV
 OL,18,W555555TP                   TW
 OL,19,W555555T///////////////////////W
-OL,20,P                                       
 OL,21,WssG"ABCDEFGHIJKLMNOPQRSTUVWXYZ01234"Wss
 OL,22,S,,C"abcdefghijklmnopqrstuvwxyz56789"S,,
 OL,23,VssF"!_$%&'()*+,-./:;<=>?@[]^`#{\}|~"Vss
@@ -363,7 +355,7 @@ OL,24,A]C  By Matthew Eagles, October 2016
 FL,0,0,0,0,100,100
 PN,19313
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]W`ppp0 ppp0 `0 `0`p   p0 ppp `ppp0    
@@ -393,7 +385,7 @@ OL,24,A]CBy Matthew Eagles, Jan 2018 (v6)
 FL,0,0,0,0,100,100
 PN,19314
 SC,0014
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,P             Rj$P                      
@@ -418,12 +410,11 @@ OL,19,PRk7#P   R"7j5
 OL,20,P           R`|t~??%CBRITISH ISLES
 OL,21,P           R##k###! C= UK + Ireland
 OL,22,P        R`x'#+P         C           (2)
-OL,23,P                                       
 OL,24,D]G     By Matthew Eagles 2016          
 FL,0,0,0,0,100,100
 PN,19315
 SC,0015
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Wj5WW~k4k7jw1j7}PS.k4h7}"S#!PSk5Sh7

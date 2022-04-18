@@ -17,14 +17,11 @@ OL,11, You climb up above the snowy valley,
 OL,12, across the rocks jutting out of the ice
 OL,13, At the top of the rise you pause to    
 OL,14, look down...                           
-OL,15,                                        
 OL,16,FA hideous snarling sounds behind you.  
 OL,17, A large polar bear is growling and     
 OL,18, forcing you back towards the edge of   
 OL,19, the ledge.                             
-OL,20,                                        
 OL,21,C"Decide quickly,"Fsays Tregaurd.       
 OL,22,C"He looks hungry."                     
-OL,23,                                        
 OL,24,ARun Away?   BFight the Bear?   C   F   
 FL,82f,82f,0,0,100,100

@@ -3,11 +3,9 @@ DS,inserter
 CT,20,T
 PN,19401
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,SZ        p  x5YVj                     
 OL,4,SZ    `|t  0 YVjC   HARSH WORDS ONG  
 OL,5,SZ0x|0!k5zu sYVjC  LIBYAN CONFLICTG 1
@@ -26,18 +24,12 @@ OL,17,G        FSPORTSG15     FKCET TONIGHTG50
 OL,18,GF    SCOREBOARDG18   FKID'S MAGAZINEG60
 OL,19,G       FFINANCEG20    FCRISIS PHONESG95
 OL,20,G         FGAMESG30         FMASTHEADG99
-OL,21,G                                       
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19402
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,VZ?/o}Y###############################k
 OL,4,VZ}|~?CYSOVIETS BLAST DOWNING OF JETSVj
 OL,5,VZ/%   CY                             Vj
@@ -58,16 +50,12 @@ OL,19,VZ j5 Y CBUYING POWER FALLSG 4FNATIONVj
 OL,20,VZpzupY C PLAYOFF CONFUSIONG15FSPORTSVj
 OL,21,VZ/////Y CA DETENTE REVIVAL?G65FFOCUS Vj
 OL,22,V uppppppppppppppppppppppppppppppppppppz
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19403
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,V7#############################GWORLDV#k
 OL,4,V5                                    Vj
 OL,5,V5CWE SHOWED OUR MUSCLE, REAGAN SAYS  Vj
@@ -88,16 +76,12 @@ OL,19,V5Gprices to #35 a barrel.            Vj
 OL,20,V5G                                   Vj
 OL,21,V5 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vj
 OL,22,V5GNEXT PAGE:C   PRINTERS BACK AT WORKVj
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19404
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,V7########################GNEWS QUIZV##k
 OL,4,V5                                    Vj
 OL,5,V5CA FASHION TREND?GPresent Reagan    Vj
@@ -118,16 +102,12 @@ OL,19,V5GXranch recently.SX" "#!   `|||||~: Vj
 OL,20,V5G                                   Vj
 OL,21,V5 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vj
 OL,22,V5GNEXT PAGE:                 CWEATHERVj
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19405
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,QZ?/oY###############################k
 OL,4,QZ///}tC PLAYOFF PLOT THICKENSY       Qj
 OL,5,QZ||~                       Y       Qj
@@ -148,16 +128,12 @@ OL,19,QZ|||||YC       BAYLOR GOES TO TOWNG16Qj
 OL,20,QZ}|v3YC                SCOREBOARDG18Qj
 OL,21,QZ|tp{YC               SPORTS QUIZG19Qj
 OL,22,QZ#####Ypppppppppppppppppppppppppppppppz
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19406
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,RZ}p~Y###############################k
 OL,4,RZ?oC CONTINENTAL GETS PUSH, SHOVEYRj
 OL,5,RZ/% */                              YRj
@@ -178,16 +154,12 @@ OL,19,RZ j5 Y C            MARKETS TODAYG16Rj
 OL,20,RjZ"#! Y C        FED TO THE RESCUEG18Rj
 OL,21,Rj     Y C              MONEY Q & AG19Rj
 OL,22,Rjpppppppppppppppppppppppppppppppppppppz
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19407
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,R7#####################GMARKETS TODAYR#k
 OL,4,R5Z    (t  Y                          Rj
 OL,5,R5Z    x%  Y                          Rj
@@ -208,16 +180,12 @@ OL,19,R5G       6-MONTH CD     C15.89%      Rj
 OL,20,R5G                                   Rj
 OL,21,R5 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rj
 OL,22,R5GNEXT PAGE:C   WHERE NYSE ACTION WASRj
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19408
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,U7#########Z  h?o4  j?/%j5j5j5j?m sY#k
 OL,4,U5         Z|4j7k5  jur7*}~%j5j}> sY j
 OL,5,U5                                     j
@@ -238,16 +206,12 @@ OL,19,U5ZR5          YC      MELTING POTG37Uj
 OL,20,U5ZR}          YC       ON DISPLAYG38Uj
 OL,21,U5ZR4        YC      HELPING OUTG39Uj
 OL,22,Uupppppppppppppppppppppppppppppppppppppz
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19409
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,VZ/*%?oj/%/  ?ojt5m  /j?%?oj?%/j45
 OL,4,VZ|  7kjr5q  7kj"5>  |ju07gjw1sj*5
 OL,5,Vh                                    Vh
@@ -268,16 +232,12 @@ OL,19,VjZ zu   YC   STAGE LEFTG52Vj
 OL,20,VjZ`0  YC    SOFT SHOEG53Vj
 OL,21,VjZz?'!"+ou  YC   NOTE-ABLESG54Vj
 OL,22,Vjpppppppppppppppppppppppppppppppppppppz
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19410
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,VZS   x}0    `~hto/%~/4~?!YVj
 OL,4,VZS  j/5xjj5"j/%<1"o4YVj
 OL,5,VZS  "c zm'jjjux'*//%/%"/*/!YVj
@@ -298,16 +258,12 @@ OL,19,V5GRaiders is like a vitamin shot. It Vj
 OL,20,V5Gmakes you feel good.  F(C IMPAGLIA)Vj
 OL,21,V5 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vj
 OL,22,V5GNEXT PAGE:C  SURPRISE OF THE SUMMERVj
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19411
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,V7########################GNOTE-ABLESV#k
 OL,4,V5                                     j
 OL,5,V5CTHE RUSSIANS ARE COMING            Vj
@@ -328,16 +284,12 @@ OL,19,V5Z  x!8l 8585`>`8$`,4x' G```````V5kkYj
 OL,20,V5Z+,&".,-+-+,#/'+,#-.,ep$G```````V";!Yj
 OL,21,V5 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vj
 OL,22,V5GNEXT PAGE:C         JAZZ HIGHLIGHTSVj
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19412
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,V7########################GROCK TALKV##k
 OL,4,V5                                    Vj
 OL,5,V5COKAY SMARTY PANTS..GWho has just   Vj
@@ -358,16 +310,12 @@ OL,19,V5Gmy clothes off I can'tZS5jYVj
 OL,20,V5Gwin"?CXBo Derek       ZS5////////jYVj
 OL,21,V5 ,,,,,,,,,,,,,,,,,,,,,,ZS//////////YVj
 OL,22,V5GNEXT PAGE:     CLEGAL WOES FOR YOKOVj
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19413
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,Q7#####Zp|||t               j5    Y####k
 OL,4,Q57S###Z# "          /    j5    Y##Qkj
 OL,5,Q55V###Z p|'pp x|t`||0p pp j5`||0Y##Qjj
@@ -388,15 +336,12 @@ OL,19,Q55                                  Qjj
 OL,20,Q55                                  Qjj
 OL,21,Q5#####################################j
 OL,22,Q#######################################
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19414
 SC,0014
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
 OL,2,                               C        
 OL,3,V7#####GDISCRIMINATING DIFFERENCESV####k
 OL,4,V5     V##########################     j
@@ -418,16 +363,12 @@ OL,19,V5G  PressCREVEALSZ           *,,,-,,.
 OL,20,V5G                                   Vj
 OL,21,V-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 OL,22,V GNEXT:CSYMBOL TALK!            V      
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19415
 SC,0015
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,ZWzWhtpPW#/=htWx4PW*a=|p0P     
 OL,4,ZWo0h'!pP W*ox%W}pW"+/?'y7k}`P   
 OL,5,Z W?a~/m0PW"/!Wx?%P  Wl7|W~|
@@ -453,11 +394,9 @@ OL,24,ZW       W"!###P W###P      W###!P   W##
 FL,0,0,0,0,100,100
 PN,19416
 SC,0016
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,Q7#########FTODAY IN HISTORYQ##########k
 OL,4,Q5WZ                                 YQj
 OL,5,Q5WZ                 ($             YQj
@@ -478,16 +417,12 @@ OL,19,Q5GXand couldn't finish the race.     Qj
 OL,20,Q5G                                   Qj
 OL,21,Q5G                                   Qj
 OL,22,Qupppppppppppppppppppppppppppppppppppppz
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,19417
 SC,0017
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,V7##########GMEASUREMETRICV############k
 OL,4,V5Q          #############            Vj
 OL,5,V5GRuling kings tried to eliminate theVj
@@ -508,6 +443,4 @@ OL,19,V5G                 GXthere would be  Vj
 OL,20,V5G                 GXno standard unitVj
 OL,21,V5GPressCREVEAL     GXof measurement. Vj
 OL,22,V-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100

@@ -3,7 +3,7 @@ DS,Wales
 SP,C:\Users\Chace\Desktop\Teletext-CTS\P543-CTS.tti
 PN,54301
 SC,0001
-PS,8000
+PS,C000
 CT,45,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -34,7 +34,7 @@ OL,24,W   j0       j*/%   
 FL,540,548,142,600,0,100
 PN,54302
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss

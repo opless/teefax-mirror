@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\Admin\Documents\teefax\P154-finalheader.tti
 PN,33001
 SC,0001
-PS,8000
+PS,C000
 CT,0,C
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -19,7 +19,6 @@ OL,10,CBBC INFO      G695CNEWS FOR REGION G160
 OL,11,                   CNEWSROUND       G570
 OL,12,CCOMMUNITYGBBC2G650CRADIO      GBBC1G640
 OL,13,CENTERTAINMENT G500CREAD HEAR  GBBC2G640
-OL,14,C                                       
 OL,15,CALBUM REVIEWS G525CSPORT           G300
 OL,16,CFINANCEG  BBC2G200CSUBTITLING      G888
 OL,17,CFLIGHTS       G440CTOP 40          G528
@@ -32,7 +31,7 @@ OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index
 FL,101,301,600,199,8ff,199
 PN,33002
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -48,7 +47,6 @@ OL,10,CBBC INFO      G695CNEWS FOR REGION G160
 OL,11,                   CNEWSROUND       G570
 OL,12,CCOMMUNITYGBBC2G650CRADIO      GBBC1G640
 OL,13,CENTERTAINMENT G500CREAD HEAR  GBBC2G640
-OL,14,C                                       
 OL,15,CALBUM REVIEWS G525CSPORT           G300
 OL,16,CFINANCEG  BBC2G200CSUBTITLING      G888
 OL,17,CFLIGHTS       G440CTOP 40          G528
@@ -61,7 +59,7 @@ OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index
 FL,101,301,600,199,8ff,199
 PN,33003
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -77,7 +75,6 @@ OL,10,CBBC INFO      G695CNEWS FOR REGION G160
 OL,11,                   CNEWSROUND       G570
 OL,12,CCOMMUNITYGBBC2G650CRADIO      GBBC1G640
 OL,13,CENTERTAINMENT G500CREAD HEAR  GBBC2G640
-OL,14,C                                       
 OL,15,CALBUM REVIEWS G525CSPORT           G300
 OL,16,CFINANCEG  BBC2G200CSUBTITLING      G888
 OL,17,CFLIGHTS       G440CTOP 40          G528
@@ -90,7 +87,7 @@ OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index
 FL,101,301,600,199,8ff,199
 PN,33004
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -106,7 +103,6 @@ OL,10,CBBC INFO      G695CNEWS FOR REGION G160
 OL,11,                   CNEWSROUND       G570
 OL,12,CCOMMUNITYGBBC2G650CRADIO      GBBC1G640
 OL,13,CENTERTAINMENT G500CREAD HEAR  GBBC2G640
-OL,14,C                                       
 OL,15,CALBUM REVIEWS G525CSPORT           G300
 OL,16,CFINANCEG  BBC2G200CSUBTITLING      G888
 OL,17,CFLIGHTS       G440CTOP 40          G528
@@ -119,7 +115,7 @@ OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index
 FL,101,301,600,199,8ff,199
 PN,33005
 SC,0005
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXCEEFAX 1 mpp DAY dd MTHChh:nn.ss
@@ -150,7 +146,7 @@ OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index
 FL,101,301,600,199,8ff,199
 PN,33006
 SC,0006
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -181,7 +177,7 @@ OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index
 FL,101,301,600,199,8ff,199
 PN,33007
 SC,0007
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -189,9 +185,7 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,W                                       
 OL,6,MKING SAYS BANKS MUST RAISE FUNDS   C202
-OL,7,                                     2  
 OL,8,S       h `                             
 OL,9,S   ", prp1 ,!   CWe hope we have       
 OL,10,S (d x}0`,  Cbrought some sunshine 
@@ -200,19 +194,17 @@ OL,12,S "#"tpx}pp~7"!  C
 OL,13,S   `"7                            
 OL,14,S   ! `###1 #,                          
 OL,15,S     ! h "                             
-OL,16,W                                       
 OL,17,V   7]S |  \ FBut it's time for us  
 OL,18,V   ? *7#  Fto say goodnight      
 OL,19,V   S$1U5V?o  Ffor the last time.    
 OL,20,U   ?S1$U  !j                         
 OL,21,T   /!        +                         
-OL,22,W                                       
 OL,23,D]CNews and sport updates 24 hours a day
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33008
 SC,0008
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -220,7 +212,6 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
 OL,6,G]                                    \ 
 OL,7,G]                                    \ 
 OL,8,G]                                    \ 
@@ -243,7 +234,7 @@ OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index
 FL,101,301,600,199,8ff,199
 PN,33009
 SC,0009
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -251,8 +242,6 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
 OL,7,G  ]                                \   
 OL,8,G  ]                                \   
 OL,9,G  ]                                \   
@@ -269,12 +258,11 @@ OL,19,G  ]                                \
 OL,20,G  ]                                \   
 OL,21,G  ]                                \   
 OL,22,G  ]                                \   
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33010
 SC,0010
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -282,9 +270,6 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
 OL,8,G   ]                             \     
 OL,9,G   ]                             \     
 OL,10,G   ]                             \     
@@ -299,13 +284,11 @@ OL,18,G   ]                             \
 OL,19,G   ]                             \     
 OL,20,G   ]                             \     
 OL,21,G   ]                             \     
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33011
 SC,0011
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -313,11 +296,6 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
 OL,10,G    ]                          \       
 OL,11,G    ]    Goodbye from all      \       
 OL,12,G    ]  DMGoodbye from all      \       
@@ -329,14 +307,11 @@ OL,17,G    ]                         \\   \\
 OL,18,G    ]                          \       
 OL,19,G    ]                          \       
 OL,20,G    ]                          \       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33012
 SC,0012
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -344,12 +319,6 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
 OL,11,G     ]   Goodbye from all     \        
 OL,12,G     ] DMGoodbye from all     \        
 OL,13,G    ]]                        \\   \\\\
@@ -359,15 +328,11 @@ OL,16,G     ] DM  1974 - 2012        \
 OL,17,G    ]]                        \\   \\  
 OL,18,G     ]                        \        
 OL,19,G     ]                        \        
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33013
 SC,0013
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -375,12 +340,6 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
 OL,11,G      ]  Goodbye from all     \        
 OL,12,G      ]DM                     \        
 OL,13,G    ]]]                       \\   \\\\
@@ -390,15 +349,11 @@ OL,16,G      ]DM      1974-2012      \
 OL,17,G    ]]]                       \\   \\  
 OL,18,G      ]                       \        
 OL,19,G      ]                       \        
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33014
 SC,0014
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -406,30 +361,17 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
-OL,12,G                                       
 OL,13,G      ]                       \        
 OL,14,G      ]DMGoodbye from Ceefax  \        
 OL,15,G    ]]]                       \\   \\  
 OL,16,G      ]DM      1974-2012      \        
 OL,17,G    ]]]                       \\   \\  
 OL,18,G      ]                       \        
-OL,19,G                                       
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33015
 SC,0015
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -437,30 +379,13 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
-OL,12,G                                       
-OL,13,G                                       
 OL,14,G             ]D Ceefax    \            
 OL,15,G             ]D1974-2012  \            
-OL,16,G                                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,G                                       
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33016
 SC,0016
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -468,30 +393,13 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
-OL,12,G                                       
-OL,13,G                                       
 OL,14,G              ]          \             
 OL,15,G              ]          \             
-OL,16,G                                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,G                                       
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33017
 SC,0017
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -499,30 +407,13 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
-OL,12,G                                       
-OL,13,G                                       
 OL,14,G               ]        \              
 OL,15,G               ]        \              
-OL,16,G                                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,G                                       
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33018
 SC,0018
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -530,30 +421,13 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
-OL,12,G                                       
-OL,13,G                                       
 OL,14,G                  ]   \                
 OL,15,G                  ]   \                
-OL,16,G                                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,G                                       
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33019
 SC,0019
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -561,30 +435,13 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
-OL,12,G                                       
-OL,13,G                                       
 OL,14,G                  ]  \                 
 OL,15,G                  ]  \                 
-OL,16,G                                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,G                                       
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199
 PN,33020
 SC,0020
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
@@ -592,24 +449,6 @@ OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,,|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?T 
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55jT 
 OL,4,W"###"###"###T##########################
-OL,5,G                                       
-OL,6,G                                       
-OL,7,G                                       
-OL,8,G                                       
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
-OL,12,G                                       
-OL,13,G                                       
-OL,14,G                                       
 OL,15,G                  ]  \                 
-OL,16,G                                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,G                                       
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
-OL,23,G                                       
 OL,24,AHeadlines  BSport CN.Ire TV FA-Z Index 
 FL,101,301,600,199,8ff,199

@@ -3,12 +3,11 @@ DS,inserter
 SP,C:\Users\peter\teletext\P321-ThisIsCeefax.tti
 PN,32101
 SC,0001
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,FBBC                                    
-OL,3,                        Q               
 OL,4,R7#j 57kj#57kjj#kj#!    Q    8,,,0      
 OL,5,R#kj#55jj#!7#jj jj 4    Q   6    "4     
 OL,6,R##" !##"  ! "" ""#!    Q   5     5     
@@ -30,12 +29,11 @@ OL,24,ANext   BNews and Sport CAir FIndex
 FL,322,323,325,326,8ff,8ff
 PN,32102
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,FBBC                                    
-OL,3,                        S               
 OL,4,R7#j 57kj#57kjj#kj#!    S    8,,,0      
 OL,5,R#kj#55jj#!7#jj jj 4    S   6    "4     
 OL,6,R##" !##"  ! "" ""#!    S   5     5     

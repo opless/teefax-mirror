@@ -7,9 +7,7 @@ PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,    W                                   
 OL,2,TM]GAN INVITATION TO VIEW... \          
-OL,3,TM]GAN INVITATION TO VIEW    \          
 OL,4,WR||||||||||||||||||||||||              
 OL,5,WRWppppppppppppppppppppR              
 OL,6,WRW////R              
@@ -22,7 +20,6 @@ OL,12,WRW5  Z .o5Y  "oR
 OL,13,WRW%  Zh~? Y   *R              
 OL,14,WRW?      0 Y    #/R              
 OL,15,MRW5     `1D]      GThe 4-Tel        
-OL,16,MRW%    <r!D]      GThe 4-Tel        
 OL,17,WRW5    `>'YD ]V7s1ws55 j  wsjs;jpz  \
 OL,18,WRW?   lt    D ]V-,%% %-,*,$-,* * *   \
 OL,19,WRW5  `7    D]FGof Teletextual Art    

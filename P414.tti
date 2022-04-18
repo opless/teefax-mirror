@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\Dan\Desktop\Teefax\P414.tti
 PN,41401
 SC,0001
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C        s
@@ -32,7 +32,7 @@ OL,22,TppppppppppppppppppppppW///%///////////
 OL,23,D]G Count Binface ManifestoC>>>>>>>>>  \
 PN,41402
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -53,7 +53,6 @@ OL,14,G  Fpolice officers.        WT0  ~}128x
 OL,15,G                           WTwdfgo?; 
 OL,16,G4.FNationalisationGof the  WT######### 
 OL,17,G  Fmodel railwaysG(and Adele).         
-OL,18,G                                       
 OL,19,G5.FRoss KempGto be theFnext            
 OL,20,G  Fpoet laureate.              CB      
 OL,21,C                                B      
@@ -61,7 +60,7 @@ OL,22,D]C   >>>> Manifesto continues >>>     \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41403
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -74,7 +73,6 @@ OL,6,G                              W
 OL,7,G6.FMassive expansion in recyclingGin   
 OL,8,G   all sectorsFexcept Hollywood        
 OL,9,G  Fmovie plots.         WS             
-OL,10,G                                       
 OL,11,G7.F#1 trillion a weekGfor theFNHS.     
 OL,12,G                            WQ         
 OL,13,G8.FSir David AttenboroughGto be on the 
@@ -90,7 +88,7 @@ OL,22,D]C   >>>> Manifesto continues >>>     \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41404
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -117,7 +115,7 @@ OL,22,D]C   >>>> Manifesto continues >>>     \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41405
 SC,0005
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -144,7 +142,7 @@ OL,22,D]C   >>>> Manifesto continues >>>     \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41406
 SC,0006
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -170,7 +168,7 @@ OL,22,D]C   >>>> Manifesto continues >>>     \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41407
 SC,0007
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -196,7 +194,7 @@ OL,22,D]C   >>>> Manifesto continues >>>     \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41408
 SC,0008
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -205,7 +203,6 @@ OL,2,D]Wn1j5j= n5  $S`&jj 5-5W\"#!
 OL,3,D]Wz5j5j5 j5x4pSjxjz 5t5W\ZY 
 OL,4,T//,,.,-.,-./,-.,,.,,/-,-,/.,./W'#,,,#+ 
 OL,5,C` MANIFESTO ``````````````````` 8/11 ` 
-OL,6,G                                       
 OL,7,G24.FNew voting age limit of 16 to be   
 OL,8,    Fintroduced.GNew voting age limit   
 OL,9,     of 80 to be introduced too.        
@@ -222,7 +219,7 @@ OL,22,D]C   >>>> Manifesto continues >>>     \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41409
 SC,0009
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -231,7 +228,6 @@ OL,2,D]Wn1j5j= n5  $S`&jj 5-5W\"#!
 OL,3,D]Wz5j5j5 j5x4pSjxjz 5t5W\ZY 
 OL,4,T//,,.,-.,-./,-.,,.,,/-,-,/.,./W'#,,,#+ 
 OL,5,C` MANIFESTO ``````````````````` 9/11 ` 
-OL,6,G                                       
 OL,7,G26.FUniversity tuition fees to be      
 OL,8,     charged to any politician who has  
 OL,9,     ever voted for university tuition  
@@ -248,7 +244,7 @@ OL,22,D]C   >>>> Manifesto continues >>>     \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41410
 SC,0010
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -257,7 +253,6 @@ OL,2,D]Wn1j5j= n5  $S`&jj 5-5W\"#!
 OL,3,D]Wz5j5j5 j5x4pSjxjz 5t5W\ZY 
 OL,4,T//,,.,-.,-./,-.,,.,,/-,-,/.,./W'#,,,#+ 
 OL,5,C` MANIFESTO `````````````````` 10/11 ` 
-OL,6,G                                       
 OL,7,G29. On Brexit:Fthere must W?/////o 
 OL,8,    Fbe another referendum,W7#####k 
 OL,9,    FaboutFwhether there   W1Vl|<Wb 
@@ -272,12 +267,11 @@ OL,17,G           --Count BinfaceWfsm"#!>/%
 OL,18,                          W ugsqpx|~/4 
 OL,19,                           Wk/'s|| 
 OL,20,                          W }s! ``` #sy 
-OL,21,C                                       
 OL,22,D]C   >>>> Manifesto page 1 >>>>       \
 OL,23,D]Ct:GCountBinfaceCw:GCountBinface.com \
 PN,41411
 SC,0011
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss

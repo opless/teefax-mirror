@@ -3,7 +3,7 @@ DS,inserter
 CT,20,T
 PN,59001
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,E.:T+]V      pr{wssp  \ Vj]W ##//! Q#{$
@@ -33,7 +33,7 @@ OL,24,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FL,0,0,0,0,100,100
 PN,59002
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]        A__E*_  ///////    A__@*_     
@@ -59,11 +59,10 @@ OL,20,T]F@@  W+og~G<<<<</W?T]F  .  /:
 OL,21,T]F  @@  C#oT]F@         
 OL,22,T]F/   @@  W#o?T]F .   //    
 OL,23,T]F  / `.@@@  C#////'T]F@  / .    . 
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59003
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,^  W@@   W @   @@    W@@@  @@        @@@
@@ -93,7 +92,7 @@ OL,24,A`<_FIRE_>` B()UP C()DOWNF [`<SPECIAL>`]
 FL,0,0,0,0,100,100
 PN,59004
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]W|,,,,,,,,,,,4\Rh!  8$         iU]W'#
@@ -123,7 +122,7 @@ OL,24, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 FL,0,0,0,0,100,100
 PN,59005
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]                 Q(x``    \           
@@ -153,7 +152,7 @@ OL,24,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 FL,0,0,0,0,100,100
 PN,59006
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, W$Wtuzppuzx ( U]Vhdhdh,`dh hhhhh,h h  
@@ -183,7 +182,7 @@ OL,24, < > < > < > < > < > < > < > < > < > < >
 FL,0,0,0,0,100,100
 PN,59007
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]G~\/~\/~\/~\/~\/~\/~\/~\/~\/~\/~\/~\/~
@@ -213,7 +212,7 @@ OL,24, ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][
 FL,0,0,0,0,100,100
 PN,59008
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,WuotC]]]/\_]]]]_]]/\]_]W~!+
@@ -243,7 +242,7 @@ OL,24, XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FL,0,0,0,0,100,100
 PN,59009
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ws, p      S` W    Vbb1$p0   !  (    0  
@@ -273,7 +272,7 @@ OL,24, A|`|O|`|  B|`|O|`|  C|`|O|`|  F|`|O|`|
 FL,0,0,0,0,100,100
 PN,59010
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S]V,,,,,,,,/^U,|T,,]W,,,,,,,,,,,
@@ -303,7 +302,7 @@ OL,24,AWildlifeBHuman rightsCTourism FPoverty
 FL,0,0,0,0,100,100
 PN,59011
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W                          W  pp0 #cwp
@@ -333,7 +332,7 @@ OL,24,A=`=|:|=`=B=`=|:|=`=C=`=|:|=`=F=`=|:|=`=
 FL,0,0,0,0,100,100
 PN,59012
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]           W]P`&`,,,,d"dU]            
@@ -363,7 +362,7 @@ OL,24,]P         "###,,,rssssq,,&####
 FL,0,0,0,0,100,100
 PN,59013
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]W{3W\`&         h  )0Q]W#cwsp S"#!j
@@ -393,7 +392,7 @@ OL,24,AKelpie BBattletoads CSeawitch FSeapunk
 FL,0,0,0,0,100,100
 PN,59014
 SC,0014
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S] (,,,,,,,,,,,,,$U+'p+'p+'p+?a2o'p+5
@@ -416,14 +415,10 @@ OL,17,V]                Ux5x5x5$$$$$$$$$$$(*,,
 OL,18,U]                V?!?!?!5$$$$$$$$$n,,,,
 OL,19,U]                V,,,,,tsssssssssskrzcs
 OL,20,U]                Vsss3-,,,,,,,,,,,l"/,,
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59015
 SC,0015
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]UjckWhU4W735UjckWhU4W735UjckWhU4W735Uj
@@ -449,15 +444,12 @@ OL,20,V]Uz*.W~U}W-%uUz*.W~U}W-%uUz*.W~U}W-%uUz
 OL,21,V]Uj!W~U}W"5Uj!W~U}W"5Uj!W~U}W"5Uj
 OL,22,V]UnW~U}W=UnW~U}W=UnW~U}W=Un
 OL,23,S]W "+oU?'!5Wj"+oU?'!5Wj"+oU?'!5Wj
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59016
 SC,0016
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
 OL,3,A]U$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 OL,4,A]U1111S p||||pQ]U11111111111111111111
 OL,5,Q]U$$S `~}0Q]U$$$$$$S`||0U$$$$$
@@ -479,11 +471,10 @@ OL,20,U]Q1111111111111111111111111111111111111
 OL,21,Q]U$$$Gmega!U$$$$$S,08hdU$$$$$G0ld!!U$$$
 OL,22,Q]U111GdanceU11111Ss$ej:U11111GSkoolU111
 OL,23,Q]U$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59017
 SC,0017
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W
@@ -513,7 +504,7 @@ OL,24,W
 FL,0,0,0,0,100,100
 PN,59018
 SC,0018
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W
@@ -543,7 +534,7 @@ OL,24,Wtssss3-tssssssss3usss-,,,,,,,,,,,,,,.cs
 FL,0,0,0,0,100,100
 PN,59019
 SC,0019
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W/#          +/
@@ -573,7 +564,7 @@ OL,24,               S"d&!            W    ##/
 FL,0,0,0,0,100,100
 PN,59020
 SC,0020
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q] W             (,,,,,,,,,,,$          
@@ -603,7 +594,7 @@ OL,24,Q]Wrsss0     ###!     css
 FL,0,0,0,0,100,100
 PN,59021
 SC,0021
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U                  2   ppp1             
@@ -633,7 +624,7 @@ OL,24,       U     (,$        (,$
 FL,0,0,0,0,100,100
 PN,59022
 SC,0022
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,VW]Uo}2U]Wo}"W]Uo}"U]Wo2W]Uo} \        
@@ -659,11 +650,10 @@ OL,20,V]  W]U~?aU]W~?`W]U~?`U]W~aW]U~?V]
 OL,21,   W]U~?aU]W~?`W]U~?`U]W~aW]U~? \      
 OL,22,  W]U~?aU]W~?`W]U~?`U]W~aW]U~? \       
 OL,23, W]U~?aU]W~?`W]U~?`U]W~aW]U~? \        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59023
 SC,0023
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U                 (   ,,,   (           
@@ -693,7 +683,7 @@ OL,24,U              ssssssssss1ss3sssssss!
 FL,0,0,0,0,100,100
 PN,59024
 SC,0024
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S]Q                    (,,              
@@ -723,7 +713,7 @@ OL,24,S]Q
 FL,0,0,0,0,100,100
 PN,59025
 SC,0025
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]MQ]C35p Quickie Relief U]C0909 0749884
@@ -753,7 +743,7 @@ OL,24,U]W       "sssqp   C1-2-1     W"ssss!
 FL,0,0,0,0,100,100
 PN,59026
 SC,0026
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U       (,,,,,,                         
@@ -783,7 +773,7 @@ OL,24,U          "cssssss         pss1
 FL,0,0,0,0,100,100
 PN,59027
 SC,0027
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,If I wear a      V,,,,,  ,,,,,,,,,,,,   
@@ -813,7 +803,7 @@ OL,24,G            W"ssss1   "sssss1G
 FL,0,0,0,0,100,100
 PN,59028
 SC,0028
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]V                                     
@@ -843,7 +833,7 @@ OL,24,W]V
 FL,0,0,0,0,100,100
 PN,59029
 SC,0029
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T hello  ?###///o
@@ -873,7 +863,7 @@ OL,24, ]VU##R
 FL,0,0,0,0,100,100
 PN,59030
 SC,0030
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W         w{,          ,w{              
@@ -903,7 +893,7 @@ OL,24,W         "#! #!    "# "#!
 FL,0,0,0,0,100,100
 PN,59031
 SC,0031
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]P                                     
@@ -933,7 +923,7 @@ OL,24,P]W
 FL,0,0,0,0,100,100
 PN,59032
 SC,0032
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W   !`?    e{     wb=l,>o0"           
@@ -951,19 +941,10 @@ OL,12,W      n$"$         (!(=
 OL,13,W      zu 0         ` zu              
 OL,14,W      *}$*|$       (|%(~%              
 OL,15,W       "#! #!     "# "#!               
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59033
 SC,0033
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,]MA]WaRnIN9!AL3RT!W+R/I/G!a:eRT!WAR<[<[ 
@@ -993,7 +974,7 @@ OL,24,S]W        S]W"#          "#"!
 FL,0,0,0,0,100,100
 PN,59034
 SC,0034
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]UA ALL LIFEF*rM5 mUS7 sUbM1T fOr U  
@@ -1019,20 +1000,12 @@ OL,20,V]Q   Rb5{T]S wj bwk  1u1   s2qV] Q
 OL,21,W]U   S(%,    , (,  $$   h4.   U  
 OL,22,V]Q   R#"#   s#! r3! p3a1   za5   Q  
 OL,23,W]U  AH _%_HUMAn cHe<K PO1nT_%_ I  U  
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59035
 SC,0035
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
-OL,3,                                        
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
-OL,7,                                        
 OL,8,          U      j 5                    
 OL,9,          U     ~j 5}                   
 OL,10,          U    ~j 5}                  
@@ -1047,13 +1020,10 @@ OL,18,U     pppppppj 5ppppppp
 OL,19,U    ~j 5}        
 OL,20,U   ~j 5}       
 OL,21,U  ~j 5}      
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59036
 SC,0036
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]W ,,<             rw#'##              
@@ -1079,11 +1049,10 @@ OL,20,  F]B[$$,, ]{{s7ss{[sss]wssksww[ ,,(
 OL,21,   B]F[$$,, ]{{s{ww{[sss]wsssww[ ,,
 OL,22,    U]Q[$$,, ]{{sss{[sss]wsssww[ ,
 OL,23,     Q]U[$$,, ]{{sss{[sss]wsssww[ ,
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59037
 SC,0037
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]Q,,,,,,j(,,,,  U,,,,,,,(,  U]S,,,,,,,,
@@ -1109,11 +1078,10 @@ OL,20,Q]W,,R#///!W,,,U]W,,,,,,,,,  S]U,,,,,,,,
 OL,21,W]Q,,,,,,j(,,,,  U,,,,,,,(,  U]S,,,,,,,,
 OL,22,Q]W,,,,,,j(,,,,U]W,,,,,,,,,  S]U,,,,,,,,
 OL,23,W]Q,,,,,,j(,,,,  U,,,,,,,(,  U]S,,,,,,,,
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59038
 SC,0038
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]                         drugs        
@@ -1139,11 +1107,10 @@ OL,20,Q]W+o./!         R ,$          W+o./!
 OL,21,U]W*l~.           R-4          W*l~.    
 OL,22,Q]WM  FEAR IS THER !4 GMIND KILLER      
 OL,23,U]        W            W                
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59039
 SC,0039
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, www              S +-,,,l|\Rzw?Sh|,./  
@@ -1169,11 +1136,10 @@ OL,20,    W  h,,,,,,,,,./\W*    m      ##
 OL,21,    W  jQ####,,,,ppppQ5  `zW           
 OL,22,    W  j             W$p&! $Q,,,pppp,,##
 OL,23,    W  j            Q`7    j  \  W     
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59040
 SC,0040
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W##{sppp    ,l|     S"o'      
@@ -1193,7 +1159,6 @@ OL,14,R]T#/o/#!Ql<\j}|~||}~g|uz|;m~ov}4o
 OL,15,R]T   Qp0x?5p0\ puzpuzjpuz 5w#{}ch3{~
 OL,16,R]T Q  " %% "  W                        
 OL,17,Q]GM//[ INN ]//                         
-OL,18,W                                       
 OL,19,     The inn is abandoned. Part of it   
 OL,20,      looks burnt down. You recall a    
 OL,21,  warm summer evening drinking here by  
@@ -1203,7 +1168,7 @@ OL,24, ABack   CSearch Ruins   BApproach cat
 FL,0,0,0,0,100,100
 PN,59041
 SC,0041
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S]^ZTgYg}Rg}Zg{yU] WppsYs{SZ3# W]  
@@ -1229,11 +1194,10 @@ OL,20,W]^  R]       ZUgyYgm  SgmZgy
 OL,21,W]^A                                    
 OL,22,W]^                                     
 OL,23,W]^                                     
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59042
 SC,0042
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S]B          dub  and  reggae           
@@ -1263,7 +1227,7 @@ OL,24,R[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]
 FL,0,0,0,0,100,100
 PN,59043
 SC,0043
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,          Q]T`~o~s||st0 \         
@@ -1289,11 +1253,10 @@ OL,20,W]         V]S+~fo|.fy7~g}%W ]         \
 OL,21,            Q]T"o}{g?~y?!  \           
 OL,22, R\]         U]R"o~?!  R]         \ 
 OL,23,               Q]T#///#  \              
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59044
 SC,0044
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U        o}|pp  h|   
@@ -1323,7 +1286,7 @@ OL,24,QNATURAL    RCUTE    STEEN      VBOOBS
 FL,0,0,0,0,100,100
 PN,59045
 SC,0045
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U        o}|pp  h|   
@@ -1353,7 +1316,7 @@ OL,24,QNATURAL    RCUTE    CTEEN      FBVobs
 FL,0,0,0,0,100,100
 PN,59046
 SC,0046
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]W                    8!     "4        
@@ -1383,7 +1346,7 @@ OL,24, EROTIQUE[]EROTIQUE[]EROTIQUE[]EROTIQUE
 FL,0,0,0,0,100,100
 PN,59047
 SC,0047
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]W                    8!     "4        
@@ -1413,7 +1376,7 @@ OL,24, EROTIQUE[]EROTIQUE[]EROTIQUE[]EROTIQUE
 FL,0,0,0,0,100,100
 PN,59048
 SC,0048
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]G        W`xq0G            W`xq0    
@@ -1439,11 +1402,10 @@ OL,20,U]G  W,$          l G   W,$          l
 OL,21,Q]G Wr3           s1G  Wr3           s1 
 OL,22,U] W(            m,G W(            m, 
 OL,23,Q] W+!            c3G W+!            c3 
-OL,24,S                                       
 FL,0,0,0,0,100,100
 PN,59049
 SC,0049
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,     W8!              i  i   bdp&    G
@@ -1473,7 +1435,7 @@ OL,24,%/%/%/%/%/%/%/%/by J{ke%/%/%/%/%/%/%/%
 FL,0,0,0,0,100,100
 PN,59050
 SC,0050
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W37,p                                   
@@ -1499,11 +1461,10 @@ OL,20,        ENTERTAIN us tiny PATHETIC
 OL,21,     ^ ^    creature! We are      ^ ^   
 OL,22,    (`.-) Preston and Chantalle, (-.-)  
 OL,23,      "   RULERS of this DOMAIN!   "    
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59051
 SC,0051
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]W ,|,,Pp||t   W $,,,  #  ###-,,,|, (  
@@ -1533,7 +1494,7 @@ OL,24,G
 FL,0,0,0,0,100,100
 PN,59052
 SC,0052
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, W`|0  V 0 S( |   (= W( V 0  " W  `"Sh4
@@ -1563,7 +1524,7 @@ OL,24,|F|G|F|G||[||[||_||==||_||]||]||F|G|F|G|
 FL,0,0,0,0,100,100
 PN,59053
 SC,0053
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q ~AW?/'##/oQAt         
@@ -1589,11 +1550,10 @@ OL,20,Q^W///'q|Qj
 OL,21,Q^W||~Qo?
 OL,22,Q^WQ!o?  
 OL,23,Ghey, c n you  ee me? Signal's n t g[od 
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59054
 SC,0054
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T   >^^V?/'##/oT|$      
@@ -1623,7 +1583,7 @@ OL,24, HI!HI!HI!HI!HI!HI!HI!HI!HI!HI!HI!HI!HI!
 FL,0,0,0,0,100,100
 PN,59055
 SC,0055
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]R    ///##  Uw15{f$wn15w1 S+w+//'#    
@@ -1653,7 +1613,7 @@ OL,24,        /|||/synthetic moon|||/
 FL,0,0,0,0,100,100
 PN,59056
 SC,0056
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]S####///%  ####////                   
@@ -1683,7 +1643,7 @@ OL,24,  Classic Picard Facepalm with Stripes
 FL,0,0,0,0,100,100
 PN,59057
 SC,0057
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,A  Qx   5 j    ~4                       
@@ -1708,12 +1668,10 @@ OL,19,      Q z/u
 OL,20,      Q~}                            
 OL,21,     Qn/uz/=                           
 OL,22,        Q#                              
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59058
 SC,0058
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W  =,tp `p|/|0    xn      GNyanko Sensei
@@ -1738,12 +1696,10 @@ OL,19,W      5                     x.
 OL,20,W      }ppx,tppx<,',t     <.'           
 OL,21,W      m  z 5  5     +,,,'              
 OL,22,W       #-' +,'                         
-OL,23,W                                       
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59059
 SC,0059
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?###+'#o
@@ -1769,11 +1725,10 @@ OL,20,U]V !0W\"dps9 U] ""Wn$     W\ha`&U]  S"
 OL,21,T}pppp|?'#W\8!`&T]W"    
 OL,22,R]ASTAR TREK:   U]W $ W\"l,cp8!U]W0Vh4 
 OL,23,R]ADEEP SPACE 9 T]V$  ( W\#! T]    V #  
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59060
 SC,0060
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]S=,45j W]Qw{, 7(, / ,$kT,w{ U]S5jh,n  
@@ -1803,7 +1758,7 @@ OL,24,R]U      S]U"#! #!+,,,'"# "#! R]
 FL,0,0,0,0,100,100
 PN,59061
 SC,0061
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]Q                   R]  T pp    ~}  
@@ -1833,7 +1788,7 @@ OL,24,T]QWx,|,t S]s R]    S]   R]   S]
 FL,0,0,0,0,100,100
 PN,59062
 SC,0062
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]EJumping in the          Vpppp        
@@ -1859,7 +1814,6 @@ OL,20,T]   V|,/,,$ZW`(" Z o////!
 OL,21,T]pVp##   ##s ZW `(" Z( +//' W`("
 OL,22,T]V(ZW0$!            Z "+//'!        
 OL,23,T] ZW    0$!     Ethis serious moonlight
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59063
 SC,0063
@@ -1893,7 +1847,7 @@ OL,24,  Aa,fsasa  Bhgersa  Cdsadbsx  Fgkcem
 FL,0,0,0,0,100,100
 PN,59064
 SC,0064
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V,===..,,..,n.nV]S=,?,,,,,,s,
@@ -1919,11 +1873,10 @@ OL,20,Ruk,To?W8a%68a$R.<T]R-,l
 OL,21,V<.,W,T+///%Wha&8a%8V--lU]V-l
 OL,22,RuskW3,rs),,T######W  p,1&:ha,a%R=>lT]R<
 OL,23,V<,.Wb),dsss3,,,,,#sU]GJELLICAV--.,,,%
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59065
 SC,0065
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]S$l(,,,,,,,,,<,4<,,,,,,,4 C***********
@@ -1949,11 +1902,10 @@ OL,20,S]Q,,$U]G|ps|"|ps|"\UjtQn' UzU]R<,-$
 OL,21,Q]S<,. R-,lG"s-"!!"\W~k7d   pl5Q]Rs7w1
 OL,22,S]Q(,$U] R*,,,,,,,%\U55 ),& ~i%U]S-,,4
 OL,23,Q]S-,, U  *,,,,,ll%\W5j5    z%Q]S wsss1
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59066
 SC,0066
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]T   \T6jy~ j iV]    S                
@@ -1979,11 +1931,10 @@ OL,20,S]Q 0`h%ztxut7hptu>c=jrskrrw+t ss
 OL,21,G]E]PRESTON LASER EYE ATTACK[  \ S+k+++k
 OL,22,CDAM COMBO=5CDAMGClaw Slam Attack Sw   w
 OL,23,A213 BONUS=2 426 GTooth Clamp     S#   #
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59067
 SC,0067
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]MG             ///////`]>CHANTELLE<[` 
@@ -2013,7 +1964,7 @@ OL,24,AExit   BStats   CAbilities   FInventory
 FL,0,0,0,0,100,100
 PN,59068
 SC,0068
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]U,<,,,< wsscsp<'#sssss#kWj0qpx~}t   
@@ -2039,11 +1990,10 @@ OL,20,T]R(1,0d(<(($R(-*%)4,m +\Wv(bd)0+o?'
 OL,21,T]\W+3################d+h#d)1$92d    `~
 OL,22,T] \W"dppppppppppppppppsqppyrvxr|||~
 OL,23,T]Ra !!ll(awis(i,zcRzt`y4ku(5ljlW"o\+"o
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59069
 SC,0069
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S]R,,,,,,l| VxtU(,,,,,,l|h|,,,$
@@ -2069,11 +2019,10 @@ OL,20,V]V
 OL,21,V]GMKero Kero Bonito                    
 OL,22,V]G                                     
 OL,23,V]G                                     
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,59070
 SC,0070
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]R,,o,5\W"4t3|#*o|0     T]         
@@ -2103,7 +2052,7 @@ OL,24,U]R,%\U W?U UR]Ccats
 FL,0,0,0,0,100,100
 PN,59071
 SC,0071
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]S'((,((,((,(W,,,,,|tpppx|,   ,,||,, 
@@ -2133,7 +2082,7 @@ OL,24,       GFUTUREHOUSE
 FL,0,0,0,0,100,100
 PN,59072
 SC,0072
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]UppwuV]U`<' S        U"m0T] U      
@@ -2163,7 +2112,7 @@ OL,24,Q]G RED  R]W GREEN  S]RYELLOW V]W CYAN
 FL,0,0,0,0,100,100
 PN,59073
 SC,0073
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]U/ S,(U"#/   ///###     ##///S*??
@@ -2193,7 +2142,7 @@ OL,24,V]SBEACHR]SDUNES S]UBEACHHUTSU]TNITELIFE
 FL,0,0,0,0,100,100
 PN,59074
 SC,0074
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]U  W   prw##     S"o3ss'         
@@ -2213,7 +2162,6 @@ OL,14,R]Q'/.%( p|t(`W"5o!U>W(.+l' U>S"7  x7~}0
 OL,15,R]Q x~o4*+-/*"W7kU >hW#''Uh%>Sx~|:?
 OL,16,R]Q !##!$!  W`0U>h%>h%>h%>S(/*-./--,-%
 OL,17,Q]GM//[ VILLAGE ]//                     
-OL,18,W                                       
 OL,19,   The village doesn't seem friendly.   
 OL,20, The Temple guards eye you suspiciously.
 OL,21,   This used to be a friendy place to   

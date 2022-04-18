@@ -3,28 +3,28 @@ DS,inserter
 CT,4,T
 PN,75a01
 SC,0001
-PS,8000
+PS,C000
 OL,27,@@EOGOCJEB@@@JEC@@@JED@@@OOOOOO@@OGOOO@@
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0001               
 OL,24,A Back    BS0002   CS0003   FS0004      
 PN,75a02
 SC,0002
-PS,8000
+PS,C000
 OL,27,@JEA@@@@EOGOCJEC@@@JED@@@OOOOOO@@OGOOO@@
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0002               
 OL,24,A S0001   BBack    CS0003   FS0004      
 PN,75a03
 SC,0003
-PS,8000
+PS,C000
 OL,27,@JEA@@@JEB@@@@EOGOCJED@@@OOOOOO@@OGOOO@@
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0003               
 OL,24,A S0001   BS0002   CBack    FS0004      
 PN,75a04
 SC,0004
-PS,8000
+PS,C000
 OL,27,@JEA@@@JEB@@@JEC@@@@EOGOCOOOOOO@@OGOOO@@
 OL,7,     This is a test of subcode links    
 OL,8,     This is subpage 0004               

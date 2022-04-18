@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P791.tti
 CT,20,C
 PN,79101
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q||||||||||||||||||||||||||||||||||||||\
@@ -22,7 +22,6 @@ OL,13,B(pembers.freeserve.co.uk/teletext/)
 OL,15,BA photograph from a decoder displaying 
 OL,16,Bvisible control codes allowed an exact 
 OL,17,Bcopy of the page to be transcribed.    
-OL,18,B                                       
 OL,19,BThe clock cracker uses a control code  
 OL,20,Blater defined for black text therefore 
 OL,21,Bmany newer televisions will render the 
@@ -31,7 +30,7 @@ OL,24,A1978 version B"colour stripes" version
 FL,792,793,790,790,8ff,100
 PN,79102
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q||||||||||||||||||||||||||||||||||||||\
@@ -50,16 +49,14 @@ OL,14,Bcodes that are usually not displayed.
 OL,15,BA teletext decoder could be altered to 
 OL,16,Bshow these glyphs, thus displaying all 
 OL,17,Bthe normally hidden details of a page. 
-OL,18,B                                       
 OL,19,BThe photograph was taken on Friday the 
 OL,20,B25th of August, 1978.                  
-OL,21,B                                       
 OL,22, PressAREDGto see this testcard. G(2/3) 
 OL,24,A1978 version B"colour stripes" version 
 FL,792,793,790,790,8ff,100
 PN,79103
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q||||||||||||||||||||||||||||||||||||||\
@@ -78,7 +75,6 @@ OL,15,Bmany years. The card was often used on
 OL,16,Bthe in-vision "Pages from Ceefax" and  
 OL,17,Ba version was included on the "British 
 OL,18,BGarden Birds" BBC Laserdisc.           
-OL,19,B                                       
 OL,20, PressBGREENGto see this testcard.      
 OL,22,                                 G(3/3) 
 OL,24,A1978 version B"colour stripes" version 

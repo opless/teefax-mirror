@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P679-Xmas.tti
 CT,5,C
 PN,67901
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 679 DAY dd MTH C hh:nn.ss
 OL,1, T]     \T]     \T]      \T]       \T]  
@@ -34,7 +34,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,670,700,800,0,100
 PN,67902
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 679 DAY dd MTH C hh:nn.ss
 OL,1, T]     \T]     \T]      \T]       \T]  
@@ -64,7 +64,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,670,700,800,0,100
 PN,67903
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 679 DAY dd MTH C hh:nn.ss
 OL,1,X by swirv, 1991W"0$!0`! T]W(z8    \W `p

@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P203.tti
 CT,10,C
 PN,20301
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q           pp0  p|lo?|l0               
@@ -29,12 +29,11 @@ OL,19,T ,($,,,./'./%U?>o= jT,/,'''-(,,,,,,,,
 OL,20,W           U`x}~}>m$ ip                
 OL,21,W           U #//--,,-'!                
 OL,22,Q,),,&,,$ ,,,(,$(,,,,,,,&),,,,,&,,,,,,( 
-OL,23,W                                       
 OL,24, APrevious  BNext  CMore art   FArchive 
 FL,200,204,500,200,0,100
 PN,20302
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T                                     
@@ -64,7 +63,7 @@ OL,24, APrevious  BNext  CMore art   FArchive
 FL,200,204,500,200,0,100
 PN,20303
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]V00p00 0 S `p||p0pp|||p   G H E R E , 
@@ -94,7 +93,7 @@ OL,24, APrevious  BNext  CMore art   FArchive
 FL,200,204,500,200,0,100
 PN,20304
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]W                                `    
@@ -124,7 +123,7 @@ OL,24, APrevious  BNext  CMore art   FArchive
 FL,200,204,500,200,0,100
 PN,20305
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]V`~?'##+o/# "#/} 8d                
@@ -154,7 +153,7 @@ OL,24, APrevious  BNext  CMore art   FArchive
 FL,200,204,500,200,0,100
 PN,20306
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T `      ` `|t`tp `t x|tVh,0p   DEST. 
@@ -184,7 +183,7 @@ OL,24, APrevious  BNext  CMore art   FArchive
 FL,200,204,500,200,0,100
 PN,20307
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]Q              p         p            

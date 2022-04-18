@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P539.tti
 CT,8,T
 PN,53901
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,WG1/4 
@@ -33,7 +33,7 @@ OL,24,AChrisTBTelevisionCUnsatisfactoryFIndex
 FL,540,538,537,530,100,100
 PN,53902
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W///o///ws;|/8x]D             G\2/4 
@@ -62,7 +62,7 @@ OL,24,AChrisTBTelevisionCUnsatisfactoryFIndex
 FL,540,538,537,530,100,100
 PN,53903
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,Wtpp~|dx~G3/4 
@@ -91,7 +91,7 @@ OL,24,AChrisTBTelevisionCUnsatisfactoryFIndex
 FL,540,538,537,530,100,100
 PN,53904
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,W]AI wanna get on      W\wsss|~|jG4/4 

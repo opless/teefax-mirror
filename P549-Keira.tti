@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P549-Keira.tti
 CT,8,T
 PN,54901
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q       80 R(xx8                        
@@ -33,7 +33,7 @@ OL,23,Q           ############!
 FL,540,540,540,540,0,100
 PN,54902
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V           j U`         0              

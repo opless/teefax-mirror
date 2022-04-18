@@ -3,7 +3,7 @@ DS,inserter
 SP,J:\peter\teefax\P410-OneShowLinks.tti
 PN,41001
 SC,0001
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
@@ -20,7 +20,6 @@ OL,10,Fcontributors offer reports relating to
 OL,11,Fsuch subjects as history, wildlife,    
 OL,12,Fconsumer affairs, and health and       
 OL,13,Fmedicine.                              
-OL,14,F                                       
 OL,15,CFACEBOOK:                              
 OL,16,Fhttps://www.facebook.com/bbctheoneshow/
 OL,17,CINSTAGRAM:                             
@@ -33,7 +32,7 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41002
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
@@ -61,7 +60,7 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41003
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
@@ -91,7 +90,7 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41004
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
@@ -110,14 +109,13 @@ OL,14, of surreal characters.
 OL,16, Teefax has a couple of examples but    
 OL,17, Turner the Worm couldn't come because  
 OL,18, he was sick.                           
-OL,19,C                                       
 OL,20,CM The Adventures of 4-T........184     
 OL,22,CM Digitiser....................470     
 OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41005
 SC,0005
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
@@ -145,7 +143,7 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41006
 SC,0006
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
@@ -176,7 +174,7 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41007
 SC,0007
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S

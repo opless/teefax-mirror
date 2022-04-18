@@ -3,7 +3,7 @@ DS,inserter
 CT,20,T
 PN,18901
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R/}P   RhPR4P     R`P          S|lx4P
@@ -15,10 +15,8 @@ OL,6, BHi everyone! Your favourite angry beer
 OL,7, Bman Jonno here! I will solve all yourP
 OL,8, Bdrinking dilemmas here. Here's theP   
 OL,9, Bfirst one. Be brave!P                 
-OL,10,                                        
 OL,11, F"I saw a naughty pumpclip in my localP
 OL,12, Ftoday. What do I do?"EM.Cole, LondonP 
-OL,13,                                        
 OL,14, EJONNO SAYS :B Easy one this. Go to the
 OL,15, Bbarman and INSIST he removes such evil
 OL,16, Band exploitative material from his bar
@@ -33,7 +31,7 @@ OL,24, ACraft Bars  BPubs  CWhisky FA-Z Index
 FL,100,100,100,100,100,100
 PN,18902
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R/}P   RhPR4P     R`P          S|lx4P
@@ -48,7 +46,6 @@ OL,9,P          P          P
 OL,10,F "I ran a 'fave breweries' poll on     
 OL,11,F Twitter and people were rude about it.
 OL,12,F How do I deal with this?"ESteve H.  P 
-OL,13,P                                       
 OL,14,E JONNO SAYS:BThe point of polls is     
 OL,15,B generate discussion, Steve. Differing 
 OL,16,B opinions can cause heated exchanges.  
@@ -63,7 +60,7 @@ OL,24, ACraft Bars  BPubs  CWhisky FA-Z Index
 FL,100,100,100,100,100,100
 PN,18903
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R/}P   RhPR4P     R`P          S|lx4P
@@ -78,7 +75,6 @@ OL,9,P          P          P
 OL,10,F "Some blogger drank a beer I helped   
 OL,11,F brew and called me a very rude name on
 OL,12,F Untapp'd. How do I cope?"EN.Witheld P 
-OL,13,P                                       
 OL,14,E JONNO SAYS:BThis sort of thing is just
 OL,15,B bad manners, so it's important to give
 OL,16,B a proportionate response. Tell your   
@@ -93,7 +89,7 @@ OL,24, ACraft Bars  BPubs  CWhisky FA-Z Index
 FL,100,100,100,100,100,100
 PN,18904
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R/}P   RhPR4P     R`P          S|lx4P
@@ -108,7 +104,6 @@ OL,9,F "A really big beer festival hasn't
 OL,10,F ordered any beer from me despite me   
 OL,11,F winning awards and stuff. I cannot   P
 OL,12,F figure out why. What now?"EM.Arble  P 
-OL,13,P                                       
 OL,14,E JONNO SAYS:BLooking at this from a    
 OL,15,B dispassionate POV, it's clear to me   
 OL,16,B that they HATE you. Have you CALLED   

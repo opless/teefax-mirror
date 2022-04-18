@@ -3,37 +3,22 @@ DS,inserter
 CT,20,T
 PN,16501
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V  Zh|h4           ,$        h||4,$h|   
 OL,2,S  Zj0?jo5o55?j?5 j| 5o%  
 OL,3,Q  Zjj5wsjs1z555ju5 j  5j   
 OL,4,U  Z"#"!###"##!7#!#!#!#bs5 "#  #!"#   
-OL,5,F                                       
-OL,6,F                                       
-OL,7,F                                       
-OL,8,F                                       
-OL,9,F                                       
 OL,10,BMC  H   O G+F78FO G--> E55ECOG+F52FH O 
 OL,11,BMC  H   O G+F78FO G--> E55ECOG+F52FH O 
 OL,12,B  55 104 6      F2          E2     F2  
-OL,13,F                                       
 OL,14,F BXFAT     FXAIR      EXGAS   FXWATER  
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
 OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16502
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,SZ||4||4|h||h||h4||4||4ht t thhQ~t0   
@@ -63,12 +48,11 @@ OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16503
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W         j  <lh,$76444 h  <,           
 OL,2,W         jp0wsbs55555upjp0s{           
-OL,3,W                                       
 OL,4,W*//%    j?//    *//% //} j5 //}  
 OL,5,W     || j}|4         ||? j5 ||?  
 OL,6,W        jupp         "ot j5      
@@ -93,12 +77,11 @@ OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16504
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W         j  <lh,$76444 h  <,           
 OL,2,W         jp0wsbs55555upjp0s{           
-OL,3,W                                       
 OL,4,W*//%    j?//    *//% //} j5 //}  
 OL,5,W     || j}|4         ||? j5 ||?  
 OL,6,W        jupp         "ot j5      
@@ -123,12 +106,11 @@ OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16505
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W         j  <lh,$76444 h  <,           
 OL,2,W         jp0wsbs55555upjp0s{           
-OL,3,W                                       
 OL,4,W*//%    j?//    *//% //} j5 //}  
 OL,5,W     || j}|4         ||? j5 ||?  
 OL,6,W        jupp         "ot j5      
@@ -153,7 +135,7 @@ OL,24, AOnTheQT    BCharts    CHarley   FQuiz@
 FL,160,163,168,169,100,100
 PN,16506
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,RZ||0||4h||h||h||  ||4 h||h||h||U`~t

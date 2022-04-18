@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P537.tti
 CT,8,T
 PN,53701
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  1/9   
@@ -33,7 +33,7 @@ OL,24,ATelevision  BSabrina  CWeather  FIndex
 FL,538,539,531,100,0,100
 PN,53702
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  2/9   
@@ -59,7 +59,7 @@ OL,24,ATelevision  BSabrina  CWeather  FIndex
 FL,538,539,531,100,0,100
 PN,53703
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  3/9   
@@ -85,7 +85,7 @@ OL,24,ATelevision  BSabrina  CWeather  FIndex
 FL,538,539,531,100,0,100
 PN,53704
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  4/9   
@@ -111,7 +111,7 @@ OL,24,ATelevision  BSabrina  CWeather  FIndex
 FL,538,539,531,100,0,100
 PN,53705
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  5/9   
@@ -137,7 +137,7 @@ OL,24,ATelevision  BSabrina  CWeather  FIndex
 FL,538,539,531,100,0,100
 PN,53706
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  6/9   
@@ -162,12 +162,11 @@ OL,19,CIt's a snow machine/wig/tacky gift
 OL,20,Csent in by somebody who needed the     
 OL,21,Cnear-free advertising!"            B   
 OL,22,B]DMTelevision News             A290    
-OL,23,D]G                                  1  
 OL,24,ATelevision  BSabrina  CWeather  FIndex 
 FL,538,539,531,100,0,100
 PN,53707
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  7/9   
@@ -192,12 +191,11 @@ OL,19,Fsay we had to follow the frogs and
 OL,20,Ftoads?"  BA classic, can't wait for    
 OL,21,Bthe next episode.                      
 OL,22,D]CMPiss-takes of recent shows  P281   \
-OL,23,A]Dxxxxxx                               
 OL,24,ATelevision  BSabrina  CWeather  FIndex 
 FL,538,539,531,100,0,100
 PN,53708
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  8/9   
@@ -227,7 +225,7 @@ OL,24,ATelevision  BSabrina  CWeather  FIndex
 FL,538,539,531,100,0,100
 PN,53709
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                                  9/9   
@@ -243,7 +241,6 @@ OL,10,      V5ow5huj   z5j5  `x!
 OL,11,      V+! /!*##"'   "' +"!  "'!         
 OL,12,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,13,GM TELEVISION NEWS                290   
-OL,14,  C                                     
 OL,15,R,,,,,,,,,,,,,,,,,,|,,,,,,,,,,,,,,,,,,, 
 OL,16,FMain ContentsC101RFHighlights    C102 
 OL,17,FNews         C110RFWeather       C140 

@@ -4,7 +4,7 @@ SP,E:\_ Teefax\P242.tti
 CT,10,C
 PN,24201
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U         xqw*&m*d  A                   
@@ -34,7 +34,7 @@ OL,24,A Back Q"##"# #!###B Next CArt FArchive
 FL,225,247,500,200,0,100
 PN,24202
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W`ppppppppppp0          `ppppppppppx'##m

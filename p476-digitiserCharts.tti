@@ -4,7 +4,7 @@ SP,J:\peter\teefax\p476-digitiserCharts.tti
 CT,12,T
 PN,47601
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,       DD]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,R?/%}|4|||4||h}h|||Q+t W    ,####+$'
@@ -29,12 +29,11 @@ OL,19,Bsequence. Surely one doesn't have to
 OL,20,Bconcentrate to be camp!"               
 OL,21,G```````````````````````````````````````
 OL,22,D]CM  WHERE THE MILD THINGS ARE p480    
-OL,23,F                                       
 OL,24,AIndex   BFeature   CLetters   FBack    
 FL,470,473,474,475,8ff,100
 PN,47602
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,        D]CDigitextG\%%a %%b%d C%H:%M:%S
 OL,1,R?/%}|4|||4||h}h|||Q+t +t +t +t +
@@ -52,10 +51,8 @@ OL,14,E         7BGumbo Kayakk
 OL,15,E         8BMungo Ajarr                 
 OL,16,E         9BMayo Vass                   
 OL,17,E        10BRingo Starr                 
-OL,18,E                                       
 OL,19,G    Revolver censored by PLEP          
 OL,21,G---------------------------------------
 OL,22,A]CM   POP-POP...POPOPOPOPOPOP? p590    
-OL,23,F                                       
 OL,24,AIndex   BFeature   CLetters   FBack    
 FL,470,473,474,475,8ff,100

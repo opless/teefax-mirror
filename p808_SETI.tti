@@ -4,7 +4,7 @@ SP,G:\SETI\PROMO ARTWORK\p808_SETI.tti
 CT,8,T
 PN,80801
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]C     . S`C .  StC  .   Sx C .        
@@ -33,7 +33,7 @@ OL,23,D]W+' +' ' *' *'!*!'  +!'*!+!  %*"* *&
 FL,808,808,808,808,100,800
 PN,80802
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R    0                                  
@@ -62,7 +62,7 @@ OL,23,R ####################################!
 FL,808,808,808,808,100,800
 PN,80803
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,^T `~]DFTELETEXT GOLDEN TAPE   T  t\  
@@ -91,7 +91,7 @@ OL,23,^U "o]G Teletextual IntelligenceU\'
 FL,808,808,808,808,100,800
 PN,80804
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,  G          CThe Search for            
@@ -120,7 +120,7 @@ OL,23,Sp+|po%z' +|2y?S2}{tk}7z kt}zuS~u|
 FL,808,808,808,808,100,800
 PN,80805
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]Wppp`0`0ppp  p      ppp               
@@ -149,7 +149,7 @@ OL,23,D]FTELETEXT at the edge of the Universe
 FL,808,808,808,808,100,800
 PN,80806
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R  x4x5 ~ h0  U `>c$ plw+}2"){}3fbd    
@@ -178,7 +178,7 @@ OL,23,V  C]AGirls may not actually be Smurfs
 FL,808,808,808,808,100,800
 PN,80807
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W`|||||||||||||||||||||||||||||||||||0  
@@ -207,7 +207,7 @@ OL,23,F]D*Information approx. 15.3% accurate
 FL,808,808,808,808,100,800
 PN,80808
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ubw#(ow ps?#ap{|?/, ""ss-$"o>y9S"7k
@@ -231,12 +231,11 @@ OL,18,T22222W7=|r3! ~1FICE COOL HOLS Wb?y'x
 OL,19,T``````W%==ww$hv;/||||||||||||||||7.ary
 OL,20,W        !/'--!*///,,&###########),.//'.
 OL,21,A]MGAntarcticaC/GKerguelenC/GSvalbard   
-OL,22,W                                       
 OL,23,FDELUXE! PREMIUM!V$|h<8|h|dl|dl|$||h|h$ 
 FL,808,808,808,808,100,800
 PN,80809
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,E]G*Pixel palm treesRZppDGnot included. 
@@ -265,7 +264,7 @@ OL,23,C]A  Stereotypical teletext vacations
 FL,808,808,808,808,100,800
 PN,80810
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]U  4R |l0 |,(l<$   R |0x4h4h4h4 h<,   
@@ -294,7 +293,7 @@ OL,23,Uzgx?#oo?!+4         ztpppp|!
 FL,808,808,808,808,100,800
 PN,80811
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V    h0  h 5+5+4   p0    +4k4) )tTk
@@ -323,7 +322,7 @@ OL,23,V    !%0 sx%   >>Tjo@HORSENBURGER~
 FL,808,808,808,808,100,800
 PN,80812
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G .   .    V*tl~|*2}ppp%  Wb{wss|ppG   
@@ -352,7 +351,7 @@ OL,23,G.   .       .   . .W #m0W#/w9p G.   .
 FL,808,808,808,808,100,800
 PN,80813
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?Q*>"    2:44~5u o}y`Q'uTk
@@ -381,11 +380,10 @@ OL,23,T%Qr71{!6@HORSENBURGERj:4}|0")$V~?y )
 FL,808,808,808,808,100,800
 PN,80814
 SC,0014
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R@HORSENBURGER                          
-OL,2,R                                       
 OL,3,R              `||/ss|p                
 OL,4,W           qR`+o?/wostW      p      
 OL,5,W        p &Rhg|risy;s{}p0W(2c )     
@@ -410,7 +408,7 @@ OL,23,S h}t+t"+tR      #s-!Qx5S}j;}0
 FL,808,808,808,808,100,800
 PN,80815
 SC,0015
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?Q`<|o="xg|}|o~tTk@
@@ -439,7 +437,7 @@ OL,23,T?Q`.g/,n4Tk5Qh "q|'y{Tk
 FL,808,808,808,808,100,800
 PN,80816
 SC,0016
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W(  Tz W=Rh?4+t#xn%`yWkT5W=onT5@
@@ -468,7 +466,7 @@ OL,23,Q?S~?jQj5oSkU*to4~?`7Q}S+ek///Q
 FL,808,808,808,808,100,800
 PN,80817
 SC,0017
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D@HORSENBURGER           S $            
@@ -497,7 +495,7 @@ OL,23,Q    W0     V$ WfR`|<Tpppppx|pp>/o/Rn'+
 FL,808,808,808,808,100,800
 PN,80818
 SC,0018
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T@HORSENBURGER7V`<$x|}|t0To
@@ -526,7 +524,7 @@ OL,23,S#s{s3Wh}ts3$Sp||||~w/#W/a|V;S"'mt
 FL,808,808,808,808,100,800
 PN,80819
 SC,0019
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D@ZXGUESSER                             
@@ -550,10 +548,9 @@ OL,23,R
 FL,808,808,808,808,100,800
 PN,80820
 SC,0020
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,W                                       
 OL,2,W                      ?'##+o       
 OL,3,W                   GQW7      k       
 OL,4,W                          p0         
@@ -575,11 +572,10 @@ OL,19,W   x'  +t    #+///#!  xt
 OL,20,W   m0   z            j5            
 OL,21,W    +tp>!            *%G08391      
 OL,22,W     "#               "//!             
-OL,23,W                                       
 FL,808,808,808,808,100,800
 PN,80821
 SC,0021
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G       R p|~}|p p|||p G *  D@
@@ -608,7 +604,7 @@ OL,23,T]GI am Blaarg, Leader of Teletextia!!!
 FL,808,808,808,808,100,800
 PN,80822
 SC,0022
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T    `~//'##/o?/'####+}|p      @
@@ -637,7 +633,7 @@ OL,23,W          U!))=?Qj|vsws{s{ssw{{|U*Qo
 FL,808,808,808,808,100,800
 PN,80823
 SC,0023
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ts#cs+/
@@ -666,7 +662,7 @@ OL,23,T~ue      +}p `x}p `x?@ILLARTERATE
 FL,808,808,808,808,100,800
 PN,80824
 SC,0024
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T}|tp"#/3# `p||~@ILLARTERATE#/
@@ -695,7 +691,7 @@ OL,23,Vx/'#c;,,dpx|tp,,,####`p3//'#),,,,|pssR"
 FL,808,808,808,808,100,800
 PN,80825
 SC,0025
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ts|,,  ,.o/-.//,,,.///////,||||||<
@@ -724,7 +720,7 @@ OL,23,U{yww{w{~5GTo Water ClosetUj1s1{{~
 FL,808,808,808,808,100,800
 PN,80826
 SC,0026
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T"+/ltp||.'+-Ua aT+'/o3+,"+@ILLARTERATE
@@ -753,7 +749,7 @@ OL,23,Uo~|}trpwsuzupupzpsqsqsqprp~vvr~
 FL,808,808,808,808,100,800
 PN,80827
 SC,0027
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,BThe Great LordV `pppp    D@ILLARTERATE 
@@ -782,7 +778,7 @@ OL,23,Vf>!x7Wto::?:zeuV#o?/#!Wh}ik76tVt m9
 FL,808,808,808,808,100,800
 PN,80828
 SC,0028
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D.........V p<.######+///w;o|pD.......
@@ -811,7 +807,7 @@ OL,23,F mouth cannon!S|tpppp|4D-erate
 FL,808,808,808,808,100,800
 PN,80829
 SC,0029
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]@J@'L///%  ####////                   
@@ -840,7 +836,7 @@ OL,23,U'!  4j5
 FL,808,808,808,808,100,800
 PN,80830
 SC,0030
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S]^ZTgYg}Rg}Zg{yU] WppsYs{SZ3# W]  
@@ -869,7 +865,7 @@ OL,23,W]^                       FJellica
 FL,808,808,808,808,100,800
 PN,80831
 SC,0031
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?###+'#o
@@ -898,7 +894,7 @@ OL,23,R]ADEEP SPACE 9 T]V$  ( W\#! T] EJellica
 FL,808,808,808,808,100,800
 PN,80832
 SC,0032
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, W`|0  V 0 S( |   (= W( V 0  " W  `"Sh4
@@ -927,7 +923,7 @@ OL,23, S n$ V"   W+' 0 V(W ( V!`" JELLICA "!
 FL,808,808,808,808,100,800
 PN,80833
 SC,0033
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ws, p EJELLICAW    Vbb1$p0   !  (    0  
@@ -956,7 +952,7 @@ OL,23,W  " GPLANET 19GDIDN'T INTERESTWME MUCH
 FL,808,808,808,808,100,800
 PN,80834
 SC,0034
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, Oo-Mox   Q]T`~o~s||st0 \   GTime 
@@ -985,7 +981,7 @@ OL,23,               Q]T#///#  \
 FL,808,808,808,808,100,800
 PN,80835
 SC,0035
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]W ,|,,Pp||t   W $,,,  #  ###-,,,|, (  
@@ -1014,7 +1010,7 @@ OL,23,    Your  ship awaits!   R]F/// DJellica
 FL,808,808,808,808,100,800
 PN,80836
 SC,0036
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]R    ///##  Uw15{f$wn15w1 S+w+//'#    
@@ -1043,7 +1039,7 @@ OL,23,R]Q/////////////////////////////////////
 FL,808,808,808,808,100,800
 PN,80837
 SC,0037
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q'Sx||||!   ` k
@@ -1072,7 +1068,7 @@ OL,23,CARLOS
 FL,808,808,808,808,100,800
 PN,80838
 SC,0038
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W Z$Y       V  `ppp    WZ (           
@@ -1101,7 +1097,7 @@ OL,23,T]V EAndy Jenkinson
 FL,808,808,808,808,100,800
 PN,80839
 SC,0039
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S`,,,,,,,,,,,,,,,0 Tx]        Qh4P "#o
@@ -1130,7 +1126,7 @@ OL,23,                      B DAndy Jenkinson
 FL,808,808,808,808,100,800
 PN,80840
 SC,0040
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,WZV`     W(  YW`|}UZ Y$         V `U   
@@ -1159,7 +1155,7 @@ OL,23,WZ     Y#mtZDAndy JenkinsonAG
 FL,808,808,808,808,100,800
 PN,80841
 SC,0041
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]W|,,,,,,,,,,,4\Rh!  8$         iU]W'J
@@ -1188,7 +1184,7 @@ OL,23,R]W%\Q~Q50   j}
 FL,808,808,808,808,100,800
 PN,80842
 SC,0042
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R  xp"m0V h0h7) x,G   *    DIllarterate 
@@ -1217,7 +1213,7 @@ OL,23,G            . AOFU*}25%k"   / !G
 FL,808,808,808,808,100,800
 PN,80843
 SC,0043
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?/ss|$Sp,p0,f9T#/wo
@@ -1246,7 +1242,7 @@ OL,23,T?Q`60ft$0cxn9yxmtdp~zn12}:v6?T+}|
 FL,808,808,808,808,100,800
 PN,80844
 SC,0044
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R p`p p `0p0 Q0 " 2 2>8)y-w}ux/g{t  
@@ -1275,7 +1271,7 @@ OL,23,W             R`~}tssx~}
 FL,808,808,808,808,100,800
 PN,80845
 SC,0045
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q ####################ppppppppppppppp 
@@ -1304,7 +1300,7 @@ OL,23,Q /,,,,,,,,,,,,,,,,,,,,/###############
 FL,808,808,808,808,100,800
 PN,80846
 SC,0046
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W      x|t T?Wi               Tk$0
@@ -1333,7 +1329,7 @@ OL,23,W  # "!"#!  #  "!"!"#!"## ##"#!# "!"#!
 FL,808,808,808,808,100,800
 PN,80847
 SC,0047
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W        V         ppppp0               
@@ -1362,7 +1358,7 @@ OL,23,W   px~wpx~?/#!   T###!#!W(~/#     !
 FL,808,808,808,808,100,800
 PN,80848
 SC,0048
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D@       V j B  EARTHLINGS!! Vj         
@@ -1391,7 +1387,7 @@ OL,23,W         R"o'     ##+/- B   remotes!
 FL,808,808,808,808,100,800
 PN,80849
 SC,0049
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W          "     Vppppp   W   G.W     ` 
@@ -1420,7 +1416,7 @@ OL,23,W $  Rp|v{ssssssssssssssss{wa~
 FL,808,808,808,808,100,800
 PN,80850
 SC,0050
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qx|| CARLOSTZ    ########+
@@ -1449,7 +1445,7 @@ OL,23,      Sjuz5=~ pj=n5j54j5 TZ
 FL,808,808,808,808,100,800
 PN,80851
 SC,0051
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T                                     
@@ -1478,7 +1474,7 @@ OL,23,W]T
 FL,808,808,808,808,100,800
 PN,80852
 SC,0052
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T{0 h                 `0   `0         
@@ -1507,12 +1503,10 @@ OL,23,W]T` ` `oh`:h./o,+ky'$+aabv""" 1$`sylq(
 FL,808,808,808,808,100,800
 PN,80853
 SC,0053
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Minecraft Creeper                       
-OL,2,R                                       
-OL,3,R                                       
 OL,4,R     `ppppppppp                        
 OL,5,R     j//?/o                        
 OL,6,R     j  5 j                        
@@ -1531,12 +1525,10 @@ OL,18,R        j5
 OL,19,R        j5                        
 OL,20,R      ###  "##!                        
 OL,21,Neo Howard                              
-OL,22,R                                       
-OL,23,R                                       
 FL,808,808,808,808,100,800
 PN,80854
 SC,0054
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R      x|~}|tpp                      
@@ -1565,7 +1557,7 @@ OL,23,R             "+////////#!
 FL,808,808,808,808,100,800
 PN,80855
 SC,0055
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]V                                     
@@ -1594,7 +1586,7 @@ OL,23,T]V
 FL,808,808,808,808,100,800
 PN,80856
 SC,0056
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]R   ""`h~n|rh>o{% `*`|t *           
@@ -1623,7 +1615,7 @@ OL,23,W]R   !4 (   0 $   h l      h   `$
 FL,808,808,808,808,100,800
 PN,80857
 SC,0057
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T                      5              
@@ -1652,7 +1644,7 @@ OL,23,W]T
 FL,808,808,808,808,100,800
 PN,80858
 SC,0058
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]Q                                     
@@ -1681,7 +1673,7 @@ OL,23,W]Q           j            j!
 FL,808,808,808,808,100,800
 PN,80859
 SC,0059
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]Q                                     
@@ -1710,7 +1702,7 @@ OL,23,W]Q
 FL,808,808,808,808,100,800
 PN,80860
 SC,0060
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U,,,lppp8,,ppp8,,dpp,,,,,p,,##),ppppx###
@@ -1739,7 +1731,7 @@ OL,23,E  U  j   up j  j ")p jpp  h   Elizzie
 FL,808,808,808,808,100,800
 PN,80861
 SC,0061
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]Q                      `p0    h       
@@ -1768,7 +1760,7 @@ OL,23,R]Q              ##   ),#!
 FL,808,808,808,808,100,800
 PN,80862
 SC,0062
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V       "           $          !     ` p
@@ -1797,7 +1789,7 @@ OL,23,V                     $&      $
 FL,808,808,808,808,100,800
 PN,80863
 SC,0063
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]S   `pp0                              
@@ -1826,7 +1818,7 @@ OL,23,U]S
 FL,808,808,808,808,100,800
 PN,80864
 SC,0064
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]Q        "j                           
@@ -1855,7 +1847,7 @@ OL,23,R]Q       SAM CROFT             j ,
 FL,808,808,808,808,100,800
 PN,80865
 SC,0065
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]W            h,,,                     
@@ -1884,7 +1876,7 @@ OL,23,R]W    `8h!                     i +p
 FL,808,808,808,808,100,800
 PN,80866
 SC,0066
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]S    h-((,,-,4                        
@@ -1913,7 +1905,7 @@ OL,23,T]S
 FL,808,808,808,808,100,800
 PN,80867
 SC,0067
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]T                                     
@@ -1942,7 +1934,7 @@ OL,23,C]T
 FL,808,808,808,808,100,800
 PN,80868
 SC,0068
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G]Q                                     
@@ -1971,7 +1963,7 @@ OL,23,G]P               A@Hans`BanansLOL
 FL,808,808,808,808,100,800
 PN,80869
 SC,0069
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U
@@ -2000,7 +1992,7 @@ OL,23,U5Tj `WupppT' j Uj
 FL,808,808,808,808,100,800
 PN,80870
 SC,0070
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S mzjx'                        R`lx,    
@@ -2029,10 +2021,9 @@ OL,23,W             R* * -%%%%*$%%*  ******",
 FL,808,808,808,808,100,800
 PN,80871
 SC,0071
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,W                                       
 OL,2,U xt|0                             xt`0 
 OL,3,U 5                            * 
 OL,4,U "o'                  ||      0   k' 
@@ -2058,7 +2049,7 @@ OL,23,W                            U   #
 FL,808,808,808,808,100,800
 PN,80872
 SC,0072
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T
@@ -2087,19 +2078,13 @@ OL,23,T
 FL,808,808,808,808,100,800
 PN,80873
 SC,0073
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,W                                       
-OL,2,W                                       
 OL,3,W  j 7k x0t0 j  j 4h,  h  =05           
 OL,4,W  j #k * %% j8)z 5jr4`&d 5)5           
-OL,5,W                                       
 OL,6,W  "k# 8)0j  j =05   h#1 5 5 5j#i ws 6# 
 OL,7,W   j  )8!j8)z 5)5   jpz up5 5jp& up r; 
-OL,8,W                                       
-OL,9,W                                       
-OL,10,W                                       
 OL,11,W           V  `8&##,p                  
 OL,12,W           V  5  91  5                 
 OL,13,W          V   )0    8!                 
@@ -2112,11 +2097,10 @@ OL,19,W          V "#!  j   ##
 OL,20,W           V     j                     
 OL,21,W            V    *                     
 OL,22,W                            FRosa      
-OL,23,W                                       
 FL,808,808,808,808,100,800
 PN,80874
 SC,0074
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W
@@ -2145,7 +2129,7 @@ OL,23,W
 FL,808,808,808,808,100,800
 PN,80875
 SC,0075
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W
@@ -2174,7 +2158,7 @@ OL,23,W
 FL,808,808,808,808,100,800
 PN,80876
 SC,0076
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,E]W                                     
@@ -2203,7 +2187,7 @@ OL,23,E]W
 FL,808,808,808,808,100,800
 PN,80877
 SC,0077
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U
@@ -2232,12 +2216,9 @@ OL,23,U
 FL,808,808,808,808,100,800
 PN,80878
 SC,0078
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,W                                       
-OL,2,W                                       
-OL,3,W                                       
 OL,4,W                                     
 OL,5,W                                  
 OL,6,W                                
@@ -2257,11 +2238,10 @@ OL,19,W                               
 OL,20,W         AI LOVE MAKEUP!       W     
 OL,21,W                                     
 OL,22,W                                     
-OL,23,W                                       
 FL,808,808,808,808,100,800
 PN,80879
 SC,0079
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]                                      
@@ -2290,7 +2270,7 @@ OL,23,R]
 FL,808,808,808,808,100,800
 PN,80880
 SC,0080
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T
@@ -2319,7 +2299,7 @@ OL,23,R
 FL,808,808,808,808,100,800
 PN,80881
 SC,0081
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Wpppppppppppppppppppppppppppppppppppppp 
@@ -2338,7 +2318,7 @@ OL,16,        Wh4GWhite
 FL,808,808,808,808,100,800
 PN,80882
 SC,0082
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G]T                                     
@@ -2367,7 +2347,7 @@ OL,23,G]T
 FL,808,808,808,808,100,800
 PN,80883
 SC,0083
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]                                     \
@@ -2395,7 +2375,7 @@ OL,22,D]                                     \
 FL,808,808,808,808,100,800
 PN,80884
 SC,0084
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]S                                     
@@ -2424,10 +2404,9 @@ OL,23,T]S#!           "###//-
 FL,808,808,808,808,100,800
 PN,80885
 SC,0085
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,R                                       
 OL,2,R           ppppp  ppp                  
 OL,3,R         x~/s{}s;o?|0              
 OL,4,R       x~w}~/'#   ##+/st             
@@ -2453,7 +2432,7 @@ OL,23,U  .//////////////////////////$S
 FL,808,808,808,808,100,800
 PN,80886
 SC,0086
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T>>>>~>>>>>>>>>~~>>>>'######/~~#####
@@ -2482,7 +2461,7 @@ OL,23,DP   O   L   Y   D   U   C    K   S   +
 FL,808,808,808,808,100,800
 PN,80887
 SC,0087
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,DHorsenburgerT-R9T?WxT?Rx'x'Wx?RjjT
@@ -2511,7 +2490,7 @@ OL,23,TRSjUkSm}{R04U|S+}t"/}tU(%/S}Wm0!WUx&
 FL,808,808,808,808,100,800
 PN,80888
 SC,0088
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W??//o/////?/o
@@ -2540,7 +2519,7 @@ OL,23,W}!R5W5R$+../')Wj}R*W|Gpievspie
 FL,808,808,808,808,100,800
 PN,80889
 SC,0089
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W0$4!1%5``0d  U % 5)08!5 % S #!    %%!! 
@@ -2569,7 +2548,7 @@ OL,23,U x't   `6m0  S |400$000000V 5Q`l}dW0p`0
 FL,808,808,808,808,100,800
 PN,80890
 SC,0090
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Uhi7G    *       V`~}0G       .    Uj55 

@@ -3,7 +3,7 @@ DS,inserter
 CT,20,T
 PN,37101
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?}bs`pp0s1z0s1ppp`pp0pp     Tp,|?!
@@ -28,46 +28,35 @@ OL,19,G                     Sk?W*m|&
 OL,20,G----------------------------------1/4--
 OL,21,B    Main IndexF300BGeneratorF340       
 OL,22,B]DMWIN! WIN! WIN!..FUN & GAMES p350    
-OL,23,B]DMWIN! WIN! WIN!..FUN & GAMES p350    
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,Digitiser - 1 Jan 1993
 DS,inserter
 PN,37102
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?}bs`pp0s1z0s1ppp`pp0ppQ     x5      
 OL,2,R5jj755k!5wsj{57Q,,,,.!5h,,,,$
 OL,3,R}?jj}55j 5|~j|45Q      ?!     
 OL,4,G----R(,/%G-----------------------------
-OL,5,F                                       
 OL,6,BCheck out what DIGITISER has in store  
 OL,7,Bfor you:                               
-OL,8,F                                       
 OL,9,AFConsole reviews on weekdays, PC and  
 OL,10,F  arcades at the weekend               
-OL,11,A                                       
 OL,12,AFTips every weekday                   
-OL,13,A                                       
 OL,14,AFUnbeatable news and features         
-OL,15,A                                       
 OL,16,AFDatabank for your questions          
-OL,17,A                                       
 OL,18,AFWeekend letters page                 
-OL,19,A                                       
 OL,20,G----------------------------------2/4--
 OL,21,B    GeneratorF340 BFun & GamesF350     
 OL,22,B]DMWHO IS TURNER THE WORM?..SEE p348   
-OL,23,B]DMWHO IS TURNER THE WORM?..SEE p348   
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,Digitiser - 1 Jan 1993
 DS,inserter
 PN,37103
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?}bs`pp0s1z0s1ppp`pp0ppQ  h~|4    
@@ -92,14 +81,12 @@ OL,19,               Ql>**Tz/'+W+4k
 OL,20,G----------------------------------3/4--
 OL,21,B       Pen PalsF347B GossipF325        
 OL,22,B]DM  WILL YOU BE BAMBOOZLED?..p358     
-OL,23,B]DM  WILL YOU BE BAMBOOZLED?..p358     
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,Digitiser - 1 Jan 1993
 DS,inserter
 PN,37104
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]GADVERTISEMENT                        
@@ -110,20 +97,13 @@ OL,5,R]W   ]TH*%*-/*%    ,.%/,*-/*%/*-$IR]
 OL,6,R]
 OL,7,G     HIGHEST SCORE WINS EVERY WEEK!    
 OL,8,M]A  SUPER NINTENDO +HNINTENDO SCOPE    
-OL,9,M]A  SUPER NINTENDO +HNINTENDO SCOPE    
 OL,10,M]A+ STREETFIGHTER II + 6 EXTRA GAMES   
-OL,11,M]A+ STREETFIGHTER II + 6 EXTRA GAMES   
 OL,12,G]DM           0891 600 172             
-OL,13,G]DM           0891 600 172             
 OL,14,D]GM         SEGA MEGADRIVE +           
-OL,15,D]GM         SEGA MEGADRIVE +           
 OL,16,D]GM     HTHE MENACERI+ SONIC II        
-OL,17,D]GM     HTHE MENACERI+ SONIC II        
 OL,18,D]GM           0891 600 185             
-OL,19,D]GM           0891 600 185             
 OL,20,B  THESE GAMES MAY INVOLVE A LONG CALL  
 OL,21,B  CABLECOM PRODUCTIONS,LONDON W1X 7RQ  
 OL,22,BCharges/min: 36p cheap/48p other times 
 OL,23,B   You will be told of other services  
-OL,24,                                        
 FL,0,0,0,0,100,100

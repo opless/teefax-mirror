@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P247.tti
 CT,15,C
 PN,24701
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2, R/}j?/h?/j?o4/%txh?o40h?o4oh?/   
@@ -33,7 +33,7 @@ OL,24,                        F
 FL,242,269,800,200,0,100
 PN,24702
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,U//h?o4~/-*o?%~/}h?/%~/-h?o4/}j?/%Q  
@@ -41,7 +41,6 @@ OL,3,U, j=n5   j5   +o4  j5j5|?j?/ Q
 OL,4,U/  *%*%+/' *% +/'*//!+/'"//!/  *//%Q/  
 OL,5,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Q|  
 OL,6,CMTHE ANGEL OF THE NORTH                
-OL,7,C                                       
 OL,8,FIt is a well known fact that The North 
 OL,9,Fruns solely on clockwork - from the    
 OL,10,Fparsley mills to the Parkin mines.     

@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P220.tti
 CT,8,C
 PN,22001
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W                    `f<h'`x||rsssssss3i
@@ -34,7 +34,7 @@ OL,24,AScienceBTech.CEngineeringFArt  EMaths
 FL,209,222,500,200,f,100
 PN,22002
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  Chh:nn.ss
 OL,1,Q  U   Wpx,'cs1,.# R#o  V  Q
@@ -64,12 +64,11 @@ OL,24, APrevious  BNext  CMore art   FArchive
 FL,209,222,500,200,f,100
 PN,22003
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MR]G          THE PEOPLE'S              
 OL,3,MR]G          REPUBLIC OF               
-OL,4,R                                       
 OL,5, R]Q^             ]   R]                
 OL,6, R]Q^           ]W      R]              
 OL,7, R]Q^         ]W jt      R]             

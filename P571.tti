@@ -3,7 +3,7 @@ DS,inserter
 CT,20,T
 PN,57101
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,CVISIT DEVON'S TOP ATTRACTION... V!`Uxg~
@@ -35,7 +35,7 @@ DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57102
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S z=BWHEN YOU JUST NEED A GOUJON...S~t  
@@ -67,7 +67,7 @@ DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57103
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]G               ADVERT                
@@ -93,13 +93,12 @@ OL,20,G++++++++++++++++++++++++++++++Q|
 OL,21,FDer Mega-Catt ist here: Sx?#  Q+7
 OL,22,D-------------C]D"Ja, ist cool!Q\ +o?' 
 OL,23,BMETALL NICHTEN. TECHNO IST DAS KICKING!
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57104
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Sx??tB"Thrrp! I am the LIVING BUM
@@ -131,7 +130,7 @@ DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57105
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,BHAVE YOU NEVER PONDERED THE INNER EGG? 

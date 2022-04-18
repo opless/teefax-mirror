@@ -2,7 +2,7 @@ DE,World Teletext
 CT,10,C
 PN,67601
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,        AERTEL 1 100 Thu 02 Jul 17:22:02
 OL,1,D]             0                        
@@ -29,7 +29,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67602
 SC,0002
-PS,8200
+PS,C200
 RE,0
 OL,0,        199FARDtextGDo 09.07.15G20:13:40
 OL,1,W,,=,,=,,=,,=l|=,/?//?-,}|,=,,=,,=,,=,, 
@@ -58,7 +58,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67603
 SC,0003
-PS,8080
+PS,C080
 RE,0
 OL,0,        500 FFrance3G Ma 07 JulF11:45 11
 OL,1, ]T6!          j/o                      
@@ -88,7 +88,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67604
 SC,0004
-PS,8100
+PS,C100
 RE,0
 OL,26,@idLYo|pdISo|wDKVoxzDKVo|
 OL,1,Th|0h|x}x| x<   FFNRK1GBr|yt i vei      
@@ -102,7 +102,6 @@ OL,8,FTrump varsler oppt|yer uten han.... 108
 OL,9,F16 drept av bombe p} buss.......... 111
 OL,10,FIgjen fly mellom Russland og Tyrkia 112
 OL,11,FMulig frys av oljeproduksjonen..... 113
-OL,12,G                                       
 OL,13,D]G         Sol opp og nedF197          
 OL,14, Siste nytt.F101-104GFilmer p} NRK .F564
 OL,15, News in EnglishF190GV{r ...........F600
@@ -118,7 +117,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67605
 SC,0005
-PS,8200
+PS,C200
 RE,0
 OL,0,        100CZDFtextBDoB09.07.15C20:13:25
 OL,1,D]W`~t                                
@@ -148,7 +147,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67606
 SC,0006
-PS,8090
+PS,C090
 OL,28,@@HA`pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,1,ZQ    j    Tf,9f,9f,9f,9f,9f,9f,9f,9f,9f
 OL,2,ZW   (w=   W`pp0pp `p`p`p`p`p p`0p`0p p 
@@ -175,7 +174,7 @@ OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67607
 SC,0007
-PS,8390
+PS,C390
 OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,26,@jDO^O]kDJToXUOXVo\\O]cOQlDJToYUOXVOXmDJ
 OL,26,AToYUoXVOXnDJTOZUOZVo\]o_eoUoDJTOZUo[VOX
@@ -211,7 +210,7 @@ OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67608
 SC,0008
-PS,8390
+PS,C390
 OL,28,@@nB@pCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
 OL,26,@mDJTO_UOToDCFO_JoWTORqdFMO_SOTuDEJoWyDF
 OL,26,ALO_YO_`oXaoYbo\cOY{dISoUXoXYOXZOYeo^|DL
@@ -244,7 +243,7 @@ OL,24,[AIndex   BNext    CEngineering  FEvents
 FL,670,677,700,800,100,100
 PN,67609
 SC,0009
-PS,8390
+PS,C390
 OL,0,XXXXXXXXChanel 9FNei 02 De\   C hh_nnmss
 OL,1,A]CEl ultimo vidiotext para Repubblica  
 OL,2,A]Sx?/j5  zo0j} j?/j5 V   `&ss3e      

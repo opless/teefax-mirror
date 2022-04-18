@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\501mega_Carlos.tti
 CT,8,T
 PN,50101
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,QssssssssssssssssssssssssssssssW p|g}   
@@ -32,7 +32,7 @@ OL,22,QsWpoufum QsssssssssWj*')%5 Qsssssssss
 FL,100,777,0,0,8ff,100
 PN,50102
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,CM     H EMERGENCY ALERT SYSTEM         
@@ -45,7 +45,7 @@ OL,19,AMHDO NOT GO OUT UNTIL ALL-CLEAR SOUNDED
 FL,100,777,0,0,8ff,100
 PN,50103
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,UcR*V06-)!+4#n&k$#7R75('jS73{5U#a!#+;4"z
@@ -73,7 +73,7 @@ OL,22,U&,(+VS/og8$+<|>R#.+).3)(**>(S-%+!/'(-30
 FL,100,777,0,0,8ff,100
 PN,50104
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,      Qj'!  0    "//o      
@@ -101,7 +101,7 @@ OL,22,      Qj7o
 FL,100,777,0,0,8ff,100
 PN,50105
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, M EVideo Game Heroes- Jet Set Willy    
@@ -126,7 +126,7 @@ OL,20, CCOMMODORE   W"####! ####!BMSX & more
 FL,100,777,0,0,8ff,100
 PN,50106
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W       Q7+<,,>5W       
@@ -153,7 +153,7 @@ OL,21,W  Qwppppp>W  Q"-,,,. W  5}ppp~
 FL,100,777,0,0,8ff,100
 PN,50107
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,E]          S  `ppppppp0                
@@ -181,7 +181,7 @@ OL,22,B]          S#e"//+'! `f~9"
 FL,100,777,0,0,8ff,100
 PN,50108
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q`p `     `0p`0 ppppppppppppppppppppppp0
@@ -209,7 +209,7 @@ OL,22,Qjppppppz}upppwsssssssssssssq5
 FL,100,777,0,0,8ff,100
 PN,50109
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U#######{#########k7#####
@@ -237,7 +237,7 @@ OL,22,Uppppw|ppp|||upppppppptpp
 FL,100,777,0,0,8ff,100
 PN,50110
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, A]M  GHALL OF MOVIE VILLIANS _576     \
@@ -264,7 +264,7 @@ OL,22,WZo?   os}4*/##  x!        F
 FL,100,777,0,0,8ff,100
 PN,50111
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Great Movie Villians _21 Urho,Urho,Urho 
@@ -288,12 +288,10 @@ OL,18,Z Wj}h>0  %//!
 OL,19,Z Wjkwp00  `zG             
 OL,20,Z Wj'~}u              
 OL,21,Z Wj' "o+A             
-OL,22,Z                                       
-OL,23,Z                                       
 FL,100,777,0,0,8ff,100
 PN,50112
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,MV 5GREAT MOVIE VILLIANSF_671-EED209V5  
@@ -319,7 +317,7 @@ OL,21,Sggggggggggggggggggggggggggggggggggggg%
 FL,100,777,0,0,8ff,100
 PN,50113
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,        RZ   pppp0          ppp0        
@@ -347,7 +345,7 @@ OL,22,C]                    D(and some sand)
 FL,100,777,0,0,8ff,100
 PN,50114
 SC,0014
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q        pppppppppppppppppppppp         
@@ -373,7 +371,7 @@ OL,21,MB IMPRESSIVE...BUT CAN IT PLAY GAMES?
 FL,100,777,0,0,8ff,100
 PN,50115
 SC,0015
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,RZ`pp0  ppp   `pppppppp0 p 0pp   `ppp0  
@@ -401,7 +399,7 @@ OL,22, RA SRgvgvgvgTUNNEL VISION;y;y;y;y; F
 FL,100,777,0,0,8ff,100
 PN,50116
 SC,0016
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Vx0  k5   7   x/!    `pppx|tpp0
@@ -429,7 +427,7 @@ OL,22,Vj/'#    x~%   z   k}0
 FL,100,777,0,0,8ff,100
 PN,50117
 SC,0017
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,SsssssssC Solar Eclipse SpecialSsssssss 
@@ -456,7 +454,7 @@ OL,21,QZggggggggggggggggggggggggggggggggggggg
 FL,100,777,0,0,8ff,100
 PN,50118
 SC,0018
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,SZA       I          S  p<,l,||tp       
@@ -485,7 +483,7 @@ OL,23,SZ               UzU ?QuUQ
 FL,100,777,0,0,8ff,100
 PN,50119
 SC,0019
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W5k! 
@@ -513,7 +511,7 @@ OL,22,W%.///////////////////////////$////////
 FL,100,777,0,0,8ff,100
 PN,50120
 SC,0020
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q x|||||||||||||||0R||||||||||||||||||| 
@@ -541,7 +539,7 @@ OL,22,R *g.;#f/+&/;'/;g.Q <o/?o~+}'o+n$q!\A
 FL,100,777,0,0,8ff,100
 PN,50121
 SC,0021
-PS,8000
+PS,C000
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,GA]S           
@@ -571,7 +569,7 @@ OL,24,G^]S         
 FL,100,777,0,0,8ff,100
 PN,50122
 SC,0022
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S   x|,,,,t             
@@ -601,7 +599,7 @@ OL,24,S 5 *   }
 FL,100,777,0,0,8ff,100
 PN,50123
 SC,0023
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W      SSSS  x~|                   
@@ -630,7 +628,7 @@ OL,23,W  S   ~0
 FL,100,777,0,0,8ff,100
 PN,50124
 SC,0024
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,^WjP WSWWSTVVEC

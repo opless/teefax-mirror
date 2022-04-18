@@ -4,7 +4,7 @@ SP,V:\_ Teefax\P673-UK.tti
 CT,15,T
 PN,67301
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
 OL,1,V               0              0  0     
@@ -34,7 +34,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
 PN,67302
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
 OL,1,Q   hh         Qppppppppppppppppp0 
@@ -63,11 +63,10 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
 PN,67303
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
 OL,0,        T]CTeletext  \          hh:nn:ss
-OL,1,G                                       
 OL,2,D] S  `pp0`p0`0  pp ppp pp p `0ppp      
 OL,3,D] S  "k7!sj5 jw{5##jw{5+t>!##      
 OL,4,D] S   j5 ssjupjws1  jws1~'o4        
@@ -91,7 +90,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
 PN,67304
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
 OL,1,R            p8,,,,l0             F3/6  
@@ -118,24 +117,21 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
 PN,67305
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
 OL,1,C]Q"!j5 h<|j5sh<|h<,AXreplica         
 OL,2,C]Q  oz% ju|j5jubsAXbeeblepete 2018 
 OL,3,A``````````````Q*%A`````````````````````
 OL,4,FBBC PROBES DOCTOR WHO LEAK      CX2005 
-OL,5,W                                       
 OL,6,CThe BBC is investigating how what      
 OL,7,Cappears to be the first episode of the 
 OL,8,Clong-awaited new Doctor Who series has 
 OL,9,Cbeen leaked onto the internet.         
-OL,10,W                                       
 OL,11,FA spokeswoman said there had been a    
 OL,12,F"significant breach" of copyright. "The
 OL,13,Fsource of it appears to be connected to
 OL,14,Four co-production partner," she said.  
-OL,15,W                                       
 OL,16,F"We would urge viewers not to spoil    
 OL,17,Ftheir enjoyment and to wait for the    
 OL,18,Ffinished version which airs at the end 
@@ -148,7 +144,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
 PN,67306
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,        T]CTeletext  \          hh:nn:ss
 OL,1,F]DFRAME^ITU\ `f;s;Qp|4        V o0  
@@ -178,7 +174,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
 PN,67307
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
 OL,1,T]W`         !   0  0    $ T^?\o]W  $` 
@@ -208,7 +204,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
 PN,67308
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,        T]CTeletext  \          hh:nn:ss
 OL,1,V  pp0  Wp,,,,,,dp0          G          

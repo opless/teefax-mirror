@@ -3,9 +3,6 @@ SC,0000
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH  C hh:nn.ss
-OL,1,P             W W W                     
-OL,2,P            W                          
-OL,3,P           W         W                 
 OL,4,P            W TpW      TpP  W P        
 OL,5,P            Tx?W     T&qdP          
 OL,6,P          T`~?'Q pxt|0Tm)a4)P         
@@ -23,8 +20,6 @@ OL,17,P          T+}R{=Q'*!'*!'  Rxm$P
 OL,18,P           T"mx8Qm(48h() T9xP          
 OL,19,P             T#o4Quuuuu7Tx"!P          
 OL,20,P               T"Q",'''T!P             
-OL,21,P                                       
 OL,22,GM                6,005,339        @    
-OL,23,GM                6,005,339        @    
 OL,24,G                             7 March 22
 FL,0,0,0,0,100,100

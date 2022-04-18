@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\Admin\Documents\teefax\P195.tti
 PN,33101
 SC,0001
-PS,8000
+PS,C000
 CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -31,7 +31,7 @@ OL,24,A]D 861   B]D 862   C]D 863   F]D 864
 FL,0,0,0,0,100,100
 PN,33102
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -56,13 +56,10 @@ OL,18,GZiet und reichen die Marchen   W(/,.---
 OL,19,Gmit neuen Handlungsstrangen    S(dp,,,,
 OL,20,Gund Figuren an.               Sp+,,.css
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33103
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -90,7 +87,7 @@ OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,100,100
 PN,33104
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -115,13 +112,10 @@ OL,18,PQjQ5PQjjP     ZU`h'0!Y    S+~?!P  S|4|
 OL,19,PQjQ5PQjjP     ZQ$"}Q*tY  S0SjPS0P S/!/
 OL,20,PQ"}k4Q*6}P     ZS>!:Q2%Y S+mvw|/!PQp`
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33105
 SC,0005
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -146,22 +140,17 @@ OL,18,W5<~tWx|0x'cx<l,<l,<ljPW`iuP    VzuP
 OL,19,W5m?j?!`<g8qf8qfx'jPWj?P   V`0
 OL,20,Wmpsppsqppssssssssspp>PW"owz'P   Vr{{{u
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33106
 SC,0006
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,FNarchen im Ersten zu Weihnachten       
 OL,2,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,GSendetermine                           
-OL,4,G                                       
 OL,5,C2.Weihnachtsfeiertag, 26.12.17         
-OL,6,G                                       
 OL,7,G11.40 Uhr: Frau Holle                  
 OL,8,G12.40 Uhr: Aschenputtel        Q`ttP   
 OL,9,G13.35 Uhr: Der Schweinehirt    Spw}0PRp
@@ -177,13 +166,10 @@ OL,18,PQ|h|h|h|hP  Whl0P W#P     W##"PWj4P  Wj
 OL,19,PQ4|4|4|4|PWpprP               W"5P  Wj
 OL,20,PQ|h|h|h|hPW"+?'P   Qx?kP       Uh%P  U>
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33107
 SC,0007
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -209,12 +195,10 @@ OL,19,Qwf50wfSfn9{f.P W(///-Vd!`%Q4aq#qx:|}')P
 OL,20,Q''%Q''Q)----V`pVq(V0q0ntQ,tsqx&#lpVx&ef
 OL,21,VpP Vp|p0pppx$!`=z{|>`k2+~w|<l|<|,|t|<n|
 OL,22,V"#'3!xpsqx$trssx>'3//-/'caxlt2+%n.'attb
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33108
 SC,0008
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -239,13 +223,10 @@ OL,18,Gden Thron vor Augen, aufPS"lssssssssss,
 OL,19,Gden Weg. Im Wald trifft Vrpdx/#V+'`,)"2
 OL,20,Ger auf Salwa, eine     V8,tsqx&#lp%x&ef
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33109
 SC,0009
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -270,13 +251,10 @@ OL,18,Gtes Schloss mit einer   RV?w?|}y?'a<9
 OL,19,Gschlafenden Prinzessin, V{{o~/#V+'`,)"2
 OL,20,Gdir er wach kusst ...   W,tsqx&#lp%x&ef
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33110
 SC,0010
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -301,13 +279,10 @@ OL,18,GRegie: Alexander Wiedl  Vx8?w?|}y?'a<=
 OL,19,G                        V{{o~/#V+'`,)"2
 OL,20,FFederfuhrung: WDR, 2017 W,tsqx&#lp%x&ef
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33111
 SC,0011
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -334,11 +309,10 @@ OL,20,P   WjW%P Wa2P   W"eW(`pU:Q5Vz5P
 OL,21,P  QxWW5P  WP    W"}P  Q`~5U57P  
 OL,22,P T`xW//!P  W?P     W?P  Qj5sVk%P  
 OL,23,PT(//!/S'//$P U+P     U+P  Q*/-,V//.P   
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33112
 SC,0012
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -366,7 +340,7 @@ OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,100,100
 PN,33113
 SC,0013
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -391,13 +365,10 @@ OL,18,GAuf dem Maskenball soll    SjP Vk76
 OL,19,Gdie anstehende Hochzeit Uj#Vo5**
 OL,20,Gverkundet werden ...    Vju{V%/*%/%
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33114
 SC,0014
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -422,13 +393,10 @@ OL,18,G       und Thomas Brinx UeWp0$`%P    Wy
 OL,19,GRegie: Carsten Fiebeler      WPQ~}w4W
 OL,20,EFederfuhrung: rbb, 2017      U<PQ"o'PU<
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33115
 SC,0015
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -453,13 +421,10 @@ OL,18,S1S5Si%Z}jGdingungen - zuletzt muss Lisa
 OL,19,S+d}8!ZjjGihm ihr Kind versprechen. In 
 OL,20,Sx'S+tZz~~Gihrer Not stimmt sie zu ...  
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33116
 SC,0016
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -484,13 +449,10 @@ OL,18,Q+~?!R|R|G
 OL,19,PQjPR(/(/CFederfuhrung: WDR, 2009      
 OL,20,Qmvw|/!P                                
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33117
 SC,0017
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -515,13 +477,10 @@ OL,18,Geines Tages der Konig das RehZV6Y Q5PQj
 OL,19,Gverfolgt und sich in Schwes-ZV".}YQ5PQj
 OL,20,Gterchen verliebt ...V0d8#lp<';t>aQ~%PQ>
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33118
 SC,0018
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -546,13 +505,10 @@ OL,18,GRegie: Wolfgang EiBlerW+5Ww=PS>v~vj
 OL,19,G                      Wpro|~PVjgn~?j
 OL,20,CFederfuhrung: MDR, 2008W+-?'PSj9onmo!z
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33119
 SC,0019
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -577,13 +533,10 @@ OL,18,P V~}P Gden Hochmut austreiben. Nach
 OL,19,P VwsssP Gder Hochzeit ziehen sie in   
 OL,20,P Vwssss0PGseine bescheidene Hutte ...  
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33120
 SC,0020
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -608,13 +561,10 @@ OL,18,W|4|4So4P G
 OL,19,W{1{1l||<PCFederfuhrung: HR/ARD, 2009   
 OL,20,Sl,,,,,,,<                              
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33121
 SC,0021
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -639,13 +589,10 @@ OL,18,T"#"#W,=n,Gund nennt es "Rapunzel". An
 OL,19,W=n,=n,=n,Gderen 12.Geburtstag sperrt   
 OL,20,W=n,=n,=n,Gsie das Madchen in einen Turm
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33122
 SC,0022
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -670,13 +617,10 @@ OL,18,Q4||h|44P Gbannt sie und lasst deb Prin-
 OL,19,Q|4||h|4P Gzen erblinden. Verzweifelt   
 OL,20,Q4|h4|h4P Gsucht der Prinz nach Rapunzel
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33123
 SC,0023
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -701,13 +645,10 @@ OL,18,Q4|hP Vj'?G
 OL,19,Q|4|P Vj5CFederfuhrung: rbb/ARD, 2009  
 OL,20,Q4|hPT`|e~G                             
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33124
 SC,0024
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -732,12 +673,10 @@ OL,18,Gihren Zauberspiegel erfahrt,   VwPQ`l|0
 OL,19,Gdass Schneewittchen lebt,      V=PQ}
 OL,20,Gmacht sie sich auf den Weg...  VwPR+'
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
 FL,0,0,0,0,100,100
 PN,33125
 SC,0025
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -762,13 +701,10 @@ OL,18,G                             V"|pPSb?
 OL,19,BFederfuhrung: BR, 2009        V&SvuVb&P
 OL,20,G                               Sj1P   
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33126
 SC,0026
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -793,13 +729,10 @@ OL,18,V|h|h|h|hPGtet. Luise will das Gleiche:
 OL,19,V4|4|4|4|PGDoch Faulheit wird auch im   
 OL,20,V|h|h|h|hPGTraumland nichy belohnt!     
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33127
 SC,0027
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -824,13 +757,10 @@ OL,18,V|h|hZW0P FFederfuhrung: rbb/ARD, 2008
 OL,19,V4|4|Z  WaG                             
 OL,20,V|h|hZ  W0G                             
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33128
 SC,0028
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -855,13 +785,10 @@ OL,18,Gerscheint auch Aschenputtel   W`uPWbx
 OL,19,Gauf dem Ball und hinterlasst  W775R(---
 OL,20,Gnur einen verlorenen Schuh... W555S|?}P
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33129
 SC,0029
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -886,13 +813,10 @@ OL,18,G                                Qjfffff
 OL,19,BFederfuhrung: WDR/ARD, 2011     W.+'/+'
 OL,20,G                                  Qx?4P
 OL,21,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33130
 SC,0030
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -917,13 +841,10 @@ OL,18,GGlatzeder und Friedrich von  T}4PTkS5
 OL,19,GThun mitspielen? Nennen Sie  T7xpP T''
 OL,20,Gmindestens eines der Marchen.T500p11
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33131
 SC,0031
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -948,13 +869,10 @@ OL,18,P            R`<w}PS}=S(}5S(}5P  Wo99;s
 OL,19,P           Rh}/7-$V8~<W8~4R8~<0P W"o~&P
 OL,20,P           R`s=*<0T`7uQ`7tV`7u!P Q`:P  
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100
 PN,33132
 SC,0032
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -979,7 +897,4 @@ OL,18,P S}=S(}5S(}5PQh||||||||4W`iuP    Q5P
 OL,19,PV8~<W8~4R8~<P Q4|4|4|4|PWj?P    Q5P
 OL,20,PT`7uQ`7tV`7uP Q|h|h|h|hPW"owz'P   Q~%P
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,22,P                                       
-OL,23,P                                       
-OL,24,P                                       
 FL,0,0,0,0,100,100

@@ -2,7 +2,7 @@ DS,inserter
 CT,20,T
 PN,8F401
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]CMSarah Lynn   \LG   -w-          1/2 
@@ -28,11 +28,10 @@ OL,20,S*.*(.*.PS-%-%,%*.(.(.P         Wvffo
 OL,21,ShlhhlhlPS<4<4<4hlh,hP         Wj}(9;;3
 OL,22,Sjjj*njj($=555-5jjjljxP           W4f
 OL,23,S*.*(.*.PS-%-%,%*.*.S*PA3,63 DM/Min. AI 
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,8F402
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U]C 2/3 -w-         DGEHORCH MIR !      
@@ -58,15 +57,13 @@ OL,20,UP  Uj0^  "C]Asuchst heiBe&willige
 OL,21,UP  UjuP   C]AerfahreneDNymphomanin
 OL,22,UP  U~0P  C]Aaus Deineer Umgebung!
 OL,23,UP U`}P  C]D  0190-804 67 50     
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,8F403
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,BCRY 2,42 DM/minP                  G-w-P
-OL,2,P                                       
 OL,3,P   SpS+'SuP  BNEUP Club SusseP18P 
 OL,4,P   Scspz|||ups3P  R<44<4<4R<444hl(lhlP 
 OL,5,P  SzuP Ru55s5u5!s555b{`{jzP 
@@ -88,11 +85,10 @@ OL,20,PS~?P So}Vu55s5u5!s5s5u5jzjjzP
 OL,21,Sj?!P S"o5P                   
 OL,22,A]GM       www.girlsvision.deL      1/2 
 OL,23,A]GM       www.girlsvision.deL          
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,8F404
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G-w-T`|}tP                           
@@ -118,11 +114,10 @@ OL,20,P T64P
 OL,21,P Tk5}P                          
 OL,22,P  Tj4P                      P  
 OL,23,P  T#######!##P   MAwww.6preiswert.deL  
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,8F405
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]ATLI 9,90Eur/10 Tage im ABO zzgl. 0,14
@@ -148,11 +143,10 @@ OL,20,E]CMWahle G0180 - 50 12 12 58 L      1/2
 OL,21,E]CMWahle G0180 - 50 12 12 58 L         
 OL,22,S(((((((((((((((((((((((((((((((((((((((
 OL,23,C]AGEILER SEX FUR NUR 0,99 CT/TAG    -w-
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,8F406
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,P G-w-P                Q`lSj9,{Qu?<d0
@@ -178,11 +172,10 @@ OL,20,P Vu55s5u5!s5s5u5jzjjzP    Szu+?+
 OL,21,P                         ShuPS`$
 OL,22,P BCRY 2,42 DM/MinP       S}|PS
 OL,23,A]Gwww.girlsvision.de  \ZT`?'Tj
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,8F407
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,P    C]AMSofort live & Hart !!!    D2/2 
@@ -208,11 +201,10 @@ OL,20,P Qht+o}2%P  U<4,4U<4,4U<$<4P
 OL,21,P Q~}`#o4P  U-5<%U-5,5U-4-5P      
 OL,22,PQhu+j4k4P U-%-$$-%,%$,%-%P      
 OL,23,PQj}'ju|5P GTLI   DM 2,42/MinP   
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,8F408
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,A]GMNEU: Lass Dich hemmungslos ver  2/2 
@@ -238,5 +230,4 @@ OL,20,P  Q55P         Q###!P
 OL,21,P  Qo5!P  W75nj{jk`0j{jxWjxjkW"{j{P  
 OL,22,P  QjjP   W-%*(.*.PW*.W*(W**.((.*.P  
 OL,23,P  Q*%ENTC DM 3,63/MinP         -w-  
-OL,24,                                        
 FL,0,0,0,0,100,100

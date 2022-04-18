@@ -4,7 +4,7 @@ SP,N:\git-repos\teletext\P532.tti
 CT,8,T
 PN,53201
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]S `t 0                          G1/10 
@@ -34,7 +34,7 @@ OL,24,ASnowman  BWeather  CLabyrinth  FBiffo
 FL,533,531,536,570,0,100
 PN,53202
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXT]CTeletext G\mppGMTHddChh:nn:ss
 OL,1,                                   2/10 
@@ -60,7 +60,7 @@ OL,24,ASnowman  BWeather  CLabyrinth  FBiffo
 FL,533,531,536,570,0,100
 PN,53203
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXD]CTeletext G\100GMar17C00:00:00
 OL,1,                                   3/10 
@@ -86,7 +86,7 @@ OL,24,AHolidays BHolidays CHolidays FHolidays
 FL,533,531,536,570,0,100
 PN,53204
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXE]GTeletext  \100 Mar20C00:00:00
 OL,1,                                   4/10 
@@ -113,7 +113,7 @@ OL,24,ASnowman  BWeather  CLabyrinth  FBiffo
 FL,533,531,536,570,0,100
 PN,53205
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qx5jtCMR T SAYS:                   5/10 
@@ -138,7 +138,7 @@ OL,24,ASnowman  BWeather  CLabyrinth  FBiffo
 FL,533,531,536,570,0,100
 PN,53206
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXT]CTeletext G\mppGMTHddChh:nn:ss
 OL,1,                                   6/10 
@@ -167,7 +167,7 @@ OL,24,ASnowman  BWeather  CLabyrinth  FBiffo
 FL,533,531,536,570,0,100
 PN,53207
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,   W`0                           G 7/10 
@@ -194,7 +194,7 @@ OL,24,ASnowman  BWeather  CLabyrinth  FBiffo
 FL,533,531,536,570,0,100
 PN,53208
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]F                                     
@@ -224,7 +224,7 @@ OL,24,ASnowman  BWeather  CLabyrinth  FBiffo
 FL,533,531,536,570,0,100
 PN,53209
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,  T] Wppp pppp`p `0pppp`ppp `pp0`0     T
@@ -253,7 +253,7 @@ OL,24,ALabour  BGreen  CLib Dem  FConservative
 FL,533,531,536,570,0,100
 PN,53210
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qx5jtCMR T SAYS:                  G10/10

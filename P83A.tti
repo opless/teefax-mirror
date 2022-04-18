@@ -16,15 +16,12 @@ OL,10,W//*?/*~{7x
 OL,11,V|~}*'s3o*c3/q||ts?h
 OL,12,Wq~4,/~|ts'x
 OL,13,V//////'(/-$+///////////////////'*//////
-OL,14,                                        
 OL,15, You are temporarily refreshed, but the 
 OL,16, icy wind blows ever harder from the    
 OL,17, north. Your fingers and toes go numb   
 OL,18, and your vision blurs. The icy cold    
 OL,19, extends its reach into your very lungs.
 OL,20, It seems that you can go no further.   
-OL,21,                                        
 OL,22,CWhat do you do?                        
-OL,23,                                        
 OL,24,ATurn BackBPress onCCast the HEAT spellF
 FL,80d,83b,83c,0,100,100

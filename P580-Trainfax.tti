@@ -265,10 +265,6 @@ FL,8ff,8ff,8ff,8ff,8ff,500
 DE,BR Standard Class 9F
 PN,58010
 SC,0010
-OL,1,WZ                                      
-OL,2,WZ                                      
-OL,3,WZ                                      
-OL,4,WZ                                      
 OL,5,WZ         pp0x||0                      
 OL,6,WZ       x6s/lppp                   
 OL,7,WZ   x||h/oj}|vs;~l|d 0           

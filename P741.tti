@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P741.tti
 CT,8,T
 PN,74101
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 Subpage 00 ~~~~~~
@@ -33,7 +33,7 @@ OL,23,Page 741 Row 23 Subpage 00 ~~~~~~
 OL,24,Page 741 Row 24 Subpage 00 ~~~~~~
 PN,74102
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 SubpageA01 ~~~~~~
@@ -62,7 +62,7 @@ OL,23,Page 741 Row 23 SubpageA01 ~~~~~~
 OL,24,Page 741 Row 24 SubpageA01 ~~~~~~
 PN,74103
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 SubpageB02 ~~~~~~
@@ -91,7 +91,7 @@ OL,23,Page 741 Row 23 SubpageB02 ~~~~~~
 OL,24,Page 741 Row 24 SubpageB02 ~~~~~~
 PN,74104
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 SubpageC03 ~~~~~~
@@ -120,7 +120,7 @@ OL,23,Page 741 Row 23 SubpageC03 ~~~~~~
 OL,24,Page 741 Row 24 SubpageC03 ~~~~~~
 PN,74105
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 SubpageE04 ~~~~~~
@@ -149,7 +149,7 @@ OL,23,Page 741 Row 23 SubpageE04 ~~~~~~
 OL,24,Page 741 Row 24 SubpageE04 ~~~~~~
 PN,74106
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 SubpageF05 ~~~~~~
@@ -178,7 +178,7 @@ OL,23,Page 741 Row 23 SubpageF05 ~~~~~~
 OL,24,Page 741 Row 24 SubpageF05 ~~~~~~
 PN,74107
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 SubpageA06 ~~~~~~
@@ -207,7 +207,7 @@ OL,23,Page 741 Row 23 SubpageA06 ~~~~~~
 OL,24,Page 741 Row 24 SubpageA06 ~~~~~~
 PN,74108
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 SubpageB07 ~~~~~~
@@ -236,7 +236,7 @@ OL,23,Page 741 Row 23 SubpageB07 ~~~~~~
 OL,24,Page 741 Row 24 SubpageB07 ~~~~~~
 PN,74109
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Page 741 Row 01 SubpageC08 ~~~~~~

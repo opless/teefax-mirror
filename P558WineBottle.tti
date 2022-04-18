@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Teefax\P558WineBottle.tti
 PN,55801
 SC,0001
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,W     R%                       %        
@@ -30,10 +30,9 @@ OL,20,W       R(
 OL,21,W         R(      (     !    $      !   
 OL,22,R%   `                                  
 OL,23,W     R`      `          0      0       
-OL,24,W                                       
 PN,55802
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,W           R`                          
@@ -60,10 +59,9 @@ OL,20,W        R!                         `
 OL,21,R`          !      !         "          
 OL,22,W    R%                                 
 OL,23,W      R$      $    `    (   `  (       
-OL,24,W                                       
 PN,55803
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,W            R%     `                   
@@ -90,10 +88,9 @@ OL,20,W        R" `                        $
 OL,21,W                 R"          !         
 OL,22,W    R*                                 
 OL,23,W      R"$     (     $    $      !      
-OL,24,W                                       
 PN,55804
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,W                R`  %    0             
@@ -120,10 +117,9 @@ OL,20,W           R0      0         `   "  "
 OL,21,W     R0                                
 OL,22,W                               R`      
 OL,23,W       R)      !    "    "   "         
-OL,24,W                                       
 PN,55805
 SC,0005
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,W                     R`   %        `   
@@ -149,11 +145,9 @@ OL,19,W                                    Rh
 OL,20,W      R(     !     "          (        
 OL,21,W      R!                               
 OL,22,W        Re      %         *      *     
-OL,23,W                                       
-OL,24,W                                       
 PN,55806
 SC,0006
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,W      R`               %      `     %  
@@ -179,11 +173,9 @@ OL,19,W            Rh                        !
 OL,20,W                   R!          !       
 OL,21,W      R" `                        0    
 OL,22,W   R%           *          %           
-OL,23,W                                       
-OL,24,W                                       
 PN,55807
 SC,0007
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,W    R`  %                    ` %       
@@ -208,12 +200,9 @@ OL,18,W           R$           "o|?!        `
 OL,19,W             Ri     h          h       
 OL,20,W       R0                              
 OL,21,W   R`     0      0    (    `   (  (    
-OL,22,W                                       
-OL,23,W                                       
-OL,24,W                                       
 PN,55808
 SC,0008
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,W    R`  %                    ` %       
@@ -238,6 +227,3 @@ OL,18,W           R$           "o|?!        `
 OL,19,W             Ri     h          h       
 OL,20,W       R0                              
 OL,21,W   R`     0      0    (    `   (  (    
-OL,22,W                                       
-OL,23,W                                       
-OL,24,W                                       

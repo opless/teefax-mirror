@@ -51,7 +51,6 @@ OL,18, Default row colour CLUT3:7
 OL,20, Black background substitution on       
 PN,75404
 SC,0004
-OL,0,                                        
 FL,753,753,753,753,8ff,750
 OL,28,@@@|GpCu_@|wKpZA`UB_wLs_w}ww]_}_w}{y
 OL,2, Packet 28/0 colour mapping tests (4/6) 

@@ -3,7 +3,7 @@ DS,inserter
 SP,J:\peter\teefax\P596Fidyan.tti
 PN,59601
 SC,0001
-PS,8000
+PS,C000
 CT,12,T
 RE,0
 OL,0,W d     Q(0     Wh0  Q 8!   Wh`f        
@@ -33,7 +33,7 @@ OL,23,TS999999TS99999999T
 FL,500,8ff,8ff,8ff,8ff,8ff
 PN,59602
 SC,0002
-PS,8000
+PS,C000
 CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -64,7 +64,7 @@ OL,24,V'h
 FL,500,8ff,8ff,8ff,8ff,8ff
 PN,59603
 SC,0003
-PS,8000
+PS,C000
 CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -94,7 +94,7 @@ OL,24,G                              BEKASI,ID
 FL,500,8ff,8ff,8ff,8ff,8ff
 PN,59604
 SC,0004
-PS,8000
+PS,C000
 CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -125,7 +125,7 @@ OL,24,S's||~?ax|||||tT
 FL,500,8ff,8ff,8ff,8ff,8ff
 PN,59605
 SC,0005
-PS,8000
+PS,C000
 CT,12,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss

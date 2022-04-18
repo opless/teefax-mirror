@@ -3,7 +3,7 @@ DS,inserter
 CT,20,T
 PN,57201
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,CCOMING SOON TO A PLAYHOUSE NEAR YOU!   
@@ -35,7 +35,7 @@ DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57202
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]G               ADVERT                
@@ -61,13 +61,12 @@ OL,20,V~}kwss1S x/#G``````````````````````````
 OL,21,Vqsxd}`  BCHILDREN: If Roaming Thomas  
 OL,22,Vh4vs'*t Benters your bedroom, DO NOT  
 OL,23,V~|p   x}tBTOUCH HIM. Casing can get hot
-OL,24,                                        
 FL,0,0,0,0,100,100
 DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57203
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,BTHINGS TOO DRY? MOISTEN THEM UP WITH A 
@@ -99,7 +98,7 @@ DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57204
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]G                ADVERT               
@@ -131,7 +130,7 @@ DE,More Mr Biffo from Digitiser2000.com
 DS,inserter
 PN,57205
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,BFOR ALL YOUR OLDE TYME HARRIS NEEDS... 

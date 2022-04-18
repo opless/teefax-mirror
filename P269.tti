@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P269.tti
 CT,10,C
 PN,26901
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W , ($ , ($ ,  W]Q  "###!         "#/
@@ -34,7 +34,7 @@ OL,24,V  R           v~|~        "'
 FL,247,200,800,200,0,100
 PN,26902
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]T   `~~}0   ^T]Q      p dpp       
@@ -64,7 +64,7 @@ OL,24,R]U               ^S]P
 FL,247,200,800,200,0,100
 PN,26903
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W~'app"+?Sf}=W}
@@ -94,7 +94,7 @@ OL,24,R"/}||||~qttpssspssp||~|||||||||||||/!
 FL,247,200,800,200,0,100
 PN,26904
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q!?4j}jj5%|%j5j7 h>               
@@ -124,7 +124,7 @@ OL,24,Q (  "*+"''' !'%/%   T"br"(q ``p$as8`ahp
 FL,247,200,800,200,0,100
 PN,26905
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q^Q]W j5 ^Q]V                        
@@ -154,7 +154,7 @@ OL,24,Q+tT " ( Qpbxvv'
 FL,247,200,800,200,0,100
 PN,26906
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V~'W`p||l0V+}
@@ -184,7 +184,7 @@ OL,24,R"//!
 FL,247,200,800,200,0,100
 PN,26907
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U,,,,,,ppppppp    "#V 8! `&   p&  `8#   
@@ -214,7 +214,7 @@ OL,24,R 8&           W */'  "//   V
 FL,247,200,800,200,0,100
 PN,26908
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Qff                     LT|!            
@@ -244,7 +244,7 @@ OL,24,W?{0          ",,,,,,,,,,,,,,,,,,,
 FL,247,200,800,200,0,100
 PN,26909
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]P +b+?)&$          P`x||]Q#/o
@@ -274,7 +274,7 @@ OL,24,T]Qp|^Q]@ vs. Man Of Steel     T   ###/
 FL,247,200,800,200,0,100
 PN,26910
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Ts{{?//owswwss{w{ssww{s
@@ -303,7 +303,7 @@ OL,23,V\V  #!  #! "!! "#"!  W(/m=   "!T(.////
 FL,247,200,800,200,0,100
 PN,26911
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,WpppppppppppppppppppS
@@ -333,7 +333,7 @@ OL,24,S7T~7S]Eto you, kids.
 FL,247,200,800,200,0,100
 PN,26912
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]W  k'                   Q`pPjTD1/999 
@@ -363,7 +363,7 @@ OL,24,S]PZ  z{~o',&              TY(&DMORE>>
 FL,247,200,800,200,0,100
 PN,26913
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q               TjjSw3c{jss)08cs)0=0jk

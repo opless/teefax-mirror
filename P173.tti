@@ -3,7 +3,7 @@ DS,inserter
 SP,/home/peterk/teletext/P173.tti
 PN,17301
 SC,0001
-PS,8000
+PS,C000
 CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
@@ -30,11 +30,10 @@ OL,20,V] Wdj]  U~}QRQRW^\0x]     U~}   V?{]
 OL,21,V]Wp^{] _U+'QW^(o\5]      U+'   V./o]
 OL,22,V] W`n]^\]\]\]\v;gqs/s~]         V;]  
 OL,23,V] W!j]                            V~] 
-OL,24,W                                       
 FL,0,0,0,0,100,100
 PN,17302
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
@@ -61,11 +60,10 @@ OL,20,S|h|h|^4|||h||4|h| Z ||4|||h||4||4||4||t
 OL,21,S~ju5zju5/~/ Z |4zj}|4j |4z?
 OL,22,Wjj75#^j7#! ]\ Z |4kh|5j |4k}
 OL,23,U#"#"!#!#  "!   #    #^!#"#"##!"# ##!#"#
-OL,24,W                                       
 FL,0,0,0,0,100,100
 PN,17303
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
@@ -91,12 +89,10 @@ OL,19,WT] S*] Q+5]  Sx] T`] V('q|^||~]   Tx%
 OL,20,WQ]  S+] Q"%]S`~]  Qz]   V#^####cssy|~?
 OL,21,WQ]   S+/^//,,/////#        V"////////# 
 OL,22,W ]        MDI Love Easter!!            
-OL,23,W ]        MDI Love Easter!!            
-OL,24,W                                       
 FL,0,0,0,0,100,100
 PN,17304
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
@@ -126,11 +122,10 @@ OL,23,T]S    '
 FL,0,0,0,0,100,100
 PN,17305
 SC,0005
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
-OL,1,P                                       
 OL,2,P      S~S}PSh4PS/}S/}SthP         
 OL,3,P Uho?4SS`p0S|?S|?S"o?PUho?4P   
 OL,4,P U*w{%S?SoS~'S+}SP SP Sx'P U*w{%P   
@@ -139,7 +134,6 @@ OL,6,P                 U*w{%P
 OL,7,P      S~?-PSh4PS~-Sn=S~?-S~/}P      
 OL,8,P      S=,S`p0S+tPSPS=,S|?P Uho?4
 OL,9,P      So}<S~'S+}Sl?PSPSo}<S)pP U*w{%
-OL,10,P                                       
 OL,11,P         FEASTER IS EGGCITING!         
 OL,12,P  RxtP                              
 OL,13,P  Ro?P          ABY GEOFF TOURLE    
@@ -157,7 +151,7 @@ OL,24,ACompetitionBFeatures CFactsFORACLE Kids
 FL,0,0,0,0,100,100
 PN,17306
 SC,0006
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
@@ -184,11 +178,10 @@ OL,20,S}y5W5oSzw~uW+??!#   ~tSo
 OL,21,R?Wn/"Rxwf}tW        `~}R+
 OL,22,S|||~5W       `~}Sk
 OL,23,D]G Happy Easter fromCEaster Island!    
-OL,24,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 FL,0,0,0,0,100,100
 PN,17307
 SC,0007
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
@@ -215,11 +208,10 @@ OL,20,WV]  S+-&#!     *]T)&Vj]
 OL,21,WV]Tp^p||]W`||0 S+] T`~]                
 OL,22,WT]       W#!'#  S,mx$                  
 OL,23,WT]                    FDETAILS FOLLOW >
-OL,24,W                                       
 FL,0,0,0,0,100,100
 PN,17308
 SC,0008
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
@@ -246,5 +238,4 @@ OL,20,WT]S]Td  8 j] S"o]  T0 ]
 OL,21,WT] S]T#^ `~]  S*]T)& j]                
 OL,22,WT] S#/?/7       +] T`~]                
 OL,23,WT]  S+-&#!       ,mx$                  
-OL,24,W                                       
 FL,0,0,0,0,100,100

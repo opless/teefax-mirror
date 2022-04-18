@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\Rhys\Documents\teletext\P421.tti
 PN,42101
 SC,0001
-PS,8000
+PS,C000
 CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -31,7 +31,7 @@ OL,24,A  AboutB   IndexC   Events  F Archive
 FL,420,400,800,200,8ff,100
 PN,42102
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -46,7 +46,6 @@ OL,10,Fthe tensest of those. Now 1's already
 OL,11,Ftreated us to Karma Chameleon (side two
 OL,12,Ftrack one), but the compilation's      
 OL,13,Fcloser couldn't be more different.     
-OL,14,F                                       
 OL,15,FSparse and unsparing, Victims majors on
 OL,16,Fsolo piano and strips back the layers  
 OL,17,Fto bare emotional bruising. Culture    
@@ -60,7 +59,7 @@ OL,24,A  AboutB   Index   CEvents  F Archive
 FL,420,400,800,200,8ff,100
 PN,42103
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -68,11 +67,9 @@ OL,1,R~k4~k4hj5   (l0n= j5(l0x$n=  S  jd  =0
 OL,2,Rj5oz%ozz%p  n{5j5 j5n{5{%j5000Sf; (s% 
 OL,3,R`````````ba````````````````````````````
 OL,5,ENOW 1: CULTURE CLUB - VICTIMS          
-OL,6,E                                       
 OL,7,FVictims, though, doesn't sugar-coat its
 OL,8,Fbleakness - it pulls back the mask and 
 OL,9,Fwhat's revealed is red-raw.            
-OL,10,G                                       
 OL,11,FSo it's powerful melodically, and the  
 OL,12,Flyrics? Ah... not so much. They're     
 OL,13,Foddly throwaway, George sings of 'those
@@ -90,7 +87,7 @@ OL,24,A  AboutB   Index   CEvents  F Archive
 FL,420,400,800,200,8ff,100
 PN,42104
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -98,7 +95,6 @@ OL,1,R~k4~k4hj5   (l0n= j5(l0x$n=  S  jd  =0
 OL,2,Rj5oz%ozz%p  n{5j5 j5n{5{%j5000Sf; (s% 
 OL,3,R`````````ba````````````````````````````
 OL,5,ENOW 1: CULTURE CLUB - VICTIMS          
-OL,6,E                                       
 OL,7,FVictims is also an odd, and possibly   
 OL,8,Fdefining, choice for a Now closing     
 OL,9,Ftrack. Not the obvious smoochy school- 
@@ -110,10 +106,7 @@ OL,14,Fcompilation series that certainly
 OL,15,Fhasn't lacked ambition over the years. 
 OL,16,FWe've got at least 104 more episodes to
 OL,17,Fgo in that story.                      
-OL,18,F                                       
 OL,19,CWith thanks to Howard Ingham           
-OL,20,F                                       
-OL,21,F                                       
 OL,22,F                                   4/4 
 OL,23,D]C     NEXT TIME: Paul McCartney       
 OL,24,A  AboutB   Index   CEvents  F Archive  

@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\Rhys\Documents\teletext\P440-Now.tti
 PN,44001
 SC,0001
-PS,8000
+PS,C000
 CT,25,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -15,7 +15,6 @@ OL,5,CSO WHAT'S THIS ALL ABOUT?
 OL,6,FI'm reviewing the last track on every  
 OL,7,Falbum in the NOW That's What I Call    
 OL,8,FMusic! series.                         
-OL,9,B                                       
 OL,10,CFOR CRYING OUT LOUD, WHY?              
 OL,11,FIn an age of instant playlists and     
 OL,12,FSpotify, you might think the           
@@ -33,7 +32,7 @@ OL,24,ANOW reviews BNew Digi!C EventsF Archive
 FL,441,470,800,200,f,100
 PN,44002
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -54,11 +53,9 @@ OL,14,FAs we'll see, NOW goes for them all in
 OL,15,Fturn, which makes the last tracks on   
 OL,16,Fthe albums far more fascinating and    
 OL,17,Fvaried than the first ones.            
-OL,18,F                                       
 OL,19,FSo let's skip to the end and see what  
 OL,20,FNOW has to offer the diligent. Hold on 
 OL,21,Fto your headphones...                  
-OL,22,F                                       
 OL,23,D]C        NOW reviews: p421            
 OL,24,ANOW reviews BNew Digi!C EventsF Archive
 FL,421,470,800,200,f,100

@@ -4,12 +4,11 @@ SP,J:\Teletext Fest 17\ALL PAGES FINAL RAW\CAROUSEL PACKS FOR TEEFAX\801_BP17_Pr
 CT,8,T
 PN,80101
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,        FFebruary 25/26th 2017 CE       
 OL,2,    F@Center for Computing History, CBG 
-OL,3,                              R         
 OL,4,A*GTeletext art workshop    R `,,d(h,dp 
 OL,5,A*GTeletext artists        R`8,o{/n{s"#
 OL,6,A*GHackey sack             R"hn?,n6kvsm
@@ -31,7 +30,7 @@ OL,21,V]W " "# ( l0  #  "  *,    #   S^`
 OL,22,V]W     "                  "-  S^~
 PN,80102
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V h||0h4 x|t x|th4h4 h||0 xt h||0|||h4h4
@@ -59,7 +58,7 @@ OL,22,D]C.S"//#C~G teletext-party.
 OL,23,D]C  ~  .S##### C~ .   G yapsody.com    
 PN,80103
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,GCambridge, UK  Sx,t x   xt  x<`4`|$T   
@@ -87,7 +86,7 @@ OL,22,Qz?w+|=`U"o}Gyapsody Rx~}t(<W"/}0+=
 OL,23,Q1+ +oU"=0``n}G.comR`~'x}v}rxtS"/t 
 PN,80104
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T?'###+o
@@ -115,7 +114,7 @@ OL,22,TVz W /!Vz= W  h7V'?VjT"
 OL,23,D]Fhttps://teletext-party.yapsody.com/D[
 PN,80105
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q]CCentre for Computing History - CBG   
@@ -143,7 +142,7 @@ OL,22,T///////////////////////////////////////
 OL,23,Q]  C25/26 FEBRUARY 2017         
 PN,80106
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                        Q8!`&    `&     

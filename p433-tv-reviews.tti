@@ -3,7 +3,7 @@ DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\p433-tv-reviews.tti
 PN,43301
 SC,0001
-PS,8000
+PS,C000
 CT,30,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -33,7 +33,7 @@ OL,24,  ACRTs B STBs C LED/OLED/QLED F Info
 FL,434,435,432,431,8ff,100
 PN,43302
 SC,0002
-PS,8000
+PS,C000
 CT,30,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -50,7 +50,6 @@ OL,11, Picture" function. Subpage selection
 OL,12, uses left/right arrows on remote and   
 OL,13, displays list of subpages in memory on 
 OL,14, screen.                                
-OL,15,C                                       
 OL,16,CWhat's not:GPage numbers with hex      
 OL,17, digits are not stored in memory, making
 OL,18, Bamboozle, etc. very slow. Despite     
@@ -62,7 +61,7 @@ OL,24,  ACRTs B STBs C LED/OLED/QLED F Info
 FL,434,435,432,431,8ff,100
 PN,43303
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss

@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\peter\teletext\P411-OneShowGallery.tti
 PN,41101
 SC,0001
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -34,7 +34,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41102
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -65,7 +65,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41103
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -91,12 +91,11 @@ OL,19,U?'           T!!!!            T  d
 OL,20,V'#"!                              T   
 OL,21,U                                     T 
 OL,22,U                            Ebym&cl! T 
-OL,23,C                                       
-OL,24,ANext  BBack                            
+PS,C000OL,24,ANext  BBack                            
 FL,412,410,410,100,8ff,8ff
 PN,41104
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -126,7 +125,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41105
 SC,0005
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -157,7 +156,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41106
 SC,0006
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -188,7 +187,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41107
 SC,0007
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -219,7 +218,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41108
 SC,0008
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -250,7 +249,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41109
 SC,0009
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -281,7 +280,7 @@ OL,24,ANext  BBack         Dandyuglifruit
 FL,412,410,410,100,8ff,8ff
 PN,41110
 SC,0010
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -312,7 +311,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41111
 SC,0011
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -343,7 +342,7 @@ OL,24,P         WjW"dPW)74hk!jW*5W`$PWjh!P
 FL,412,410,410,100,8ff,8ff
 PN,41112
 SC,0012
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -374,7 +373,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41113
 SC,0013
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -405,7 +404,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41114
 SC,0014
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -436,7 +435,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41115
 SC,0015
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -465,7 +464,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41116
 SC,0016
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -496,7 +495,7 @@ OL,24,ANext  BBack CHorsenburger & Rawles
 FL,412,410,410,100,8ff,8ff
 PN,41117
 SC,0017
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -527,7 +526,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41118
 SC,0018
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -558,7 +557,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41119
 SC,0019
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -589,7 +588,7 @@ OL,24,ANext  BBack
 FL,412,410,410,100,8ff,8ff
 PN,41120
 SC,0020
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss

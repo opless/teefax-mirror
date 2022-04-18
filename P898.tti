@@ -3,7 +3,7 @@ DS,inserter
 SP,E:\Teletext\TEEFAX\P898.tti
 PN,89801
 SC,0001
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
@@ -27,7 +27,7 @@ OL,24,                  FPage Up -> Subpages
 FL,100,100,100,100,8ff,100
 PN,89802
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
@@ -52,7 +52,7 @@ OL,24,Quick start <- PgDnFPgUp -> Subpages
 FL,100,100,100,100,8ff,100
 PN,89803
 SC,0003
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
@@ -77,7 +77,7 @@ OL,24,Subpages <- PgDn FPgUp -> Help wanted
 FL,100,100,100,100,8ff,100
 PN,89804
 SC,0004
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S

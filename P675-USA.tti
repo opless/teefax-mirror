@@ -4,7 +4,7 @@ SP,\\VBOXSVR\VirtualShare\_ Teefax\P675-USA.tti
 CT,20,T
 PN,67501
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 675 DAY dd MTH C hh:nn.ss
 OL,1,Q]GM ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   
@@ -23,7 +23,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67502
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 675 DAY dd MTH C hh:nn.ss
 OL,1,                                     (R)
@@ -50,7 +50,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67503
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 675 DAY dd MTH C hh:nn.ss
 OL,1,T]                                     R
@@ -80,7 +80,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67504
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 675 DAY dd MTH C hh:nn.ss
 OL,2,   SZ   x?/'x?! x?/'x?/)o/g~/?!`~    
@@ -108,7 +108,7 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,676,700,800,100,100
 PN,67505
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXCEEFAX 675 DAY dd MTH C hh:nn.ss
 OL,2,T]                                      

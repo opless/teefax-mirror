@@ -3,13 +3,12 @@ DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\P701-using.tti
 PN,70101
 SC,0001
-PS,8000
+PS,C000
 CT,30,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]Th44|$|h|hh<$ l<hlh4hl(|$<4d$l<Dpage  
 OL,2,R]T*-%.%/*%/*-% *%*-*-*- / /$%%*%D1/2   
-OL,3,W                                       
 OL,4,FWhen you first press the QRTR  
 OL,5,BteletextFbutton on a TV  Q88888888888  
 OL,6,Fremote control, you're   V,,,,,,,,,,,  
@@ -31,13 +30,12 @@ OL,24,AIndex B Specs  C VBIT-Pi F Test Cards
 FL,700,704,714,740,8ff,100
 PN,70102
 SC,0002
-PS,8000
+PS,C000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R]Th44|$|h|hh<$ l<hlh4hl(|$<4d$l<Dpage  
 OL,2,R]T*-%.%/*%/*-% *%*-*-*- / /$%%*%D2/2   
-OL,3,W                                       
 OL,4,FA page of teletext is 40 W, (,$ ,(S,(  
 OL,5,Fcharacters by 25 rows,   T/*%/*//////  
 OL,6,Fwhich are numbered 0 to  T&&&&&&&&&&&  
@@ -49,7 +47,6 @@ OL,11,Fon the remote control.   W!" !"Q!
 OL,12,FNext is usually the teletext service   
 OL,13,Fname and then the current page number. 
 OL,14,FLastly come the current date and time. 
-OL,15,F                                       
 OL,16,BFastextFlinks to other pages are some- 
 OL,17,Ftimes on line 24. They're colour-coded 
 OL,18,Fto match buttons on the remote control.

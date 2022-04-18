@@ -3,7 +3,7 @@ S,inserter
 CT,20,T
 PN,58701
 SC,0001
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]G                   
@@ -29,11 +29,10 @@ OL,20,FBreakdance 2: Electric BoogalooCThis is
 OL,21,CSpinal TapFSixteen CandlesCGhostbusters
 OL,22,FThe Killing FieldsCSplashFIndiana Jones
 OL,23,FAnd The Temple Of DoomCAgainst All Odds
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58702
 SC,0002
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W            h%        j     j5s  
@@ -59,11 +58,10 @@ OL,20,W||pp    "+o:4      j5 ^Z0"Y,
 OL,21,W##//||sp   #*4t0 j5     ZaYs  
 OL,22,W      ##//||p:6}s   j5     ,  
 OL,23,W          ||##//:4s/|p0     s  
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58703
 SC,0003
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T pppp   p0  `ppp0`p `ppp    p0 p0   p0 
@@ -89,11 +87,10 @@ OL,20,B W~  ~p`' p #/ x!#<  #/  6h!B Wp `0 p
 OL,21,BWj?|p #/ x!#<  #/~ `?|p  :`% W**p% *  %
 OL,22,B W/|s/|p #/~ `',p  /}~! h!6B+W*  % *  %
 OL,23,B %W"+o|s/|p  /|x! |p # `%:B       -    
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58704
 SC,0004
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,]T                                      
@@ -119,11 +116,10 @@ OL,20,]T/-#aV0 0  V fT`  ip  `~t0 ####!`,!
 OL,21,]T##  Vd`!vhT6V90 To0  #),,fsyd8,##!  `
 OL,22,]T `|0(ytx}|2   "o|,dpp0   pppp8,,#!
 OL,23,]T tz}t    "/}pp"###,,,,,,dpp
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58705
 SC,0005
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,WS(,,,$S,,,,$(,,,$j(,,j ,$ (,,,j5,
@@ -149,11 +145,10 @@ OL,20,W  (,$GWGWGWGWCSCC
 OL,21,WM$GW(,$GW(,$GWGWCSCSG
 OL,22,W o
 OL,23,W  `p0 p ppp | |||GWCSCSCS
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58706
 SC,0006
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,   Q  hg 
@@ -179,11 +174,10 @@ OL,20,T]S!13q0  W]U  p`0   "##/?;8!
 OL,21,T]S '%-%# Wb]U"###        #o?g&&        
 OL,22,T]S  =5w5Wh]                       Q ppx
 OL,23,T#######^W]   !           Q  px|
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58707
 SC,0007
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, R        W    x  Rppp                  
@@ -209,14 +203,12 @@ OL,20, R          "+|||'
 OL,21, R             #//#              
 OL,22, R                 ###                  
 OL,23, T GThe Ghost Of Christmas Past (1984)  
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58708
 SC,0008
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
 OL,2,T 7            #/]G         \  
 OL,3,T^]G  *   \  T         "dj]G  *      \  
 OL,4,T %             (9j]G         \  
@@ -239,11 +231,10 @@ OL,20,W ?/#     Q x!        T!
 OL,21,W 0z|p   Q >R+   G          
 OL,22,W }tQx?!    GMerry      
 OL,23,W ?#]Q      *\G  Teletextmas   
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58709
 SC,0009
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D+=====================================+
@@ -273,7 +264,7 @@ OL,24, D    Weapons  Of  Mass  Frustration
 FL,0,0,0,0,100,100
 PN,58710
 SC,0010
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W         G         
@@ -299,11 +290,10 @@ OL,20,W          G      Wj5h4
 OL,21,W         G     Wh4h4`2!
 OL,22,W        G     W|Wp"!"!*% 
 OL,23,W      G     W|Wp# /  | h4
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58711
 SC,0011
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
@@ -329,11 +319,10 @@ OL,20,T]W      h%#(5h%#(5h%z}5 h?#h5
 OL,21,T]W      j #p5j #p5j0#p5 j!"c5          
 OL,22,T]W      "### "### "###  "###           
 OL,23,T]W                                     
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58712
 SC,0012
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q                  44                   
@@ -351,19 +340,16 @@ OL,12,Q         (#       W*}    Q)d
 OL,13,Q              0   W k4                 
 OL,14,Q             :    00W/Qi               
 OL,15,Q                  55    !              
-OL,16,Q                                       
 OL,17,Q               W pppp                  
 OL,18,Q               W6 pp i                 
 OL,19,QpppppppppppppppW!rpp5jQppppppppppppppp 
 OL,20,QpppppppppppppppW6 ppp&Qppppppppppppppp 
 OL,21,Q               W5jpppp                 
 OL,22,Q               Wuppppz                 
-OL,23,Q                                       
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58713
 SC,0013
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, T]                                     
@@ -387,13 +373,11 @@ OL,18, T]                              S//////
 OL,19, T]                                     
 OL,20, T]S0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 OL,21,SM]DKodachrome 35mm film    1936 - 2009 
-OL,22,T                                       
 OL,23,T ]S ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58714
 SC,0014
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W                Qpp                    
@@ -415,15 +399,13 @@ OL,16,W                   S"+.!Q 0 000
 OL,17,W     o0h} z%/               Q bf w:   
 OL,18,W     *uou? j>}h?h?}*u~t?h-Q% %%    
 OL,19,W      k7"! j5*}*}? k7!(=         
-OL,20,                                        
 OL,21,           W  pppppppppppp              
 OL,22,           W jD      W 5             
 OL,23,           W  ############              
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58715
 SC,0015
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W          j5           j5      
@@ -449,11 +431,10 @@ OL,20,R4WR}W`|5R5   W      |      
 OL,21,RWR5WR5  W`?%      //      o
 OL,22,RWRWR   WjAHeeeere's PollyW
 OL,23,RWRWR?   W}      h|4      ~
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58716
 SC,0016
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]WZ           V  pY, xp]   Z           
@@ -479,11 +460,10 @@ OL,20,T]VZ       * "  " `" `  j| "          ##
 OL,21,T]VZ             ""      7              
 OL,22,T]WZ  d 0                        $0  $  
 OL,23,T]WZ  ( $                       "    !" 
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58717
 SC,0017
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]                                      
@@ -509,14 +489,12 @@ OL,20,T]
 OL,21,T]                                      
 OL,22,T]                                      
 OL,23,T]                                      
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58718
 SC,0018
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,W                                       
 OL,2,W       Q    `x|7W~||p             
 OL,3,W      Q  `x7W~t           
 OL,4,W     Q  (/////'W.///////////-          
@@ -535,15 +513,13 @@ OL,16,W  V     +/////W*/////////////'
 OL,17,W   U      l||||Wh||||||||||<           
 OL,18,W    U      "+o}Wk?'            
 OL,19,W    U         "+-W+////'#              
-OL,20,W                                       
 OL,21,W          6#$7!=05#7!7i :0j            
 OL,22,W          5 07!5)5 5 =f`-ej            
 OL,23,W          "# #!! ! ! !"" ""#!          
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58719
 SC,0019
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,                    S pppp              
@@ -568,12 +544,10 @@ OL,19,W            U   VQ####
 OL,20,W            U VU           
 OL,21,W            U VU           
 OL,22,W            U ##V###U#######           
-OL,23,W                                       
-OL,24,W                                       
 FL,0,0,0,0,100,100
 PN,58720
 SC,0020
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]WZ           V  pY, xp]   Z           
@@ -599,11 +573,10 @@ OL,20,T]VZ       * "  " `" `  j| "          ##
 OL,21,T]VZ             ""      7              
 OL,22,T]WZ  d 0                        $0  $  
 OL,23,T]WZ  ( $                       "    !" 
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58721
 SC,0021
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]T          j              
@@ -629,11 +602,10 @@ OL,20,W:45|;7|65}17|655i|k
 OL,21,W}syqq{q{q{qu{q{q{qs~wrwr
 OL,22,W
 OL,23,W
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58722
 SC,0022
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]S                                     
@@ -659,11 +631,10 @@ OL,20,T]S          "*jjjjjjjjjjj*"
 OL,21,T]S              """"""                 
 OL,22,T]                                      
 OL,23,T]                                      
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58723
 SC,0023
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,WM 67)"w9  v4 ks$fs hk) hy (s1"7"=z!67i 
@@ -689,14 +660,12 @@ OL,20,B    RH8$5tI W5}0S"Wj  xjB
 OL,21,B    RH+$52I W5|p0*`~jB   
 OL,22,B   $RHl05;I Wm|;|g|>B   
 OL,23,B      RH!IB$W"/ussssssssssssssssz/!B$  
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58724
 SC,0024
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,W                                       
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,l$  (,,    `|
 OL,3,Wssssssssssssssssssssssss;! (##    `~
 OL,4,W,,,,,,,,,,,,,,,,,,,,,,,$ `rs3!  `x
@@ -719,11 +688,10 @@ OL,20,W
 OL,21,W
 OL,22,W
 OL,23,GCos we danced on the floor in the round
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58725
 SC,0025
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q~}~~V+o'Qz=?~kko~o
@@ -749,14 +717,12 @@ OL,20,QGplease Norma.Q}.#!  W*'!*'
 OL,21,Q?n{nzw}g{?' !     W!x0`*!       
 OL,22,Qwk=w/!        W %j        
 OL,23,Qo~oo}{6          W k j5        
-OL,24,S                                       
 FL,0,0,0,0,100,100
 PN,58726
 SC,0026
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,W                                       
 OL,2,W      W`x~}t                       
 OL,3,W     Wxo{kt     Vd0           ( 
 OL,4,W    Wzw/n{~4    V*|0 `pp0  4b> 
@@ -779,11 +745,10 @@ OL,20,Q(0  4 `%               e 50
 OL,21,Q j jj j 8d(8#8)24 4`%6ij"7APart IV:    
 OL,22,Q  55 55j,! 5 =# jj*:*0: 5jAZombie-cat  
 OL,23,Q  j  *  )& % ",! % ! " " &AUprising    
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58727
 SC,0027
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]G*   *   *  ^* Q] \|Z|pp DWar,AWhat
@@ -808,12 +773,10 @@ OL,19,W  h   ",0     zup3/?/
 OL,20,W5h5j7    "##)l~}4   
 OL,21,Q}}"5        *7!    
 OL,22,Q?/'##      ##////m        `?////-0    
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58728
 SC,0028
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R`|?//#!  ##soo?k78!(< 
@@ -839,11 +802,10 @@ OL,20,Rg5j!~"5apn"p8}h51
 OL,21,Rwr5j{  ?a~'x
 OL,22,Ro%*0?`5j ?
 OL,23,R"//!
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58729
 SC,0029
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T            7###5 7#5  7###d           
@@ -855,10 +817,6 @@ OL,6,T         7###5 7#5  7###d 8###k
 OL,7,T         #k 7!j 0j  5*/ : e"g##        
 OL,8,T         p: 5 5(- 5 5h0+pppy i         
 OL,9,T         up8!jp,,dz uz"dppppp:         
-OL,10,                                        
-OL,11,Q                                       
-OL,12,Q                                       
-OL,13,Q                                       
 OL,14,Q         8d                 `p         
 OL,15,Q        h! )t              8! e        
 OL,16,Q        j&#,n             `=##i        
@@ -869,11 +827,10 @@ OL,20,Q    ^   2<,n{}~!$0W.9Qn{999}t8.u
 OL,21,Q  ^     9f|+n8! 0Wb"fQ*nzv}{-k4      
 OL,22,Q ^    (z~~/ ! Wif7=aQ nv>*jlse      
 OL,23,Q  ^  89ww+) ! W`$>7zdQ"/.--r~o|0    
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58730
 SC,0030
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T             7####5 7#5                
@@ -885,7 +842,6 @@ OL,6,T          j#57kj#5 7#5 8####5
 OL,7,T          "4"  !h!j 0j e"g##!          
 OL,8,T           i h4 6 5(- epy i            
 OL,9,T           "t5jx!jp,,dpppp:            
-OL,10,                                        
 OL,11,Q    t   G     EPISODE XII:             
 OL,12,Q   ~t  G    A Jumble sale             
 OL,13,Q  j{?'d G                              
@@ -899,11 +855,10 @@ OL,20,Q"!|#G Tatooine's climate  W(?zzu
 OL,21,Q(j4G had caused problems Wj5?z 
 OL,22,Q 5G with many of the R2 Wz5////k4
 OL,23,Q  +////'G units...            W/m   "/-
-OL,24,V                                       
 FL,0,0,0,0,100,100
 PN,58731
 SC,0031
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,TZ    `  Y8#######5 7#5  7###d  (Z`     
@@ -929,11 +884,10 @@ OL,20,Q"!|#  W(?zzuQZ jp/  !       0$
 OL,21,Q(j4  Wj5?zQ Z'z|           0 
 OL,22,Q 5  Wz5////k4QZ4          (  
 OL,23,Q  +////'  W/m   "/-QZzoz{o0          ` 
-OL,24,V                                       
 FL,0,0,0,0,100,100
 PN,58732
 SC,0032
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,WGVFWGWGWGWGSCWGWGWG
@@ -959,11 +913,10 @@ OL,20, WGVGWGWGQ||h<40|j  h|h|4/h, WG
 OL,21,WGVFWGWGQ-lj?55j  jnjn5/l*lW G
 OL,22, WGVGWGWGQ,.*%5//*/ *.j*%,.h~ WG
 OL,23,WGVFWGWGWGW|GWGW|GWGWG
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58733
 SC,0033
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,GHigh tech UIs and on-demand information
@@ -989,11 +942,10 @@ OL,20,TBAlexa, get me Bamboozle on page 390Q
 OL,21,T]]B/          T]^ Q zQ]B       
 OL,22,T]B/ T]^KQ Q]B       
 OL,23,DTeletext (1973)     AAmazon Echo (2014)
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58734
 SC,0034
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]Q    `ppp0                            
@@ -1019,11 +971,10 @@ OL,20,V]PZ                    Y x\W2  " V
 OL,21,T]PZ                    Yx\W$     Tj
 OL,22,W]PZ    `pp             Y##/////#     
 OL,23,T]PZ `x~~|t            Y            
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58735
 SC,0035
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W Z$Y       V  `ppp    WZ (           
@@ -1049,11 +1000,10 @@ OL,20,T`~]P h~?zyV+.u{?'Px'c/#
 OL,21,T]P   #*o? V  #-//##!P n?! z'       
 OL,22,T z
 OL,23,T]V                                     
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58736
 SC,0036
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,S`,,,,,,,,,,,,,,,0 Tx]        Qh4P "#o
@@ -1079,11 +1029,10 @@ OL,20,T4Wkot0 (   jT]U EXTRA TERRESTRIAL
 OL,21,TuW)gwo;<0   *T]   CIntelligence     
 OL,22,W       #+.vw+/!                       
 OL,23,                      B                 
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58737
 SC,0037
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,WZV`     W(  YW`|}UZ Y$         V `U   
@@ -1109,11 +1058,10 @@ OL,20,WZ  "d   UZ    `   YT`]R $x~<    "!Wx?9
 OL,21,WZ   YiZ           YT~]R x/#W     p~g& 
 OL,22,WZ    Ym0ZT"      YTz]RxtW   p~?9!  
 OL,23,WZ     Y#mtZ   Y              `x~o9#    
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58738
 SC,0038
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W    4     8! FRONT VIEW)0   i          
@@ -1143,7 +1091,7 @@ OL,24,                                       X
 FL,0,0,0,0,100,100
 PN,58739
 SC,0039
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W                        WT =0 8)0  V`>!
@@ -1169,11 +1117,10 @@ OL,20,W?#   *c- ./q+ "oQ|h||h|4 Vh^Qh|h
 OL,21,W    `|?!h%    R||||||~ 4j|||
 OL,22,W   xg a     R p~
 OL,23,W  h'0)~ IGwant to help you, Ro-land
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58740
 SC,0040
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W Z$Y       V  `ppp    WZ (           
@@ -1199,11 +1146,10 @@ OL,20,T`~]P h~?zyV+.u{?'Px?g/#
 OL,21,T]P   #*o? V  #-//##!P n?! z'       
 OL,22,T z
 OL,23,T]V                                     
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58741
 SC,0041
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W
@@ -1229,11 +1175,10 @@ OL,20,Wuogr/0s/e ?z5jw(
 OL,21,W5?sy};%~pyqrw}rx
 OL,22,W55//g~
 OL,23,W55j
-OL,24,W                                       
 FL,0,0,0,0,100,100
 PN,58742
 SC,0042
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R SQR     RR READ     R TAB      R TAB  
@@ -1242,7 +1187,6 @@ OL,3,T]W=n A^  \T]W=nASTOP\T]W=& A"  \T]W=& A
 OL,4,T]W%*     \T]W%*     \T]W%      \T]W%   
 OL,5,T]WGGOSUB \T]WG  NEW \T]WGPRINT \T]WGPRI
 OL,6,A CIRCLE  AAQd$       A (C)      A (C)  
-OL,7,                                        
 OL,8,R BIN      R CODE     R INT      R RND  
 OL,9,T]W<d     \T]W4      \T]W<d     \T]W,<$ 
 OL,10,T]W=f A*  \T]W5  AAT \T]W=f A<  \T]W 5  
@@ -1259,11 +1203,10 @@ OL,20,                             Q~]S~]R~]V~
 OL,21,                            Q~]S~]R~]V~]
 OL,22,                           Q~]S~]R~]V>] 
 OL,23,W] (C) 1982-2017 Sinclair Research Ltd. 
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58743
 SC,0043
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W   Q Q`l|d0 V          THE            
@@ -1289,11 +1232,10 @@ OL,20,               W#/'    *%
 OL,21,D]GFrom 27/09/86   \  W ?#     
 OL,22,D]GHer Majesty's   \   Woog'       
 OL,23,D]GTheatre,London  \   W"oyy-#         
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58744
 SC,0044
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V 8,,,,,,,,,,d +]Q +'  Pxgssssssssss;
@@ -1323,7 +1265,7 @@ OL,24, V),,,,,,,,,,& x]Q xt  P+vssssssssssy
 FL,0,0,0,0,100,100
 PN,58745
 SC,0045
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W" ! W]    Q    x&!TBRUCE SPRINGSTEEN 
@@ -1349,15 +1291,12 @@ OL,20,Q]T                o4
 OL,21,Q]T                *5                 
 OL,22,W]T                 o}                 
 OL,23,W]T                 *                 
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58746
 SC,0046
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,W                                       
 OL,3,W Z  `p                                 
 OL,4,WZ `|u                                  
 OL,5,WZ`-        (a$        `|=            
@@ -1377,13 +1316,10 @@ OL,18,W                            ma}}~5
 OL,19,W                            "'w!    
 OL,20,W                              :3     
 OL,21,W                              &f/     
-OL,22,                                        
-OL,23,                                        
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58747
 SC,0047
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,VZ,  Y Tx?{7     75    S5T     "d 
@@ -1413,7 +1349,7 @@ OL,24,V                      W
 FL,0,0,0,0,100,100
 PN,58748
 SC,0048
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1, Uh0 `>                                 
@@ -1437,13 +1373,11 @@ OL,18,S]Un$n$n$A## W\]           \tx?  ao
 OL,19,S]V|4|4|4A###W\]FLemonade W\?!"o0   `
 OL,20,S?######W]F Shandy  W\'    +}||?
 OL,21,SW~W#///\!      "o' 
-OL,22,W                                       
 OL,23,APutting An End ToCGamblingBBoozeF&GPawn
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58749
 SC,0049
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W x'cocw7oc7w7o77wo???
@@ -1469,11 +1403,10 @@ OL,20,W ]  Uk%P    xo5     "!!
 OL,21,W ]   T+?/o' P  `2+o!j5 It's good 
 OL,22,W ]           P hba(   *% for Jobs. 
 OL,23,W ]           P "!    Th}}|~5           
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58750
 SC,0050
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V Qh7{4R,/|pV *6ww{s{! Wh4           Sp
@@ -1499,11 +1432,10 @@ OL,20, S$ppq(W(| |$Q 5jW (| |$Q 5  V `~]U]S ~
 OL,21,Sxw?}w?tW" !Qp&  )pW" !Qp&V  p|]U z]Sh
 OL,22,R]S###  \Q###Tx%5 Q#####Vpp|]U `x~]Sx
 OL,23,R"//!Tpp||'z0Vppx|~]Upx|]Spx|
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58751
 SC,0051
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]W ] Q   ]           
@@ -1533,7 +1465,7 @@ OL,24, 1941-2017W0        +o;y    *~z
 FL,0,0,0,0,100,100
 PN,58752
 SC,0052
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]                  Po{4Tp,,##,ZUk
@@ -1563,7 +1495,7 @@ OL,24,V]UZ~>~}}o.||}}0 TY"+///////##!
 FL,0,0,0,0,100,100
 PN,58753
 SC,0053
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W        p||||p                         
@@ -1589,11 +1521,10 @@ OL,20,W]ZT          Pj    Yk\T$(,S`~]Q   l
 OL,21,W]                  P o\Tb Q]Skw  +
 OL,22,W]                   P"o\S j]Qx}3+1 
 OL,23,W]                    P +\S]Qz||
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58754
 SC,0054
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T7QhtT+/#Qx}tT+
@@ -1619,11 +1550,10 @@ OL,20,TF   all...  T?'!Wrss1T/tpp
 OL,21,T}|pppppppppx~7Wp~tT+
 OL,22,T7Wx'o/+/}T*
 OL,23,TWh?QxW7Qx}tWo5Tk
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58755
 SC,0055
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T]FHow can the light that burned so    \
@@ -1649,11 +1579,10 @@ OL,20,BGary ShandlingFJimmy YoungBTerry Wogan
 OL,21,FCliff MichelmoreBGreg LakeFKenny Baker 
 OL,22,BAnton YelchinFJohn GlennBCarrie Fisher 
 OL,23,V]D Starmen and Starwomen (19xx-2016)  \
-OL,24,                                        
 FL,0,0,0,0,100,100
 PN,58756
 SC,0056
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,FNOW THAT'SR`<$             W`~t       
@@ -1683,7 +1612,7 @@ OL,24,S/////Tz{dp         SpU##////}|||||
 FL,0,0,0,0,100,100
 PN,58757
 SC,0057
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q               TjjSw3c{jss)08cs)0=0jk
@@ -1713,7 +1642,7 @@ OL,24,V)dp  ##",(,,  pppppppppp ,,  $,"# p`(
 FL,0,0,0,0,100,100
 PN,58758
 SC,0058
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V]W  k'                   Q`pPjTD1/999 
@@ -1743,7 +1672,7 @@ OL,24,S]PZ  z{~o',&              TY(&DMORE>>
 FL,0,0,0,0,100,100
 PN,58759
 SC,0059
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,U,,,,,,ppppppp    "#V 8! `&   p&  `8#   
@@ -1773,7 +1702,7 @@ OL,24,R 8&           W */'  "//   V
 FL,0,0,0,0,100,100
 PN,58760
 SC,0060
-PS,8000
+PS,C000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,V~'W`p||l0V+}
