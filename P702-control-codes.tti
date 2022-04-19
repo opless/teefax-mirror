@@ -4,7 +4,6 @@ SP,Z:\Documents\Projects\Teletext pages\teletext-full\P702-control-codes.tti
 PN,70201
 SC,0001
 PS,C000
-CT,30,C
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -29,7 +28,6 @@ FL,700,704,714,740,8ff,100
 PN,70202
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -56,7 +54,6 @@ FL,700,704,714,740,8ff,100
 PN,70203
 SC,0003
 PS,C000
-CT,8,T
 RE,0
 OL,0,       TTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -79,7 +76,6 @@ FL,700,704,714,740,8ff,100
 PN,70204
 SC,0004
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           
@@ -99,7 +95,6 @@ FL,700,704,714,740,8ff,100
 PN,70205
 SC,0005
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C hh:nn.ss
 OL,1,MB]DControl codes in teletext           

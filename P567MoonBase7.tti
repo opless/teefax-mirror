@@ -34,7 +34,6 @@ OL,24,Q]
 PN,56702
 SC,0002
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Q-! :     ` "^"""TQ0         `8&1$%   
@@ -64,7 +63,6 @@ OL,24,Q]
 PN,56703
 SC,0003
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Q/  :     ` "^"""TQ0         `8&1$%   
@@ -94,7 +92,6 @@ OL,24,Q]
 PN,56704
 SC,0004
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Q/! :     ` "^"""TQ0         `8&1$%   
@@ -124,7 +121,6 @@ OL,24,Q]
 PN,56705
 SC,0005
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Q/! :     ` "^"""TQ0         `8&1$%   
@@ -154,7 +150,6 @@ OL,24,Q]
 PN,56706
 SC,0006
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Q/! :     ` "^"""TQ0         `8&1$!   
@@ -184,7 +179,6 @@ OL,24,Q]
 PN,56707
 SC,0007
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,T]Q.! *     ` "^"""TQ0         `8&1$R   
@@ -214,5 +208,4 @@ OL,24,Q]
 PN,56708
 SC,0008
 PS,8000
-CT,8,T
 RE,0

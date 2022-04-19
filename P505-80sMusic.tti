@@ -4,7 +4,6 @@ SP,J:\peter\teefax\P505-80sMusic.tti
 PN,50501
 SC,0001
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D       / / / /  /  /  /  /  /  /  /G1/7
@@ -32,7 +31,6 @@ FL,500,504,100,506,8ff,8ff
 PN,50502
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D/ / / / / / / / / / / / / / / / / /G2/7
@@ -61,7 +59,6 @@ FL,500,504,100,506,8ff,8ff
 PN,50503
 SC,0003
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D/ / / / / / / / / / / / / / / / / /G3/7
@@ -90,7 +87,6 @@ FL,500,504,100,506,8ff,8ff
 PN,50504
 SC,0004
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D/ / / / / / / / / / / / / / / / / /G4/7
@@ -119,7 +115,6 @@ FL,500,504,100,506,8ff,8ff
 PN,50505
 SC,0005
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D/ / / / / / / / / / / / / / / / / /G5/7
@@ -148,7 +143,6 @@ FL,500,504,100,506,8ff,8ff
 PN,50506
 SC,0006
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D/ / / / / / / / / / / / / / / / / /G6/7
@@ -177,7 +171,6 @@ FL,500,504,100,506,8ff,8ff
 PN,50507
 SC,0007
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D       / / / /  /  /  /  /  /  /  /G7/7

@@ -4,7 +4,6 @@ SP,Z:\Documents\Projects\Teletext pages\teletext-full\P101-New.tti
 PN,10100
 SC,0000
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q<,lR<,lT<,lT||,<<<ll<,<,ll<,|<,|,lll,||
@@ -14,8 +13,6 @@ OL,5,            Tue 27th July 2021
 OL,6,CMTV ReviewsF.......................P434
 OL,9,G           Mon 5th April 2021          
 OL,10,CMEasterF...........................P173
-OL,11,CMEasterF...........................P173
 OL,13,G           Wed 17th March 2021         
 OL,14,CMSt.Patrick's Day 2021!F...........P174
-OL,15,CMSt.Patrick's Day 2021!F...........P174
 FL,173,173,173,173,100,100

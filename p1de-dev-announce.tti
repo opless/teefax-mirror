@@ -3,8 +3,7 @@ DS,inserter
 SP,/home/peterk/teletext/p1de-dev-announce.tti
 PN,1de00
 SC,0000
-PS,8040
-CT,0,C
+PS,8010
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||,,|,l,|,|<l|<,|,l||||||||

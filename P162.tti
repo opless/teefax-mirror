@@ -1,5 +1,4 @@
 DS,inserter
-CT,20,T
 PN,16201
 SC,0001
 PS,C000
@@ -42,11 +41,9 @@ OL,4,W]T           h|    |4 |4 |4
 OL,5,Q]T           j    ou`% 5            
 OL,6,W]T           *///   +/!  /%            
 OL,8,AM           Los Angeles Rams           
-OL,9,AM           Los Angeles Rams           
 OL,10,G                  (NFC)                
 OL,11,F                   vs                  
 OL,12,EM          Cincinnati Bengals          
-OL,13,EM          Cincinnati Bengals          
 OL,14,G                  (AFC)                
 OL,16,G                 23 - 20               
 OL,18,B   SoFi Stadium, Inglewood, California 

@@ -4,7 +4,6 @@ SP,C:\Teefax\P569Powerstation.tti
 PN,56901
 SC,0001
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss.
 OL,1,T]   V0 <!  h          5          5     
@@ -34,7 +33,6 @@ OL,24,V]
 PN,56902
 SC,0002
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ssH
 OL,1,T]   V0 <!  h          5          5     

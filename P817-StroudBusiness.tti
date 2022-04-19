@@ -35,7 +35,6 @@ FL,800,8ff,8ff,8ff,8ff,100
 PN,81702
 SC,0002
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R#uzp#
@@ -61,7 +60,6 @@ FL,800,8ff,8ff,8ff,8ff,100
 PN,81703
 SC,0003
 PS,8000
-CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]W,,,,$p0,,,,,,,$0,,,$ W`,,d F---------
@@ -92,7 +90,6 @@ FL,800,8ff,8ff,8ff,8ff,100
 PN,81704
 SC,0004
 PS,8000
-CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T*%/`3`3`3`3`3`3`3`*%/ r!r!r!r!r!r!r!/*%
@@ -123,7 +120,6 @@ FL,800,8ff,8ff,8ff,8ff,100
 PN,81705
 SC,0005
 PS,8000
-CT,8,T
 RE,0
 OL,0,        TEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,G]Q     AFounded 1977Qpp`p0      `pp`p0 

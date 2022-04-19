@@ -4,7 +4,6 @@ SP,C:\Users\Chace\Desktop\Teletext-CTS\P544-CTS.tti
 PN,54401
 SC,0001
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppW (<p04p000$p0$p0p0        
@@ -34,7 +33,6 @@ FL,540,540,540,540,100,100
 PN,54402
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppW (<p04p000$p0$p0p0        

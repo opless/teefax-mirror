@@ -4,7 +4,6 @@ SP,C:\Users\Rhys\Documents\teletext\P440-Now.tti
 PN,44001
 SC,0001
 PS,C000
-CT,25,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R~k4~k4hj5   (l0n= j5(l0x$n=  S  jd  =0
@@ -33,7 +32,6 @@ FL,441,470,800,200,f,100
 PN,44002
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R~k4~k4hj5   (l0n= j5(l0x$n=  S  jd  =0

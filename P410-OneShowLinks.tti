@@ -4,7 +4,6 @@ SP,J:\peter\teefax\P410-OneShowLinks.tti
 PN,41001
 SC,0001
 PS,C000
-CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
@@ -33,7 +32,6 @@ FL,411,411,412,413,8ff,8ff
 PN,41002
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
@@ -61,7 +59,6 @@ FL,411,411,412,413,8ff,8ff
 PN,41003
 SC,0003
 PS,C000
-CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
@@ -91,7 +88,6 @@ FL,411,411,412,413,8ff,8ff
 PN,41004
 SC,0004
 PS,C000
-CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
@@ -116,7 +112,6 @@ FL,411,411,412,413,8ff,8ff
 PN,41005
 SC,0005
 PS,C000
-CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,M Weekdays at 1900                      
@@ -144,7 +139,6 @@ FL,411,411,412,413,8ff,8ff
 PN,41006
 SC,0006
 PS,C000
-CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Q'##/##//////o
@@ -175,7 +169,6 @@ FL,411,411,412,413,8ff,8ff
 PN,41007
 SC,0007
 PS,C000
-CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,W?/o///####+/

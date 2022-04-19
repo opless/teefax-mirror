@@ -4,7 +4,6 @@ SP,E:\Teletext\TEEFAX\P898.tti
 PN,89801
 SC,0001
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
 OL,1,D]S        <l|<l(|,l(|,dQ^9SRVUT
@@ -28,7 +27,6 @@ FL,100,100,100,100,8ff,100
 PN,89802
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
 OL,1,D]S        <l|<l(|,l(|,dQ^9SRVUT
@@ -53,7 +51,6 @@ FL,100,100,100,100,8ff,100
 PN,89803
 SC,0003
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
 OL,1,D]S        <l|<l(|,l(|,dQ^9SRVUT
@@ -78,7 +75,6 @@ FL,100,100,100,100,8ff,100
 PN,89804
 SC,0004
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
 OL,1,D]S        <l|<l(|,l(|,dQ^9SRVUT

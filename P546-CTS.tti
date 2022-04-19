@@ -4,7 +4,6 @@ SP,C:\Users\Chace\Desktop\Teletext-CTS\P546-CTS.tti
 PN,54601
 SC,0001
 PS,C000
-CT,6,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{$11 1~+$k7j5~k4~k4"#############k
@@ -32,7 +31,6 @@ FL,540,548,142,600,0,100
 PN,54602
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{$11 1~+$k7j5~k4~k4"#############k
@@ -60,7 +58,6 @@ FL,540,548,142,600,0,100
 PN,54603
 SC,0003
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{$11 1~+$k7j5~k4~k4"#############k
@@ -88,7 +85,6 @@ FL,540,548,142,600,0,100
 PN,54604
 SC,0004
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{$11 1~+$k7j5~k4~k4"#############k
@@ -115,7 +111,6 @@ FL,540,548,142,600,0,100
 PN,54605
 SC,0005
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{$11 1~+$k7j5~k4~k4"#############k

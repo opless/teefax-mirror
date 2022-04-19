@@ -1,10 +1,9 @@
 DE,Read back page  14/12/01
 DS,inserter
 SP,\\VBOXSVR\VirtualShare\_ Teefax\P13C.ttix
-CT,99,C
 PN,13c00
 SC,0000
-PS,8040
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Sjk5pp0pppp0up`pp0ppp`pp05ppp 5     

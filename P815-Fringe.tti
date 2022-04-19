@@ -4,7 +4,6 @@ SP,Z:\Documents\Projects\Teletext pages\teletext-full\P815-Fringe.tti
 PN,81501
 SC,0001
 PS,C000
-CT,8,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,||||
@@ -31,7 +30,6 @@ FL,816,817,800,150,8ff,100
 PN,81502
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q||||<,,l,,,|,l,l<<,,<,,<,,|,,,|,l<,||||

@@ -31,7 +31,6 @@ OL,21,W         Q! ! !      " " "   " "     "
 PN,56102
 SC,0002
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
@@ -58,7 +57,6 @@ OL,21,W         Q! ! !      " " "   " "     "
 PN,56103
 SC,0003
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
@@ -85,7 +83,6 @@ OL,21,W         Q! ! !      " " "   " "     "
 PN,56104
 SC,0004
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
@@ -112,7 +109,6 @@ OL,21,W         Q! ! !      " " "   " "     "
 PN,56105
 SC,0005
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  
@@ -139,7 +135,6 @@ OL,21,W         Q! ! !      " " "   " "     "
 PN,56106
 SC,0006
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,Q{^{{{{{{{{;{{{{{{{{sww`bwwwwwwwwwww5e  

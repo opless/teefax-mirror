@@ -31,7 +31,6 @@ OL,21,WQ5   k   !    5"5^  *   a j!   4  h j
 PN,56002
 SC,0002
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,W          Q$      ( "     $   "     0 (
@@ -85,7 +84,6 @@ OL,21,WQ5   k   !    5"5^  *   a j!   4  h j
 PN,56004
 SC,0004
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,W    Q`     $      "                 $ (
@@ -112,7 +110,6 @@ OL,21,WQ5   k   !    5"5^  *   a j!   4  h j
 PN,56005
 SC,0005
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
 OL,1,W Q0  "    2$       `                ! (
@@ -139,7 +136,6 @@ OL,21,WQ5   k   !    5"5^  *   a j!   4  h j
 PN,56006
 SC,0006
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss  
 OL,1,W          Q$  `    (           `      (
@@ -166,7 +162,6 @@ OL,21,WQ5   k   !    5"5^  *   a j!   4  h j
 PN,56007
 SC,0007
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn. ss 
 OL,1,W          Q$  0  ` "  0       `       (
@@ -193,5 +188,4 @@ OL,21,WQ5   k   !    5"5^  *   a j!   4  h j
 PN,56008
 SC,0008
 PS,8000
-CT,8,T
 RE,0

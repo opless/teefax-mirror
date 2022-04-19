@@ -34,7 +34,6 @@ FL,0,0,0,0,100,100
 PN,17302
 SC,0002
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,V]           W]U5VUjVj]           
@@ -64,7 +63,6 @@ FL,0,0,0,0,100,100
 PN,17303
 SC,0003
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,WT]Sl h$  (<d(<d     l,l   `p0j,   F2/3 
@@ -93,7 +91,6 @@ FL,0,0,0,0,100,100
 PN,17304
 SC,0004
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,T]
@@ -123,7 +120,6 @@ FL,0,0,0,0,100,100
 PN,17305
 SC,0005
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,2,P      S~S}PSh4PS/}S/}SthP         
@@ -152,7 +148,6 @@ FL,0,0,0,0,100,100
 PN,17306
 SC,0006
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,V////'W rw/Vk
@@ -182,7 +177,6 @@ FL,0,0,0,0,100,100
 PN,17307
 SC,0007
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,WT]S<$<lh,$l$<$<l       W`p        C1/2 
@@ -212,7 +206,6 @@ FL,0,0,0,0,100,100
 PN,17308
 SC,0008
 PS,C000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH CC%H:%M.%S
 OL,1,WT]                                C2/2 

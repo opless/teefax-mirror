@@ -35,7 +35,6 @@ FL,540,538,537,530,100,100
 PN,58402
 SC,0002
 PS,8000
-CT,8,T
 RE,0
 OL,0, XXXXXXXTEEFAX mpp DAY dd MTH hh:nn.ss?R
 OL,1,Qy{y{yc&df$^$$ $ $ $( ( ( ((((()8)3vwvwv
@@ -66,7 +65,6 @@ FL,540,538,537,530,100,100
 PN,58403
 SC,0003
 PS,8000
-CT,8,T
 RE,0
 OL,0, XXXXXXXTEEFAX mpp DAY dd MTH hh:nn.ss?R
 OL,1,Qy{y{yc&df$^$$ $ $ $( ( ( ((((()8)3vwvwv
@@ -97,7 +95,6 @@ FL,540,538,537,530,100,100
 PN,58404
 SC,0004
 PS,8000
-CT,8,T
 RE,0
 OL,0, XXXXXXXTEEFAX mpp DAY dd MTH hh:nn.ss?R
 OL,1,Qy{y{yc&d&$^$$ $ $ $( ( ( ((((()8)3vwvwv
@@ -128,7 +125,6 @@ FL,540,538,537,530,100,100
 PN,58405
 SC,0005
 PS,8000
-CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH hh:nn.ss?R
 OL,1,Qy{y{yc&d&$^$$ $ $ $( ( ( ((((()8)3vwvwv
@@ -159,7 +155,6 @@ FL,540,538,537,530,100,100
 PN,58406
 SC,0006
 PS,8000
-CT,8,T
 RE,0
 OL,0, XXXXXXXWT-FAX mpp DAY dd MTH hh:nn.ss?R
 OL,1,Qy{y{yc&d&$^$$ $ $ $( ( ( ((((()8)3vwvwv
@@ -190,7 +185,6 @@ FL,540,538,537,530,100,100
 PN,58407
 SC,0007
 PS,8000
-CT,8,T
 RE,0
 OL,0, XXXXXXXTEEFAX mpp DAY dd MTH hh:nn.ss?R
 OL,1,Qy{y{yc&d&$^$$ $ $ $( ( ( ((((()8)3vwvwv
@@ -221,5 +215,4 @@ FL,540,538,537,530,100,100
 PN,58408
 SC,0008
 PS,8000
-CT,8,T
 RE,0

@@ -3,8 +3,8 @@ DS,inserter
 SP,J:\peter\teefax\P500-Art.tti
 PN,50000
 SC,0000
-PS,8000
-CT,8,T
+PS,8010
+CT,10,T
 RE,0
 FL,8ff,8ff,8ff,8ff,8ff,100
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
