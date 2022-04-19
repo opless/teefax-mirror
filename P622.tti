@@ -3,35 +3,40 @@ DE,TV
 PS,8040
 PN,62201
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 18th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 19th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0610FCountryfile
-OL,6,G0715FAntiques Roadshow
-OL,7,G0815FSuper League Show 2022
+OL,5,G0700FLandward
+OL,6,G0730FBeechgrove
+OL,7,G0800FEarth's Great Rivers II
 OL,8,G0900FBBC News
 OL,9,G1000FSnooker: World Championship
-OL,10,G1215FTalking Snooker
+OL,10,G1215FPolitics Live
 OL,11,G1300FSnooker: World Championship
 OL,12,G1800FRichard Osman's House of Games
 OL,13,G1830FLightning
 OL,14,G1900FGreat Continental Railway Journeys
 OL,15,G2000FYorkshire Midwives on Call
-OL,16,G2100FHouse of Maxwell
-OL,17,G2200FOfficial Secrets
-OL,18,G2345FSnooker: World Championship...
-OL,19,G0035FSnooker: World Championship Extra
-OL,20,G0235FCountryfile
-OL,21,G0340FMasterChef
+OL,16,G2100FLife After Life
+OL,17,G2150FThe Archiveologists
+OL,18,G2155FThe Archiveologists
+OL,19,G2200FQI
+OL,20,G2230FNewsnight
+OL,21,G2310FWeather
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,623,104,535,700,0,620
 PN,62202
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 18th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 19th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0440FThis is BBC Two
+OL,5,G2315FSnooker: World Championship...
+OL,6,G0005FSnooker: World Championship Extra
+OL,7,G0205FMuhammad Ali
+OL,8,G0255FMasterChef
+OL,9,G0355FMasterChef
+OL,10,G0425FThis is BBC Two
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,623,104,535,700,0,620
