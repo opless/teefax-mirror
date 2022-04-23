@@ -17,12 +17,12 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FMellow Magic       BVirgin Radio       
-OL,5,FTimes Radio        BPlanet Rock        
-OL,6,FAbsolute 80s       BSunrise Radio UK   
-OL,7,FPremierChristian   BPremier Praise     
-OL,8,FFun Kids UK        BJazz FM Stereo     
-OL,9,FBFBS UK            BVirgin Anthems     
+OL,4,FBFBS UK            BMellow Magic       
+OL,5,FVirgin Radio       BTimes Radio        
+OL,6,FPlanet Rock        BAbsolute 80s       
+OL,7,FSunrise Radio UK   BPremierChristian   
+OL,8,FPremier Praise     BFun Kids UK        
+OL,9,FJazz FM Stereo     BVirgin Anthems     
 OL,10,FVirgin Chilled     BAbsolute 90s       
 OL,11,FScala Radio        BTalkRadio          
 OL,12,FtalkSPORT 2        BBoom Radio UK      
@@ -33,11 +33,11 @@ PN,53503
 SC,0003
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FGold Cambs         BRadio Maria Eng    
-OL,5,FBBC Radio Cambs    BGreatest Hits UK   
-OL,6,FHITS RADIO UK      BStar Radio (Cam)   
+OL,4,FBBC Radio Cambs    BGold Cambs         
+OL,5,FHITS RADIO UK      BGreatest Hits UK   
+OL,6,FStar Radio (Cam)   BCapital UK         
 OL,7,FHeart Cambridge    BDubai Now          
-OL,8,FCapital UK         BSmooth Country     
+OL,8,FSmooth Country     BRadio Maria Eng    
 OL,9,FEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
@@ -67,10 +67,10 @@ OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
 OL,4,FBBC Radio 1        BBBC Radio 2        
 OL,5,FBBC Radio 3        BBBC Radio 4        
-OL,6,FBBC Radio 5 Live   BBBC Radio 4Extra   
-OL,7,FBBC Radio 1Xtra    BBBC AsianNetwork   
-OL,8,FBBC WorldService   BBBC Radio 6Music   
-OL,9,FBBC Guide        (data)
+OL,6,FBBC Radio 6Music   BBBC Radio 5 Live   
+OL,7,FBBC Radio 4Extra   BBBC Radio 1Xtra    
+OL,8,FBBC AsianNetwork   BBBC WorldService   
+OL,9,FBBC R5LiveSportX   BBBC Guide        (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
