@@ -3,15 +3,15 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0710F
-OL,6,G0735F
-OL,7,G0800F
-OL,8,G0830F
-OL,9,G0900F
-OL,10,G0930F
+OL,5,G0710FCheers
+OL,6,G0735FThe King of Queens
+OL,7,G0800FThe King of Queens
+OL,8,G0830FThe King of Queens
+OL,9,G0900FFrasier
+OL,10,G0930FFrasier
 OL,11,G1000FFrasier
 OL,12,G1030FUndercover Boss USA
 OL,13,G1125FChannel 4 News Summary
@@ -28,20 +28,23 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1900FChannel 4 News
-OL,6,G2000FNew: The Great Home Transformation
-OL,7,G2100FNew: Grand Designs: The Streets
-OL,8,G2200FNew: Gordon Ramsay: Uncharted
-OL,9,G2305FThe World's Most Extreme: Bridges
-OL,10,G0005FMarried to a Psychopath
-OL,11,G0105FJohnny Vegas: Carry on Glamping
-OL,12,G0200FPaper Towns
-OL,13,G0350FLocation, Location, Location
-OL,14,G0445FMoneybags
-OL,15,G0540FThe Perfect Pitch
+OL,6,G2000FNew: Secret Spenders: Beat the...
+OL,7,G2100FNew: Taskmaster
+OL,8,G2200FNew: Chivalry
+OL,9,G2230F8 Out of 10 Cats Does Countdown
+OL,10,G2330FThe Man with a Penis on His Arm
+OL,11,G0030FSAS: Who Dares Wins
+OL,12,G0125FDerry Girls
+OL,13,G0155FHullraisers
+OL,14,G0220FWife Swap USA
+OL,15,G0305FMMA: PFL Challenger Series
+OL,16,G0400F
+OL,17,G0455F
+OL,18,G0550F
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
