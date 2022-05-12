@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 11th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 12th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0710FCheers
@@ -12,11 +12,11 @@ OL,7,G0800FThe King of Queens
 OL,8,G0830FThe King of Queens
 OL,9,G0900FFrasier
 OL,10,G0930FFrasier
-OL,11,G1000FFrasier
-OL,12,G1030FUndercover Boss USA
-OL,13,G1125FChannel 4 News Summary
-OL,14,G1130FCouples Come Dine with Me
-OL,15,G1230FLive: Steph's Packed Lunch
+OL,11,G1000F
+OL,12,G1030F
+OL,13,G1125F
+OL,14,G1130F
+OL,15,G1230F
 OL,16,G1410FCountdown
 OL,17,G1500FA Place in the Sun
 OL,18,G1600FThe Great House Giveaway
@@ -28,21 +28,22 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 11th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 12th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1900FChannel 4 News
-OL,6,G2000FNew: The Great Home Transformation
-OL,7,G2100FNew: Grand Designs: The Streets
-OL,8,G2205FNew: Gordon Ramsay: Uncharted
-OL,9,G2305FThe World's Most Extreme: Roads
-OL,10,G0005FSAS: Who Dares Wins
-OL,11,G0100FUndercover Boss Canada
-OL,12,G0150FDrunk Wedding
-OL,13,G0310FCome Dine with Me
-OL,14,G0400FThe Queen's Lost Family
-OL,15,G0455FLocation, Location, Location
-OL,16,G0550FKirstie's Vintage Gems
+OL,6,G2000FNew: Secret Spenders: Beat the...
+OL,7,G2100FNew: Taskmaster
+OL,8,G2200FNew: Chivalry
+OL,9,G2230F8 Out of 10 Cats Does Countdown
+OL,10,G2330FFirst Dates
+OL,11,G0030FMarried to a Psychopath
+OL,12,G0125FDerry Girls
+OL,13,G0200FHullraisers
+OL,14,G0225FRamsay's Hotel Hell
+OL,15,G0315FCome Dine with Me
+OL,16,G0410FThe Queen's Lost Family
+OL,17,G0505FLocation, Location, Location
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
