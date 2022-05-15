@@ -3,36 +3,43 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1000FSaturday Kitchen Live
-OL,6,G1130FThe Airport: Back in the Skies
-OL,7,G1200FFootball Focus
-OL,8,G1300FBBC News
-OL,9,G1310FWeather
-OL,10,G1315FMOTDx
-OL,11,G1345FMOTD Top 10 Most Memorable FA...
-OL,12,G1415FFA Cup Rewind
-OL,13,G1515FFA Cup: Road to Wembley
-OL,14,G1545FBBC News
-OL,15,G1555FLook East
-OL,16,G1600FMOTD Live: FA Cup Final -...
-OL,17,G1915FPointless Celebrities:...
-OL,18,G2000FEurovision Song Contest 2022
-OL,19,G0000FBBC News
-OL,20,G0015FWeather
-OL,21,G0020FMOTD: FA Cup Highlights
+OL,5,G0900FSunday Morning
+OL,6,G1000FPolitics East
+OL,7,G1030FMOTD: FA Cup Highlights
+OL,8,G1100FHomes Under the Hammer
+OL,9,G1200FBargain Hunt
+OL,10,G1245FPoints of View
+OL,11,G1300FBBC News
+OL,12,G1310FWeather for the Week Ahead
+OL,13,G1315FSongs of Praise: Great Ormond...
+OL,14,G1350FMOTD Live: Women's FA Cup Final...
+OL,15,G1705FGarden Rescue
+OL,16,G1735FDynasties II
+OL,17,G1835FBBC News
+OL,18,G1850FLook East
+OL,19,G1855FWeather
+OL,20,G1900FCountryfile
+OL,21,G2000FAntiques Roadshow
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0050FWeather for the Week Ahead
-OL,6,G0055FBBC News
+OL,5,G2100FGentleman Jack
+OL,6,G2200FBBC News
+OL,7,G2220FLook East
+OL,8,G2225FWeather
+OL,9,G2230FMatch of the Day 2
+OL,10,G0000FMOTD Top 10: PFA Players of the...
+OL,11,G0030FQuestion of Sport
+OL,12,G0100FWeather for the Week Ahead
+OL,13,G0105FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
