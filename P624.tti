@@ -3,11 +3,11 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0710FCheers
-OL,6,G0735FThe King of Queens
+OL,6,G0740FThe King of Queens
 OL,7,G0800FThe King of Queens
 OL,8,G0830FThe King of Queens
 OL,9,G0900FFrasier
@@ -28,20 +28,22 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1900FChannel 4 News
-OL,6,G1930FNew: MPs Under Threat: Dispatches
-OL,7,G2000FNew: Food Unwrapped Gets Baking
-OL,8,G2100FNew: Hunted
-OL,9,G2200FNew: Troy Deeney: Where's My...
-OL,10,G2305F999: On the Front Line
-OL,11,G0010FNew: Gordon Ramsay: Uncharted
-OL,12,G0100F24 Hours in A&amp;E
-OL,13,G0155FNew: The Cane Field Killings
-OL,14,G0255FGrand Designs
-OL,15,G0350FGeorge Clarke's Old House New Home
+OL,6,G2000FNew: Bake Off: The Professionals
+OL,7,G2100FNew: 24 Hours in A&amp;E
+OL,8,G2200FGogglebox
+OL,9,G2305FGogglebox
+OL,10,G0005FThe Great Garden Revolution
+OL,11,G0105FRamsay's Kitchen Nightmares USA
+OL,12,G0155FChivalry
+OL,13,G0220FSpreadsheet
+OL,14,G0250FSpreadsheet
+OL,15,G0320FTaskmaster
+OL,16,G0415FCome Dine with Me
+OL,17,G0510FLocation, Location, Location
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
