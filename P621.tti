@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 13th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 14th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FMorning Live
@@ -28,20 +28,19 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 13th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 14th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2000FUndercover: Britain's Biggest...
-OL,6,G2030FExtraordinary Portraits
-OL,7,G2100FSherwood
-OL,8,G2200FBBC News at Ten
-OL,9,G2230FLook East (West)
-OL,10,G2235FWeather
-OL,11,G2240FHungry for It
-OL,12,G2340FThis Is MY House
-OL,13,G0010FHave I Got a Bit More News for You
-OL,14,G0050FWeather for the Week Ahead
-OL,15,G0055FBBC News
+OL,5,G2000FDIY SOS: The Big Build
+OL,6,G2100FSherwood
+OL,7,G2200FBBC News at Ten
+OL,8,G2230FLook East (West)
+OL,9,G2240FEverything I Know About Love
+OL,10,G2325FPRU
+OL,11,G2350FFreeze: Skating on the Edge
+OL,12,G0040FCelebrity Catchpoint
+OL,13,G0110FWeather for the Week Ahead
+OL,14,G0115FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
