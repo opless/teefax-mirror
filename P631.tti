@@ -1,16 +1,12 @@
 DE,RTE Aertel
+DS,inserter
+SP,E:\Teefax\P631.tti
+PN,63107
+SC,0000
 PS,8000
-PN,6317F
-SC,3F7F
+CT,8,T
 RE,0
-OL,1,T
-OL,2,TBRTE  GAERTEL                         
-OL,3, 
-OL,4,T
-OL,6, BNEWS                                  
-OL,7,Aertel on Teefax! Page 631              
-OL,9,TGAERTEL MOBILE m.rte.ie/aertelT
-OL,11, NEWS         nil                       
-OL,12,SPORTS        nil                       
-OL,13,ENTERTAINMENT nil                       
-OL,14,BUSINESS      nil                       
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,  R                                    \
+OL,2,                                       \
+OL,23, This page will return in the future    
