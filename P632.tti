@@ -1,21 +1,34 @@
-DE,Read back page  20/11/07
+DE,ONEIndex
 DS,inserter
 SP,E:\Teefax\P632.tti
 PN,63200
 SC,0000
 PS,8000
+CT,8,T
 RE,0
-OL,0,        wxTED New page          %H:%M.%S
-OL,1,Wh,,lh,,lh,,lT||<,,,,|,,,<,,|,,,|,l<,|||
-OL,2,WjjkjjjkjjjsjT]Sj7k7k +t&jshs4ouz?T 
-OL,3,Wj*.jj**jj*,jT]Sj5j5j   j j 55jT 
-OL,4,W"###"###"###T##########################
-OL,5,CNews                                   
-OL,6,MWORLD'S WORST TELETEXT SERVICE LAUNCHES
-OL,8,D```````````````````````````````````````
-OL,10,C   Nothing                             
-OL,11,C   Because.... It's MYFAX....          
-OL,12,    Not a single update in months      C
-OL,23,D]CMyfax: Nothing at your fingertips... 
-OL,24,ATeefax HomeB CeefaxC Radio  FSoftware  
-FL,100,671,674,710,f,100
+OL,0,        ONE ON TEEFAX         C %H:%M.%S
+OL,1,V]  Tp0p`0p`p`` 0                       
+OL,2,V]  Tj =j$=jnbf %               W       
+OL,3,V]T  " #"!!"""" !               W Q    
+OL,4,V]T                W      
+OL,5,V]T                       @((Q@)) 
+OL,6,V]T                        W    
+OL,7,V] T                         Q    
+OL,8,V] T                  W W    
+OL,9,V] T                            W    
+OL,10,V] TDUHF CHANNEL 33             W    
+OL,11,V] TDEIRE                      W   
+OL,12,V] T                           W   
+OL,13,V]                              W    
+OL,14,V]                              W    
+OL,15,V]                              W    
+OL,16,V]                              W    
+OL,17,V]                              W    
+OL,18,V]                              W    
+OL,19,V]                              W    
+OL,20,V]                              W    
+OL,21,V]                              W    
+OL,22,V]                              W    
+OL,23,V]R ]]]]]                            V] 
+OL,24,V]A                                     
+FL,101,102,103,104,8ff,100
