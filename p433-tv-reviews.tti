@@ -3,12 +3,13 @@ DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\p433-tv-reviews.tti
 PN,43301
 SC,0001
-PS,C000
+PS,c000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC1/3 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC1/4 
 OL,4, LG 26LC2R 26" LCD TV (2007)            
 OL,5,CStandard:GLevel 1.0                    
 OL,6,CPage memory:G500 pages (40 subpages)   
@@ -32,13 +33,13 @@ OL,24,  ACRTs B STBs C LED/OLED/QLED F Info
 FL,434,435,432,431,8ff,100
 PN,43302
 SC,0002
-PS,C000
+PS,8000
 CT,30,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC2/3 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC2/4 
 OL,4, Vestel 26" LCD TV (2008)               
 OL,5,CStandard:GLevel 1.5                    
 OL,6,CPage memory:G1000 pages? (80 subpages) 
@@ -60,30 +61,58 @@ OL,24,  ACRTs B STBs C LED/OLED/QLED F Info
 FL,434,435,432,431,8ff,100
 PN,43303
 SC,0003
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC3/3 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC3/4 
 OL,4, Panasonic TX-P46G10 46" Plasma TV(2009)
 OL,5,CStandard:GLevel 2.5                    
 OL,6,CPage memory:G1500 pages                
 OL,7,CText aspect ratio:GNormal              
-OL,9,CWhat's good:GCrisp font at native reso-
-OL,10, lution. Fast and responsive interface. 
-OL,11, Subpage selection uses left/right keys 
-OL,12, on remote and displays list of subpages
-OL,13, in memory on screen. "Picture-and-pict-
-OL,14, ure" function. Page numbers with hex   
-OL,15, digits stored in memory. Text contrast 
-OL,16, control provided (press Menu twice).   
-OL,17,CWhat's not:GDoes not display new sub-  
-OL,18, pages as they're received, so animated 
-OL,19, pages (e.g. P521) stay on one frame and
-OL,20, require manual advancement.            
-OL,21,CBurn-in protection:GContrast control   
-OL,22, and plasma pixel orbiter.              
+OL,8,CWhat's good:GCrisp font at native reso-
+OL,9, lution. Fast and responsive interface. 
+OL,10, Subpage selection uses left/right keys 
+OL,11, on remote and displays list of subpages
+OL,12, in memory on screen. "Picture-and-pict-
+OL,13, ure" function. Page numbers with hex   
+OL,14, digits stored in memory. Text contrast 
+OL,15, control provided (press Menu twice).   
+OL,16,CWhat's not:GDoes not display new sub-  
+OL,17, pages as they're received, so animated 
+OL,18, pages (e.g. P521) stay on one frame and
+OL,19, require manual advancement.            
+OL,20,CBurn-in protection:GContrast control   
+OL,21, and plasma pixel orbiter.              
+OL,22,COther:GCan't tune C69, only up to C68. 
 OL,23,D]CReviewed May 2020 by Nick Schollar   
+OL,24,  ACRTs B STBs C LED/OLED/QLED F Info   
+FL,434,435,432,431,8ff,100
+PN,43304
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC4/4 
+OL,4, Toshiba 19DV615DB 19" LCD TV (2009)    
+OL,5,CStandard:GLevel 1.0                    
+OL,6,CPage memory:G256 pages (4 subpages)    
+OL,7,CText aspect ratio:GNormal              
+OL,9,CWhat's good:GCrisp font at LCD native  
+OL,10, resolution - same font as the LG 26LC2R
+OL,11, in fact. Subpage selection             
+OL,12, shows subpage number. Stores pages with
+OL,13, hex digits in page numbers in memory.  
+OL,14, Supports TOP TEXT as well as Fastext.  
+OL,16,CWhat's not:GNo Mix and Cancel functions
+OL,19,COther:GMulti-standard tuner (I,BG,DK,L)
+OL,20, goes down to around 425MHz, or 48MHz if
+OL,21, you painstakingly use the fine tuning. 
+OL,23,D]CReviewed Jun 2022 by Nick Schollar   
 OL,24,  ACRTs B STBs C LED/OLED/QLED F Info   
 FL,434,435,432,431,8ff,100
