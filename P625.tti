@@ -3,23 +3,23 @@ DE,TV
 PS,8040
 PN,62501
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 25th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 26th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0635FNoddy Toyland Detective
 OL,6,G0645FBrave Bunnies
 OL,7,G0655FThomas and Friends
 OL,8,G0705FMilo
-OL,9,G0715F
-OL,10,G0725F
-OL,11,G0730F
+OL,9,G0715FPip and Posy
+OL,10,G0725FPeppa Pig
+OL,11,G0730FFireman Sam
 OL,12,G0745FPAW Patrol
-OL,13,G0800F
-OL,14,G0815F
-OL,15,G0830F
-OL,16,G0850F
-OL,17,G0900F
-OL,18,G0915F
+OL,13,G0800FBaby Shark's Big Show
+OL,14,G0815FPirata and Capitano
+OL,15,G0830FNew: Santiago of the Seas
+OL,16,G0850FThe Adventures of Paddington
+OL,17,G0900FMimi's World
+OL,18,G0915FThe World According to Grandpa
 OL,19,G0930FMeet The Experts
 OL,20,G0940FMilkshake! Monkey's Amazing...
 OL,21,G0945FPeppa Pig
@@ -28,38 +28,50 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62502
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 25th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 26th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0955FCircle Square
 OL,6,G1000FSpongebob Squarepants
 OL,7,G1015FSpongeBob SquarePants
 OL,8,G1030FEntertainment News on 5
-OL,9,G1040FFriends
-OL,10,G1110FFriends
+OL,9,G1045FFriends
+OL,10,G1115FFriends
 OL,11,G1140FFriends
-OL,12,G1210FFriends
-OL,13,G1240FFriends
-OL,14,G1310FOur Great Yorkshire Life
-OL,15,G1410FOur Great Yorkshire Life
-OL,16,G1505FJane McDonald: River Cruising
-OL,17,G1700FMillionaire to Mastermind: Britain's ...
-OL,18,G1855F5 News Weekend
-OL,19,G1900FThe Madame Blanc Mysteries
-OL,20,G2000FNew: Hampton Court Palace:...
-OL,21,G2100FNew: Billy Connolly: 30...
+OL,12,G1210FThe Aurora Teagarden Mysteries
+OL,13,G1310FEntertainment News on 5
+OL,14,G1315FThe Aurora Teagarden Mysteries
+OL,15,G1400FLook Who's Talking Too
+OL,16,G1505FEntertainment News on 5
+OL,17,G1510FLook Who's Talking Too
+OL,18,G1545FLabyrinth
+OL,19,G1645F5 News Update
+OL,20,G1650FLabyrinth
+OL,21,G1755F5 News Weekend
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62503
 SC,0003
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 25th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 26th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2305FBritain's Comedy Greats: All...
-OL,6,G0100FThe LeoVegas Live Casino Show
-OL,7,G0300FEntertainment News on 5
-OL,8,G0310FCrimes that Shook Britain
+OL,5,G1800FAldi Vs Lidl: Supermarket Wars
+OL,6,G1900FQE2: The World's Most Luxurious...
+OL,7,G2000FNew: Bargain Loving Brits by...
+OL,8,G2100FNew: The Cruise
+OL,9,G2200FWhen Magic Goes Horribly Wrong
+OL,10,G2355FBusted in Bangkok
+OL,11,G0055FEntertainment News on 5
+OL,12,G0100FThe LeoVegas Live Casino Show
+OL,13,G0300FEntertainment News on 5
+OL,14,G0310FDogs Behaving (Very) Badly
+OL,15,G0400F
+OL,16,G0445F
+OL,17,G0510F
+OL,18,G0535F
+OL,19,G0540F
+OL,20,G0550F
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
