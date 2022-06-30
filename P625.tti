@@ -3,22 +3,22 @@ DE,TV
 PS,8040
 PN,62501
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 29th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 30th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0625FKid-e-Cats
 OL,6,G0630FBlue's Clues &amp; You!
 OL,7,G0650FFireman Sam
-OL,8,G0700FThomas &amp; Friends: All Engines Go!
-OL,9,G0710FPeppa Pig
-OL,10,G0720FPeppa Pig
-OL,11,G0725FPaw Patrol
+OL,8,G0700F
+OL,9,G0710F
+OL,10,G0720F
+OL,11,G0725F
 OL,12,G0735FMilo
-OL,13,G0750FPip and Posy
-OL,14,G0805FThe Adventures of Paddington
-OL,15,G0825FNew: Ricky Zoom
-OL,16,G0835FPeppa Pig
-OL,17,G0840FDaisy &amp; Ollie
+OL,13,G0750F
+OL,14,G0805F
+OL,15,G0825F
+OL,16,G0835F
+OL,17,G0840F
 OL,18,G0850FOdo
 OL,19,G0855FBen and Holly's Little Kingdom
 OL,20,G0910FSunny Bunnies
@@ -28,41 +28,43 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62502
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 29th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 30th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1215FShoplifters &amp; Scammers: At...
 OL,6,G1310F5 News at Lunchtime
 OL,7,G1315FHome and Away
 OL,8,G1345FNeighbours
-OL,9,G1415FThe Chronicle Mysteries: Deep End
+OL,9,G1415FNever Let You Go
 OL,10,G1600FBargain Loving Brits in the Sun
 OL,11,G1700F5 News at 5
 OL,12,G1800FNeighbours
 OL,13,G1830FEggheads
-OL,14,G1900FNew: The Gadget Show
-OL,15,G2000FNew: Police Interceptors
-OL,16,G2100FNew: 999: Critical Condition
-OL,17,G2200FNew: Ambulance: Code Red
-OL,18,G2305FNew: Skin A&amp;E
-OL,19,G0005FSpank Me Harder: Adults Only
-OL,20,G0100FThe LeoVegas Live Casino Show
-OL,21,G0300FEntertainment News on 5
+OL,14,G1900FGPs Behind Closed Doors
+OL,15,G2000FNew: Call Centre Chaos: Britain...
+OL,16,G2100FNew: The Hotel Inspector
+OL,17,G2200FBen Fogle: New Lives in the Wild
+OL,18,G2300FTaken 2
+OL,19,G0010FEntertainment News on 5
+OL,20,G0015FTaken 2
+OL,21,G0050FEntertainment News on 5
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62503
 SC,0003
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 29th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 30th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0310FThe Hotel Inspector
-OL,6,G0400F
-OL,7,G0445F
-OL,8,G0510F
-OL,9,G0535F
-OL,10,G0540F
-OL,11,G0550F
+OL,5,G0100FThe LeoVegas Live Casino Show
+OL,6,G0300FEntertainment News on 5
+OL,7,G0310FWorld's Most Scenic Railway...
+OL,8,G0400FTribal Teens
+OL,9,G0445FWildlife SOS
+OL,10,G0510FHouse Doctor
+OL,11,G0535FPeppa Pig
+OL,12,G0540FPaw Patrol
+OL,13,G0550FMilkshake! Monkey Amazing...
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
