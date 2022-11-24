@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0605FCountdown
@@ -28,25 +28,35 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1730FCome Dine with Me
 OL,6,G1800FThe Simpsons
 OL,7,G1830FHollyoaks
 OL,8,G1900FChannel 4 News
-OL,9,G2000FNew: Location, Location, Location
-OL,10,G2100FNew: Grand Designs: House of...
-OL,11,G2200FBritain's Most Expensive Houses
-OL,12,G2305FNew: Unapologetic
-OL,13,G0005FNew: Random Acts
-OL,14,G0010FRamsay's Kitchen Nightmares USA
-OL,15,G0105FCouples Come Dine with Me
-OL,16,G0200FDavid Baddiel: Jews Don't Count
-OL,17,G0305FGrandma
-OL,18,G0425FDevon and Cornwall
-OL,19,G0520FDrawers Off: The Big Naked...
-OL,20,G0545FFind It, Fix It, Flog It
+OL,9,G2000FNew: Aldi's Next Big Thing
+OL,10,G2100FNew: Taskmaster
+OL,11,G2200FNew: The Horne Section TV Show
+OL,12,G2230FNew: The Horne Section TV Show
+OL,13,G2305F8 Out of 10 Cats Does Countdown
+OL,14,G0005FRamsay's Kitchen Nightmares USA
+OL,15,G0055FYou Won't Believe This
+OL,16,G0150F24 Hours in A&amp;E
+OL,17,G0245FMade in the 80s: The Decade...
+OL,18,G0340FRandom Acts
+OL,19,G0350FRandom Acts
+OL,20,G0355FCouples Come Dine with Me
+OL,21,G0445FDevon and Cornwall
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,625,104,535,700,0,620
+PN,62403
+SC,0003
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 24th
+OL,2,Q 5jR5jT5jT]W     "m'F    C4
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0540FFind It, Fix It, Flog It
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
