@@ -3,25 +3,37 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 28th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 29th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0900FFIFA WC2022: Cameroon v Serbia
-OL,6,G1230FLoose Women
-OL,7,G1330FITV Lunchtime News
-OL,8,G1355FITV News Anglia
-OL,9,G1400FDickinson's Real Deal
-OL,10,G1500FFIFA WC2022: Brazil v Switzerland
-OL,11,G1810FFIFA WC2022: Portugal v Uruguay
-OL,12,G2115FCoronation Street
-OL,13,G2215FITV News
-OL,14,G2245FITV News Anglia
-OL,15,G2305FNew: Peston
-OL,16,G0000FDNA Journey
-OL,17,G0115FShop: Ideal World
-OL,18,G0300FCooking with the Stars
-OL,19,G0350FUnwind With ITV
-OL,20,G0500FThe Cube
+OL,5,G0900FLorraine
+OL,6,G1000FThis Morning
+OL,7,G1230FLoose Women
+OL,8,G1330FITV Lunchtime News
+OL,9,G1355FITV News Anglia
+OL,10,G1400FFIFA WC2022: Netherlands v Qatar
+OL,11,G1715FCatchphrase
+OL,12,G1800FITV News Anglia
+OL,13,G1830FITV Evening News
+OL,14,G1900FEmmerdale
+OL,15,G2000FCoronation Street
+OL,16,G2100FNew: Freddie and Jason: Two Men...
+OL,17,G2200FITV News at Ten
+OL,18,G2235FITV News Anglia
+OL,19,G2250FFIFA World Cup 2022 Highlights
+OL,20,G2350FThe Jonathan Ross Show
+OL,21,G0050FShop: Ideal World
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,624,104,535,700,0,620
+PN,62302
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 29th
+OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0300FThe Jonathan Ross Show
+OL,6,G0355FUnwind With ITV
+OL,7,G0510F1989 Liverpool v Arsenal Title...
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
