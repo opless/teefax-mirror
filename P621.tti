@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 02nd
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0915FMorning Live
@@ -14,25 +14,30 @@ OL,9,G1215FBargain Hunt
 OL,10,G1300FBBC News at One
 OL,11,G1330FLook East
 OL,12,G1345FDoctors
-OL,13,G1415FPlanet Earth: A Lion's Tale
-OL,14,G1430FMOTD Live: Croatia v Belgium
+OL,13,G1415FPlanet Earth: A Monkey's Tale
+OL,14,G1430FMOTD Live: Korea Republic v...
 OL,15,G1715FPointless
-OL,16,G2100FThe Traitors
-OL,17,G2200FBBC News and Weather
-OL,18,G2230FLook East (West)
-OL,19,G2240FQuestion Time
-OL,20,G2340FMOTD: FIFA World Cup Highlights
-OL,21,G0025FNewscast
+OL,16,G1800FBBC News at Six
+OL,17,G1830FLook East (West)
+OL,18,G1900FGranite Harbour
+OL,19,G2000FStrictly Come Dancing: Musicals...
+OL,20,G2105FMasterChef: The Professionals
+OL,21,G2205FBBC News and Weather
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 02nd
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0055FEngland's Greatest Showman - We...
-OL,6,G0125FMOTD: FIFA World Cup Replay -...
+OL,5,G2235FLook East (West)
+OL,6,G2245FThe Graham Norton Show
+OL,7,G2335FMOTD: FIFA World Cup Highlights
+OL,8,G0020FMOTD World Cup Top 10: Upsets
+OL,9,G0050FMOTD: FIFA World Cup Replay -...
+OL,10,G0230FWeather for the Week Ahead
+OL,11,G0235FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
