@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\Robert\Documents\Teletext\TEEFAX\P270.tti
 PN,27001
 SC,0001
-PS,8000
+PS,c000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -32,7 +32,7 @@ OL,22,W   "!   kjt1)99999999!
 OL,23,W         ik|rrrrr2                 
 PN,27002
 SC,0002
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -61,7 +61,7 @@ OL,22,Wvm9999999)s|:
 OL,23,W}s&&&fs|}k
 PN,27003
 SC,0003
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -90,7 +90,7 @@ OL,22,W5`~^Q]Gclass502.org.uk
 OL,23,W
 PN,27004
 SC,0004
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -119,7 +119,7 @@ OL,22,V!`>!     `>! x}~}~}~
 OL,23,Vh'      x' `~
 PN,27005
 SC,0005
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -148,7 +148,7 @@ OL,22,V]
 OL,23,V]                                      
 PN,27006
 SC,0006
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -176,7 +176,7 @@ OL,22,W    808$80<0<0  8$80t`4<044l$<$<08$
 OL,23,W    75e0e%7455  e0e%5!57 u5j w074r$    
 PN,27007
 SC,0007
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -205,7 +205,7 @@ OL,22,V       Q V
 OL,23,V  Q  V
 PN,27008
 SC,0008
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -234,7 +234,7 @@ OL,22,F]W `~]S`~^W
 OL,23,F]Wx]Sx^W
 PN,27009
 SC,0009
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -263,7 +263,7 @@ OL,22,Q]  fSfffff]   B]   D]   E]   W\j5 j5
 OL,23,Q]   S99999]   R]   D]   E]   W\j
 PN,27010
 SC,0010
-PS,8000
+PS,C000
 CT,25,C
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -292,7 +292,7 @@ OL,22,T]   "##!    ######
 OL,23,T]                                      
 PN,27011
 SC,0011
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -317,7 +317,7 @@ OL,20, T]                                    \
 OL,23,WZ##################################### 
 PN,27012
 SC,0012
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -346,7 +346,7 @@ OL,22,C]U
 OL,23,C]U                                     
 PN,27013
 SC,0013
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -374,7 +374,7 @@ OL,22,S
 OL,23,S                                       
 PN,27014
 SC,0014
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -403,7 +403,7 @@ OL,22,T7W55       `pp,&kT`
 OL,23,TWj!"#######!    "4T+
 PN,27015
 SC,0015
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -432,7 +432,7 @@ OL,22,Qs#Wx'               5                )0
 OL,23,QW6                 5                  
 PN,27016
 SC,0016
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -461,7 +461,7 @@ OL,22,Wg6  "?  k?'! `vo
 OL,23,Wg~!      "    ~6
 PN,27017
 SC,0017
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -490,7 +490,7 @@ OL,22,D]V
 OL,23,D]V                                     
 PN,27018
 SC,0018
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -516,7 +516,7 @@ OL,22, D]                                    \
 OL,23, D]                                    \
 PN,27019
 SC,0019
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -545,7 +545,7 @@ OL,22,S]D
 OL,23,S]                                      
 PN,27020
 SC,0020
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -574,7 +574,7 @@ OL,22,Q]Wuy{ pj{5z5z5z5 GSouth
 OL,23,Q]W                    G                
 PN,27021
 SC,0021
-PS,8000
+PS,C000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
