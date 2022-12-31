@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\Robert\Documents\Teletext\TEEFAX\P100-Index.tti
 PN,10001
 SC,0001
-PS,c010
+PS,8000
 CT,10,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -12,13 +12,14 @@ OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?
 OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
 OL,4,Q ###R###T###R##########################
 OL,5,CSeason's Greetings                     
-OL,6,AM MERRY CHRISTMAS TO ALL OUR VIEWERS!  
+OL,6,AM  HAPPY NEW YEAR TO ALL OUR VIEWERS   
 OL,8,F```````````````````````````````````````
 OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
 OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -47,6 +48,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -75,6 +77,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -103,6 +106,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -131,6 +135,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -159,6 +164,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -187,6 +193,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -215,6 +222,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -243,6 +251,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
@@ -300,6 +309,7 @@ OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
 OL,11,BBBC NEWS......G104FREVIEWS.........G400
 OL,12,BUK WEATHER....G401FMr Biffo........G570
 OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,14,G                                       
 OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
 OL,16,ACarlos' Art...G501CENGINEERING INFOG700
 OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
