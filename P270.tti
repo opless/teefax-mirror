@@ -3,7 +3,7 @@ DS,inserter
 SP,C:\Users\Robert\Documents\Teletext\TEEFAX\P270.tti
 PN,27001
 SC,0001
-PS,C000
+PS,c000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -32,7 +32,7 @@ OL,22,W   "!   kjt1)99999999!
 OL,23,W         ik|rrrrr2                 
 PN,27002
 SC,0002
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -61,7 +61,7 @@ OL,22,Wvm9999999)s|:
 OL,23,W}s&&&fs|}k
 PN,27003
 SC,0003
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -90,7 +90,7 @@ OL,22,W5`~^Q]Gclass502.org.uk
 OL,23,W
 PN,27004
 SC,0004
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -119,7 +119,7 @@ OL,22,V!`>!     `>! x}~}~}~
 OL,23,Vh'      x' `~
 PN,27005
 SC,0005
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -148,7 +148,7 @@ OL,22,V]
 OL,23,V]                                      
 PN,27006
 SC,0006
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -176,7 +176,7 @@ OL,22,W    808$80<0<0  8$80t`4<044l$<$<08$
 OL,23,W    75e0e%7455  e0e%5!57 u5j w074r$    
 PN,27007
 SC,0007
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -205,7 +205,7 @@ OL,22,V       Q V
 OL,23,V  Q  V
 PN,27008
 SC,0008
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -234,7 +234,7 @@ OL,22,F]W `~]S`~^W
 OL,23,F]Wx]Sx^W
 PN,27009
 SC,0009
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -263,7 +263,7 @@ OL,22,Q]  fSfffff]   B]   D]   E]   W\j5 j5
 OL,23,Q]   S99999]   R]   D]   E]   W\j
 PN,27010
 SC,0010
-PS,C000
+PS,8000
 CT,25,C
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -292,7 +292,7 @@ OL,22,T]   "##!    ######
 OL,23,T]                                      
 PN,27011
 SC,0011
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -317,7 +317,7 @@ OL,20, T]                                    \
 OL,23,WZ##################################### 
 PN,27012
 SC,0012
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -346,7 +346,7 @@ OL,22,C]U
 OL,23,C]U                                     
 PN,27013
 SC,0013
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -374,7 +374,7 @@ OL,22,S
 OL,23,S                                       
 PN,27014
 SC,0014
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -403,7 +403,7 @@ OL,22,T7W55       `pp,&kT`
 OL,23,TWj!"#######!    "4T+
 PN,27015
 SC,0015
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -432,7 +432,7 @@ OL,22,Qs#Wx'               5                )0
 OL,23,QW6                 5                  
 PN,27016
 SC,0016
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -461,7 +461,7 @@ OL,22,Wg6  "?  k?'! `vo
 OL,23,Wg~!      "    ~6
 PN,27017
 SC,0017
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -490,7 +490,7 @@ OL,22,D]V
 OL,23,D]V                                     
 PN,27018
 SC,0018
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -516,7 +516,7 @@ OL,22, D]                                    \
 OL,23, D]                                    \
 PN,27019
 SC,0019
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -545,7 +545,7 @@ OL,22,S]D
 OL,23,S]                                      
 PN,27020
 SC,0020
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -574,7 +574,7 @@ OL,22,Q]Wuy{ pj{5z5z5z5 GSouth
 OL,23,Q]W                    G                
 PN,27021
 SC,0021
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -603,7 +603,7 @@ OL,22,U           j5
 OL,23,U           j5           
 PN,27022
 SC,0022
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -632,7 +632,7 @@ OL,22,S]R
 OL,23,            _StandWithUkraine           
 PN,27023
 SC,0023
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -662,7 +662,7 @@ OL,23,W       Qz]W  z0       \
 OL,24,W       Q]W  h}       \          
 PN,27024
 SC,0024
-PS,C000
+PS,8000
 CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
@@ -689,3 +689,61 @@ OL,20,    Wj}s{!G     Qx!  h?!G1982`2020
 OL,21,     Ws/s%G   . Qhupp|'G           
 OL,22, .   W*?'!G .    Q'!G "What a    
 OL,23,       W#!G         Q+/#G     guy..."   
+PN,27025
+SC,0025
+PS,8000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,Q`0R`t.t W`pp pp`p0`p0`0pG.      .W  h  
+OL,2,Qo?xtR#.%U~kk43jw=jw=juG     .  WW)j(!
+OL,3,Q |+'Rvs=U/"*%/,*%/*%/(,'G  .     W"ckc#
+OL,4,Q #Rk=lr1W`p`0p`p0`0`p`p0`pp `p `p`0!j !
+OL,5,    R"m>!U~#jujw=j5n3"!~kk4~{4n3j5W   
+OL,6,         U+,*%/*%/*%,' / /"*%/*%,'($W   
+OL,7,Qd8#d8#d8#d8#d8#d8#d8#d8#d8#d8#d8#d8#d8#
+OL,8,R~}S~}T~}U~}V~}W~}R~}S~}T~}U~}V~}W~}R~}S
+OL,9,R"!S"!T"!U"!V"!W"!R"!S"!T"!U"!V"!W"!R"!S
+OL,10,         .           .               .  
+OL,11,  .           .             .     .     
+OL,12,       .         .      .               
+OL,13,                               .        
+OL,14,    .      .    .    .        HO HO HO! 
+OL,15,                         .       Wp     
+OL,16,W  V`u      S($Q(p`$          Qj5     
+OL,17,W   ~oo4   R  `0Q *6           U5 S`p=
+OL,18,W   o+k%   R  ~}Q ~          p|~5 So?
+OL,19,W`0`~t8! R n=Q j|~}Wp,&#Q0`~?
+OL,20,W "kw   R($Q"o}  p ~||%
+OL,21,W  *w?   RzuQ j%5 jj%6 5o/////?/ 
+OL,22,W|~|tppppQ      j  5 )ppvpppppyp%
+OL,23,W
+PN,27026
+SC,0026
+PS,8000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,Q `x|||p     p|||p     `x|||p    p|||t0 
+OL,2,Qxu "}  `~?###o}0  xu "}  ~! k0
+OL,3,S+?    ~!   "}  +?    o?  j5
+OL,4,S   `~?!            `~?!     `~' 
+OL,5,R p|/'!    o0   `?   p|/'!      //|t 
+OL,6,R~5 "o}ppp~?!  ~5     "u
+OL,7,V////////%   #///#    ////////%`|t   
+OL,8,W4480<0<044 hdh,h h  44<$80<04V*?  x?!
+OL,9,W75757 7 s5 jjjqj&n  s5w075741V "+//'#  
+OL,10,SZ       U        W        V`  4 Q  `   
+OL,11,SZ(d h#  U),0p8#  W pp0x.## V)$q&Q p d p
+OL,12,SZ ")`&! U`,d,,p  W"!h&h,,t V`&8dQ`pi:* 
+OL,13,SZ`& 5)` Ua,!i  ! W h%z #l"!V% "$Q  `$i0
+OL,14,SZ   !   U"   e   W   !  "       Q &!  "
+OL,15, ]T ppDShould auld acquaintance be T`p0 
+OL,16, ]T`5zDforgot, and never brought toTz`5 
+OL,17, ]T"!#Dmind...                     T#"! 
+OL,18,W  8&   6    :    5   "d  ",0  )d   ",0 
+OL,19,Q `p  S`p  Q`p  S`p  W`p  S`p  Q`p  U`p 
+OL,20,W j  Qj  Wj  Wj  Qj  Wj  Sj  Wj 
+OL,21,V(k)R(k)S(k)V(k)W(k)Q(k)T(k)R(k)
+OL,22,T zj0  zj0  zj0  zj0  zj0  zj0  zj0  zj0
+OL,23,R
