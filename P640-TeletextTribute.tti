@@ -1,0 +1,436 @@
+DE,A tribute to CEEFAX
+DS,inserter
+SP,C:\Users\Robert\Documents\Teletext\Ceefax Tribute.tti
+PN,64001
+SC,0001
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,M]DA note about this page...      0/16  
+OL,4,CWhen CEEFAX closed down on 23rd October
+OL,5,C2012, I put together a special tribute 
+OL,6,Cfor my YouTube channel.                
+OL,8, This was a blog of my own memories of  
+OL,9, the service, presented as a series of  
+OL,10, teletext pages with music, in the style
+OL,11, of the "Pages from Ceefax" in-vision.  
+OL,13, The pages were originally created in a 
+OL,14, demo version of the Cebra editor, and a
+OL,15, BBC Micro emulator was used to create  
+OL,16, an authentic-looking teletext display. 
+OL,18, I have converted the original "pages"  
+OL,19, to the TTI format used by Teefax/VBitPi
+OL,21, The original video can still be seen at
+OL,22,         Fyoutu.be/vqwL4XtDLyg          
+FL,100,100,100,100,8ff,100
+PN,64002
+SC,0002
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,D]Q                                     
+OL,2,D]QG You're watchingCPAGES FROM...      
+OL,3,D]Sh,<l    h,l<,4    h,,l    h<,|       
+OL,4,D]Sj 1jj'3oj 4h 57c3kj 5jj#s{j 1jj#7k   
+OL,5,D]S*,-.j 4j*,//,%5h|~*,,.j |*,-.j!4k   
+OL,6,T]S    "###      ####    "###    "###   
+OL,7,T]             #t6#####%                
+OL,8,T]  GA half-arsed tribute to the        
+OL,9,D]    GBBC's teletext service.          
+OL,10,T]                                      
+OL,11,V]                                      
+OL,12,V]                                      
+OL,13,V]         0                            
+OL,14,V]S        0       V]D1974 - 2012       
+OL,15,V]S  (     0    !                       
+OL,16,V]S   $        "     U                  
+OL,17,V]S    $  pq0 (      U||t  |  ||t       
+OL,18,V]S $  `|}t   (  U             
+OL,19,V]S  " ~4"    U/}    /'       
+OL,20,R]      "#!          U h4h4  |      
+OL,21,Rt+t)rt)rt+t{
+OL,22,R}0l3o}2o}0,c
+OL,23,D]G 1/16                       MoreH>>> 
+FL,100,100,100,100,8ff,100
+PN,64003
+SC,0003
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T]Wp`0`p `pp0`p0 p0`pp p0`0p            
+OL,2,T]Wn5n5j5j='j5j=$j=b=w            
+OL,3,T]W#"!#"!#"!#"!  #!"! "!#"!#            
+OL,5,GIt's the end of an era tonight as the  
+OL,6,Zfinal stage of digital switchover      
+OL,7,Gtakes place in Northern Ireland.       
+OL,9,CFor viewers, it means an end to fuzzy  
+OL,10,Cpictures and frees up a big chunk of   
+OL,11,Cradio spectrum for various purposes.   
+OL,13,GThere is one incredibly sad downside to
+OL,14,Gthis event, however, as it marks the   
+OL,15,Gfinal end to a truly innovative BBC    
+OL,16,Gservice, which millions of people have 
+OL,17,Grelied on for news and information over
+OL,18,Gthe past thirty-eight years:BCEEFAX.   
+OL,20,CWhen the last analogue transmitters are
+OL,21,Cturned off, teletext in the UK dies.   
+OL,23,D]G2/16              More in a momentH> 
+FL,100,100,100,100,8ff,100
+PN,64004
+SC,0004
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,U]Wp0`  ``   ` p0 0   ` p00p00`p```     
+OL,2,U]W=5j!7hjkjjj!=% 7jk j!=%5=%7j.bfj!    
+OL,3,U]W!!"!!""#"#"!#! #"# "!#!!#!#"#"""!!!! 
+OL,5,GCeefax was created in the early 1970s  
+OL,6,Gby a group of engineers in the BBC's   
+OL,7,Gresearch department.                   
+OL,9,CAs with many great inventions, it came 
+OL,10,Cabout by accident. The BBC was looking 
+OL,11,Cinto methods to transmit subtitles for 
+OL,12,Cthe hard of hearing.                   
+OL,14,GThe R&D people realised that there were
+OL,15,Glines at the very edges of the TV      
+OL,16,Gpicture which were not shown on screen 
+OL,17,Gand could therefore be used to encode  
+OL,18,Gdigital data.                          
+OL,20,CIt wasn't a huge amount (just 1K per   
+OL,21,Cframe) but that was enough for a few   
+OL,22,Clines of text and chunky graphics.     
+OL,23,U]G3/16              More in a momentH> 
+FL,100,100,100,100,8ff,100
+PN,64005
+SC,0005
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T]S                                     
+OL,2,T]S,|,`pp0| pppht`pp0p`0|0 `0 `0pp0`p0  
+OL,3,T]S  j=.% ,/j5j=.%{n1  j5|j5|n5*m4  
+OL,4,D]S # "##!#!###"#"##!#"!#! "###!###"#!!!
+OL,5,Q                                       
+OL,6,Q  k!<ljh,44 41<$1<4<4` k!<l(08j$       
+OL,7,Q  j wsjjs1)8!5s55u555+!j ws`&dj0       
+OL,8,V  (,,,,,,,,,,,,,,,,,$  ,,,,,,,,$       
+OL,10,MCThe extra data was translated into    
+OL,11,Cinto methods to transmit subtitles for 
+OL,12,MCtext on screen by a decoder.          
+OL,14,G                                       
+OL,15,GIn 1974, when the BBC launched its     
+OL,16,Gfirst experimental service, only 30    
+OL,17,Gpages were available.                  
+OL,18,G                                       
+OL,19,BThe early adopters were electronics    
+OL,20,Benthusiasts who built their own        
+OL,21,Bdecoders to receive the broadcasts.    
+OL,23,D]G4/16                          MoreH> 
+FL,100,100,100,100,8ff,100
+PN,64006
+SC,0006
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T]Wp`0`p `pp0`p0 p0`pp p0`0p            
+OL,2,T]Wn5n5j5j='j5j=$j=b=w            
+OL,3,T]W#"!#"!#"!#"!  #!"! "!#"!#            
+OL,5,GBy the mid-1980s, however, TVs with    
+OL,6,Gbuilt-in teletext decoders started to  
+OL,7,Gbecome commonplace, and the popularity 
+OL,8, of the service rocketed.               
+OL,10,CBy this time, Ceefax had 100s of pages 
+OL,11,Cand, along with its ITV rival, ORACLE, 
+OL,12,Cenjoyed millions of viewers a day.     
+OL,14,GIn the days before the Web or 24-hour  
+OL,15,Gnews channels, teletext was often the  
+OL,16,Gfirst place to go to for breaking newsZ
+OL,17, stories or to get football results.    
+OL,18,G                                       
+OL,19,CIt was more than just news and sport,  
+OL,20,Cthough ` there were plenty of games and
+OL,21,Cfeatures to keep you entertained.      
+OL,22,C                                       
+OL,23,D]G5/16              More in a momentH> 
+FL,100,100,100,100,8ff,100
+PN,64007
+SC,0007
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T]                                      
+OL,2,T]Sk4xl0| h4x,  sh<t j7}`<$s`<th7!     
+OL,3,T]Sj5.%hj5+t  j5 j7}j5 j=/j=      
+OL,4,T]S/*%+,$/..%,'  /*%/ *-'*% /"-,*%      
+OL,5,T]                                      
+OL,6,C```````````````````````````````` 6/16 `
+OL,7,GWith only a few lines of text, Ceefax's
+OL,8, newsgathering teams quickly learned the
+OL,9, skill of brevity.                      
+OL,11, The to-the-point nature of the service 
+OL,12, won it many fans. John Cleese was a    
+OL,13, regular user of the cricket pages and  
+OL,14, once rang the BBC to complain that the 
+OL,15, scores were out ofQ h,,,,,,,,|4        
+OL,16, date.             Q jV]W$,lQ\=5        
+OL,17,                   Q jVQ5   W 5  
+OL,18, Bruce Rioch, the   QjVQ5   W05  
+OL,19, assistant manager  QjV/////W,,,,,,,,%  
+OL,20, of QPR, found out Q "######Twggg5  
+OL,21, about his sacking from     T----////%  
+OL,22, Ceefax in 1997.                        
+OL,23,T]                              CMoreH> 
+FL,100,100,100,100,8ff,100
+PN,64008
+SC,0008
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,Rk5       j7`0p`ppj5p`pp($   S}tt
+OL,2,Rk4j7j7 j7}j5j5sj=wj=/     S+'o
+OL,3,R##!#"##bs "##"##"##"!#"## #    SQ|||~|
+OL,4,EWITH COMMENTS BY INSINCERE DAVE  Q}k}
+OL,5,                                  Q*ws?%
+OL,6,BThe BBC's commercial rivals were busy, 
+OL,7,Btoo. The original ORACLE gave way to   
+OL,8,BTeletext Ltd, to the dismay of many who
+OL,9,Bfelt Oracle's service was superior.    
+OL,11,F"Barney's Bunch > Turner the Worm!"    
+OL,13,BBut Teletext won most people over. In  
+OL,14,Bparticular, its computer games section,
+OL,15,BDigitiser, quickly came up with a      
+OL,16,Bwinning formula of scathing news items 
+OL,17,Bcombined with surreal characters.      
+OL,19,F"I hope humourless management never    
+OL,20,Fspoil it!"                             
+OL,21,G```````````````````````````````` 7/16 `
+OL,22,B]MD    BAMBER: "I LIKE PINK"    MOREH> 
+OL,23,B]          D                           
+FL,100,100,100,100,8ff,100
+PN,64009
+SC,0009
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,BMailboxCOctober 23rd                   
+OL,2,RssQw3c{#7k#s{#s{#3o#3k#7k
+OL,3,R,,Q5j %j .o,$j %z 4j,$j
+OL,4,R##Q####################################
+OL,5,   D]GRob  \In the 90s, a huge number of
+OL,6,    satellite channels appeared, most of
+OL,7,    which carried their own teletext    
+OL,8,    pages. While many channels offered  
+OL,9,    little more than a basic TV guide,  
+OL,10,    there were exceptions, such as the  
+OL,11,   GamazingBParamount Text.             
+OL,13,    PText's letters page,BMailbox,Gwas  
+OL,14,    something of a cult hit. It was a  G
+OL,15,    bulletin board for discussions from 
+OL,16,    the serious to the surreal, updated 
+OL,17,    daily, with anything up to a hundred
+OL,18,    messages, by its dedicated editor.  
+OL,20,    I was an avid reader, although I was
+OL,21,    too shy to even think about calling 
+OL,22,    in.                                 
+OL,23,R,,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B8/16Q,
+FL,100,100,100,100,8ff,100
+PN,64010
+SC,0010
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T]W              `5h?!             
+OL,2,T]CTeletextW    h' *o        F9/16  
+OL,3,T]CgraphicsW    *%  |~4          
+OL,4,T]Cwere an artW  |4 n5          
+OL,5,T]Cform in theirW/%`o!          
+OL,6,T]Cown right.W     rs?/%           
+OL,7,T]W                .'a?!            
+OL,8,T]CThey were veryW. (nwsx0            
+OL,9,T]Clow-resolutionW !<.kt           
+OL,10,T]Cand had just 7W  !0}          
+OL,11,T]Ccolours availableW?!!c4         
+OL,12,T]Cbut despite those W  j}         
+OL,13,T]Climitations, someW   "0        
+OL,14,T]Camazing art    Wp     t       
+OL,15,T]Cwas produced.W bspp|||z/d      
+OL,16,T]W               ?o|0     
+OL,17,T]CKudos to theW   `!     
+OL,18,T]Cteletext guysW p~uz}0  
+OL,19,T]Cwho did soW  h  
+OL,20,T]Cmuch with soW ! +o'{%  
+OL,21,T]Clittle.W         p0x'#!   
+OL,22,T]W             `z~?   
+OL,23,T]W            `?'#//##(,"#/'#//'    
+FL,100,100,100,100,8ff,100
+PN,64011
+SC,0011
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,V                        4              
+OL,2,T]G10/16  \V      `pppprswsppppp0       
+OL,3,V                    $ $*/ $ $          
+OL,4,R      pppppppppp0pppppppppp0pppppppppp0
+OL,5,R      uupupupupu5uupupupupu5uupupupupu5
+OL,6,R      //////////%//////////%//////////%
+OL,7,Q
+OL,8,Q
+OL,9,Q  |            |W  ppppp0Sppppp0 
+OL,10,Q              W  /////5S7#k##5 
+OL,11,Q              W 7####55S5 j  5 
+OL,12,Q              W 5    55S#k5 
+OL,13,Q  ///!            ///!W ////o55S7#k##! 
+OL,14,CCEEFAX was the bestW  j####kj5Qh,,,,l  
+OL,15,Cplace to go to get W `rppppr25Qj    j  
+OL,16,Ctravel news, too...W j#?//o#5!Qj//o  
+OL,17,                    W "s####s! Qj~jjj~  
+OL,18,B...as long as you didn't mind Q*/***/  
+OL,19,Bwaiting for the Weekend Rail  Wh,,,,,4 
+OL,20,BEngineering Info page to cycleWj     5 
+OL,21,Bthrough 30 frames or more to  Wz|||||5 
+OL,22,Bget to the screen of info you W//////% 
+OL,23,Bneeded!                 GH>>>IW/j*% 
+FL,100,100,100,100,8ff,100
+PN,64012
+SC,0012
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,A]Sppp`0p`pp   pp0pp0pp                 
+OL,2,A]S  j=j=$   , j5j5          C11/16
+OL,3,A]S # "!#"##   ##!#"!## !!!             
+OL,5,GThe lack of speed of the service has   
+OL,6, often been cited as a major drawback.  
+OL,7, Peter Kay extracted much comedy mileage
+OL,8, from his attempts to book a holiday    
+OL,9, through the 60-page carousels on       
+OL,10, Teletext Holidays.                     
+OL,12,CIn fact, many modern TVs can cache     
+OL,13,Cpages in memory and call them up on    
+OL,14,Cdemand: no wait, no need to pressBHOLD.
+OL,16, This means that teletext can be an     
+OL,17, order of magnitude faster than the     
+OL,18, "better" digital TV replacements.      
+OL,20,CHow long does the average BBC Red      
+OL,21,CButton user spend staring at aEPlease  
+OL,22,EWaitCmessage?                          
+OL,23,Q]C                            MoreH>>> 
+FL,100,100,100,100,8ff,100
+PN,64013
+SC,0013
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,A]S  pp0pp0  `p pp0  `pp`p0 p0          
+OL,2,A]S  j5,   n5j5  j= j=wj=   C 12/16
+OL,3,A]S!!##!#    #"!#"!  "##"!#"!#          
+OL,5,GTeletext's death has been a long and   
+OL,6, drawn-out affair.                      
+OL,8,CWhen ONdigital launched in 1998, the   
+OL,9,Cbroadcasters decided that teletext did 
+OL,10,Cnot fit in with this brave new digital 
+OL,11,Cworld and declared the new service a   
+OL,12,Cteletext-free zone.                    
+OL,14, I wonder how many people, even today,  
+OL,15, would prefer Ceefax, given the choice? 
+OL,17,CMy dad used to routinely call up 302   
+OL,18,Cto get the football results. However,  
+OL,19,Che cannot get to grips with BBC Red    
+OL,20,CButton's interface and so just does    
+OL,21,Cwithout instead.                       
+OL,23,Q]                 C           MoreH>>> 
+FL,100,100,100,100,8ff,100
+PN,64014
+SC,0014
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T]V<,    (        $               G13/16
+OL,2,T]V=$jkj{jjkj{j{j!575w5 INFORMATION     
+OL,3,T]V-,**(.****,*,* %%%,%                 
+OL,4,T]S]D TELETEXT SWITCHED OFF TUESDAY  ]  
+OL,5,T//-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.///
+OL,7, Teletext just doesn't seem as ` dare I 
+OL,8, say it? ` "sexy" to modern broadcasters
+OL,9, these days.                            
+OL,11,FThe final death blow was probably the  
+OL,12,Fadvent of laptops, smartphones and     
+OL,13,Ftablet computers.                      
+OL,15,GCeefax once promised "The world at your
+OL,16, fingertips". A web-connected iPad can  
+OL,17, actually deliver on that.              
+OL,19,FWhere once you would dial up 101 for   
+OL,20,Fthe news headlines, its now just as    
+OL,21,Feasy to open the BBC News App.         
+OL,23,T]                             S]DMore  
+FL,100,100,100,100,8ff,100
+PN,64015
+SC,0015
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T]S|,$|          h4                     
+OL,2,T]S  j7hw1{5~k5k5`j5k4     G14/16
+OL,3,T]S/,$/*-/(.%+,$/.%/.%/..%/*%           
+OL,4,GSo, at around midnight on the 23rd     
+OL,5, October, a switch will be flicked and  
+OL,6, the "Newspaper With Thousands of       
+OL,7, Editions Every Day" will cease to be.  
+OL,9, I spent many a happy Sunday afternoon  
+OL,10, when I was kid calling up page after   
+OL,11, page, eventually getting to esoteric   
+OL,12, stuff like the Bridge pages. Now all I 
+OL,13, have are memories such as:             
+OL,15,Q(GAt Speed on BBC1 and In Depth on BBC2
+OL,16,Q(GPress REVEAL for answer.             
+OL,17,Q(GThose weird test pages full of ~~~
+OL,18,   symols                               
+OL,19,Q(GPressAREDGto start Bamboozle on      
+OL,20,   Channel 4.                           
+OL,21,Q(GSpecially made Ceefax pages onBBob's 
+OL,22,  BFull HouseGprize TV sets.            
+OL,23,T]G                         NO MOREH:-( 
+FL,100,100,100,100,8ff,100
+PN,64016
+SC,0016
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,7,              CEEFAX GONE               
+OL,9,              W  h|||4                  
+OL,10,              W  j5                  
+OL,11,              W  *///%                  
+OL,14,               1974-2012                
+OL,23,                                   15/16
+FL,100,100,100,100,8ff,100
+PN,64017
+SC,0017
+PS,C000
+CT,25,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,7,R    h     h 4        4             h   
+OL,8,Rj#jkjkj{j#j!75s5775757jkjk jkkj{ jjj:  
+OL,9,R* *.*.*,* *$%%-%% %=%-*.**(* **,(*.**  
+OL,10,R                   !                   
+OL,11,              W                         
+OL,17,       CMusic byGKevin MacLeod          
+OL,23,                                   16/16
+FL,100,100,100,100,8ff,100
