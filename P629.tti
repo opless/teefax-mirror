@@ -3,19 +3,19 @@ DE,TV
 PS,8040
 PN,62901
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 10th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 11th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0900FFast Justice
-OL,6,G1000FRick Stein's India
+OL,6,G1000FRick Stein's Far Eastern Odyssey
 OL,7,G1100FRick Stein: From Venice to Istanbul
 OL,8,G1200FNew: The Force: Behind the Line
 OL,9,G1230FNew: The Force: Behind the Line
 OL,10,G1300FBorder Force America's Gatekeepers
 OL,11,G1400FTop Gear
-OL,12,G1500FTop Gear
+OL,12,G1500F
 OL,13,G1600FQI XL
-OL,14,G1700FTaskmaster
+OL,14,G1700F
 OL,15,G1800FTaskmaster
 OL,16,G1900FRichard Osman's House of Games
 OL,17,G1940FWould I Lie to You?
@@ -28,15 +28,16 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
 PN,62902
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 10th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 11th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0000FMock the Week
-OL,6,G0040FQI
-OL,7,G0120FWould I Lie to You?
+OL,6,G0040FWould I Lie to You?
+OL,7,G0120FQI
 OL,8,G0200FRichard Osman's House of Games
 OL,9,G0230FFamalam
 OL,10,G0255FModern Wheels or Classic Steals
+OL,11,G0400FTeleshopping
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
