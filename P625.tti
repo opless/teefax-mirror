@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62501
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0605FPeppa Pig
@@ -12,14 +12,14 @@ OL,7,G0620FBen and Holly's Little Kingdom
 OL,8,G0630FShane the Chef
 OL,9,G0640FNoddy Toyland Detective
 OL,10,G0655FFireman Sam
-OL,11,G0705FThomas &amp; Friends
+OL,11,G0705FThomas and Friends
 OL,12,G0715FPip and Posy
 OL,13,G0725FPeppa Pig
 OL,14,G0730FPAW Patrol
 OL,15,G0745FBaby Shark's Big Show
-OL,16,G0805FPirata and Capitano
+OL,16,G0800FPirata and Capitano
 OL,17,G0820FSantiago of the Seas
-OL,18,G0840FThe Adventures of Paddington
+OL,18,G0835FThe Adventures of Paddington
 OL,19,G0850FPop Paper City
 OL,20,G0900FBen and Holly's Little Kingdom
 OL,21,G0915FCooking with The Gills
@@ -28,7 +28,7 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62502
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0930FShow Me How
@@ -37,33 +37,41 @@ OL,7,G0950FThe World According to Grandpa
 OL,8,G1000FThe Smurfs
 OL,9,G1015FSpongeBob Squarepants
 OL,10,G1025FEntertainment News on 5
-OL,11,G1030FFriends
+OL,11,G1030FNFL End Zone 2022
 OL,12,G1100FFriends
-OL,13,G1135FFriends
-OL,14,G1205FFriends
-OL,15,G1235FSerendipity
-OL,16,G1340FEntertainment News on 5
-OL,17,G1345FSerendipity
-OL,18,G1425FMe Before You
-OL,19,G1525FEntertainment News on 5
-OL,20,G1530FMe Before You
-OL,21,G1635FMichael Ball's Wonderful Wales
+OL,13,G1125FFriends
+OL,14,G1200FFriends
+OL,15,G1225FFriends
+OL,16,G1255FThe Teagarden Mysteries
+OL,17,G1355FEntertainment News on 5
+OL,18,G1400FThe Teagarden Mysteries
+OL,19,G1440FAgatha Christie's Appointment...
+OL,20,G1545FEntertainment News on 5
+OL,21,G1550FAgatha Christie's Appointment...
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62503
 SC,0003
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 14th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 15th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1805F5 News Weekend
-OL,6,G1810FPrincess Anne: The Daughter Who...
-OL,7,G1930FNew: Secrets of The Royal Palaces
-OL,8,G2030FNew: Keeping Up Appearances: 30...
-OL,9,G2200FWhen Classic Comedy Goes...
-OL,10,G0030FCriminals: Caught On Camera
-OL,11,G0055FEntertainment News on 5
-OL,12,G0100FThe LeoVegas Casino Show
+OL,5,G1650FSunshine Cruising with Jane...
+OL,6,G1825F5 News Weekend
+OL,7,G1830FWhen All Inclusive Holidays...
+OL,8,G2000FNew: 22 Kids &amp; Counting
+OL,9,G2100FNew: Motorhoming with Merton &amp;...
+OL,10,G2200FHotel Benidorm: Sun-Loungers &amp;...
+OL,11,G2255FMost Shocking Celebrity Moments
+OL,12,G0055FEntertainment News on 5
+OL,13,G0100FThe LeoVegas Casino Show
+OL,14,G0300F
+OL,15,G0350F
+OL,16,G0440F
+OL,17,G0505F
+OL,18,G0535F
+OL,19,G0540FPAW Patrol
+OL,20,G0550F
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
