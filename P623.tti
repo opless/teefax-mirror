@@ -3,35 +3,40 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 15th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 16th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0925FITV News
-OL,6,G0930FNew: Love Your Weekend with...
-OL,7,G1130FEnglish Football League Highlights
+OL,5,G0900FLorraine
+OL,6,G1000FThis Morning
+OL,7,G1230FLoose Women
 OL,8,G1330FITV Lunchtime News
-OL,9,G1345FYou've Been Framed!
-OL,10,G1415FDr Seuss's The Lorax
-OL,11,G1600FTipping Point: Lucky Stars
-OL,12,G1700FITV Evening News
-OL,13,G1720FITV News Anglia
-OL,14,G1730FNew: The Chase Celebrity Special
-OL,15,G1830FNew: Dancing on Ice
-OL,16,G2000FNew: Vera
-OL,17,G2200FITV News
-OL,18,G2215FJohn Wick
-OL,19,G0010FIdeal World with Piranha
-OL,20,G0300FThe Widow
-OL,21,G0355FUnwind With ITV
+OL,9,G1355FITV News Anglia
+OL,10,G1400FNew: Dickinson's Real Deal
+OL,11,G1500FNew: Lingo
+OL,12,G1600FNew: Tipping Point
+OL,13,G1700FNew: The Chase
+OL,14,G1800FITV News Anglia
+OL,15,G1830FITV Evening News
+OL,16,G1930FEmmerdale
+OL,17,G2000FCoronation Street
+OL,18,G2100FNew: Maternal
+OL,19,G2200FITV News at Ten
+OL,20,G2230FITV News Anglia
+OL,21,G2245FBradley and Barney Walsh:...
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 15th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 16th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0505FLingo
+OL,5,G2315FBradley and Barney Walsh:...
+OL,6,G2345FAll Elite Wrestling: Dynamite
+OL,7,G0130FIdeal World with Lonsdale Fitness
+OL,8,G0300FLingo
+OL,9,G0350FUnwind With ITV
+OL,10,G0505FDickinson's Real Deal
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
