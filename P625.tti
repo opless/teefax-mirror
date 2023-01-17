@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62501
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 16th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 17th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0605FPeppa Pig
@@ -28,7 +28,7 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62502
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 16th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 17th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0900FPip and Posy
@@ -37,25 +37,32 @@ OL,7,G0915FJeremy Vine
 OL,8,G1245FTraffic Cops
 OL,9,G1340F5 News at Lunchtime
 OL,10,G1345FHome and Away
-OL,11,G1415FThe Killer Downstairs
+OL,11,G1415FA Stepmother's Secret
 OL,12,G1600FNew: Bargain-Loving Brits in...
 OL,13,G1700F5 News at 5
 OL,14,G1800FHoliday Homes in the Sun
-OL,15,G1900FPolice Interceptors
-OL,16,G2000FNew: Traffic Cops
-OL,17,G2100FNew: Police: Night Shift 999
-OL,18,G2200FCasualty 24/7: Every Second Counts
-OL,19,G2305F999: Critical Condition
-OL,20,G0005FPolice Interceptors
-OL,21,G0100FThe LeoVegas Casino Show
+OL,15,G1900FNew: GPs: Behind Closed Doors
+OL,16,G2000FNew: Dogs Behaving (Very) Badly
+OL,17,G2100FNew: Ben Fogle: New Lives in...
+OL,18,G2200FNew: The Girl in the Cellar:..
+OL,19,G0000F
+OL,20,G0055F
+OL,21,G0100F
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62503
 SC,0003
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 16th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 17th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0300FEntertainment News on 5
+OL,6,G0310FHoliday Homes in the Sun
+OL,7,G0400FMy Mum's Hotter Than Me!
+OL,8,G0450FHouse Busters
+OL,9,G0515FHouse Doctor
+OL,10,G0540FPeppa Pig
+OL,11,G0545FPAW Patrol
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
