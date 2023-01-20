@@ -5,11 +5,11 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FCapital UK         BGR8BRITISHRADIO    
-OL,5,FHITS RADIO UK      BGrt Hits BBH       
-OL,6,FBBC 3CR            BMKFM               
-OL,7,FHeart 4 Counties   BRadio UP           
-OL,8,FSmooth 3Counties   
+OL,4,FBBC 3CR            BMKFM               
+OL,5,FHeart 4 Counties   BSmooth 3Counties   
+OL,6,FRadio UP           BCapital UK         
+OL,7,FGR8BRITISHRADIO    BHITS RADIO UK      
+OL,8,FGrt Hits BBH       
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -34,11 +34,11 @@ PN,53503
 SC,0003
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FBBC Radio Cambs    BGold Cambs         
-OL,5,FHITS RADIO UK      BGreatest Hits UK   
-OL,6,FHeart Cambridge    BRadio Maria Eng    
-OL,7,FDubai Now          BStar Radio (Cam)   
-OL,8,FSmooth Country     BCapital UK         
+OL,4,FGold Cambs         BHITS RADIO UK      
+OL,5,FSmooth Country     BRadio Maria Eng    
+OL,6,FStar Radio (Cam)   BGreatest Hits UK   
+OL,7,FDubai Now          BCapital UK         
+OL,8,FBBC Radio Cambs    BHeart Cambridge    
 OL,9,FEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
