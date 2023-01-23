@@ -5,11 +5,11 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FCapital UK         BGR8BRITISHRADIO    
-OL,5,FHITS RADIO UK      BGrt Hits BBH       
-OL,6,FBBC 3CR            BMKFM               
-OL,7,FHeart 4 Counties   BRadio UP           
-OL,8,FSmooth 3Counties   
+OL,4,FSmooth 3Counties   BRadio UP           
+OL,5,FCapital UK         BGR8BRITISHRADIO    
+OL,6,FHITS RADIO UK      BGrt Hits BBH       
+OL,7,FBBC 3CR            BMKFM               
+OL,8,FHeart 4 Counties   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -17,16 +17,16 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FFix Radio          BCapXTRA Reloaded   
-OL,5,FMellow Magic       BVirgin Radio       
-OL,6,FTimes Radio        BPlanet Rock        
-OL,7,FAbsolute 80s       BSunrise Radio UK   
-OL,8,FPremierChristian   BPremier Praise     
-OL,9,FFun Kids UK        BJazz FM Stereo     
-OL,10,FBFBS UK            BVirgin Anthems     
-OL,11,FVirgin Chilled     BAbsolute 90s       
-OL,12,FScala Radio        BTalkRadio-TalkTV   
-OL,13,FtalkSPORT 2        BBoom Radio UK      
+OL,4,FPremier Praise     BFun Kids UK        
+OL,5,FBFBS UK            BVirgin Anthems     
+OL,6,FVirgin Chilled     BAbsolute 90s       
+OL,7,FScala Radio        BtalkSPORT 2        
+OL,8,FBoom Radio UK      BFix Radio          
+OL,9,FCapXTRA Reloaded   BMellow Magic       
+OL,10,FVirgin Radio       BTimes Radio        
+OL,11,FPlanet Rock        BAbsolute 80s       
+OL,12,FSunrise Radio UK   BPremierChristian   
+OL,13,FJazz FM Stereo     BTalkRadio-TalkTV   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -37,8 +37,8 @@ OL,3,
 OL,4,FHeart Cambridge    BGreatest Hits UK   
 OL,5,FCapital UK         BGold Cambs         
 OL,6,FHITS RADIO UK      BRadio Maria Eng    
-OL,7,FSmooth Country     BDubai Now          
-OL,8,FStar Radio (Cam)   BBBC Radio Cambs    
+OL,7,FDubai Now          BStar Radio (Cam)   
+OL,8,FSmooth Country     BBBC Radio Cambs    
 OL,9,FEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
@@ -49,9 +49,9 @@ OL,2,CDAB ENSEMBLES ED1 National
 OL,3, 
 OL,4,FHeart  90s         BCapital XTRA       
 OL,5,FHeart  70s         BRadio X            
-OL,6,FLBC News           BCapital UK         
-OL,7,FSmooth Chill       BCapital DANCE      
-OL,8,FUCB 1              BGB News Radio      
+OL,6,FSmooth Chill       BCapital DANCE      
+OL,7,FUCB 1              BLBC News           
+OL,8,FCapital UK         BGB News Radio      
 OL,9,FUCB 2              BHeart 00s          
 OL,10,FClassic FM         BtalkSPORT          
 OL,11,FLBC                BAbsolute Radio     
@@ -66,12 +66,12 @@ PN,53505
 SC,0005
 OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
-OL,4,FBBC R5LiveSportX   BBBC Radio 1        
-OL,5,FBBC Radio 2        BBBC Radio 3        
-OL,6,FBBC Radio 4        BBBC Radio 6Music   
-OL,7,FBBC Radio 4Extra   BBBC Radio 1Xtra    
-OL,8,FBBC AsianNetwork   BBBC Radio 5 Live   
-OL,9,FBBC WorldService   BBBC Guide        (data)
+OL,4,FBBC Radio 1        BBBC Radio 2        
+OL,5,FBBC Radio 3        BBBC Radio 4        
+OL,6,FBBC Radio 6Music   BBBC Radio 4Extra   
+OL,7,FBBC Radio 1Xtra    BBBC AsianNetwork   
+OL,8,FBBC Radio 5 Live   BBBC WorldService   
+OL,9,FBBC R5LiveSportX   BBBC Guide        (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
