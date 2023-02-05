@@ -1,14 +1,15 @@
 DE,TV Reviews - CRT
 DS,inserter
-SP,C:\Users\Nathan Dane\Documents\teefax\p434-tv-reviews.tti
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\p434-tv-reviews.tti
 PN,43401
 SC,0001
-PS,C000
+PS,c000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/3 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/5 
 OL,4, Philips 21PT6820 ` 21" DVD combi       
 OL,5,CStandard:GLevel 1.5 (limited)          
 OL,6,CPage memory:G7 ` Current page, 4 colour
@@ -32,15 +33,15 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43402
 SC,0002
-PS,C000
+PS,8000
 CT,30,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/3 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/5 
 OL,4, JVC AV28R250 26" widescreen CRT (2002) 
-OL,5,CStandard:GLevel 1.0                    
+OL,5,CStandard:GLevel 1.5 (just barely)      
 OL,6,CPage memory:G7 ` Current page, 4 colour
 OL,7,              links, previous, and next.
 OL,8,CText aspect ratio:GNormal              
@@ -49,24 +50,26 @@ OL,11, to set 4 non-volatile favourite page
 OL,12, numbers. "Boxed" pages (newsflash etc.)
 OL,13, use aspect ratio chosen for picture    
 OL,14, rather than forcing 16:9. Double width 
-OL,15, characters supported.                  
+OL,15, characters and accents supported.      
 OL,16,CWhat's not:GOnly a level 1 decoder on  
 OL,17, presumably a fairly upmarket set given 
 OL,18, that it has Dolby Surround; they had   
 OL,19, their priorities wrong! The subpage    
 OL,20, selector always opens on 0001 and the  
-OL,21, Mix function is absent.                
+OL,21, Mix function is absent. No support for 
+OL,22, level 1.5 mosaics or TOP Text.         
 OL,23,D]CReviewed Jul 2021 by Nick Schollar   
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
 FL,431,432,433,435,8ff,100
 PN,43403
 SC,0003
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/3 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/5 
 OL,4, Hitachi CPT 2508 (1988)                
 OL,5,CStandard:GLevel 1.0                    
 OL,6,CPage memory:G7 ` Current page, 6       
@@ -81,5 +84,62 @@ OL,18, slightly stretched display. Unusual
 OL,19, choice of storing favorite pages       
 OL,20, rather than fasttext or next page.     
 OL,23,D]CReviewed Aug 2021 by Nathan Dane     
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100
+PN,43404
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C4/5 
+OL,4, Sony KV-28DX30 26" w'screen CRT (2000) 
+OL,5,CStandard:GLevel 1.5                    
+OL,6,CPage memory:G8                         
+OL,7,CText aspect ratio:GWide                
+OL,9,CWhat's good:GSupports level 1.5 mosaics
+OL,10, and diacritical characters. "Boxed"    
+OL,11, pages use aspect ratio chosen for      
+OL,12, picture and 16:9 or 4:3 can be selected
+OL,13, for non-boxed pages. Includes a picture
+OL,14, rotation setting to compensate for the 
+OL,15, effect of Earth's magnetic field on the
+OL,16, picture, the effect of which is most   
+OL,17, noticeable when viewing text.          
+OL,18, TOP Text is supported.                 
+OL,19,CWhat's not:GNo facility to select a    
+OL,20, particular subpage other than a hold   
+OL,21, button. No 'size' function. Still no   
+OL,22, level 2.5 on this once #1000 set.      
+OL,23,D]CReviewed Feb 2023 by Nick Schollar   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100
+PN,43405
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C5/5 
+OL,4, Goodmans 2195T 21" CRT (1995)          
+OL,5,CStandard:GLevel 1.5 (just barely)      
+OL,6,CPage memory:G8                         
+OL,7,CText aspect ratio:GNormal              
+OL,9,CWhat's good:GBookmark mode allows you  
+OL,10, to set 4 non-volatile favourite page   
+OL,11, numbers. All common features present   
+OL,12, (subcode/size/hold/cancel/reveal/mix)  
+OL,13, plus a novel 'Browse' button which     
+OL,14, displays the next page broadcast.      
+OL,15, Diacritical marks supported.           
+OL,18,CWhat's not:GUnintelligent algorithm for
+OL,19, caching pages to the 8-page memory.    
+OL,20, Screen frequently clears when switching
+OL,21, to a non-cached page.                  
+OL,23,T]CReviewed Feb 2023 by Nick Schollar   
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
 FL,431,432,433,435,8ff,100

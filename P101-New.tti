@@ -4,12 +4,13 @@ SP,Z:\Documents\Projects\Teletext pages\teletext-full\P101-New.tti
 PN,10100
 SC,0000
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q<,lR<,lT<,lT||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jT]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszT]S+..*%%/* /  ,' /*%/$--'  
-OL,5,            Tue 27th July 2021          
+OL,5,            Sun 5th February 2023       
 OL,6,CMTV ReviewsF.......................P434
 OL,9,G           Mon 5th April 2021          
 OL,10,CMEasterF...........................P173
