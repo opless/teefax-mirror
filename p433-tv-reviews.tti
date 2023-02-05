@@ -3,7 +3,7 @@ DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\p433-tv-reviews.tti
 PN,43301
 SC,0001
-PS,c000
+PS,8000
 CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
@@ -100,7 +100,7 @@ OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CPLASMA/ 
 OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!CLCDC4/4 
 OL,4, Toshiba 19DV615DB 19" LCD TV (2009)    
-OL,5,CStandard:GLevel 1.0                    
+OL,5,CStandard:GLevel 1.5                    
 OL,6,CPage memory:G256 pages (4 subpages)    
 OL,7,CText aspect ratio:GNormal              
 OL,9,CWhat's good:GCrisp font at LCD native  
@@ -109,7 +109,8 @@ OL,11, in fact. Subpage selection
 OL,12, shows subpage number. Stores pages with
 OL,13, hex digits in page numbers in memory.  
 OL,14, Supports TOP TEXT as well as Fastext.  
-OL,16,CWhat's not:GNo Mix and Cancel functions
+OL,15, Diacritical marks are supported.       
+OL,17,CWhat's not:GNo Mix and Cancel functions
 OL,19,COther:GMulti-standard tuner (I,BG,DK,L)
 OL,20, goes down to around 425MHz, or 48MHz if
 OL,21, you painstakingly use the fine tuning. 
