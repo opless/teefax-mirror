@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62501
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0605FPeppa Pig
@@ -14,11 +14,11 @@ OL,9,G0640FNoddy Toyland Detective
 OL,10,G0655FFireman Sam
 OL,11,G0705FThomas and Friends
 OL,12,G0715FPip and Posy
-OL,13,G0725FPeppa Pig
-OL,14,G0730FPAW Patrol
+OL,13,G0720FPeppa Pig
+OL,14,G0730FPaw Patrol
 OL,15,G0800FNew: Pirata and Capitano
 OL,16,G0815FSantiago of the Seas
-OL,17,G0830FThe Adventures of Paddington Bear
+OL,17,G0830FThe Adventures of Paddington
 OL,18,G0845FPop Paper City
 OL,19,G0900FBen and Holly's Little Kingdom
 OL,20,G0915FCooking with The Gills
@@ -28,7 +28,7 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62502
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0935FMimi's World
@@ -37,38 +37,32 @@ OL,7,G0950FRoarsome Dinosaurs
 OL,8,G1000FNew: The Smurfs
 OL,9,G1010FSpongeBob Squarepants
 OL,10,G1025FEntertainment News on 5
-OL,11,G1040FFriends
+OL,11,G1035FFriends
 OL,12,G1105FFriends
 OL,13,G1135FFriends
-OL,14,G1205FFriends
-OL,15,G1230FClueless
+OL,14,G1200FFriends
+OL,15,G1230FGroundhog Day
 OL,16,G1330FEntertainment News on 5
-OL,17,G1335FClueless
-OL,18,G1420FThe First Wives Club
-OL,19,G1525FEntertainment News on 5
-OL,20,G1530FThe First Wives Club
-OL,21,G1630FElizabeth &amp; Margaret: Service...
+OL,17,G1335FGroundhog Day
+OL,18,G1440FSuperman II
+OL,19,G1540FEntertainment News on 5
+OL,20,G1545FSuperman II
+OL,21,G1710F5 News Weekend
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62503
 SC,0003
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1825F5 News Weekend
-OL,6,G1830FThe Middletons: Model Royal...
-OL,7,G1950FNew: Harry Wild Investigates
-OL,8,G2050FJimmy Tarbuck: 60 Years of Laughs
-OL,9,G2250FMichael McIntyre: Funny Man
-OL,10,G0050FEntertainment News on 5
-OL,11,G0100FThe LeoVegas Casino Show
-OL,12,G0300FHijacked
-OL,13,G0350FHijacked
-OL,14,G0440FGreat British Gardens: Season...
-OL,15,G0530FPeppa Pig
-OL,16,G0535FFireman Sam
-OL,17,G0545FPaw Patrol
+OL,5,G1715FRise of the Planet of the Apes
+OL,6,G1900FNew: Dinosaur with Stephen Fry
+OL,7,G2000FNew: 22 Kids &amp; Counting
+OL,8,G2100FThe Great Fog of 1952
+OL,9,G2230FBritain's Favourite 80s Hits
+OL,10,G0030F
+OL,11,G0100F
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
