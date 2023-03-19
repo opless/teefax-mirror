@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62501
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 18th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 19th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0605FPeppa Pig
@@ -12,14 +12,14 @@ OL,7,G0620FBen and Holly's Little Kingdom
 OL,8,G0630FShane the Chef
 OL,9,G0640FNoddy Toyland Detective
 OL,10,G0655FFireman Sam
-OL,11,G0705FThomas &amp; Friends: Big World!...
+OL,11,G0705FThomas and Friends
 OL,12,G0715FPip and Posy
 OL,13,G0725FPeppa Pig
 OL,14,G0730FPaw Patrol
 OL,15,G0740FBaby Shark's Big Show
 OL,16,G0800FNew: Pirata and Capitano
-OL,17,G0815FSantiago of the Seas
-OL,18,G0830FThe Adventures of Paddington
+OL,17,G0820FSantiago of the Seas
+OL,18,G0835FThe Adventures of Paddington
 OL,19,G0850FPop Paper City
 OL,20,G0905FBen and Holly's Little Kingdom
 OL,21,G0915FCooking with The Gills
@@ -28,39 +28,47 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62502
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 18th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 19th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0930FShow Me How....
+OL,5,G0925FShow Me How....
 OL,6,G0935FMimi's World
-OL,7,G0950FThe World According to Grandpa
+OL,7,G0945FThe World According to Grandpa
 OL,8,G1000FNew: The Smurfs
-OL,9,G1015FSpongeBob Squarepants
+OL,9,G1010FSpongeBob Squarepants
 OL,10,G1025FEntertainment News on 5
 OL,11,G1030FFriends
-OL,12,G1055FFriends
+OL,12,G1100FFriends
 OL,13,G1125FFriends
-OL,14,G1155FCalendar Girls
-OL,15,G1255FEntertainment News on 5
-OL,16,G1300FCalendar Girls
-OL,17,G1405FSteel Magnolias
-OL,18,G1505FEntertainment News on 5
-OL,19,G1510FSteel Magnolias
-OL,20,G1625FThe Deep End of the Ocean
-OL,21,G1830F5 News Weekend
+OL,14,G1155FFriends
+OL,15,G1225FFriends
+OL,16,G1255FThe Teagarden Mysteries
+OL,17,G1355FEntertainment News on 5
+OL,18,G1400FThe Teagarden Mysteries
+OL,19,G1440FHolidaying with Jane McDonald...
+OL,20,G1610FWhen Cruises Go Horribly Wrong...
+OL,21,G1740FGreatest Chocolate Ads of all Time
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
 PN,62503
 SC,0003
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 18th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 19th
 OL,2,Q 5jR5jT5jT]W     "m'F    C5
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1835FZara &amp; Anne: Like Mother, Like...
-OL,6,G1945FNew: Harry Wild Investigates
-OL,7,G2050FNew: Challenge Anneka
-OL,8,G2220FWhen Classic TV Goes...
-OL,9,G0110FThe LeoVegas Casino Show
+OL,5,G1855F5 News Weekend
+OL,6,G1900FNew: Enigma: The Monster of...
+OL,7,G2000FNew: Bargain-Loving Brits in...
+OL,8,G2100FNew: Into Death Valley with...
+OL,9,G2200FNew: Britpop: The Music That...
+OL,10,G2330FBritain's Favourite 90's Hits
+OL,11,G0120FThe LeoVegas Casino Show
+OL,12,G0320FFriends
+OL,13,G0345FFriends
+OL,14,G0410FGet Your Tatts Out: Kavos Ink
+OL,15,G0500FBritain's Great Cathedrals
+OL,16,G0545FEntertainment News on 5
+OL,17,G0555FPeppa Pig
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,626,104,535,700,0,620
