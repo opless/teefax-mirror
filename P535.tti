@@ -17,17 +17,17 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FBFBS UK            BVirgin Anthems     
-OL,5,FAbsolute 90s       BScala Radio        
-OL,6,FTalkRadio-TalkTV   BtalkSPORT 2        
-OL,7,FBoom Radio UK      BFix Radio          
-OL,8,FCapXTRA Reloaded   BCapital Chill      
-OL,9,FRadio X Class Rk   BMellow Magic       
-OL,10,FVirgin Radio       BTimes Radio        
-OL,11,FPlanet Rock        BAbsolute 80s       
-OL,12,FSunrise Radio UK   BPremierChristian   
-OL,13,FPremier Praise     BFun Kids UK        
-OL,14,FJazz FM Stereo     BVirgin Chilled     
+OL,4,FJazz FM Stereo     BBFBS UK            
+OL,5,FVirgin Anthems     BVirgin Chilled     
+OL,6,FAbsolute 90s       BScala Radio        
+OL,7,FTalkRadio-TalkTV   BtalkSPORT 2        
+OL,8,FBoom Radio UK      BFix Radio          
+OL,9,FCapXTRA Reloaded   BCapital Chill      
+OL,10,FRadio X Class Rk   BMellow Magic       
+OL,11,FVirgin Radio       BTimes Radio        
+OL,12,FPlanet Rock        BSunrise Radio UK   
+OL,13,FPremierChristian   BPremier Praise     
+OL,14,FFun Kids UK        BAbsolute 80s       
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -35,11 +35,11 @@ PN,53503
 SC,0003
 OL,2,CDAB ENSEMBLES ECambridge
 OL,3, 
-OL,4,FStar Radio (Cam)   BRadio Maria Eng    
-OL,5,FDubai Now          BGold Cambs         
-OL,6,FSmooth Country     BHeart Cambridge    
-OL,7,FHITS RADIO UK      BGreatest Hits UK   
-OL,8,FCapital UK         BBBC Radio Cambs    
+OL,4,FHeart Cambridge    BHITS RADIO UK      
+OL,5,FSmooth Country     BStar Radio (Cam)   
+OL,6,FCapital UK         BRadio Maria Eng    
+OL,7,FDubai Now          BGrt Hits Cambs     
+OL,8,FBBC Radio Cambs    BGold Cambs         
 OL,9,FEPG Cambridge (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
@@ -67,12 +67,12 @@ PN,53505
 SC,0005
 OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
-OL,4,FBBC Radio 5 Live   BBBC WorldService   
-OL,5,FBBC Radio 1        BBBC Radio 2        
+OL,4,FBBC Radio 2        BBBC Radio 4Extra   
+OL,5,FBBC AsianNetwork   BBBC Radio 1        
 OL,6,FBBC Radio 3        BBBC Radio 4        
-OL,7,FBBC Radio 6Music   BBBC Radio 4Extra   
-OL,8,FBBC R5LiveSportX   BBBC Radio 1Xtra    
-OL,9,FBBC AsianNetwork   BBBC Guide        (data)
+OL,7,FBBC Radio 5 Live   BBBC Radio 6Music   
+OL,8,FBBC Radio 1Xtra    BBBC WorldService   
+OL,9,FBBC Guide        (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
