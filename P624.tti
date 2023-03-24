@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0610FCountdown
@@ -15,7 +15,7 @@ OL,10,G0830FThe King of Queens
 OL,11,G0900FFrasier
 OL,12,G0930FFrasier
 OL,13,G1000FFrasier
-OL,14,G1030FUndercover Boss USA
+OL,14,G1030FCelebrity Undercover Boss USA
 OL,15,G1125FChannel 4 News Summary
 OL,16,G1130FEmergency Helicopter Medics
 OL,17,G1230FLive: Steph's Packed Lunch
@@ -28,20 +28,37 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1730FCome Dine with Me
-OL,6,G1800FChannel 4 News
-OL,7,G1900FLive England Football: Italy...
-OL,8,G2200FNew: Rise and Fall
-OL,9,G2305FGogglebox
-OL,10,G0005FEngland Football: Italy v...
-OL,11,G0100FRamsay's Kitchen Nightmares USA
-OL,12,G0150FVictor Frankenstein
-OL,13,G0340FCouples Come Dine with Me
-OL,14,G0430FLocation, Location, Location
-OL,15,G0520FBest of Britain by the Sea
+OL,6,G1800FHollyoaks
+OL,7,G1830FHollyoaks
+OL,8,G1900FChannel 4 News
+OL,9,G1930FNew: Locked Away: Our Autism...
+OL,10,G2000FHighclere: Behind the Scenes
+OL,11,G2100FNew: Gogglebox
+OL,12,G2200FNew: Rise and Fall
+OL,13,G2305F8 Out of 10 Cats Does Countdown
+OL,14,G0005FFather Ted
+OL,15,G0035FFather Ted
+OL,16,G0105FFather Ted
+OL,17,G0130FFather Ted
+OL,18,G0200FFather Ted
+OL,19,G0225FFather Ted
+OL,20,G0255FFather Ted
+OL,21,G0320FFather Ted
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,625,104,535,700,0,620
+PN,62403
+SC,0003
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 24th
+OL,2,Q 5jR5jT5jT]W     "m'F    C4
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0350FCouples Come Dine with Me
+OL,6,G0440FLocation, Location, Location
+OL,7,G0530FBest of Britain by the Sea
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
