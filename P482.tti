@@ -1,9 +1,10 @@
 DE,Digitiser - 1 Jan 1993
 DS,inserter
-CT,20,T
-PN,37201
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P482.tti
+PN,48201
 SC,0001
-PS,C000
+PS,c000
+CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W]
@@ -28,11 +29,10 @@ OL,21,G]D      ABTA RETAIL AGENTS 98047
 OL,22,G]A       FLIGHTS,CARS,HOTELSH>>>       
 OL,23,G]DBROCHURELINE 0345 666666 MANNED 24HRS
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37202
+PN,48202
 SC,0002
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?`pp0p0p0s1ppp`p  pQ       x5        
@@ -54,11 +54,10 @@ OL,20,G----------------------------------1/2--
 OL,21,BSupplied by Computer Games 081 741 9050
 OL,22,B]DM  PLUG INTO THE GENERATOR p340      
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37203
+PN,48203
 SC,0003
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?`pp0p0p0s1ppp`p  pQ       x5        

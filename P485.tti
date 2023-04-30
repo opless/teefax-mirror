@@ -1,9 +1,10 @@
 DE,Digitiser - 1 Jan 1993
 DS,inserter
-CT,20,T
-PN,37501
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P485.tti
+PN,48501
 SC,0001
-PS,C000
+PS,c000
+CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R  l,,,,,,,,,,AA I R L I N ER,,,,,,,,,,<
@@ -28,11 +29,10 @@ OL,21,R]Q 55=55555   5<% 5   jjz0 5 j$j.4= =
 OL,22,R]Q -%-%-%-%   %-$ %   * *  % * * %-$-$ 
 OL,23,B]DACCESS      ABTA  C8257      VISA    
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37502
+PN,48502
 SC,0002
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R/?%s1ppp`pp0Q     x5          x5      
@@ -55,11 +55,10 @@ OL,20,G----------------------------------1/3--
 OL,21,B    TV IndexF110 BFun & GamesF350      
 OL,22,B]DMPLUG INTO THE GENERATOR  p340       
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37503
+PN,48503
 SC,0003
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R/?%s1ppp`pp0Q     x5          x5      
@@ -82,11 +81,10 @@ OL,20,G----------------------------------2/3--
 OL,21,B    Game newsF371 BDatabankF374        
 OL,22,B]DMPRIZES GALORE! FUN & GAMES p350     
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37504
+PN,48504
 SC,0004
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?/jp0ppp`p0z0Q          `~          

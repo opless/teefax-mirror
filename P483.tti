@@ -1,9 +1,10 @@
 DE,Digitiser - 1 Jan 1993
 DS,inserter
-CT,20,T
-PN,37301
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P483.tti
+PN,48301
 SC,0001
-PS,C000
+PS,c000
+CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]DADVERTISEMENT..more followsH>>       
@@ -29,11 +30,10 @@ OL,20,W]QH            ,.%*% ,.%
 OL,21,M]DTEL:0493 440239AOPEN 7 DAYS A WEEK   
 OL,23,F]D OPEN 9-9 MON-FRI 9-5 SAT 10-4 SUN   
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37302
+PN,48302
 SC,0002
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?`pp0p0p0s1ppp`p  pQ       x5        
@@ -56,11 +56,10 @@ OL,20,G----------------------------------1/2--
 OL,21,BSupplied by Computer Games 081 741 9050
 OL,22,B]DM  ACCESS THE DATABANK p374          
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37303
+PN,48303
 SC,0003
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?`pp0p0p0s1ppp`p  pQ       x5        

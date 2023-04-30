@@ -1,8 +1,10 @@
 DE,Digitiser - 1 Jan 1993
 DS,inserter
-PN,37000
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P480.tti
+PN,48000
 SC,0000
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?4//    */%j5*/%                    

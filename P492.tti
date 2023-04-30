@@ -1,9 +1,10 @@
 DE,Digitiser - 9 Mar 2003
 DS,inserter
-CT,20,T
-PN,17701
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P492.tti
+PN,49201
 SC,0001
-PS,C000
+PS,c000
+CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{%sh<|h<|`0s1sh<j5W       Wht
@@ -30,11 +31,10 @@ OL,22,D]F   Polyphonics and Regular Tones..
 OL,23,D]F          see ITV1Ep355              
 OL,24,AInteractive  BPreview  CTV Guide FKids 
 FL,0,0,0,0,100,100
-DE,Digitiser - 9 Mar 2003
-DS,inserter
-PN,17702
+PN,49202
 SC,0002
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{%sh<|h<|`0s1sh<j5W=           zpz0 
@@ -55,11 +55,10 @@ OL,21,G  The EndF177GThe EndF178GThe EndF179
 OL,22,F]EMNew Games For Your Mobile-C4 p657   
 OL,24,AInteractive  BPreview  CTV Guide FKids 
 FL,0,0,0,0,100,100
-DE,Digitiser - 9 Mar 2003
-DS,inserter
-PN,17703
+PN,49203
 SC,0003
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{%sh<|h<|`0s1sh<j5W=           zpz0 
@@ -83,11 +82,10 @@ OL,22,A]F       NEW GENERATION PHONE?
 OL,23,A]F      GAMES AND RINGTONES p676       
 OL,24,AInteractive  BPreview  CTV Guide FKids 
 FL,0,0,0,0,100,100
-DE,Digitiser - 9 Mar 2003
-DS,inserter
-PN,17704
+PN,49204
 SC,0004
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{%sh<|h<|`0s1sh<j5W=           zpz0 
@@ -110,17 +108,15 @@ OL,22,A]F       NEW GENERATION PHONE?
 OL,23,A]F      GAMES AND RINGTONES p676       
 OL,24,AInteractive  BPreview  CTV Guide FKids 
 FL,0,0,0,0,100,100
-DE,Digitiser - 9 Mar 2003
-DS,inserter
-PN,17705
+PN,49205
 SC,0005
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{%sh<|h<|`0s1sh<j5W=           zpz0 
 OL,2,Qj5j5ju"!s{5j5b1W"/}?p&#dp&dzw b 
 OL,3,G``````Q(,/G`````````````````````W*//// 
-OL,4,                                        
 OL,5,CTVT:GSo, let me get this right. You    
 OL,6,Ghave an issue with our video games     
 OL,7,Gpages, is that right?                  
@@ -139,11 +135,10 @@ OL,22,G]A     GREAT GAMES FOR YOU MOBILE
 OL,23,G]A             SEE p655                
 OL,24,AInteractive  BPreview  CTV Guide FKids 
 FL,0,0,0,0,100,100
-DE,Digitiser - 9 Mar 2003
-DS,inserter
-PN,17706
+PN,49206
 SC,0006
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{%sh<|h<|`0s1sh<j5W=           zpz0 
@@ -166,11 +161,10 @@ OL,21,G  The EndF177GThe EndF178GThe EndF179
 OL,22,F]EMNew Games For Your Mobile-C4 p657   
 OL,24,AInteractive  BPreview  CTV Guide FKids 
 FL,0,0,0,0,100,100
-DE,Digitiser - 9 Mar 2003
-DS,inserter
-PN,17707
+PN,49207
 SC,0007
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{%sh<|h<|`0s1sh<j5W=           zpz0 
@@ -193,11 +187,10 @@ OL,21,G  The EndF177GThe EndF178GThe EndF179
 OL,22,A]FM      TURNER THE WORM p194          
 OL,24,AInteractive  BPreview  CTV Guide FKids 
 FL,0,0,0,0,100,100
-DE,Digitiser - 9 Mar 2003
-DS,inserter
-PN,17708
+PN,49208
 SC,0008
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q{%sh<|h<|`0s1sh<j5W=           zpz0 

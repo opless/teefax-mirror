@@ -4,6 +4,7 @@ SP,Z:\Documents\Projects\Teletext pages\teletext-full\P400.tti
 PN,40000
 SC,0000
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q<,lR<,lT<,lQ||||,,|,l,<l,<,<ll,|,l|||||
@@ -23,6 +24,6 @@ OL,18,R55jjj5j5j5/o5./jV 0+t +t
 OL,19,R///!//*/o*/%*/%*/%///%////*/G`````````
 OL,20,      R*///G                            
 OL,21,BThe classic games mag, 2018 styleCP470 
-OL,22,BFirst issue CP370   BFinal issue CP175 
+OL,22,BFirst issue CP480   BFinal issue CP490 
 OL,24,ANow BThe One ShowCTV Reviews FDigitiser
 FL,440,410,430,470,8ff,100

@@ -1,9 +1,10 @@
 DE,Digitiser - 1 Jan 1993
 DS,inserter
-CT,20,T
-PN,37401
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P484.tti
+PN,48401
 SC,0001
-PS,C000
+PS,c000
+CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?}`pp0z0pppjp0ppp`pp05pQ    x5     
@@ -26,11 +27,10 @@ OL,21,B  Game newsF371  BTips & chartsF375
 OL,22,B]DM  YOU PHONE POLL  VERDICT p106      
 OL,23,B]DM  YOU PHONE POLL  VERDICT p106      
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37402
+PN,48402
 SC,0002
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?}`pp0z0pppjp0ppp`pp05pQ    x5     

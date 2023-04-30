@@ -1,9 +1,10 @@
 DE,Digitiser - 1 Jan 1993
 DS,inserter
-CT,20,T
-PN,37101
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P481.tti
+PN,48101
 SC,0001
-PS,C000
+PS,c000
+CT,20,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?}bs`pp0s1z0s1ppp`pp0pp     Tp,|?!
@@ -29,11 +30,10 @@ OL,20,G----------------------------------1/4--
 OL,21,B    Main IndexF300BGeneratorF340       
 OL,22,B]DMWIN! WIN! WIN!..FUN & GAMES p350    
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37102
+PN,48102
 SC,0002
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?}bs`pp0s1z0s1ppp`pp0ppQ     x5      
@@ -52,11 +52,10 @@ OL,20,G----------------------------------2/4--
 OL,21,B    GeneratorF340 BFun & GamesF350     
 OL,22,B]DMWHO IS TURNER THE WORM?..SEE p348   
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37103
+PN,48103
 SC,0003
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,R?}bs`pp0s1z0s1ppp`pp0ppQ  h~|4    
@@ -82,11 +81,10 @@ OL,20,G----------------------------------3/4--
 OL,21,B       Pen PalsF347B GossipF325        
 OL,22,B]DM  WILL YOU BE BAMBOOZLED?..p358     
 FL,0,0,0,0,100,100
-DE,Digitiser - 1 Jan 1993
-DS,inserter
-PN,37104
+PN,48104
 SC,0004
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,D]GADVERTISEMENT                        
