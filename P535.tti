@@ -5,11 +5,11 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FHeart 4 Counties   BSmooth 3Counties   
-OL,5,FGrt Hits BBH       BMKFM               
-OL,6,FGR8BRITISHRADIO    BRadio UP           
-OL,7,FHITS RADIO UK      BCapital UK         
-OL,8,FBBC 3CR            
+OL,4,FMKFM               BGR8BRITISHRADIO    
+OL,5,FRadio UP           BHITS RADIO UK      
+OL,6,FCapital UK         BBBC 3CR            
+OL,7,FGrt Hits BBH       BHeart 4 Counties   
+OL,8,FSmooth 3Counties   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -17,17 +17,17 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FMellow Magic       BVirgin Radio       
-OL,5,FTimes Radio        BPlanet Rock        
-OL,6,FAbsolute 80s       BSunrise Radio UK   
-OL,7,FPremierChristian   BPremier Praise     
-OL,8,FFun Kids UK        BJazz FM Stereo     
-OL,9,FBFBS UK            BVirgin Anthems     
-OL,10,FVirgin Chilled     BAbsolute 90s       
-OL,11,FScala Radio        BTalkRadio-TalkTV   
-OL,12,FtalkSPORT 2        BBoom Radio UK      
-OL,13,FFix Radio          BCapXTRA Reloaded   
-OL,14,FCapital Chill      BRadio X Class Rk   
+OL,4,FCapital Chill      BRadio X Class Rk   
+OL,5,FFix Radio          BMellow Magic       
+OL,6,FVirgin Radio       BTimes Radio        
+OL,7,FPlanet Rock        BAbsolute 80s       
+OL,8,FSunrise Radio UK   BPremierChristian   
+OL,9,FPremier Praise     BFun Kids UK        
+OL,10,FJazz FM Stereo     BBFBS UK            
+OL,11,FVirgin Anthems     BVirgin Chilled     
+OL,12,FAbsolute 90s       BScala Radio        
+OL,13,FTalkRadio-TalkTV   BtalkSPORT 2        
+OL,14,FBoom Radio UK      BCapXTRA Reloaded   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
