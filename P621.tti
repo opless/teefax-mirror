@@ -3,16 +3,16 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 19th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 20th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0815FMorning Live
-OL,6,G0900FClose Calls: On Camera
-OL,7,G0930FAnimal Park
-OL,8,G1015FHomes Under the Hammer
+OL,5,G0630FMOTD Live: New Zealand v Norway
+OL,6,G0915FClose Calls: On Camera
+OL,7,G0945FAnimal Park
+OL,8,G1030FHomes Under the Hammer
 OL,9,G1115FBargain Hunt
 OL,10,G1200FBBC News
-OL,11,G1230FLook East
+OL,11,G1230FSouth East Today
 OL,12,G1245FRick Stein's Cornwall
 OL,13,G1315FRobson Green's Weekend Escapes
 OL,14,G1345FEscape to the Country
@@ -20,7 +20,7 @@ OL,15,G1445FGarden Rescue
 OL,16,G1530FAntiques Road Trip
 OL,17,G1615FPointless
 OL,18,G1700FBBC News
-OL,19,G1730FLook East
+OL,19,G1730FBBC London
 OL,20,G1800FThe One ShowC410
 OL,21,G1830FEastEnders
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
@@ -28,20 +28,19 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 19th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 20th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1900FThe Repair Shop
-OL,6,G1930FThe Travelling Auctioneers
-OL,7,G2000FThe Great British Sewing Bee
+OL,5,G1900FA Wright Family Holiday
+OL,6,G1930FGarden Rescue
+OL,7,G2000FWho Do You Think You Are?
 OL,8,G2100FBBC News and Weather
-OL,9,G2130FLook East
-OL,10,G2140FWomen's World Cup Preview
-OL,11,G2210FLionesses: Champions of Europe
-OL,12,G2310FWho Do You Think You Are?
-OL,13,G0010FWeather for the Week Ahead
-OL,14,G0015FBBC News
-OL,15,G0500FBreakfast
+OL,9,G2130FBBC London
+OL,10,G2140FGravity
+OL,11,G2300FWeather for the Week Ahead
+OL,12,G2305FBBC News Special: By-Election...
+OL,13,G0300FBBC News
+OL,14,G0500FBreakfast
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
