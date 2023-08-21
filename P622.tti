@@ -3,24 +3,41 @@ DE,TV
 PS,8040
 PN,62201
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 20th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 21st
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0605FCountryfile
-OL,6,G0700FAthletics: World Championships
-OL,7,G1230FSongs of Praise: Faith in the...
-OL,8,G1305FShadowlands
-OL,9,G1510FFlog It!
-OL,10,G1605FEarth
-OL,11,G1705FThe Second Best Exotic Marigold...
-OL,12,G1900FNew: Amazing Hotels: Life...
-OL,13,G2000FCrazy Rich Agents: Selling...
-OL,14,G2100FThe Power of the Dog
-OL,15,G2300FLooted
-OL,16,G0025FWolf
-OL,17,G0125FHenpocalypse!
-OL,18,G0155FThis is BBC Two
-OL,19,G0545FBeechgrove Garden
+OL,5,G0615FAnimal Park
+OL,6,G0700FClive Myrie's Italian Road Trip
+OL,7,G0730FGreat British Railway Journeys
+OL,8,G0800FNicky Campbell
+OL,9,G0900FBBC News
+OL,10,G1200FImpossible
+OL,11,G1245FMastermind
+OL,12,G1315FMake Me a Dealer
+OL,13,G1400FTigers about the House: What...
+OL,14,G1500FPortillo's State Secrets
+OL,15,G1530FFlog It!
+OL,16,G1630FAthletics: World Championships
+OL,17,G1830FVillages by the Sea - Laxey
+OL,18,G1900FOnly Connect
+OL,19,G1930FUniversity Challenge
+OL,20,G2000FDara O Briain: So Where Were We?
+OL,21,G2100FThe Royle Family
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,623,104,535,700,0,620
+PN,62202
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 21st
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G2130FNewsnight
+OL,6,G2210FWeather
+OL,7,G2215FThe Elephant Man
+OL,8,G0015FCountryfile
+OL,9,G0110FWolf
+OL,10,G0210FThis is BBC Two
+OL,11,G0530FBargain Hunt
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,623,104,535,700,0,620
