@@ -1,14 +1,15 @@
 DE,TV Reviews - STB
 DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\p435-tv-reviews.tti
-PN,43500
-SC,0000
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\p435-tv-reviews.tti
+PN,43501
+SC,0001
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/1 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/4 
 OL,4,CSet Top Boxes                          
 OL,5, Teletext can be transmitted over DVB-T 
 OL,6, and DVB-S. In the UK, no Teletext is   
@@ -20,13 +21,92 @@ OL,11, text services on DVB-S. Many receivers
 OL,12, output this data in the VBI so that the
 OL,13, service can be viewed using the TV's   
 OL,14, decoder.                               
-OL,16,CSky Digital boxes                      
-OL,17, These have VBI output (live TV only)   
-OL,18,CHUMAX HDR-1100S (Freesat)              
-OL,19, No VBI output                          
-OL,20,CTeleves RSD-711801                     
-OL,21, VBI output plus built-in decoder       
-OL,22,CTevion/Ross DVB-S 5010                 
-OL,23, No VBI output or built-in decoder      
+OL,22,CReviews follow...                      
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs  
+FL,431,432,433,434,8ff,100
+PN,43502
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/4 
+OL,4,CTevion/Ross DVB-S 5010                 
+OL,5, This has got to be the worst satellite 
+OL,6, receiver ever made. It is an SD DVB-S  
+OL,7, box with only a composite video output,
+OL,8, and it even outputs the left channel on
+OL,9, both audio channels by default and you 
+OL,10, have to change it manually for every   
+OL,11, single channel. This terrible box has  
+OL,12, no VBI output, no built-in decoder and 
+OL,13, not even any subtitles support.        
+OL,15,CSky Digital boxes                      
+OL,16, These have VBI output (live TV only),  
+OL,17, including on HD boxes. Can add RTE via 
+OL,18, 'other channels' and view Aertel but   
+OL,19, obviously not the content w/o an IE sub
+OL,21,CHUMAX HDR-1100S (Freesat)              
+OL,22, No VBI output.                         
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs  
+FL,431,432,433,434,8ff,100
+PN,43503
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/4 
+OL,4,CBush BFSAT01HD (Freesat)               
+OL,5, This early Freesat HD box does not have
+OL,6, VBI output or a built-in decoder. It   
+OL,7, also runs very hot and does not output 
+OL,8, RGB from either of its two SCART       
+OL,9, sockets.                               
+OL,11,CBush FSATHD (Freesat)                  
+OL,12, This newer Freesat HD box, which is    
+OL,13, probably from around 2016, outputs VBI.
+OL,14, The built-in subtitles facility also   
+OL,15, lets you choose between DVB subtitles  
+OL,16, and teletext subtitles. It has a single
+OL,17, SCART port with RGB video. The add     
+OL,18, non-Freesat channels function will not 
+OL,19, add channels with encrypted video, so  
+OL,20, RTE Aertel cannot be viewed with this  
+OL,21, box.                                   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs  
+FL,431,432,433,434,8ff,100
+PN,43504
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C4/4 
+OL,4,CTeleves RSD-711801                     
+OL,5, This SD box has VBI output along with  
+OL,6, a built-in decoder. Two SCARTs and RGB 
+OL,7, output. Using the TV's decoder results 
+OL,8, in pages with missing lines, but that  
+OL,9, might just be failure of my unit.      
+OL,11,CPhilex 28208ALD                        
+OL,12, An impressive DVB-S2 receiver. VBI out 
+OL,13, plus built-in decoder, but there's also
+OL,14, a USB port which can record unencrypted
+OL,15, TS files onto a USB stick complete with
+OL,16, teletext data. The pages can be browsed
+OL,17, if the recording is played back on the 
+OL,18, device, or you can extract the data    
+OL,19, with TtxFromTS or tstxtdump. The box is
+OL,20, absolutely tiny with an innovative     
+OL,21, detachable unit containing the IR RX   
+OL,22, and channel number display. Only flaw  
+OL,23, is the SD output is composite only.    
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs  
 FL,431,432,433,434,8ff,100
