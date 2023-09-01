@@ -3,8 +3,8 @@ DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\p435-tv-reviews.tti
 PN,43501
 SC,0001
-PS,8000
-CT,8,T
+PS,c000
+CT,15,T
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
