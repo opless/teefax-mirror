@@ -3,11 +3,11 @@ DE,TV
 PS,8040
 PN,62901
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 11th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 12th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0610F
-OL,6,G0700F
+OL,5,G0610FScrapyard Supercar
+OL,6,G0700FTop Gear
 OL,7,G0800FDIY SOS
 OL,8,G0900FExploration Volcano
 OL,9,G1000FRick Stein's Road to Mexico
@@ -18,7 +18,7 @@ OL,13,G1300FTop Gear
 OL,14,G1400FTop Gear
 OL,15,G1500FAustralian Ninja Warrior
 OL,16,G1630FGino's Italian Escape
-OL,17,G1700FRick Stein's Spain
+OL,17,G1700FRick Stein's Long Weekends
 OL,18,G1800FRichard Osman's House of Games
 OL,19,G1840FRichard Osman's House of Games
 OL,20,G1920FWould I Lie to You?
@@ -28,17 +28,16 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
 PN,62902
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 11th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 12th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2100FQI
-OL,6,G2140FQI
-OL,7,G2220FQI
-OL,8,G2300FMock the Week
-OL,9,G2340FWould I Lie to You?
-OL,10,G0020FNew: Best Wishes, Warmest...
-OL,11,G0130FRichard Osman's House of Games
-OL,12,G0200FLive at the Moth Club
+OL,5,G2100FHave I Got a Bit More News for You
+OL,6,G2200FHave I Got a Bit More News for You
+OL,7,G2300FMock the Week
+OL,8,G2340FWould I Lie to You?
+OL,9,G0020FAlan Davies: As Yet Untitled
+OL,10,G0130FRichard Osman's House of Games
+OL,11,G0200FLive at the Moth Club
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
