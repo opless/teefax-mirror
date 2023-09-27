@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 26th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 27th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0800FLorraine
@@ -16,27 +16,30 @@ OL,11,G1400FNew: Tenable
 OL,12,G1500FNew: Tipping Point
 OL,13,G1600FNew: The Chase
 OL,14,G1700FITV News Anglia
-OL,15,G1730FITV Evening News
-OL,16,G1830FEmmerdale
-OL,17,G1900FCoronation Street
-OL,18,G2000FNew: The Real Crown: Inside the...
-OL,19,G2100FITV News at Ten
-OL,20,G2130FITV News Anglia
-OL,21,G2145FNew: On Assignment
+OL,15,G1725FParty Political Broadcast:...
+OL,16,G1730FITV Evening News
+OL,17,G1830FEmmerdale
+OL,18,G1900FCoronation Street
+OL,19,G2000FNew: Grand Slammers
+OL,20,G2130FITV News
+OL,21,G2200FITV News Anglia
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 26th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 27th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2215FBear and Jonny Wilkinson's...
-OL,6,G2310FMade in Britain
+OL,5,G2215FNew: Peston
+OL,6,G2305FEFL Carabao Cup Highlights
 OL,7,G0000FThe Chase
-OL,8,G0055FTipping Point
-OL,9,G0145FLoose Women
-OL,10,G0230FTenable
+OL,8,G0050FTipping Point
+OL,9,G0140FTenable
+OL,10,G0235FUnwind With ITV
+OL,11,G0345F
+OL,12,G0405F
+OL,13,G0500F
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
