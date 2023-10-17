@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62901
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 16th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 17th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0610FExploration Volcano
@@ -15,9 +15,9 @@ OL,10,G1000FRick Stein's French Odyssey
 OL,11,G1030FRick Stein's French Odyssey
 OL,12,G1100FStorage Hunters UK
 OL,13,G1130FStorage Hunters UK
-OL,14,G1200F
-OL,15,G1300F
-OL,16,G1400F
+OL,14,G1200FTop Gear
+OL,15,G1300FTop Gear
+OL,16,G1400FTop Gear
 OL,17,G1500FPointless
 OL,18,G1600FRick Stein's Cornwall
 OL,19,G1630FRick Stein's Cornwall
@@ -28,24 +28,21 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
 PN,62902
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 16th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 17th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1800FRichard Osman's House of Games
-OL,6,G1840FRichard Osman's House of Games
+OL,6,G1835FRichard Osman's House of Games
 OL,7,G1920FWould I Lie to You?
 OL,8,G2000FQI XL
-OL,9,G2100FNew: Big Zuu's Big Eats
-OL,10,G2140FMock the Week
-OL,11,G2220FQI
-OL,12,G2300FDavid Mitchell's Outsiders
-OL,13,G0000F
-OL,14,G0040F
-OL,15,G0120F
-OL,16,G0200FSliced
-OL,17,G0235F
-OL,18,G0300F
-OL,19,G0500F
+OL,9,G2100FHave I Got a Bit More News for You
+OL,10,G2200FHave I Got a Bit More News for You
+OL,11,G2300FAlan Davies: As Yet Untitled
+OL,12,G0000FMock the Week
+OL,13,G0040FMeet the Richardsons
+OL,14,G0115FMeet the Richardsons
+OL,15,G0145FSliced
+OL,16,G0230FWhose Line Is It Anyway? USA
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
