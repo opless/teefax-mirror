@@ -16,20 +16,20 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FJazz FM Stereo     BtalkSPORT 2        
-OL,5,FCapXTRA Reloaded   BRadio X Class Rk   
-OL,6,FMagic Musicals     BAbsolute Rock St   
-OL,7,FAbsolute 80s St    BAbsolute 90s St    
-OL,8,FMellow Magic St    BPlanet Rock St     
-OL,9,FBoom Radio UK      BScala Radio St     
-OL,10,FPremierChristian   BPremier Praise     
-OL,11,FVirgin Anthems     BVirgin Chilled     
-OL,12,FSunrise Radio UK   BBFBS UK            
-OL,13,FCapital Chill      BTimes Radio        
-OL,14,FTalkRadio-TalkTV   BFix Radio          
-OL,15,FMagic Chilled      BHEAT RADIO         
-OL,16,FKerrang!           BAbsolute Country   
-OL,17,FMagic Soul         BVirgin Radio       
+OL,4,FVirgin Anthems     BVirgin Chilled     
+OL,5,FSunrise Radio UK   BPremierChristian   
+OL,6,FBFBS UK            BCapital Chill      
+OL,7,FTimes Radio        BTalkRadio-TalkTV   
+OL,8,FFix Radio          BMagic Chilled      
+OL,9,FHEAT RADIO         BKerrang!           
+OL,10,FAbsolute Country   BMagic Soul         
+OL,11,FVirgin Radio       BJazz FM Stereo     
+OL,12,FtalkSPORT 2        BCapXTRA Reloaded   
+OL,13,FRadio X Class Rk   BMagic Musicals     
+OL,14,FAbsolute Rock St   BAbsolute 80s St    
+OL,15,FAbsolute 90s St    BMellow Magic St    
+OL,16,FPlanet Rock St     BBoom Radio UK      
+OL,17,FScala Radio St     BPremier Praise     
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
