@@ -16,38 +16,25 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FSunrise Radio UK   BVirgin Radio       
-OL,5,FFix Radio          BHEAT RADIO         
-OL,6,FAbsolute 90s St    BTalkRadio-TalkTV   
-OL,7,FRadio X Class Rk   BMagic Musicals     
-OL,8,FAbsolute 80s St    BBFBS UK            
-OL,9,FtalkSPORT 2        BCapXTRA Reloaded   
-OL,10,FTimes Radio        BPremierChristian   
-OL,11,FVirgin Anthems     BCapital Chill      
-OL,12,FVirgin Chilled     BBoom Radio UK      
-OL,13,FMagic Chilled      BAbsolute Country   
-OL,14,FPremier Praise     BJazz FM Stereo     
-OL,15,FKerrang!           BAbsolute Rock St   
-OL,16,FScala Radio St     BMagic Soul         
-OL,17,FMellow Magic St    BPlanet Rock St     
+OL,4,FVirgin Radio       BTimes Radio        
+OL,5,FSunrise Radio UK   BPremierChristian   
+OL,6,FPremier Praise     BJazz FM Stereo     
+OL,7,FBFBS UK            BVirgin Anthems     
+OL,8,FVirgin Chilled     BTalkRadio-TalkTV   
+OL,9,FtalkSPORT 2        BBoom Radio UK      
+OL,10,FFix Radio          BCapXTRA Reloaded   
+OL,11,FCapital Chill      BRadio X Class Rk   
+OL,12,FMagic Musicals     BMagic Chilled      
+OL,13,FKerrang!           BHEAT RADIO         
+OL,14,FAbsolute Country   BAbsolute Rock St   
+OL,15,FMagic Soul         BAbsolute 80s St    
+OL,16,FAbsolute 90s St    BMellow Magic St    
+OL,17,FPlanet Rock St     BScala Radio St     
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
 PN,53503
 SC,0003
-OL,2,CDAB ENSEMBLES ECambridge
-OL,3, 
-OL,4,FGrt Hits Cambs     BStar Radio (Cam)   
-OL,5,FRadio Maria Eng    BCapital UK         
-OL,6,FSmooth Country     BHITS RADIO UK      
-OL,7,FGold Cambs         BHeart Cambridge    
-OL,8,FBBC Radio Cambs    BDubai Now          
-OL,9,FEPG Cambridge (data)
-OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
-OL,24,ALabyrinth  BSnowman  CTV  FEngineering
-FL,536,533,538,700,0,530
-PN,53504
-SC,0004
 OL,2,CDAB ENSEMBLES ED1 National     
 OL,3, 
 OL,4,FHeart  90s         BCapital XTRA       
@@ -66,8 +53,8 @@ OL,16,FHeart  80s
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
-PN,53505
-SC,0005
+PN,53504
+SC,0004
 OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
 OL,4,FBBC Radio 1        BBBC Radio 2        
