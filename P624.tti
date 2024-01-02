@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 02nd
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0635F3rd Rock from the Sun
@@ -13,32 +13,51 @@ OL,8,G0745FThe Simpsons
 OL,9,G0810FThe Simpsons
 OL,10,G0835FThe King of Queens
 OL,11,G0905FThe King of Queens
-OL,12,G0935FFrasier
+OL,12,G0935FThe King of Queens
 OL,13,G1005FFrasier
 OL,14,G1035FFrasier
-OL,15,G1105FDaddy Day Care
-OL,16,G1255FPaw Patrol: The Movie
-OL,17,G1440FChannel 4 News
-OL,18,G1455FMrs Doubtfire
-OL,19,G1720FIndiana Jones and the Last Crusade
-OL,20,G1940FNew: The Great New Year Bake Off
-OL,21,G2100FNew: Gogglebox Festive Special
+OL,15,G1105FFrasier
+OL,16,G1135FChannel 4 News Summary
+OL,17,G1140FFour in a Bed
+OL,18,G1210FFour in a Bed
+OL,19,G1240FFour in a Bed
+OL,20,G1310FFour in a Bed
+OL,21,G1340FFour in a Bed
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 01st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 02nd
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2230FBig Fat Quiz of the Year 2023
-OL,6,G0030FThe Last Leg of the Year
-OL,7,G0210FTravel Man: 48 Hours in Dublin
-OL,8,G0235FRamsay's 24 Hours to Hell and Back
-OL,9,G0320FCouples Come Dine with Me
-OL,10,G0410FSarah Beeny's New Life in the...
-OL,11,G0440FFood Unwrapped's Healthy New Year
-OL,12,G0555FCountdown
+OL,5,G1410FCountdown
+OL,6,G1500FA Place in the Sun: What...
+OL,7,G1600FA New Life in the Sun
+OL,8,G1700FJunior Bake Off
+OL,9,G1800FFour in a Bed
+OL,10,G1830FThe Simpsons
+OL,11,G1900FChannel 4 News
+OL,12,G2000FNew: Food Unwrapped's Caribbean...
+OL,13,G2100FNew: Taskmaster's New Year Treat
+OL,14,G2200FNew: First Dates
+OL,15,G2305FGogglebox Festive Special
+OL,16,G0030FJimmy Carr's Celebrity I...
+OL,17,G0125FTravel Man: 48 Hours in Vilnius
+OL,18,G0150FRamsay's 24 Hours to Hell and Back
+OL,19,G0235FCouples Come Dine with Me
+OL,20,G0325FExtraordinary Escapes with...
+OL,21,G0420FSarah Beeny's New Life in the...
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,625,104,535,700,0,620
+PN,62403
+SC,0003
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 02nd
+OL,2,Q 5jR5jT5jT]W     "m'F    C4
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0450FThe Great New Year Bake Off
+OL,6,G0555FCountdown
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
