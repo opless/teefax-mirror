@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 09th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 10th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0930FMorning Live
@@ -20,25 +20,26 @@ OL,15,G1630FThe Travelling Auctioneers
 OL,16,G1715FNew: Pointless
 OL,17,G1800FBBC News
 OL,18,G1830FLook East
-OL,19,G1900FThe One ShowC410
-OL,20,G1930FEastEnders
-OL,21,G2000FWaterloo Road
+OL,19,G1855FParty Political Broadcast by...
+OL,20,G1900FThe One ShowC410
+OL,21,G1930FEastEnders
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 09th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 10th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2100FSilent Witness
-OL,6,G2200FBBC News and Weather
-OL,7,G2230FLook East
-OL,8,G2240FTell Me Lies
-OL,9,G2330FTell Me Lies
-OL,10,G0015FPointless Celebrities
-OL,11,G0100FWeather for the Week Ahead
-OL,12,G0105FBBC News
+OL,5,G2000FThe Repair Shop
+OL,6,G2100FThe Traitors
+OL,7,G2200FBBC News and Weather
+OL,8,G2230FLook East
+OL,9,G2240FThe Post Office Scandal
+OL,10,G2340FSource Code
+OL,11,G0105FCelebrity Mastermind
+OL,12,G0135FWeather for the Week Ahead
+OL,13,G0140FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
