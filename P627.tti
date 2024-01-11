@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62701
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 10th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 11th
 OL,2,Q 5jR5jT5jT]W     "m'F    Sky Arts
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0800FThe Joy Of Painting
@@ -12,14 +12,14 @@ OL,7,G0900FTales Of The Unexpected
 OL,8,G0930FTales Of The Unexpected
 OL,9,G1000FAlfred Hitchcock Presents
 OL,10,G1030FAlfred Hitchcock Presents
-OL,11,G1100FDiscovering: Julianne Moore
-OL,12,G1200F
-OL,13,G1230F
-OL,14,G1300F
-OL,15,G1330F
-OL,16,G1400F
-OL,17,G1500FJanine Jansen: Falling For...
-OL,18,G1600FDiscovering: Sean Penn
+OL,11,G1100FDiscovering: Sean Penn
+OL,12,G1200FThe Joy Of Painting
+OL,13,G1230FThe Joy Of Painting
+OL,14,G1300FTales Of The Unexpected
+OL,15,G1330FTales Of The Unexpected
+OL,16,G1400FD.H. Lawrence: Sex, Exile...
+OL,17,G1500FSunflowers
+OL,18,G1600FDiscovering: Marilyn Monroe
 OL,19,G1700FThe Joy Of Painting
 OL,20,G1730FThe Joy Of Painting
 OL,21,G1800FTales Of The Unexpected
@@ -28,17 +28,21 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,628,104,535,700,0,620
 PN,62702
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 10th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 11th
 OL,2,Q 5jR5jT5jT]W     "m'F    Sky Arts
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1830FTales Of The Unexpected
-OL,6,G1900FAlfred Hitchcock Presents
-OL,7,G1930FAlfred Hitchcock Presents
-OL,8,G2000FNew: Landscape Artist Of The...
-OL,9,G2100FKatharine Hepburn: Call Me Kate
-OL,10,G2300FFilm Noir
-OL,11,G0000FJohn Wayne: America At All...
-OL,12,G0100FI Am Patrick Swayze
+OL,6,G1900FLandscape Artist Of The...
+OL,7,G2000FThe Directors
+OL,8,G2100FDiscovering: Meryl Streep
+OL,9,G2200FClassic Movies: The Story...
+OL,10,G2300FI Am Alfred Hitchcock
+OL,11,G0040FSalinger
+OL,12,G0320FDon't Shoot The Messenger
+OL,13,G0400FJimmy McGovern: The South...
+OL,14,G0430FFay Weldon: The South Bank...
+OL,15,G0500FDiscovering: Janis Joplin
+OL,16,G0530FDiscovering: Carpenters
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,628,104,535,700,0,620
