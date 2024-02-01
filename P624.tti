@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62401
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 31st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0615FCountdown
@@ -28,19 +28,36 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
 PN,62402
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 31st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
 OL,2,Q 5jR5jT5jT]W     "m'F    C4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1410FCountdown
 OL,6,G1500FA Place in the Sun
 OL,7,G1600FA New Life in the Sun
 OL,8,G1700FChateau DIY
-OL,9,G0005FOpen House: The Great Sex...
-OL,10,G0105FRamsay's Kitchen Nightmares USA
-OL,11,G0200FThe Simpsons
-OL,12,G0225FThe Florida Project
-OL,13,G0425FKirstie and Phil's Love It or...
-OL,14,G0520FGreat British History Hunters
+OL,9,G1800FCome Dine with Me
+OL,10,G1830FThe Simpsons
+OL,11,G1900FChannel 4 News
+OL,12,G2000FNew: Secret Life of the Safari...
+OL,13,G2100FNew: Miners' Strike 1984: The...
+OL,14,G2200FCatching a Killer: A Diary from...
+OL,15,G2350FTo Catch a Copper
+OL,16,G0045F999: On the Front Line
+OL,17,G0140FBig Boys
+OL,18,G0205FBrits Down Under
+OL,19,G0300FCelebrity First Dates Hotel...
+OL,20,G0350FMichael Mosley: Secrets of Your...
+OL,21,G0445FKirstie and Phil's Love It or...
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,625,104,535,700,0,620
+PN,62403
+SC,0003
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 01st
+OL,2,Q 5jR5jT5jT]W     "m'F    C4
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0540FKirstie's House of Craft
+OL,6,G0550FFood Unwrapped
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,625,104,535,700,0,620
