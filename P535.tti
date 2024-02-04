@@ -5,10 +5,10 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FHeart 4 Counties   BXS                 
-OL,5,FMKFM               BSmooth 3Counties   
-OL,6,FHITS RADIO UK      BBBC 3CR            
-OL,7,FCapital UK         BGrt Hits BBH       
+OL,4,FCapital UK         BGrt Hits BBH       
+OL,5,FHeart 4 Counties   BMKFM               
+OL,6,FBBC 3CR            BXS                 
+OL,7,FHITS RADIO UK      BSmooth 3Counties   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -16,20 +16,20 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FVirgin Radio       BTimes Radio        
-OL,5,FSunrise Radio UK   BPremierChristian   
-OL,6,FPremier Praise     BJazz FM Stereo     
-OL,7,FBFBS UK            BVirgin Anthems     
-OL,8,FVirgin Chilled     BTalkRadio-TalkTV   
-OL,9,FtalkSPORT 2        BBoom Radio UK      
-OL,10,FFix Radio          BCapXTRA Reloaded   
-OL,11,FCapital Chill      BRadio X Class Rk   
-OL,12,FMagic Musicals     BMagic Chilled      
-OL,13,FKerrang!           BHEAT RADIO         
-OL,14,FAbsolute Country   BAbsolute Rock St   
-OL,15,FMagic Soul         BAbsolute 80s St    
-OL,16,FAbsolute 90s St    BMellow Magic St    
-OL,17,FPlanet Rock St     BScala Radio St     
+OL,4,FtalkSPORT 2        BFix Radio          
+OL,5,FCapXTRA Reloaded   BCapital Chill      
+OL,6,FRadio X Class Rk   BMagic Musicals     
+OL,7,FMagic Chilled      BKerrang!           
+OL,8,FHEAT RADIO         BAbsolute Country   
+OL,9,FAbsolute Rock St   BMagic Soul         
+OL,10,FAbsolute 80s St    BAbsolute 90s St    
+OL,11,FMellow Magic St    BPlanet Rock St     
+OL,12,FScala Radio St     BVirgin Radio       
+OL,13,FTimes Radio        BSunrise Radio UK   
+OL,14,FPremierChristian   BPremier Praise     
+OL,15,FJazz FM Stereo     BBFBS UK            
+OL,16,FVirgin Anthems     BVirgin Chilled     
+OL,17,FTalkRadio-TalkTV   BBoom Radio UK      
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
