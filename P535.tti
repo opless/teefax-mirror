@@ -5,10 +5,10 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FCapital UK         BGrt Hits BBH       
-OL,5,FHeart 4 Counties   BMKFM               
-OL,6,FBBC 3CR            BXS                 
-OL,7,FHITS RADIO UK      BSmooth 3Counties   
+OL,4,FHeart 4 Counties   BXS                 
+OL,5,FMKFM               BBBC 3CR            
+OL,6,FHITS RADIO UK      BSmooth 3Counties   
+OL,7,FCapital UK         BGrt Hits BBH       
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -16,20 +16,20 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FtalkSPORT 2        BFix Radio          
-OL,5,FCapXTRA Reloaded   BCapital Chill      
-OL,6,FRadio X Class Rk   BMagic Musicals     
-OL,7,FMagic Chilled      BKerrang!           
-OL,8,FHEAT RADIO         BAbsolute Country   
-OL,9,FAbsolute Rock St   BMagic Soul         
-OL,10,FAbsolute 80s St    BAbsolute 90s St    
-OL,11,FMellow Magic St    BPlanet Rock St     
-OL,12,FScala Radio St     BVirgin Radio       
-OL,13,FTimes Radio        BSunrise Radio UK   
-OL,14,FPremierChristian   BPremier Praise     
-OL,15,FJazz FM Stereo     BBFBS UK            
-OL,16,FVirgin Anthems     BVirgin Chilled     
-OL,17,FTalkRadio-TalkTV   BBoom Radio UK      
+OL,4,FPremierChristian   BBFBS UK            
+OL,5,FTalkRadio-TalkTV   BFix Radio          
+OL,6,FCapital Chill      BRadio X Class Rk   
+OL,7,FMagic Musicals     BMagic Chilled      
+OL,8,FKerrang!           BHEAT RADIO         
+OL,9,FAbsolute Country   BAbsolute Rock St   
+OL,10,FMagic Soul         BAbsolute 80s St    
+OL,11,FAbsolute 90s St    BMellow Magic St    
+OL,12,FPlanet Rock St     BScala Radio St     
+OL,13,FVirgin Radio       BTimes Radio        
+OL,14,FSunrise Radio UK   BPremier Praise     
+OL,15,FJazz FM Stereo     BVirgin Anthems     
+OL,16,FVirgin Chilled     BtalkSPORT 2        
+OL,17,FBoom Radio UK      BCapXTRA Reloaded   
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
