@@ -5,10 +5,10 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FGrt Hits BBH       BHITS RADIO UK      
-OL,5,FXS                 BMKFM               
-OL,6,FSmooth 3Counties   BBBC 3CR            
-OL,7,FHeart 4 Counties   BCapital UK         
+OL,4,FXS                 BMKFM               
+OL,5,FSmooth 3Counties   BBBC 3CR            
+OL,6,FHeart 4 Counties   BCapital UK         
+OL,7,FGrt Hits BBH       BHITS RADIO UK      
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -58,10 +58,10 @@ SC,0004
 OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
 OL,4,FBBC Radio 1        BBBC Radio 2        
-OL,5,FBBC Radio 3        BBBC Radio 4        
-OL,6,FBBC Radio 5 Live   BBBC Radio 6Music   
-OL,7,FBBC Radio 4Extra   BBBC Radio 1Xtra    
-OL,8,FBBC WorldService   BBBC AsianNetwork   
+OL,5,FBBC Radio 3        BBBC Radio 4Extra   
+OL,6,FBBC Radio 4        BBBC Radio 5 Live   
+OL,7,FBBC Radio 6Music   BBBC Radio 1Xtra    
+OL,8,FBBC AsianNetwork   BBBC WorldService   
 OL,9,FBBC Guide        (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
