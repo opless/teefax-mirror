@@ -3,23 +3,23 @@ DE,TV
 PS,8040
 PN,62701
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 26th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 27th
 OL,2,Q 5jR5jT5jT]W     "m'F    Sky Arts
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0800FThe Joy Of Painting
 OL,6,G0830FThe Joy Of Painting
-OL,7,G0900FTales Of The Unexpected
-OL,8,G0930FTales Of The Unexpected
-OL,9,G1000FAlfred Hitchcock Presents
-OL,10,G1030FAlfred Hitchcock Presents
-OL,11,G1100FDiscovering: Olivia De Havilland
+OL,7,G0900F
+OL,8,G0930F
+OL,9,G1000F
+OL,10,G1030F
+OL,11,G1100F
 OL,12,G1200FThe Joy Of Painting
 OL,13,G1230FThe Joy Of Painting
 OL,14,G1300FTales Of The Unexpected
 OL,15,G1330FTales Of The Unexpected
-OL,16,G1400FCold War &amp; Cinema
-OL,17,G1500FStories From The National...
-OL,18,G1600FDiscovering: William Holden
+OL,16,G1400FInside Art Special:...
+OL,17,G1500FLandscape Artist Of The Year 2024
+OL,18,G1600FDiscovering: Barbara Stanwyck
 OL,19,G1700FTales Of The Unexpected
 OL,20,G1730FTales Of The Unexpected
 OL,21,G1800FAlfred Hitchcock Presents
@@ -28,17 +28,22 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,628,104,535,700,0,620
 PN,62702
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 26th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 27th
 OL,2,Q 5jR5jT5jT]W     "m'F    Sky Arts
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1830FAlfred Hitchcock Presents
 OL,6,G1900FThe Joy Of Painting
 OL,7,G1930FThe Joy Of Painting
-OL,8,G2000FAndre Rieu: I Lost My Heart In...
-OL,9,G2200FEmerson, Lake &amp; Palmer: ...
-OL,10,G2355FSunshine Superman: The Story...
-OL,11,G0225FShakespeare: King Lear
-OL,12,G0535FAuction
+OL,8,G2000FDickens In Italy With...
+OL,9,G2100FDickens In Italy With...
+OL,10,G2200FWonderland: Gothic
+OL,11,G2300FLeonardo Da Vinci: The...
+OL,12,G0015FBack To Basquiat
+OL,13,G0125FEscher: Journey Into Infinity
+OL,14,G0300FSky Arts Book Club
+OL,15,G0400FRobert Harris: Cheltenham...
+OL,16,G0500FAuction
+OL,17,G0530FAuction
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,628,104,535,700,0,620
