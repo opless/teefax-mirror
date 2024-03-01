@@ -3,17 +3,24 @@ DE,TV
 PS,8040
 PN,62601
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 29th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 01st
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1858FThis is BBC Four
-OL,6,G1900FFrozen Planet
-OL,7,G2000FThe Red Shoes
-OL,8,G2210F
-OL,9,G0115FSaving Venice
-OL,10,G0245FFrozen Planet
-OL,11,G0345FThis is BBC Four
-OL,12,G0530FThis is BBC Four
+OL,6,G1900FTOTP: 1995
+OL,7,G1930FTOTP: 1995
+OL,8,G2000FTOTP: 1984
+OL,9,G2030FTOTP: 1978
+OL,10,G2100FQueen: The Legendary 1975 Concert
+OL,11,G2205FFreddie Mercury: A Life in Ten...
+OL,12,G2305FQueen at the BBC
+OL,13,G0005FThe Story of Bohemian Rhapsody
+OL,14,G0100FFreddie Mercury: A Life in Ten...
+OL,15,G0200FTOTP: 1984
+OL,16,G0235FTOTP: 1978
+OL,17,G0305FTOTP: 1995
+OL,18,G0335FThis is BBC Four
+OL,19,G0530FThis is BBC Four
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,627,104,535,700,0,620
