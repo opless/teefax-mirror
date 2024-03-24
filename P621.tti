@@ -3,39 +3,41 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1000FSaturday Kitchen Live
-OL,6,G1130FFootball Focus
-OL,7,G1200FBBC News
-OL,8,G1210FWeather
-OL,9,G1215FMOTD Live: Women's Super...
-OL,10,G1445FMoney for Nothing
-OL,11,G1545FEscape to the Country
-OL,12,G1645FGarden Rescue
-OL,13,G1730FBBC News
-OL,14,G1740FLook East
-OL,15,G1745FWeather
-OL,16,G1750FGladiators
-OL,17,G1850FThe Weakest Link
-OL,18,G1935FPointless Celebrities
-OL,19,G2025FCasualty
-OL,20,G2115FCasualty
-OL,21,G2205FBBC News
+OL,5,G0900FSunday with Laura Kuenssberg
+OL,6,G1000FPolitics East
+OL,7,G1030FSunday Morning Live
+OL,8,G1130FCelebration Kitchen Live: Holi
+OL,9,G1230FBargain Hunt
+OL,10,G1300FBBC News
+OL,11,G1310FWeather for the Week Ahead
+OL,12,G1315FSongs of Praise: Holy Week
+OL,13,G1355FMoney for Nothing
+OL,14,G1455FEscape to the Country
+OL,15,G1550FA Perfect Planet
+OL,16,G1650FGhostbusters
+OL,17,G1830FBBC News
+OL,18,G1850FLook East
+OL,19,G1855FWeather
+OL,20,G1900FCountryfile
+OL,21,G2000FAntiques Roadshow
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 23rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 24th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2220FWeather
-OL,6,G2225FAvengers: Age of Ultron
-OL,7,G0035FKick-Ass
-OL,8,G0225FWeather for the Week Ahead
-OL,9,G0230FBBC News
+OL,5,G2100FDeath in Paradise
+OL,6,G2200FBBC News and Weather
+OL,7,G2225FLook East
+OL,8,G2230FWhen Harry Met Sally
+OL,9,G0000FThe Women's Football Show
+OL,10,G0050FWeather for the Week Ahead
+OL,11,G0055FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
