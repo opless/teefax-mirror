@@ -16,20 +16,20 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FCapXTRA Reloaded   BCapital Chill      
-OL,5,FMagic Musicals     BAbsolute Rock St   
-OL,6,FPremierChristian   BBFBS UK            
-OL,7,FTalkRadio-TalkTV   BFix Radio          
-OL,8,FRadio X Class Rk   BMagic Chilled      
-OL,9,FKerrang!           BHEAT RADIO         
-OL,10,FAbsolute Country   BMagic Soul         
-OL,11,FAbsolute 80s St    BAbsolute 90s St    
-OL,12,FMellow Magic St    BPlanet Rock St     
-OL,13,FScala Radio St     BVirgin Radio       
-OL,14,FTimes Radio        BSunrise Radio UK   
-OL,15,FPremier Praise     BJazz FM Stereo     
+OL,4,FBoom Radio UK      BFix Radio          
+OL,5,FCapXTRA Reloaded   BCapital Chill      
+OL,6,FRadio X Class Rk   BMagic Musicals     
+OL,7,FMagic Chilled      BKerrang!           
+OL,8,FHEAT RADIO         BAbsolute Country   
+OL,9,FAbsolute Rock St   BMagic Soul         
+OL,10,FAbsolute 80s St    BAbsolute 90s St    
+OL,11,FMellow Magic St    BPlanet Rock St     
+OL,12,FScala Radio St     BVirgin Radio       
+OL,13,FTimes Radio        BSunrise Radio UK   
+OL,14,FPremierChristian   BPremier Praise     
+OL,15,FJazz FM Stereo     BBFBS UK            
 OL,16,FVirgin Anthems     BVirgin Chilled     
-OL,17,FtalkSPORT 2        BBoom Radio UK      
+OL,17,FTalkRadio-TalkTV   BtalkSPORT 2        
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
@@ -37,19 +37,19 @@ PN,53503
 SC,0003
 OL,2,CDAB ENSEMBLES ED1 National     
 OL,3, 
-OL,4,FGB News Radio      BUCB 2              
-OL,5,FHeart 00s          BClassic FM         
-OL,6,FSmooth Relax       BtalkSPORT          
-OL,7,FLBC                BAbsolute Radio     
-OL,8,FKISS               BMagic              
-OL,9,FKISSTORY           BHeart UK           
-OL,10,FSmooth UK          BGold UK            
-OL,11,FHeart Dance        BHeart  80s         
-OL,12,FHeart  90s         BCapital XTRA       
-OL,13,FHeart  70s         BRadio X            
-OL,14,FLBC News           BCapital UK         
-OL,15,FSmooth Chill       BCapital DANCE      
-OL,16,FUCB 1              
+OL,4,FKISSTORY           BHeart UK           
+OL,5,FSmooth UK          BGold UK            
+OL,6,FHeart Dance        BHeart  80s         
+OL,7,FHeart  90s         BCapital XTRA       
+OL,8,FHeart  70s         BRadio X            
+OL,9,FLBC News           BCapital UK         
+OL,10,FSmooth Chill       BCapital DANCE      
+OL,11,FUCB 1              BClassic FM         
+OL,12,FSmooth Relax       BGB News Radio      
+OL,13,FUCB 2              BHeart 00s          
+OL,14,FtalkSPORT          BLBC                
+OL,15,FAbsolute Radio     BKISS               
+OL,16,FMagic              
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
 FL,536,533,538,700,0,530
