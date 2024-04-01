@@ -5,9 +5,9 @@ PN,53501
 SC,0001
 OL,2,CDAB ENSEMBLES EHerts Beds Bucks
 OL,3, 
-OL,4,FGrt Hits BBH       BMKFM               
+OL,4,FMKFM               BGrt Hits BBH       
 OL,5,FXS                 BHITS RADIO UK      
-OL,6,FHeart 4 Counties   BSmooth 3Counties   
+OL,6,FSmooth 3Counties   BHeart 4 Counties   
 OL,7,FBBC 3CR            BCapital UK         
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
@@ -16,15 +16,15 @@ PN,53502
 SC,0002
 OL,2,CDAB ENSEMBLES ESDL National    
 OL,3, 
-OL,4,FBFBS UK            BVirgin Chilled     
-OL,5,FTalkRadio-TalkTV   BBoom Radio UK      
-OL,6,FCapXTRA Reloaded   BMagic Musicals     
-OL,7,FVirgin Radio       BTimes Radio        
-OL,8,FSunrise Radio UK   BPremierChristian   
-OL,9,FPremier Praise     BJazz FM Stereo     
-OL,10,FVirgin Anthems     BtalkSPORT 2        
-OL,11,FFix Radio          BCapital Chill      
-OL,12,FRadio X Class Rk   BMagic Chilled      
+OL,4,FVirgin Radio       BTimes Radio        
+OL,5,FSunrise Radio UK   BPremierChristian   
+OL,6,FPremier Praise     BJazz FM Stereo     
+OL,7,FBFBS UK            BVirgin Anthems     
+OL,8,FVirgin Chilled     BTalkRadio-TalkTV   
+OL,9,FtalkSPORT 2        BBoom Radio UK      
+OL,10,FFix Radio          BCapXTRA Reloaded   
+OL,11,FCapital Chill      BRadio X Class Rk   
+OL,12,FMagic Musicals     BMagic Chilled      
 OL,13,FKerrang!           BHEAT RADIO         
 OL,14,FAbsolute Country   BAbsolute Rock St   
 OL,15,FMagic Soul         BAbsolute 80s St    
@@ -57,11 +57,11 @@ PN,53504
 SC,0004
 OL,2,CDAB ENSEMBLES EBBC National DAB
 OL,3, 
-OL,4,FBBC Radio 1Xtra    BBBC AsianNetwork   
-OL,5,FBBC WorldService   BBBC Radio 1        
-OL,6,FBBC Radio 2        BBBC Radio 3        
-OL,7,FBBC Radio 4        BBBC Radio 5 Live   
-OL,8,FBBC Radio 6Music   BBBC Radio 4Extra   
+OL,4,FBBC Radio 1        BBBC Radio 2        
+OL,5,FBBC Radio 3        BBBC Radio 4        
+OL,6,FBBC Radio 5 Live   BBBC Radio 6Music   
+OL,7,FBBC Radio 4Extra   BBBC Radio 1Xtra    
+OL,8,FBBC AsianNetwork   BBBC WorldService   
 OL,9,FBBC Guide        (data)
 OL,23,D]Fterrestrialtv.uk/dab  GMore followsH>
 OL,24,ALabyrinth  BSnowman  CTV  FEngineering
