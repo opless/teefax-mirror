@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 03rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 04th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0830FCritical Incident
@@ -28,19 +28,20 @@ OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 03rd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 04th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1830FEastEnders
-OL,6,G1900FThe Repair Shop
-OL,7,G2000FMasterChef
+OL,6,G1900FDragons' Den
+OL,7,G2000FThe Apprentice
 OL,8,G2100FBBC News and Weather
 OL,9,G2130FLook East
-OL,10,G2140FMatch of the Day
-OL,11,G2310FAnton &amp; Giovanni's Adventures...
-OL,12,G0010FWeather for the Week Ahead
-OL,13,G0015FBBC News
-OL,14,G0500FBreakfast
+OL,10,G2140FWreck
+OL,11,G2230FWreck
+OL,12,G2315FThe Blair Witch Project
+OL,13,G0035FWeather for the Week Ahead
+OL,14,G0040FBBC News
+OL,15,G0500FBreakfast
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
