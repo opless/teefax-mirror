@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 10th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 11th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0830FMorning Live
@@ -22,24 +22,23 @@ OL,17,G1700FBBC News
 OL,18,G1730FLook East
 OL,19,G1800FThe One ShowC410
 OL,20,G1830FEastEnders
-OL,21,G1900FNew: The Repair Shop
+OL,21,G1900FMasterChef
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 10th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 11th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2000FRace Across the World
+OL,5,G2000FThe Apprentice
 OL,6,G2100FBBC News and Weather
 OL,7,G2130FLook East
-OL,8,G2140FThe Bradford Aunties
-OL,9,G2230FPointless Celebrities
-OL,10,G2320FCelebrity Bridge of Lies
-OL,11,G0005FWeather for the Week ahead
-OL,12,G0010FBBC News
-OL,13,G0500FBreakfast
+OL,8,G2140FWreck
+OL,9,G2225FWreck
+OL,10,G2310FWeather for the Week Ahead
+OL,11,G2315FBBC News
+OL,12,G0500FBreakfast
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
