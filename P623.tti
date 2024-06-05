@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0800FLorraine
@@ -13,32 +13,28 @@ OL,8,G1230FITV Lunchtime News
 OL,9,G1255FITV News Anglia
 OL,10,G1300FDickinson's Real Deal
 OL,11,G1400FLingo
-OL,12,G1500FTipping Point for Soccer Aid
-OL,13,G1600FThe Chase
+OL,12,G1500FTipping Point
+OL,13,G1600FThe Chase for Soccer Aid
 OL,14,G1700FITV News Anglia
-OL,15,G1720FParty Election Broadcast:...
+OL,15,G1725FParty Election Broadcast:...
 OL,16,G1730FITV Evening News
-OL,17,G1830FEmmerdale
-OL,18,G1900FBeat The Chasers -...
-OL,19,G2000FSunak v Starmer: The ITV Debate
-OL,20,G2110FThe ITV Election Interviews
-OL,21,G2210FITV News
+OL,17,G2100FITV News
+OL,18,G2130FITV News Anglia
+OL,19,G2145FNew: Peston
+OL,20,G2240FBritish Touring Car...
+OL,21,G2355FShop on TV
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 04th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 05th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2240FITV News Anglia
-OL,6,G2255FITV Studio Sessions
-OL,7,G2320FShop on TV
-OL,8,G0200FOn Assignment
-OL,9,G0230FMy Mum, Your Dad
-OL,10,G0320FUnwind with ITV
-OL,11,G0435FMade in Britain
-OL,12,G0500FGood Morning Britain
+OL,5,G0200FMy Mum, Your Dad
+OL,6,G0250FUnwind with ITV
+OL,7,G0405FWheel of Fortune
+OL,8,G0500FGood Morning Britain
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
