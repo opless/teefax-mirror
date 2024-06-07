@@ -16,13 +16,13 @@ OL,11,G1200FStorage Hunters UK
 OL,12,G1230FStorage Hunters UK
 OL,13,G1300FExtreme Fishing with Robson Green
 OL,14,G1400FTop Gear
-OL,15,G1500FTop Gear
-OL,16,G1600FHairy Bikers' Best of British
-OL,17,G1700FRick Stein: From Venice to Istanbul
-OL,18,G2100FNew: Mad Dogs
-OL,19,G2210FTaskmaster
-OL,20,G2310FMock the Week
-OL,21,G2350FWould I Lie to You?
+OL,15,G1500F
+OL,16,G1600F
+OL,17,G1700F
+OL,18,G1800FWould I Lie to You?
+OL,19,G1840FRichard Osman's House of Games
+OL,20,G1920FRichard Osman's House of Games
+OL,21,G2000FQI XL
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
@@ -31,10 +31,14 @@ SC,0002
 OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 07th
 OL,2,Q 5jR5jT5jT]W     "m'F    Dave
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0030FLive at the Apollo
-OL,6,G0135FMeet the Richardsons
-OL,7,G0205FWhose Line Is It Anyway? USA
-OL,8,G0230FWhose Line Is It Anyway? USA
+OL,5,G2100FNew: Mad Dogs
+OL,6,G2210FTaskmaster
+OL,7,G0030FLive at the Apollo
+OL,8,G0135FMeet the Richardsons
+OL,9,G0205FWhose Line Is It Anyway? USA
+OL,10,G0230FWhose Line Is It Anyway? USA
+OL,11,G0300FTeleshopping
+OL,12,G0500FTeleshopping
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,630,104,535,700,0,620
