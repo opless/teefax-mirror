@@ -1,7 +1,7 @@
 DE,Teletext - Software Index
 DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\P710-software.tti
-PN,71001
+PN,71000
 SC,0001
 PS,8000
 RE,0
@@ -24,18 +24,10 @@ OL,15,T]CGGenerate teletext data with a Pi
 OL,16,T]FEncoding hardware ............ C715  
 OL,17,T]CGHardware for adding teletext data   
 OL,18,T]CGto an existing video signal         
-OL,19,T]FTeletext recovery............. C716  
-OL,20,T]F                                     
+OL,19,T]FTeletext recovery ............ C716  
+OL,20,T]FTeletext archiving ........... C717  
 OL,21,T]F                                     
 OL,22,T]F                                     
 OL,23,Q]CRASPBERRY PI SYSTEM STATUS      797  
 OL,24,AIndex BBamboozle CTest pages FHistoric 
-FL,700,150,740,790,8ff,100
-PN,71002
-SC,0002
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,New subpage inserted 2/2                
 FL,700,150,740,790,8ff,100
