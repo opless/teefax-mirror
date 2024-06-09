@@ -1,9 +1,10 @@
 DE,Pages from Ceefax
 DS,inserter
-SP,/home/peterk/teletext/P672-PagesFromCeefax.tti
-PN,67200
-SC,0000
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P672-PagesFromCeefax.tti
+PN,67201
+SC,0001
 PS,8000
+CT,8,T
 RE,0
 OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
 OL,1,D]MG        YOU ARE WATCHING            
@@ -17,4 +18,368 @@ OL,13,D]G M The full service offers several
 OL,15,D]MG hundred pages and is available to  
 OL,17,D]MG  anyone with a suitably-equipped   
 OL,19,D]MG          television set.           
+FL,673,670,670,100,8ff,8ff
+PN,67202
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,D]S                                     
+OL,2,D]S         ppp0                        
+OL,3,D]S         k5                        
+OL,4,D]S         j5o5h4j//           
+OL,5,D]S         j5z5j5*/           
+OL,6,D]S         j5|4~}h|           
+OL,7,D]S                                     
+OL,9,      A few pages copied from a BBC     
+OL,10,      documentary shot in 1975 are      
+OL,11,      presented on the next few pages.  
+OL,13,      "This is Ceefax". BBC 1975.       
+OL,15,R               +}4`|?!                 
+OL,16,R                "k&#                   
+OL,17,Q              x||}|t                
+OL,18,Q             j^W}0              
+OL,19,Q             55              
+OL,20,Q             5k%              
+OL,21,Q             iz?               
+OL,22,Q             "o////?!               
+OL,23,Q               "/'/+/'                 
+FL,673,670,670,100,8ff,8ff
+PN,67203
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,FBBC                                    
+OL,4,R7#j 57kj#57kjj#kj#!    Q    8,,,0      
+OL,5,R#kj#55jj#!7#jj jj 4    Q   6    "4     
+OL,6,R##" !##"  ! "" ""#!    Q   5     5     
+OL,7,Vpp` 01pz`p0            Q   9888881     
+OL,8,Vuzj 555jj,%G PART 1    Q   ffffff$     
+OL,9,Vpz"#!!##"#!W ######    Q   9999991     
+OL,10,                        Q   "ffff&      
+OL,12,CBEEFGprices are fluctuating, but       
+OL,13, TOPSIDE and TOP RUMP should be 70p to  
+OL,14, 80p a lb, and BONE IN BRISKET about    
+OL,15, 30p. BRAISING STEAK may be on special  
+OL,16, offer at 55p to 60p a lb.              
+OL,18,CENGLISH LAMBGprices are falling., with 
+OL,19, TOP QUALITY LEG at around 70p a lb.    
+OL,20, and CHOPS at 80p. New Zealand lamb     
+OL,21, chops are 55p to 60p a lb.             
+OL,23,RwBPART 2 WILL FOLLOW AUTOMATICALLYR{   
+FL,673,670,670,100,8ff,8ff
+PN,67204
+SC,0004
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,FBBC                                    
+OL,4,R7#j 57kj#57kjj#kj#!    S    8,,,0      
+OL,5,R#kj#55jj#!7#jj jj 4    S   6    "4     
+OL,6,R##" !##"  ! "" ""#!    S   5     5     
+OL,7,Vpp` 01pz`p0            S   9888881     
+OL,8,Vuzj 555jj,%G PART 2    S   ffffff$     
+OL,9,Vpz"#!!##"#!W ######    S   9999991     
+OL,10,                        S   "ffff&      
+OL,12,BAT THE GREENGROCER                     
+OL,13,Q##################GApples are a little 
+OL,14, dearer. RHUBARB is down to 8p to 10p   
+OL,15, a lb. SPRING GREENS are 6p to 7p a lb. 
+OL,16, SPAINACH is around 12p a lb.           
+OL,18,BAT THE GROCER                          
+OL,19,Q#############GA fall in egg prices.    
+OL,20, should mean 2p to 4p off a dozen.      
+OL,23,SwCPART 1 WILL FOLLOW AUTOMATICALLYS{   
+FL,673,670,670,100,8ff,8ff
+PN,67205
+SC,0005
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,Q#                                     
+OL,3,Qp pp pp ppp  pp pp s pp pp pp         
+OL,4,Q  <   jj  j      . -| GTHURS. 
+OL,5,Qsppsspsppsrrp #psppspsspsspss0        
+OL,6,Q#############  ##############!        
+OL,9, CATTLE Numbers up 11 per cent          
+OL,10,Q######GAverage price 22.74 pounds      
+OL,11,       C(up 27p)                        
+OL,14, SHEEP  Numbers up 11.5 per cent        
+OL,15,Q#####G Average price 42.4p             
+OL,16,      C (up 1.8p)                       
+OL,19, PIGS   Numbers up 28.5 per cent        
+OL,20,Q####G  Average price 4.52 pounds       
+OL,21,     C  (up 4p)                         
+OL,23,   RwBDETAILS FROM "FARMING TODAY"R{    
+FL,673,670,670,100,8ff,8ff
+PN,67206
+SC,0006
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,Ro? o?                                  
+OL,3,Rj5 j5j7kj7k7kj7k   j7kj7kj5j5jj7#      
+OL,4,Rj7#k5j5jj5j5jj7#   j5jj7#j5j5j"#      
+OL,5,Rj5 j5"##"!"!""##   "!""##"####"##      
+OL,6,R~} ~} G1.15 pm                         
+OL,8,Q||GSeven people were injured when a    
+OL,9,Q||Gbomb was thrown into a pub in       
+OL,10,    North Belfast. The action of a      
+OL,11,    doorman who kicked the bomb outside 
+OL,12,    is thought to have prevented even   
+OL,13,    more casualties.                    
+OL,15,Q||GA 1,000 pound subsidy for people    
+OL,16,Q||Gbuying homes for the first time was 
+OL,17,    suggested today by Mr Andrew Tait,  
+OL,18,    director general of the National    
+OL,19,    Housebuilding Council, at a         
+OL,20,    conference in Torquay.              
+OL,23,A   MORE HOME NEWS ON PAGE 103          
+FL,673,670,670,100,8ff,8ff
+PN,67207
+SC,0007
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,Uo? o?        jj5,                  FBBC
+OL,3,Uj5 j5j7kj7kj7kj5j7kj7kj##             
+OL,4,Uj7#k5j7#j5jj5jj5j5jj7#"#k             
+OL,5,Uj5 j5"##"##"##"!#"!""##"##             
+OL,6,U~} ~} W//////Fat noonW/////////////    
+OL,8,R||GHundreds of firemen and soldiers    
+OL,9,    are fighting aCHEATHLAND FIREGin    
+OL,10,    Hampshire.                          
+OL,12,R||GTop engineers in Britain's power    
+OL,13,    stations are being asked to vote on 
+OL,14,    whether to strike for aCPAY CLAIM.  
+OL,16,R||GAge Concern which looks after the   
+OL,17,    welfare of old folk have called for 
+OL,18,    aCNEW DEALGfor pensioners.          
+OL,20,R||GThe Queen has arrived inCJAPANGfor  
+OL,21,    a six day visit.                    
+OL,23,W||AMore details on p103 and 104Q|||    
+FL,673,670,670,100,8ff,8ff
+PN,67208
+SC,0008
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,FBBC                                    
+OL,4,S  ws17#57#57#5#7!ws1   j#kj#kj#+jss    
+OL,5,S  pp57#!up57#4 5 pp5   j##j#kjp{jpp    
+OL,6,W|||||||||||||||||||||||||||||||||||||||
+OL,9,  BCRICKET:CAt Worcester,GYorkshire 34-0
+OL,10,           (Rain).                      
+OL,11,           CAt Lord's,GMiddlesex 270-6  
+OL,12, Somerset 43-0.                         
+OL,13,           CAt Swansea,GGlamorgan 232-8 
+OL,14, Hampshire 71-3.                        
+OL,15,           CAt Northampton,GNorthants   
+OL,16, 199 Warwickshire 16-0.                 
+OL,17,           CAt the Oval,GDerbyshire     
+OL,18, 216-9 Surrey 48-1.                     
+OL,19,           CAt Leicester,GLeicestershire
+OL,20, 264 Sussex 20-1.                       
+FL,673,670,670,100,8ff,8ff
+PN,67209
+SC,0009
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,U 7#!           h #7!        5   4      
+OL,3,U =,bjk"kjkj#b"kj  51775w57! 57575w5e%  
+OL,4,U 5 jjjj{jjjpjj{j  55555u0s5 555u5u055  
+OL,6,W///////////////////////////////////////
+OL,8,                                G  --370
+OL,9, Friday 10 am                   G       
+OL,11,B   328.0                       G       
+OL,12,C  Up 3.1                       G  --350
+OL,15,  1 May 334.7Qpp             R  G       
+OL,16,  2  "  330.7Q5j          7k RppG  --330
+OL,17,  5  "  315.0Q5j          5j R5jG       
+OL,18,  6  "  311.1Q5j pp    7k 5j R5jG       
+OL,19,  7  "  322.9Q5j 5j    5j 5j R5jG       
+OL,20,  8  "  331.1Q5j 5j 7k 5j 5j R5jG  --310
+OL,21,             Quz uz uz uz uz RuzG       
+OL,22,              F  M  T  W  Th  Nov       
+OL,23,W///////////////////////////////////////
+FL,673,670,670,100,8ff,8ff
+PN,67210
+SC,0010
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,FBBCA              :     :     :        
+OL,3,A                  : TUE : WED :GTHU    
+OL,4,V 7#5     !       A:     :V!  A:        
+OL,5,V 7#57kj#555jj#57kj##"#57+ 57kj#!       
+OL,6,V 5 55jj 55e:js15 bs{js55  5wsbs5G15    
+OL,7,A                  :     :     :        
+OL,8,A                  :`````:`````:`````   
+OL,10,F450 YEARS AGO...Gthe German Peasants   
+OL,11,    Revolt was quelled at the battle    
+OL,12,    of Frankenhausen.                   
+OL,14,F40 YEARS AGO...Gformer Test cricketer  
+OL,15,    Ted Dexter was born.                
+OL,17,F10 YEARS AGO...Ga basketball match     
+OL,18,    was televised for the first time    
+OL,19,    from the Empire pool, Wembley.      
+FL,673,670,670,100,8ff,8ff
+PN,67211
+SC,0011
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,Uk                 V7kjj#5            
+OL,3,Uj                 V7kjj#4            
+OL,4,Uj||<<<<<<<<<<|<,d V                  
+OL,5,U*o}V#7!7kj#55jjsj     
+OL,6,U  "+////o/'##!V 5 7ij#5e:jpjp    
+OL,7,U         "#####     V                  
+OL,9, GETTING TO HEATHROW AIRPORT,1 - BY CAR 
+OL,10,Q///////////////////////////            
+OL,12, The airport is linked to theCA4Gand    
+OL,13,CM4G- but bus or rail services could be 
+OL,14, quicker and cheaperA(see the following 
+OL,15,Apages)                                 
+OL,16,       PARKING charges at the airport   
+OL,17, are going up on May 12. It will cost   
+OL,18,B2.40 pounds for 24 hoursGin a short-   
+OL,19, term park at the passenger terminals.  
+OL,21, Long-term parking can be cheaper and   
+OL,22, can be booked by telephone. The number 
+OL,23,              is.E01-759-4321 ext 6368  
+FL,673,670,670,100,8ff,8ff
+PN,67212
+SC,0012
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,Vk                 R7kjj#5            
+OL,3,Vj                 R7kjj#4            
+OL,4,Vj||<<<<<<<<<<|<,d                    
+OL,5,V*o}R#7!7kj#55jjsj     
+OL,6,V  "+////o/'##!R 5 7ij#5e:jpjp    
+OL,7,V         "#####                        
+OL,9, GETTING TO HEATHROW,2 - BY TRAIN       
+OL,10,Q////////////////////////////////       
+OL,12, KeyABRITISH RAILGstation for the       
+OL,13, airport areCREADINGG(for passengers    
+OL,14, from the West, South Wales and West    
+OL,15, Midlands)CFELTHAMGfor passengers from  
+OL,16, the South-East) andCWOKINGG(if you are 
+OL,17, coming from the Souh Coast).           
+OL,18,BEXPRESS COACH SERVICESGconnect these   
+OL,19, stations with the airport.             
+OL,21,ASee the next page - which will follow  
+OL,22,Aautomatically - for bus and Underground
+OL,23,Aservices to the airport.               
+FL,673,670,670,100,8ff,8ff
+PN,67213
+SC,0013
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,FBBC       CCEEFAX INDEXG- p101         
+OL,3,           W||||||||||||                
+OL,5,A NEWS                    BINFORMATION  
+OL,6,W ####                     ###########  
+OL,7,F Headlines....102G: Sub-indices for:   
+OL,8,  Home.........103 :FTRAVEL, WEATHER    
+OL,9,  Foreign......104 :F& BBC NEWS..... 110
+OL,10,C SPORT........105 :                    
+OL,11,C Racing.......106 :BELECTRONICS.... 120
+OL,12,  Charivari....107 :                    
+OL,13,B FT INDEX.....108 :GCONSUMER....... 320
+OL,14,  Business.....109 :                    
+OL,15,A NEWSFLASH >> 150 :EDESIGNS........ 140
+OL,16,R ppppppppppppppppp                     
+OL,17,R 5GA full CEEFAXRjW ###################
+OL,18,R 5G  magazineR   jF Weather Map.... 115
+OL,19,R 5  Gwill beR    j                     
+OL,20,R 5C 100 PAGESR   jE CARTOON........ 149
+OL,21,R 5GBBC-1 & BBC-2Rj                     
+OL,22,R upppppppppppppppzC WHAT IS CEEFAX?G160
+OL,23,  UPDATEDF8.30am-6pm                    
+FL,673,670,670,100,8ff,8ff
+PN,67214
+SC,0014
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,2,W   Vd8             H`      W0"         
+OL,3,W                  V #   W %            
+OL,4,W                       8:              
+OL,6,W     0              jV%%H)dI          0
+OL,7,W     5V           W j      WjV*hHd0 I" 
+OL,8,W     5V:&H(p&I    W h      WjV(pH8:$   
+OL,9,W     5              &       j   !      
+OL,10,W     5            H: I      j          
+OL,11,W     5           Q       Wj          
+OL,12,W     5       7#          j          
+OL,13,W     5       5 |Q       Wj          
+OL,14,W     5              j          
+OL,15,T  j|0W555      j          
+OL,16,T      h5     
+OL,17,H/I/To//////////////////      
+OL,18,H///IT+EGOOD SHIP TEEFAXT?/!      
+OL,19,H ///IT+?         
+OL,20,FH//IB/HF/IB/  /   / F/B // / F/B/// /  
+OL,21,/  F/ //  B/// / / / // F/ / H/ /  / // 
+OL,22,B/   // F/  B/  / // /   HF/I  HB/I// / 
+OL,23,F//    B/ //  / / F/   B/ // / /  F/ B/ 
+FL,673,670,670,100,8ff,8ff
+PN,67215
+SC,0015
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,3,V       ,,l,,$                          
+OL,4,V         jjppp01ppp0   b`ppp           
+OL,5,V         jj   55-,,4   j*,,l           
+OL,6,V         **   %%,,,%   *(,,.           
+OL,12,VH  j5j5j  5   
+OL,13,VH  5   j    5   j    5 jj  5   
+OL,14,VH  5   jpp  up0 jpp  upz*opp?%   
+OL,15,VH  5   j//  ?/% j//  ?/o`z//u0   
+OL,16,VH  5   j    5   j    5 jj  5   
+OL,17,VH  5   j    5   j    5 jj  5   
+OL,18,VH  j5j    5 jj  5   
+FL,673,670,670,100,8ff,8ff
+PN,67216
+SC,0016
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,7,U ppppppppppppppp                       
+OL,8,U '########+7##                       
+OL,9,U  GTEEFAX U5j5                       
+OL,10,U           5                         
+OL,11,U     `~}0  5j5                       
+OL,12,U     />m/  5                         
+OL,13,U     &&))  5j5                       
+OL,14,U }||||||||~upp                       
+OL,15,U |<,,,,,,,,,,,l|                       
+OL,16,U                                     
+OL,17,  o             o                       
+OL,19,U 757!757575k!7!75                      
+OL,20,U 747!7!5574j 7!74                      
+OL,21,U !!#!! #!!!" #!!!                      
+OL,23,B A N G E L A    R I P P O N            
 FL,673,670,670,100,8ff,8ff

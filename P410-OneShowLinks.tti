@@ -1,9 +1,10 @@
 DE,The One Show
 DS,inserter
-SP,J:\peter\teefax\P410-OneShowLinks.tti
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P410-OneShowLinks.tti
 PN,41001
 SC,0001
-PS,C000
+PS,c000
+CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
@@ -31,7 +32,8 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41002
 SC,0002
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
@@ -58,7 +60,8 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41003
 SC,0003
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
@@ -72,22 +75,22 @@ OL,8,Fremote control starting from page 100.
 OL,9,FHere are some page numbers that you can
 OL,10,Ftry on Teefax.                         
 OL,12, 104 BBC News                           
-OL,13,C131 to 139 "This is Ceefax" documentary
-OL,14, 150 Bamboozle quizzes                  
-OL,15,C160 Stories from LA                    
-OL,16, 200 Pages from Teefax users            
-OL,17,C302 BBC Sport                          
-OL,18, 401 UK Weather from the Met Office     
-OL,19,C500 Teletext artists                   
-OL,20, 570 "Digitiser" magazine by @mrbiffo   
-OL,21,C670 Replicas of early teletext pages   
-OL,22, 700 Teletext engineering               
-OL,23,C790 Clock crackers                     
+OL,13,C150 Bamboozle quizzes                  
+OL,14, 160 Stories from LA                    
+OL,15,C200 Pages from Teefax users            
+OL,16, 400 Reviews                            
+OL,17,C500 Teletext artists                   
+OL,18, 570 "Digitiser" magazine by @mrbiffo   
+OL,19,C670 Replicas of early teletext pages   
+OL,20, 672 "This is Ceefax" documentary       
+OL,21,C700 Teletext engineering               
+OL,22, 790 Clock crackers                     
 OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41004
 SC,0004
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Vh<,,,,,,|F`````````````````````````````
@@ -111,7 +114,8 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41005
 SC,0005
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,M Weekdays at 1900                      
@@ -138,7 +142,8 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41006
 SC,0006
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,Q'##/##//////o
@@ -168,7 +173,8 @@ OL,24,A NextBTeletext artCMake artFEngineering
 FL,411,411,412,413,8ff,8ff
 PN,41007
 SC,0007
-PS,C000
+PS,8000
+CT,8,T
 RE,0
 OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
 OL,1,W?/o///####+/

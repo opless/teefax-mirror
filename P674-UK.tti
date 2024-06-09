@@ -1,12 +1,12 @@
 DE,Replicas of other UK services
 DS,inserter
-SP,V:\_ Teefax\P673-UK.tti
+SP,V:\_ Teefax\P674-UK.tti
 CT,15,T
-PN,67301
+PN,67401
 SC,0001
 PS,C000
 RE,0
-OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX 674 DAY dd MTH C hh:nn.ss
 OL,1,V               0              0  0     
 OL,2,V         w5  u%4<4<5  <4z1  5 4444<4<4 
 OL,3,V         55  55555u5  u5j   u05e%555-5 
@@ -32,11 +32,11 @@ OL,22,T]
 OL,23,T]CXreplica           beeblepete 2017   
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
-PN,67302
+PN,67402
 SC,0002
 PS,C000
 RE,0
-OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX 674 DAY dd MTH C hh:nn.ss
 OL,1,Q   hh         Qppppppppppppppppp0 
 OL,2,Q   ** GXby     T||||||||||||||| Q||4h|
 OL,3,Q   o5GXswirv, T]Vw%4415= bhl  \Q5j
@@ -61,11 +61,11 @@ OL,21,Q///////////////////,,,,,,,,,,,,,, 
 OL,22,Q]MFNew series -- details in a moment   
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
-PN,67303
+PN,67403
 SC,0003
 PS,C000
 RE,0
-OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX 674 DAY dd MTH C hh:nn.ss
 OL,0,        T]CTeletext  \          hh:nn:ss
 OL,2,D] S  `pp0`p0`0  pp ppp pp p `0ppp      
 OL,3,D] S  "k7!sj5 jw{5##jw{5+t>!##      
@@ -88,11 +88,11 @@ OL,22,D]C Homeowner over 55? Considering
 OL,23,C]D equity release? AFind out moreDp383 
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
-PN,67304
+PN,67404
 SC,0004
 PS,C000
 RE,0
-OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX 674 DAY dd MTH C hh:nn.ss
 OL,1,R            p8,,,,l0             F3/6  
 OL,2,R       `8,&#      z%                   
 OL,3,R    `8&1       `x.!                    
@@ -115,11 +115,11 @@ OL,22,W|||||||]D        939 (10) S/S '87
 OL,23,T]BMore from GRATTAN follows. ....... >>
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
-PN,67305
+PN,67405
 SC,0005
 PS,C000
 RE,0
-OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX 674 DAY dd MTH C hh:nn.ss
 OL,1,C]Q"!j5 h<|j5sh<|h<,AXreplica         
 OL,2,C]Q  oz% ju|j5jubsAXbeeblepete 2018 
 OL,3,A``````````````Q*%A`````````````````````
@@ -142,7 +142,7 @@ OL,22,C]D   Get the latest news from your
 OL,23,C]D footie club on your mobile - p539   
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
-PN,67306
+PN,67406
 SC,0006
 PS,C000
 RE,0
@@ -172,11 +172,11 @@ OL,22,WS           n7q?     U  (n'
 OL,23,V|||||||||||||GNichola,10V||||||||||||||
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
-PN,67307
+PN,67407
 SC,0007
 PS,C000
 RE,0
-OL,0,XXXXXXXXTEEFAX 673 DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXTEEFAX 674 DAY dd MTH C hh:nn.ss
 OL,1,T]W`         !   0  0    $ T^?\o]W  $` 
 OL,2,T]W     !      0      0T^\/:5u'&o]     
 OL,3,T]W      $   `    0    T^\}|$'.]W0"  
@@ -202,7 +202,7 @@ OL,22,W]V   #   t*/         W^\t
 OL,23,W]V  p |4              W^\t            
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,675,700,800,0,100
-PN,67308
+PN,67408
 SC,0008
 PS,C000
 RE,0
