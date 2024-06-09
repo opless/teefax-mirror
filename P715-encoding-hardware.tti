@@ -1,0 +1,24 @@
+DE,Encoding hardware
+DS,Wales
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P715-encoding-hardware.tti
+PN,71500
+SC,0000
+PS,8008
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0    
+OL,2,Q 5|jR5|jT5|jT]W7 55-5555=%=%5 555-5Pj
+OL,3,Q 5/jR5/jT5/jT]W#!!!,%!!!#!#!! !!!,%Pj
+OL,4,Q ###R###T###WG     Information         
+OL,6,Mvbit-py: Raspberry Pi Text Inserter    
+OL,9, A hardware encoder which adds teletext 
+OL,10, data to any stable composite video     
+OL,11, source such as a set top box or CCTV   
+OL,12, camera.                                
+OL,14, The hardware takes the form of a small 
+OL,15, PCB (HAT) which is simply plugged into 
+OL,16, the top of the Raspberry Pi.           
+OL,21, For more details, see:                 
+OL,22,Cgithub.com/peterkvt80/vbit-py          
+OL,24,AIndex B Specs  CSoftware F Test Cards  
+FL,700,704,710,740,0,100

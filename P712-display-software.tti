@@ -1,7 +1,7 @@
-DE,Teefax in Your Browser
-DS,Teefax 1
-SP,Z:\Documents\Projects\Teletext pages\teletext-full\P713-teefax-web.tti
-PN,71300
+DE,Display software
+DS,Wales
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P712-display-software.tti
+PN,71200
 SC,0000
 PS,8008
 RE,0
@@ -21,5 +21,5 @@ OL,16,  To link to a page the URL format is
 OL,17, Cteastop.plus.com:8080?page=713        
 OL,19,  Teefax is also available on zxnet     
 OL,20,C https://zxnet.co.uk/teletext/viewer   
-OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,704,714,740,0,100
+OL,24,AIndex B Specs  CSoftware F Test Cards  
+FL,700,704,710,740,0,100

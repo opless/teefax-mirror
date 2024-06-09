@@ -1,7 +1,7 @@
 DE,Teletext Recovery
 DS,Wales
-SP,Z:\Documents\Projects\Teletext pages\teletext-full\P715-txt-recovery.tti
-PN,71500
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P716-txt-recovery.tti
+PN,71600
 SC,0000
 PS,8008
 RE,0
@@ -10,5 +10,5 @@ OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0
 OL,2,Q 5|jR5|jT5|jT]W7 55-5555=%=%5 555-5Pj
 OL,3,Q 5/jR5/jT5/jT]W#!!!,%!!!#!#!! !!!,%Pj
 OL,4,Q ###R###T###WG  Teletext Recovery      
-OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,704,714,740,0,100
+OL,24,AIndex B Specs  CSoftware F Test Cards  
+FL,700,704,710,740,0,100

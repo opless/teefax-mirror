@@ -1,33 +1,41 @@
 DE,Teletext - Software Index
 DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\P710-software.tti
-PN,71000
-SC,0000
+PN,71001
+SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppW   <$p0p0$p0p0p0p0$p0p0   
 OL,2,Q 5|jR5|jT5|jT]W 7 55-5555=%=%5 555-5   
 OL,3,Q 5/jR5/jT5/jT]W #!!!,%!!!#!#!! !!!,%   
-OL,4,Q ###R###T###WGTeletext software index  
+OL,4,Q ###R###T###WGTeletext projects index  
 OL,5,T|||||||||||||||||||||||||||||||||||||||
-OL,6,T]FwxTED teletext editor ........ C711  
-OL,7,T]FTeletext selfie .............. C712  
-OL,8,T]FTeefax online ................ C713  
-OL,9,T]FTeefax on your Raspberry Pi... C714  
-OL,10,T]FTeletext recovery............. C715  
-OL,11,T]F                                     
-OL,12,T]F                                     
-OL,13,T]F                                     
-OL,14,T]F                                     
-OL,15,T]F                                     
-OL,16,T]F                                     
-OL,17,T]F                                     
-OL,18,T]F                                     
-OL,19,T]F                                     
+OL,6,T]FCreation software ............ C711  
+OL,7,T]CGSoftware for creating pages         
+OL,8,T]FDisplay software ............. C712  
+OL,9,T]CGSoftware for displaying pages on    
+OL,10,T]CGa computer, Raspberry Pi, or browser
+OL,11,T]FDisplay hardware ............. C713  
+OL,12,T]CGHardware for displaying pages over  
+OL,13,T]CGcomposite video or HDMI             
+OL,14,T]FEncoding software ............ C714  
+OL,15,T]CGGenerate teletext data with a Pi    
+OL,16,T]FEncoding hardware ............ C715  
+OL,17,T]CGHardware for adding teletext data   
+OL,18,T]CGto an existing video signal         
+OL,19,T]FTeletext recovery............. C716  
 OL,20,T]F                                     
 OL,21,T]F                                     
 OL,22,T]F                                     
 OL,23,Q]CRASPBERRY PI SYSTEM STATUS      797  
 OL,24,AIndex BBamboozle CTest pages FHistoric 
+FL,700,150,740,790,8ff,100
+PN,71002
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,New subpage inserted 2/2                
 FL,700,150,740,790,8ff,100

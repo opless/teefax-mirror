@@ -1,6 +1,6 @@
-DE,VBIT-Pi
+DE,Encoding software
 DS,Wales
-SP,Z:\Documents\Projects\Teletext pages\teletext-full\P714-vbit-pi.tti
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\P714-encoding-software.tti
 PN,71400
 SC,0000
 PS,8008
@@ -23,5 +23,5 @@ OL,18,  put together a kit containing:
 OL,19, B16GB SD cardGconfigured for Teefax, a 
 OL,20, Bvideo cableGandBSCART adapterGfor #20 
 OL,22,  Contact me onCpeterk.vt80@gmail.com   
-OL,24,AIndex B Specs  C VBIT-Pi F Test Cards  
-FL,700,704,714,740,0,100
+OL,24,AIndex B Specs  CSoftware F Test Cards  
+FL,700,704,710,740,0,100
