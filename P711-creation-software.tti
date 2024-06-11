@@ -49,3 +49,27 @@ OL,22,F If you get a good selfie then send it
 OL,23,F to Teefax and we will display it.     
 OL,24,AIndex B Specs  CSoftware F Test Cards  
 FL,700,704,710,740,0,100
+PN,71103
+SC,0000
+PS,8008
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0    
+OL,2,Q 5|jR5|jT5|jT]W7 55-5555=%=%5 555-5Pj
+OL,3,Q 5/jR5/jT5/jT]W#!!!,%!!!#!#!! !!!,%Pj
+OL,4,Q ###R###T###WG     Information         
+OL,6,M QTeletextMaker                        
+OL,9,  A cross-platform teletext editor with 
+OL,10,  an emphasis on Level 2.5 enhancement  
+OL,11,  editing.                              
+OL,13,  It has an interactive X/26 enhancement
+OL,14,  editor, allowing entry of triplets and
+OL,15,  showing the results immediately.      
+OL,17,  It is bundled with example pages that 
+OL,18,  allow one to get an idea on how X/26  
+OL,19,  enhancements are laid out and applied.
+OL,21,  Download Windows exe from Releases at 
+OL,22,F github.com/gkthemac/qteletextmaker    
+OL,23,  or compile with Qt5 or Qt6 on Linux.  
+OL,24,AIndex B Specs  CSoftware F Test Cards  
+FL,700,704,710,740,0,100
