@@ -3,7 +3,7 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 24th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 25th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0800FLorraine
@@ -16,27 +16,24 @@ OL,11,G1400FLingo
 OL,12,G1500FTipping Point
 OL,13,G1600FThe Chase
 OL,14,G1700FITV News Anglia
-OL,15,G1725FParty Election Broadcast:...
-OL,16,G1730FITV Evening News
-OL,17,G1800FThe Leader Interviews - Tonight
-OL,18,G1830FEmmerdale
-OL,19,G1900FCoronation Street
-OL,20,G2000FNew: Long Lost Family: Born...
-OL,21,G2100FITV News
+OL,15,G1720FITV Evening News
+OL,16,G1745FUEFA Euro 2024: England v Slovenia
+OL,17,G2145FITV News
+OL,18,G2220FITV News Anglia
+OL,19,G2230FNew: On Assignment
+OL,20,G2300FShop on TV
+OL,21,G0200FThe Best of Saint and Greavsie
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
 PN,62302
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 24th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 25th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2130FITV News Anglia
-OL,6,G2145FNew: Peston
-OL,7,G2240FUEFA Euro 2024 Highlights
-OL,8,G2335FShop on TV
-OL,9,G0200F
-OL,10,G0250F
+OL,5,G0250FUnwind with ITV
+OL,6,G0405FJames Martin's Spanish Adventure
+OL,7,G0500FGood Morning Britain
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
