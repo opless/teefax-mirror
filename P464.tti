@@ -1,0 +1,120 @@
+DE,
+PS,C008
+PN,46401
+SC,0001
+OL,27,@DFB@@@OO@@@HOO@@@HOO@@@HOO@@@H@F@@@@@@@
+OL,1,|B2201205|a16PATCH2|i24BBBC316k|s~_1~e|s
+OL,2,~Z010MO.7G15V.31,0,18G20Code=&7C00G30Pat
+OL,3,ch=&A00G40TEMP = &80:REM&B0G50From = TEM
+OL,4,P: To = TEMP+2 :REM From OVL TEMP, To OV
+OL,5,L CBG60CB = To: CB_low = CB: CB_high = C
+OL,6,B+1G70Count = CB+2G80Oldvec = Patch+&100
+OL,7,-2G90HisFSC = Oldvec-2G100FSCV = &21EG11
+OL,8,0FileV = &212G120Bget = &FFD7G130OsByte 
+OL,9,= &FFF4G140OsCli = &FFF7G150OsWrch = &FF
+OL,10,EEG160OsAscii = &FFE3G170PROCassembleG18
+OL,11,0*SAVE TSOFT 7C00 +200 FFFF7C00 FFFF7C00
+OL,12,G190MO.7G200ENDG210DEFPROCassembleG220F.
+OL,13, Pass = 0 TO 2 S. 2G230P%=&7C00G240[OPT 
+OL,14,PassG250JMP RelocG260.CodeStart   \ ****
+OL,15, FROM HERE ON, MUST BE RELOCATABLEG270.M
+OL,16,yFSCG280 Cmp #&05G290 Beq StarCatG300\ C
+OL,17,mp #2:\ Beq StarRunG310\ Cmp #4:\ Beq St
+OL,18,arRunG320 Jmp (HisFSC)G330.StarCatG340Ld
+OL,19,x #(c1-CodeStart+Patch) MOD 256:Ldy #(c1
+OL,20,-CodeStart+Patch) DIV 256G350Jsr OsCliG3
+OL,21,60Ldx #(c2-CodeStart+Patch) MOD 256:Ldy 
+OL,22,#(c2-CodeStart+Patch) DIV 256G370Jsr OsC
+OL,23,liG380BIT &FF: BMI escG|c
+PN,46402
+SC,0002
+OL,27,@DFC@@@OO@@@HOO@@@HOO@@@HOO@@@H@F@@@@@@@
+OL,1,|B2202205|a16PATCH2|i24BBBC316k|s~_1~e|s
+OL,2,~Z0390Ldx #(c3-CodeStart+Patch) MOD 256:
+OL,3,Ldy #(c3-CodeStart+Patch) DIV 256G400Jsr
+OL,4, OsCliG401.escG410RtsG440.c1G441   OPT F
+OL,5,Nequs("page701")G450.c2G451   OPT FNequs
+OL,6,("tr.7000")G460.c3G461   OPT FNequs("dis
+OL,7,p.7000")G470\G480.StarRunG490\RTSG500\G5
+OL,8,10\G520\G530\G540\G550\G560\G570\G580.Ou
+OL,9,rOsfileG590 Cmp #&FFG600 Beq LoadFileG61
+OL,10,0.realosfileG620 Jmp (Oldvec)G630.LoadFi
+OL,11,leG640Stx CB_lowG650Sty CB_highG660\ *LO
+OL,12,. FRED 2000 passes the ENTIRE string as 
+OL,13,the filename to OSFILE.G670\ ----- the f
+OL,14,ilename must therefor be stripped off.G6
+OL,15,80\ ----- It is not enough just to poke 
+OL,16,a CR into the space characterG690\ -----
+OL,17, because OS.("LOAD FRED") in a basic pro
+OL,18,gram would get corruptedG700\ ----- by t
+OL,19,he cr being inserted in the middle of th
+OL,20,e literal text.G710\ ***** The remedy is
+OL,21, to copy the string elsewhere, and tweak
+OL,22, the pointerG720Ldy #0:Lda (CB),Y:Sta Fr
+OL,23,om:Iny:Lda (CB),Y: Sta From+1G|c
+PN,46403
+SC,0003
+OL,27,@DFD@@@OO@@@HOO@@@HOO@@@HOO@@@H@F@@@@@@@
+OL,1,|B2203205|a16PATCH2|i24BBBC316k|s~_1~e|s
+OL,2,~Z0730Lda #&00:Tay:Sta Count:Sta (CB),Y:
+OL,3,Iny:Tya:Sta Count+1:Sta (CB),YG740\ ^ Us
+OL,4,e stack as workspace. Not nice.G750Ldy #
+OL,5,0G760.cps Lda (From),Y:Sta (Count),Y:Cmp
+OL,6, #33:Bcc ends:Iny:Bne cps:.endsG770Lda #
+OL,7,13:Sta (Count),YG780Lda #7: Ldx CB_low: 
+OL,8,Ldy CB_highG790Jsr realosfile-CodeStart+
+OL,9,Patch \ Open disorderedG800Lda #0:Sta Co
+OL,10,unt:Sta Count+1G810.loadupG820   Ldy #14
+OL,11,G830   Jsr BgetG840   Bcc gotbyteG850   
+OL,12,Cmp #&FEG860   Beq endoffileG870   Cmp #
+OL,13,&02G880   Bne skipthisG890\ End of block
+OL,14,. Get new load addrG900   Lda #5: Ldx CB
+OL,15,_low:Ldy CB_high \ Info to get block add
+OL,16,rG910   Jsr realosfile-CodeStart+Patch: 
+OL,17,Ldy #2:Lda (CB),Y:Sta TEMP:Iny:Lda (CB),
+OL,18,Y:Sta TEMP+1G920  .skipthisG930   Clc:Bc
+OL,19,c loadupG940  .gotbyteG950   Ldy #0:Sta 
+OL,20,(TEMP),YG960   Inc TEMP:Bne zz3:Inc TEMP
+OL,21,+1:.zz3G970   Inc Count:Bne zz4:Inc Coun
+OL,22,t+1:.zz4G980Clc:Bcc loadupG990.endoffile
+OL,23,G|c
+PN,46404
+SC,0004
+OL,27,@DFE@@@OO@@@HOO@@@HOO@@@HOO@@@H@F@@@@@@@
+OL,1,|B2204205|a16PATCH2|i24BBBC316k|s~_1~e|s
+OL,2,~Z01000Ldy #&0A:Lda (CB),Y:Pha  \**** Pu
+OL,3,sh No-exec flagG1010Lda Count:Sta (CB),Y
+OL,4,  \ Y = &AG1020Lda Count+1:Iny:Sta (CB),
+OL,5,Y  \ Y = &BG1030Lda #0:Iny:Sta (CB),Y:In
+OL,6,y:Sta (CB),Y  \ Y = &C &D  - fill in len
+OL,7,gthG1040Pla:Iny:Sta (CB),Y   \ **** Put 
+OL,8,No-exec flag in attributes byteG1050RtsG
+OL,9,1060.CodeEnd   \******** END OF RELOCATA
+OL,10,BLE CODEG1070.Reloc    \ This is execute
+OL,11,-once code, so does not need relocatingG
+OL,12,1080Lda #&8C:Ldx #12: Jsr OsByte \ Selec
+OL,13,t tape, then Telesoft - to forceG1090Lda
+OL,14, #&8F: Ldx #&12: Ldy #6: Jsr OsByte  \ v
+OL,15,ector re-initialisationG1100\G1110Ldy #0
+OL,16,G1120.reloc8 Lda CodeStart,Y: Sta Patch,
+OL,17,YG1130Iny: Bne reloc8G1140  Lda FileV:St
+OL,18,a OldvecG1150  Lda FileV+1:Sta Oldvec+1G
+OL,19,1160  Lda #(OurOsfile-CodeStart+Patch) M
+OL,20,OD 256:Sta FileVG1170  Lda #(OurOsfile-C
+OL,21,odeStart+Patch) DIV 256:Sta FileV+1G1180
+OL,22,  Lda FSCV:Sta HisFSCG1190  Lda FSCV+1:S
+OL,23,ta HisFSC+1G|c
+PN,46405
+SC,0005
+OL,27,@DFA@@@OO@@@HOO@@@HOO@@@HOO@@@H@F@@@@@@@
+OL,1,|B2205205|a16PATCH2|i24BBBC316k|s~_1~e|s
+OL,2,~Z01200  Lda #(MyFSC-CodeStart+Patch) MO
+OL,3,D 256:Sta FSCVG1210  Lda #(MyFSC-CodeSta
+OL,4,rt+Patch) DIV 256:Sta FSCV+1G1220  Lda #
+OL,5,&10: Sta &1362 \ ADD TXO COMMAND TO TFS 
+OL,6,TABLESG1230  Lda #&EF: Sta &13E2G1240  L
+OL,7,da #&AB: Sta &14E2G1250  Lda #22:JSR OsW
+OL,8,rch:Lda #7:Jmp OsWrch \ Last inst. must 
+OL,9,be jumpG1260.EndRelocG1270]G1280N.G1290E
+OL,10,.G1300DEFFNequs(S$)G1310$P%=S$:P%=P%+LEN
+OL,11,(S$)+1G1320=PassG|c

@@ -1,0 +1,45 @@
+DE,Telesoftware info
+PS,C000
+PN,46201
+SC,0001
+FL,8ff,8ff,8ff,8ff,8ff,460
+OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp pp0
+OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5j 5  
+OL,3,R  #!  #!3#j  5#!   5jj7#5#5#!
+OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ %/,$
+OL,5,B```````````````````````````````````````
+OL,6,BProgram information           BPATCH2  
+OL,7,                              B(Acorn)  
+OL,8,B```````````````````````````````````````
+OL,9,BThe PATCH2 program is provided for BBC 
+OL,10,BMicro users running the TFS ROM.       
+OL,12,BRefer to the Acorn Teletext System user
+OL,13,Bguide for downloading instructions.    
+OL,15,BOnce downloaded type *DISC or *TAPE and
+OL,16,BRUN. The screen will be corrupted for a
+OL,17,Bmoment, and TSOFT will be created on   
+OL,18,Bdisc or tape.                          
+OL,20,BTo use TSOFT, type *RUN TSOFT, then use
+OL,21,B*LOAD or CHAIN to download telesoftware
+OL,22,Bfrom the selected page number.         
+OL,23,B```````````````````````````````````1/2`
+PN,46202
+SC,0002
+FL,8ff,8ff,8ff,8ff,8ff,460
+OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp pp0
+OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5j 5  
+OL,3,R  #!  #!3#j  5#!   5jj7#5#5#!
+OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ %/,$
+OL,5,B```````````````````````````````````````
+OL,6,BProgram information:         BTest     
+OL,7,                           B(ZXGuesser) 
+OL,8,B```````````````````````````````````````
+OL,9,BProbably the most boring telesoftware  
+OL,10,Bprogram ever created for the BBC micro.
+OL,12,BThe classic BASIC Hello World program. 
+OL,14,BIt would be quicker to type it in by   
+OL,15,Byourself than to download it!          
+OL,20,B```````````````````````````````````````
+OL,21,BTFS users must use PATCH2 to download  
+OL,22,Bthis exciting peice of software...     
+OL,23,B```````````````````````````````````2/2`
