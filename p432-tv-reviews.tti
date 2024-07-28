@@ -2,13 +2,13 @@ DE,TV Reviews - Modern
 DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\p432-tv-reviews.tti
 PN,43201
-SC,0000
+SC,0001
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 MODERN  
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/1 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/2 
 OL,4, Sony KDL-32WD751 32" LED TV (2016)     
 OL,5,CStandard:GLevel 2.5                    
 OL,6,CPage memory:G2000 pages?               
@@ -27,5 +27,33 @@ OL,20, when waiting for a page in another
 OL,21, magazine. Pages with L2.5 side panels  
 OL,22, are squashed to 4:3 aspect ratio.      
 OL,23,D]CReviewed Mar 2020 by Nick Schollar   
+OL,24,A LCD/Plasma  B  CRTs   CSTBs   FInfo   
+FL,433,434,435,431,8ff,100
+PN,43202
+SC,0002
+PS,8000
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 MODERN  
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/2 
+OL,4, Alba VL19HDLED 19" LED TV (2016)       
+OL,5,CStandard:GLevel 2.5                    
+OL,6,CPage memory:GUnspecified (lots)        
+OL,7,CText aspect ratio:GNormal              
+OL,9,CWhat's good:GMix, reveal, size and hold
+OL,10, functions present. Level 2.5 decoder   
+OL,11, with most features implemented. Very   
+OL,12, snappy and responsive. No screen       
+OL,13, tearing on page update. Subpage numbers
+OL,14, displayed across the bottom and        
+OL,15, accessible with left and right buttons.
+OL,17,CWhat's not:GClock in top right corner  
+OL,18, shows mosaics briefly after loading a  
+OL,19, page full of mosaic graphics. Nothing  
+OL,20, else to complain about really; the     
+OL,21, teletext is the highlight of an other- 
+OL,22, wise absolutely horrid Chinese set.    
+OL,23,D]CReviewed Jul 2024 by Nick Schollar   
 OL,24,A LCD/Plasma  B  CRTs   CSTBs   FInfo   
 FL,433,434,435,431,8ff,100
