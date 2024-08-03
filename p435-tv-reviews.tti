@@ -3,12 +3,12 @@ DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\p435-tv-reviews.tti
 PN,43501
 SC,0001
-PS,c000
+PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/4 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/5 
 OL,4,CSet Top Boxes                          
 OL,5, Teletext can be transmitted over DVB-T 
 OL,6, and DVB-S. In the UK, no Teletext is   
@@ -20,6 +20,9 @@ OL,11, text services on DVB-S. Many receivers
 OL,12, output this data in the VBI so that the
 OL,13, service can be viewed using the TV's   
 OL,14, decoder.                               
+OL,16, RTE Aertel has now been turned off so  
+OL,17, there are no longer any services except
+OL,18, for subtitles at 28E.                  
 OL,22,CReviews follow...                      
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs  
 FL,431,432,433,434,8ff,100
@@ -30,7 +33,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/4 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/5 
 OL,4,CTevion/Ross DVB-S 5010                 
 OL,5, This has got to be the worst satellite 
 OL,6, receiver ever made. It is an SD DVB-S  
@@ -57,7 +60,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/4 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/5 
 OL,4,CBush BFSAT01HD (Freesat)               
 OL,5, This early Freesat HD box does not have
 OL,6, VBI output or a built-in decoder. It   
@@ -79,12 +82,41 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs
 FL,431,432,433,434,8ff,100
 PN,43504
 SC,0004
+PS,8300
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C4/5 
+OL,4,CFuba/Topfield ODE713HD (Tiv`sat)       
+OL,5, This HD box has VBI output, but it only
+OL,6, works on the Tiv`sat channels. There is
+OL,7, also a built in decoder, which works on
+OL,8, all channels. How utterly bizarre. The 
+OL,9, oddities don't stop there; one thing   
+OL,10, that cannot be allowed to pass without 
+OL,11, comment is that you can't delete any   
+OL,12, channels; the delete option merely     
+OL,13, hides the channels from the list. This 
+OL,14, leaves gaps in the channel numbers,    
+OL,15, which can only be overcome by setting  
+OL,16, LCN to off, renumbering the channels   
+OL,17, one-by-one, and turning LCN back on.   
+OL,18, Make sure auto-scan is turned off to   
+OL,19, avoid your channel list getting filled 
+OL,20, with encrypted Polish channels. Other  
+OL,21, than that, normal FTA features such as 
+OL,22, DiSEqC and rotator support are present.
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs  
+FL,431,432,433,434,8ff,100
+PN,43505
+SC,0005
 PS,8000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1CSTBs    
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C4/4 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C5/5 
 OL,4,CTeleves RSD-711801                     
 OL,5, This SD box has VBI output along with  
 OL,6, a built-in decoder. Two SCARTs and RGB 
@@ -104,5 +136,4 @@ OL,20, absolutely tiny with an innovative
 OL,21, detachable unit containing the IR RX   
 OL,22, and channel number display. Only flaw  
 OL,23, is the SD output is composite only.    
-OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FCRTs  
 FL,431,432,433,434,8ff,100

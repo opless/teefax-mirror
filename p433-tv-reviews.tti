@@ -3,8 +3,7 @@ DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\p433-tv-reviews.tti
 PN,43301
 SC,0001
-PS,8000
-CT,8,T
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -33,8 +32,7 @@ OL,24,  ACRTs B STBs C LED/OLED/QLED F Info
 FL,434,435,432,431,8ff,100
 PN,43302
 SC,0002
-PS,8000
-CT,8,T
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -61,8 +59,7 @@ OL,24,  ACRTs B STBs C LED/OLED/QLED F Info
 FL,434,435,432,431,8ff,100
 PN,43303
 SC,0003
-PS,8000
-CT,8,T
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -92,8 +89,7 @@ OL,24,  ACRTs B STBs C LED/OLED/QLED F Info
 FL,434,435,432,431,8ff,100
 PN,43304
 SC,0004
-PS,8000
-CT,8,T
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -119,8 +115,7 @@ OL,24,  ACRTs B STBs C LED/OLED/QLED F Info
 FL,434,435,432,431,8ff,100
 PN,43305
 SC,0005
-PS,8000
-CT,8,T
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||

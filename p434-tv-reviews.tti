@@ -32,7 +32,7 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43402
 SC,0002
-PS,8000
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -61,7 +61,7 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43403
 SC,0003
-PS,8000
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -85,7 +85,7 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43404
 SC,0004
-PS,8000
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -114,7 +114,7 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43405
 SC,0005
-PS,8000
+PS,c000
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
