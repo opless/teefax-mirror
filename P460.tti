@@ -3,25 +3,13 @@ PS,8000
 PN,46000
 SC,0000
 RE,0
-FL,461,462,800,600,8ff,100
+FL,100,152,800,600,8ff,100
 OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
 OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
 OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
 OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ **-,
 OL,5,B```````````````````````````````````````
-OL,6,BTEEFAX Telesoftware Index              
-OL,7,B```````````````````````````````````````
-OL,8,BThis section contains software programs
-OL,9,Bfor vintage microcomputers fitted with 
-OL,10,Ban appropriate teletext adapter.       
-OL,12,BCurrently all software available on    
-OL,13,BTEEFAX is for the BBC Micro.           
-OL,15,BZX Spectrum telesoftware is available  
-OL,16,Bon the ChunkyText service.             
-OL,18,B```````````````````````````````````````
-OL,19,BIf you're interested in developing and 
-OL,20,Btesting telesoftware programs for the  
-OL,21,BBBC Micro, or ZX Spectrum, please get  
-OL,22,Bin touch ` @ZXGuesser.                 
-OL,23,B```````````````````````````````````````
-OL,24,APrograms BProgram infoCEvents FFeatures
+OL,6,BThe telesoftware service has moved to  
+OL,7,BChunkyText                             
+OL,8,B```````````````````````````````````````
+OL,24,AMain IndexB Bamboozle CEvents FFeatures
