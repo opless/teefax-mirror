@@ -1,7 +1,5 @@
 DE,Art: pixelblip - Candle
-DS,inserter
-SP,C:\Teefax\P584Candlepixelblip.tti
-PN,58401
+PN,55701
 SC,0001
 PS,8000
 CT,1,T
@@ -32,7 +30,7 @@ OL,22,Qn^nnd=u5u5u4e4e$e$%,((8*x*x*xjzjzn<===R
 OL,23,Qfnfnfe?u7u7u6e6d6d4,(|)x+xkxkzkzo:9=9=9
 OL,24,Q{;{;{9{}?}=^===9=1"jfnfnnnn~n~wfwgwgw]
 FL,540,538,537,530,100,100
-PN,58402
+PN,55702
 SC,0002
 PS,8000
 RE,0
@@ -62,7 +60,7 @@ OL,22,Qn^nnd=u5u5u4e4e$e$%,((8*x*x*xjzjzn<===R
 OL,23,Qfnfnfe?u7u7u6e6d6d4,(|)x+xkxkzkzo:9=9=9
 OL,24,Q{;{;{9{}?}=^===9=1"jfnfnnnn~n~wfwgwgw]
 FL,540,538,537,530,100,100
-PN,58403
+PN,55703
 SC,0003
 PS,8000
 RE,0
@@ -92,7 +90,7 @@ OL,22,Qn^nnd=u5u5u4e4e$e$%,((8*x*x*xjzjzn<===R
 OL,23,Qfnfnfe?u7u7u6e6d6d4,(|)x+xkxkzkzo:9=9=9
 OL,24,Q{;{;{9{}?}=^===9=1"jfnfnnnn~n~wfwgwgw]
 FL,540,538,537,530,100,100
-PN,58404
+PN,55704
 SC,0004
 PS,8000
 RE,0
@@ -122,7 +120,7 @@ OL,22,Qn^nnd=u5u5u4e4e$e$%,((8*x*x*xjzjzn<===R
 OL,23,Qfnfnfe?u7u7u6e6d6d4,(|)x+xkxkzkzo:9=9=9
 OL,24,Q{;{;{9{}?}=^===9=1"jfnfnnnn~n~wfwgwgw]
 FL,540,538,537,530,100,100
-PN,58405
+PN,55705
 SC,0005
 PS,8000
 RE,0
@@ -152,7 +150,7 @@ OL,22,Qn^nnd=u5u5u4e4e$e$%,((8*x*x*xjzjzn<===R
 OL,23,Qfnfnfe?u7u7u6e6d6d4,(|)x+xkxkzkzo:9=9=9
 OL,24,Q{;{;{9{}?}=^===9=1"jfnfnnnn~n~wfwgwgw]
 FL,540,538,537,530,100,100
-PN,58406
+PN,55706
 SC,0006
 PS,8000
 RE,0
@@ -182,7 +180,7 @@ OL,22,Qn^nnd=u5u5u4e4e$e$%,((8*x*x*xjzjzn<===R
 OL,23,Qfnfnfe?u7u7u6e6d6d4,(|)x+xkxkzkzo:9=9=9
 OL,24,Q{;{;{9{}?}=^===9=1"jfnfnnnn~n~wfwgwgw]
 FL,540,538,537,530,100,100
-PN,58407
+PN,55707
 SC,0007
 PS,8000
 RE,0
@@ -212,7 +210,3 @@ OL,22,Qn^nnd=u5u5u4e4e$e$%,((8*x*x*xjzjzn<===R
 OL,23,Qfnfnfe?u7u7u6e6d6d4,(|)x+xkxkzkzo:9=9=9
 OL,24,Q{;{;{9{}?}=^===9=1"jfnfnnnn~n~wfwgwgw]
 FL,540,538,537,530,100,100
-PN,58408
-SC,0008
-PS,8000
-RE,0
