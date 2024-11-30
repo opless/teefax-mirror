@@ -1,11 +1,7 @@
 DE,BBC Engineering Information
-DS,inserter
-SP,C:\Users\Admin\Documents\teefax\P197-Engineering.tti
-PN,33300
+PN,68600
 SC,0000
 PS,8000
-RE,0
-OL,0,XXXXXXXXCEEFAX 195  DAY dd MTH Chh:nn/ss
 OL,1,T]!  Vh,$    $       (            G11/11
 OL,2,T]VBBCj, 75w5575w5w57jjkj{VINFORMATION  
 OL,3,T]   V*,$%%,%%%%-$-$%***(.C01-927 5040  
@@ -28,4 +24,4 @@ OL,19,T]      S5Z,,,,,,  YV/ / / ^QSj
 OL,20,T]      S-|,,,,,,,,,,,,,,,,,,,|.        
 OL,21,T] !  "   CMGet the picture ?           
 OL,23,T]                             Q]GMore  
-FL,100,200,700,780,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100

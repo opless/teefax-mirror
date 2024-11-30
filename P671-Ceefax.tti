@@ -1,12 +1,7 @@
 DE,Ceefax replicas
-DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext-full\P671-Ceefax.tti
 PN,67101
 SC,0001
-PS,8000
-CT,20,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
+PS,C000
 OL,1,                   X                2016
 OL,2,   S                  
 OL,3,   S                           
@@ -31,10 +26,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67102
 SC,0002
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,                              XX        
 OL,2,        XXX                XXX          
 OL,3,   DRY     XXXXXX       XXX X           
@@ -61,10 +52,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67103
 SC,0003
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,S  ppppp ppppp ppppp ppppp ppppp p    p 
 OL,2,S  //// //// //// //// ///      
 OL,3,S       5 5 5     
@@ -92,10 +79,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67104
 SC,0004
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,DX     1974                      replica
 OL,2,SBBC   h|,,l         |l                 
 OL,3,S      j   h<,|h<,|`0h,l4(| |$        
@@ -123,10 +106,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67105
 SC,0005
-PS,8000
-CT,8,T
-RE,0
-OL,0,        CEEFAX 671            C hh:nn.ss
 OL,2,BBC    U##       j#                  
 OL,3,       U  js5w{j|4bss5/e:%          
 OL,4,       Uppjp0upj  jp55j5          
@@ -151,10 +130,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67106
 SC,0006
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,Q]    S`ppppp    `ppppp    `ppppp       
 OL,2,Q]SBBCSj#s#h||||j#ssh||||j#s#h||||  
 OL,3,Q]CTWOSj j ,lj ,.j ,lj s j0/`  
@@ -182,10 +157,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67107
 SC,0007
-PS,8000
-CT,8,T
-RE,0
-OL,0,        CEEFAX 725  Wed  1 MayC 11:15/35
 OL,1,U]W                                     
 OL,2,E]W                                     
 OL,3,E]W ||||||<,,4  (l,,4  (l,,4            
@@ -213,10 +184,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67108
 SC,0008
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,T]S?                               
 OL,2,T]S0  W{% jwju?jw1%s1 #  
 OL,3,T]S7   Wz5pj5j5ju0 pz5    j5  
@@ -244,10 +211,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67109
 SC,0009
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,SBBC  |||||    ,l|||4    ,||||4         
 OL,2,S,,,   |pj///j(l~5?//o55($j5?o?o5    
 OL,3,S     pssj sjrs{55bs5uzuz5=b1n5    
@@ -271,10 +234,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67110
 SC,0010
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,T]                S                     
 OL,2,T]                S   $}pp{|0(4      
 OL,3,T]V  74   jjjj    S    #!||t!      
@@ -302,10 +261,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67111
 SC,0011
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,2,                    T]       S `(h(`    
 OL,3,V7ssssssssssssssss35T]       S d)z8a$   
 OL,4,V55               55T]       S,$n9{$,$  
@@ -332,10 +287,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67112
 SC,0012
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,T]                   S                  
 OL,2,T]                   S$}pp{|0(4      
 OL,3,T]V k4k5 j5j5j7S #!||t!      
@@ -363,10 +314,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67113
 SC,0013
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1, T]                                     
 OL,2, T]S||||||<,,4  (l,,4  (l,,4            
 OL,3, T]S5j57c{j {57c{j 157k#5  
@@ -394,10 +341,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67114
 SC,0014
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,T]Q                   h%*'        
 OL,2,T]Q                   /! o%`pp      
 OL,3,T]Q                     {5     
@@ -425,10 +368,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67115
 SC,0015
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$      
 OL,2,Wj $kj $kj 'kT]S    j7k5pj55jw1      
 OL,3,W"###"###"###T//////-.-.,,,-..,-,.//////
@@ -453,10 +392,6 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67116
 SC,0016
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W    `h CBBC RADIOA`````````````````````
 OL,2,W<,,,,|4S<,h h,44hh,h,$       GTUE/WED  
 OL,3,Qwgggg5Su{jpjp5uzjpbs50      G         
@@ -479,15 +414,33 @@ OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
 PN,67117
 SC,0017
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXCEEFAX 671             Chh:nn.ss
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,l|,l<,|||
 OL,2,Wj $zj $zj tzT]S7#jsjsjshs4ouz?   
 OL,3,Wj %jj %jj 'kT]Supjpjpj j 55j   
 OL,4,W"###"###"###T##########################
 OL,14,W                                     
 OL,23,DXreplica                beeblepete 2016
+OL,24,AIndex    BNext    CEngineering  FEvents
+FL,670,672,700,800,f,100
+DE,Bryan Green reproduction of mid 1980s index
+PN,67118
+SC,0018
+OL,1,D]S                                     
+OL,2,D]S ||||||<,,4  (l,,4  (l,,4            
+OL,3,D]S 5j57c{j {57c{j 157k#   
+OL,4,D]S //////-,,%5(o*,,%5h*,-%7h"   
+OL,5,D]S          ####   ####   ##########   
+OL,6,D]V {%{%#!(         R{%{%#!bs   
+OL,7,D]V /.%/.%/,$(/$        R/.%/.%/,$*-,   
+OL,8,D]V                     R               
+OL,9,D]FMNews.........101 BNews........201   
+OL,11,D]FMFinance......120 BFinance.....220   
+OL,13,D]FMSport........130 BSport.......230   
+OL,15,D]FMWeather and      BFeatures....250   
+OL,17,D]FMTravel.......151 BFun.........280   
+OL,19,D]FMTV, Radio....179 BTV, Radio...279   
+OL,21,D]                                      
+OL,22,D] S]DA TO Z INDEX ......199 and 299T]  
+OL,23,D] V]DTELESOFTWARE..........BBC1 700T]  
 OL,24,AIndex    BNext    CEngineering  FEvents
 FL,670,672,700,800,f,100
