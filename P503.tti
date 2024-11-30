@@ -1,11 +1,7 @@
 DE,Simon Rawles art
-DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P209.tti
-PN,20901
-SC,0001
 PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+PN,50301
+SC,0001
 OL,1,Q| h4 | h4 | h4 | h4 | h4 | h4 | h4 | h4
 OL,2,W`x||||||||||||||||||||||||||||||||||t0 
 OL,3,M]EDystopian SF at ...F]DFilm NightG ] \
@@ -28,13 +24,8 @@ OL,20,V%     o?'  "k?,  ,u  h?!   "o\
 OL,21,T      j!     ?     "'!  +!     "\
 OL,22,T"+      "      %      !     *       '! 
 OL,23,Q/ *% / *% / *% / *% / *% / *% / *% / *%
-OL,24, APrevious  BNext  CMore art   FArchive 
-FL,205,220,500,200,0,100
-PN,20902
+PN,50302
 SC,0002
-PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Z]DYouV$DhaveV$DbeenV$DwatchingV$$$ $  \
 OL,2,Z]Q,^SQS,,RSR,,VRV,,,TVT,,UTU,,QUQ,,,  \
 OL,3, ]Q>4>5?>5>mT?4>5>%o/zjQ>%>%>%>%~4o%>5 \
@@ -58,13 +49,8 @@ OL,20,V]T`~q"xwpxwp~qpp(||}$`~q` W/*%/T W*%/T\
 OL,21,T/sso'w}+?ss/{s/ss;g{]Wh4 _ |V#//\
 OL,22,T*n~e*w?%:}=%{}?s%ww5g;]Wh4 _ |h4| \
 OL,23,T"+,,/-////./,,///./,/,,.-.//////////'! 
-OL,24, APrevious  BNext  CMore art   FArchive 
-FL,205,220,500,200,0,100
-PN,20903
+PN,50303
 SC,0003
-PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Tx|]  R3}h74(h743}h74o:bk40xo ~k`T^\|t
 OL,2,T+/]  V$*w1or*w1$*w16}(j5$/n$:(T^\/'
 OL,3,W`ppppppspppppppppsGW`qsprqpprppppppppp 
@@ -88,13 +74,8 @@ OL,20,ZG]DThe teletext of \BContribute!T$^B102
 OL,21,ZG]Dthings, also in \FMiscellanyT$$^F104
 OL,22,ZG]Dpodcast format. \BArchiveT$$$$$^B200
 OL,23, W"################!AXA ghost in the VBI
-OL,24, APrevious  BNext  CMore art   FArchive 
-FL,205,220,500,200,0,100
-PN,20904
+PN,50304
 SC,0004
-PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T989898989898989898989898989898989898989
 OL,2,T{n{~{n{~{n{~{n{~{n{~{n{~{n{~{n{~{n{~{n{
 OL,3,D] W 8,^VW,,VW,V,,,,,,,,,,,,,,,Z,,,d    
@@ -117,13 +98,8 @@ OL,20,T]V|FPressGESC SHIFT-ZFto clear this
 OL,21,T]  Fframe and begin creating your own! 
 OL,22,Tw=w?w=w?w=w?w=w?w=w?w=w?w=w?w=w?w=w?w=w
 OL,23,Tf&f&f&f&f&f&f&f&f&f&f&f&f&f&f&f&f&f&f&f
-OL,24, APrevious  BNext  CMore art   FArchive 
-FL,205,220,500,200,0,100
-PN,20905
+PN,50305
 SC,0005
-PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Tg&&&"" ))))))))U`pTb&&&&""""&&&&&""""f
 OL,2,T9U||t `||||t 4  h||j5  pppp|||4 
 OL,3,TfU5~5  j k%j! 
@@ -147,13 +123,8 @@ OL,20,U `5     oj5"j ||~Tf
 OL,21,U j% */%   j/j kj5 +?!T9
 OL,22,U *'!T8888y9U"! "## */#!"#!  "####T`ff
 OL,23,Tdddff~vvvvvvvtppxyyyyyyyyyyyyyy
-OL,24, APrevious  BNext  CMore art   FArchive 
-FL,205,220,500,200,0,100
-PN,20906
+PN,50306
 SC,0006
-PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T99^?/]U`_\Rxw{w~}0T+Rh#dT]U0^T\ff
 OL,2,Tfn?R`,0U+Rz???gffd  z4jU^]T9\=9
 OL,3,T95R6 y  hgfvv~}}4`?&U^]Tf\f
@@ -177,5 +148,3 @@ OL,20,]S99Qz=9?=;t R#//////##  Qwnvg~fnmS)99
 OL,21,]SffQfgnvgntW]S000000880Q`?y;};?9};4Sff
 OL,22,]S99Q=;9?=y=;tW]Sffffff&Qhgvngvn~fgg5S99
 OL,23,]SffQwgn~fgnfotW]S)9)!Qh?y?9=;=;95Sff
-OL,24, APrevious  BNext  CMore art   FArchive 
-FL,205,220,500,200,0,100

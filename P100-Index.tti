@@ -1,197 +1,197 @@
 DE,Main Menu
-CT,10,T
+CT,8,T
 PS,8010
 PN,10001
 SC,0001
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,1,Q pppRpppTpppR||,,,l,,l,,l,,l<,,l<,|,l||
+OL,2,Q 5|jR5|jT5|jR]Q#7!w1w1w1~w{}*p%  
+OL,3,Q 5/jR5/jT5/jR]Q 5 u0u05 5jj 5  
 OL,4,Q ###R###T###R##########################
 OL,5,CNews                                   
 OL,6,AM TEEFAX: QUALITY TELETEXT SINCE 2015  
 OL,8,F```````````````````````````````````````
-OL,9,BWHAT'SQx|||||||||||||||||||||tF....G150
-OL,10,BTV LIQz]W                Q^\_uFS..G200
-OL,11,BBBC NQ]W h#46) h#$7#j#!ujQ^\_F...G400
-OL,12,BUK WEQ]W j#52i `#47#j#!5kQ^\_F...G570
-OL,13,BLA ONQ]W " !"!  # ##"#!!"Q^\_F...G600
+OL,9,BWHAT'SQx|||||||||||||||||||||tF....G400
+OL,10,BWORLDQz]W                Q^\_uF...G420
+OL,11,BBAMBOQ]W h#46) h#$7#j#!ujQ^\_F...G430
+OL,12,BDISCOQ]W j#52i `#47#j#!5kQ^\_F...G440
+OL,13,BLA ONQ]W " !"!  # ##"#!!"Q^\_F...G470
 OL,14,C     Q]W        ON        Q^\        
-OL,15,AARTS Q]W   pppp`0  p`0   Q^\_C...G670
-OL,16,ACarloQ]W   #k7#*u `?j5   Q^\_CNFOG700
-OL,17,ADan'sQ]W    j5  o0z%j5   Q^\_C...G785
-OL,18,ASteveQ]W    j5  *u? b1   Q^\_CEX G790
-OL,19,ACY2..Qk]W    "!   #! "!  Q^\_7CTS G800
-OL,20,AChris Q+/////////////////////'C2022G810
-OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,15,AARTS Q]W   pppp`0  p`0   Q^\_C...G640
+OL,16,ACARLOQ]W   #k7#*u `?j5   Q^\_C...G670
+OL,17,AILLARQ]W    j5  o0z%j5   Q^\_CNFOG700
+OL,18,AHORSEQ]W    j5  *u? b1   Q^\_C...G785
+OL,19,ACY2..Qk]W    "!   #! "!  Q^\_7CEX.G790
+OL,20,ACHRIS Q+/////////////////////'CNTS.G800
+OL,21,ARAQUEL MEYERS.G550CBlock Party 2022G810
 OL,23,V]DLots of fun at your finger tips ;-)  
-OL,24,A About BBamboozle CEvents FArt Archive 
-FL,199,150,800,200,8ff,100
+OL,24,A About BBamboozle CEvents FArt & Ents  
+FL,199,150,800,500,8ff,100
 PN,10002
 SC,0002
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,1,Q pppRpppTpppR||,,,l,,l,,l,,l<,,l<,|,l||
+OL,2,Q 5|jR5|jT5|jR]Q#7!w1w1w1~w{}*p%  
+OL,3,Q 5/jR5/jT5/jR]Q 5 u0u05 5jj 5  
 OL,4,Q ###R###T###R##########################
 OL,5,CFun and games                          
 OL,6,AMPLAY THE 'WIGANBOOZLE' QUIZ       P806
 OL,8,F```````````````````````````````````````
-OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
-OL,11,BBBC NEWS......G104FREVIEWS.........G400
-OL,12,BUK WEATHER....G401FMr Biffo........G570
-OL,13,BLA ON THE QT..G160FUKEFAX..........G600
+OL,9,BWHAT'S NEW....G101FREVIEWS.........G400
+OL,10,BWORLD CLOCK...G142FBOINGBOING......G420
+OL,11,BBAMBOOZLE.....G150FTV REVIEWS......G430
+OL,12,BDISCORD CHAT..G154FNOW REVIEWS.....G440
+OL,13,BLA ON THE QT..G160FDIGITISER.......G470
 OL,14,G                                       
-OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
-OL,16,ACarlos' Art...G501CENGINEERING INFOG700
-OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
-OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
-OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2022G810
-OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,15,AARTS & ENT....G500CSIX FORTY.......G640
+OL,16,ACARLOS........G501CREPLICA PAGES...G670
+OL,17,AILLARTERATE...G510CENGINEERING INFOG700
+OL,18,AHORSENBURGER..G520CRASPBERRY PI....G785
+OL,19,ACY2...........G530CTESTCARDS INDEX.G790
+OL,20,ACHRIS TSANGARIG540CTELETEXT EVENTS.G800
+OL,21,ARAQUEL MEYERS.G550CBlock Party 2022G810
 OL,23,V]DTELETEXT BLOCK PARTY 2022    P810/811
-OL,24,A About BBamboozle CEvents FArt Archive 
-FL,199,150,800,200,8ff,100
+OL,24,A About BBamboozle CEvents FArt & Ents  
+FL,199,150,800,500,8ff,100
 PN,10003
 SC,0003
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,1,Q pppRpppTpppR||,,,l,,l,,l,,l<,,l<,|,l||
+OL,2,Q 5|jR5|jT5|jR]Q#7!w1w1w1~w{}*p%  
+OL,3,Q 5/jR5/jT5/jR]Q 5 u0u05 5jj 5  
 OL,4,Q ###R###T###R##########################
 OL,5,CNews                                   
 OL,6,AMIS YOUR VBIT2 INSTALL UP TO DATE? P797
 OL,8,F```````````````````````````````````````
-OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
-OL,11,BBBC NEWS......G104FREVIEWS.........G400
-OL,12,BUK WEATHER....G401FMr Biffo........G570
-OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
-OL,16,ACarlos' Art...G501CENGINEERING INFOG700
-OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
-OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
-OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2022G810
-OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,9,BWHAT'S NEW....G101FREVIEWS.........G400
+OL,10,BWORLD CLOCK...G142FBOINGBOING......G420
+OL,11,BBAMBOOZLE.....G150FTV REVIEWS......G430
+OL,12,BDISCORD CHAT..G154FNOW REVIEWS.....G440
+OL,13,BLA ON THE QT..G160FDIGITISER.......G470
+OL,15,AARTS & ENT....G500CSIX FORTY.......G640
+OL,16,ACARLOS........G501CREPLICA PAGES...G670
+OL,17,AILLARTERATE...G510CENGINEERING INFOG700
+OL,18,AHORSENBURGER..G520CRASPBERRY PI....G785
+OL,19,ACY2...........G530CTESTCARDS INDEX.G790
+OL,20,ACHRIS TSANGARIG540CTELETEXT EVENTS.G800
+OL,21,ARAQUEL MEYERS.G550CBlock Party 2022G810
 OL,23,V]D_NationalTeletextDay - September 23  
-OL,24,A About BBamboozle CEvents FArt Archive 
-FL,199,150,800,200,8ff,100
+OL,24,A About BBamboozle CEvents FArt & Ents  
+FL,199,150,800,500,8ff,100
 PN,10004
 SC,0004
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,1,Q pppRpppTpppR||,,,l,,l,,l,,l<,,l<,|,l||
+OL,2,Q 5|jR5|jT5|jR]Q#7!w1w1w1~w{}*p%  
+OL,3,Q 5/jR5/jT5/jR]Q 5 u0u05 5jj 5  
 OL,4,Q ###R###T###R##########################
 OL,5,CFun and games                          
 OL,6,AMBEAT BAMBER WITH TECHY KNOWLEDGE  P152
 OL,8,F```````````````````````````````````````
-OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
-OL,11,BBBC NEWS......G104FREVIEWS.........G400
-OL,12,BUK WEATHER....G401FMr Biffo........G570
-OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
-OL,16,ACarlos' Art...G501CENGINEERING INFOG700
-OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
-OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
-OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2022G810
-OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,9,BWHAT'S NEW....G101FREVIEWS.........G400
+OL,10,BWORLD CLOCK...G142FBOINGBOING......G420
+OL,11,BBAMBOOZLE.....G150FTV REVIEWS......G430
+OL,12,BDISCORD CHAT..G154FNOW REVIEWS.....G440
+OL,13,BLA ON THE QT..G160FDIGITISER.......G470
+OL,15,AARTS & ENT....G500CSIX FORTY.......G640
+OL,16,ACARLOS........G501CREPLICA PAGES...G670
+OL,17,AILLARTERATE...G510CENGINEERING INFOG700
+OL,18,AHORSENBURGER..G520CRASPBERRY PI....G785
+OL,19,ACY2...........G530CTESTCARDS INDEX.G790
+OL,20,ACHRIS TSANGARIG540CTELETEXT EVENTS.G800
+OL,21,ARAQUEL MEYERS.G550CBlock Party 2022G810
 OL,23,V]DTHE WORLD IN 1024 BYTES or less ;-)  
-OL,24,A About BBamboozle CEvents FArt Archive 
-FL,199,150,800,200,8ff,100
+OL,24,A About BBamboozle CEvents FArt & Ents  
+FL,199,150,800,500,8ff,100
 PN,10005
 SC,0005
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,1,Q pppRpppTpppR||,,,l,,l,,l,,l<,,l<,|,l||
+OL,2,Q 5|jR5|jT5|jR]Q#7!w1w1w1~w{}*p%  
+OL,3,Q 5/jR5/jT5/jR]Q 5 u0u05 5jj 5  
 OL,4,Q ###R###T###R##########################
 OL,5,CFun and games                          
 OL,6,AMDARE YOU ENTER THE LABYRINTH?     P536
 OL,8,F```````````````````````````````````````
-OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
-OL,11,BBBC NEWS......G104FREVIEWS.........G400
-OL,12,BUK WEATHER....G401FMr Biffo........G570
-OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
-OL,16,ACarlos' Art...G501CENGINEERING INFOG700
-OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
-OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
-OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2022G810
-OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,9,BWHAT'S NEW....G101FREVIEWS.........G400
+OL,10,BWORLD CLOCK...G142FBOINGBOING......G420
+OL,11,BBAMBOOZLE.....G150FTV REVIEWS......G430
+OL,12,BDISCORD CHAT..G154FNOW REVIEWS.....G440
+OL,13,BLA ON THE QT..G160FDIGITISER.......G470
+OL,15,AARTS & ENT....G500CSIX FORTY.......G640
+OL,16,ACARLOS........G501CREPLICA PAGES...G670
+OL,17,AILLARTERATE...G510CENGINEERING INFOG700
+OL,18,AHORSENBURGER..G520CRASPBERRY PI....G785
+OL,19,ACY2...........G530CTESTCARDS INDEX.G790
+OL,20,ACHRIS TSANGARIG540CTELETEXT EVENTS.G800
+OL,21,ARAQUEL MEYERS.G550CBlock Party 2022G810
 OL,23,V]DYESTERDAY'S TECHNOLOGY, TOMORROW     
-OL,24,A About BBamboozle CEvents FArt Archive 
-FL,199,150,800,200,8ff,100
+OL,24,A About BBamboozle CEvents FArt & Ents  
+FL,199,150,800,500,8ff,100
 PN,10006
 SC,0006
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,1,Q pppRpppTpppR||,,,l,,l,,l,,l<,,l<,|,l||
+OL,2,Q 5|jR5|jT5|jR]Q#7!w1w1w1~w{}*p%  
+OL,3,Q 5/jR5/jT5/jR]Q 5 u0u05 5jj 5  
 OL,4,Q ###R###T###R##########################
 OL,5,CEvents                                 
 OL,6,AMCHUNKY FRINGE 2021 IN HARROW!     P811
 OL,8,F```````````````````````````````````````
-OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
-OL,11,BBBC NEWS......G104FREVIEWS.........G400
-OL,12,BUK WEATHER....G401FMr Biffo........G570
-OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
-OL,16,ACarlos' Art...G501CENGINEERING INFOG700
-OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
-OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
-OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2022G810
-OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,9,BWHAT'S NEW....G101FREVIEWS.........G400
+OL,10,BWORLD CLOCK...G142FBOINGBOING......G420
+OL,11,BBAMBOOZLE.....G150FTV REVIEWS......G430
+OL,12,BDISCORD CHAT..G154FNOW REVIEWS.....G440
+OL,13,BLA ON THE QT..G160FDIGITISER.......G470
+OL,15,AARTS & ENT....G500CSIX FORTY.......G640
+OL,16,ACARLOS........G501CREPLICA PAGES...G670
+OL,17,AILLARTERATE...G510CENGINEERING INFOG700
+OL,18,AHORSENBURGER..G520CRASPBERRY PI....G785
+OL,19,ACY2...........G530CTESTCARDS INDEX.G790
+OL,20,ACHRIS TSANGARIG540CTELETEXT EVENTS.G800
+OL,21,ARAQUEL MEYERS.G550CBlock Party 2022G810
 OL,23,V]DJoin us on discord.gg/JfytfS3xmg     
-OL,24,A About BBamboozle CEvents FArt Archive 
-FL,199,150,800,200,8ff,100
+OL,24,A About BBamboozle CEvents FArt & Ents  
+FL,199,150,800,500,8ff,100
 PN,10007
 SC,0007
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,1,Q pppRpppTpppR||,,,l,,l,,l,,l<,,l<,|,l||
+OL,2,Q 5|jR5|jT5|jR]Q#7!w1w1w1~w{}*p%  
+OL,3,Q 5/jR5/jT5/jR]Q 5 u0u05 5jj 5  
 OL,4,Q ###R###T###R##########################
 OL,5,CVisit & join:                          
 OL,6,AMwww.facebook.com/groups/TeletextGroup 
 OL,8,F```````````````````````````````````````
-OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
-OL,11,BBBC NEWS......G104FREVIEWS.........G400
-OL,12,BUK WEATHER....G401FMr Biffo........G570
-OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
-OL,16,ACarlos' Art...G501CENGINEERING INFOG700
-OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
-OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
-OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2022G810
-OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,9,BWHAT'S NEW....G101FREVIEWS.........G400
+OL,10,BWORLD CLOCK...G142FBOINGBOING......G420
+OL,11,BBAMBOOZLE.....G150FTV REVIEWS......G430
+OL,12,BDISCORD CHAT..G154FNOW REVIEWS.....G440
+OL,13,BLA ON THE QT..G160FDIGITISER.......G470
+OL,15,AARTS & ENT....G500CSIX FORTY.......G640
+OL,16,ACARLOS........G501CREPLICA PAGES...G670
+OL,17,AILLARTERATE...G510CENGINEERING INFOG700
+OL,18,AHORSENBURGER..G520CRASPBERRY PI....G785
+OL,19,ACY2...........G530CTESTCARDS INDEX.G790
+OL,20,ACHRIS TSANGARIG540CTELETEXT EVENTS.G800
+OL,21,ARAQUEL MEYERS.G550CBlock Party 2022G810
 OL,23,V]DTEEFAX: IT KEEPS US OCCUPIED    ;-)  
-OL,24,A About BBamboozle CEvents FArt Archive 
-FL,199,150,800,200,8ff,100
+OL,24,A About BBamboozle CEvents FArt & Ents  
+FL,199,150,800,500,8ff,100
 PN,10008
 SC,0008
-OL,1,Q pppRpppTpppR||,,,<,,<,,<,,|,,,|,l<,|||
-OL,2,Q 5|jR5|jT5|jR]Q//jsjsjshs4ouz?   
-OL,3,Q 5/jR5/jT5/jR]Q  jpjpj j 55j   
+OL,1,Q pppRpppTpppR||,,,l,,l,,l,,l<,,l<,|,l||
+OL,2,Q 5|jR5|jT5|jR]Q#7!w1w1w1~w{}*p%  
+OL,3,Q 5/jR5/jT5/jR]Q 5 u0u05 5jj 5  
 OL,4,Q ###R###T###R##########################
 OL,5,COnline chat:                           
 OL,6,AMJoin the Teletext Discord         P154
 OL,8,F```````````````````````````````````````
-OL,9,BWHAT'S NEW....G101FBAMBOOZLE.......G150
-OL,10,BTV LISTINGS...G620FVIEWERS' PAGES..G200
-OL,11,BBBC NEWS......G104FREVIEWS.........G400
-OL,12,BUK WEATHER....G401FMr Biffo........G570
-OL,13,BLA ON THE QT..G160FUKEFAX..........G600
-OL,15,AARTS & ENT....G500CTTXT REPLICAS...G670
-OL,16,ACarlos' Art...G501CENGINEERING INFOG700
-OL,17,ADan's Art.....G510CRASPBERRY Pi....G785
-OL,18,ASteve Horsley G520CTESTCARDS INDEX G790
-OL,19,ACY2...........G530CTELETEXT EVENTS G800
-OL,20,AChris TsangariG540CBlock Party 2022G810
-OL,21,ARaquel Meyers G555CDigitiser.......G470
+OL,9,BWHAT'S NEW....G101FREVIEWS.........G400
+OL,10,BWORLD CLOCK...G142FBOINGBOING......G420
+OL,11,BBAMBOOZLE.....G150FTV REVIEWS......G430
+OL,12,BDISCORD CHAT..G154FNOW REVIEWS.....G440
+OL,13,BLA ON THE QT..G160FDIGITISER.......G470
+OL,15,AARTS & ENT....G500CSIX FORTY.......G640
+OL,16,ACARLOS........G501CREPLICA PAGES...G670
+OL,17,AILLARTERATE...G510CENGINEERING INFOG700
+OL,18,AHORSENBURGER..G520CRASPBERRY PI....G785
+OL,19,ACY2...........G530CTESTCARDS INDEX.G790
+OL,20,ACHRIS TSANGARIG540CTELETEXT EVENTS.G800
+OL,21,ARAQUEL MEYERS.G550CBlock Party 2022G810
 OL,23,V]D_NationalTeletextDay - September 23  
-OL,24,A About BBamboozle CEvents FArt Archive 
-FL,199,150,800,200,8ff,100
+OL,24,A About BBamboozle CEvents FArt & Ents  
+FL,199,150,800,500,8ff,100

@@ -1,12 +1,7 @@
 DE,What's New
-DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext-full\P101-New.tti
+PS,8000
 PN,10100
 SC,0000
-PS,8000
-CT,8,T
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q<,lR<,lT<,lT||,<<<ll<,<,ll<,|<,|,lll,||
 OL,2,Q5jR5jT5jT]Sjjju5~{"!%~s ~k4155  
 OL,3,QuszRuszTuszT]S+..*%%/* /  ,' /*%/$--'  
@@ -16,4 +11,5 @@ OL,9,G           Mon 5th April 2021
 OL,10,CMEasterF...........................P173
 OL,13,G           Wed 17th March 2021         
 OL,14,CMSt.Patrick's Day 2021!F...........P174
-FL,173,173,173,173,100,100
+OL,24,ATV ReviewsBEasterCStPatrick's DayFAbout
+FL,434,173,174,199,8FF,100

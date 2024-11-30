@@ -1,34 +1,57 @@
 DE,Art Index
-DS,inserter
-SP,J:\peter\teefax\P500-Art.tti
-PN,50000
-SC,0000
+CT,8,T
 PS,8010
-CT,10,T
-RE,0
-FL,8ff,8ff,8ff,8ff,8ff,100
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                  Qeuaf.&////}|t3/td"0
-OL,2,Qs5s5k7jws )7`W pp|||p0Tp0Qpppx|
-OL,3,Q/////// %/+$*%(,/ `5hWhTzQj
-OL,4,AAND ENTERTAINMENTQh!jWj7T5Q
-OL,5,                  Q"djWj7Tz?Qz7
-OL,6,        CARLOSA501W~QW7Tz?Qz7W
-OL,7, DAN FARRIMONDA510WoQ7W7Tz?Qz7W
-OL,8, STEVE HORSLEYA520W*Q=W7Tn'Q#/?W~?
-OL,9,           CY2A530 Q>Wz7Qx|~}|r?W~?Q
-OL,10,   CHRISTOPHERA540 Q5WQ.g3##cca~?W.'Q~
-OL,11,      TSANGARI      Wn5T~Q}}}? p|~
-OL,12,                    Wj7T>Qx?//oz5
-OL,13,  RAQUEL MEYERSA550 WjT>Qz'W8T>Q?W
-OL,14,   BLIPPY PIXELA556  T>Qx'WxThQh7Wz
-OL,15,       MR BIFFOA570  Qp~/'Wx7T7Q7Wz
-OL,16,       TRAINFAXA580  Wl||~?TzQx7Wz
-OL,17, ANDY JENKINSONA587  WjTh5Q7W|
-OL,18,        JELLICAA590   W5T?Q~7W"#o?#
-OL,19,       RUSTY595A595   WTzQh7Wz~}zu~
-OL,20,         FIDYANA596   Wj7T7Q7Wz
-OL,21,          BENFAA598   W"TjQx7Wz
-OL,22,    CAT GALLERYA599    W*?T7Q7Wz/##+'#
-OL,23,               A       DsT>Q>Wz'Qp|}~
-OL,24,               A       Dh Q>W~}tQ(l||||
+PN,50001
+SC,0001
+FL,800,400,600,700,8ff,100
+OL,1,                  Q)7`W pp|||p0Tp0QpA1/2
+OL,2,Qs5s5k7jwsQ`5hWhTzQj
+OL,3,Q/////// %/+$*%(,/Qh!jWj7T5Q
+OL,4,AAND ENTERTAINMENTQ"djWj7Tz?Qz7
+OL,5,                  W~QW7Tz?Qz7W
+OL,6,        CARLOSA501WoQ7W7Tz?Qz7W
+OL,7,      DAN VEALA502W*Q=W7Tn'Q#/?W~?
+OL,8,   SIMON RAWESA503 Q>Wz7Qx|~}|r?W~?Q
+OL,9,  FILM POSTERSA504 Q5WQ.g3##cca~?W.'Q~
+OL,10,   SOUNDTRACKSA505  Wn5T~Q}}}? p|~
+OL,11,    ANT MIN KOA506  Wj7T>Qx?//oz5
+OL,12,   ILLARTERATEA510  WjT>Qz'W8T>Q?W
+OL,13,    PETER KWANA515   T>Qx'WxThQh7Wz
+OL,14,  HORSENBURGERA520   Qp~/'Wx7T7Q7Wz
+OL,15,    PETE FAGANA525   Wl||~?TzQx7Wz
+OL,16,           CY2A530   WjTh5Q7W|
+OL,17,   CHRISTOPHERA540    W5T?Q~7W"#o?#
+OL,18,      TSANGARI        WTzQh7Wz~}zu~
+OL,19,         KEIRAA547    Wj7T7Q7Wz
+OL,20, RAQUEL MEYERSA550    W"TjQx7Wz
+OL,21,     PIXELBLIPA556     W*?T7Q7Wz/##+'#
+OL,22,  MR BIFFO ADSA570     DsT>Q>Wz'Qp|}~
+OL,23,                       Dh Q>W~}tQ(l||||
+OL,24,AEvents  BReviews CFeatures FEngineering
+PN,50002
+SC,0002
+FL,800,400,600,700,8ff,100
+OL,1,                  Q)7`W pp|||p0Tp0QpA2/2
+OL,2,Qs5s5k7jwsQ`5hWhTzQj
+OL,3,Q/////// %/+$*%(,/Qh!jWj7T5Q
+OL,4,AAND ENTERTAINMENTQ"djWj7Tz?Qz7
+OL,5,                  W~QW7Tz?Qz7W
+OL,6,      TRAINFAXA580WoQ7W7Tz?Qz7W
+OL,7,   TELETEXTMASA581W*Q=W7Tn'Q#/?W~?
+OL,8,          ANDYA587 Q>Wz7Qx|~}|r?W~?Q
+OL,9,     JENKINSONA    Q5WQ.g3##cca~?W.'Q~
+OL,10,    ASH VERSUSA588  Wn5T~Q}}}? p|~
+OL,11,    HAIRYDALEKA589  Wj7T>Qx?//oz5
+OL,12,  JELLICA JAKEA590  WjT>Qz'W8T>Q?W
+OL,13,      RUSTY595A595   T>Qx'WxThQh7Wz
+OL,14, FIDYAN GENIALA596   Qp~/'Wx7T7Q7Wz
+OL,15, TELETEXT CATSA599   Wl||~?TzQx7Wz
+OL,16,              A      WjTh5Q7W|
+OL,17,              A       W5T?Q~7W"#o?#
+OL,18,              A       WTzQh7Wz~}zu~
+OL,19,              A       Wj7T7Q7Wz
+OL,20,              A       W"TjQx7Wz
+OL,21,              A        W*?T7Q7Wz/##+'#
+OL,22,              A        DsT>Q>Wz'Qp|}~
+OL,23,                       Dh Q>W~}tQ(l||||
+OL,24,AEvents  BReviews CFeatures FEngineering

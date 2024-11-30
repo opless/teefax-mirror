@@ -1,11 +1,7 @@
 DE,This page should not exist
-DS,inserter
-SP,J:\peter\teefax\P21bFuntron.tti
-PN,21b00
+PN,69e00
 SC,0000
 PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W                          p<####{,,p   
 OL,2,W                         *`0`x|st *4  
 OL,3,W                          >39z0ht  
@@ -14,7 +10,9 @@ OL,5,W                         *o?/,'+?/.!
 OL,6,W                         0n0'#+`}|$~ |0
 OL,7,W                       `~}|3c3### bq {
 OL,8,W                       *///% #-,,'#  //
-OL,10,MRed dragon loved that bun.             
-OL,14,MWhat does Green dragon like?           
+OL,10,MWho doesn't like chips with goujons?   
+OL,12,MYellow dragon is now burping fire.     
+OL,15,MBut Red Dragon is back for more.       
+OL,17,MNow what did he like?                  
 OL,24,A Lollies  BOranges  CChips  FBuns      
-FL,21c,21a,21a,21a,8ff,8ff
+FL,69a,69a,69a,69f,8ff,8ff

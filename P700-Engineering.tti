@@ -1,12 +1,8 @@
 DE,Teletext Engineering
-DS,inserter
-SP,Z:\Documents\Projects\Teletext pages\teletext-full\P700-Engineering.tti
+PS,8010
+CT,8,T
 PN,70000
 SC,0000
-PS,8010
-CT,10,T
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,Q pppRpppTpppW   <$p0p0$p0p0p0p0$p0p0   
 OL,2,Q 5|jR5|jT5|jT]W 7 55-5555=%=%5 555-5   
 OL,3,Q 5/jR5/jT5/jT]W #!!!,%!!!#!#!! !!!,%   

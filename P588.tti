@@ -1,11 +1,7 @@
 DE,Ash Versus
-DS,inserter
-SP,E:\_ Teefax\P242.tti
-PN,24201
-SC,0001
 PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+PN,58801
+SC,0001
 OL,1,U         xqw*&m*d  A                   
 OL,2,U        j4sr'.**i5 ACleveland Steamer, 
 OL,3,W        (ws{'oss?$ A Sir?              
@@ -30,12 +26,9 @@ OL,21,W      T  jo ?j  W
 OL,22,W        Twss4wssz  W                   
 OL,23,S      Shqg ;u{| W                   
 OL,24,A Back Q"##"# #!###B Next CArt FArchive 
-FL,225,247,500,200,0,100
-PN,24202
+FL,8FF,8FF,8FF,8FF,8FF,500
+PN,58802
 SC,0002
-PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W`ppppppppppp0          `ppppppppppx'##m
 OL,2,Wj 0k!2555"5u<,<l<,<<<,~ 0k p7`k 0k > j
 OL,3,Wj j !5755j 555{j515{ j k5"j j~!`?
@@ -60,4 +53,4 @@ OL,21,V7kTj{kQoV%'-,Tj{`x||QTw|8`zp~}`||
 OL,22,V5Thokjjj0Tx>k|~jjo?j*i|o55?|77kk755
 OL,23,G WHEN THERE'S NO MORE ROOM IN HELL ... 
 OL,24,A Back BNext         CMore art FArchive 
-FL,225,247,500,200,0,100
+FL,8FF,8FF,8FF,8FF,8FF,500

@@ -1,11 +1,7 @@
 DE,This page should not exist
-DS,inserter
-SP,J:\peter\teefax\P21cXFuntron.tti
-PN,21c00
+PN,69d00
 SC,0000
 PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,W                          p<####{,,p   
 OL,2,W                         *`0`x|st *4  
 OL,3,W                          >39z0ht  
@@ -14,7 +10,9 @@ OL,5,W                         *o?/,'+?/.!
 OL,6,W                         0n0'#+`}|$~ |0
 OL,7,W                       `~}|3c3### bq {
 OL,8,W                       *///% #-,,'#  //
-OL,10,MGreen dragon loves red lollies.        
-OL,14,MWhat does Blue dragon like?            
+OL,10,MBlue dragon adores oranges, he even    
+OL,12,Meven swallows the rind and pips.       
+OL,15,MYellow dragon's turn now. What do you  
+OL,17,Mthink she likes with her goujons?      
 OL,24,A Lollies  BOranges  CChips  FBuns      
-FL,21a,21d,21a,21a,8ff,8ff
+FL,69a,69a,69e,69a,8ff,8ff

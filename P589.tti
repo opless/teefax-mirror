@@ -1,11 +1,7 @@
 DE,Hairydalek
-DS,inserter
-SP,\\VBOXSVR\VirtualShare\_ Teefax\P247.tti
-PN,24701
-SC,0001
 PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+PN,58901
+SC,0001
 OL,2, R/}j?/h?/j?o4/%txh?o40h?o4oh?/   
 OL,3, R j=$"-tj5j5, *%j5j5+j=n5&"-t   
 OL,4, R|?j}|h|?j}~%|4  *}~% j5j5 h|?   
@@ -29,12 +25,9 @@ OL,21, T5={jSTST5={jR*,,,,,,,,,,,,,%
 OL,22, T5wnjS"##########!T5wnjR               
 OL,23, Tu}{z              u}{zF               
 OL,24,                        F               
-FL,242,269,800,200,0,100
-PN,24702
+FL,8FF,8FF,8FF,8FF,8FF,500
+PN,58902
 SC,0002
-PS,C000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,2,U//h?o4~/-*o?%~/}h?/%~/-h?o4/}j?/%Q  
 OL,3,U, j=n5   j5   +o4  j5j5|?j?/ Q  
 OL,4,U/  *%*%+/' *% +/'*//!+/'"//!/  *//%Q/  
@@ -57,4 +50,4 @@ OL,21,R||p0  Zpp|
 OL,22,R|pZ////
 OL,23,R||tZsss
 OL,24,ANext time: Donald Trump's roller skates
-FL,242,269,800,200,0,100
+FL,8FF,8FF,8FF,8FF,8FF,500

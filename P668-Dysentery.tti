@@ -16,5 +16,5 @@ OL,11,RR    /'   |7!vqz5"m#7!vqz5"m
 OL,12,R      w# z?     ! m0j7c; #! e0j7c;  
 OL,13,R     .' /  #-/        +.-'      +.-'   
 OL,14,R       YOU HAVE DIED OF DYSENTERY      
-OL,24, AWorld Clock BStatus    C.    F.       
-FL,142,797,800,200,0,100
+OL,24, AWorld Clock BStatus CEventsFArt & Ents
+FL,142,797,800,500,8FF,100
