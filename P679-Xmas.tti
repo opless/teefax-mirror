@@ -30,7 +30,7 @@ OL,21, T]     \T]   \T]    \T]       \T]
 OL,22, T]G 9  \T]G6 \T]G3  \T]G 4    \T]G 13  
 OL,23, T]     \T]   \T]    \T]       \T]      
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,670,700,800,0,100
+FL,670,670,700,200,8ff,100
 PN,67902
 SC,0002
 PS,C000
@@ -60,7 +60,7 @@ OL,21, T]     \T]   \T]    \T]       \T]
 OL,22, T]G 9  \T]G6 \T]G3  \T]G 4    \T]G 13  
 OL,23, T]     \T]   \T]    \T]       \T]      
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,670,700,800,0,100
+FL,670,670,700,200,8ff,100
 PN,67903
 SC,0003
 PS,C000
@@ -90,4 +90,4 @@ OL,21,W  pp0  V| Q`~v   ` R   p      W~ww4/
 OL,22,WQ o%  V Q"!+7`R|~|     W*vs>  
 OL,23,WQW`u  (|||$Q 'z`b5*sswssw3 Qx]W{?!  
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,670,700,800,0,100
+FL,670,670,700,200,8ff,100

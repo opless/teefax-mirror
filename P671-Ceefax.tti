@@ -23,7 +23,7 @@ OL,21,       play them on the home screen
 OL,22,       at the touch of the selector     
 OL,23,       key.                             
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67102
 SC,0002
 OL,1,                              XX        
@@ -49,7 +49,7 @@ OL,20,   XXX   X          XXX  Cmap replica.
 OL,21,      XXX                C              
 OL,22,                         CAlan G3SXC    
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67103
 SC,0003
 OL,1,S  ppppp ppppp ppppp ppppp ppppp p    p 
@@ -76,7 +76,7 @@ OL,21,Wj   G                               W j
 OL,22,Wj   GUpdated between 8am and 6pm.   W j
 OL,23,Wjpppppppppppppppppppppppppppppppppppppz
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67104
 SC,0004
 OL,1,DX     1974                      replica
@@ -103,7 +103,7 @@ OL,21,   between 8am and 6pm.
 OL,22,   A fullCCEEFAXGmagazine would contain 
 OL,23,   100 pages on each BBC-TV Channel.    
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67105
 SC,0005
 OL,2,BBC    U##       j#                  
@@ -127,7 +127,7 @@ OL,21,CNEWSFLASH..... 250W5Q,,,,,,,,,,,,,,,,,,
 OL,22,                   W5G                  
 OL,23, COMPLETE INDEX 298W5C ANGOLA.......202 
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67106
 SC,0006
 OL,1,Q]    S`ppppp    `ppppp    `ppppp       
@@ -154,7 +154,7 @@ OL,21,SS######################################
 OL,22,Q,,,,,,,,,,,,,,,,,,,,,,<,,,,,,,,,,,,,,,,
 OL,23,CNEWSFLASH.........250Q5CNEWSREEL....299
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67107
 SC,0007
 OL,1,U]W                                     
@@ -181,7 +181,7 @@ OL,21,E]W                        "+o?'!
 OL,22,E]W                                     
 OL,23,E]W                                     
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67108
 SC,0008
 OL,1,T]S?                               
@@ -208,7 +208,7 @@ OL,21,T]S:uw'#'!
 OL,22,T]S5+upp0                   
 OL,23,T]S5 +5CXbeeblepete 2016  
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67109
 SC,0009
 OL,1,SBBC  |||||    ,l|||4    ,||||4         
@@ -231,7 +231,7 @@ OL,21,SX|||||||
 OL,22,SX
 OL,23,D   pembers 1978X/ Grattan sun beds 1987
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67110
 SC,0010
 OL,1,T]                S                     
@@ -258,7 +258,7 @@ OL,21,T]                Sjux j7#k#k`
 OL,22,T]FX beeblepete   S"//|up~ z~/   
 OL,23,T]FX 2017         S     ###///////'!    
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67111
 SC,0011
 OL,2,                    T]       S `(h(`    
@@ -284,7 +284,7 @@ OL,21,V                   T]S
 OL,22,FX  24 Dec 1982  T]                     
 OL,23,FX  replica      T]  FXbeeblepete 2016  
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67112
 SC,0012
 OL,1,T]                   S                  
@@ -311,7 +311,7 @@ OL,21,T]FXbeeblepete    Sjux j7#k#k`
 OL,22,T]FX2017          S"//|up~ z~/   
 OL,23,T]                S     ###///////'!    
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67113
 SC,0013
 OL,1, T]                                     
@@ -338,7 +338,7 @@ OL,21, Q]T|~|~5|||~5|||~5|||~5|||~j
 OL,22, Q]V                                    
 OL,23, DX  BeeblePete                   2017  
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67114
 SC,0014
 OL,1,T]Q                   h%*'        
@@ -365,7 +365,7 @@ OL,21,W]Q                  ~o?o'
 OL,22,W]Q                `~?//'  !,"!       
 OL,23,W]AX1977 replica Q>o'AXbeeblepete 2016  
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67115
 SC,0015
 OL,1,Wj#3kj#3kj#3kT]S    h4h4|,|h<<|h<$      
@@ -389,7 +389,7 @@ OL,21,DX replica               beeblepete 2016
 OL,22,T]CHome news digestG141CWorld digestG142
 OL,23,S]DHow Ceefax switches to Digital TV 697
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67116
 SC,0016
 OL,1,W    `h CBBC RADIOA`````````````````````
@@ -411,7 +411,7 @@ OL,16,C0100GAs Radio 5 Live
 OL,22,A]D       FMC95.0  95.8  104.7          
 OL,23,A]DR1C641DR2C642DR3C643DR4C644DR5LC645  
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 PN,67117
 SC,0017
 OL,1,W`ppp`ppp`pppT||,,,<,,<,,<,,|,,l|,l<,|||
@@ -421,7 +421,7 @@ OL,4,W"###"###"###T##########################
 OL,14,W                                     
 OL,23,DXreplica                beeblepete 2016
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100
 DE,Bryan Green reproduction of mid 1980s index
 PN,67118
 SC,0018
@@ -443,4 +443,4 @@ OL,21,D]
 OL,22,D] S]DA TO Z INDEX ......199 and 299T]  
 OL,23,D] V]DTELESOFTWARE..........BBC1 700T]  
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,672,700,800,f,100
+FL,670,672,700,200,8ff,100

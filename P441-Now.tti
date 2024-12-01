@@ -28,7 +28,7 @@ OL,21,Fthe band's drummer, Jon Moss.
 OL,22,F                                   1/4 
 OL,23,D]C                    More follows >>> 
 OL,24,A  AboutB   IndexCEvents   FArt & Ents  
-FL,420,400,800,500,8ff,100
+FL,420,400,200,500,8ff,100
 PN,42102
 SC,0002
 PS,C000
@@ -55,7 +55,7 @@ OL,21,Fhear.
 OL,22,F                                   2/4 
 OL,23,D]C                    More follows >>> 
 OL,24,A  AboutB   IndexCEvents   FArt & Ents  
-FL,420,400,800,500,8ff,100
+FL,420,400,200,500,8ff,100
 PN,42103
 SC,0003
 PS,C000
@@ -82,7 +82,7 @@ OL,21,Falbum track rather than a Top 3 single.
 OL,22,F                                   3/4 
 OL,23,D]C                    More follows >>> 
 OL,24,A  AboutB   IndexCEvents   FArt & Ents  
-FL,420,400,800,500,8ff,100
+FL,420,400,200,500,8ff,100
 PN,42104
 SC,0004
 PS,C000
@@ -107,4 +107,4 @@ OL,19,CWith thanks to Howard Ingham
 OL,22,F                                   4/4 
 OL,23,D]C     NEXT TIME: Paul McCartney       
 OL,24,A  AboutB   IndexCEvents   FArt & Ents  
-FL,420,400,800,500,8ff,100
+FL,420,400,200,500,8ff,100

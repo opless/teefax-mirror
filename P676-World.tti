@@ -25,7 +25,7 @@ OL,20,D]     GTRAVELFINDERS       B500
 OL,21,D```````````Bwww.rte.ie/sportD``````````
 OL,22,D]M        GSOCCER        F220          
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67602
 SC,0002
 PS,C200
@@ -54,7 +54,7 @@ OL,20,W  5  5"d5  5              5  u& 5  5
 OL,21,W,,=,,=,,=|,=,,<,,<,,<,,<,,=l<=,,=,,=,, 
 OL,22,Wppuppuppupyuppuppuppuppupp}qpuppuppupp 
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67603
 SC,0003
 PS,C080
@@ -84,7 +84,7 @@ OL,21,B]EM  M#t#o @ 7 jours et week end    804
 OL,22,F]D                                     
 OL,23,G]D                                     
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67604
 SC,0004
 PS,C100
@@ -113,7 +113,7 @@ OL,21, P} TV n}.......F500GSideoversikt ..F890
 OL,22, P} radio n}....F580G                   
 OL,23,D]G    Alfabetisk oversiktF891-899      
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67605
 SC,0005
 PS,C200
@@ -143,7 +143,7 @@ OL,21,D]GNachrichten . 112 DAX-Werte . 603-606
 OL,22,D]GProgramm .... 300 Tops & Flops .. 614
 OL,23,D]GService ..... 500 Fonds ...... ab 660
 OL,24,AIndex    BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67606
 SC,0006
 PS,C090
@@ -170,7 +170,7 @@ OL,20, D--------------------------------------
 OL,21,  145                          DOMA[NIJ 
 OL,23,D]G         Prodolvenie dalee >>        
 OL,24,[AIndex   BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67607
 SC,0007
 PS,C390
@@ -206,7 +206,7 @@ OL,21, ]A           @weFo T5A   @E`SQ a eGOG \
 OL,22, ]T"#################!################!\
 OL,23, ]D  22021955-22021901    @iehzY WHGhQ \
 OL,24,[AIndex   BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67608
 SC,0008
 PS,C390
@@ -239,7 +239,7 @@ OL,21, ]T"#################!#################
 OL,22, ]D 27863000     @ `S  cBT iehzY WHGhQ  
 OL,23, ]A 021-2781 EF fFDSQ T A162 E}FeRFS    
 OL,24,[AIndex   BNext    CEngineering  FEvents
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67609
 SC,0009
 PS,C390
@@ -261,7 +261,7 @@ OL,20,  330 Resultos       610 Monto Blanko
 OL,22,DM]CTippo Magico Kitsun Gi\moF12.99_o   
 OL,23,                              12        
 OL,24,AKeiraBSportoCKinegr{fo~ FMeteorlogicas 
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67610
 SC,0010
 PS,C390
@@ -289,7 +289,7 @@ OL,20,G770FACCESSIBILITA'T////////////////////
 OL,21,B]@    PESARO - CAPITALE ITALIANA       
 OL,22,B]@  DELLA CULTURA 2024 Dpag.596-597    
 OL,23,D ````Bwww.servizitelevideo.rai.itD```` 
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
 PN,67611
 SC,0011
 PS,C390
@@ -317,4 +317,4 @@ OL,20,Q
 OL,21, M    scrivi aCtlv.nazionale@rai.it     
 OL,22,                                        
 OL,23,      
-FL,670,677,700,800,100,100
+FL,670,677,700,200,8ff,100
