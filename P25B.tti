@@ -1,17 +1,15 @@
 PN,25B00
 SC,0000
 PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,TQx/////uT
 OL,2,TQ7S<otQT
 OL,3,TQS?(o-kQT
-OL,4,TQ/S?o FT#
+OL,4,TQ/S?o VT#
 OL,5,TUx|S{/?oUT
 OL,6,T'UkuSm8l|7U7Tk
-OL,7,DUhp+uSo'UzaTk
-OL,8,DUu+hppx5*~T
-OL,9,DU////%/*///%/*///T/////////////////////
+OL,7,TUhp+uSo'UzaTk
+OL,8,TUu+hppx5%~T
+OL,9,TU////%/*///%/*///T/////////////////////
 OL,10, For a few moments you watch anxiously  
 OL,11, as the fight rages at the far end of   
 OL,12, the hall. But then the floor there     

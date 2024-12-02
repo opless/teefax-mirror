@@ -1,20 +1,18 @@
 PN,21E00
 SC,0000
 PS,8000
-RE,0
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,V7W*j
+OL,1,V7W%j
 OL,2,VWj?##"#####/2
-OL,3,V55W?/## ,/o?s8tp"#o5*
+OL,3,V55W?/##W,/o?s8tp"#o5*
 OL,4,V5 j7 W !8l~<xwy|p#+/-5o
-OL,5,V*7   "'  W  -,///||pp #"
-OL,6,V         Wj~S&&&&W5
-OL,7,W           /g~*
-OL,8,W         z~tppp#+/'q|or
+OL,5,V*7   "'  W W-,///||pp #"
+OL,6,V         Wj}S&&&&W5
+OL,7,W          W/g~%
+OL,8,W         z}tppp#+/'q|oq
 OL,9,W         ?j|t"/s|
-OL,10,W       (/////%////// ./////////////////
+OL,10,W       (/////%//////W./////////////////
 OL,11,FYou climb up above the snowy valley,   
-OL,12,Facross bare rock jutting through the   
+OL,12,Facross bare roack jutting through the  
 OL,13,Fice. At the top of the rise you pause  
 OL,14,Fto look down...                        
 OL,16,FAnd turn at a snarling sound behind you
