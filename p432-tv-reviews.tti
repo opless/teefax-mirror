@@ -3,7 +3,8 @@ DS,inserter
 SP,Z:\Documents\Projects\Teletext pages\teletext-full\p432-tv-reviews.tti
 PN,43201
 SC,0001
-PS,c000
+PS,8000
+CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -31,7 +32,8 @@ OL,24,A LCD/Plasma  B  CRTs   CSTBs   FInfo
 FL,433,434,435,431,8ff,100
 PN,43202
 SC,0002
-PS,c000
+PS,8000
+CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||

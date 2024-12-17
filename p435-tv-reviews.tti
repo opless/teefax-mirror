@@ -4,6 +4,7 @@ SP,Z:\Documents\Projects\Teletext pages\teletext-full\p435-tv-reviews.tti
 PN,43501
 SC,0001
 PS,c000
+CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -29,6 +30,7 @@ FL,431,432,433,434,8ff,100
 PN,43502
 SC,0002
 PS,c000
+CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -56,6 +58,7 @@ FL,431,432,433,434,8ff,100
 PN,43503
 SC,0003
 PS,c000
+CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -83,6 +86,7 @@ FL,431,432,433,434,8ff,100
 PN,43504
 SC,0004
 PS,8300
+CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
@@ -112,6 +116,7 @@ FL,431,432,433,434,8ff,100
 PN,43505
 SC,0005
 PS,c000
+CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
