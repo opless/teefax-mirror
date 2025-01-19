@@ -3,12 +3,34 @@ DE,TV
 PS,8040
 PN,62201
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 18th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 19th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2200FTOTP: Biggest Hits 1990
-OL,6,G2300FTOTP: Biggest Hits 1999
-OL,7,G0300FThis is BBC Two
+OL,5,G0645FCountryfile
+OL,6,G0745FBreakfast
+OL,7,G0900FWeatherman Walking
+OL,8,G0930FSaturday Kitchen Best Bites
+OL,9,G1100FNigel and Adam's Farm Kitchen
+OL,10,G1200FThis Farming Life
+OL,11,G1300FMasters Snooker
+OL,12,G1600FThe Wonder of Animals
+OL,13,G1630FFlog It!
+OL,14,G1715FSki Sunday
+OL,15,G1800FInside the Factory
+OL,16,G1900FMasters Snooker
+OL,17,G2200FThe Shining
+OL,18,G2355FThe Traitors
+OL,19,G0055FQuestion Time
+OL,20,G0155FSilent Witness
+OL,21,G0255FThis is BBC Two
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,623,104,535,700,0,620
+PN,62202
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 19th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,623,104,535,700,0,620
