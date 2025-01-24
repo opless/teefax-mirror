@@ -1,0 +1,149 @@
+DE,National character test
+DS,inserter
+SP,Z:\Documents\Projects\Teletext pages\teletext-full\p760-national-option-subsets.tti
+PN,76001
+SC,0001
+PS,c000
+CT,0,C
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,MNational Option Subsets                
+OL,3,MEnglish (000)                          
+OL,7,M23 24 40 5B 5C 5D 5E 5F 60 7B 7C 7D 7E 
+OL,9,M #  $  @  [  \  ]  ^  _  `  {  |  }  ~ 
+OL,12, This page tests the national option    
+OL,13, subsets that should be available on    
+OL,14, level 1 decoders and are selected via  
+OL,15, packet X/0 control bits C12,C13,C14.   
+OL,17, Each subpage tests one subset.         
+OL,23,XNick Schollar                          
+OL,24,ANext BEngineeringCTest pagesFMain Menu 
+FL,761,700,740,100,100,100
+PN,76002
+SC,0002
+PS,8200
+CT,0,C
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,MNational Option Subsets                
+OL,3,MGerman (001)                           
+OL,7,M23 24 40 5B 5C 5D 5E 5F 60 7B 7C 7D 7E 
+OL,9,M #  $  @  [  \  ]  ^  _  `  {  |  }  ~ 
+OL,12, This page tests the national option    
+OL,13, subsets that should be available on    
+OL,14, level 1 decoders and are selected via  
+OL,15, packet X/0 control bits C12,C13,C14.   
+OL,17, Each subpage tests one subset.         
+OL,23,XNick Schollar                          
+OL,24,ANext BEngineeringCTest pagesFMain Menu 
+FL,761,700,740,100,100,100
+PN,76003
+SC,0003
+PS,8100
+CT,0,C
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,MNational Option Subsets                
+OL,3,MSwedish/Finnish (010)                  
+OL,7,M23 24 40 5B 5C 5D 5E 5F 60 7B 7C 7D 7E 
+OL,9,M #  $  @  [  \  ]  ^  _  `  {  |  }  ~ 
+OL,12, This page tests the national option    
+OL,13, subsets that should be available on    
+OL,14, level 1 decoders and are selected via  
+OL,15, packet X/0 control bits C12,C13,C14.   
+OL,17, Each subpage tests one subset.         
+OL,23,XNick Schollar                          
+OL,24,ANext BEngineeringCTest pagesFMain Menu 
+FL,761,700,740,100,100,100
+PN,76004
+SC,0004
+PS,8300
+CT,0,C
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,MNational Option Subsets                
+OL,3,MItalian (011)                          
+OL,7,M23 24 40 5B 5C 5D 5E 5F 60 7B 7C 7D 7E 
+OL,9,M #  $  @  [  \  ]  ^  _  `  {  |  }  ~ 
+OL,12, This page tests the national option    
+OL,13, subsets that should be available on    
+OL,14, level 1 decoders and are selected via  
+OL,15, packet X/0 control bits C12,C13,C14.   
+OL,17, Each subpage tests one subset.         
+OL,23,XNick Schollar                          
+OL,24,ANext BEngineeringCTest pagesFMain Menu 
+FL,761,700,740,100,100,100
+PN,76005
+SC,0005
+PS,8080
+CT,0,C
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,MNational Option Subsets                
+OL,3,MFrench (100)                           
+OL,7,M23 24 40 5B 5C 5D 5E 5F 60 7B 7C 7D 7E 
+OL,9,M #  $  @  [  \  ]  ^  _  `  {  |  }  ~ 
+OL,12, This page tests the national option    
+OL,13, subsets that should be available on    
+OL,14, level 1 decoders and are selected via  
+OL,15, packet X/0 control bits C12,C13,C14.   
+OL,17, Each subpage tests one subset.         
+OL,23,XNick Schollar                          
+OL,24,ANext BEngineeringCTest pagesFMain Menu 
+FL,761,700,740,100,100,100
+PN,76006
+SC,0006
+PS,8280
+CT,0,C
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,MNational Option Subsets                
+OL,3,MPortuguese/Spanish (101)               
+OL,7,M23 24 40 5B 5C 5D 5E 5F 60 7B 7C 7D 7E 
+OL,9,M #  $  @  [  \  ]  ^  _  `  {  |  }  ~ 
+OL,12, This page tests the national option    
+OL,13, subsets that should be available on    
+OL,14, level 1 decoders and are selected via  
+OL,15, packet X/0 control bits C12,C13,C14.   
+OL,17, Each subpage tests one subset.         
+OL,23,XNick Schollar                          
+OL,24,ANext BEngineeringCTest pagesFMain Menu 
+FL,761,700,740,100,100,100
+PN,76007
+SC,0007
+PS,8180
+CT,0,C
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,MNational Option Subsets                
+OL,3,MCzech/Slovac (110)                     
+OL,7,M23 24 40 5B 5C 5D 5E 5F 60 7B 7C 7D 7E 
+OL,9,M #  $  @  [  \  ]  ^  _  `  {  |  }  ~ 
+OL,12, This page tests the national option    
+OL,13, subsets that should be available on    
+OL,14, level 1 decoders and are selected via  
+OL,15, packet X/0 control bits C12,C13,C14.   
+OL,17, Each subpage tests one subset.         
+OL,23,XNick Schollar                          
+OL,24,ANext BEngineeringCTest pagesFMain Menu 
+FL,761,700,740,100,100,100
+PN,76008
+SC,0008
+PS,8380
+CT,0,C
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,MNational Option Subsets                
+OL,3,MInvalid (111)                          
+OL,7,M23 24 40 5B 5C 5D 5E 5F 60 7B 7C 7D 7E 
+OL,9,M #  $  @  [  \  ]  ^  _  `  {  |  }  ~ 
+OL,12, This page tests the national option    
+OL,13, subsets that should be available on    
+OL,14, level 1 decoders and are selected via  
+OL,15, packet X/0 control bits C12,C13,C14.   
+OL,17, Each subpage tests one subset.         
+OL,19, "Invalid" option included just to see  
+OL,20, what happens!                          
+OL,23,XNick Schollar                          
+OL,24,ANext BEngineeringCTest pagesFMain Menu 
+FL,761,700,740,100,100,100
