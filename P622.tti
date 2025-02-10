@@ -3,20 +3,40 @@ DE,TV
 PS,8040
 PN,62201
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 09th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 10th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1200FThe A to Z of TV Cooking
-OL,6,G1215FThis Farming Life
-OL,7,G1315FScott of the Antarctic
-OL,8,G1500FA Countryside Winter
-OL,9,G1530FInside the Factory
-OL,10,G1630FSki Sunday
-OL,11,G1715FFlog It!
-OL,12,G2100FLife and Death Row
-OL,13,G2150FSaving Lives at Sea
-OL,14,G2200FBlue Velvet
-OL,15,G2355FThe Elephant Man
+OL,5,G0900FBBC News
+OL,6,G1215FPolitics Live
+OL,7,G1300FImpossible
+OL,8,G1345FThe Edge
+OL,9,G1430FThe Boss
+OL,10,G1515FSouth Pacific
+OL,11,G1615FAll Roads Lead Home
+OL,12,G1715FFlog It!
+OL,13,G1800FRichard Osman's House of Games
+OL,14,G1830FRobson Green's Weekend Escapes
+OL,15,G1900FGrand Tours of Scotland's Rivers
+OL,16,G1930FMastermind
+OL,17,G2000FOnly Connect
+OL,18,G2030FUniversity Challenge
+OL,19,G2100FThe Balkans: Europe's Forgotten...
+OL,20,G2200FQI
+OL,21,G2230FNewsnight
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,623,104,535,700,0,620
+PN,62202
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 10th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G2300FWeather
+OL,6,G2305FWhat's the Matter with Tony...
+OL,7,G0005FCountryfile
+OL,8,G0100FThe Balkans: Europe's Forgotten...
+OL,9,G0200FSilent Witness
+OL,10,G0300FThis is BBC Two
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,623,104,535,700,0,620
