@@ -3,13 +3,37 @@ DE,TV
 PS,8040
 PN,62301
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 06th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 07th
 OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1230FLoose Women
 OL,6,G1330FITV Lunchtime News
 OL,7,G1355FITV News Anglia
 OL,8,G1400FNew: Tour de Fred: Northern Ireland
+OL,9,G1500FLingo
+OL,10,G1600FTipping Point
+OL,11,G1700FNew: The Chase
+OL,12,G1800FITV News Anglia
+OL,13,G1830FITV Evening News
+OL,14,G1930FEmmerdale
+OL,15,G2000FCoronation Street
+OL,16,G2100FNew: Murder in the Family: True...
+OL,17,G2200FITV News at Ten
+OL,18,G2230FITV News Anglia
+OL,19,G2245FWho Wants to Be a Millionaire?
+OL,20,G2340FOlivia Attwood's Bad Boyfriends
+OL,21,G0030FShop on TV
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,624,104,535,700,0,620
+PN,62302
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 07th
+OL,2,Q 5jR5jT5jT]W     "m'F    ITV (Ang)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0300FUnwind with ITV
+OL,6,G0400FLIV Golf Live
+OL,7,G0500FTour de Fred: Northern Ireland
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,624,104,535,700,0,620
