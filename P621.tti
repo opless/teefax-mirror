@@ -3,9 +3,44 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 15th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 16th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0745FMatch of the Day
+OL,6,G0900FSunday with Laura Kuenssberg
+OL,7,G1000FPolitics East
+OL,8,G1030FSunday Morning Live
+OL,9,G1130FHomes Under the Hammer
+OL,10,G1200FBargain Hunt
+OL,11,G1300FBBC News
+OL,12,G1310FWeather for the Week Ahead
+OL,13,G1315FSongs of Praise: Sermon on the...
+OL,14,G1350FMoney for Nothing
+OL,15,G1435FGladiators: Epic Pranks
+OL,16,G1450FGladiators
+OL,17,G1550FPlanet Earth III
+OL,18,G1650FBBC News
+OL,19,G1705FLook East
+OL,20,G1710FWeather
+OL,21,G1715FCountryfile
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,622,104,535,700,0,620
+PN,62102
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 16th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G1815FThe Americas
+OL,6,G1900FAntiques Roadshow
+OL,7,G2000FTen Pound Poms
+OL,8,G2100FTowards Zero
+OL,9,G2200FBBC News and Weather
+OL,10,G2225FLook East
+OL,11,G2230FMatch of the Day 2
+OL,12,G2335FThe Women's Football Show
+OL,13,G0020FWeather for the Week Ahead
+OL,14,G0025FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
