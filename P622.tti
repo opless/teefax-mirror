@@ -3,11 +3,15 @@ DE,TV
 PS,8040
 PN,62201
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 26th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 27th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC2
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0900FBBC News
-OL,6,G1115FPolitics Live
+OL,6,G2100FFake or Fortune?
+OL,7,G2200FThe Apprentice: You're Fired!
+OL,8,G2230FNewsnight
+OL,9,G2300FWeather
+OL,10,G2305FKen Dodd: A Legacy of Happiness
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,623,104,535,700,0,620
