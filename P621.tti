@@ -3,36 +3,39 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 05th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 06th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0900FSaturday Kitchen Live
-OL,6,G1030FMary Berry: Love to Cook
-OL,7,G1100FFootball Focus
-OL,8,G1200FBBC News
-OL,9,G1210FWeather
-OL,10,G1215FBargain Hunt
-OL,11,G1300FRugby League Challenge Cup:...
-OL,12,G1530FFinal Score
-OL,13,G1630FBBC News
-OL,14,G1640FLook East
-OL,15,G1645FWeather
-OL,16,G1650FGladiators
-OL,17,G1750FThe Hit List
-OL,18,G2100FBBC News
-OL,19,G2115FWeather
-OL,20,G2120FMatch of the Day
-OL,21,G2230FAshley Cain: Into the Danger Zone
+OL,5,G0645FMatch of the Day
+OL,6,G0800FSunday with Laura Kuenssberg
+OL,7,G0900FPolitics East
+OL,8,G0930FSunday Morning Live
+OL,9,G1030FCelebration Kitchen: Passover
+OL,10,G1130FBargain Hunt
+OL,11,G1200FBBC News
+OL,12,G1210FWeather for the Week Ahead
+OL,13,G1215FSongs of Praise: Christian...
+OL,14,G1250FGladiators
+OL,15,G1355FWallace &amp; Gromit: The Wrong...
+OL,16,G1425FShrek 2
+OL,17,G1800FAntiques Roadshow
+OL,18,G1900FTen Pound Poms
+OL,19,G2000FThis City Is Ours
+OL,20,G2100FBBC News and Weather
+OL,21,G2125FLook East
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
 PN,62102
 SC,0002
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 05th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 06th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2330FWeather for the Week Ahead
-OL,6,G2335FBBC News
+OL,5,G2130FMatch of the Day 2
+OL,6,G2245FMOTD Top 10: Goalscorers
+OL,7,G2315FWeather for the Week Ahead
+OL,8,G2320FBBC News
+OL,9,G0500FBreakfast
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
