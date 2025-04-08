@@ -3,14 +3,23 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 07th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 08th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G2100FBBC News and Weather
-OL,6,G2130FLook East
-OL,7,G2140FHave I Got a Bit More News for You
-OL,8,G2225FRose Ayling-Ellis: Old Hands,...
-OL,9,G2325FThe Hit List
+OL,5,G0830FMorning Live
+OL,6,G1200FBBC News at One including Look...
+OL,7,G1300FPolicing Paradise
+OL,8,G1330FClive Myrie's Caribbean Adventure
+OL,9,G1400FEscape to the Country
+OL,10,G1445FThe Bidding Room
+OL,11,G1530FNew: The Finish Line
+OL,12,G1615FNew: Pointless
+OL,13,G1700FBBC News
+OL,14,G1730FLook East
+OL,15,G1800FThe One ShowC410
+OL,16,G1830FEastEnders
+OL,17,G1900FStacey &amp; Joe
+OL,18,G2000FReunion
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
