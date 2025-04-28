@@ -3,11 +3,45 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 27th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 28th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G0130FWeather for the Week Ahead
-OL,6,G0135FBBC News
+OL,5,G0830FRip Off Britain
+OL,6,G0915FDr Xand's Con or Cure
+OL,7,G0945FAnimal Park
+OL,8,G1015FHomes Under the Hammer
+OL,9,G1115FBargain Hunt
+OL,10,G1200FBBC News at One including Look...
+OL,11,G1300FScam Interceptors
+OL,12,G1330FExpert Witness
+OL,13,G1400FEscape to the Country
+OL,14,G1445FThe Bidding Room
+OL,15,G1530FThe Finish Line
+OL,16,G1615FNew: Pointless
+OL,17,G1700FBBC News
+OL,18,G1730FLook East
+OL,19,G1755FParty Election Broadcast by the...
+OL,20,G1800FThe One ShowC410
+OL,21,G1830FEastEnders
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,622,104,535,700,0,620
+PN,62102
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 28th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G1900FThe Truth about Baby Food...
+OL,6,G1930FTrump: The First 100 Days
+OL,7,G2000FDeath in Paradise
+OL,8,G2100FBBC News and Weather
+OL,9,G2130FLook East
+OL,10,G2140FHave I Got a Bit More News for You
+OL,11,G2225FJust Act Normal
+OL,12,G2300FJust Act Normal
+OL,13,G2340FWeather for the Week Ahead
+OL,14,G2345FBBC News
+OL,15,G0500FBreakfast
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
