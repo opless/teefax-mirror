@@ -3,16 +3,35 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Tue 24th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 25th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1530FBridge of Lies
-OL,6,G1615FPointless
-OL,7,G1700FBBC News
-OL,8,G1730FLook East
-OL,9,G0010FWeather for the Week Ahead
-OL,10,G0015FBBC News
-OL,11,G0500FBreakfast
+OL,5,G0830FMorning Live
+OL,6,G0945FThe Moment of Proof
+OL,7,G1015FHomes Under the Hammer
+OL,8,G1115FBargain Hunt
+OL,9,G1530FBridge of Lies
+OL,10,G1615FPointless
+OL,11,G1700FBBC News
+OL,12,G1730FLook East
+OL,13,G1800FThe One ShowC410
+OL,14,G1830FEastEnders
+OL,15,G1900FThe Repair Shop on the Road
+OL,16,G2000FAmol Rajan Goes to the Ganges
+OL,17,G2100FBBC News and Weather
+OL,18,G2130FLook East
+OL,19,G2140FThe Kim Kardashian Diamond Heist
+OL,20,G2225FApples Never Fall
+OL,21,G2310FApples Never Fall
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,622,104,535,700,0,620
+PN,62102
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 25th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0500FBreakfast
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
