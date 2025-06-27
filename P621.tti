@@ -3,14 +3,39 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Thu 26th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 27th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G0830FMorning Live
 OL,6,G0945FThe Moment of Proof
 OL,7,G1015FHomes Under the Hammer
 OL,8,G1115FBargain Hunt
-OL,9,G0000FBBC News
+OL,9,G1200FBBC News at One including Look...
+OL,10,G1300FUnder the Vines
+OL,11,G1345FEscape to the Country
+OL,12,G1445FGarden Rescue
+OL,13,G1530FBridge of Lies
+OL,14,G1615FPointless
+OL,15,G1700FBBC News
+OL,16,G1730FLook East
+OL,17,G1800FThe One ShowC410
+OL,18,G1830FGlastonbury 2025 Live
+OL,19,G1900FLost and Found in the Lakes
+OL,20,G1930FWould I Lie to You?
+OL,21,G2000FNot Going Out
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,622,104,535,700,0,620
+PN,62102
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 27th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G2030FThe Power of Parker
+OL,6,G2100FBBC News and Weather
+OL,7,G2120FLook East
+OL,8,G2130FThe 1975 at Glastonbury 2025
+OL,9,G2300FGringo
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
