@@ -3,16 +3,42 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 02nd
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 03rd
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1200FBBC News
-OL,6,G1210FWeather
-OL,7,G1215FBargain Hunt
-OL,8,G1300FMoney for Nothing
-OL,9,G1330FEscape to the Country
-OL,10,G1415FDeadly 60
-OL,11,G1445FBack to the Future Part II
+OL,5,G0800FBBC News
+OL,6,G0900FPilgrimage: The Road through...
+OL,7,G1000FHomes Under the Hammer
+OL,8,G1100FBargain Hunt
+OL,9,G1200FBBC News
+OL,10,G1210FWeather for the Week Ahead
+OL,11,G1215FSongs of Praise: Keith and...
+OL,12,G1250FMoney for Nothing
+OL,13,G1335FEscape to the Country
+OL,14,G1435FKensuke's Kingdom
+OL,15,G1555FBlue Planet II: Oceans of Wonder
+OL,16,G1655FBBC News
+OL,17,G1710FLook East
+OL,18,G1715FWeather
+OL,19,G1720FCountryfile
+OL,20,G1820FParenthood
+OL,21,G1920FAntiques Roadshow
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,622,104,535,700,0,620
+PN,62102
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 03rd
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G2020FThe Narrow Road to the Deep North
+OL,6,G2100FBBC News and Weather
+OL,7,G2125FLook East
+OL,8,G2130FDestination X
+OL,9,G2230FDestination X
+OL,10,G2330FWeather for the Week Ahead
+OL,11,G2335FBBC News
+OL,12,G0500FBreakfast
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
