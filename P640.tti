@@ -1,8 +1,12 @@
 DE,Six-Forty temp index
-PS,8000
+DS,inserter
+SP,C:\Users\Robert\Documents\Teletext\TEEFAX\P640.tti
 PN,64000
 SC,0000
-FL,641,648,649,100,8FF,100
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
 OL,1,S x,th4l0 `<   |,$x,th<l0,|,h4 h4 V7###5
 OL,2,S op0j5 +|' `p0p  juz%  "op?! V5#j55
 OL,3,S p j5`>#m0      j5k4       V##5
@@ -18,10 +22,11 @@ OL,14, CURRENTLY IN TEST ` Some  Q x|||||||1
 OL,15, things probably won't workW x|||||^Q  
 OL,16, or look weird.            W ?o/^Q  
 OL,17,                           Whv{~90 
-OL,18,F641CBlog      F648CSudoku Wjo?e% 
-OL,19,F***CMore soon!F649CArt    Wj}~5  
+OL,18,F642CBlog      F 648CSudokuWjo?e% 
+OL,19,F644CCeefax TributeF643CArtWj}~5  
 OL,20,                           Wjw//{5  
 OL,21,   Follow me on Mastodon:  W 5  
 OL,22,F]D@hampo@mastodon.socialQW\ +?!  
 OL,23,                           Qx|}h}|0 
-OL,24,ABlog     BSudoku      CArt      FTeefax
+OL,24,ABlog     BSudoku      CArt      FCeefax
+FL,642,648,643,644,8ff,100
