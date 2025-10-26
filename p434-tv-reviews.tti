@@ -9,7 +9,7 @@ RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/5 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C1/9 
 OL,4, Philips 21PT6820 ` 21" DVD combi       
 OL,5,CStandard:GLevel 1.5 (limited)          
 OL,6,CPage memory:G7 ` Current page, 4 colour
@@ -33,14 +33,14 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43402
 SC,0002
-PS,c000
+PS,8000
 CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/5 
-OL,4, JVC AV28R250 26" widescreen CRT (2002) 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C2/9 
+OL,4, JVC AV28R250 28" widescreen CRT (2002) 
 OL,5,CStandard:GLevel 1.5 (just barely)      
 OL,6,CPage memory:G7 ` Current page, 4 colour
 OL,7,              links, previous, and next.
@@ -63,13 +63,13 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43403
 SC,0003
-PS,c000
+PS,8000
 CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/5 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C3/9 
 OL,4, Hitachi CPT 2508 (1988)                
 OL,5,CStandard:GLevel 1.0                    
 OL,6,CPage memory:G7 ` Current page, 6       
@@ -88,14 +88,14 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43404
 SC,0004
-PS,c000
+PS,8000
 CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C4/5 
-OL,4, Sony KV-28DX30 26" w'screen CRT (2000) 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C4/9 
+OL,4, Sony KV-28DX30 28" w'screen CRT (2000) 
 OL,5,CStandard:GLevel 1.5                    
 OL,6,CPage memory:G8                         
 OL,7,CText aspect ratio:GWide                
@@ -118,13 +118,13 @@ OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs
 FL,431,432,433,435,8ff,100
 PN,43405
 SC,0005
-PS,c000
+PS,8000
 CT,2,C
 RE,0
 OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
 OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
-OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C5/5 
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C5/9 
 OL,4, Goodmans 2195T 21" CRT (1995)          
 OL,5,CStandard:GLevel 1.5 (just barely)      
 OL,6,CPage memory:G8                         
@@ -141,5 +141,97 @@ OL,19, caching pages to the 8-page memory.
 OL,20, Screen frequently clears when switching
 OL,21, to a non-cached page.                  
 OL,23,T]CReviewed Feb 2023 by Nick Schollar   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100
+PN,43406
+SC,0006
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C6/9 
+OL,4, Sony KV-28DX51 28" w'screen CRT (2004) 
+OL,5,CStandard:GLevel 1.5                    
+OL,6,CPage memory:G8                         
+OL,7,CText aspect ratio:GWide                
+OL,9,CWhat's good:GLooks like all the        
+OL,10, features from the KV-28DX30 are still  
+OL,11, there, which is scraping the barrel a  
+OL,12, bit because there aren't any. This IDTV
+OL,13, is at least "8k ready" so still works  
+OL,14, in 2025 on digital terrestrial.        
+OL,16,CWhat's not:GStill no level 2.5. As is  
+OL,17, typical with Sony and the same on the  
+OL,18, KV-28DX30, the size, cancel and time-  
+OL,19, text buttons are not present.          
+OL,23,D]CReviewed Oct 2025 by Nick Schollar   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100
+PN,43407
+SC,0007
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C7/9 
+OL,4, Hitachi C21P819 21" CRT (1990)         
+OL,5,CStandard:GLevel 1.5                    
+OL,6,CPage memory:G8                         
+OL,7,CText aspect ratio:GNormal              
+OL,9,CWhat's good:G                          
+OL,10, To follow                              
+OL,19,CWhat's not:G                           
+OL,23,D]CReviewed Oct 2025 by Nick Schollar   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100
+PN,43408
+SC,0008
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C8/9 
+OL,4, Panasonic TX-32PM1 w'screen CRT (2004) 
+OL,5,CStandard:GLevel 1.5                    
+OL,6,CPage memory:G8                         
+OL,7,CText aspect ratio:GWide                
+OL,9,CWhat's good:G                          
+OL,10, To follow                              
+OL,19,CWhat's not:G                           
+OL,23,D]CReviewed Oct 2025 by Nick Schollar   
+OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
+FL,431,432,433,435,8ff,100
+PN,43409
+SC,0009
+PS,8000
+CT,8,T
+RE,0
+OL,0,        wxTED New page          %H:%M.%S
+OL,1,T|||,,,<l,||,,|,,<l,<l,,<ll,|,l|||||||||
+OL,2,T]S ##j5  {$3j5j53j55hw1 CRT     
+OL,3,T]S  /  +!  /*%/, +!*%/, ++!(.!    C9/9 
+OL,4, Philips 32PW9617   w'screen CRT (2002) 
+OL,5,CStandard:GLevel 2.5                    
+OL,6,CPage memory:G1200                      
+OL,7,CText aspect ratio:GWide-ish            
+OL,9,CWhat's good:GIt's level 2.5 on a CRT.  
+OL,10, Most level 2.5 features work correctly 
+OL,11, including colours, objects, and much   
+OL,12, more. The closely related nexTView EPG 
+OL,13, is included as well as a TOP Text menu 
+OL,14, browser.                               
+OL,16,CWhat's not:GPage caching algorithm not 
+OL,17, as intelligent as newer TVs so you end 
+OL,18, up waiting surprisingly often. No farsi
+OL,19,Gcharacter support. UI generally slow.  
+OL,21,CNote:GPress Time-Text twice to enable  
+OL,22, subpage auto-advancement.              
+OL,23,D]CReviewed Oct 2025 by Nick Schollar   
 OL,24,AInfoB LED/OLED/QLED CLCD/Plasma FSTBs  
 FL,431,432,433,435,8ff,100
