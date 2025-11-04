@@ -7,21 +7,28 @@ CT,25,T
 RE,0
 OL,0,        wxTED New page          %H:%M.%S
 OL,1,M]DA note about this page...      0/16  
+OL,3, 
 OL,4,CWhen CEEFAX closed down on 23rd October
 OL,5,C2012, I put together a special tribute 
 OL,6,Cfor my YouTube channel.                
+OL,7, 
 OL,8, This was a blog of my own memories of  
 OL,9, the service, presented as a series of  
 OL,10, teletext pages with music, in the style
 OL,11, of the "Pages from Ceefax" in-vision.  
+OL,12, 
 OL,13, The pages were originally created in a 
 OL,14, demo version of the Cebra editor, and a
 OL,15, BBC Micro emulator was used to create  
 OL,16, an authentic-looking teletext display. 
+OL,17, 
 OL,18, I have converted the original "pages"  
 OL,19, to the TTI format used by Teefax/VBitPi
+OL,20, 
 OL,21, The original video can still be seen at
 OL,22,         Fyoutu.be/vqwL4XtDLyg          
+OL,23, 
+OL,24, 
 FL,645,648,649,641,8ff,640
 PN,64402
 SC,0002
