@@ -1,0 +1,158 @@
+DE,P641 Introduction
+DS,Robert Hampton
+SP,C:\Users\Robert\Documents\Teletext\P641-Introduction.tti
+PN,64101
+SC,0001
+PS,8000
+CT,25,T
+RE,0
+OL,0,        Six-Forty Intro
+OL,1,V7cs7k## k!p u`p`p`z```pj0$p0p0       
+OL,2,V5b#ur   j 555j jjjjjjj j 55555   G1/5
+OL,3,Vurppppsqqqsrprsrsrsrsrqqsqqqppppppp
+OL,4, 
+OL,5, Hello, welcome toCSix-Forty.GMy name is
+OL,6,CRobert HamptonGand these pages are     
+OL,7, coming to you from my top secret lair  
+OL,8, (my flat) in Liverpool.                
+OL,9, 
+OL,10, I suppose the real question is "why?"  
+OL,11, Well, as with most contributors to     
+OL,12,CTeefax,Gthe answer is "why not?"       
+OL,13, 
+OL,14, As a child, I was fascinated by the    
+OL,15, teletext system. When the family first 
+OL,16, got a teletext set, I often got shouted
+OL,17, at by my parents because I would call  
+OL,18, up text pages while they were trying to
+OL,19, watchCCoronationCStreet.               
+OL,20, 
+OL,21, On rare occasions when I had the TV to 
+OL,22, myself, I browsed teletext for hours.  
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,ABlog     BArt     CSudoku    FMoundcurn
+FL,642,643,648,649,8ff,640
+PN,64102
+SC,0002
+PS,8000
+CT,25,T
+RE,0
+OL,0,        Six-Forty Intro
+OL,1,V7cs7k## k!p u`p`p`z```pj0$p0p0       
+OL,2,V5b#ur   j 555j jjjjjjj j 55555   G2/5
+OL,3,Vurppppsqqqsrprsrsrsrsrqqsqqqppppppp
+OL,4, 
+OL,5, When I got an Acorn A3010 in 1993,     
+OL,6, I was excited to see that it came with 
+OL,7,CMode 7Gjust like the predecessor BBC   
+OL,8, Micro computers did.                   
+OL,9, 
+OL,10, I quickly learned how to assemble      
+OL,11, teletext pages to produce colourful    
+OL,12, chunky graphics.                       
+OL,13, 
+OL,14, I even created a teletext "service" of 
+OL,15, my own, calledCFabtextG(I really liked 
+OL,16, the word "fab" for some reason). It had
+OL,17, news, games and feature pages, some of 
+OL,18, which were written by bemused friends  
+OL,19, and family members.                    
+OL,20, 
+OL,21, Sadly the floppy disc on which Fabtext 
+OL,22, was saved is long gone.                
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,ABlog     BArt     CSudoku    FMoundcurn
+FL,642,643,648,649,8ff,640
+PN,64103
+SC,0003
+PS,8000
+CT,25,T
+RE,0
+OL,0,        Six-Forty Intro
+OL,1,V7cs7k## k!p u`p`p`z```pj0$p0p0       
+OL,2,V5b#ur   j 555j jjjjjjj j 55555   G3/5
+OL,3,Vurppppsqqqsrprsrsrsrsrqqsqqqppppppp
+OL,4, 
+OL,5, I was a regular teletext viewer right  
+OL,6, through the 90s and early 00s. Sadly we
+OL,7, then upgraded to SkyDigital, which by  
+OL,8, then had dropped the old-school text   
+OL,9, services from most channels.           
+OL,10, 
+OL,11, Our house did not have a good aerial so
+OL,12, I couldn't even switch back to analogue
+OL,13, for my Ceefax fix.                     
+OL,14, 
+OL,15, The closure of Teletext Ltd in 2009,   
+OL,16, and then Ceefax in 2012, triggered a   
+OL,17, wave of nostalgia in me. I was thrilled
+OL,18, a few years later to learn aboutCTeefax
+OL,19, and the community of teletext fans.    
+OL,20, 
+OL,21, Thanks to Peter Kwan who has trusted me
+OL,22, with edit access to the Teefax repo. :)
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,ABlog     BArt     CSudoku    FMoundcurn
+FL,642,643,648,649,8ff,640
+PN,64104
+SC,0004
+PS,8000
+CT,25,T
+RE,0
+OL,0,        Six-Forty Intro
+OL,1,V7cs7k## k!p u`p`p`z```pj0$p0p0       
+OL,2,V5b#ur   j 555j jjjjjjj j 55555   G4/5
+OL,3,Vurppppsqqqsrprsrsrsrsrqqsqqqppppppp
+OL,4, 
+OL,5, Sitting here now, putting together the 
+OL,6, pages with some chunky graphics, takes 
+OL,7, me right back to those days editing    
+OL,8,CFabtext.GThe only difference is some   
+OL,9, people might actually see this.        
+OL,10, 
+OL,11, Something I am working on is using     
+OL,12, modern scripting techniques to produce 
+OL,13, teletext. The blog on pageC642Gis an   
+OL,14, example of this - it is generated from 
+OL,15, my website automatically.              
+OL,16, 
+OL,17, Likewise theCSudokuGon pageC648Gwill be
+OL,18, automatically generated to update the  
+OL,19, puzzle on a daily basis.               
+OL,20, 
+OL,21, It's a fun way for me to experiment and
+OL,22, sharpen my Python skills.              
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,ABlog     BArt     CSudoku    FMoundcurn
+FL,642,643,648,649,8ff,640
+PN,64105
+SC,0005
+PS,8000
+CT,25,T
+RE,0
+OL,0,        Six-Forty Intro
+OL,1,V7cs7k## k!p u`p`p`z```pj0$p0p0       
+OL,2,V5b#ur   j 555j jjjjjjj j 55555   G5/5
+OL,3,Vurppppsqqqsrprsrsrsrsrqqsqqqppppppp
+OL,4, 
+OL,5, Please browse around and enjoy the rest
+OL,6, of the pages. There are some attempts a
+OL,7, at teletext art, and a tribute page to 
+OL,8, Ceefax that I did way back in 2012.    
+OL,9, 
+OL,10, I've also taken the opportunity to go  
+OL,11, on at length about some of my other    
+OL,12, obsessions, including trains. I am part
+OL,13, of two societies which are involved in 
+OL,14, preserving old Merseyrail trains.      
+OL,15, 
+OL,16, If you have any comments on the pages, 
+OL,17, I'd love to hear from you. The easiest 
+OL,18, way to get hold of me is on social     
+OL,19, media atFhampo.bsky.socialGor via my   
+OL,20, (very infrequently updated) website at 
+OL,21,Fhampo.uk                               
+OL,22,          C  Thanks for reading! ` Rob x
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,ABlog     BArt     CSudoku    FMoundcurn
+FL,642,643,648,649,8ff,640
