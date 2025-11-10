@@ -2,6 +2,7 @@ DE,Newsreel
 PN,64501
 SC,0001
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,Q p p p p p p p p p p p p p p p p p p p 
 OL,2,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -23,6 +24,7 @@ OL,23,Q # # # # # # # # # # # # # # # # # # #
 PN,64502
 SC,0002
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,R]CM  CLASS 502 PRESERVATION TRUST      
 OL,2,B]CM  CLASS 502 PRESERVATION TRUST      
@@ -51,6 +53,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64503
 SC,0003
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,R]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -74,6 +77,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64504
 SC,0004
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,R]C                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -99,6 +103,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64505
 SC,0005
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]C                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -124,6 +129,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64506
 SC,0006
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -150,6 +156,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64507
 SC,0007
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -176,6 +183,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64508
 SC,0008
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -201,6 +209,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64509
 SC,0009
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -223,6 +232,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64510
 SC,0010
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -248,6 +258,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64511
 SC,0011
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -273,6 +284,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64512
 SC,0012
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -296,6 +308,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64513
 SC,0013
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -320,6 +333,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64514
 SC,0014
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,B]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -344,6 +358,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64515
 SC,0015
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -368,6 +383,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64516
 SC,0016
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -391,6 +407,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64517
 SC,0017
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -410,6 +427,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64518
 SC,0018
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -433,6 +451,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64519
 SC,0019
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]                                      
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -458,6 +477,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64520
 SC,0020
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,B]S                                     
 OL,2,R]S7j(lh$< w!75c$j{h$<4<hlh$44,4=bhlhl  
@@ -482,6 +502,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64521
 SC,0021
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]W          pp0`0  `p0 ppp ppp         
 OL,2,T]W         j  j5  ,"/lt"/lt         
@@ -510,6 +531,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64522
 SC,0022
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]Wu55v1k!75w$u5     S
@@ -535,6 +557,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64523
 SC,0023
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]Wu55v1k!75w$u5     S
@@ -560,6 +583,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64524
 SC,0024
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]Wu55v1k!75w$u5     S
@@ -585,6 +609,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64525
 SC,0025
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]Wv4w$6455k!  55v1  S
@@ -611,6 +636,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64526
 SC,0026
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]Wv4w$6455k!  55v1  S
@@ -636,6 +662,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64527
 SC,0027
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]Wv4w$6455k!  55v1  S
@@ -661,6 +688,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64528
 SC,0028
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]Wv4w$6455k!  55v1  S
@@ -686,6 +714,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64529
 SC,0029
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]Ww!55w!74k!v1      S
@@ -706,6 +735,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64530
 SC,0030
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]W=85w!=85w$w!w$v!  S
@@ -729,6 +759,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64531
 SC,0031
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]W=85w!=85w$w!w$v!  S
@@ -753,6 +784,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64532
 SC,0032
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]W=85w!=85w$w!w$v!  S
@@ -774,6 +806,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64533
 SC,0033
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]W747574v4k!w!      S
@@ -796,6 +829,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64534
 SC,0034
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]W=85w!w$7!u5       S
@@ -817,6 +851,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64535
 SC,0035
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]W=85w!w$7!u5       S
@@ -840,6 +875,7 @@ OL,24,AOn This Day  BSudoku CMoundcurn  FIntro
 PN,64536
 SC,0036
 CT,25,T
+PS,C000
 OL,0,        TRAINTEXT               H:M.S
 OL,1,T]Wj?/%`6.t /o5 T\]                   Sj
 OL,2,T]W*/o4vj{b%`?  T\]W=85w!w$7!u5       S
