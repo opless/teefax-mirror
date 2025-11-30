@@ -3,9 +3,45 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 29th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 30th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0750FMatch of the Day
+OL,6,G0900FSunday with Laura Kuenssberg
+OL,7,G1000FPolitics East
+OL,8,G1030FSunday Morning Live
+OL,9,G1130FPrayer and Reflection from...
+OL,10,G1200FBargain Hunt
+OL,11,G1300FBBC News
+OL,12,G1310FWeather for the Week Ahead
+OL,13,G1315FSongs of Praise: Advent Hope
+OL,14,G1350FPoints of View
+OL,15,G1405FRuby Gillman: Teenage Kraken
+OL,16,G1525FTiddler
+OL,17,G1550FRoom on the Broom
+OL,18,G1615FKingdom
+OL,19,G1705FBBC News
+OL,20,G1715FLook East
+OL,21,G1720FWeather
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,622,104,535,700,0,620
+PN,62102
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 30th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G1725FCountryfile
+OL,6,G1825FKingdom
+OL,7,G1915FStrictly Come Dancing: The Results
+OL,8,G2000FAntiques Roadshow: Unseen...
+OL,9,G2100FPrisoner 951
+OL,10,G2205FBBC News and Weather
+OL,11,G2230FLook East
+OL,12,G2235FMatch of the Day
+OL,13,G2350FThe Graham Norton Show
+OL,14,G0045FWeather for the Week Ahead
+OL,15,G0050FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
