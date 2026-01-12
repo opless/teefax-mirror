@@ -3,9 +3,17 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 11th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Mon 12th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G2200FBBC News and Weather
+OL,6,G2230FLook East
+OL,7,G2240FIndustry
+OL,8,G2340FBeauty Queen and the Catfish
+OL,9,G0025FBeauty Queen and the Catfish
+OL,10,G0110FBeauty Queen and the Catfish
+OL,11,G0155FWeather for the Week Ahead
+OL,12,G0200FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
