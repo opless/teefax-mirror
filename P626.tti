@@ -3,23 +3,34 @@ DE,TV
 PS,8040
 PN,62601
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Wed 28th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 30th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC4
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,5,G1858FThis is BBC Four
-OL,6,G1900FGreat British Railway Journeys
-OL,7,G1930FWainwright Walks
-OL,8,G2000FBrian Cox's Adventures in Space...
-OL,9,G2100FTribe
-OL,10,G2200FSmiley's People
-OL,11,G2300FSmiley's People
-OL,12,G2355FSleuths, Spies &amp; Sorcerers:...
-OL,13,G0055FGreat British Railway Journeys
-OL,14,G0125FWainwright Walks
-OL,15,G0155FTribe
-OL,16,G0255FBrian Cox's Adventures in Space...
-OL,17,G0355FThis is BBC Four
-OL,18,G0530FThis is BBC Four
+OL,6,G1900FTOTP: 1999
+OL,7,G1930FTOTP: 1999
+OL,8,G2000FTOTP: 1979
+OL,9,G2035FTOTP 1989
+OL,10,G2105FTOTP: 1976
+OL,11,G2145FTOTP: 1976
+OL,12,G2225FThe Who at the Electric Proms
+OL,13,G2315FPete Townshend: This Cultural Life
+OL,14,G2345FThe Who at Glastonbury
+OL,15,G0045FTOTP: 1999
+OL,16,G0115FTOTP: 1999
+OL,17,G0145FTOTP: 1979
+OL,18,G0225FTOTP 1989
+OL,19,G0255FTOTP: 1976
+OL,20,G0335FThis is BBC Four
+OL,21,G0530FThis is BBC Four
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,627,104,535,700,0,620
+PN,62602
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Fri 30th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC4
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,627,104,535,700,0,620
