@@ -3,9 +3,39 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 31st
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 01st
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G0750FMatch of the Day
+OL,6,G0900FSunday with Laura Kuenssberg
+OL,7,G1000FPolitics East
+OL,8,G1030FSunday Morning Live
+OL,9,G1130FHomes Under the Hammer
+OL,10,G1230FBargain Hunt: Collectors Special
+OL,11,G1315FBBC News
+OL,12,G1325FWeather for the Week Ahead
+OL,13,G1330FSongs of Praise: The Parables...
+OL,14,G1405FMOTD Live: Women's Super...
+OL,15,G1640FGladiators
+OL,16,G1740FBBC News
+OL,17,G1750FLook East
+OL,18,G1755FWeather
+OL,19,G1800FCountryfile
+OL,20,G1900FAntiques Roadshow
+OL,21,G2000FCall the Midwife
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,622,104,535,700,0,620
+PN,62102
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 01st
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G2100FThe Night Manager
+OL,6,G2200FBBC News and Weather
+OL,7,G2225FLook East
+OL,8,G2230FMatch of the Day
+OL,9,G2340FThe Women's Football Show
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
