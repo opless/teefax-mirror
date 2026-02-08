@@ -3,11 +3,41 @@ DE,TV
 PS,8040
 PN,62101
 SC,0001
-OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sat 07th
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 08th
 OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
 OL,3,Q -,.R-,.T-,.T//////,//-////////////////
-OL,5,G1000FSaturday Kitchen Live
-OL,6,G1130FBargain Hunt
+OL,5,G0730FMatch of the Day
+OL,6,G0900FSunday with Laura Kuenssberg
+OL,7,G1000FPolitics East
+OL,8,G1030FSunday Morning Live
+OL,9,G1130FSongs of Praise: Faith and...
+OL,10,G1205FBBC News
+OL,11,G1215FWeather for the Week Ahead
+OL,12,G1220FWinter Olympics 2026
+OL,13,G1635FGladiators
+OL,14,G1735FBBC News
+OL,15,G1750FLook East
+OL,16,G1755FWeather
+OL,17,G1800FCountryfile
+OL,18,G1900FAntiques Roadshow
+OL,19,G2000FCall the Midwife
+OL,20,G2100FLord of the Flies
+OL,21,G2200FBBC News and Weather
+OL,23,D]Fterrestrialtv.uk      GMore followsH>
+OL,24,ANext  BNews    CRadio    FEngineering
+FL,622,104,535,700,0,620
+PN,62102
+SC,0002
+OL,1,Q 7skR7skT7skT]W   (|$h4|F    Sun 08th
+OL,2,Q 5jR5jT5jT]W     "m'F    BBC1 (E)
+OL,3,Q -,.R-,.T-,.T//////,//-////////////////
+OL,5,G2225FLook East
+OL,6,G2230FMatch of the Day
+OL,7,G2325FSix Nations Rugby Special
+OL,8,G0025FThe Women's Football Show
+OL,9,G0115FThe Graham Norton Show
+OL,10,G0205FWeather for the Week Ahead
+OL,11,G0210FBBC News
 OL,23,D]Fterrestrialtv.uk      GMore followsH>
 OL,24,ANext  BNews    CRadio    FEngineering
 FL,622,104,535,700,0,620
